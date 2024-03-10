@@ -10,8 +10,7 @@ import openai
 import numpy as np
 import glob
 
-os.environ["OPENAI_API_KEY"] = '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'
-
+os.environ["OPENAI_API_KEY"] = 'API_KEY'
 
 # To split our transcript into pieces
 from langchain.text_splitter import RecursiveCharacterTextSplitter
