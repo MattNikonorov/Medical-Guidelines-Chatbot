@@ -1,0 +1,1822 @@
+clinical practice guidelines
+
+Annals of Oncology 26 (Supplement 5): v40–v55, 2015
+doi:10.1093/annonc/mdv277
+
+Thymic epithelial tumours: ESMO Clinical Practice
+Guidelines for diagnosis, treatment and follow-up†
+N. Girard1, E. Rufﬁni2, A. Marx3, C. Faivre-Finn4 & S. Peters5, on behalf of the ESMO Guidelines
+Committee*
+1
+Department of Respiratory Medicine, Expert Centre for Thymic Malignancies, Reference Centre for Orphan Pulmonary Diseases, Hôpital Louis Pradel, Hospices Civils de
+Lyon, Lyon, France; 2Department of Thoracic Surgery, University of Torino, Turin, Italy; 3Institute of Pathology, University Medical Centre Mannheim, University of
+Heidelberg, Mannheim, Germany; 4Institute of Cancer Sciences, The University of Manchester, Manchester Academic Health Science Centre, The Christie NHS Foundation
+Trust, Manchester, UK; 5Department of Medical Oncology, Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland
+
+clinical practice
+guidelines
+
+incidence and epidemiology
+Thymic epithelial tumours represent a heterogeneous group of
+rare thoracic cancers, with reported annual incidence ranging
+from 1.3 to 3.2 per million [1]. Thymic epithelial tumours are
+classiﬁed according to the World Health Organization (WHO)
+histopathological classiﬁcation, which distinguishes thymomas
+from thymic carcinomas.
+
+thymomas
+Thymomas are further subdivided into different types (called
+A, AB, B1, B2, B3 and rare others) based upon the morphology of
+epithelial tumour cells, the relative proportion of the non-tumoural
+lymphocytic component (decreasing from type B1 to B3) and
+resemblance to normal thymic architecture (Table 1) [2, 3]. The
+term ‘benign thymoma’ should be avoided. Thymomas are far
+more frequent than thymic carcinomas, which have an incidence
+of 0.2 to 0.5 per million [3].
+
+thymic carcinomas
+Thymic carcinomas are similar to their extrathymic counterpart,
+the most frequent subtype being squamous cell carcinoma.
+Neuroendocrine tumours may occur in the thymus, and will not
+be discussed in these guidelines; while localised primary thymic
+neuroendocrine tumours may beneﬁt from surgical resection,
+similar to other thymic carcinomas, the prognosis is poor given
+frequent recurrences; for recurrent, advanced and metastatic
+tumours, the management actually follows that of extra-thoracic
+neuroendocrine tumours.
+
+epidemiology
+Mean age at diagnosis is 50–60 years of age, but thymic tumours
+may actually be diagnosed in children as well as in elderly
+patients. There is no consistent gender predilection in thymomas
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4,
+CH-6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Committee: July 2015.
+
+overall, even if a slight female preponderance has been reported
+for type A, AB and B1 subtypes in most studies, and a male predominance in carcinomas [2–7].
+No environmental or infectious factors have been demonstrated to play a role in the pathogenesis of thymic epithelial
+tumours. Reports on development of thymoma after radiation,
+solid-organ transplantation and immunosuppression, including
+the context of human immunodeﬁciency virus infection, are
+rare; differential diagnosis with thymic rebound hyperplasia
+may be discussed in this setting (see below).
+Genetic risk factors, such as multiple endocrine neoplasia
+1 (MEN1), may inﬂuence the development of thymomas, as well
+as thymic carcinoids, given their reported familial occurrence as
+well as their association with cancer susceptibility syndromes [8].
+Moreover, extrathymic haematopoietic cancers (mostly diffuse
+large B-cell lymphoma and leukaemia) and a broad spectrum of
+solid cancers (stomach, pancreas, colon and thyroid) have been
+reported to occur more frequently in thymoma patients, particularly subsequently [9]. This might be related to a shared unknown
+oncogenic trigger, a thymoma-associated immune deﬁciency or
+(less likely) to adverse effects of treatments.
+
+diagnosis
+imaging and laboratory tests
+Standard imaging for thymic tumours is i.v. contrast-enhanced
+computed tomography (CT) scan of the thorax, allowing a complete exploration of the mediastinum and the pleura from the
+apex to the costodiaphragmatic recesses [IV, A]. CT is equal or
+superior to magnetic resonance imaging (MRI) for the diagnosis
+of mediastinal anterior masses, except in the setting of cystic
+lesions [IV, B] [10].
+One-third of patients with thymoma present with autoimmune
+disorders (Table 2), mainly myasthenia gravis which is particularly common in type AB, B1 and B2 thymomas and almost always
+associated with anti-acetylcholine receptor antibodies (Table 1)
+[11]. Other frequent disorders include pure red cell aplasia (5% of
+cases) and hypogammaglobulinaemia (Good syndrome: 5% of
+cases) [12].
+
+© The Author 2015. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 1. Histological subtypes of thymic epithelial tumours: relative frequency, frequency of myasthenia gravis and correlation with stage
+Relative frequency
+
+Type A
+Type AB
+Type B1
+Type B2
+Type B3
+Carcinoma
+
+12% (3%–26%)
+28% (15%–43%)
+18% (6%–53%)
+26% (8%–41%)
+16% (3%–35%)
+18% (1%–28%)
+
+Myasthenia gravis
+
+15% (0%–35%)
+20% (5%–42%)
+40% (5%–69%)
+50% (23%–73%)
+50% (25%–65%)
+<5%
+
+Masaoka stage
+I
+II
+
+III
+
+IVA
+
+IVB
+
+60%
+67%
+50%
+32%
+19%
+10%
+
+8%
+6%
+9%
+28%
+27%
+45%
+
+<1%
+1%
+3%
+8%
+15%
+15%
+
+<1%
+1%
+1%
+3%
+3%
+20%
+
+31%
+26%
+37%
+29%
+36%
+10%
+
+Data are based on references [5–8].
+
+In addition to recording a complete history and conducting a
+full clinical examination (looking especially at neurological
+signs), systematic immunological check-up is recommended
+when a diagnosis of thymic epithelial tumour is suspected, including complete blood cells count with reticulocytes and serum
+protein electrophoresis, as well as anti-acetylcholine receptor
+and anti-nuclear antibodies tests [V, A]. Indeed, frequent
+immune disorders associated with thymoma may impact the
+course of all therapeutic interventions including surgery, radiotherapy as well as chemotherapy.
+
+Table 2. Autoimmune disorders associated with thymoma [11, 12]
+Neuromuscular
+
+Myasthenia gravis
+Myotonic dystrophy
+Limbic encephalitis
+Peripheral neuropathy
+Autonomic neuropathy
+Acquired neuromyotonia
+Morvan syndrome (neuromyotonia and
+encephalitis)
+Stiff person syndrome
+Cerebellar degeneration
+Polymyositis (carcinomas)
+
+Haematological disorders
+
+Red cell aplasia
+Pernicious anaemia
+Erythrocytosis
+Pancytopoenia
+Haemolytic anaemia
+Leukaemia
+Multiple myeloma
+
+Collagen and autoimmune
+disorders
+
+Systemic lupus erythematosus
+Rheumatoid arthritis
+Sjogren’s syndrome
+Scleroderma
+Interstitial pneumonitis
+
+Immune deficiency
+disorders
+
+Hypogammaglobulinaemia (Good
+syndrome)
+T-cell deficiency syndrome
+
+Endocrine disorders
+
+Multiple endocrine neoplasia
+Cushing’s syndrome
+Thyroiditis
+
+Dermatological disorders
+
+Pemphigus
+Lichen planus
+Chronic mucosal candidiasis
+Alopecia areata
+
+Miscellaneous
+
+Giant cell myocarditis
+Nephrotic syndrome
+Ulcerative colitis
+Hypertrophic osteoarthropathy
+
+diagnosis approach
+The diagnosis of any thymic epithelial tumour relies on making
+the differential diagnosis with other anterior mediastinal tumours
+and non-malignant thymic lesions [13]. CT is the imaging modality of choice. The need for pretreatment biopsy depends on
+the resectability of the tumour [14–16].
+Thymic epithelial tumours are the most frequent cause of anterior mediastinal mass, accounting for 35% of cases; the most
+relevant differential diagnoses include lymphomas (Hodgkin’s
+or non-Hodgkin’s) in ∼25% of cases and germ-cell tumours
+(teratoma or seminoma/non-seminomatous tumours) in ∼20%
+of cases [13]. Thymic carcinoma must be differentiated from
+lung carcinoma, as well as from rarer entities, such as NUT carcinomas [17].
+Clinical judgement based on a complete history and physical,
+especially neurological, examination, correlated with laboratory
+tests and radiological features, helps to develop a presumptive
+diagnosis. Thymoma is the most likely diagnosis when facing a
+mediastinal mass associated with one of the above autoimmune
+diseases, while thymic carcinoma patients typically have unspeciﬁc local symptoms [IV, A]. Lymphoma may be considered in
+case of rapid onset of B-signs, coexistent lymphadenopathy or
+elevated lactate dehydrogenase. Teratoma usually shows a heterogeneous morphology on imaging, with fat and cystic pattern
+[18]. Seminomas and non-seminomatous germ-cell tumours may
+be large and have a fulminant onset. Elevated serum β-human
+chorionic gonadotropin may be observed in seminomas, along
+with elevated alphafetoprotein in non-seminomatous germ-cells
+tumours.
+Differentiating thymic malignancy from hyperplasia or
+non-involuted thymus may be challenging. Thymic rebound
+hyperplasia should be considered after stress, injuries, chemotherapy,
+radiotherapy,
+anti-hormonal
+treatment
+or
+
+Volume 26 | Supplement 5 | September 2015
+
+corticosteroids. Thymic lymphoid hyperplasia is most commonly observed in myasthenia gravis, but also in the setting of
+hyperthyroidism, connective tissue or vascular disease. CT
+
+doi:10.1093/annonc/mdv277 | v
+
+clinical practice guidelines
+features include low-attenuation, symmetric and fatty pattern
+maintaining the bi-pyramidal shape of the thymus [18]. In
+equivocal cases at CT, chemical-shift MRI may detect microscopic fatty inﬁltration by showing homogeneous signal decrease on
+opposed phase images relative to in-phase images, which is not
+observed in thymoma [IV, B] [19]. Therapeutic intervention is
+usually not required if the lesion is <30 mm, given a low risk of
+progression or thymic malignancy [III, D] [20].
+18-Fluorodeoxyglucose positron emission tomography (PET)
+scan is generally not recommended to assess thymic masses [IV, C].
+Standard uptake values may be higher in type B3 thymomas
+and thymic carcinomas; however, thymic hyperplasia may also
+present with hypermetabolism [21]. PET scan is optional in the
+case of tumours with aggressive histology and an advanced stage
+to complete the staging work-up or further characterise lesions
+suspicious for recurrences.
+
+need for biopsy
+Pretreatment biopsy is not required if the diagnosis of thymic
+tumour is highly probable and upfront surgical resection is
+achievable (see below, deﬁnition of resectability) [IV, E]. Biopsy is
+required in all other clinical situations [IV, A]: approaches may
+consist of percutaneous core-needle biopsy or incisional surgical biopsy through mediastinotomy or mini-thoracotomy, with
+sensitivity rates ranging from 40% to 93% [22]. Biopsies that
+are deep and multiple are preferred. Pleural spaces should be
+respected to avoid tumour cell seeding. Fine-needle aspiration
+is generally not recommended [IV, D].
+thymomas. Although designed for surgical resection specimens,
+the WHO classiﬁcation may be used for small biopsies [V, A].
+However, thymoma subtyping on small biopsies is usually not
+needed for the therapeutically relevant distinction between
+lymphoma and solid tumour. In any case, diagnostic discrepancies
+between core-needle and resection specimen histology can be
+anticipated, given the frequent occurrence of histological
+tumour heterogeneity that may be missed due to sampling error
+[23]. The recent proposal of major and minor morphological
+and immunohistochemical criteria to better individualise each
+thymic epithelial tumour entity aims at addressing those issues,
+and has been integrated in the revised WHO classiﬁcation
+[3, 24]. Immunohistochemical markers may be helpful,
+including cytokeratins and p63 expression for normal and
+neoplastic epithelial cells, and terminal deoxynucleotidyl
+transferase expression in immature T cells (usually observed
+in types AB, B1, B2 and B3 thymomas, and absent in
+carcinomas and type A thymomas) [3].
+thymic carcinomas. Immunohistochemistry with anti-CD117/
+KIT and anti-CD5 antibodies helps to establish the thymic
+origin in ∼80% of mediastinal carcinomas [V, A]. Since these
+markers are not absolutely speciﬁc, correlation with the clinical
+setting is always recommended, and is mandatory in the subset
+of 20% of thymic carcinomas without expression of CD117/KIT
+and CD5 [3].
+In thymic tumours showing more than one histological
+pattern, each component should be listed (starting with the predominant one) and be quantiﬁed in 10% increments; a thymic
+
+v | Girard et al.
+
+Annals of Oncology
+
+carcinoma component should always be mentioned ﬁrst [V, C].
+In case of difﬁcult diagnosis, it is recommended to consult a
+second pathologist or refer the case to a thymic tumour pathology panel.
+
+staging and risk assessment
+staging
+Thymic epithelial tumours are routinely staged according to the
+Masaoka-Koga staging system (Table 3) [III, A] [25–27], which is
+correlated with overall survival (OS) [4, 28, 29]. Masaoka-Koga
+staging is a surgical pathology system that is assessable only after
+surgical resection of the tumour. A typical feature of thymic epithelial tumours is the correlation between the WHO classiﬁcation
+and stage at diagnosis (Table 1), which may explain its reported
+prognostic value [4–6] (Figures 1–3).
+The International Association for the Study of Lung Cancer
+(IASLC) Staging Prognostic Factors Committee, together with
+the International Thymic Malignancy Interest Group (ITMIG),
+recently proposed a Tumour–Node–Metastasis (TNM)-based
+staging system for thymic malignancies, based on OS analyses of
+a retrospective international database of more than 10 000 cases
+(Table 4) [30]. The TNM-based approach has the advantage of
+being more appropriate both for thymoma and thymic carcinomas, which present with a higher propensity toward nodal and
+distant metastatic invasion. The IASLC/ITMIG TNM system of
+thymic tumours will be incorporated as the ofﬁcial thymic tumour
+staging system into the 8th edition of the TNM staging system of
+thoracic malignancies expected in 2016–2017. From our standpoint, the Masaoka-Koga staging should remain the standard for
+the routine management of patients, pending the approval of the
+American Joint Committee on Cancer (AJCC) and Union for
+International Cancer Control (UICC) [III, A]. Moreover, given the
+major switch that the TNM system represents and the limited
+amount of fair level of evidence data to support our current treatment strategies (especially postoperative radiotherapy), the value of
+the TNM system to drive the therapeutic strategy has to be assessed.
+Correlative clinical data based on this system may be encouraged in
+a research setting.
+The assessment of resectability is mostly based on the surgeon’s
+expertise; it is recommended to discuss indications for surgery in a
+multidisciplinary tumour board setting [V, B]. There is no recognised clinical staging system, and the treatment strategy for thymic
+epithelial tumours is primarily based on whether the tumour may
+be resected upfront or not [IV, A], as complete resection has been
+identiﬁed as the most consistent and signiﬁcant prognostic factor of
+disease-free survival and OS [5, 6, 29]. Correlation between clinical
+and surgical pathology stage is higher in advanced stages, given the
+identiﬁcation of vessel invasion, enlarged lymph nodes, pleural/
+pericardial lesions or even systemic metastases [28]. Preoperative
+CT ﬁndings reported to be associated with tumour invasiveness
+and/or completeness of resection include: tumour size (>5/7/8 cm,
+depending on studies), lobulated or irregular contours, calciﬁcations, inﬁltration of surrounding fat, lung inﬁltration, great vessel
+invasion or encirclement [31–33]. The new TNM staging may even
+provide more help in formalising resectability: T1–3 level of invasion refers to structures amenable to surgical resection, while T4
+level of invasion includes unresectable structures (Table 4).
+
+Volume 26 | Supplement 5 | September 2015
+
+International Thymic Malignancy Interest Group, 2011
+
+10-year overall
+survival
+
+Stage I
+
+Grossly and microscopically completely encapsulated tumour
+
+– Invasion into but not through the capsule
+– In the absence of capsule, absence of invasion into
+surrounding tissues
+
+84% (81%–86%)
+
+Stage IIA
+
+Microscopic transcapsular invasion
+
+– Microscopic transcapsular invasion (<3 mm)
+
+83% (79%–87%)
+
+8% (7%–8%)
+
+25% (22%–29%)
+
+Stage IIB
+
+Macroscopic invasion into thymic or surrounding fatty tissue,
+or grossly adherent to but not breaking through the
+mediastinal pleura or pericardium
+
+– Gross extension into normal thymus or perithymic fat
+surrounding the tumour (microscopically confirmed)
+– Adherence to pleura or pericardium, with microscopic
+confirmation of perithymic invasion
+
+Stage III
+
+Macroscopic invasion into neighbouring organ (i.e.
+pericardium, great vessel or lung)
+
+– Microscopic invasion of the mediastinal pleura (either
+partial or penetrating the elastin layer)
+– Microscopic invasion of the pericardium (either partial in
+the fibrous layer or penetrating through to the serosal layer)
+– Microscopically confirmed direct penetration into the outer
+elastin layer of the visceral pleura or into the lung
+parenchyma
+– Invasion into the phrenic or vagus nerves (microscopically
+confirmed)
+– Invasion into or penetration through major vascular
+structures (microscopically confirmed)
+– Adherence (i.e. fibrous attachment) of lung or adjacent
+organs only if there is mediastinal pleural or pericardial
+invasion (microscopically confirmed)
+
+70% (64%–75%)
+
+29% (27%–31%)
+
+59% (44%–76%)
+
+Stage IVA
+
+Pleural or pericardial metastasis
+
+– Microscopically confirmed separate nodules in the visceral
+or parietal pleural, pericardial or epicardial surfaces
+
+42% (26%–58%)
+
+71% (34%–100%)
+
+76% (58%–100%)
+
+Stage IVB
+
+Lymphogenous or haematogenous metastasis
+
+– Lymphogenous or haematogenous metastasis
+
+53% (32%–73%)
+
+57% (24%–90%)
+
+54% (37%–67%)
+
+a
+
+Information reprinted from [27] with permission of John Wiley & Sons, Inc.
+
+10-year cumulative incidence
+of recurrence
+Thymoma
+Thymic carcinoma
+
+clinical practice guidelines
+
+doi:10.1093/annonc/mdv277 | v
+
+Masaoka-Koga, 1994
+
+Annals of Oncology
+
+Volume 26 | Supplement 5 | September 2015
+
+Table 3. Staging of thymic epithelial tumours: Masaoka-Koga-based staging system [25, 26], International Thymic Malignancy Interest Group refinements [27] and overall survival and recurrence-free
+survival (range)a [28]
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Figure 1. Treatment algorithm for resectable thymic tumour (Masaoka-Koga stage I–III, TNM stage I–IIIA).
+
+risk assessment
+
+management of resectable disease
+
+Prognostic assessment is challenging, as the impact of tumour
+stage and histology on OS is superseded by the achievement of a
+complete resection in reported series [4–7, 28–30]. Moreover,
+depending on stage, up to 50%–60% of patients actually do not
+die of progression of the thymic tumour [34]. Autoimmune
+disorders have been reported as the cause of death in 25% of
+thymomas, especially those with early-stage tumours. The evolution of these alterations, which are related to the abnormal
+intrathymomatous selection of constitutively autoreactive lymphocytes, does not parallel that of the tumour. This is contrary
+to what is observed in paraneoplastic syndromes that are
+caused by tumour cell-derived cytokines or hormones or by
+cross-reactive antibodies. The management of autoimmune
+syndromes will not be discussed in these guidelines, but should
+be integrated in the oncological management of these patients
+[V, A].
+
+The treatment strategy is based on the resectability of the tumour.
+If complete resection is deemed to be achievable upfront, as it is
+the case in Masaoka-Koga stage I/II and some stage III tumours
+(classiﬁed as stage I, II, IIIA/T3 in the IASLC/ITMIG TNM proposed system), surgery represents the ﬁrst step of the treatment
+[IV, A], possibly followed by postoperative radiotherapy and, less
+frequently, chemotherapy (Table 5).
+
+v | Girard et al.
+
+surgical principles
+The standard approach is median sternotomy [IV, A], which
+allows the wide opening of the mediastinum and both pleural
+cavities, followed by evaluation of macroscopic capsular invasion, inﬁltration of perithymic and mediastinal fat, peritumoural
+and pleural adherences and involvement of surrounding structures [14, 15, 35, 36]. Generally, complete thymectomy
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Figure 2. Treatment algorithm for unresectable thymic tumour (Masaoka-Koga stage III–IVA, TNM stage IIIA–IIIB–IVA).
+
+including the tumour, the residual thymus gland and perithymic
+fat is preferred because local recurrences have been observed
+after partial thymectomy when part of the thymus gland is left
+behind [IV, B]. Thymomectomy—leaving residual thymic tissue
+and perithymic fat behind—alone is an option in stage I
+tumours in non-myasthenic patients [IV, C] [14, 37]. If the
+tumour is widely invasive (stage III/IV), en bloc removal of all
+affected structures, including lung parenchyma (usually through
+limited resection), pericardium, great vessels, nerves and pleural
+implants, should be carried out [IV, A]. Resection of venous
+vascular structures (innominate vein(s) and superior vena
+cava) include partial resection with suturing or complete resection and vessel reconstruction using vascular prosthesis. Areas
+of uncertain resection margins are marked with clips to allow
+precise delivery of postoperative radiotherapy [IV, B]; those
+
+Volume 26 | Supplement 5 | September 2015
+
+areas are also designated on the resection specimen, as discussed below. Phrenic nerve preservation does not affect OS
+but increases the risk of local recurrence [IV, C], and should be
+balanced with the achievement of a complete resection, especially in patients with severe myasthenia gravis [38, 39]. Frozen
+sections to assess tumour involvement of resection margins are
+not recommended [V, D], given the high risk of false-negative
+results [36].
+Minimally invasive surgery is an option for presumed stage I
+and possibly stage II tumours in the hands of appropriately
+trained thoracic surgeons [IV, C] [14, 35, 40]. This includes
+transcervical, extended transcervical, video-assisted thoracoscopy (VATS) and robotic approaches (right or left, right and
+left, right and cervical, left and cervical, subxiphoid and right
+and left, cervical and subxiphoid); robotic surgery may allow a
+
+doi:10.1093/annonc/mdv277 | v
+
+clinical practice guidelines
+better visualisation of the tumour when compared with VATS.
+The choice for minimally invasive resection should not
+
+Annals of Oncology
+
+jeopardise or change the principles that are deemed appropriate for an open approach, especially the achievement of complete resection that may ultimately require switching to an
+open procedure [V, A]. Minimally invasive surgery is not
+recommended for stage III tumours, given the absence of longterm follow-up data [IV, D].
+Lymphadenectomy has historically rarely been carried out
+after resection of thymic tumours. The new IASLC/ITMIG
+TNM staging system of thymic tumours, however, leads to the
+recommendation that locoregional lymphoadenectomy should
+be carried out during resection of all types of thymic tumours. A
+proposed nodal map is available from ITMIG [41]. The proposed N descriptor in the staging system includes:
+
+• anterior region (N1), which involves the anterior mediastinal
+nodes ( prevascular, para-aortic, ascending aorta, superior and
+inferior phrenic and supradiaphragmatic) and the anterior
+cervical nodes (low anterior cervical); and
+• the deep region (N2), which includes the middle mediastinal
+(internal mammary, upper and lower paratracheal, subaortic,
+subcarinal and hilar) and the deep cervical (lower jugular and
+supraclavicular).
+
+Figure 3. Treatment algorithm for metastatic thymic tumour (MasaokaKoga stage IVB, TNM stage IVB).
+
+Routine removal of anterior mediastinal nodes and anterior cervical nodes is recommended [IV, A]. Systematic sampling of
+other intrathoracic sites is encouraged (i.e. paratracheal, aortopulmonary window and subcarinal areas, depending on tumour
+location) in stage III/IV tumours [V, B] [36]. Systematic lymphadenectomy (N1 + N2) is strongly recommended in case of
+
+Table 4. Proposed Tumour–Node–Metastasis staging (International Association for the Study of Lung Cancer Prognostic Factors
+Committee- International Thymic Malignancy Interest Group) [30] and corresponding Masaoka-Koga stage
+Stage
+Tumour
+T1
+
+Descriptors
+T1a
+T1b
+
+T2
+T3
+T4
+Node
+N0
+N1
+
+N0 No nodal involvement
+N1 Anterior (perithymic) nodes (IASLC levels 1, 3a, 6 and/or supradiaphragmatic/inferior phrenics/
+pericardial)
+N2 Deep intrathoracic or cervical nodes (IASLC levels 2, 4, 5, 7, 10 and/or internal mammary nodes)
+
+N2
+Metastasis
+M0
+M1
+
+M1a
+M1b
+
+Stage grouping
+I
+II
+IIIA
+IIIB
+IVA
+IVB
+
+v | Girard et al.
+
+Encapsulated or unencapsulated, with or without extension into the mediastinal fat
+Extension into the mediastinal pleura
+Direct invasion of the pericardium (partial or full-thickness)
+Direct invasion of the lung, the brachiocephalic vein, the superior vena cava, the chest wall, the phrenic nerve
+and/or hilar (extrapericardial) pulmonary vessels
+Direct invasion of the aorta, arch vessels, the main pulmonary artery, the myocardium, the trachea or the
+oesophagus
+
+No metastatic pleural, pericardial or distant sites
+Separate pleural or pericardial nodule(s)
+Pulmonary intraparenchymal nodule or distant organ metastasis
+Corresponding Masaoka-Koga stage
+
+T1N0M0
+T2N0M0
+T3N0M0
+T4N0M0
+T any N0,1 M0,1a
+T any N0-2 M0-1b
+
+I, IIA, IIB, III
+III
+III
+III
+IVA, IVB
+IVB
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Table 5. Stage-matched therapeutic strategy
+Masaoka-Koga
+stage
+
+Thymoma
+
+Thymic carcinoma
+
+Stage I
+
+Upfront surgery [IV, A]
+No biopsy [IV, E]
+If complete resection (R0): no postoperative radiotherapy [II, E]
+If incomplete resection (R1): postoperative radiotherapy
+(50–54 Gy) [IV, B]
+
+Upfront surgery [IV, A]
+No biopsy [IV, E]
+If resection complete (R0): consider postoperative radiotherapy
+(45–50 Gy) [V, C]
+If incomplete resection (R1): postoperative radiotherapy
+(50–54 Gy) [IV, B]
+
+Stage IIA
+
+Upfront surgery [IV, A]
+No biopsy [IV, E]
+If complete resection (R0):
+– Type A–B2: no postoperative radiotherapy [IV, C]
+– Type B3: consider postoperative radiotherapy
+(45–50 Gy) [IV, C]
+If incomplete resection (R1):
+– Postoperative radiotherapy (50–54 Gy) [IV, B]
+
+Upfront surgery [IV, A]
+No biopsy [IV, E]
+If complete resection (R0):
+– Consider postoperative radiotherapy (45–50 Gy) [IV, B]
+If incomplete resection (R1):
+– Postoperative radiotherapy (50–54 Gy) [IV, B]
+– Consider postoperative chemotherapy
+
+Stage IIB
+
+Upfront surgery [IV, A]
+No biopsy [IV, E]
+If complete resection (R0):
+– Type A–B1: no postoperative radiotherapy [IV, C]
+– Type B2–B3: consider postoperative radiotherapy
+(45–50 Gy) [IV, C]
+If incomplete resection (R1):
+– Postoperative radiotherapy (50–54 Gy) [IV, B]
+
+Upfront surgery [IV, A]
+No biopsy [IV, E]
+If complete resection (R0):
+– Consider postoperative radiotherapy (45–50 Gy) [IV, B]
+If incomplete resection (R1):
+– Postoperative radiotherapy (50–54 Gy) [IV, B]
+– Consider postoperative chemotherapy
+
+Stage III–IVA
+
+Resectable tumour (TNM I–IIIA, i.e. T1–3):
+– Upfront surgery [IV, A]
+– Postoperative radiotherapy (45–50 Gy), with boost on areas of
+concern [IV, B]
+Unresectable tumour (TNM IIIA-B, i.e. T3-T4, IVA):
+– Biopsy
+– Primary chemotherapy (prefer anthracycline-based) [III, A]
+– If the tumour becomes resectable:
+– Surgery [III, A]
+– Postoperative radiotherapy (45–50 Gy), with boost on areas
+of concern (R0, R1 resection) [IV, B]
+– If the tumour remains unresectable or R2:
+– Definitive radiotherapy (60 Gy) [IV, B]
+– Option: chemoradiotherapy
+– Option: concurrent chemoradiotherapy (platin and etoposide,
+60 Gy) [III, B]
+
+Resectable tumour (TNM I–IIIA, i.e. T1–3):
+– Upfront surgery [IV, A]
+– Postoperative radiotherapy (40–50 Gy), with boost on areas of
+concern [IV, B]
+– Consider postoperative chemotherapy
+Unresectable tumour (TNM IIIA-B, i.e. T3-T4, IVA):
+– Biopsy
+– Primary chemotherapy (prefer anthracycline-based) [III, A]
+– If the tumour becomes resectable:
+– Surgery [III, A]
+– Postoperative radiotherapy (45–50 Gy), with boost on areas
+of concern (R0, R1 resection) [IV, B]
+– Consider postoperative chemotherapy (R0, R1 resection)
+– If the tumour remains unresectable or R2:
+– Definitive radiotherapy (60 Gy) [IV, B]
+– Option: chemoradiotherapy
+– Option: concurrent chemoradiotherapy (platin and etoposide,
+60 Gy)
+
+Stage IVB
+
+Definitive chemotherapy [III, A]
+– If the tumour becomes resectable, consider:
+– Surgery and postoperative radiotherapy
+– Definitive radiotherapy
+
+Definitive chemotherapy [III, A]
+
+thymic carcinoma due to the high rate of lymphatic spread (20%
+versus 3% in thymomas) [V, B].
+
+surgical pathology principles
+Communication between surgeons and pathologists is required to
+accurately stage thymic epithelial tumours [V, A] [36]. The
+proper orientation of the specimen and the designation of
+
+Volume 26 | Supplement 5 | September 2015
+
+involved structures, organs or areas of likely residual microscopic
+or macroscopic disease are the primary responsibility of the operating surgeon, and may be done using a mediastinal board [V, B].
+The ﬁnal pathological examination leads to a ﬁnal histological
+diagnosis and staging of the tumour, based on the WHO classiﬁcation and the Masaoka-Koga system, respectively (Tables 1
+and 3). Staging according to the proposed IASLC/ITMIG TNM
+system is optional [V, C]. Given the potential heterogeneity of
+
+doi:10.1093/annonc/mdv277 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+thymic epithelial tumours, a sufﬁcient number of representative
+sections should be examined regardless of the tumour diameter
+(at least ﬁve sections up to a diameter of 5 cm, with one additional block per additional centimetre of maximal diameter); if
+the margin is <1 mm, at least three additional sections through
+this area should be obtained [V, B]. Completeness of resection
+should be assessed, making the distinction between tissues that
+have been cut or dissected, and a surface bounded by a space
+(such the mediastinal pleura, pericardium or endothelium of the
+innominate veins), which should not be designated as a positive
+margin [V, A].
+
+to deﬁne the target volume) [IV, B]; however, the optimal
+postoperative dose/fractionation is still to be deﬁned; and
+• conventional fractionation scheme consisting of daily doses of
+1.8–2 Gy over a 4- to 6-week period [IV, A] [48]. The ﬁeld
+may encompass involved nodes [IV, B] and the site of a
+resected pleural implant [V, C].
+
+postoperative radiotherapy
+
+thymomas. Postoperative radiotherapy is not indicated after
+complete resection of Masaoka-Koga stage I thymoma [II, E]. One
+randomised trial including 29 patients compared postoperative
+radiotherapy versus surgery alone in this setting, and failed to show
+any differences in patient outcome [50].
+Postoperative radiotherapy is not recommended after complete resection of stage II thymoma [IV, C]. In the ITMIG database, cumulative incidence of mediastinal or extramediastinal
+recurrence was only 8% at 10 years (Table 2) [28]. Postoperative
+radiotherapy may be considered in case of aggressive histology
+(type B2, B3) or extensive transcapsular invasion (stage IIB) [IV,
+C] [51–53].
+Postoperative radiotherapy is recommended after complete
+resection of stage III/IVA thymoma, in an effort to prolong RFS
+and OS [IV, B] [54].
+
+Current practices for postoperative mediastinal radiotherapy are
+highly variable and there is paucity of prospective, multicentre
+evidence. The global trend over the past years has been towards
+a less frequent use of postoperative radiotherapy in thymoma,
+and to keep it in reserve for high-risk cases (Table 5) [14–16].
+This is based on recent reports from large databases [6, 7, 42–45],
+as well as pooled analyses of retrospective studies [46], indicating:
+
+• the absence of survival beneﬁt after radiotherapy in stage I
+thymoma, or after R0/1 resection of stage II–III thymoma
+[7, 42, 43];
+• a similar rate of recurrence in patients who received postoperative radiotherapy or not, after complete resection of
+thymoma [46]; and
+• a recurrence-free survival (RFS) and OS beneﬁt with postoperative
+radiotherapy after resection of thymic carcinoma [7, 44, 45].
+Stage and completeness of resection are thus the most relevant
+criteria in the decision making, followed by histology [IV, B].
+Those factors are the most signiﬁcant predictors of RFS [4–7,
+28–29]; however, one must take into account that retrospective
+analyses are likely to be biased, since postoperative radiotherapy
+is most likely administered in patients with incomplete resection
+or high-grade tumours. Therefore, the absence of survival differences may then suggest that postoperative radiotherapy reduced
+or overcame the risk of recurrence in those patients. Another
+point to consider is that recurrences of thymic epithelial tumours
+occur outside the mediastinum in more than 60% of cases [47].
+The development of the TNM system leads to redeﬁnition of
+subsets of patients, based especially on the T descriptors, that
+may help to clarify which patients beneﬁt from postoperative
+radiotherapy. Meanwhile, the grouping of Masaoka-Koga stage I,
+IIA, IIB and some stage III tumours in one single T1 category
+must be assessed in dedicated studies.
+Current evidence for postoperative radiotherapy in thymic
+epithelial tumours support the use of:
+
+• 3D conformal radiotherapy or intensity-modulated radiation
+therapy targeted to the tumour bed, keeping at-risk thoracic
+organs within accepted safe constraints [IV, A];—clinical
+target volume includes the whole thymic space, the tumour
+and its extensions and the anterior, superior and middle
+mediastinum [IV, A].
+• a total dose of 45–50 Gy after complete resection, 50–54 Gy
+after R1 resection, with a boost to areas of likely residual
+disease (as mentioned above, surgical clips may then be useful
+
+v | Girard et al.
+
+Prophylactic irradiation of supraclavicular nodes is not recommended [V, E]. Low-dose entire hemithoracic radiotherapy is
+also not recommended [IV, C] [49]. Ideally, postoperative radiotherapy should start within 3 months of the surgical procedure
+[V, B].
+
+thymic carcinoma. After complete resection of thymic carcinoma,
+postoperative radiotherapy is optional for stage I tumours [V, C],
+should be considered for stage II tumours [IV, B] and is recommended for stage III/IVA tumours [IV, B] [7, 44, 45]. Postoperative radiotherapy is recommended in case of microscopically
+(R1) or macroscopically incomplete (R2) resection [IV, B], to a
+total dose of 50–54 and 60 Gy, respectively, with a 10-Gy boost
+directed to areas of likely residual disease.
+
+postoperative chemotherapy
+thymomas. Postoperative chemotherapy is not recommended
+after R0–R1 resection of a thymoma [III, E] [6, 14–16, 55].
+thymic carcinomas. Since thymic carcinomas do present with
+frequent and early locoregional and systemic recurrences after
+incomplete surgery [3, 7, 28, 44, 45], postoperative chemotherapy
+may be considered as an option in stage II/III/IV thymic
+carcinomas, especially if not delivered as induction treatment
+(Table 5) [14–16].
+
+management of advanced disease
+If complete resection is deemed not to be achievable upfront on
+the basis of imaging studies, as it is frequently the case in
+Masaoka-Koga stage III/IVA tumours (classiﬁed as stage IIIA/
+T3, IIIB/T4, /IVA in the IASLC/ITMIG TNM proposed system),
+a biopsy should be carried out, followed by primary/induction
+chemotherapy as part of a curative-intent sequential strategy
+that integrates subsequent surgery or radiotherapy [14–16].
+
+Volume 26 | Supplement 5 | September 2015
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 6. Selected chemotherapy regimens for advanced thymic
+epithelial tumours assessed in phase II trials (adapted from [60] with
+permission of Informa Healthcare)
+Regimen
+
+Agents
+
+Doses
+
+ADOC
+
+Doxorubicin
+Cisplatin
+Vincristine
+Cyclophosphamide
+
+40 mg/m2/3 weeks
+50 mg/m2/3 weeks
+0.6 mg/m2/3 weeks
+700 mg/m2/3 weeks
+
+CAP
+
+Cisplatin
+Doxorubicin
+Cyclophosphamide
+
+2
+
+50 mg/m /3 weeks
+50 mg/m2/3 weeks
+500 mg/m2/3 weeks
+
+PE
+
+Cisplatin
+Etoposide
+
+60 mg/m2/3 weeks
+120 mg/m2 × 3 days/3 weeks
+
+VIP
+
+Etoposide
+Ifosfamide
+Cisplatin
+
+75 mg/m2 × 4 days/3 weeks
+1.2 g/m2 × 4 days/3 weeks
+20 mg/m2 × 4 days/3 weeks
+
+CODE
+
+Cisplatin
+Vincristin
+Doxorubicin
+Etoposide
+
+25 mg/m2/1 week
+1 mg/m2/2 weeks
+40 mg/m2/2 weeks
+80 mg/m2 × 3 days/2 weeks
+
+Carbo-Px
+
+Carboplatin
+Paclitaxel
+
+AUC 5–6/3 weeks
+200–225 mg/m2/3 weeks
+
+CAP-GEM
+
+Capecitabine
+Gemcitabine
+
+650 mg/m2 b.i.d. 14 days/3 weeks
+1000 mg/m2 × 2 days/3 weeks
+
+Patients not eligible for local treatment should receive palliative
+chemotherapy only.
+
+performance status or co-existing medical conditions—deﬁnitive
+radiotherapy is recommended as part of a sequential chemoradiotherapy strategy [III, A] [56]. Combination with chemotherapy (including cisplatin, etoposide chemotherapy and a total dose
+of radiation of 60–66 Gy in 30–33 fractions) may be considered
+[V, C].
+
+deﬁnitive chemotherapy
+Chemotherapy should be offered as single modality treatment in
+advanced, non-resectable, non-irradiable or metastatic (stage
+IVB) thymic epithelial tumours. The aim is to relieve tumourrelated symptoms by eliciting tumour shrinkage, while prolonged survival is uncertain [III, A]. Cisplatin-based combination regimens should be administered [III, A] (Table 6) [66–
+71]. No randomised studies have been conducted and which
+regimen should be considered standard remains unknown.
+Multiagent combination regimens and anthracycline-based regimens appear to have improved response rates compared with
+etoposide-based regimens [59, 60, 72]. Combination of cisplatin, doxorubicin and cyclophosphamide is preferred [III, B].
+Combination of carboplatin and paclitaxel is an option for
+thymic carcinoma [69, 71] [III, B]. Surgery or radiotherapy is
+possible in rare and selected metastatic cases, without proven
+outcome beneﬁt [IV, C].
+Response Evaluation Criteria in Solid Tumours (RECIST)
+v1.1 criteria should be used to assess response to chemotherapy
+[V, A]; adapted criteria for pleural lesions include the use of the
+short axis as the measurement plane and the unidimensional measurement of two pleural tumour sites at three different levels [73].
+
+primary chemotherapy
+
+recurrences
+
+Primary/induction chemotherapy is standard in non-resectable
+advanced thymic epithelial tumours [III, A] [56–58]. Cisplatinbased combination regimens should be administered; combinations
+of cisplatin, doxorubicin and cyclophosphamide, and cisplatin
+and etoposide, are the recommended options (Table 6) [III, A] [59,
+60]. Primary chemoradiotherapy with platin and etoposide is an
+option, especially for thymic carcinomas [III, B] [33, 61].
+Usually, two to four cycles are administered before imaging is
+carried out to reassess resectability of the tumour [III, A]. Surgery
+should be offered to patients for whom complete resection is
+deemed achievable, according to principles discussed above [III, A];
+extended resection may be required [62]. Hyperthermic intrapleural chemotherapy, as well as extra-pleural pneumonectomy,
+may be discussed in case of stage IVA tumour [IV, C] [63, 64].
+Postoperative radiotherapy delivery should follow.
+Subtotal resection, so-called debulking resection, is an option
+in selected cases of thymoma, aiming at facilitating subsequent
+deﬁnitive radiotherapy [IV, C] [65]. Debulking is not recommended in thymic carcinoma [V, D]. Postoperative chemoradiotherapy (including cisplatin, etoposide chemotherapy and a
+total dose of radiation of 60 Gy in 30 fractions) may be considered after debulking/R2 resection [IV, B].
+
+Recurrences of thymic epithelial tumours are not uncommon
+(∼10%–15% of all-stage resected tumours) and should be managed
+according to the same strategy as newly diagnosed tumours [IV,
+A]. The average time-to-recurrence in completely resected thymic
+tumours is 5 years (with a range of 3–7 years). Complete resection
+of recurrent lesions represents a major predictor of favourable
+outcome [74–76], and surgery is then recommended in the case
+of resectable lesion. Of note, histological switch from lymphocytic
+lesions to more epithelial tumours has been reported, and may be
+related to tumour heterogeneity, as well as the effect of previous
+corticosteroid and chemotherapy treatment [74].
+In non-resectable recurrences, several consecutive lines of
+chemotherapy may be administered when the patient presents
+with tumour progression (Table 6). The re-administration of a
+previously effective regimen should be considered [IV, B], especially in case of previous response, late occurring recurrence
+and, for anthracyclines, a patient in a good medical condition
+who has not received cumulative doses precluding the safe delivery of at least three additional cycles [77]. Of note, the risk of
+cardiac toxicity is further increased in patients having received
+previous mediastinal radiotherapy. Participation to clinical trials
+is recommended.
+Preferred regimens for second-line treatment include carboplatin plus paclitaxel [69], and platin plus etoposide [67] [III,
+B]; capecitabine plus gemcitabine is an option (Table 6) [III, B].
+These regimens were evaluated in dedicated phase II trials.
+
+deﬁnitive radiotherapy
+If the patient is not deemed a surgical candidate—either because
+R0 resection is not thought to be achievable, or because of poor
+
+Volume 26 | Supplement 5 | September 2015
+
+doi:10.1093/annonc/mdv277 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 7. Summary of recommendations
+Diagnosis
+– Thymic epithelial tumours are classified according to the WHO histopathological classification.
+– Although designed for surgical resection specimen, the WHO classification may be used for small biopsies [V, A].
+– Immunohistochemistry with anti-CD117/KIT and anti-CD5 antibodies is useful to establish the thymic primary nature of a mediastinal carcinoma [V, A].
+– Each component of heterogeneous tumours may be quantified by 10% increments [V, C].
+– Consultation with a second pathologist or referral of the case to a thymic tumour pathology panel is recommended whenever there is any diagnostic difficulty.
+– Oncogenetic assessment should be carried out in case of familial thymic epithelial tumour, looking especially at MEN1.
+Imaging and diagnostic tests
+–
+–
+–
+–
+–
+–
+–
+
+Thymoma is the first diagnosis to consider when facing a mediastinal mass associated with autoimmune disease [IV, A].
+The diagnosis of any thymic epithelial tumour relies on making the differential diagnosis with other anterior mediastinal tumours and non-malignant
+thymic lesions.
+Standard imaging for thymic tumours is i.v. contrast-enhanced (CT) scan of the thorax [IV, A].
+MRI is recommended to differentiate thymic tumour from hyperplasia whenever CT scan is doubtful, or in case of cystic lesion [IV, B].
+PET scan is generally not recommended to assess thymic masses [IV, C].
+Therapeutic intervention is usually not required if the lesion is <30 mm, given a low risk of progression or thymic malignancy [III, D].
+Systematic immunological check-up is recommended, including complete blood cells count with reticulocytes and serum protein electrophoresis, as well as
+anti-acetylcholine receptor and anti-nuclear antibodies tests [V, A].
+
+Need for a biopsy
+–
+–
+
+Pretreatment biopsy is not required if the diagnosis of thymic epithelial tumour is highly suspected and upfront surgical resection is achievable [IV, E].
+Biopsy is required in all other clinical situations [IV, A]; approaches may consist of percutaneous core-needle biopsy or incisional surgical biopsy through
+mediastinotomy or mini-thoracotomy. Fine-needle aspiration is not recommended [IV, D].
+
+Staging
+–
+
+Thymic epithelial tumours are routinely staged according to the Masaoka-Koga staging system [III, A]. Masaoka-Koga staging is a surgical pathology
+system that is assessable only after surgical resection of the tumour.
+– Staging according to proposed IASLC/ITMIG TNM system is optional [V, C].
+– The Masaoka-Koga staging system should remain the standard for the routine management of patients, pending the approval of the AJCC and UICC [III, A].
+Risk assessment
+–
+
+The management of autoimmune syndromes should be integrated in the oncological management of these patients [V, A].
+
+Management of resectable disease
+–
+–
+
+The treatment strategy for thymic epithelial tumour is primarily based on whether the tumour may be resected upfront or not [IV, A].
+The assessment of resectability is mostly based on the surgeon’s expertise; it is recommended to discuss indications for surgery in a multidisciplinary
+tumour board setting [V, B].
+– If complete resection is deemed to be achievable upfront, surgery represents the first step of the treatment [IV, A].
+Surgery principles
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+Standard approach is median sternotomy [IV, A].
+Complete thymectomy including the tumour, the residual thymus gland and perithymic fat, is preferred [IV, B].
+Thymomectomy alone—leaving residual thymic tissue and perithymic fat behind—is an option in stage I tumours in non-myasthenic patients [IV, C].
+If the tumour is widely extensive invasive (stage III/IV), en bloc removal of all affected structures, including lung parenchyma (usually through limited
+resection), pericardium, venous great vessels, nerves and pleural implants, should be carried out [IV, A].
+Areas of uncertain margins are marked with clips to allow precise delivery of postoperative radiotherapy [IV, B]: those areas are also designated on the
+resection specimen.
+Phrenic nerve preservation does not affect OS but increases the risk of local recurrence [IV, C].
+Frozen sections to assess tumour involvement of resection margins are not recommended [V, D].
+Minimally invasive surgery is an option for presumed stage I–II tumours in the hands of appropriately trained thoracic surgeons [IV, C].
+The choice for minimally invasive resection should not jeopardise or change the principles that are deemed appropriate for an open approach, especially
+the achievement of complete resection that may ultimately require switching to an open procedure [V, A].
+Minimally invasive surgery is not recommended for stage III tumours, given the absence of long-term follow-up data [IV, D].
+Routine removal of anterior mediastinal and anterior cervical nodes is recommended [IV, A].
+Systematic sampling of intrathoracic sites is encouraged in stage III/IV tumours [V, B].
+Systematic lymphadenectomy (N1 + N2) is strongly recommended in case of thymic carcinoma due to the high rate of lymphatic spread [V, B].
+
+Continued
+
+v | Girard et al.
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Table 7. Continued
+
+Surgical pathology principles
+–
+–
+
+Communication between surgeons and pathologists is required to accurately stage thymic epithelial tumours [V, A].
+The proper orientation of the specimen and the designation of involved structures, organs or areas of likely residual microscopic or macroscopic disease are
+the primary responsibility of the operating surgeon and may be done using a mediastinal board [V, B].
+– A sufficient number of representative sections should be examined regardless of the tumour diameter; if the margin is <1 mm, at least three additional
+sections through this area should be obtained [V, B].
+– Completeness of resection should be assessed, making the distinction between tissues that have been cut or dissected, and a surface bounded by a space,
+which should not be designated as a positive margin [V, A].
+Postoperative radiotherapy
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+–
+
+–
+
+Postoperative radiotherapy should start within 3 months of the surgical procedure [V, B].
+The use of 3D conformal radiotherapy or intensity-modulated radiation therapy targeted to the tumour bed is recommended [IV, A].
+Clinical target volume includes the whole thymic space, the tumour and its extensions and the anterior, superior and middle mediastinum [IV, A].
+Standard dose constraints for thoracic radiotherapy should be used.
+Total dose of 45–50 Gy after complete resection, 50–54 Gy after R1 resection, with a boost to areas of likely residual disease are recommended (surgical
+clips may then be useful to define the target volume) [IV, B].
+The use of a conventional fractionation scheme is recommended in daily doses from 1.8 to 2 Gy over a 4- to 6-week period [IV, A].
+The field may encompass involved nodes [IV, B], and the site of a resected pleural implant [V, C].
+Prophylactic irradiation of supraclavicular nodes is not recommended [V, E].
+Low-dose entire hemithoracic radiotherapy is not recommended [IV, C].
+After complete resection of thymoma:
+• Postoperative radiotherapy is not indicated after complete resection of Masaoka-Koga stage I thymoma [II, E].
+• Postoperative radiotherapy is not recommended after complete resection of stage II thymoma [IV, C], but may be considered in case of aggressive
+histology (type B2, B3) or transcapsular invasion (stage IIB) [IV, C].
+• Postoperative radiotherapy is recommended after complete resection of stage III/IVA thymoma [IV, B].
+After complete resection of thymic carcinoma:
+• postoperative radiotherapy is optional for stage I tumours [V, C],
+• it should be considered for stage II tumours [IV, B] and
+• it is recommended for stage III/IVA tumours [IV, B].
+Postoperative radiotherapy is recommended in case of microscopically (R1) or macroscopically incomplete (R2) resection [IV, B], to a total dose of 50–54
+and 60 Gy, respectively, with a 10-Gy boost to areas of likely residual disease.
+
+Postoperative chemotherapy
+–
+–
+
+Postoperative chemotherapy is not recommended after R0–R1 resection of a thymoma [III, E].
+Postoperative chemotherapy may be considered as an option in stage II/III/IV thymic carcinomas, especially if not delivered as induction treatment.
+
+Management of advanced disease
+–
+
+If complete resection is deemed not to be achievable upfront, primary/induction chemotherapy is administered, part of curative-intent sequential strategy
+integrating subsequent surgery or radiotherapy. Cases not eligible for local treatment receive palliative chemotherapy only.
+
+Primary/induction chemotherapy
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+Primary/induction chemotherapy is the standard in non-resectable locally advanced thymic epithelial tumours [III, A].
+Cisplatin-based combination regimens should be administered; combinations of cisplatin, doxorubicin and cyclophosphamide, and cisplatin and etoposide
+are recommended options [III, A].
+Primary chemoradiotherapy with platin and etoposide chemotherapy is an option for thymic carcinomas [III, B].
+Usually, two to four cycles are administered before imaging is carried out to reassess resectability of the tumour [III, A].
+Surgery should be offered to patients for whom complete resection is deemed achievable after primary chemotherapy, according to principles discussed in
+the text [III, A].
+Hyperthermic intrapleural chemotherapy, as well as extra-pleural pneumonectomy, may be discussed in case of stage IVA tumour [IV, C].
+Postoperative radiotherapy is recommended.
+Subtotal resection, so-called debulking resection, is an option in selected cases of thymoma, aiming at facilitating subsequent definitive radiotherapy [IV, C].
+Debulking is not recommended in thymic carcinoma [V, D].
+Postoperative chemoradiotherapy (including cisplatin, etoposide chemotherapy and a total dose of radiation of 60 Gy) may be considered after debulking/
+R2 resection [IV, B].
+
+Definitive radiotherapy
+–
+–
+
+When the patient is not deemed to be a surgical candidate, definitive radiotherapy is recommended as part of a sequential chemoradiotherapy strategy [III, A].
+Combination with chemotherapy (including cisplatin, etoposide chemotherapy and a total dose of radiation of 60–66 Gy) may be considered [V, C].
+
+Continued
+
+Volume 26 | Supplement 5 | September 2015
+
+doi:10.1093/annonc/mdv277 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 7. Continued
+
+Definitive chemotherapy
+–
+–
+–
+–
+–
+–
+
+Chemotherapy should be offered as the single modality treatment in advanced, non-resectable, non-irradiable or metastatic (stage IVB) thymic epithelial
+tumour [III, A].
+Cisplatin-based multiagent combination regimens should be administered [III, A].
+Combination of cisplatin, doxorubicin and cyclophosphamide is preferred [III, B].
+Combination of carboplatin and paclitaxel is an option for thymic carcinoma [III, B].
+Surgery or radiotherapy is possible in rare and selected metastatic cases without proven outcome benefit [IV, C].
+RECIST v1.1 criteria should be used to assess response to chemotherapy [V, A].
+
+Recurrences
+–
+–
+–
+
+Recurrences of thymic epithelial tumours should be managed according to the same strategy as newly diagnosed tumours [IV, A].
+Complete resection of recurrent lesions, when achievable, is recommended.
+Several consecutive lines of chemotherapy may be administered when the patient presents with tumour progression. The re-administration of a previously
+effective regimen should be considered [IV, B].
+– Preferred regimens for second-line treatment include carboplatin plus paclitaxel, and platin plus etoposide [III, B]; capecitabine plus gemcitabine is an
+option [III, B].
+– Options for subsequent lines include pemetrexed [III, B] and oral etoposide.
+– In patients with octreoscan-positive thymoma not eligible to receive additional chemotherapy, octreotide alone or with prednisone may represent a
+valuable option [III, B].
+Targeted agents
+–
+
+KIT sequencing (exons 9–17) is an option for refractory thymic carcinomas in the setting of potential access to specific inhibitors, particularly in the
+context of clinical trials [IV, B].
+– It is not recommended to administer imatinib in the absence of a KIT-sensitising mutation [III, E].
+– Sunitinib is an option as second-line treatment of thymic carcinomas independently from KIT status [III, A].
+– Everolimus may represent an option for refractory tumours [III, B].
+Follow-up
+–
+–
+–
+–
+–
+
+Baseline thoracic CT scan should be carried out 3–4 months after surgery [V, C].
+For completely resected stage I/II thymomas: CT scan should be done every year for 5 years, then every 2 years [V, C].
+For stage III/IV thymomas, thymic carcinoma or after R1–2 resection: CT scan should be done every 6 months for 2 years, then annually [V, C].
+Follow-up may be continued for 10–15 years [V, C].
+Patients with clinical myasthenia gravis, or even isolated positive anti-acetyl choline receptor antibodies, should be informed and educated about the risks
+of myasthenic crisis in specific situations such as stress or the administration of certain drugs [V, A].
+
+WHO, World Health Organization; MEN1, multiple endocrine neoplasia 1; CT, computed tomography; MRI, magnetic resonance imaging; PET scan,
+positron emission tomography scan; AJCC, American Joint Committee on Cancer; UICC, Union for International Cancer Control; OS, overall survival;
+RECIST, Response Evaluation Criteria in Solid Tumours; IASLC, International Association for the Study of Lung Cancer; ITMIG, International Thymic
+Malignancy Interest Group; TNM, tumour node metastasis.
+
+Options for subsequent lines include pemetrexed [78] [III, B]
+and oral etoposide. In patients with octreoscan-positive thymoma
+not eligible to receive additional chemotherapy, octreotide alone or
+with prednisone may represent a valuable option [III, B] [79, 80].
+
+personalised medicine
+Molecular characterisation of thymic epithelial tumours indicates the occurrence of chromosomal aberrations, altered DNA
+methylation and deregulated expression of cancer-related genes,
+such as CDKN2, MGMT, FOXC1, IGF-1R [81]; some of those
+alterations and gene expression signatures were reported to associate preclinically with the efﬁcacy of some targeted agents, or to
+predict recurrence or survival of patients [81, 82].
+Personalised medicine approaches in thymic malignancies are
+ultimately hampered by the limited amount of available research
+to identify reliable, validated molecular markers with prognostic
+
+v | Girard et al.
+
+or predictive value. However, the recent identiﬁcation of molecular alterations occurring in the KIT, vascular endothelial
+growth factor receptors (VEGFRs) and mammalian target of
+rapamycin (mTOR) signalling pathways, may lead to consideration—in an off-label setting—of the use of targeted agents for
+the treatment of refractory thymic malignancies.
+
+targeting of KIT
+While KIT is overexpressed in 80% of thymic carcinomas, KIT
+gene mutations are found only in 9% of cases, consisting of
+mutations observed in gastrointestinal stromal tumours or melanomas (V560del, L576P), or restricted to thymic carcinomas
+(H697Y, D820E) [81]. Responses were reported with the use of
+KIT tyrosine kinase inhibitors (TKIs) imatinib, sunitinib or sorafenib, mostly in single-case observations [59]. KIT-mutant
+tumours are not uniformly sensitive to imatinib, based on the
+clinical and/or the preclinical evidence in thymic carcinoma
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+and/or other KIT-mutant malignancies. KIT sequencing (exons
+9–17) is an option for refractory thymic carcinomas in the
+setting of potential access to such inhibitors, particularly in the
+context of clinical trials [IV, B].
+It is not recommended to administer imatinib in the absence
+of a KIT-sensitising mutation, following the report showing the
+absence of activity in two phase II trials conducted in this
+setting [III, E] [83, 84].
+The use of KIT inhibitors is off-label in thymic malignancies.
+
+targeting of angiogenesis
+Available KIT TKIs also potently inhibit other kinases, including
+VEGFRs and platelet-derived growth factor receptors activated in
+thymic malignancies [85, 86]. A phase II trial recently demonstrated the efﬁcacy of sunitinib in terms of response and disease
+control rate (DCR) in thymic epithelial tumours, including thymic
+carcinomas [objective response rate (ORR) 26%; DCR: 91%] and,
+to a lesser extent, thymomas (ORR: 6%; DCR: 81%) [82].
+Sunitinib may then represent an off-label option as second-line
+treatment of thymic carcinomas, independently from KIT status
+[III, A]. There is no reliable clinical data reporting on anti-tumour
+efﬁcacy of other anti-angiogenic drugs, including aﬂibercept and
+bevacizumab.
+
+targeting mammalian target of rapamycin
+mTOR is emerging as a potential target in thymic epithelial
+tumours, following tumour responses observed in phase I trials
+Table 8. Levels of evidence and grades of recommendation
+(adapted from the Infectious Diseases Society of America-United
+States Public Health Service Grading Systema)
+Levels of evidence
+I
+
+II
+
+III
+IV
+V
+
+Evidence from at least one large randomised, controlled trial
+of good methodological quality (low potential for bias) or
+meta-analyses of well-conducted randomised trials without
+heterogeneity
+Small randomised trials or large randomised trials with a
+suspicion of bias (lower methodological quality) or metaanalyses of such trials or of trials with demonstrated
+heterogeneity
+Prospective cohort studies
+Retrospective cohort studies or case–control studies
+Studies without control group, case reports, experts opinions
+
+Grades of recommendation
+A
+B
+C
+
+D
+E
+
+Strong evidence for efficacy with a substantial clinical benefit,
+strongly recommended
+Strong or moderate evidence for efficacy but with a limited
+clinical benefit, generally recommended
+Insufficient evidence for efficacy or benefit does not outweigh
+the risk or the disadvantages (adverse events, costs, …),
+optional
+Moderate evidence against efficacy or for adverse outcome,
+generally not recommended
+Strong evidence against efficacy or for adverse outcome, never
+recommended
+
+a
+
+By permission of the Infectious Diseases Society of America [89].
+
+Volume 26 | Supplement 5 | September 2015
+
+clinical practice guidelines
+[87]. Everolimus was evaluated in thymic epithelial tumours in
+a recently reported phase II trial reporting on a 22% response
+rate, as well as a 93% DCR [88]. Everolimus may, therefore, represent an off-label option for refractory tumours [III, B].
+
+follow-up and long-term implications
+No prospective data are available to build recommendations
+about post-treatment oncological follow-up of patients. While a
+relapse might still be treatable in a curative-intent, patients should
+beneﬁt from a regular radiological assessment. Based on expert
+consensus, and data of cumulative incidence of recurrences over
+time [28], the proposals are the following [V, C]:
+
+• baseline thoracic CT scan 3–4 months after surgery
+• for completely resected stage I/II thymomas: CT scan every
+year for 5 years, then every 2 years
+
+• for stage III/IV thymomas, thymic carcinoma or after R1–2
+resection: CT scan every 6 months for 2 years, then annually
+
+• continuation of follow-up for 10–15 years
+
+Secondary tumours may occur. Besides oncological follow-up,
+clinicians should be aware of the possible late onset of new autoimmune disorders. Patients with clinical myasthenia gravis, or
+even isolated positive anti-acetyl choline receptor antibodies,
+should be informed and educated about the risks of myasthenic
+crisis in speciﬁc situations such as stress or the administration of
+certain drugs [V, A].
+Participation in collaborative research initiatives, including
+regional and international databases, and clinical trials when
+available, is recommended.
+
+methodology
+These clinical practice guidelines were developed in accordance
+with the ESMO standard operating procedures for clinical practice guidelines development. The relevant literature has been
+selected by the expert authors, using the Medline database, as
+well as abstracts lists from major surgery, medical oncology and
+thoracic oncology meetings, over the past 20 years. A summary
+of recommendations is presented in Table 7. Levels of evidence
+and grades of recommendation have been applied using the
+system shown in Table 8 [89]. Statements without grading were
+considered justiﬁed standard clinical practice by the experts and
+the ESMO faculty. This manuscript has been subjected to an anonymous peer review process.
+
+acknowledgements
+The authors thank Benjamin Besse (Gustave Roussy, Villejuif,
+France) for reviewing the manuscript. NG thanks all investigators of the RYTHMIC network for their input on the French
+recommendations, which was valuable for the subsequent development of the present clinical practice guidelines.
+
+conﬂict of interest
+NG has reported consultancy from Amgen, Astra-Zeneca, BristolMyers Squibb, Boehringer Ingelheim, Eli-Lilly, Hoffmann-La
+Roche, Novartis, Pﬁzer, Teva. SP has provided consultancy, attended
+
+doi:10.1093/annonc/mdv277 | v
+
+clinical practice guidelines
+advisory boards and/or provided lectures for: F. Hoffmann-La
+Roche, Ltd, Eli-Lilly and Company Oncology, Astra-Zeneca,
+Pﬁzer, Boehringer Ingelheim, Bristol-Myers Squibb, DaiichiSankyo, Morphotek, Merrimack, Merck Serono, MSD, Amgen,
+Clovis, Astellas and Tesaro. The other authors have declared no
+potential conﬂicts of interest.
+
+references
+1. de Jong WK, Blaauwgeers JL, Schaapveld M et al. Thymic epithelial tumours: a
+population-based study of the incidence, diagnostic procedures and therapy. Eur J
+Cancer 2008; 44: 123–130.
+2. Travis WB, Brambilla A, Muller-Hermelinck HK, Marx A. Pathology and genetics of
+tumours of the lung, pleura, thymus and heart. In: Travis WB (ed), World Health
+Organization Classiﬁcation of Tumours. Lyon: IARC Press 2004; p. 146.
+3. Marx A, Ströbel P, Badve SS et al. ITMIG consensus statement on the use of the
+WHO histological classiﬁcation of thymoma and thymic carcinoma: reﬁned
+deﬁnitions, histological criteria, and reporting. J Thorac Oncol 2014; 9: 596–611.
+4. Kondo K, Monden Y. Therapy for thymic epithelial tumors: a clinical study of 1,320
+patients from Japan. Ann Thorac Surg 2003; 76: 878–884.
+5. Weis CA, Yao X, Deng Y et al. The impact of thymoma histotype on prognosis in a
+worldwide database. J Thorac Oncol 2015; 10: 367–372.
+6. Rufﬁni E, Detterbeck F, Van Raemdonck D et al. Tumours of the thymus: a cohort
+study of prognostic factors from the European Society of Thoracic Surgeons
+database. Eur J Cardiothorac Surg 2014; 46: 361–368.
+7. Omasa M, Date H, Sozu T et al. Postoperative radiotherapy is effective for thymic
+carcinoma but not for thymoma in stage II and III thymic epithelial tumors: The Japanese
+Association for Research on the Thymus Database Study. Cancer 2015; 121:
+1008–1016.
+8. Kojima Y, Ito H, Hasegawa S et al. Resected invasive thymoma with multiple
+endocrine neoplasia type 1. Jpn J Thorac Cardiovasc Surg 2006; 54: 171–173.
+9. Engels EA, Pfeiffer RM. Malignant thymoma in the United States: demographic
+patterns in incidence and associations with subsequent malignancies. Int J Cancer
+2003; 105: 546–551.
+10. Seki S, Koyama H, Ohno Y et al. Diffusion-weighted MR imaging vs. multi-detector
+row CT: direct comparison of capability for assessment of management needs for
+anterior mediastinal solitary tumors. Eur J Radiol 2014; 83: 835–842.
+11. Evoli A, Lancaster E. Paraneoplastic disorders in thymoma patients. J Thorac
+Oncol 2014; 9(Suppl 2): S143–S147.
+12. Marx A, Hohenberger P, Hoffmann H et al. The autoimmune regulator AIRE in
+thymoma biology: autoimmunity and beyond. J Thorac Oncol 2010; 5(Suppl 4):
+S266–S272.
+13. Carter BW, Marom EM, Detterbeck FC. Approaching the patient with an anterior
+mediastinal mass: a guide for clinicians. J Thorac Oncol 2014; 9(Suppl 2):
+S102–S109.
+14. Falkson CB, Bezjak A, Darling G et al. The management of thymoma: a systematic
+review and practice guideline. J Thorac Oncol 2009; 4: 911–919.
+15. Girard N, Mornex F, Van Houtte P et al. Thymoma: a focus on current therapeutic
+management. J Thorac Oncol 2009; 4: 119–126.
+16. NCCN Clinical Practice Guidelines in Oncology. Thymic malignancies. V.1.2015.
+www.nccn.org (7 July 2015, date last accessed).
+17. Evans AG, French CA, Cameron MJ et al. Pathologic characteristics of NUT
+midline carcinoma arising in the mediastinum. Am J Surg Pathol 2012; 36:
+1222–1227.
+18. Ackman JB, Verzosa S, Kovach AE et al. High rate of unnecessary thymectomy
+and its cause. Can computed tomography distinguish thymoma, lymphoma,
+thymic hyperplasia, and thymic cysts? Eur J Radiol 2015; 84: 524–533.
+19. Priola AM, Priola SM, Ciccone G et al. Differentiation of rebound and lymphoid
+thymic hyperplasia from anterior mediastinal tumors with dual-echo chemical-shift
+MR imaging in adulthood: reliability of the chemical-shift ratio and signal intensity
+index. Radiology 2015; 274: 238–249.
+20. Henschke CI, Lee IJ, Wu N et al. CT screening for lung cancer: prevalence and
+incidence of mediastinal masses. Radiology 2006; 239: 586–590.
+
+v | Girard et al.
+
+Annals of Oncology
+21. Kaira K, Endo M, Abe M et al. Biologic correlation of 2-[18F]-ﬂuoro-2-deoxy-Dglucose uptake on positron emission tomography in thymic epithelial tumors. J
+Clin Oncol 2010; 28: 3746–3753.
+22. Marchevsky A, Marx A, Ströbel P et al. Policies and reporting guidelines for small
+biopsy specimens of mediastinal masses. J Thorac Oncol 2011; 6(Suppl 3):
+S1724–S1729.
+23. Wang H, Sima CS, Beasley MB et al. Classiﬁcation of thymic epithelial neoplasms
+is still a challenge to thoracic pathologists: a reproducibility study using digital
+microscopy. Arch Pathol Lab Med 2014; 138: 658–663.
+24. den Bakker MA, Roden AC, Marx A, Marino M. Histologic classiﬁcation of thymoma:
+a practical guide for routine cases. J Thorac Oncol 2014; 9(Suppl 2): S125–S130.
+25. Masaoka A, Monden Y, Nakahara K, Tanioka T. Follow-up study of thymomas with
+special reference to their clinical stages. Cancer 1981; 48: 2485–2492.
+26. Koga K, Matsuno Y, Noguchi M et al. A review of 79 thymomas: modiﬁcation of
+staging system and reappraisal of conventional division into invasive and noninvasive thymoma. Pathol Int 1994; 44: 359–367.
+27. Detterbeck FC, Nicholson AG, Kondo K et al. The Masaoka-Koga stage
+classiﬁcation for thymic malignancies: clariﬁcation and deﬁnition of terms. J
+Thorac Oncol 2011; 6(Suppl 3): S1710–S1716.
+28. Detterbeck F. Towards a TNM based prognostic classiﬁcation for thymic tumours.
+J Thorac Oncol 2013; 8(Suppl 2): S68 (abst. MS16.2).
+29. Detterbeck F, Youssef S, Rufﬁni E, Okumura M. A review of prognostic factors in
+thymic malignancies. J Thorac Oncol 2011; 6(Suppl 3): S1698–S1704.
+30. Detterbeck FC, Stratton K, Giroux D et al. The IASLC/ITMIG Thymic Epithelial
+Tumors Staging Project: proposal for an evidence-based stage classiﬁcation
+system for the forthcoming (8th) edition of the TNM classiﬁcation of malignant
+tumors. J Thorac Oncol 2014; 9(Suppl 2): S65–S72.
+31. Marom EM, Milito MA, Moran CA et al. Computed tomography ﬁndings predicting
+invasiveness of thymoma. J Thorac Oncol 2011; 6: 1274–1281.
+32. Zhao Y, Chen H, Shi J et al. The correlation of morphological features of chest
+computed tomographic scans with clinical characteristics of thymoma. Eur J
+Cardiothorac Surg 2014 [Epub ahead of print].
+33. Korst RJ, Bezjak A, Blackmon S et al. Neoadjuvant chemoradiotherapy for locally
+advanced thymic tumors: a phase II, multi-institutional clinical trial. J Thorac
+Cardiovasc Surg 2014; 147: 36–44.
+34. Huang J, Detterbeck FC, Wang Z, Loehrer PJ, Sr. Standard outcome measures for
+thymic malignancies. J Thorac Oncol 2011; 6(Suppl 3): S1691–S1697.
+35. Davenport E, Malthaner RA. The role of surgery in the management of thymoma: a
+systematic review. Ann Thorac Surg 2008; 86: 673–684.
+36. Detterbeck FC, Moran C, Huang J et al. Which way is up? Policies and procedures
+for surgeons and pathologists regarding resection specimens of thymic
+malignancy. J Thoracic Oncol 2011; 6(Suppl 3): S1730–S1738.
+37. Nakagawa K, Asamura H, Sakurai H et al. Does the mode of surgical resection
+affect the prognosis/recurrence in patients with thymoma? J Surg Oncol 2014;
+109: 179–183.
+38. Yano M, Sasaki H, Moriyama S et al. Preservation of phrenic nerve involved by
+stage III thymoma. Ann Thorac Surg 2010; 89: 1612–1619.
+39. Hamdi S, Mercier O, Fadel E et al. Is sacrifying the phrenic nerve during thymoma
+resection worthwhile? Eur J Cardiothorac Surg 2014; 45: e151–e155.
+40. Toker A, Sonett J, Zielinski M et al. Standard terms, deﬁnitions, and policies for
+minimally invasive resection of thymoma. J Thorac Oncol 2011; 6(Suppl 3):
+S1739–S1742.
+41. Bhora FY, Chen DJ, Detterbeck FC et al. The ITMIG/IASLC Thymic Epithelial
+Tumors Staging Project: a Proposed Lymph Node Map for Thymic Epithelial
+Tumors in the Forthcoming 8th Edition of the TNM Classiﬁcation of Malignant
+Tumors. J Thorac Oncol 2014; 9(Suppl 2): S88–S96.
+42. Forquer JA, Rong N, Fakiris AJ et al. Postoperative radiotherapy after surgical
+resection of thymoma: differing roles in localized and regional disease. Int J Radiat
+Oncol Biol Phys 2010; 76: 440–445.
+43. Patel S, Macdonald OK, Nagda S et al. Evaluation of the role of radiation therapy in
+the management of malignant thymoma. Int J Radiat Oncol Biol Phys 2012; 82:
+1797–1801.
+44. Ahmad U, Yao X, Detterbeck F et al. Thymic carcinoma outcomes and prognosis:
+results of an international analysis. J Thorac Cardiovasc Surg 2015; 149:
+95–100.
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+45. Rufﬁni E, Detterbeck F, Van Raemdonck D et al. Thymic carcinoma: a cohort study
+of patients from the European Society of Thoracic Surgeons Database. J Thorac
+Oncol 2014; 9: 541–548.
+46. Korst RJ, Kansler AL, Christos PJ, Mandal S. Adjuvant radiotherapy for thymic
+epithelial tumors: a systematic review and meta-analysis. Ann Thorac Surg 2009;
+87: 1641–1647.
+47. Rimner A, Gomez DR, Wu AJ et al. Failure patterns relative to radiation treatment
+ﬁelds for stage II-IV thymoma. J Thorac Oncol 2014; 9: 403–409.
+48. Gomez D, Komaki R, Yu J et al. Radiation therapy deﬁnitions and reporting
+guidelines for thymic malignancies. J Thorac Oncol 2011; 6(Suppl 3): S1743–8.
+49. Sugie C, Shibamoto Y, Ikeya-Hashizume C et al. Invasive thymoma: postoperative
+mediastinal irradiation, and low-dose entire hemithorax irradiation in patients with
+pleural dissemination. J Thorac Oncol 2008; 3: 75–81.
+50. Zhang H, Lu N, Wang M et al. Postoperative radiotherapy for stage I thymoma: a
+prospective randomized trial in 29 cases. Chin Med J (Engl) 1999; 112: 136–138.
+51. Gao L, Wang C, Fang W et al. Outcome of multimodality treatment for 188 cases
+of type B3 thymoma. J Thorac Oncol 2013; 8: 1329–1334.
+52. Utsumi T, Shiono H, Kadota Y et al. Postoperative radiation therapy after complete
+resection of thymoma has little impact on survival. Cancer 2009; 115: 5413–5420.
+53. Chen YD, Feng QF, Lu HZ et al. Role of adjuvant radiotherapy for stage II thymoma
+after complete tumor resection. Int J Radiat Oncol Biol Phys 2010; 78:
+1400–1406.
+54. Weksler B, Shende M, Nason KS et al. The role of adjuvant radiation therapy for
+resected stage III thymoma: a population-based study. Ann Thorac Surg 2012; 93:
+1822–1828.
+55. Attaran S, McCormack D, Pilling J, Harrison-Phipps K. Which stages of thymoma
+beneﬁt from adjuvant chemotherapy post-thymectomy? Interact Cardiovasc Thorac
+Surg 2012; 15: 273–275.
+56. Loehrer PJ, Sr, Chen M, Kim K et al. Cisplatin, doxorubicin, and cyclophosphamide
+plus thoracic radiation therapy for limited-stage unresectable thymoma: an intergroup
+trial. J Clin Oncol 1997; 15: 3093–3099.
+57. Kim ES, Putnam JB, Komaki R et al. Phase II study of a multidisciplinary approach
+with induction chemotherapy, followed by surgical resection, radiation therapy, and
+consolidation chemotherapy for unresectable malignant thymomas: ﬁnal report.
+Lung Cancer 2004; 44: 369–379.
+58. Berruti A, Borasio P, Gerbino A et al. Primary chemotherapy with adriamycin,
+cisplatin, vincristine and cyclophosphamide in locally advanced thymomas: a
+single institution experience. Br J Cancer 1999; 81: 841–845.
+59. Girard M, Lal R, Wakelee H et al. Chemotherapy deﬁnitions and policies for thymic
+malignancies. J Thorac Oncol 2011; 6(7 Suppl 3): S1749–S1755.
+60. Girard N. Chemotherapy and targeted agents for thymic malignancies. Expert Rev
+Anticancer Ther 2012; 12: 685–695.
+61. Wright CD, Choi NC, Wain JC et al. Induction chemoradiotherapy followed by
+resection for locally advanced Masaoka stage III and IVA thymic tumors. Ann
+Thorac Surg 2008; 85: 385–389.
+62. Wright CD. Extended resections for thymic malignancies. J Thorac Oncol 2010;
+5(10 Suppl 3): S344–S347.
+63. Yellin A, Simansky DA, Ben-Avi R et al. Resection and heated pleural chemoperfusion
+in patients with thymic epithelial malignant disease and pleural spread: a singleinstitution experience. J Thorac Cardiovasc Surg 2013; 145: 83–87.
+64. Wright CD. Pleuropneumonectomy for the treatment of Masaoka stage IVA
+thymoma. Ann Thorac Surg 2006; 82: 1234–1239.
+65. Hamaji M, Kojima F, Omasa M et al. A meta-analysis of debulking surgery versus
+surgical biopsy for unresectable thymoma. Eur J Cardiothorac Surg 2015; 47:
+602–607.
+66. Loehrer PJ, Sr, Kim K, Aisner SC et al. Cisplatin plus doxorubicin plus
+cyclophosphamide in metastatic or recurrent thymoma: ﬁnal results of an intergroup
+trial. The Eastern Cooperative Oncology Group, Southwest Oncology Group, and
+Southeastern Cancer Study Group. J Clin Oncol 1994; 12: 1164–1168.
+67. Giaccone G, Ardizzoni A, Kirkpatrick A et al. Cisplatin and etoposide combination
+chemotherapy for locally advanced or metastatic thymoma. A phase II study of the
+
+Volume 26 | Supplement 5 | September 2015
+
+clinical practice guidelines
+68.
+
+69.
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+75.
+76.
+
+77.
+78.
+
+79.
+
+80.
+81.
+82.
+
+83.
+84.
+85.
+86.
+
+87.
+
+88.
+
+89.
+
+European Organization for Research and Treatment of Cancer Lung Cancer
+Cooperative Group. J Clin Oncol 1996; 14: 814–820.
+Loehrer PJ, Sr, Jiroutek M, Aisner S et al. Combined etoposide, ifosfamide, and
+cisplatin in the treatment of patients with advanced thymoma and thymic
+carcinoma: an intergroup trial. Cancer 2001; 91: 2010–2015.
+Lemma GL, Lee JW, Aisner SC et al. Phase II study of carboplatin and paclitaxel in
+advanced thymoma and thymic carcinoma. J Clin Oncol 2011; 29: 2060–2065.
+Palmieri G, Merola G, Federico P et al. Preliminary results of phase II study of
+capecitabine and gemcitabine (CAP-GEM) in patients with metastatic pretreated
+thymic epithelial tumors (TETs). Ann Oncol 2010; 21: 1168–1172.
+Hirai F, Yamanaka T, Taguchi K et al. A multicenter phase II study of carboplatin
+and paclitaxel for advanced thymic carcinoma: WJOG4207L. Ann Oncol 2015;
+26: 363–368.
+Okuma Y, Saito M, Hosomi Y et al. Key components of chemotherapy for
+thymic malignancies: a systematic review and pooled analysis for anthracycline-,
+carboplatin- or cisplatin-based chemotherapy. J Cancer Res Clin Oncol 2015;
+141: 323–331.
+Benveniste MF, Korst RJ, Rajan A et al. A practical guide from the International
+Thymic Malignancy Interest Group (ITMIG) regarding the radiographic assessment
+of treatment response of thymic epithelial tumors using modiﬁed RECIST criteria.
+J Thorac Oncol 2014; 9: S119–S124.
+Sandri A, Cusumano G, Lococo F et al. Long-term results after treatment for
+recurrent thymoma: a multicenter analysis. J Thorac Oncol 2014; 9: 1796–1804.
+Hamaji M, Allen MS, Cassivi SD et al. The role of surgical management in
+recurrent thymic tumors. Ann Thorac Surg 2012; 94: 247–254.
+Mizuno T, Okumura M, Asamura H et al. Surgical management of recurrent thymic
+epithelial tumors: a retrospective analysis based on the Japanese nationwide
+database. J Thorac Oncol 2015; 10: 199–205.
+Lara PN, Jr, Bonomi PD, Faber LP. Retreatment of recurrent invasive thymoma with
+platinum, doxorubicin, and cyclophosphamide. Chest 1996; 110: 1115–1117.
+Loehrer PJ, Yiannoutsos CT, Dropcho S et al. A phase II trial of pemetrexed in
+patients with recurrent thymoma or thymic carcinoma. J Clin Oncol 2006;
+24(Suppl 18): abstr 7079.
+Loehrer PJ, Sr, Wang W, Johnson DH et al. Octreotide alone or with prednisone in
+patients with advanced thymoma and thymic carcinoma: an Eastern Cooperative
+Oncology Group Phase II Trial. J Clin Oncol 2004; 22: 293–299.
+Palmieri G, Montella L, Martignetti A et al. Somatostatin analogs and prednisone in
+advanced refractory thymic tumors. Cancer 2002; 94: 1414–1420.
+Rajan A, Girard N, Marx A. State of the art of genetic alterations in thymic
+epithelial tumors. J Thorac Oncol 2014; 9(Suppl 2): S131–S136.
+Thomas A, Rajan A, Berman A et al. Sunitinib in patients with chemotherapyrefractory thymoma and thymic carcinoma: an open-label phase 2 trial. Lancet
+Oncol 2015; 16: 177–186.
+Giaccone G, Rajan A, Ruijter R et al. Imatinib mesylate in patients with WHO B3
+thymomas and thymic carcinomas. J Thorac Oncol 2009; 4: 1270–1273.
+Salter JT, Lewis D, Yiannoutsos C et al. Imatinib for the treatment of thymic
+carcinoma. J Clin Oncol 2008; 26(15s suppl): abstr 8116.
+Ströbel P, Bargou R, Wolff A et al. Sunitinib in metastatic thymic carcinomas:
+laboratory ﬁndings and initial clinical experience. Br J Cancer 2010; 103: 196–200.
+Lattanzio R, La Sorda R, Facciolo F et al. Thymic epithelial tumors express vascular
+endothelial growth factors and their receptors as potential targets of antiangiogenic
+therapy: a tissue micro array-based multicenter study. Lung Cancer 2014; 85:
+191–196.
+Wheler J, Hong D, Swisher SG et al. Thymoma patients treated in a phase I clinic
+at MD Anderson Cancer Center: responses to mTOR inhibitors and molecular
+analyses. Oncotarget 2013; 4: 890–898.
+Zucali PA, De Pas TM, Palmieri G et al. Phase II study of everolimus in patients
+with thymoma and thymic carcinoma previously treated with cisplatin-based
+chemotherapy. J Clin Oncol 2014; 32 (5s suppl): abstr 7527.
+Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among
+hematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33: 139–144.
+
+doi:10.1093/annonc/mdv277 | v
+
+

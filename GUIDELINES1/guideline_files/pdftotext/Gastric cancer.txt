@@ -1,0 +1,1747 @@
+SPECIAL ARTICLE
+
+Gastric cancer: ESMO Clinical Practice Guideline for diagnosis, treatment
+and follow-up5
+F. Lordick1, F. Carneiro2,3,4, S. Cascinu5, T. Fleitas6, K. Haustermans7, G. Piessen8,9,10,11, A. Vogel12 & E. C. Smyth13, on behalf
+of the ESMO Guidelines Committee*
+1
+Department of Medicine II (Oncology, Gastroenterology, Hepatology, Pulmonology and Infectious Diseases), University Cancer Center Leipzig (UCCL), University
+Medical Center, Leipzig, Germany; 2Department of Pathology, Centro Hospitalar Universitário de São João (CHUSJ), Porto; 3Faculty of Medicine, University of Porto
+(FMUP), Porto; 4Instituto de Investigação e Inovação em Saúde (i3S)/Institute of Molecular Pathology and Immunology, University of Porto (Ipatimup), Porto, Portugal;
+5
+Department of Medical Oncology, Comprehensive Cancer Center, Università Vita-Salute, IRCCS Ospedale San Raffaele, Milan, Italy; 6Department of Medical Oncology,
+INCLIVA Biomedical Research Institute, University of Valencia, Valencia, Spain; 7Department of Radiation Oncology, University Hospital Leuven, Leuven, Belgium;
+8
+University of Lille, UMR9020-U1277 - CANTHER - Cancer Heterogeneity Plasticity and Resistance to Therapies, Lille; 9CNRS, UMR9020, Lille; 10Inserm, U1277, Lille;
+11
+CHU Lille, Department of Digestive and Oncological Surgery, Lille, France; 12Department of Gastroenterology, Hepatology and Endocrinology, Hannover Medical
+School, Hannover, Germany; 13Department of Oncology, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK
+
+Available online 29 July 2022
+
+Key words: diagnosis, epidemiology, ESMO Clinical Practice Guideline, follow-up, gastric cancer, treatment
+
+INCIDENCE AND EPIDEMIOLOGY
+More than 1 million (1 089 103) new cases of gastric cancer
+were estimated globally in 2020, resulting in 768 793 deaths.1
+These burden estimates will continue to increase due to the
+ageing population and growth of high-risk groups. Of these
+global numbers, an estimated 136 038 cases and 96 997
+deaths occurred in Europe.1 Gastric cancer displays substantial global variation in incidence; the highest rates are
+observed in Eastern Asia, Central and Eastern Europe and
+South America.1 A gradual decline in the incidence of gastric
+cancer has been observed in Western Europe and North
+America over the past 60 years, and more recent declines in
+high-risk countries have also become apparent.2 This is
+epidemiologically distinct from the relative increase in
+oesophageal adenocarcinoma, including tumours of the
+oesophagogastric junction (OGJ), which are discussed in a
+separate guideline document.
+Incidence in men is twice as high as in women. Risk
+factors vary by anatomical subsite of disease; non-cardia
+gastric cancer, which is more common in East Asia and
+Latin America, represents w80% of gastric tumours globally
+and has been associated with Helicobacter pylori (H. pylori)
+infection, alcohol use, high salt intake and low consumption
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5
+Note: Approved by the ESMO Guidelines Committee: September 2016, last
+update July 2022. This publication supersedes the previously published versiondAnn Oncol 2016;27(suppl 5):v38-v49.
+0923-7534/© 2022 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+of fruit and vegetables. Proximal (cardia) gastric cancer is
+associated with obesity and gastro-oesophageal reﬂux and
+is more common in North America and Western Europe.3
+Epstein-Barr virus (EBV)-positive gastric cancer is more
+prevalent in the fundus or body (62%) and its prevalence
+seems to be similar in Asia, Europe and the Americas.4
+Recent studies report an increase in non-cardia gastric
+cancer among young individuals (<50 years), especially in
+low-incidence countries such as the UK and US e populations with a low prevalence of H. pylori infection. Dysbiosis of the gastric microbiome associated with modern
+lifestyles and an increase in autoimmune disorders in this
+age group have been postulated as potential explanations.5
+Genetic predisposition
+Gastric cancer demonstrates familial aggregation in w10%
+of cases, and an inherited genetic predisposition is identiﬁed in up to 3% of cases.6 Genetic tumour risk syndromes
+are characterised by an increased risk of early-onset cancers
+in a familial context. High cancer risk is mostly driven by
+loss-of-function variants in a single cancer-associated gene.
+CDH1 and CTNNA1 germline variants predispose to hereditary diffuse gastric cancer (HDGC), while APC promoter 1B
+single nucleotide variants predispose to gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS).
+Familial intestinal gastric cancer (FIGC), recognised as a
+gastric cancer-predisposing disease, remains understudied
+and genetically unsolved.7 Gastric cancer can also occur
+within the spectrum of other genetic tumour risk syndromes, such as Lynch syndrome, familial adenomatous
+polyposis (FAP), LieFraumeni and PeutzeJeghers
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+1005
+
+Annals of Oncology
+
+F. Lordick et al.
+
+syndromes (Table 1).6 HDGC is the most studied hereditary
+gastric cancer risk syndrome and is estimated to have a
+population incidence rate of w5-10/100 000 births.8 The
+incidence rates for other gastric cancer risk syndromes are
+less well deﬁned. HDGC is an autosomal dominant cancer
+syndrome that is characterised by a high prevalence of
+diffuse gastric cancer and lobular breast cancer. HDGC is
+caused by CDH1/E-cadherin germline single nucleotide
+variants and copy number variants, classiﬁed as pathogenic
+or likely pathogenic according to the American College of
+Medical Genetics and Genomics and the Association for
+Molecular Pathology CDH1 variant curation guidelines.9
+Pathogenic variants in CTNNA1 occur in a minority of
+families with HDGC. The International Gastric Cancer Linkage Consortium provides updated practice guidelines for
+HDGC, recognising the emerging evidence of variability in
+gastric cancer risk between families, the growing capability
+of endoscopic and histological surveillance in HDGC and
+greater experience managing long-term sequelae following
+total gastrectomy in young patients.8
+
+Prevention
+There is consistent evidence that eradication of H. pylori
+substantially reduces the incidence of gastric cancer in
+healthy individuals, patients with gastric atrophy and people with a family history of gastric cancer.10,11 Non-cardia
+intestinal-type cancerdthe most common histological
+subtype of gastric cancerdfollows a pattern of stepwise
+progression (known as the Correa Cascade) from normal
+mucosa to non-atrophic gastritis, atrophic gastritis with or
+without intestinal metaplasia (IM), dysplasia and ﬁnally
+cancer.12 In high-risk East Asian countries (China, Japan and
+South Korea), population- and endoscopy-based screening
+programmes have been implemented.13-15 These programmes have resulted in higher detection rates of earlystage gastric cancer, with substantially reduced mortality.
+In contrast, population-based endoscopic screening of
+asymptomatic individuals is not recommended in low incidence countries.16,17 Since individuals with IM have an
+increased risk of gastric cancer, multidisciplinary European
+and UK endoscopy guidelines recommend that patients
+with IM as well as a family history of gastric cancer,
+incomplete-type IM or persistent H. pylori-associated
+
+Table 1. Gene mutations associated with inherited predisposition to
+gastric cancer6
+Gene mutation
+
+Associated syndrome
+
+APC
+APC promoter 1B
+CDH1, CTNNA1
+MLH1, MSH2, MSH6, PMS2
+SMAD4, BMPR1A
+STK11
+TP53
+
+FAP
+GAPPS
+HDGC
+Lynch syndrome
+Juvenile polyposis syndrome
+PeutzeJeghers syndrome
+LieFraumeni syndrome
+
+FAP, familial adenomatous polyposis; GAPPS, gastric adenocarcinoma and proximal
+polyposis of the stomach; HDGC, hereditary diffuse gastric cancer.
+Adapted with permission.6
+
+1006
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+gastritis should undergo endoscopic surveillance with
+guided biopsies every 3 years.
+Recommendations
+ If a familial cancer syndrome is suspected, referral to a
+geneticist for assessment is recommended [V, A].
+ Population-based endoscopic screening of asymptomatic
+individuals is only recommended in regions with a very
+high incidence of gastric cancer [V, B].
+
+DIAGNOSIS, PATHOLOGY AND MOLECULAR BIOLOGY
+Diagnosis
+Gastric cancer is often asymptomatic in the early stages. In
+advanced disease, common signs and symptoms include
+dysphagia, asthenia, indigestion, vomiting, weight loss,
+early satiety and/or iron deﬁciency anaemia. In many cases,
+however, these non-speciﬁc symptoms do not lead to
+urgent investigations. Overall, w60% of people with gastric
+cancer are not eligible for curative treatment owing to late
+presentation or comorbidities.18
+Endoscopic examination and forceps biopsies are the gold
+standard method for diagnosing gastric cancer. Multiple (58) biopsies should be carried out to provide adequately
+sized material for histological and molecular interpretation,
+especially in the setting of ulcerated lesions.19,20 Details of
+the mucosal surface can be evaluated by narrow-band
+imaging or chromoendoscopy in combination with magnifying endoscopy. Endoscopic ultrasonography (EUS) is also a
+helpful tool to identify inﬁltrated regions of the gastric
+wall.21 Endoscopic mucosal resection (EMR) and endoscopic
+submucosal dissection (ESD) may also be used for diagnosis.
+Both procedures can deliver reliable staging information
+and can also be used to treat superﬁcial lesions such as
+dysplasia or intramucosal carcinoma.22
+Pathology
+Approximately 90% of gastric cancers are adenocarcinomas
+(ACs). This Clinical Practice Guideline (CPG) does not apply
+to rarer gastric malignancies such as gastrointestinal stromal
+tumours, lymphomas and neuroendocrine tumours.
+Based on macroscopic features, early gastric carcinomas
+are sub-classiﬁed into three main types according to the
+Endoscopic Classiﬁcation Review Group (Paris classiﬁcation): 0-I (protruded); 0-II (superﬁcial); and 0-III (excavated).23 Locally advanced gastric carcinomas are
+macroscopically sub-classiﬁed according to the Borrmann
+classiﬁcation as polypoid/fungating without ulceration (type
+I), ulcerated with elevated borders and sharp margins (type
+II), ulcerated with diffuse inﬁltration at the base (type III)
+and diffusely inﬁltrative with thickening of the wall (type
+IV).24
+There are several gastric cancer histopathological classiﬁcation schemes. The most commonly used are the World
+Health Organization (WHO)25 and Japanese Gastric Cancer
+Association26 classiﬁcations, which are very similar, as well
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+Annals of Oncology
+
+F. Lordick et al.
+
+as those proposed by Nakamura and colleagues27 and
+Laurén, the latter of which recognises three main subtypes:
+intestinal, diffuse and mixed.28 The WHO classiﬁcation is
+widely used in Western countries and recognises ﬁve main
+histological subtypes: tubular, papillary, poorly cohesive
+(including signet ring cell and other subtypes), mucinous
+and mixed ACs.
+Molecular biology
+The recently identiﬁed molecular proﬁles of gastric cancer
+are important for better understanding gastric cancer subtypes and may also be useful for identifying clinically relevant biomarkers and new therapeutic targets. Intratumoural
+and intertumoural heterogeneity is a feature of gastric
+carcinoma which leads to diagnostic and therapeutic
+challenges.
+The Cancer Genome Atlas (TCGA) research network
+identiﬁed four molecularly distinct gastric cancer subtypes:
+EBV positive, microsatellite instability-high (MSI-H),
+genomically stable (GS) and tumours with chromosomal
+instability (CIN).4 Each subtype is enriched for selected
+molecular abnormalities, with some overlap. The CIN subtype is enriched for copy number changes in key receptor
+tyrosine kinase oncogenes such as human epidermal growth
+factor receptor 2 (HER2), epidermal growth factor receptor
+(EGFR), ﬁbroblast growth factor receptor 2 (FGFR2) and
+MET. Other genomic classiﬁcations, such as the Asian Cancer Research Group subtyping, show some overlap with
+TCGA classiﬁcation.29
+Based on positive phase III trial data, HER2 status and
+programmed death-ligand 1 (PD-L1) combined positive
+score (CPS) should be evaluated in patients with metastatic
+gastric cancer to tailor ﬁrst-line treatment in combination
+with chemotherapy (ChT) [see the table of ESMO Scale for
+Clinical Actionability of Molecular Targets (ESCAT) scores for
+further details, Supplementary Table S1, available at
+https://doi.org/10.1016/j.annonc.2022.07.004].30,31
+Patients with HER2-overexpressing gastric cancer [HER2
+immunohistochemistry (IHC) score 3þ or HER2 IHC 2þ and
+FISH positive] beneﬁt from treatment with the anti-HER2
+antibody trastuzumab in addition to standard platinume
+ﬂuoropyrimidine ChT.30,32 The prevalence of HER2 overexpression is 10%-20%, with higher prevalence in proximal/
+OGJ cancers and in the intestinal subtype according to
+Laurén.30,32,33 Efﬁcacy of HER2-targeted treatment is
+hampered by the intratumoural heterogeneity of HER2
+expression. Therefore, quantitative reporting of the proportion of tumour cells staining positive for HER2 by IHC
+and the gene ampliﬁcation ratio (if in situ hybridisation was
+carried out, especially in IHC 2þ patients) have been
+suggested.33
+Emerging data from clinical trials suggest that immunotherapies such as programmed cell death protein 1 (PD-1)
+inhibitors demonstrate efﬁcacy in gastric cancer. Evaluation
+of PD-L1 expression in patients with gastric cancer using
+CPS has been proposed, where a cut-off 1 would indicate
+positive PD-L1 expression; the prevalence of PD-L1 CPS 1
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+tumours is between 50% and 60%.34,35 A CPS cut-off 5
+represents a validated threshold for overall survival (OS)
+beneﬁt of nivolumab given in addition to standard
+platinumeﬂuoropyrimidine ﬁrst-line ChT.31 Different antibodies for staining of PD-L1 in gastric cancer are used. In a
+recent study, PD-L1 22C3 and 28-8 pharmDx assays, both
+tested on the same platform (hardware), were highly
+comparable at CPS cut-offs of 1, 10 and 50, providing evidence for the potential interchangeability of the two PD-L1
+assays in gastric cancer.36 These results, however, were not
+conﬁrmed in another study, which suggested that scoring
+PD-L1 CPS with the 28-8 assay may result in higher PD-L1
+scores and a higher proportion of PD-L1 positivity
+compared with the 22C3 and other assays. Until stronger
+evidence of inter-assay concordance is found, caution
+should be taken when treating the assays as equivalent.37
+MSI-H/mismatch repair deﬁciency (dMMR) are associated with better prognosis in localised stages of gastric
+cancer.38 There is an ongoing debate on whether microsatellite instability (MSI)/mismatch repair (MMR) status
+should be used in order to tailor peri-operative ChT.39,40 As
+MSI-H/dMMR are associated with a high response rate and
+improved beneﬁt from immunotherapy compared with ChT
+in stage IV gastric cancer,41 MSI/MMR status should be
+assessed for patients with locally advanced and unresectable or metastatic gastric cancer to tailor treatment
+accordingly.32
+Other molecular markers, such as FGFR2 ampliﬁcation/
+overexpression, MET ampliﬁcation, claudin-18.2 overexpression and EBV,32 are being investigated and their
+validation as predictive biomarkers in randomised
+controlled trials (RCTs) is awaited.
+Recommendations
+ Diagnosis should be made from multiple (5-8) endoscopic biopsies to guarantee an adequate representation
+of the tumour [IV, B].
+ The histological diagnosis should be reported according
+to WHO criteria [V, B].
+ HER2 expression by IHC and/or ampliﬁcation by in situ
+hybridisation [I, A; ESCAT score: I-A], PD-L1 by IHC according to CPS [I, A] and MSI-H/dMMR [II, A; ESCAT
+score: I-B] are validated predictive biomarkers for drug
+therapy.
+
+STAGING AND RISK ASSESSMENT
+Careful tumour staging is essential to ensure patients are
+appropriately selected for treatment interventions. The
+recommended initial staging investigations are detailed in
+Table 2.
+The following characteristics are frequently demonstrated in malignant lymph nodes detected on computed
+tomography (CT)42:
+ Short axis diameter 6-8 mm in perigastric lymph nodes
+ Round shape
+ Central necrosis
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+1007
+
+Annals of Oncology
+ Loss of the fatty hilum
+ Heterogeneous or high enhancement
+Nevertheless, the sensitivity of CT for lymph node staging
+is variable (62.5%-91.9% on systematic review42) and global
+consensus is lacking on speciﬁc diagnostic criteria.
+EUS is more sensitive for N staging compared with CT (91%
+versus 77%, respectively). Additionally, for T1 staging, the
+sensitivity for EUS (82%) is higher than that for multidetector
+CT (41%); however, both EUS and CT show limited speciﬁcity
+(49% and 63%, respectively).43 [18F]2-Fluoro-2-deoxy-Dglucose (FDG) positron emission tomography (PET)eCT
+imaging may improve staging by detecting involved lymph
+nodes or metastatic disease; however, FDGePET may not be
+informative in patients with mucinous or diffuse tumours due
+to lower tracer uptake.44 Therefore, FDGePETeCT is not
+routinely recommended for staging of gastric cancer.
+Laparoscopy and peritoneal washings for malignant cells
+are recommended in all stage IB-III gastric cancers which are
+considered potentially resectable, to exclude radiologically
+and macroscopically occult peritoneal metastatic disease.
+The beneﬁt is greater for patients with T3/T4 disease and
+poorly cohesive tumours.44 The accuracy for detection of
+peritoneal metastases is good, with overall sensitivity of
+84.6% and speciﬁcity of 100%.45 Peritoneal metastases
+should be documented according to the Peritoneal Carcinomatosis Index (PCI).46 A lower PCI score has been associated with better prognosis, and patients with limited
+peritoneal metastases might be appropriate candidates for
+cytoreductive surgery and hyperthermic intraperitoneal ChT
+(HIPEC); however, evidence is still limited and risks must be
+balanced carefully against uncertain beneﬁts.47-49 The
+prognosis of patients with positive lavage cytology (CYþ)
+without gross peritoneal dissemination is poor. The survival
+
+F. Lordick et al.
+
+beneﬁt of gastrectomy for these patients has not been
+established.50,51 A retrospective analysis, however, indicated a better prognosis if CYþ can be converted to
+negative lavage cytology during neoadjuvant ChT.52 The
+additional value of HIPEC needs to be established in
+ongoing clinical trials. Cases involving CYþ should be discussed in a multidisciplinary tumour board, weighing up the
+risks and potential beneﬁt of surgery. Patients with CYþ
+peritoneal lavage should ideally be treated within a clinical
+trial.
+Gastric cancer should be staged according to the American Joint Committee on Cancer (AJCC)/Union for International Cancer Control (UICC) TNM (tumourenodee
+metastasis) 8th edition staging manual (see Supplementary
+Tables S2 and S3, available at https://doi.org/10.1016/j.
+annonc.2022.07.004).53,54
+Patients should be tested for dihydropyrimidine dehydrogenase enzyme deﬁciency before starting cancer treatment with 5-ﬂuorouracil (5-FU) given by infusion, or with
+the related medicines capecitabine and tegafur.55
+Recommendations
+ Initial staging and risk assessment should include physical examination, full and differential blood count, liver
+and renal function tests, endoscopy and contrastenhanced CT scan of the thorax, abdomen  pelvis
+(Table 2) [V, A].
+ FDGePETeCT is not routinely recommended [III, C].
+ Diagnostic laparoscopy and peritoneal washings for
+cytology are recommended for patients with resectable
+gastric cancer who are also candidates for perioperative ChT [III, B]. Patients with CYþ are uncertain
+candidates for curatively-intended surgical resection.
+ The TNM stage should be recorded according to the 8th
+edition of the AJCC/UICC staging manual [IV, A].
+
+Table 2. Diagnostic and staging investigations in gastric cancer.
+
+MANAGEMENT OF LOCAL AND LOCOREGIONAL DISEASE
+Procedure
+
+Purpose
+
+FBC
+Renal and liver function
+
+Assess for iron deﬁciency anaemia
+Assess renal and liver function to determine
+appropriate therapeutic options
+Endoscopy and biopsy
+Obtain tissue for diagnosis, histological
+classiﬁcation and molecular biomarkers,
+e.g. HER2 status
+CT of thorax þ abdomen Staging of tumour e to detect local/distant
+ pelvis
+lymphadenopathy and metastatic disease or
+ascites
+EUS
+Accurate assessment of T and N stage in
+potentially operable tumours
+Determine the proximal and distal extent of
+tumour
+Laparoscopy þ washings Exclude occult metastatic disease involving
+peritoneum/diaphragm
+PET, if available
+May improve detection of occult metastatic
+disease in some cases. Often negative in diffusetype gastric cancer
+Assessment of nutritional May detect relevant dietary and nutritional
+status
+deﬁciencies in both localised and advanced
+disease settings
+CT, computed tomography; EUS, endoscopic ultrasound; FBC, full blood count; HER2,
+human epidermal growth factor receptor 2; N, node; PET, positron emission tomography; T, tumour.
+
+1008
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+Multidisciplinary treatment planning before any treatment
+decision is mandatory. The core membership of the multidisciplinary team should include surgeons, medical and
+radiation oncologists, gastroenterologists, radiologists and
+pathologists, with dieticians and nurse specialists if available.18 A proposed algorithm for the treatment of localised
+gastric cancer is shown in Figure 1.
+Resection
+Surgical resection of operable gastric cancer is potentially
+curative; however, most patients relapse following resection; therefore, combined modality therapies are standard
+for stage IB disease.
+Endoscopic resection. Endoscopic resection is recommended for very early gastric cancers (T1a) if they are clearly
+(i) conﬁned to the mucosa, (ii) well-differentiated G1-2, (iii)
+2 cm and (iv) non-ulcerated.56 Expanded endoscopic
+resection criteria concerning size, depth of submucosal
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+Annals of Oncology
+
+F. Lordick et al.
+
+Figure 1. Treatment algorithm for localised gastric cancer.
+Purple: general categories or stratiﬁcation; red: surgery; white: other aspects of management; blue: systemic anticancer therapy.
+ChT, chemotherapy; MSI-H, microsatellite instability-high; R1, microscopic tumour at the margin; RT, radiotherapy.
+a
+Endoscopic resection indicated if: (i) conﬁned to mucosa; (ii) well-differentiated G1-2; (iii) 2 cm; (iv) non-ulcerated. Endoscopic resection to be considered if no more
+than two expanded criteria are met according to Pimentel-Nunes et al.56
+b
+Lymph node dissection for T1 tumours may be conﬁned to perigastric lymph nodes and include local N2 nodes (D1þ lymphadenectomy, with variation in nodal groups
+dissected according to site of cancer).
+c
+A triplet ChT regimen including a ﬂuoropyrimidine, a platinum compound and docetaxel should be given when possible. Recommended treatment duration is 2-3
+months pre- and post-operatively.
+d
+Subtotal gastrectomy may be carried out if a macroscopic proximal margin of 3 cm can be achieved. For cancers of the poorly cohesive/diffuse subtype, a margin of
+5 cm is advocated.
+e
+For patients with stage IB gastric cancer who have undergone surgery without administration of preoperative ChT. However, a peri-operative approach is preferred as
+adjuvant ChT is less well tolerated than neoadjuvant ChT and neoadjuvant therapy leads to tumour downsizing, allowing for more curative resections.
+f
+A doublet ChT for a total duration of 6 months containing a ﬂuoropyrimidine plus oxaliplatin or docetaxel is recommended.
+g
+For patients with an R1 resection, adjuvant RT or ChT might be considered as an individual recommendation but is not standard.
+h
+For patients with MSI-H gastric cancers who have undergone surgery, adjuvant ChT cannot be recommended.
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+1009
+
+Annals of Oncology
+invasion and grade of differentiation [G1/G2-no ulceration,
+any diameter; G1/G2-ulceration, diameter 30 mm; G3-no
+ulceration, diameter 20 mm; SM1 tumours (<500 mm)]
+have been published and endoscopic resection might be
+considered for early gastric cancers with fewer than two
+expanded criteria.57 As some of the criteria (grading, invasion
+of the submucosa) require an exact histopathological
+workup, endoscopic resection can primarily be carried out for
+diagnostic purposes and a resection with no tumour at the
+margin (R0) should be aimed for. Two forms of endoscopic
+resection are used in clinical practice: EMR is acceptable for
+lesions smaller than 10-15 mm with a very low probability of
+advanced histology (Paris 0-IIa)23; however, the European
+Society of Gastrointestinal Endoscopy (ESGE) recommends
+ESD as the treatment of choice for most gastric superﬁcial
+neoplastic lesions.56
+Endoscopic resection of early gastric cancer should be
+carried out en bloc and allow for a complete histological
+evaluation of the lateral and basal resection margins.
+Surgery. The extent of surgical resection depends on
+tumour location, TNM category and histological subtype.
+T1 tumours which do not meet the criteria for endoscopic
+resection require surgery, although less extensive surgery
+than other gastric cancers. Lymph node dissection for T1
+tumours may be conﬁned to perigastric lymph nodes and
+include local N2 nodes (D1þ lymphadenectomy, with variation in nodal groups dissected according to the site of
+cancer).
+For stage IB-III disease, radical gastrectomy is indicated. A
+proximal margin of 3 cm is recommended for tumours
+with an expansive growth pattern (including intestinal histotypes) and 5 cm for those with an inﬁltrative growth
+pattern (including poorly cohesive/diffuse histotypes).
+When these rules cannot be satisﬁed, it is advisable to
+examine the whole thickness of proximal resection margin
+by frozen section. Subtotal gastrectomy can be selected
+when a satisfactory proximal resection margin can be
+obtained.58-60
+The extent of nodal dissection accompanying radical
+gastrectomy has been extensively debated. D1 resection
+implies removal of the perigastric lymph nodes plus those
+along the left gastric artery. D1þ and D2 implies removal of
+additional lymph nodes along the proper or common
+hepatic artery, splenic artery or coeliac axis.60 The current
+AJCC/UICC TNM (8th edition) classiﬁcation recommends
+excision of a minimum of 15 lymph nodes for reliable
+staging.53,54 In Asian countries, observational and randomised trials have demonstrated that D2 resection leads to
+superior outcomes compared with D1 resection.60 In
+Western countries, patients with resectable disease should
+undergo D2 resection in specialised, high-volume centres
+with appropriate surgical expertise and post-operative
+care.18 The Association of Upper Gastrointestinal Surgeons
+of Great Britain and Ireland has stated that an ideal oesophagogastric unit would consist of four to six surgeons each
+carrying out a minimum of 15-20 oesophagogastric
+resections per year, serving a population of 1-2 million. The
+1010
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+F. Lordick et al.
+
+German Cancer Society requires 30 gastric resections per
+year by two dedicated surgeons to qualify for certiﬁcation
+as a gastric cancer centre.18 The concept of ‘enhanced
+recovery’ encompasses all aspects of optimal peri-operative
+care for patients undergoing gastrectomy; guidance is provided by relevant Enhanced Recovery After Surgery® Society
+guidelines on this topic.61
+Laparoscopic surgery has the potential beneﬁts of
+decreased post-operative morbidity and reduced recovery
+time, with a lymph node yield comparable with open surgery.62 Trials from East Asia in early and advanced (T2-T4a)
+gastric cancer have shown that laparoscopic distal gastrectomy is non-inferior with regard to oncological outcomes,
+with improved short-term outcomes. In Western countries,
+two small, randomised trials reported similar short-term
+outcomes between open versus laparoscopic gastrectomies, with non-inferior results regarding relapse-free
+survival. Today, laparotomy is an acceptable approach to
+achieve total or partial gastrectomy with D2 lymphadenectomy for gastric cancer. A laparoscopic approach may be
+selectively proposed in expert hands. Robot-assisted gastrectomy has shown similar oncological outcomes in terms
+of survival and lymph node yield compared with conventional laparoscopic gastrectomy. With technical advances,
+future gastric cancer surgery will most likely become
+increasingly minimally invasive and will probably take
+advantage of the rapidly developing robotic technologies.32
+Peri-operative ChT
+The UK-based phase III MAGIC trial demonstrated an
+improvement in 5-year survival from 23% to 36% [hazard
+ratio (HR) for death 0.75; 95% conﬁdence interval (CI) 0.600.93; P ¼ 0.009] in patients with resectable stage II and III
+gastric cancer treated with six cycles (three pre- and
+three post-operative) of epirubicinecisplatine5-FU (ECF)
+compared with surgery alone.63 These data are supported
+by a similarly designed but smaller French phase III trial that
+evaluated a regimen of peri-operative cisplatine5-FU, suggesting that anthracyclines may not be needed for optimal
+results.64 Peri-operative ChT has therefore been adopted as
+the standard of care in Europe and many Western countries.
+A German phase II-III study investigating eight cycles
+of peri-operative 5-FUeleucovorineoxaliplatinedocetaxel
+(FLOT) versus six cycles ECF/epirubicinecisplatinecapecitabine (ECX) reported a signiﬁcant improvement in the primary endpoint of OS (median 50 months with FLOT versus
+35 months with ECF/ECX; HR 0.77; 95% CI 0.63-0.94; P ¼
+0.012), with no major concerns for toxicity.65 Based on
+these data, the peri-operative use of FLOT (four cycles preand four cycles post-operative) should be regarded as
+standard of care for patients who are able to tolerate a
+triple cytotoxic drug regimen. For patients unﬁt for triplet
+ChT, a combination of a ﬂuoropyrimidine with cisplatin or
+oxaliplatin is recommended.
+In all relevant trials, the post-operative ChT regimen was
+the same as the preoperative regimen. Whether a different
+treatment regimen should be used after poor response to
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+Annals of Oncology
+
+F. Lordick et al.
+
+neoadjuvant ChT is currently unknown. Also, the potential
+beneﬁt of additional preoperative radiotherapy (RT) to perioperative ChT is currently undeﬁned and is being explored
+in clinical trials.
+Adjuvant treatment
+Adjuvant ChT. Historically, a greater beneﬁt has been noted
+with adjuvant ChT in Asian studies, and uptake of adjuvant
+ChT in Europe for patients with resected gastric cancer remains limited due to a perceived lack of beneﬁt and routine
+use of peri-operative ChT. Nevertheless, a large individual
+patient-level meta-analysis of adjuvant ChT in gastric cancer
+has conﬁrmed a 6% absolute beneﬁt in 5-year OS for 5-FUbased ChT compared with surgery alone (HR 0.82; 95% CI
+0.76-0.90; P < 0.001) in all subgroups tested, including the
+group of Western patients.66 A doublet ChT for a total
+duration of 6 months containing a ﬂuoropyrimidine plus
+oxaliplatin or docetaxel is recommended. It is notable,
+however, that adjuvant ChT is less well tolerated than
+neoadjuvant ChT and neoadjuvant therapy leads to tumour
+downsizing, allowing for more curative resections; therefore, a peri-operative approach is preferred, if possible, so
+that more patients can beneﬁt from systemic treatment
+even if the post-operative component of treatment is
+unable to be delivered.
+Adjuvant chemoradiotherapy. Recently, the randomised
+phase III CRITICS trial concluded that patients undergoing
+ChT followed by surgery with curative intent have similar OS
+and progression-free survival (PFS), regardless of whether
+they receive ChT or chemoradiotherapy (CRT) after surgery.67,68 Additionally, the Korean ARTIST and ARTIST II
+studies did not demonstrate a survival beneﬁt for the
+addition of RT to adjuvant ChT in patients who had undergone gastrectomy with D2 lymphadenectomy.69-71
+Therefore, in patients who receive adequate surgery and
+have a high risk of relapse (e.g. positive nodal status), only
+adjuvant ChT should be given. The addition of postoperative CRT is not recommended following R0 resection, whereas for patients who have not received preoperative ChT and have not undergone an appropriate D2
+lymphadenectomy, adjuvant CRT can be considered.72,73 In
+current post-operative CRT regimens, RT should preferably
+be given as a concomitant regimen of ﬂuoropyrimidinebased CRT to a total dose of 45 Gy in 25 fractions of 1.8
+Gy (ﬁve fractions per week) by intensity-modulated RT
+techniques.
+In patients who have undergone gastrectomy with
+involved margins and are not candidates for more extended
+surgery, post-operative RT or CRT should be discussed by a
+multidisciplinary tumour board. Post-operative performance status, comorbidities and additional tumour risk
+factors, including nodal status, should be considered for
+decision making. A retrospective Dutch registry study suggested that adjuvant CRT was associated with a marginal
+improvement in survival compared with no further treatment in patients who had undergone a resection with
+microscopic tumour at the margin (R1).74 As in the case of
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+R0 resections, tumour recurrence after R1 resections is
+mainly systemic rather than local. The potential beneﬁt of
+additive local post-operative therapies in R1-resected
+patients must be balanced against overall prognosis and
+therapy-speciﬁc morbidity and mortality. In conclusion, no
+speciﬁc and evidence-based recommendation can be made
+for patients with R1-resected gastric cancer.
+MSI. Patients with MSI-H gastric cancers who have undergone radical resection have a better prognosis compared
+with patients with non-MSI-H subtypes of gastric cancer.
+There seems to be no added beneﬁt of adjuvant ChT in this
+population, according to retrospective analyses of prospectively conducted RCTs.38 Although evidence is limited,
+adjuvant (post-operative) ChT should be avoided in resected
+MSI-H gastric cancers.38 Regarding peri-operative treatment
+of MSI-H disease, combinatorial results from older clinical
+trials that did not use taxanes did not show a beneﬁt of
+peri-operative ChT for patients with MSI-H gastric cancer38;
+however, data from a small number of MSI-H patients
+treated with FLOT demonstrated better response rates than
+historical rates with platinume5-FU.75 Therefore, if a
+response is required to downstage an MSI-H tumour before
+surgery, FLOT is recommended. This does not, however,
+imply that FLOT is better than surgery alone as no control
+group was available to compare in the FLOT4 trial. In the
+future, it is likely that chemoimmunotherapy or immunotherapy alone76 may be alternative treatment choices.
+Recommendations
+ Multidisciplinary treatment planning before any treatment decision is mandatory [IV, B].
+
+Resection
+ Endoscopic or surgical resection alone is appropriate for
+selected very early tumours (stage IA) [III, B].
+ For stage IB-III gastric cancer, peri-operative therapy and
+radical gastrectomy is recommended [I, A].
+ Patients should undergo D2 resection in a high-volume
+surgical centre [II, B].
+
+Peri-operative ChT
+ Peri-operative (pre- and post-operative) ChT is recommended for patients with stage IB resectable gastric
+cancer [I, A].
+ A triplet ChT regimen including a ﬂuoropyrimidine, a
+platinum compound and docetaxel should be given
+when possible [I, A].
+ Peri-operative use of FLOT is standard of care for
+patients who are able to tolerate a triple cytotoxic
+drug regimen [I, A; ESMO-Magnitude of Clinical Beneﬁt
+Scale (ESMO-MCBS) v1.1 score: A].
+ For patients unﬁt for triplet ChT, a combination of a
+ﬂuoropyrimidine with cisplatin or oxaliplatin is recommended [II, B].
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+1011
+
+Annals of Oncology
+
+F. Lordick et al.
+
+Adjuvant treatment
+ For patients with stage IB gastric cancer who have undergone surgery without administration of preoperative
+ChT, adjuvant ChT is recommended [I, A].
+ For patients who have undergone surgery with clear
+margins (R0), post-operative RT has no added beneﬁt
+and should not be given [I, D].
+ For patients undergoing peri- or post-operative ChT, the
+addition of post-operative RT has no added beneﬁt and
+should not be given [I, E].
+ For patients who have not received preoperative ChT
+and have not undergone an appropriate D2 lymphadenectomy, adjuvant CRT can be considered [I, C].
+ For patients who have undergone surgery with involved
+margins (R1), adjuvant RT or CRT might be considered as
+an individual recommendation, but is not standard
+[IV, C].
+ For patients with MSI-H gastric cancer who have undergone curative surgery, adjuvant ChT cannot be recommended [IV, D], but if a response is required to
+downstage a tumour before surgery, FLOT is
+recommended.
+MANAGEMENT OF ADVANCED AND METASTATIC DISEASE
+Locally advanced unresectable or metastatic gastric cancer
+has a poor prognosis; survival in clinical trials assessing the
+value of ChT has historically been <1 year in non-Asian
+countries.32 ChT improves survival in comparison to best
+supportive care, and combination ChT improves survival
+compared with single-agent 5-FU.77 Additionally, the use of
+nivolumab with ChT has recently improved survival for
+patients with advanced/metastatic disease31 and
+trastuzumabeChT has improved survival in patients with
+HER2-positive advanced/metastatic disease.30
+First-line ChT, targeted therapy and immunotherapy
+A proposed algorithm for the ﬁrst-line treatment of
+advanced and metastatic gastric cancer is shown in Figure 2.
+ChT. Standard ﬁrst-line ChT for gastric cancer is a platinume
+ﬂuoropyrimidine doublet. Oxaliplatin and cisplatin are the
+most commonly used platinum drugs, whereas ﬂuoropyrimidines may be administered as an infusion (5-FU) or as
+oral treatment [capecitabine or tegafuregimeracileoteracil
+(S-1)]. Cisplatin and oxaliplatin were shown to be equally
+effective in RCTs.78,79 In older patients (aged >65 years),
+oxaliplatin has a superior safety proﬁle and may be associated with improved survival.79 Oral capecitabine is at least
+as effective as infused 5-FU. Infused 5-FU may be favoured
+when dysphagia is a problem. S-1 is commonly used in
+Asian patients.80 In non-Asian populations, pharmacogenetic differences require altered dosing and reduce S-1
+tolerability. For older or frail patients, results from the
+phase III GO-2 trial support dose-reduced oxaliplatin-based
+
+1012
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+Figure 2. Treatment algorithm for ﬁrst-line treatment of advanced/metastatic
+unresectable gastric cancer.
+Purple: general categories or stratiﬁcation; red: surgery; white: other aspects of
+management; blue: systemic anticancer therapy.
+5-FU, 5-ﬂuorouracil; ChT, chemotherapy; CPS, combined positive score; EMA,
+European Medicines Agency; ESCAT, ESMO Scale for Clinical Actionability of
+Molecular Targets; FDA, Food and Drug Administration; HER2, human epidermal
+growth factor receptor 2; IHC, immunohistochemistry; MCBS, ESMO-Magnitude
+of Clinical Beneﬁt Scale; PD-L1, programmed death-ligand 1; S-1, tegafure
+gimeracileoteracil.
+a
+Recommended platinum compounds are oxaliplatin or cisplatin. Oxaliplatin is
+preferred, especially for older patients. Recommended ﬂuoropyrimidines are
+intravenous 5-FU, oral capecitabine or oral S-1. Irinotecane5-FU can be
+considered an alternative option for patients who do not tolerate platinum
+compounds.
+b
+HER2 IHC 3þ or IHC 2þ/FISH-positive.
+c
+PD-L1 status should be reported according to the CPS.
+d
+ESMO-MCBS v1.1112 was used to calculate scores for therapies/indications
+approved by the EMA or FDA. The scores have been calculated by the ESMOMCBS Working Group and validated by the ESMO Guidelines Committee
+(https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).
+e
+ESCAT scores apply to genomic alterations only. These scores have been deﬁned
+by the guideline authors and validated by the ESMO Translational Research and
+Precision Medicine Working Group.111
+f
+NivolumabeChT is recommended for advanced, untreated gastric cancer with a
+PD-L1 CPS score 5 (FDA approved without PD-L1 CPS restriction, EMA approved
+for PD-L1 CPS 5).
+g
+Gastrectomy is not recommended in metastatic gastric cancer unless required
+for palliation of symptoms.
+h
+Resection of metastases cannot be recommended in general, but might be
+considered as an individual approach in highly selected cases with oligometastatic disease and response to ChT.
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+Annals of Oncology
+
+F. Lordick et al.
+
+ChT, demonstrating lower toxicity and comparable survival
+outcomes versus standard dosing.81
+The addition of a taxane to a platinum doublet increased
+radiological response rates and OS in one older phase III
+randomised trial, but was associated with substantially
+increased toxicity.82 Phase II trials evaluating taxane-based
+triplets showed higher toxicity but did not provide level I
+evidence of higher efﬁcacy.83-85 In the large phase III
+JCOG1013 study, Japanese patients with advanced gastric
+cancer were randomly assigned to receive either cisplatine
+S-1 or cisplatineS-1edocetaxel.86 No differences in radiological response rate, PFS or OS were demonstrated
+between the treatment groups. Due to higher levels of
+toxicity and uncertain survival beneﬁt over recommended
+doublet regimens, ﬁrst-line taxane-based triplet ChT is not
+recommended as a standard approach.
+Irinotecane5-FU has been evaluated in comparison to
+cisplatine5-FU and to ECX in randomised phase III trials and
+demonstrated superior time to treatment failure compared
+with ECX (HR 0.77; 95% CI 0.63-0.93; log-rank P ¼ 0.008).
+Irinotecane5-FU can be considered an alternative option
+for patients who do not tolerate platinum compounds.87,88
+HER2-positive tumours. Adding trastuzumab to ChT is recommended for patients with HER2-overexpressing (HER2
+IHC 3þ or IHC 2þ/FISH positive) gastric cancer, based on
+the phase III ToGA study, which demonstrated higher
+response rates and longer OS (HR 0.74; 95% CI 0.60-0.91;
+P ¼ 0.0046) with trastuzumabeChT compared with ChT
+alone; additional toxicity was low and manageable.30
+Immunotherapy. The phase III CheckMate 649 study evaluated the addition of nivolumab to ChT (either
+capecitabineeoxaliplatin or 5-FUeleucovorineoxaliplatin)
+in patients with treatment-naive gastric, OGJ or oesophageal cancer.31 NivolumabeChT resulted in signiﬁcant
+improvements in OS (HR 0.71; 98.4% CI 0.59-0.86;
+P < 0.0001) and PFS (HR 0.68; 98% CI 0.56-0.81;
+P < 0.0001) versus ChT alone in patients with a PD-L1 CPS
+5 (minimum follow-up 12.1 months).
+In the phase III KEYNOTE-062 trial, pembrolizumab
+monotherapy was non-inferior to cisplatineﬂuoropyrimidine
+ChT for OS in patients with PD-L1 CPS 1, but was associated
+with lower response rates and inferior PFS, and is therefore
+not recommended.89 Pembrolizumab is approved for
+patients with AC of the oesophagus and OGJ expressing PD-L1
+CPS 10, based on the results of the phase III KEYNOTE-590
+trial90; however, KEYNOTE-590 included relatively few
+patients with AC.
+Patients with MSI-H gastric cancer have high response
+rates and excellent long-term outcomes when treated with
+anti-PD-1 monotherapy.41,91
+Second- and later-line treatment
+A proposed algorithm for the second-line treatment of
+advanced and metastatic gastric cancer is shown in Figure 3.
+In previously treated gastric cancer, treatment options often
+follow clinical trials which have enrolled patients with
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+gastric and OGJ cancer. The standard ChT options are
+paclitaxel, docetaxel and irinotecan, which have equivalent
+efﬁcacy but different toxicity proﬁles.77,92 5-FUeleucovorineirinotecan (FOLFIRI) is also used, but there are
+limited data to support this regimen.88 The addition of the
+anti-vascular endothelial growth factor receptor 2 (VEGFR2)
+antibody, ramucirumab, to paclitaxel improves overall
+response rate (ORR), PFS and OS, based on the results of
+the phase III RAINBOW trial.93 In the phase III REGARD trial,
+ramucirumab monotherapy demonstrated limited response
+rates but improved OS compared with placebo.94 In the
+phase III KEYNOTE-061 trial, pembrolizumab monotherapy
+did not improve survival compared with ChT in second-line
+gastroesophageal cancer,95 but an exploratory subgroup
+analysis suggested a beneﬁt in advanced MSI-H gastric
+cancer.41 In the phase II KEYNOTE-158 trial, pembrolizumab
+monotherapy was highly active in patients with previously
+treated advanced MSI-H gastric cancer, demonstrating an
+ORR of 45.8% and a median PFS of 11 months, with median
+OS and median duration of response not yet reached.96
+Such results have never been reported with ChT. If available, pembrolizumab should therefore be the preferred
+treatment in this setting.
+Trials evaluating second-line trastuzumab combinations,
+lapatinib and trastuzumab emtansine have been negative
+in patients with HER2-positive gastric cancer who have
+progressed on trastuzumab32; however, a recent phase II
+Asian randomised trial evaluating the HER2-targeting
+antibody drug conjugate, trastuzumab deruxtecan,
+compared with ChT in HER2-positive pre-treated gastric
+cancer reported a survival beneﬁt for trastuzumab
+deruxtecan-treated patients.97 Conﬁrmatory global trials
+have demonstrated comparable response rates in nonAsian populations.98
+In the third-line setting for patients with gastric cancer,
+treatment with triﬂuridineetipiracil has the strongest evidence base following the phase III TAGS trial.99 Alternative
+treatments in chemorefractory gastric cancer include a
+taxane or irinotecan.77 A proposed algorithm for the thirdline treatment of advanced and metastatic gastric cancer is
+shown in Figure 4.
+Surgery for metastatic gastric cancer
+The randomised phase III REGATTA trial demonstrated that
+gastrectomy in addition to ChT without resection of metastases for oligometastatic gastric cancer did not improve
+survival compared with ChT alone.100 The phase II AIOFLOT3 trial reported favourable outcomes in patients with
+oligometastatic disease after FLOT induction followed by
+gastrectomy plus resection of the metastatic site, but this
+study was not randomised.101 The potential beneﬁt of
+surgery in oligometastatic gastric cancer is currently being
+explored in two ongoing randomised phase III trials [RENAISSANCE (NCT0257836) and SURGIGAST (NCT03042169)],
+but at the present time, data to support routine resection
+or ablation of oligometastases are limited.102 In case of
+limited peritoneal carcinomatosis, addition of HIPEC to
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+1013
+
+Annals of Oncology
+
+F. Lordick et al.
+
+Figure 3. Treatment algorithm for second-line treatment of advanced/metastatic unresectable gastric cancer.
+Purple: general categories or stratiﬁcation; white: other aspects of management; blue: systemic anticancer therapy.
+ChT, chemotherapy; dMMR, mismatch repair deﬁcient; EMA, European Medicines Agency; ESCAT, ESMO Scale for Clinical Actionability of Molecular Targets; FDA, Food
+and Drug Administration; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; MSI-H, microsatellite instability-high; tx, treatment.
+a
+ESMO-MCBS v1.1112 was used to calculate scores for therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS Working
+Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).
+b
+ESCAT scores apply to genomic alterations only. These scores have been deﬁned by the guideline authors and validated by the ESMO Translational Research and
+Precision Medicine Working Group.111
+
+cytoreduction has been reported to be safe and may be
+associated with some improved oncological outcomes, but
+is yet to be conﬁrmed in larger trials.47-49 Peri-operative ChT
+with or without HIPEC may also be a strategy for patients
+with CYþ without gross peritoneal metastases, but the
+prognostic beneﬁt of gastrectomy in this situation is
+currently not established.50-52
+Pressurised intraperitoneal aerosol ChT (PIPAC) is a
+recently developed technique that allows homogeneous
+locoregional application of intraperitoneal ChT during a
+laparoscopic procedure. This technique could offer a valuable alternative for patients with unresectable peritoneal
+disease. Results from the randomised, controlled, multicentre phase II PIPAC EstoK 01 trial evaluating PIPAC in
+addition to intravenous ChT are awaited.103
+
+Supportive care and nutrition
+Supportive care is critical for the well-being of patients with
+gastric cancer. A recent randomised phase III trial demonstrated an increase in survival of 3 months for patients who
+received multidisciplinary supportive care compared with
+those who received standard ChT.104 Supportive care includes both palliation of symptoms and nutritional support.
+1014
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+Weight loss is multifactorial and may be due to
+obstruction of the gastrointestinal tract, anorexia, malabsorption or hypermetabolism. In clinical trial datasets,
+weight loss of 10% before treatment and 3% during the
+ﬁrst cycle of treatment is associated with reduced OS.105
+Dysphagia due to proximal gastric tumours may be
+relieved by RT or stent placement.106 Single-dose brachytherapy may be a preferred option even after external RT,
+since it provides better long-term relief of dysphagia with
+fewer complications than metal stent placement. Stenting is
+warranted in patients with severe dysphagia, especially with
+short life expectancy, since the effect on swallowing is
+immediate, whereas RT (both brachytherapy and external
+beam) takes around 4-6 weeks for relief of dysphagia.107
+Options for patients who are not suitable for RT or stent
+placement include enteral feeding using nasojejunal or
+nasogastric tubes, or placement of percutaneous feeding
+tubes. Distal gastric outlet obstruction may be treated by
+pyloric stenting or bypass surgery.
+Recommendations
+First-line ChT, targeted therapy and immunotherapy
+ First-line ChT with a platinum and ﬂuoropyrimidine is
+recommended. Oxaliplatin is preferred, especially for
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+Annals of Oncology
+
+F. Lordick et al.
+
+Second- and later-line treatment
+ Ramucirumabepaclitaxel is recommended for secondline treatment of gastric cancer [I, A; ESMO-MCBS v1.1
+score: 2]. Ramucirumab monotherapy is also an option
+[I, B; ESMO-MCBS v1.1 score: 1].
+ Where ramucirumab is not available, paclitaxel, docetaxel or irinotecan monotherapy [I, A] or FOLFIRI [II, B]
+are recommended.
+ Treatment with trastuzumab is not recommended after
+ﬁrst-line therapy in HER2-positive advanced gastric
+cancer [I, D], but trastuzumab deruxtecan may be
+considered [II, B; ESMO-MCBS v1.1 score: 4; Food
+and Drug Administration (FDA) approved, not EMA
+approved].
+ Pembrolizumab is recommended for second-line treatment of patients with MSI-H/dMMR gastric cancer [II,
+A; ESMO-MCBS v1.1 score: 3; ESCAT score: I-B].
+ For patients previously treated with two lines of therapy,
+triﬂuridineetipiracil is recommended [I, A; ESMO-MCBS
+v1.1 score: 3]. Alternative treatments include a taxane
+or irinotecan [II, B].
+Surgery for metastatic gastric cancer
+ Gastrectomy is not recommended in metastatic gastric
+cancer unless required for palliation of symptoms [I, D].
+ Resection of metastases cannot be recommended in
+general, but might be considered as an individual
+approach in highly selected cases with oligometastatic
+disease and response to ChT [V, C].
+Figure 4. Treatment algorithm for third-line treatment of advanced/metastatic unresectable gastric cancer.
+Purple: general categories or stratiﬁcation; white: other aspects of management;
+blue: systemic anticancer therapy.
+ChT, chemotherapy; i.v., intravenous; MCBS, ESMO-Magnitude of Clinical Beneﬁt
+Scale.
+a
+ESMO-MCBS v1.1112 was used to calculate scores for therapies/indications
+approved by the European Medicines Agency or Food and Drug Administration.
+The scores have been calculated by the ESMO-MCBS Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/
+esmo-mcbs/esmo-mcbs-evaluation-forms).
+b
+If not given previously for advanced/metastatic disease.
+
+
+
+
+
+
+
+
+older patients [I, A]. S-1 is commonly used in Asian
+patients [I, A].
+Due to higher levels of toxicity and uncertain survival
+beneﬁt over recommended doublet regimens, ﬁrst-line
+taxane-based triplet ChT is not recommended as a standard approach [I, C].
+Irinotecane5-FU can be considered an alternative option
+for patients who do not tolerate platinum compounds
+[II, B].
+TrastuzumabeChT is recommended in patients with
+HER2-positive tumours [I, A; ESMO-MCBS v1.1 score: 3;
+ESCAT score: I-A].
+NivolumabeChT is recommended for advanced,
+untreated gastric, OGJ and oesophageal cancer with a
+PD-L1 CPS 5 [I, A; ESMO-MCBS v1.1 score: 4].
+Pembrolizumab is approved for patients with AC of the
+oesophagus and OGJ expressing PD-L1 CPS 10 [II, C;
+ESMO-MCBS v1.1 score: 4].
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+Supportive care and nutrition
+ Care for patients with gastric cancer should include an
+early palliative care referral and nutritional support [I, A].
+
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND
+SURVIVORSHIP
+In the setting of resectable gastric cancer, the complexity
+of treatment frequently induces symptoms that
+adversely affect health-related quality of life. Regular
+follow-up may allow investigation and treatment of
+symptoms, psychological support and early detection of
+recurrence, though there is no evidence that it improves
+survival outcomes. Follow-up should be tailored to the
+individual patient and stage of disease.108 Dietary support is recommended, with attention to vitamin and
+mineral deﬁciencies.109,110
+In the advanced disease setting, regular follow-up is
+recommended to detect symptoms of disease progression
+before signiﬁcant clinical deterioration. If disease progression is suspected, then a clinical history, physical examination and directed blood tests should be carried out.
+Radiological investigations should be carried out in patients
+who are candidates for further cancer-speciﬁc therapies.
+For patients receiving cancer-speciﬁc therapies such as ChT,
+CT of the thorax/abdomen plus speciﬁc body regions of
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+1015
+
+Annals of Oncology
+interest, if necessary, are typically recommended every 6-12
+weeks in order to avoid futile therapy and to switch to
+alternative treatment options, if available.
+The aggressive nature of gastric cancer and historically
+poor outcomes even in the setting of resectable disease
+mean that the concept of survivorship is only now beginning to evolve. Long-term implications, late effects of
+therapy and the psychosocial impact of treatment have
+been poorly studied to date.
+
+Recommendations
+ Regular follow-up is recommended for investigation and
+treatment of symptoms, psychological support and early
+detection of recurrence [III, B].
+ Follow-up should be tailored to the individual patient
+and stage of disease [V, B].
+ Dietary support is recommended with attention to
+vitamin and mineral deﬁciencies [V, B].
+ In the advanced disease setting, regular follow-up is recommended to detect symptoms of disease progression
+before signiﬁcant clinical deterioration [IV, B].
+ Radiological investigations, speciﬁcally CT of the thorax
+and abdomen, should be carried out every 6-12 weeks
+in patients who are candidates for further cancerspeciﬁc therapies [IV, B].
+
+METHODOLOGY
+This CPG was developed in accordance with the ESMO
+standard operating procedures for CPG development
+(http://www.esmo.org/Guidelines/ESMO-GuidelinesMethodology). The relevant literature has been selected by
+the expert authors. An ESCAT table with ESCAT scores is
+included in Supplementary Table S1, available at https://
+doi.org/10.1016/j.annonc.2022.07.004. ESCAT scores have
+been deﬁned by the authors and validated by the ESMO
+Translational Research and Precision Medicine Working
+Group.111 An ESMO-MCBS table with ESMO-MCBS scores is
+included in Supplementary Table S4, available at https://
+doi.org/10.1016/j.annonc.2022.07.004.
+ESMO-MCBS
+v1.1112 was used to calculate scores for therapies/indications approved by the EMA or FDA (https://www.esmo.
+org/Guidelines/ESMO-MCBS). The scores have been calculated by the ESMO-MCBS Working Group and validated by
+the ESMO Guidelines Committee. The FDA/EMA or other
+regulatory body approval statuses of new therapies/indications are reported at the time of writing this CPG. Levels
+of evidence and grades of recommendation have been
+applied using the system shown in Supplementary Table S5,
+available at https://doi.org/10.1016/j.annonc.2022.07.
+004.113,114 Statements without grading were considered
+justiﬁed standard clinical practice by the authors. Future
+updates to this CPG will be published on esmo.org as a
+Living Guideline version or an eUpdate, to be made available at: https://www.esmo.org/guidelines/gastrointestinalcancers/gastric-cancer.
+1016
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+F. Lordick et al.
+
+ACKNOWLEDGEMENTS
+Manuscript editing support was provided by Jennifer Lamarre
+(ESMO Guidelines staff) and Angela Corstorphine and SianMarie Lucas of Kstorﬁn Medical Communications Ltd (KMC);
+this support was funded by ESMO. Nathan Cherny, Chair of the
+ESMO-MCBS Working Group, Urani Dafni ESMO-MCBS
+Working Group Member/Frontier Science Foundation Hellas
+and Giota Zygoura of Frontier Science Foundation Hellas provided review and validation of the ESMO-MCBS scores. Nicola
+Latino (ESMO Scientiﬁc Affairs staff) provided coordination
+and support of the ESMO-MCBS scores and Angela Corstorphine and Sian-Marie Lucas of KMC provided medical
+writing and editing support in the preparation of the ESMOMCBS table; this support was funded by ESMO. Dr Benedikt
+Westphalen, Dr Noelia Tarazona (members of the ESMO
+Translational Research and Precision Medicine Working
+Group) and Dr Svetlana Jezdic (ESMO Medical Affairs Advisor)
+provided validation support for ESCAT scores.
+FUNDING
+No external funding has been received for the preparation
+of this guideline. Production costs have been covered by
+ESMO, Switzerland from central funds.
+DISCLOSURE
+FL reports personal fees for advisory board membership of
+Amgen, Astellas Pharma, Bristol Myers Squibb (BMS), Bayer,
+Beigene, BioNTech, Eli Lilly, Merck Sharp & Dohme (MSD),
+Novartis, Roche and Daiichi-Sankyo; personal fees as an
+invited speaker for AstraZeneca, BMS, Eli Lilly, Imedex,
+Incyte, MedUpdate, Medscape, Merck Serono, MSD, Roche,
+Servier and StreamedUp!; personal fees from BioNTech and
+Elsevier for expert testimony; personal fees for writing engagements for Deutscher Ärzteverlag, Iomedico and
+Springer-Nature and a research grant paid to his institute
+from BMS. SC reports personal fees as an invited speaker
+from Amgen, Lilly and Servier and personal fees for advisory
+board membership of BMS, Daiichi, Lilly, MSD and Servier.
+TF reports personal fees as an invited speaker from Amgen,
+Bayer, Bristol and Servier; non-remunerated activities as
+principal investigator (PI) for Adapt Immune, BeiGene and
+Daiichi Sankyo. KH reports personal fees as for an editorial
+role as Clinical Editor for Radiotherapy & Oncology. GP reports personal fees as an invited speaker from Amgen and
+Roche; personal fees for advisory board membership from
+Astellas, BMS and MSD; personal fees for writing engagement and participation in a study on immunonutrition from
+Nestle; institutional funding as a local PI for Bard, BMS and
+MSD; non-remunerated advisory role on the French board
+on colorectal surgery of Johnson & Johnson and participation in the Medtronic-sponsored European group of upper
+GI surgeons dedicated to minimally invasive surgery. AV
+reports personal fees for speaker, consultancy and advisory
+roles for AstraZeneca, Amgen, Basilea, BeiGene, Bayer,
+Boehringer Mannheim, BMS, BTG, Daiichi-Sankyo, Eisai,
+GlaxoSmithKline (GSK), Imaging Equipment Ltd (AAA),
+Incyte, Ipsen, Jiangsu Hengrui Medicine, MSD, Pierre Fabre,
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+Annals of Oncology
+
+F. Lordick et al.
+
+Roche, Sanoﬁ, Servier, Sirtex, Tahio and Terumo; research
+funding from Incyte and Servier; and participation in
+educational activities for OncLive and Oncowissen.de. ECS
+reports personal fees as an invited speaker from Amgen,
+BMS, Imedex, Merck, Novartis, Prova Education, Servier and
+touchIME; personal fees for advisory board membership of
+Astellas, AstraZeneca, BMS, My Personal Therapeutics,
+Novartis, Roche and Zymeworks; other personal fees from
+Amgen Trial Steering Group (TSC), BeiGene and Zymeworks
+for Independent Data Monitoring Committee (IDMC)
+membership, BMS for expert testimony, Everest Clinical
+Research as IDMC chair; institutional funding as a local or
+coordinating PI for clinical trial research from AstraZeneca,
+Basilea, Daiichi Sankyo, Roche, Merus and MSD and a
+research grant to her institute from BMS. FC has declared
+no conﬂicts of interest.
+REFERENCES
+1. Ferlay J, Ervik M, Colombet M, et al. Global Cancer Observatory:
+Cancer Today. Lyon, France: International Agency for Research on
+Cancer. Available at https://gco.iarc.fr/today. Published 2020.
+Accessed September 30, 2021.
+2. GBD 2017 Stomach Collaborators. The global, regional, and national
+burden of stomach cancer in 195 countries, 1990-2017: a systematic
+analysis for the Global Burden of Disease study 2017. Lancet Gastroenterol Hepatol. 2020;5(1):42-54.
+3. Colquhoun A, Arnold M, Ferlay J, et al. Global patterns of cardia and
+non-cardia gastric cancer incidence in 2012. Gut. 2015;64(12):18811888.
+4. Cancer Genome Atlas Research Network. Comprehensive molecular
+characterization of gastric adenocarcinoma. Nature. 2014;513(7517):
+202-209.
+5. Arnold M, Ferlay J, van Berge Henegouwen MI, et al. Global burden
+of oesophageal and gastric cancer by histology and subsite in 2018.
+Gut. 2020;69(9):1564-1571.
+6. Rustgi SD, Ching CK, Kastrinos F. Inherited predisposition to gastric
+cancer. Gastrointest Endosc Clin N Am. 2021;31(3):467-487.
+7. Garcia-Pelaez J, Barbosa-Matos R, São José C, et al. Gastric cancer
+genetic predisposition and clinical presentations: established heritable causes and potential candidate genes. Eur J Med Genet.
+2022;65(1):104401.
+8. Blair VR, McLeod M, Carneiro F, et al. Hereditary diffuse gastric
+cancer: updated clinical practice guidelines. Lancet Oncol. 2020;21(8):
+e386-e397.
+9. Lee K, Krempely K, Roberts ME, et al. Speciﬁcations of the ACMG/
+AMP variant curation guidelines for the analysis of germline CDH1
+sequence variants. Hum Mutat. 2018;39(11):1553-1568.
+10. Choi IJ, Kim CG, Lee JY, et al. Family history of gastric cancer and
+Helicobacter pylori treatment. N Engl J Med. 2020;382(5):427-436.
+11. Ford AC, Yuan Y, Forman D, et al. Helicobacter pylori eradication for
+the prevention of gastric neoplasia. Cochrane Database Syst Rev.
+2020;7(7):CD005583.
+12. Correa P. Gastric cancer: overview. Gastroenterol Clin North Am.
+2013;42(2):211-217.
+13. Choi KS, Jun JK, Suh M, et al. Effect of endoscopy screening on stage
+at gastric cancer diagnosis: results of the National Cancer Screening
+Programme in Korea. Br J Cancer. 2015;112(3):608-612.
+14. Fan X, Qin X, Zhang Y, et al. Screening for gastric cancer in China: advances, challenges and visions. Chin J Cancer Res. 2021;33(2):168-180.
+15. Mabe K, Inoue K, Kamada T, et al. Endoscopic screening for gastric
+cancer in Japan: Current status and future perspectives. Dig Endosc.
+2022;34(3):412-419.
+16. Banks M, Graham D, Jansen M, et al. British Society of Gastroenterology guidelines on the diagnosis and management of patients at
+risk of gastric adenocarcinoma. Gut. 2019;68(9):1545-1575.
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+17. Cubiella J, Pérez Aisa Á, Cuatrecasas M, et al. Gastric cancer screening
+in low incidence populations: position statement of AEG, SEED and
+SEAP. Gastroenterol Hepatol. 2021;44(1):67-86.
+18. Allum W, Lordick F, Alsina M, et al. ECCO essential requirements for
+quality cancer care: oesophageal and gastric cancer. Crit Rev Oncol
+Hematol. 2018;122:179-193.
+19. Gullo I, Grillo F, Molinaro L, et al. Minimum biopsy set for HER2
+evaluation in gastric and gastro-esophageal junction cancer. Endosc
+Int Open. 2015;3(2):E165-E170.
+20. Tominaga N, Gotoda T, Hara M, et al. Five biopsy specimens from the
+proximal part of the tumor reliably determine HER2 protein expression status in gastric cancer. Gastric Cancer. 2016;19(2):553-560.
+21. Hamada K, Itoh T, Kawaura K, et al. Examination of endoscopic ultrasonographic diagnosis for the depth of early gastric cancer. J Clin
+Med Res. 2021;13(4):222-229.
+22. Ono H, Yao K, Fujishiro M, et al. Guidelines for endoscopic submucosal dissection and endoscopic mucosal resection for early gastric
+cancer (second edition). Dig Endosc. 2021;33(1):4-20.
+23. Endoscopic Classiﬁcation Review Group. Update on the Paris classiﬁcation of superﬁcial neoplastic lesions in the digestive tract.
+Endoscopy. 2005;37(6):570-578.
+24. Borrmann R. Geschwulste des Magens und Duodenum. In: Henke F,
+Lubarch O, editors. Handbuch der Spezielen Pathologischen Anatomie
+und Histology. Berlin, Germany: Springer Verlag; 1926.
+25. Carneiro F, Fukayama M, Grabsch HI, et al. Gastric adenocarcinoma.
+In: WHO Classiﬁcation of Tumours Editorial Board, ed. Digestive
+System Tumours. 5th ed Lyon, France: International Agency for
+Research on Cancer; 2019. p. 85-95.
+26. Japanese Gastric Cancer Association. Japanese classiﬁcation of gastric
+carcinoma. 15th ed. Tokyo, Japan: Kanehara Shuppan; 2017.
+27. Nakamura K, Sugano H, Takagi K. Carcinoma of the stomach in
+incipient phase: its histogenesis and histological appearances. Gan.
+1968;59(3):251-258.
+28. Lauren P. The two histological main types of gastric carcinoma: diffuse
+and so-called intestinal-type carcinoma. An attempt at a histo-clinical
+classiﬁcation. Acta Pathol Microbiol Scand. 1965;64:31-49.
+29. Cristescu R, Lee J, Nebozhyn M, et al. Molecular analysis of gastric
+cancer identiﬁes subtypes associated with distinct clinical outcomes.
+Nat Med. 2015;21(5):449-456.
+30. Bang YJ, Van Cutsem E, Feyereislova A, et al. Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal
+junction cancer (ToGA): a phase 3, open-label, randomised controlled
+trial. Lancet. 2010;376(9742):687-697.
+31. Janjigian YY, Shitara K, Moehler M, et al. First-line nivolumab plus
+chemotherapy versus chemotherapy alone for advanced gastric,
+gastro-oesophageal junction, and oesophageal adenocarcinoma
+(CheckMate 649): a randomised, open-label, phase 3 trial. Lancet.
+2021;398(10294):27-40.
+32. Smyth EC, Nilsson M, Grabsch HI, et al. Gastric cancer. Lancet.
+2020;396(10251):635-648.
+33. Haffner I, Schierle K, Raimúndez E, et al. HER2 expression, test deviations, and their impact on survival in metastatic gastric cancer:
+results from the prospective multicenter VARIANZ study. J Clin Oncol.
+2021;39(13):1468-1478.
+34. Kulangara K, Zhang N, Corigliano E, et al. Clinical utility of the combined positive score for programmed death ligand-1 expression and
+the approval of pembrolizumab for treatment of gastric cancer. Arch
+Pathol Lab Med. 2019;143(3):330-337.
+35. Wainberg ZA, Fuchs CS, Tabernero J, et al. Efﬁcacy of pembrolizumab
+monotherapy for advanced gastric/gastroesophageal junction cancer
+with programmed death ligand 1 combined positive score 10. Clin
+Cancer Res. 2021;27(7):1923-1931.
+36. Ahn S, Kim KM. PD-L1 expression in gastric cancer: interchangeability
+of 22C3 and 28-8 pharmDx assays for responses to immunotherapy.
+Mod Pathol. 2021;34(9):1719-1727.
+37. Yeong J, Lum HYJ, Teo CB, et al. Choice of PD-L1 immunohistochemistry assay inﬂuences clinical eligibility for gastric cancer
+immunotherapy. Gastric Cancer. 2022;25:741-750.
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+1017
+
+Annals of Oncology
+38. Pietrantonio F, Miceli R, Raimondi A, et al. Individual patient data
+meta-analysis of the value of microsatellite instability as a biomarker
+in gastric cancer. J Clin Oncol. 2019;37(35):3392-3400.
+39. Lordick F. Chemotherapy for resectable microsatellite instability-high
+gastric cancer? Lancet Oncol. 2020;21(2):203.
+40. Smyth EC. Chemotherapy for resectable microsatellite instability-high
+gastric cancer? Lancet Oncol. 2020;21(2):204.
+41. Chao J, Fuchs CS, Shitara K, et al. Assessment of pembrolizumab
+therapy for the treatment of microsatellite instability-high gastric or
+gastroesophageal junction cancer among patients in the KEYNOTE059, KEYNOTE-061, and KEYNOTE-062 clinical trials. JAMA Oncol.
+2021;7(6):895-902.
+42. Kwee RM, Kwee TC. Imaging in local staging of gastric cancer: a
+systematic review. J Clin Oncol. 2007;25(15):2107-2116.
+43. Nie RC, Yuan SQ, Chen XJ, et al. Endoscopic ultrasonography
+compared with multidetector computed tomography for the preoperative staging of gastric cancer: a meta-analysis. World J Surg Oncol.
+2017;15(1):113.
+44. Gertsen EC, Brenkman HJF, van Hillegersberg R, et al. 18F-ﬂudeoxyglucose-positron emission tomography/computed tomography and
+laparoscopy for staging of locally advanced gastric cancer: a multicenter prospective Dutch cohort study (PLASTIC). JAMA Surg.
+2021;156(12):e215340.
+45. Ramos RF, Scalon FM, Scalon MM, et al. Staging laparoscopy in
+gastric cancer to detect peritoneal metastases: a systematic review
+and meta-analysis. Eur J Surg Oncol. 2016;42(9):1315-1321.
+46. Harmon RL, Sugarbaker PH. Prognostic indicators in peritoneal carcinomatosis from gastrointestinal cancer. Int Semin Surg Oncol. 2005;2(1):3.
+47. Bonnot PE, Piessen G, Kepenekian V, et al. Cytoreductive surgery with
+or without hyperthermic intraperitoneal chemotherapy for gastric
+cancer with peritoneal metastases (CYTO-CHIP study): a propensity
+score analysis. J Clin Oncol. 2019;37(23):2028-2040.
+48. Bonnot PE, Lintis A, Mercier F, et al. Prognosis of poorly cohesive
+gastric cancer after complete cytoreductive surgery with or without
+hyperthermic intraperitoneal chemotherapy (CYTO-CHIP study). Br J
+Surg. 2021;108(10):1225-1235.
+49. Rau B, Lang H, Konigsrainer A, et al. The effect of hyperthermic
+intraperitoneal chemotherapy (HIPEC) upon cytoreductive surgery
+(CRS) in gastric cancer (GC) with synchronous peritoneal metastasis
+(PM): A randomized multicentre phase III trial (GASTRIPEC-I-trial).
+Ann Oncol. 2021;32(suppl 5):S1040-S1075.
+50. Kobayashi H, Honda M, Kawamura H, et al. Clinical impact of gastrectomy
+for gastric cancer patients with positive lavage cytology without gross
+peritoneal dissemination. J Surg Oncol. 2022;125(4):615-620.
+51. Higaki E, Yanagi S, Gotohda N, et al. Intraoperative peritoneal lavage
+cytology offers prognostic signiﬁcance for gastric cancer patients with
+curative resection. Cancer Sci. 2017;108(5):978-986.
+52. Valletti M, Eshmuminov D, Gnecco N, et al. Gastric cancer with
+positive peritoneal cytology: survival beneﬁt after induction chemotherapy and conversion to negative peritoneal cytology. World J Surg
+Oncol. 2021;19(1):245.
+53. Stomach cancer. In: Amin MB, Edge S, Greene F, et al., editors. AJCC
+Cancer Staging Manual. 8th ed. New York, NY: Springer; 2017. p. 203-220.
+54. Stomach. In: Brierley JD, Gospodarowicz MK, Wittekind C, editors.
+UICC TNM Classiﬁcation of Malignant Tumours. 8th ed. Oxford, UK:
+Wiley-Blackwell; 2017.
+55. European Medicines Agency. EMA recommendations on DPD testing
+prior to treatment with ﬂuorouracil, capecitabine, tegafur and ﬂucytosine. Available at https://www.ema.europa.eu/en/documents/
+press-release/ema-recommendations-dpd-testing-prior-treatmentﬂuorouracil-capecitabine-tegafur-ﬂucytosine_en.pdf. Published 2020.
+Accessed June 20, 2022.
+56. Pimentel-Nunes P, Dinis-Ribeiro M, Ponchon T, et al. Endoscopic
+submucosal dissection: European Society of Gastrointestinal Endoscopy (ESGE) Guideline. Endoscopy. 2015;47(9):829-854.
+57. Probst A, Schneider A, Schaller T, et al. Endoscopic submucosal
+dissection for early gastric cancer: are expanded resection criteria
+safe for Western patients? Endoscopy. 2017;49(9):855-865.
+
+1018
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+F. Lordick et al.
+58. Maspero M, Sposito C, Benedetti A, et al. Impact of surgical margins
+on overall survival after gastrectomy for gastric cancer: a validation of
+Japanese gastric cancer association guidelines on a Western series.
+Ann Surg Oncol. 2022;29(5):3096-3108.
+59. De Manzoni G, Marrelli D, Baiocchi GL, et al. The Italian Research
+Group for Gastric Cancer (GIRCG) guidelines for gastric cancer staging
+and treatment: 2015. Gastric Cancer. 2017;20(1):20-30.
+60. Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2018 (5th edition). Gastric Cancer. 2021;24(1):1-21.
+61. Mortensen K, Nilsson M, Slim K, et al. Consensus guidelines for
+enhanced recovery after gastrectomy: Enhanced Recovery After
+Surgery (ERAS®) Society recommendations. Br J Surg. 2014;101(10):
+1209-1229.
+62. Quan Y, Huang A, Ye M, et al. Comparison of laparoscopic versus open
+gastrectomy for advanced gastric cancer: an updated meta-analysis.
+Gastric Cancer. 2016;19(3):939-950.
+63. Cunningham D, Allum WH, Stenning SP, et al. Perioperative chemotherapy versus surgery alone for resectable gastroesophageal cancer.
+N Engl J Med. 2006;355(1):11-20.
+64. Ychou M, Boige V, Pignon JP, et al. Perioperative chemotherapy
+compared with surgery alone for resectable gastroesophageal
+adenocarcinoma: an FNCLCC and FFCD multicenter phase III trial.
+J Clin Oncol. 2011;29(13):1715-1721.
+65. Al-Batran SE, Homann N, Pauligk C, et al. Perioperative chemotherapy
+with ﬂuorouracil plus leucovorin, oxaliplatin, and docetaxel versus
+ﬂuorouracil or capecitabine plus cisplatin and epirubicin for locally
+advanced, resectable gastric or gastro-oesophageal junction adenocarcinoma (FLOT4): a randomised, phase 2/3 trial. Lancet.
+2019;393(10184):1948-1957.
+66. Paoletti X, Oba K, Burzykowski T, et al. Beneﬁt of adjuvant chemotherapy for resectable gastric cancer: a meta-analysis. JAMA.
+2010;303(17):1729-1737.
+67. Cats A, Jansen EPM, van Grieken NCT, et al. Chemotherapy versus
+chemoradiotherapy after surgery and preoperative chemotherapy for
+resectable gastric cancer (CRITICS): an international, open-label,
+randomised phase 3 trial. Lancet Oncol. 2018;19(5):616-628.
+68. de Steur WO, van Amelsfoort RM, Hartgrink HH, et al. Adjuvant
+chemotherapy is superior to chemoradiation after D2 surgery for
+gastric cancer in the per-protocol analysis of the randomized CRITICS
+trial. Ann Oncol. 2021;32(3):360-367.
+69. Lee J, Lim DH, Kim S, et al. Phase III trial comparing capecitabine plus
+cisplatin versus capecitabine plus cisplatin with concurrent capecitabine radiotherapy in completely resected gastric cancer with D2 lymph
+node dissection: the ARTIST trial. J Clin Oncol. 2012;30(3):268-273.
+70. Park SH, Lim DH, Sohn TS, et al. A randomized phase III trial
+comparing adjuvant single-agent S1, S-1 with oxaliplatin, and postoperative chemoradiation with S-1 and oxaliplatin in patients with
+node-positive gastric cancer after D2 resection: the ARTIST 2 trial(5).
+Ann Oncol. 2021;32(3):368-374.
+71. Park SH, Sohn TS, Lee J, et al. Phase III trial to compare adjuvant
+chemotherapy with capecitabine and cisplatin versus concurrent
+chemoradiotherapy in gastric cancer: ﬁnal report of the adjuvant
+chemoradiotherapy in stomach tumors trial, including survival and
+subset analyses. J Clin Oncol. 2015;33(28):3130-3136.
+72. Macdonald JS, Smalley SR, Benedetti J, et al. Chemoradiotherapy
+after surgery compared with surgery alone for adenocarcinoma of the
+stomach or gastroesophageal junction. N Engl J Med. 2001;345(10):
+725-730.
+73. Dikken JL, Jansen EP, Cats A, et al. Impact of the extent of surgery and
+postoperative chemoradiotherapy on recurrence patterns in gastric
+cancer. J Clin Oncol. 2010;28(14):2430-2436.
+74. Ho VKY, Jansen EPM, Wijnhoven BPL, et al. Adjuvant chemoradiotherapy for non-pretreated gastric cancer. Ann Surg Oncol.
+2017;24(12):3647-3657.
+75. Al-Batran SE, Lorenzen S, Homann N, et al. Pathological regression in
+patients with microsatellite instability (MSI) receiving perioperative
+atezolizumab in combination with FLOT vs. FLOT alone for resectable
+esophagogastric adenocarcinoma: results from the DANTE trial of the
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+Annals of Oncology
+
+F. Lordick et al.
+
+76.
+
+77.
+78.
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+91.
+
+German Gastric Group at the AIO and SAKK. Ann Oncol.
+2021;32(suppl_5):S1069.
+Andre T, Tougeron D, Piessen G, et al. Neoadjuvant nivolumab plus
+ipilimumab and adjuvant nivolumab in patients (pts) with localized
+microsatellite instability-high (MSI)/mismatch repair deﬁcient
+(dMMR) oeso-gastric adenocarcinoma (OGA): The GERCOR NEONIPIGA phase II study. J Clin Oncol. 2022;40(suppl 4):244.
+Wagner AD, Syn NL, Moehler M, et al. Chemotherapy for advanced
+gastric cancer. Cochrane Database Syst Rev. 2017;8(8):CD004064.
+Cunningham D, Starling N, Rao S, et al. Capecitabine and oxaliplatin for
+advanced esophagogastric cancer. N Engl J Med. 2008;358(1):36-46.
+Al-Batran SE, Hartmann JT, Probst S, et al. Phase III trial in metastatic
+gastroesophageal adenocarcinoma with ﬂuorouracil, leucovorin plus
+either oxaliplatin or cisplatin: a study of the Arbeitsgemeinschaft
+Internistische Onkologie. J Clin Oncol. 2008;26(9):1435-1442.
+Koizumi W, Narahara H, Hara T, et al. S-1 plus cisplatin versus S-1
+alone for ﬁrst-line treatment of advanced gastric cancer (SPIRITS
+trial): a phase III trial. Lancet Oncol. 2008;9(3):215-221.
+Hall PS, Swinson D, Cairns DA, et al. Efﬁcacy of reduced-intensity
+chemotherapy with oxaliplatin and capecitabine on quality of life
+and cancer control among older and frail patients with advanced
+gastroesophageal cancer: the GO2 phase 3 randomized clinical trial.
+JAMA Oncol. 2021;7(6):869-877.
+Van Cutsem E, Moiseyenko VM, Tjulandin S, et al. Phase III study of
+docetaxel and cisplatin plus ﬂuorouracil compared with cisplatin and
+ﬂuorouracil as ﬁrst-line therapy for advanced gastric cancer: a report
+of the V325 Study Group. J Clin Oncol. 2006;24(31):4991-4997.
+Al-Batran SE, Hartmann JT, Hofheinz R, et al. Biweekly ﬂuorouracil,
+leucovorin, oxaliplatin, and docetaxel (FLOT) for patients with metastatic adenocarcinoma of the stomach or esophagogastric junction:
+a phase II trial of the Arbeitsgemeinschaft Internistische Onkologie.
+Ann Oncol. 2008;19(11):1882-1887.
+Shah MA, Janjigian YY, Stoller R, et al. Randomized multicenter phase
+II study of modiﬁed docetaxel, cisplatin, and ﬂuorouracil (DCF) versus
+DCF plus growth factor support in patients with metastatic gastric
+adenocarcinoma: a study of the US gastric cancer consortium. J Clin
+Oncol. 2015;33(33):3874-3879.
+Van Cutsem E, Boni C, Tabernero J, et al. Docetaxel plus oxaliplatin
+with or without ﬂuorouracil or capecitabine in metastatic or locally
+recurrent gastric cancer: a randomized phase II study. Ann Oncol.
+2015;26(1):149-156.
+Yamada Y, Boku N, Mizusawa J, et al. Docetaxel plus cisplatin and S-1
+versus cisplatin and S-1 in patients with advanced gastric cancer
+(JCOG1013): an open-label, phase 3, randomised controlled trial.
+Lancet Gastroenterol Hepatol. 2019;4(7):501-510.
+Dank M, Zaluski J, Barone C, et al. Randomized phase III study
+comparing irinotecan combined with 5-ﬂuorouracil and folinic acid to
+cisplatin combined with 5-ﬂuorouracil in chemotherapy naive patients with advanced adenocarcinoma of the stomach or esophagogastric junction. Ann Oncol. 2008;19(8):1450-1457.
+Guimbaud R, Louvet C, Ries P, et al. Prospective, randomized,
+multicenter, phase III study of ﬂuorouracil, leucovorin, and irinotecan
+versus epirubicin, cisplatin, and capecitabine in advanced gastric
+adenocarcinoma: a French intergroup (Fédération Francophone de
+Cancérologie Digestive, Fédération Nationale des Centres de Lutte
+Contre le Cancer, and Groupe Coopérateur Multidisciplinaire en
+Oncologie) study. J Clin Oncol. 2014;32(31):3520-3526.
+Shitara K, Van Cutsem E, Bang YJ, et al. Efﬁcacy and safety of pembrolizumab or pembrolizumab plus chemotherapy vs chemotherapy
+alone for patients with ﬁrst-line, advanced gastric cancer: the
+KEYNOTE-062 phase 3 randomized clinical trial. JAMA Oncol.
+2020;6(10):1571-1580.
+Sun JM, Shen L, Shah MA, et al. Pembrolizumab plus chemotherapy
+versus chemotherapy alone for ﬁrst-line treatment of advanced
+oesophageal cancer (KEYNOTE-590): a randomised, placebocontrolled, phase 3 study. Lancet. 2021;398(10302):759-771.
+Pietrantonio F, Randon G, Di Bartolomeo M, et al. Predictive role of
+microsatellite instability for PD-1 blockade in patients with advanced
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+
+99.
+
+100.
+
+101.
+
+102.
+
+103.
+
+104.
+
+105.
+
+106.
+107.
+
+gastric cancer: a meta-analysis of randomized clinical trials. ESMO
+Open. 2021;6(1):100036.
+Hironaka S, Ueda S, Yasui H, et al. Randomized, open-label, phase III
+study comparing irinotecan with paclitaxel in patients with
+advanced gastric cancer without severe peritoneal metastasis after
+failure of prior combination chemotherapy using ﬂuoropyrimidine
+plus platinum: WJOG 4007 trial. J Clin Oncol. 2013;31(35):
+4438-4444.
+Wilke H, Muro K, Van Cutsem E, et al. Ramucirumab plus paclitaxel
+versus placebo plus paclitaxel in patients with previously treated
+advanced gastric or gastro-oesophageal junction adenocarcinoma
+(RAINBOW): a double-blind, randomised phase 3 trial. Lancet Oncol.
+2014;15(11):1224-1235.
+Fuchs CS, Tomasek J, Yong CJ, et al. Ramucirumab monotherapy for
+previously treated advanced gastric or gastro-oesophageal junction
+adenocarcinoma (REGARD): an international, randomised, multicentre,
+placebo-controlled, phase 3 trial. Lancet. 2014;383(9911):31-39.
+Shitara K, Özgüroglu M, Bang YJ, et al. Pembrolizumab versus paclitaxel for previously treated, advanced gastric or gastro-oesophageal
+junction cancer (KEYNOTE-061): a randomised, open-label,
+controlled, phase 3 trial. Lancet. 2018;392(10142):123-133.
+Marabelle A, Le DT, Ascierto PA, et al. Efﬁcacy of pembrolizumab in
+patients with noncolorectal high microsatellite instability/mismatch
+repair-deﬁcient cancer: results from the phase II KEYNOTE-158 study.
+J Clin Oncol. 2020;38(1):1-10.
+Shitara K, Bang YJ, Iwasa S, et al. Trastuzumab deruxtecan in previously treated HER2-positive gastric cancer. N Engl J Med. 2020;382
+(25):2419-2430.
+van Cutsem E, Di Bartolomeo M, Smyth E, et al. Primary analysis of a
+phase II single-arm trial of trastuzumab deruxtecan (T-DXd) in western patients (Pts) with HER2-positive (HER2þ) unresectable or metastatic gastric or gastroesophageal junction (GEJ) cancer who
+progressed on or after a trastuzumab-containing regimen. Ann Oncol.
+2021;32(suppl 5):S1283-S1346.
+Shitara K, Doi T, Dvorkin M, et al. Triﬂuridine/tipiracil versus placebo
+in patients with heavily pretreated metastatic gastric cancer (TAGS): a
+randomised, double-blind, placebo-controlled, phase 3 trial. Lancet
+Oncol. 2018;19(11):1437-1448.
+Fujitani K, Yang HK, Mizusawa J, et al. Gastrectomy plus chemotherapy versus chemotherapy alone for advanced gastric cancer with
+a single non-curable factor (REGATTA): a phase 3, randomised
+controlled trial. Lancet Oncol. 2016;17(3):309-318.
+Al-Batran SE, Homann N, Pauligk C, et al. Effect of neoadjuvant
+chemotherapy followed by surgical resection on survival in patients
+with limited metastatic gastric or gastroesophageal junction cancer:
+the AIO-FLOT3 trial. JAMA Oncol. 2017;3(9):1237-1244.
+Kataoka K, Kinoshita T, Moehler M, et al. Current management of
+liver metastases from gastric cancer: what is common practice?
+New challenge of EORTC and JCOG. Gastric Cancer. 2017;20(5):
+904-912.
+Eveno C, Jouvin I, Pocard M. PIPAC EstoK 01: Pressurized IntraPeritoneal Aerosol Chemotherapy with cisplatin and doxorubicin (PIPAC
+C/D) in gastric peritoneal metastasis: a randomized and multicenter
+phase II study. Pleura Peritoneum. 2018;3(2):20180116.
+Lu Z, Fang Y, Liu C, et al. Early interdisciplinary supportive care in
+patients with previously untreated metastatic esophagogastric cancer: a phase III randomized controlled trial. J Clin Oncol. 2021;39(7):
+748-756.
+Mansoor W, Roeland EJ, Chaudhry A, et al. Early weight loss as a
+prognostic factor in patients with advanced gastric cancer: analyses
+from REGARD, RAINBOW, and RAINFALL phase III studies. Oncologist.
+2021;26(9):e1538-e1547.
+Dai Y, Li C, Xie Y, et al. Interventions for dysphagia in oesophageal
+cancer. Cochrane Database Syst Rev. 2014;2014(10):CD005048.
+Bergquist H, Wenger U, Johnsson E, et al. Stent insertion or endoluminal brachytherapy as palliation of patients with advanced cancer of
+the esophagus and gastroesophageal junction. Results of a randomized, controlled clinical trial. Dis Esophagus. 2005;18(3):131-139.
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+1019
+
+Annals of Oncology
+108. Baiocchi GL, D’Ugo D, Coit D, et al. Follow-up after gastrectomy for
+cancer: the Charter Scaligero Consensus Conference. Gastric Cancer.
+2016;19(1):15-20.
+109. Hu Y, Kim HI, Hyung WJ, et al. Vitamin B(12) deﬁciency after gastrectomy for gastric cancer: an analysis of clinical patterns and risk
+factors. Ann Surg. 2013;258(6):970-975.
+110. Baek KH, Jeon HM, Lee SS, et al. Short-term changes in bone and
+mineral metabolism following gastrectomy in gastric cancer patients.
+Bone. 2008;42(1):61-67.
+111. Mateo J, Chakravarty D, Dienstmann R, et al. A framework to rank
+genomic alterations as targets for cancer precision medicine: the
+
+1020
+
+https://doi.org/10.1016/j.annonc.2022.07.004
+
+F. Lordick et al.
+ESMO Scale for Clinical Actionability of molecular Targets (ESCAT).
+Ann Oncol. 2018;29(9):1895-1902.
+112. Cherny NI, Dafni U, Bogaerts J, et al. ESMO-Magnitude of
+Clinical Beneﬁt Scale version 1.1. Ann Oncol. 2017;28(10):23402366.
+113. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis. 2001;33(2):139-144.
+114. Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards
+for infectious diseases. Infectious Diseases Society of America. Clin
+Infect Dis. 1994;18(3):421.
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+

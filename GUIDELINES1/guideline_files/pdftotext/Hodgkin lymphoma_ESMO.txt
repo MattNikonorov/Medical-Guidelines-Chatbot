@@ -1,0 +1,938 @@
+Annals of Oncology 29 (Supplement 4): iv19–iv29, 2018
+doi:10.1093/annonc/mdy080
+Published online 23 May 2018
+
+CLINICAL PRACTICE GUIDELINES
+
+Hodgkin lymphoma: ESMO Clinical Practice
+Guidelines for diagnosis, treatment and follow-up†
+D. A. Eichenauer1, B. M. P. Aleman2, M. André3,4, M. Federico5, M. Hutchings6, T. Illidge7,8, A. Engert1 &
+M. Ladetto9, on behalf of the ESMO Guidelines Committee*
+1
+First Department of Internal Medicine, University Hospital Cologne, Cologne, Germany; 2Department of Radiation Oncology, The Netherlands Cancer Institute,
+Amsterdam, The Netherlands; 3Université Catholique de Louvain, Yvoir; 4Department of Hematology, CHU UCL Namur, Yvoir, Belgium; 5Department of Diagnostic,
+Clinical and Public Health Medicine, University of Modena and Reggio Emilia, Modena, Italy; 6Department of Hematology, Rigshospitalet, Copenhagen University
+Hospital, Copenhagen, Denmark; 7Division of Cancer Sciences, University of Manchester, Manchester; 8The Christie NHS Foundation Trust, Manchester, UK;
+9
+Hematology Division, Azienda Ospedaliera Santi Antonio e Biagio e Cesare Arrigo, Alessandria, Italy
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, CH-6900 Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org
+†
+Approved by the ESMO Guidelines Committee: August 2002, last update December 2017. This publication supersedes the previously published version—Ann Oncol 2014;
+25(Suppl 3): iii70–iii75.
+
+Incidence and epidemiology
+The crude incidence of Hodgkin lymphoma (HL) in the
+European Union is 2.3, the mortality 0.4 cases/100 000/year.
+Young adults aged 20–40 years are most often affected. Slightly
+more men than women are diagnosed with HL. Histologically,
+classical HL (cHL) accounting for 95% of all HL cases is distinguished from nodular lymphocyte-predominant HL (NLPHL)
+representing 5% of all HL cases.
+
+Diagnosis
+Pathological diagnosis should be made according to the World
+Health Organization (WHO) classification from an excisional
+lymph node biopsy or a sufficiently large surgical specimen to
+provide enough material for fresh frozen and formalin-fixed samples. In cHL, the presence of Hodgkin and Reed–Sternberg
+(HRS) cells is disease-defining, whereas the detection of lymphocyte predominant (LP) cells is required for the diagnosis of
+NLPHL. The immunophenotype of the malignant cells in cHL
+and NLPHL differs significantly. In contrast to HRS cells that
+stain consistently positive for CD30 and CD15, occasionally positive for CD20 and negative for CD45, LP cells are characterised by
+the expression of CD20 and CD45 but lack CD15 and CD30.
+
+Staging and risk assessment
+The diagnostic work-up is shown in Table 1. The medical history
+including the presence of B symptoms (fever, drenching night
+
+sweats, unexplained weight loss > 10% over 6 months) and other
+disease-related symptoms such as fatigue, pruritus and alcoholinduced pain as well as the results of a physical examination
+should be recorded [1].
+Chest X-ray and a contrast-enhanced computed tomography
+(CT) scan of the neck, the chest and the abdomen are mandatory.
+In addition, a baseline whole-body positron emission tomography (PET) should be carried out according to the recommendations for staging and response assessment in lymphoma, if this
+diagnostic tool is available [1, 2].
+Given the high sensitivity of PET–CT for bone marrow involvement, a bone marrow biopsy is no longer indicated in patients
+undergoing PET–CT evaluation [III, B] [1–3]. However, bone
+marrow biopsy must be carried out if PET–CT is not available.
+Full blood cell count, erythrocyte sedimentation rate (ESR)
+testing and blood chemistry analysis including C-reactive protein
+(CRP), alkaline phosphatase (AP), lactate dehydrogenase (LDH),
+liver enzymes and albumin are obligatory. Screening for hepatitis
+B (HBV), hepatitis C (HCV) and human immunodeficiency virus
+(HIV) is compulsory [II–III, A].
+Staging is carried out according to the Ann Arbor classification
+in consideration of defined clinical risk factors. After completion
+of staging, patients are allocated to one of three categories (limited, intermediate and advanced stages) [II–III, A]. Table 2 illustrates the European Organisation for Research and Treatment of
+Cancer (EORTC)/Lymphoma Study Association (LYSA) and the
+German Hodgkin Study Group (GHSG) definitions of limited,
+intermediate and advanced stages.
+To identify patients at increased risk for acute and/or longterm complications and to generate baseline values for future
+
+C The Author(s) 2018. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+V
+
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+Clinical Practice Guidelines
+Table 1. Diagnostic work-up in HL
+Diagnosis
+
+Staging and
+risk stratiﬁcation
+
+Pretreatment
+examinations
+
+Annals of Oncology
+Table 2. Deﬁnition of HL risk groups according to the EORTC/LYSA and the
+GHSG
+
+Lymph node biopsy
+(or a biopsy from another
+organ with suspected affection)
+Medical history and physical examination
+X-ray of the chest
+Contrast-enhanced CT scan of the neck, chest and
+abdomen
+PET
+Full blood cell count and blood chemistry, ESR
+HBV, HCV and HIV screening
+ECG
+Echocardiography
+Pulmonary function test
+Reproductive counselling (in patients of
+reproductive age)
+Serum pregnancy test (in female patients of
+reproductive age)
+Consultation of an ear, nose and throat specialist
+including a ﬁbreoptic nasolaryngoscopy
+(if PET–CT scan is not available at initial staging)
+
+EORTC/LYSA
+Treatment group
+Limited stages
+
+GHSG
+
+CS I–II without
+CS I–II without risk factors
+risk factors
+(supradiaphragmatic)
+
+Intermediate stages CS I–II with  1
+CS I, CS IIA with  1
+risk factors
+risk factors
+(supradiaphragmatic) CS IIB with risk factors
+C and/or D, but not A/B
+Advanced stages
+
+CS III–IV
+
+CS IIB with risk factors
+A and/or B
+CS III/IV
+
+A: Large mediastinal
+massa
+B: Age  50 years
+C: Elevated ESRb
+D:  4 nodal areasc
+
+A: Large mediastinal massa
+B: Extranodal disease
+C: Elevated ESRb
+D:  3 nodal areasc
+
+Risk factors
+
+a
+
+CT, computed tomography; ECG, electrocardiography; ESR, erythrocyte
+sedimentation rate; HBV, hepatitis B virus; HCV, hepatitis C virus; HIV,
+human immunodeﬁciency virus; HL, Hodgkin lymphoma; PET, positron
+emission tomography.
+
+measurements, cardiac and pulmonary function tests should be
+carried out before the start of treatment.
+As chemotherapy (ChT) and abdominal radiotherapy (RT)
+can cause permanent infertility, reproductive counselling and
+consideration of sperm banking, oocyte collection or ovarian tissue cryopreservation should be offered to patients of reproductive age before treatment.
+
+Treatment of cHL
+Limited-stage disease (Figure 1)
+Combined-modality treatment consisting of a brief ChT followed
+by RT was shown to result in superior tumour control compared
+with RT alone [I, A] [4, 5].
+Two or three cycles of doxorubicin/bleomycin/vinblastine/
+dacarbazine (ABVD) (Table 3) followed by conventionally fractionated RT represent the standard of care for limited-stage HL. A
+large multicentre trial in which patients were randomly assigned to
+either two or four cycles of ABVD followed by either 20 or 30 Gy
+involved-field RT (IFRT) showed similar freedom from treatment
+failure (FFTF) and overall survival (OS) rates for all treatment
+groups. Thus, the least toxic approach consisting of two cycles of
+ABVD followed by 20 Gy IFRT appears to be sufficient for limitedstage HL [I, A] [6]. Comparable disease control was also observed
+in a randomised trial comparing IFRT at doses of either 20 or
+
+iv20 | Eichenauer et al.
+
+Large mediastinal mass: mediastinum-to-thorax ratio  0.35 (EORTC/
+LYSA); mediastinal mass larger than one-third of the maximum thoracic
+width (GHSG).
+b
+Elevated ESR: > 50 mm/h without B symptoms, > 30 mm/h with B
+symptoms (B symptoms: fever, night sweat, unexplained weight loss
+>10 % over 6 months).
+c
+Nodal areas: involvement of  4 out of 5 supradiaphragmatic nodal
+areas (EORTC/LYSA); involvement of  3 out of 11 nodal areas on both
+sides of the diaphragm (GHSG).
+CS, clinical stage; EORTC, European Organisation for Research and
+Treatment of Cancer; ESR, erythrocyte sedimentation rate; GHSG, German
+Hodgkin Study Group; HL, Hodgkin lymphoma; LYSA, Lymphoma Study
+Association.
+
+36 Gy in patients achieving a complete remission after six cycles of
+ChT with the outdated epirubicin/bleomycin/vinblastine/prednisone (EBVP) protocol [7]. However, the current RT guidelines of
+the International Lymphoma Radiation Oncology Group
+(ILROG) recommend involved-site RT (ISRT) after ChT in limited stages. Although ISRT has not been randomly compared with
+IFRT in a prospective study, there is accumulating evidence of
+excellent disease control with these smaller RT fields [8].
+The question of whether RT can be omitted in selected patients
+with complete metabolic response at interim PET is a matter of debate. Several randomised trials addressing this issue have been conducted within the last years. The available data consistently
+demonstrate a progression-free survival (PFS) advantage for patients treated with combined-modality approaches despite a negative interim PET (defined as a Deauville score  2 within the
+RAPID and H10 studies). Thus, a patient group that can be safely
+treated with ChT alone could not yet be defined [I, A] [9, 10].
+However, as patients treated with ChT alone still have a good overall prognosis, this approach may be offered to individual patients
+when the late risk of delivering RT is thought to outweigh the
+
+Volume 29 | Supplement 4 | October 2018
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+a
+
+Diagnosis of limited-stage HL
+
+2 cycles of ABVD
+
+2 cycles of ABVD
+
+20 Gy ISRT
+
+PET-CT scan
+
+PET-positive
+
+PET-negative
+
+2 cycles of BEACOPPesc
+
+1 cycle of ABVD
+
+30 Gy ISRT
+
+20 Gy ISRT
+
+Figure 1. Therapeutic algorithm for newly diagnosed, limited-stage HL in patients  60 years.
+a
+Except for stage IA NLPHL without risk factors (treated with ISRT alone).
+The ﬁgure includes one approach not guided by interim PET based on the GHSG HD10 study (left) and one PET-guided approach based on
+the EORTC/LYSA/FIL H10 study (right).
+ABVD, doxorubicin/bleomycin/vinblastine/dacarbazine; BEACOPPesc, bleomycin/etoposide/doxorubicin/cyclophosphamide/vincristine/procarbazine/prednisone in escalated dose; CT, computed tomography; EORTC, European Organisation for Research and Treatment of Cancer;
+FIL, Fondazione Italiana Linfomi; GHSG, German Hodgkin Study Group; HL, Hodgkin lymphoma; ISRT, involved-site radiotherapy; LYSA,
+Lymphoma Study Association; NLPHL, nodular lymphocyte-predominant Hodgkin lymphoma; PET, positron emission tomography.
+
+Table 3. The ABVD regimen
+
+Doxorubicin
+Bleomycin
+Vinblastine
+Dacarbazine
+
+Dose
+(mg/m2)
+
+Administration
+
+Days
+
+25
+10
+6
+375
+
+i.v.
+i.v.
+i.v.
+i.v.
+
+1 þ 15
+1 þ 15
+1 þ 15
+1 þ 15
+
+Recycle: day 29.
+ABVD, doxorubicin/bleomycin/vinblastine/dacarbazine; i.v., intravenous.
+
+Volume 29 | Supplement 4 | October 2018
+
+short-term benefit of improved disease control. Early treatment intensification appears to improve the prognosis of patients with a
+positive interim PET (defined as a Deauville score  3 within the
+H10 study). A large randomised study including patients with limited- and intermediate-stage HL revealed a significantly reduced relapse rate in those patients with a positive interim PET after two
+cycles of ABVD who completed ChT with two cycles of bleomycin/
+etoposide/doxorubicin/cyclophosphamide/vincristine/procarbazine/prednisone in escalated dose (BEACOPPescalated) (Table 4)
+instead of one (limited stages) or two (intermediate stages) additional cycles of ABVD before involved-node RT (INRT) [10].
+However, the study was not powered to analyse patients with limited- and intermediate-stage disease separately. Patients with a
+
+doi:10.1093/annonc/mdy080 | iv21
+
+Clinical Practice Guidelines
+Table 4. The BEACOPPescalated regimen
+
+Bleomycin
+Etoposide
+Doxorubicin
+Cyclophosphamide
+Vincristine
+Procarbazine
+Prednisone
+G-CSF
+
+Dose
+(mg/m2)
+
+Administration
+
+Days
+
+10
+200
+35
+1250
+1.4a
+100
+40
+
+i.v.
+i.v.
+i.v.
+i.v.
+i.v.
+p.o.
+p.o.
+s.c.
+
+8
+1–3
+1
+1
+8
+1–7
+1–14
+From day 8
+
+a
+
+The maximum absolute dose is 2 mg of vincristine.
+Recycle: day 22.
+BEACOPPescalated, bleomycin/etoposide/doxorubicin/cyclophosphamide/
+vincristine/procarbazine/prednisone in escalated dose; G-CSF, granulocyte
+colony-stimulating factor; i.v., intravenous; p.o., oral; s.c., subcutaneous.
+
+positive interim PET after two cycles of ABVD should be treated
+with two cycles of BEACOPPescalated before ISRT [I, A].
+
+Intermediate-stage disease (Figure 2)
+Intermediate-stage HL is usually treated with combinedmodality approaches.
+Four cycles of ABVD followed by conventionally fractionated RT
+at 30 Gy are widely considered standard of care for intermediatestage HL [I, A] [5]. In patients  60 years who are eligible for a
+more intensive treatment, this standard is challenged by a protocol
+consisting of two cycles of BEACOPPescalated followed by two
+cycles of ABVD and RT at 30 Gy. After a median follow-up of
+43 months, FFTF with this protocol was superior in comparison
+with four cycles of ABVD followed by RT. An advantage in OS
+could not be shown [I, B–C] [11].
+Although no results of a randomised study comparing both RT
+fields are available to date, the ILROG guidelines recommend
+ISRT instead of IFRT after ChT in intermediate stages [8].
+The question of whether RT is dispensable in intermediatestage patients with complete metabolic response at interim PET
+is unanswered. A large randomised study failed to demonstrate
+non-inferiority of ChT alone as compared with combinedmodality treatment in patients with a negative interim PET
+(defined as a Deauville score  2 within the H10 study) [I, A]
+[10]. However, as patients treated with ChT alone still have
+a good overall prognosis, this approach may be offered to individual patients when the late risk of delivering RT is thought to
+outweigh the short-term benefit of improved disease control.
+Early treatment intensification appears to improve the prognosis
+of patients with a positive interim PET (defined as a Deauville
+score  3 within the H10 study). A randomised study including
+patients with limited- and intermediate-stage HL revealed a significantly reduced relapse rate in patients with a positive interim
+PET after two cycles of ABVD who completed ChT with two
+cycles of BEACOPPescalated instead of one (limited stages) or
+two (intermediate stages) additional cycles of ABVD before
+INRT [10]. Patients with a positive interim PET after two cycles
+
+iv22 | Eichenauer et al.
+
+Annals of Oncology
+of ABVD should be treated with two cycles of
+BEACOPPescalated before ISRT [I, A].
+Due to the relevant bleomycin-induced toxicity observed in
+older individuals receiving more than two cycles of ABVD, bleomycin should be discontinued after the second ChT cycle in
+patients > 60 years [III, B–C] [12].
+
+Advanced-stage disease (Figure 3)
+Advanced-stage HL is usually treated with ChT alone.
+Additional RT is confined to patients with residual disease after
+ChT.
+Patients  60 years are treated with either ABVD (six cycles) or
+BEACOPPescalated (four to six cycles), optionally followed by
+localised RT [I, A] [13, 14]. When ABVD is applied, the omission
+of bleomycin, i.e. the use of doxorubicin/vinblastine/dacarbazine
+(AVD) in cycles 3–6 in the case of a negative interim PET (defined
+as a Deauville score  3 within the RATHL study) after two cycles
+of ChT should be considered, especially in elderly patients and
+those at an increased risk for lung toxicity, although a randomised multicentre study was not able to exclude a PFS difference
+of > 5% at 3 years [I, A] [15]. The question of whether consolidating RT can be safely omitted in patients who have a negative
+PET after two cycles of ABVD or at the end of ChT has also not
+yet been definitively answered. There is no randomised study
+evaluating the role of early treatment intensification in advancedstage patients who have a positive interim PET after two cycles of
+ABVD. However, several non-randomised studies have suggested
+that patients with advanced HL who have a positive interim
+PET (defined as a Deauville score  4 within the RATHL and
+SWOG S0816 studies and  3 within the HD0801 study) have a
+better prognosis after switching from ABVD to intensified protocols than after continued treatment with ABVD [II, B] [15–17].
+A recent randomised study demonstrated an improved modified
+2-year PFS after six cycles of brentuximab vedotin in combination with AVD (A-AVD) as compared with standard ABVD.
+However, A-AVD was associated with an increased rate of neuropathy and haematological toxicity. Thus, longer follow-up is
+required to draw final conclusions in terms of the A-AVD regimen [I–II, C] [18].
+In patients receiving BEACOPPescalated, treatment can be safely
+reduced to a total of only four cycles in the case of a negative interim PET (defined as a Deauville score  2 within the HD18
+study) compared with a total of six cycles for PET-positive patients
+[I, A] [19]. In addition, RT can be restricted to the patients with
+PET-positive (defined as a Deauville score  3 within the HD15
+study and most of the HD18 study and a Deauville score  4 within
+a part of the HD18 study) residual lymphoma  2.5 cm after four
+and six cycles of BEACOPPescalated, respectively [I, A] [14, 19].
+Several trials randomly comparing ABVD and BEACOPPescalated
+have shown a superior tumour control and a non-significant trend
+towards a better OS with BEACOPPescalated [20, 21]. A network
+meta-analysis including 9993 patients also revealed a significantly
+better OS with BEACOPPescalated when compared with ABVD.
+The survival benefit was 10% at 5 years [I, A] [22]. However, given
+the relevant acute toxicity of BEACOPPescalated, appropriate surveillance and supportive care must be available when this protocol
+is used. In patients > 60 years, the BEACOPP regimen should not
+be given, as an increased rate of treatment-related mortality has
+
+Volume 29 | Supplement 4 | October 2018
+
+Annals of Oncology
+
+Clinical Practice Guidelines
+
+Figure 2. Therapeutic algorithm for newly diagnosed, intermediate-stage HL in patients  60 years.
+The ﬁgure includes one approach not guided by interim PET, based on the GHSG HD14 study (left) and one PET-guided approach based on
+the EORTC/LYSA/FIL H10 study (right).
+ABVD, doxorubicin/bleomycin/vinblastine/dacarbazine; BEACOPPesc, bleomycin/etoposide/doxorubicin/cyclophosphamide/vincristine/procarbazine/prednisone in escalated dose; CT, computed tomography; EORTC, European Organisation for Research and Treatment of Cancer;
+FIL, Fondazione Italiana Linfomi; GHSG, German Hodgkin Study Group; HL, Hodgkin lymphoma; ISRT, involved-site radiotherapy; LYSA,
+Lymphoma Study Association; PET, positron emission tomography.
+
+been observed in this age group [II, A] [23]. Thus, ABVD-based
+ChT represents the standard of care for older HL patients who are
+fit enough for multi-agent ChT. However, due to the relevant
+bleomycin-induced toxicity observed in older individuals receiving
+more than two cycles of ABVD, bleomycin should be discontinued
+after the second ChT cycle in this patient group [III, B–C] [12].
+
+Relapsed disease
+For most patients with refractory or relapsed HL, the treatment of
+choice consists of high-dose ChT (HDCT) followed by autologous
+stem cell transplantation (ASCT) [I, A] [24]. High-risk patients may
+benefit from tandem ASCT [III, B] [25]. Consolidating treatment
+with the antibody-drug conjugate brentuximab vedotin following
+HDCT and ASCT was shown to improve the tumour control in patients presenting with at least one of the following risk factors:
+
+Volume 29 | Supplement 4 | October 2018
+
+primary disease progression, early disease recurrence < 12 months
+after the end of first-line treatment and extranodal disease at the
+time of relapse [II, B] [26].
+Salvage regimens such as dexamethasone/high-dose cytarabine/
+cisplatin (DHAP), ifosfamide/gemcitabine/vinorelbine (IGEV) or
+ifosfamide/carboplatin/etoposide (ICE) are given to reduce the
+tumour burden and mobilise stem cells before HDCT and ASCT
+[II–III, A] [27–29]. In some patients, single-agent brentuximab
+vedotin results in a negative PET and may therefore be sufficient as
+salvage therapy before HDCT and ASCT [III, B] [30]. Achieving a
+negative PET should be the goal of salvage therapy, irrespective of the
+applied protocol, because a complete metabolic response before
+HDCT and ASCT was shown to be associated with an improved clinical outcome [III, B] [31]. The role of RT before HDCT and ASCT is
+not defined. However, its use may be discussed in patients with single
+PET-positive lymph nodes after salvage therapy [IV, C] [32].
+
+doi:10.1093/annonc/mdy080 | iv23
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Figure 3. Therapeutic algorithm for newly diagnosed, advanced-stage HL in patients  60 years.
+The ﬁgure includes one approach not guided by interim PET (left) and two PET-guided approaches based on the GHSG HD18 study (middle)
+and the RATHL study (right).
+ABVD, doxorubicin/bleomycin/vinblastine/dacarbazine; AVD, doxorubicin/vinblastine/dacarbazine; BEACOPPesc, bleomycin/etoposide/doxorubicin/cyclophosphamide/vincristine/procarbazine/prednisone in escalated dose; CT, computed tomography; GHSG, German Hodgkin
+Study Group; HL, Hodgkin lymphoma; PET, positron emission tomography; RT, radiotherapy.
+
+iv24 | Eichenauer et al.
+
+Volume 29 | Supplement 4 | October 2018
+
+Annals of Oncology
+The use of brentuximab vedotin represents an option in patients
+failing ASCT. After a pivotal phase II study including 102 cHL patients with relapse after HDCT and ASCT had demonstrated an
+overall response rate (ORR) of 75% with single-agent brentuximab
+vedotin, the drug was approved for the treatment of such patients
+[III, B]. A recent follow-up analysis of the study revealed a 5-year
+OS estimate of 41% for the patients included in the study.
+However, most patients received additional treatment following
+brentuximab vedotin. The proportion of patients who achieved
+long-term remission exceeding 5 years without further treatment
+was 9% [III, B] [33, 34].
+Antibodies targeting the programmed cell death protein 1
+(PD-1) represent another novel treatment option for patients
+with multiple relapses. Early-phase studies evaluating anti-PD-1
+antibodies have shown high response rates and durable remissions in a relevant proportion of patients with disease recurrence
+after HDCT followed by ASCT and brentuximab vedotin therapy
+[III, B] [35, 36]. On the basis of these results, the anti-PD-1 antibodies nivolumab and pembrolizumab were approved by the
+Food and Drug Administration (FDA) and the European
+Medicines Agency (EMA) for the treatment of such patients.
+Allogeneic stem cell transplantation represents a potentially
+curative treatment option for patients failing HDCT and ASCT.
+This approach should be considered and discussed in young, chemosensitive patients in good general condition after careful
+evaluation of the risk–benefit ratio [III, C] [37, 38].
+In patients with multiple relapses who have no other treatment
+options, acceptable remission rates, satisfying quality of life and
+prolonged survival can be achieved with gemcitabine-based palliative ChT and/or regional RT.
+In general, patients with multiple relapses should be enrolled
+in clinical trials evaluating novel agents whenever possible.
+
+Treatment of NLPHL
+Stage IA without risk factors
+ISRT at 30 Gy alone is the standard treatment for stage IA
+NLPHL patients presenting without clinical risk factors [III, A]
+[39]. Although data from prospective studies are only available
+for IFRT, the current ILROG guidelines recommend the use of
+ISRT [8]. Of note, the ISRT fields irradiated in this RT alone approach are larger than the ISRT fields in combined-modality
+approaches to include potential microscopic regional disease.
+
+Other stages
+Usually, NLPHL is treated identically to cHL in all patients except
+for those with stage IA disease presenting without clinical risk factors [III, B] [40]. However, as the malignant LP cells of NLPHL
+consistently express CD20, the addition of an anti-CD20 antibody
+may improve treatment efficacy, but prospective data addressing
+this issue are pending. The largest retrospective study evaluating
+the combination of an anti-CD20 antibody and conventional ChT
+revealed promising results with the rituximab/cyclophosphamide/doxorubicin/vincristine/prednisone (R-CHOP) protocol
+[V, B] [41].
+
+Volume 29 | Supplement 4 | October 2018
+
+Clinical Practice Guidelines
+Relapsed NLPHL
+Even more importantly than in cHL, a renewed biopsy should be
+obtained in patients with suspected NLPHL relapse before salvage
+therapy is initiated, because transformation into aggressive nonHodgkin lymphoma (NHL) must be excluded. According to
+newer analyses, transformation rates appear to be higher than
+previously reported [IV, A] [42].
+Localised NLPHL relapses can be effectively treated with antiCD20 antibodies such as rituximab or ofatumumab given as single agent [III, B] [43, 44].
+Patients with more disseminated disease at relapse and additional poor-risk features may require more aggressive salvage
+ChT, possibly combined with an anti-CD20 antibody [III, B]
+[45]. However, salvage therapy should be chosen individually
+and be based on factors such as time to relapse, extent of disease
+at relapse and prior treatment [III, B] [46].
+Given the lack of CD30 on the malignant LP cells in NLPHL,
+brentuximab vedotin does not represent a treatment option in
+this entity.
+
+Response evaluation
+If no PET-guided treatment is intended, interim response evaluation
+by contrast-enhanced CT scan should be carried out before RT in
+limited and intermediate stages and after four cycles of ChT as well
+as before RT in advanced stages. If treatment is guided by interim
+PET, patients who receive ABVD should undergo an interim PET–
+CT scan after two cycles of ChT, irrespective of the stage at diagnosis.
+Patients with advanced HL receiving ABVD should also have a
+PET–CT after the end of ChT. In patients with advanced HL who
+are treated with BEACOPPescalated, interim PET–CT scans should
+be carried out after two cycles of ChT and after the end of ChT.
+Final staging should be carried out after the completion of
+treatment. Physical examination, laboratory analyses and
+contrast-enhanced CT are mandatory. If available, PET–CT
+should replace CT at final staging according to the guidelines for
+staging and response assessment in lymphoma [1, 2].
+
+Prognosis
+With modern treatment strategies, 80%–90% of HL patients
+achieve permanent remission and can be considered cured.
+
+Follow-up, long-term implications and
+survivorship
+History, physical examination and laboratory analysis including
+full blood cell count, ESR testing and blood chemistry should be
+carried out every 3 months for the first half year, every 6 months
+until the fourth year and once a year thereafter [V, B].
+CT scans and previously pathological radiographic tests must
+be carried out once to confirm the remission status. Thereafter,
+the patients should be followed clinically. Surveillance scans are
+not indicated unless clinical symptoms occur [1, 2].
+The thyroid function (thyroid-stimulating hormone) should be
+evaluated once a year if the neck had been irradiated. Furthermore,
+
+doi:10.1093/annonc/mdy080 | iv25
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 5. Summary of recommendations
+Diagnosis
+• The presence of HRS cells is disease-deﬁning in cHL; the detection of LP cells is required for the diagnosis of NLPHL
+Staging and risk assessment
+• Chest X-ray and a contrast-enhanced CT scan of neck, chest and abdomen are mandatory
+• A baseline PET should be conducted if this diagnostic tool is available
+• A bone marrow biopsy is not indicated in patients undergoing PET–CT evaluation [III, B] but must be carried out if PET–CT is not available
+• Full blood cell count, ESR testing and blood chemistry analysis are obligatory. Screening for HBV, HCV and HIV is compulsory [II–III, A]
+• Staging is carried out according to the Ann Arbor classiﬁcation and patients are allocated to one of three categories (limited, intermediate and
+advanced stages) [II–III, A]
+• After staging examinations are completed, HL patients are allocated to distinct risk groups depending on their clinical stage and the presence of
+clinical risk factors
+• Cardiac and pulmonary function tests should be carried out before the start of treatment
+• Reproductive counselling and consideration of sperm banking, oocyte collection or ovarian tissue cryopreservation should be offered to patients of
+reproductive age before treatment
+Treatment of HL
+• HL patients should be treated within clinical trial protocols whenever possible
+Treatment of cHL
+• First-line treatment of cHL patients usually consists of combined-modality approaches (limited-stage and intermediate-stage disease) or ChT alone
+(advanced-stage disease). Intensity of treatment depends on the patient’s risk proﬁle at diagnosis and the result of an interim PET-CT evaluation (if PET is
+available)
+Limited-stage disease
+• Combined-modality treatment consisting of a brief ChT followed by RT was shown to result in superior tumour control compared with RT alone [I, A]
+• Two or three cycles of ABVD followed by conventionally fractionated RT represent the standard of care for limited-stage HL
+• ISRT is recommended instead of IFRT after ChT in limited stages
+Intermediate-stage disease
+• Four cycles of ABVD followed by conventionally fractionated RT at 30 Gy are widely considered standard of care for intermediate-stage HL [I, A]. Two
+cycles of BEACOPPesc followed by two cycles of ABVD and RT at 30 Gy can be proposed to the patients  60 years who are eligible for a more intensive
+treatment
+• ISRT is recommended instead of IFRT after ChT in intermediate stages
+Limited- and intermediate-stage disease
+• ChT alone may be offered to the individual patients when the late risk of delivering RT is thought to outweigh the short-term beneﬁt of improved
+disease control
+• Patients with a positive interim PET after two cycles of ABVD should be treated with two cycles of BEACOPPesc before ISRT [I, A]
+• Bleomycin should not be given for more than two cycles in patients > 60 years [III, B–C]
+Advanced-stage disease
+• Advanced-stage HL is usually treated with ChT alone. Additional RT is conﬁned to the patients with residual disease after ChT
+• Patients  60 years are treated with either ABVD (six cycles) or BEACOPPesc (four to six cycles), optionally followed by localised RT [I, A]
+• After two cycles of ABVD, the omission of bleomycin in cycles 3–6 in the case of a negative interim PET should be considered, especially in elderly
+patients and those at an increased risk for lung toxicity [I, A]
+• Patients with advanced HL who have a positive interim PET after two cycles of ABVD could switch from ABVD to BEACOPPesc [II, B]
+• After two cycles of BEACOPPesc, PET-negative patients can safely receive only two more cycles compared with PET-positive patients who need four
+more cycles [I, A]
+• RT can be restricted to the patients with PET-positive residual lymphoma  2.5 cm after four or six cycles of BEACOPPesc [I, A]
+• The BEACOPP regimen should not be given to the patients > 60 years [II, A]
+• ABVD-based ChT represents the standard of care for older HL patients who are ﬁt enough for multi-agent ChT. Bleomycin should be discontinued after
+the second ChT cycle in this patient group [III, B–C]
+Relapsed disease
+• For most patients with refractory or relapsed HL, the treatment of choice consists of HDCT followed by ASCT [I, A]
+• High-risk patients may beneﬁt from tandem ASCT [III, B]
+• Consolidating treatment with brentuximab vedotin following HDCT and ASCT is recommended in patients presenting with deﬁned poor-risk factors
+[II, B]
+• DHAP, IGEV or ICE can be given before HDCT and ASCT [II–III, A]
+• In some patients, single-agent brentuximab vedotin may be sufﬁcient as salvage therapy before HDCT and ASCT [III, B]
+• Achieving a negative PET should be the goal of salvage therapy irrespective of the applied protocol [III, B]
+• RT before HDCT and ASCT may be discussed in patients with single PET-positive lymph nodes after salvage therapy [IV, C]
+Continued
+
+iv26 | Eichenauer et al.
+
+Volume 29 | Supplement 4 | October 2018
+
+Annals of Oncology
+
+Clinical Practice Guidelines
+
+Table 5. Continued
+• Single-agent brentuximab vedotin represents an option in patients failing ASCT [III, B]
+• Nivolumab and pembrolizumab are approved for the treatment of patients with disease recurrence after HDCT followed by ASCT and brentuximab vedo-
+
+tin therapy [III, B]
+• Allogeneic SCT represents a potentially curative treatment option for patients failing HDCT followed by ASCT. This approach should be considered and
+
+discussed in young, chemosensitive patients in good general condition after careful evaluation of the risk–beneﬁt ratio [III, C]
+• Gemcitabine-based palliative ChT and/or regional RT are recommended in patients with multiple relapses who have no other treatment options
+
+Treatment of NLPHL
+• NLPHL is treated identically to cHL in all patients except for those with stage IA disease presenting without clinical risk factors [III, B]
+• 30 Gy ISRT alone is the standard treatment of stage IA NLPHL patients presenting without clinical risk factors [III, A]
+• A renewed biopsy should be obtained in patients with suspected NLPHL relapse before salvage therapy is initiated
+• Localised NLPHL relapses can be effectively treated with anti-CD20 antibodies such as rituximab or ofatumumab given as single agent [III, B]
+• Patients with more disseminated disease at relapse and additional poor-risk features may require more aggressive salvage ChT, possibly combined with
+an anti-CD20 antibody [III, B]
+• Salvage therapy should be chosen individually and be based on factors such as time to relapse, extent of disease at relapse and prior treatment [III, B]
+Response evaluation
+• All patients should undergo interim staging to exclude disease progression during treatment and to stratify treatment if PET–CT is available
+• Final staging should be carried out after the completion of treatment. Physical examination, laboratory analyses and contrast-enhanced CT are
+mandatory
+• PET-CT should be conducted if this diagnostic tool is available
+Follow-up, long-term implications and survivorship
+• Follow-up should be conducted regularly to detect disease recurrence and therapy-related late effects
+• History, physical examination and laboratory analysis should be carried out every 3 months for the ﬁrst half year, every 6 months until the fourth year
+and once a year thereafter [V, B]
+• The thyroid function should be evaluated once a year if the neck had been irradiated
+• Testosterone and oestrogen levels should be monitored, particularly in younger patients who had intensive ChT [V, B]
+• Cancer screening should be conducted regularly after HL treatment
+• Female patients who were  40 years at the time of chest or axillary irradiation should have a mammography once a year starting 8–10 years after RT.
+Those who were  30 years should have a breast MRI in addition to mammography [V, A]
+ABVD, doxorubicin/bleomycin/vinblastine/dacarbazine; ASCT, autologous stem cell transplantation; BEACOPPesc, bleomycin/etoposide/doxorubicin/cyclophosphamide/vincristine/procarbazine/prednisone in escalated dose; cHL, classical Hodgkin lymphoma; ChT, chemotherapy; CT, computed tomography;
+DHAP, dexamethasone/high-dose cytarabine/cisplatin; ESR, erythrocyte sedimentation rate; HBV, hepatitis B virus; HCV, hepatitis C virus; HDCT, high-dose
+chemotherapy; HIV, human immunodeﬁciency virus; HL, Hodgkin lymphoma; HRS, Hodgkin and Reed–Sternberg; ICE, ifosfamide/carboplatin/etoposide; IFRT,
+involved-ﬁeld radiotherapy; ISRT, involved-site radiotherapy; IGEV, ifosfamide/gemcitabine/vinorelbine; LP, lymphocyte predominant; MRI, magnetic resonance
+imaging; NLPHL, nodular lymphocyte-predominant Hodgkin lymphoma; PET, positron emission tomography; RT, radiotherapy; SCT, stem cell transplantation.
+
+testosterone and oestrogen levels should be monitored, particularly in younger patients who had intensive ChT [V, B] [47].
+Patients should be asked about symptoms indicating the existence of long-term toxicity, especially affecting the heart and lungs.
+Cancer screening should be conducted regularly due to the persistently increased risk for the development of haematological
+and solid second malignancies after HL treatment [48, 49].
+Particular attention should be paid to breast cancer screening in
+female patients who had received chest or axillary irradiation before the age of 40 years. These patients should have a mammography once a year starting 8–10 years after RT. Individuals who
+were  30 years at the time of chest irradiation should have a
+breast magnetic resonance imaging (MRI) in addition to mammography [V, A] [47].
+
+Methodology
+These Clinical Practice Guidelines were developed in accordance
+with the ESMO standard operating procedures for Clinical
+
+Volume 29 | Supplement 4 | October 2018
+
+Practice Guidelines development http://www.esmo.org/
+Guidelines/ESMO-Guidelines-Methodology. The relevant literature has been selected by the expert authors. A summary of recommendations is provided in Table 5. Levels of evidence and
+grades of recommendation have been applied using the system
+shown in Table 6. Statements without grading were considered
+justified standard clinical practice by the experts and the ESMO
+Faculty. This manuscript has been subjected to an anonymous
+peer review process.
+
+Disclosure
+MA has reported being an advisory board member of and
+received travel grants from Takeda and Bristol-Myers Squibb and
+research grant from Takeda; MH has reported being an advisor
+for and received research support from Takeda; TI received honoraria from Takeda; AE received honoraria from Takeda, BristolMyers Squibb and Amgen and research funding from Takeda,
+
+doi:10.1093/annonc/mdy080 | iv27
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 6. Levels of evidence and grades of recommendation (adapted from the Infectious Diseases Society of America–United States Public Health Service
+Grading Systema)
+Levels of evidence
+I
+Evidence from at least one large randomised, controlled trial of good methodological quality (low potential for bias) or meta-analyses of wellconducted randomised trials without heterogeneity
+II
+Small randomised trials or large randomised trials with a suspicion of bias (lower methodological quality) or meta-analyses of such trials or of trials
+demonstrated heterogeneity
+III
+Prospective cohort studies
+IV Retrospective cohort studies or case–control studies
+V
+Studies without control group, case reports, expert opinions
+Grades of recommendation
+A
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt, strongly recommended
+B
+Strong or moderate evidence for efﬁcacy but with a limited clinical beneﬁt, generally recommended
+C
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh the risk or the disadvantages (adverse events, costs, . . .), optional
+D
+Moderate evidence against efﬁcacy or for adverse outcome, generally not recommended
+E
+Strong evidence against efﬁcacy or for adverse outcome, never recommended
+a
+
+By permission of the Infectious Diseases Society of America [50].
+
+Bristol-Myers Squibb and Affimed and has reported consulting
+for Takeda and Bristol-Myers Squibb; ML has reported consultancy, participation to advisory boards and research support from
+Abbvie, Acerta, Amgen, Archigen, Celgene, ADC Therapeutics,
+Gilead, Novartis, Johnson & Johnson, Roche, Roche Diagnostics,
+Sandoz and Takeda; DAE, BMPA and MF have reported no conflicts of interest.
+
+References
+1. Cheson BD, Fisher RI, Barrington SF et al. Recommendations for initial
+evaluation, staging, and response assessment of Hodgkin and non-Hodgkin
+lymphoma: the Lugano classification. J Clin Oncol 2014; 32: 3059–3068.
+2. Barrington SF, Mikhaeel NG, Kostakoglu L et al. Role of imaging in the
+staging and response assessment of lymphoma: consensus of the
+International Conference on Malignant Lymphomas Imaging Working
+Group. J Clin Oncol 2014; 32: 3048–3058.
+3. El-Galaly TC, d’Amore F, Mylam KJ et al. Routine bone marrow biopsy
+has little or no therapeutic consequence for positron emission tomography/computed tomography-staged treatment-naive patients with
+Hodgkin lymphoma. J Clin Oncol 2012; 30: 4508–4514.
+4. Engert A, Franklin J, Eich HT et al. Two cycles of doxorubicin, bleomycin, vinblastine, and dacarbazine plus extended-field radiotherapy is
+superior to radiotherapy alone in early favorable Hodgkin’s lymphoma:
+final results of the GHSG HD7 trial. J Clin Oncol 2007; 25: 3495–3502.
+5. Fermé C, Eghbali H, Meerwaldt JH et al. Chemotherapy plus involvedfield radiation in early-stage Hodgkin’s disease. N Engl J Med 2007; 357:
+1916–1927.
+6. Engert A, Plütschow A, Eich HT et al. Reduced treatment intensity in patients
+with early-stage Hodgkin’s lymphoma. N Engl J Med 2010; 363: 640–652.
+7. Thomas J, Fermé C, Noordijk EM et al. Comparison of 36 Gy, 20 Gy or
+no radiotherapy after six cycles of EBVP chemotherapy and complete remission in early stage Hodgkin lymphoma without risk factors: results of
+the EORTC–GELA H9-F Intergroup Randomized Trial. Int J Radiat
+Oncol Biol Phys 2017; 100:1133–1145.
+8. Specht L, Yahalom J, Illidge T et al. Modern radiation therapy for
+Hodgkin lymphoma: field and dose guidelines from the international
+lymphoma radiation oncology group (ILROG). Int J Radiat Oncol Biol
+Phys 2014; 89: 854–862.
+9. Radford J, Illidge T, Counsell N et al. Results of a trial of PET-directed therapy
+for early-stage Hodgkin’s lymphoma. N Engl J Med 2015; 372: 1598–1607.
+
+iv28 | Eichenauer et al.
+
+10. André MPE, Girinsky T, Federico M et al. Early positron emission tomography response-adapted treatment in stage I and II Hodgkin lymphoma: final results of the randomized EORTC/LYSA/FIL H10 trial. J Clin
+Oncol 2017; 35: 1786–1794.
+11. von Tresckow B, Plütschow A, Fuchs M et al. Dose-intensification in
+early unfavorable Hodgkin’s lymphoma: final analysis of the German
+Hodgkin Study Group HD14 trial. J Clin Oncol 2012; 30: 907–913.
+12. Böll B, Goergen H, Behringer K et al. Bleomycin in older early-stage favorable Hodgkin lymphoma patients: analysis of the German Hodgkin
+Study Group (GHSG) HD10 and HD13 trials. Blood 2016; 127:
+2189–2192.
+13. Canellos GP, Niedzwiecki D, Johnson JL. Long-term follow-up of survival in Hodgkin’s lymphoma. N Engl J Med 2009; 361: 2390–2391.
+14. Engert A, Haverkamp H, Kobe C et al. Reduced-intensity chemotherapy
+and PET-guided radiotherapy in patients with advanced stage Hodgkin’s
+lymphoma (HD15 trial): a randomised, open-label, phase 3 noninferiority trial. Lancet 2012; 379: 1791–1799.
+15. Johnson P, Federico M, Kirkwood A et al. Adapted treatment guided by
+interim PET-CT scan in advanced Hodgkin’s lymphoma. N Engl J Med
+2016; 374: 2419–2429.
+16. Press OW, Li H, Schöder H et al. US Intergroup trial of responseadapted therapy for stage III to IV Hodgkin lymphoma using early interim fluorodeoxyglucose-positron emission tomography imaging:
+Southwest Oncology Group S0816. J Clin Oncol 2016; 34: 2020–2027.
+17. Zinzani PL, Broccoli A, Gioia DM et al. Interim positron emission tomography response-adapted therapy in advanced-stage Hodgkin lymphoma: final results of the phase II part of the HD0801 study. J Clin Oncol
+2016; 34: 1376–1385.
+18. Connors JM, Jurczak W, Straus DJ et al. Brentuximab vedotin with
+chemotherapy for stage III or IV Hodgkin’s lymphoma. N Engl J Med
+2018; 378: 331–344.
+19. Borchmann P, Goergen H, Kobe C et al. PET-guided treatment in patients with advanced-stage Hodgkin’s lymphoma (HD18): final results of
+an open-label, international, randomised phase 3 trial by the German
+Hodgkin Study Group. Lancet 2017; 390: 2790–2802.
+20. Viviani S, Zinzani PL, Rambaldi A et al. ABVD versus BEACOPP for
+Hodgkin’s lymphoma when high-dose salvage is planned. N Engl J Med
+2011; 365: 203–212.
+21. Mounier N, Brice P, Bologna S et al. ABVD (8 cycles) versus BEACOPP
+(4 escalated cycles  4 baseline): final results in stage III-IV low-risk
+Hodgkin lymphoma (IPS 0-2) of the LYSA H34 randomized trial. Ann
+Oncol 2014; 25: 1622–1628.
+
+Volume 29 | Supplement 4 | October 2018
+
+Annals of Oncology
+22. Skoetz N, Trelle S, Rancea M et al. Effect of initial treatment strategy on
+survival of patients with advanced-stage Hodgkin’s lymphoma: a systematic review and network meta-analysis. Lancet Oncol 2013; 14:
+943–952.
+23. Ballova V, Rüffer JU, Haverkamp H et al. A prospectively randomized
+trial carried out by the German Hodgkin Study Group (GHSG) for elderly patients with advanced Hodgkin’s disease comparing BEACOPP
+baseline and COPP-ABVD (study HD9elderly). Ann Oncol 2005; 16:
+124–131.
+24. Schmitz N, Pfistner B, Sextro M et al. Aggressive conventional chemotherapy compared with high-dose chemotherapy with autologous
+haemopoietic stem-cell transplantation for relapsed chemosensitive
+Hodgkin’s disease: a randomised trial. Lancet 2002; 359: 2065–2071.
+25. Sibon D, Morschhauser F, Resche-Rigon M et al. Single or tandem autologous stem-cell transplantation for first-relapsed or refractory
+Hodgkin lymphoma: 10-year follow-up of the prospective H96 trial by
+the LYSA/SFGM-TC study group. Haematologica 2016; 101: 474–481.
+26. Moskowitz CH, Nademanee A, Masszi T et al. Brentuximab vedotin as
+consolidation therapy after autologous stem-cell transplantation in patients with Hodgkin’s lymphoma at risk of relapse or progression
+(AETHERA): a randomised, double-blind, placebo-controlled, phase 3
+trial. Lancet 2015; 385: 1853–1862.
+27. Josting A, Rudolph C, Reiser M et al. Time-intensified dexamethasone/
+cisplatin/cytarabine: an effective salvage therapy with low toxicity in patients with relapsed and refractory Hodgkin’s disease. Ann Oncol 2002;
+13: 1628–1635.
+28. Santoro A, Magagnoli M, Spina M et al. Ifosfamide, gemcitabine, and
+vinorelbine: a new induction regimen for refractory and relapsed
+Hodgkin’s lymphoma. Haematologica 2007; 92: 35–41.
+29. Moskowitz CH, Nimer SD, Zelenetz AD et al. A 2-step comprehensive
+high-dose chemoradiotherapy second-line program for relapsed and refractory Hodgkin disease: analysis by intent to treat and development of
+a prognostic model. Blood 2001; 97: 616–623.
+30. Moskowitz AJ, Schöder H, Yahalom J et al. PET-adapted sequential salvage therapy with brentuximab vedotin followed by augmented ifosamide, carboplatin, and etoposide for patients with relapsed and
+refractory Hodgkin’s lymphoma: a non-randomised, open-label, singlecentre, phase 2 study. Lancet Oncol 2015; 16: 284–292.
+31. Moskowitz CH, Matasar MJ, Zelenetz AD et al. Normalization of preASCT, FDG-PET imaging with second-line, non-cross-resistant, chemotherapy programs improves event-free survival in patients with Hodgkin
+lymphoma. Blood 2012; 119: 1665–1670.
+32. Rimner A, Lovie S, Hsu M et al. Accelerated total lymphoid irradiationcontaining salvage regimen for patients with refractory and relapsed
+Hodgkin lymphoma: 20 years of experience. Int J Radiat Oncol Biol Phys
+2017; 97: 1066–1076.
+33. Younes A, Gopal AK, Smith SE et al. Results of a pivotal phase II study of
+brentuximab vedotin for patients with relapsed or refractory Hodgkin’s
+lymphoma. J Clin Oncol 2012; 30: 2183–2189.
+34. Chen R, Gopal AK, Smith SE et al. Five-year survival and durability results of brentuximab vedotin in patients with relapsed or refractory
+Hodgkin lymphoma. Blood 2016; 128: 1562–1566.
+35. Younes A, Santoro A, Shipp M et al. Nivolumab for classical Hodgkin’s
+lymphoma after failure of both autologous stem-cell transplantation and
+brentuximab vedotin: a multicentre, multicohort, single-arm phase 2
+trial. Lancet Oncol 2016; 17: 1283–1294.
+
+Volume 29 | Supplement 4 | October 2018
+
+Clinical Practice Guidelines
+36. Chen R, Zinzani PL, Fanale MA et al. Phase II study of the efficacy and
+safety of pembrolizumab for relapsed/refractory classic Hodgkin lymphoma. J Clin Oncol 2017; 35: 2125–2132.
+37. Sureda A, Canals C, Arranz R et al. Allogeneic stem cell transplantation
+after reduced intensity conditioning in patients with relapsed or refractory
+Hodgkin’s lymphoma. Results of the HDR-ALLO study—a prospective
+clinical trial by the Grupo Espanol de Linfomas/Trasplante de Medula
+Osea (GEL/TAMO) and the Lymphoma Working Party of the European
+Group for Blood and Marrow Transplantation. Haematologica 2012; 97:
+310–317.
+38. Genadieva-Stavrik S, Boumendil A, Dreger P et al. Myeloablative versus
+reduced intensity allogeneic stem cell transplantation for relapsed/refractory Hodgkin’s lymphoma in recent years: a retrospective analysis of the
+Lymphoma Working Party of the European Group for Blood and
+Marrow Transplantation. Ann Oncol 2016; 27: 2251–2257.
+39. Eichenauer DA, Plütschow A, Fuchs M et al. Long-term course of patients with stage IA nodular lymphocyte-predominant Hodgkin lymphoma: a report from the German Hodgkin Study Group. J Clin Oncol
+2015; 33: 2857–2862.
+40. Nogová L, Reineke T, Brillant C et al. Lymphocyte-predominant and
+classical Hodgkin’s lymphoma: a comprehensive analysis from the
+German Hodgkin Study Group. J Clin Oncol 2008; 26: 434–439.
+41. Fanale MA, Cheah CY, Rich A et al. Encouraging activity for R-CHOP in
+advanced stage nodular lymphocyte-predominant Hodgkin lymphoma.
+Blood 2017; 130: 472–477.
+42. Al-Mansour M, Connors JM, Gascoyne RD et al. Transformation to aggressive lymphoma in nodular lymphocyte-predominant Hodgkin’s
+lymphoma. J Clin Oncol 2010; 28: 793–799.
+43. Schulz H, Rehwald U, Morschhauser F et al. Rituximab in relapsed
+lymphocyte-predominant Hodgkin lymphoma: long-term results of a
+phase 2 trial by the German Hodgkin Lymphoma Study Group (GHSG).
+Blood 2008; 111: 109–111.
+44. Eichenauer DA, Goergen H, Plütschow A et al. Ofatumumab in relapsed
+nodular lymphocyte-predominant Hodgkin lymphoma: results of a
+phase II study from the German Hodgkin study group. Leukemia 2016;
+30: 1425–1427.
+45. Akhtar S, Montoto S, Boumendil A et al. High dose chemotherapy and
+autologous stem cell transplantation in nodular lymphocytepredominant Hodgkin lymphoma: a retrospective study by the European
+Society for Blood and Marrow Transplantation-Lymphoma Working
+Party. Am J Hematol 2018; 93: 40–46.
+46. Eichenauer DA, Pluetschow A, Schroeder L et al. Relapsed nodular
+lymphocyte-predominant Hodgkin lymphoma: an analysis from the
+German Hodgkin Study Group (GHSG). Blood 2016; 128: 922.
+47. Ng AK. Current survivorship recommendations for patients with
+Hodgkin lymphoma: focus on late effects. Blood 2014; 124:
+3373–3379.
+48. Eichenauer DA, Thielen I, Haverkamp H et al. Therapy-related acute
+myeloid leukemia and myelodysplastic syndromes in patients with
+Hodgkin lymphoma: a report from the German Hodgkin Study Group.
+Blood 2014; 123: 1658–1664.
+49. Schaapveld M, Aleman BM, van Eggermond AM et al. Second cancer risk
+up to 40 years after treatment for Hodgkin’s lymphoma. N Engl J Med.
+2015; 373: 2499–2511.
+50. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001; 33: 139–144.
+
+doi:10.1093/annonc/mdy080 | iv29
+
+

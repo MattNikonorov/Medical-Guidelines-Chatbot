@@ -1,0 +1,1109 @@
+clinical practice guidelines
+
+Annals of Oncology 24 (Supplement 6): vi24–vi32, 2013
+doi:10.1093/annonc/mdt333
+
+Newly diagnosed and relapsed epithelial ovarian
+carcinoma: ESMO Clinical Practice Guidelines
+for diagnosis, treatment and follow-up†
+J. A. Ledermann1, F. A. Raja1, C. Fotopoulou2, A. Gonzalez-Martin3, N. Colombo4 & C. Sessa5, on
+behalf of the ESMO Guidelines Working Group*
+1
+UCL Cancer Institute, University College London, London; 2Imperial College, London, UK; 3MD Anderson Cancer Centre, Madrid, Spain; 4European Institute of Oncology,
+University of Milan Bicocca, Milan, Italy; 5Oncology Institute of Southern Switzerland, Ospedale San Giovanni, Bellinzona, Switzerland
+
+These Clinical Practice Guidelines are endorsed by the Japanese Society of Medical Oncology (JSMO)
+
+clinical practice
+guidelines
+
+incidence and epidemiology
+The estimated number of new ovarian cancer cases in Europe in
+2012 was 65 538 with 42 704 deaths [1]. There is variation in the
+incidence rate across the continent with a higher incidence in
+northern European countries. In the USA, there were ∼20 400
+newly diagnosed cases and 14 400 deaths in 2009 [2]. Ovarian
+cancer is the ﬁfth most common type of cancer in women and
+the fourth most common cause of cancer death in women. The
+estimated lifetime risk for a woman developing ovarian cancer is
+about 1 in 54.
+Ovarian cancer is predominantly a disease of older,
+postmenopausal women with the majority (>80%) of cases being
+diagnosed in women over 50 years. The exact cause of ovarian
+cancer remains unknown but many associated risk factors have
+been identiﬁed. A woman’s reproductive history appears to
+contribute signiﬁcantly to her lifetime risk of ovarian cancer.
+Those women who have had multiple pregnancies have a lower
+risk than those with fewer pregnancies, who in turn have a lower
+risk than nulliparous women. Early menarche and late
+menopause also seem to contribute to a greater risk of ovarian
+cancer, while use of the oral contraceptive pill, tubal ligation,
+breastfeeding and suppression of ovulation offer protection
+against ovarian cancer. All of these risk factors point to ovulation
+being correlated with the development of ovarian cancer. Further
+risk factors are obesity and possibly the use of talcum powder.
+Family history plays a very important role in the development
+of ovarian cancer, although in a recent study 44% patients with
+high-grade serous ovarian cancer and a germline BRCA
+mutation did not report a family history of cancer [3]. Women
+
+*Correspondence to: ESMO Guidelines Working Group, ESMO Head Ofﬁce, Via
+L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Working Group: April 2002, last update July 2013.
+This publication supersedes the previously published version—Ann Oncol 2010; 21
+(Suppl. 5): v23–v30.
+
+with a ﬁrst-degree relative have more than a twofold increase in
+risk of ovarian cancer compared with women with no family
+history. However, only 10% of ovarian cancer cases have an
+identiﬁable genetic mutation, e.g. the known susceptibility genes
+BRCA 1 and BRCA 2. An inherited BRCA 1 mutation confers a
+15%–45% lifetime risk of developing ovarian cancer and ≤85%
+risk of developing breast cancer. A BRCA 2 mutation increases
+the lifetime risk of ovarian cancer to 10%–20% and breast
+cancer risk of ≤85%. Women with hereditary ovarian cancer
+tend to develop the disease ∼10 years earlier than women with
+non-hereditary ovarian cancer. There are no clear guidelines for
+referral of ovarian cancer patients for testing. Referral is made
+on the basis of a family history and ethnic background. The
+importance of identifying BRCA mutations has increased as, in
+addition to risk-reducing surgery and surveillance for breast
+cancer in the patient and in family members, there are new
+treatments emerging speciﬁcally for BRCA-related cancers.
+
+pathology
+The majority of cases of ovarian cancer are of epithelial origin
+(∼90%). The World Health Organisation histological typing of
+epithelial ovarian tumours recognises the following distinct
+subtypes [4]:
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+serous
+endometrioid
+clear cell
+mucinous
+Brenner (transitional cell)
+mixed epithelial tumours
+undifferentiated
+unclassiﬁed
+
+Clinical trials have demonstrated that the subtype has
+prognostic importance [5] [I]. Grade is an additional prognostic
+determinant and a number of grading systems currently exist
+
+© The Author 2013. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+Annals of Oncology
+
+which are derived from reviewing the following tumour
+characteristics: architectural features, mitotic counts and nuclear
+atypia. Based on these, a grade of 1–3 is most commonly
+assigned [6]. There is no single universally accepted grading
+system. Some use a two-tier staging [7]; moreover, it is being
+recognised increasingly that different grading systems for
+different histological subtypes should be employed. The
+complexity of subclassiﬁcation below and its affect on treatment
+choice underline the importance of the role of an expert in
+gynaecological pathology in typing tumours.
+
+serous carcinomas
+Invasive serous carcinomas are the most common histological
+type accounting for up to ∼80% of advanced ovarian cancers. In
+recent years, convincing data have been presented that highgrade serous and low-grade serous ovarian cancers are two
+distinct disease entities [8, 9]. Tumours with mild to moderate
+cytologic atypia and low mitotic rates are classiﬁed as low-grade,
+whereas patients with severe cytologic atypia and high mitotic
+rates are considered high-grade serous tumours. There are also
+distinct mutations present in each type, and the cell of origin
+may also be different, as discussed in the next section. Clinically,
+women with low-grade serous tumours, which account for
+∼10% of serous cancers tend to present at a younger age and
+have a longer survival compared with women with high-grade
+tumours [10]. There is an increasing realisation that low-grade
+serous tumours do not respond to traditional chemotherapy
+regimens [11] and that alternative approaches are required
+particularly for the treatment of recurrent tumours.
+
+endometrioid
+The majority of endometrioid ovarian cancers are usually early
+stage (stage 1) and low grade. The prevalence of endometrioid
+ovarian cancers has decreased in recent years, likely due to
+better pathological diagnosis, and currently they account for
+∼10% of ovarian cancers. Endometriosis and in particular
+endometriotic cysts have been implicated as putative precursor
+lesions to endometrioid ovarian cancer. ARID1A mutations
+have been detected in endometriotic cysts and in endometrioid
+ovarian cancer, suggesting a causative role [12].
+
+clear-cell cancers
+Clear-cell cancers account for ∼5% of ovarian cancers, although
+the incidence varies worldwide. Japanese women develop clearcell ovarian cancers more commonly. The prognosis for stage 1
+clear-cell cancers is relatively good. However, advanced stage
+clear-cell cancers have a worse prognosis than serous ovarian
+cancers as the tumours tend to be resistant to the standard
+chemotherapeutic agents used in ovarian cancer. Clear-cell
+cancers are also strongly associated with endometriosis and a
+signiﬁcant proportion carry ARID1A mutations [12].
+
+transitional carcinoma
+Primary ovarian transitional carcinomas are rare but
+carcinomas with transitional features are quite common. The
+majority of the latter are variants of high-grade serous
+carcinomas and exhibit WT1 positivity.
+
+Volume 24 | Supplement 6 | October 2013
+
+clinical practice guidelines
+other carcinomas
+Mixed carcinomas are diagnosed when a tumour consists of
+more than one histological type and the minor component
+forms >10%. Undifferentiated carcinomas are rare and are likely
+to represent one end of the high-grade serous spectrum [13].
+
+borderline tumours (tumours of low malignant
+potential)
+Borderline tumours comprise about 10%–15% of ovarian
+tumours and do not ﬁt into the category of benign or malignant.
+As most ovarian tumours are serous in origin, borderline serous
+tumours are the most common type but borderline mucinous
+and endometrioid tumours also occur. Borderline serous
+tumours form part of the spectrum of low-grade serous cancers.
+They are managed primarily by surgery and respond poorly to
+chemotherapy.
+
+molecular pathogenesis
+Ovarian cancer is recognised as a heterogeneous disease, and in
+the last few years a dualistic model for the pathogenesis of this
+disease has emerged which divides epithelial tumours into type 1
+and type 2 ovarian carcinomas. This classiﬁcation is not intended
+to replace histological subtypes but provides a parallel
+terminology pertaining to the broad mechanism of cancer
+development [13]. Type 1 cancers tend to be low-grade and
+indolent tumours and include low-grade serous, endometrioid,
+mucinous, clear-cell and malignant Brenner tumours. These
+tumours are characterised by mutations of KRAS, BRAF, ERBB2,
+PTEN, PIK3CA and ARID1A and are relatively genetically stable.
+These mutations occur early in the evolution of type 1 ovarian
+tumours and are also observed in borderline tumours and
+endometriosis. A stepwise sequence of tumour development is
+now well recognised from benign precursor lesions (e.g.
+borderline tumour) to malignant lesions in type 1 cancers.
+Conversely, there is no clear precursor lesion for type 2 cancers.
+These are high-grade, aggressive tumours comprising high-grade
+serous, high-grade endometrioid, malignant mixed mesodermal
+tumours and undifferentiated tumours. Type 2 tumours are very
+frequently associated with TP53 mutations, and one landmark
+study found that 97% of high-grade serous cancers were
+associated with a TP53 mutation. Approximately 20% of these
+tumours also carried a BRCA1/2 mutation due to a combination
+of germline and somatic mutations [14].
+In recent years, accumulating evidence has shown that the
+majority of high-grade serous ovarian and peritoneal tumours
+originate in the ﬁmbria of the fallopian tube (serous tubal
+intraepithelial carcinoma) [15, 16]. These malignant cells then
+metastasise to the ovaries and the peritoneal cavity.
+
+diagnosis
+Patients with ovarian cancer conﬁned to the ovary may have few
+or no symptoms, making clinical diagnosis of early ovarian
+cancer more difﬁcult. Symptoms are most commonly seen with
+advanced disease. Recognised symptoms of all stages include
+abdominal or pelvic pain, constipation, diarrhoea, urinary
+frequency, vaginal bleeding, abdominal distension and fatigue.
+
+doi:10.1093/annonc/mdt333 | vi
+
+clinical practice guidelines
+In advanced ovarian cancer, ascites and abdominal masses lead
+to increased abdominal girth, bloating, nausea, anorexia,
+dyspepsia and early satiety. Extension of disease across the
+diaphragm to the pleural cavities can produce pleural effusions
+and the development of respiratory symptoms. Patients may
+become aware of an abdominal or nodal mass either in the
+inguinal region, axillae or the supraclavicular fossa.
+Following a full clinical assessment, measurement of serum CA
+125 is routinely used to aid diagnosis. However, its utility to
+detect early disease is questionable as it is elevated only in about
+50% of patients with the International Federation of Gynecology
+and Obstetrics (FIGO) stage I disease. In advanced disease, CA
+125 is elevated in about 85% of patients. It is not speciﬁc for
+ovarian cancer and raised CA 125 levels may be found in nongynaecological malignancies (e.g. breast, lung, colon and
+pancreatic cancer) and benign disease (e.g. endometriosis, pelvic
+inﬂammatory disease and ovarian cysts). Serum
+carcinoembryonic antigen (CEA) and CA 19–9 levels are
+sometimes measured in situations where it is unclear whether an
+ovarian mass is of gastrointestinal origin, or a primary mucinous
+ovarian tumour. Similarly, in these situations, colonoscopy
+and/or gastroscopy are sometimes considered, particularly when
+CA 125/CEA ratio is ≤25. Ultrasonography of the abdomen and
+pelvis is usually the ﬁrst imaging investigation recommended for
+women in whom ovarian cancer is suspected. Transvaginal
+ultrasonography has improved the visualisation of ovarian
+structures, thus improving the differentiation of malignant versus
+benign conditions [17]. A number of morphological variables
+have been identiﬁed as being strongly associated with ovarian
+cancer. The presence of a large lesion, multi-locular cysts, solid
+papillary projections, irregular internal septations and ascites are
+highly suggestive of ovarian cancer. A ‘risk of malignancy’ index
+
+Annals of Oncology
+
+can be calculated from clinical factors, ultrasound and CA 125
+and can be used to refer patients to a specialist gynaecological
+oncology team. Computed tomography (CT) scans are routinely
+used to determine the extent of disease and to aid in surgical
+planning. Imaging of the chest with CT or chest X-ray should be
+done to look for pleural effusions and disease above the
+diaphragm. A pleural effusion cannot be regarded as malignant
+and indicative of FIGO stage IV disease without conﬁrmation of
+positive cytology. Magnetic resonance imaging (MRI) scans do
+not form part of routine investigations.
+
+staging and risk assessment
+FIGO staging remains the most powerful indicator of prognosis
+(see Table 1). Although surgically deﬁned, preoperative
+assessment with cross-sectional imaging (CT or MRI) is essential
+as it guides surgery and the pathway of intervention. Given the
+variation in histological subtypes and evolving different patterns
+of care, reliance on a cytological diagnosis should be avoided and
+a histological diagnosis should be obtained if at all possible.
+Primary surgery remains the most common and preferred
+approach, but where this is deemed not feasible, an imageguided or laparoscopic biopsy should be carried out.
+
+treatment plan
+surgical management of early primary disease
+The aim of surgery for early ovarian cancer is to resect the
+tumour and to undertake adequate staging. This will provide
+prognostic information and will deﬁne whether chemotherapy
+is needed. The diagnosis may be made preoperatively, but
+sometimes a tumour is an incidental ﬁnding. The availability of
+
+Table 1. Staging of cancer of the ovary
+Stage I
+IA
+IB
+ICa
+
+Growth limited to the ovaries
+Growth limited to one ovary; no ascites present containing malignant cells. No tumour on the external surface; capsule intact
+Growth limited to both ovaries; no ascites present containing malignant cells. No tumour on the external surfaces; capsules intact
+Tumour either stage IA or IB, but with tumour on surface of one or both ovaries, or with capsule ruptured, or with ascites present containing
+malignant cells, or with positive peritoneal washings
+
+Stage II
+IIA
+IIB
+IICa
+
+Growth involving one or both ovaries with pelvic extension
+Extension and/or metastases to the uterus and/or tubes
+Extension to other pelvic tissues
+Tumour either stage IIA or IIB, but with tumour on surface of one or both ovaries, or with capsule(s) ruptured, or with ascites present containing
+malignant cells, or with positive peritoneal washings
+
+Stage III
+
+Tumour involving one or both ovaries with histologically conﬁrmed peritoneal implants outside the pelvis and/or positive regional lymph nodes.
+Superﬁcial liver metastases equal stage III. Tumour is limited to the true pelvis, but with histologically proven malignant extension to small
+bowel or omentum
+Tumour grossly limited to the true pelvis, with negative nodes, but with histologically conﬁrmed microscopic seeding of abdominal peritoneal
+surfaces, or histologically proven extension to small bowel or mesentery
+Tumour of one or both ovaries with histologically conﬁrmed implants, peritoneal metastasis of abdominal peritoneal surfaces, none exceeding 2
+cm in diameter; nodes are negative
+Peritoneal metastasis beyond the pelvis >2 cm in diameter and/or positive regional lymph nodes
+
+IIIA
+IIIB
+IIIC
+Stage IV
+
+Growth involving one or both ovaries with distant metastases. If pleural effusion is present, there must be positive cytology to allot a case to stage
+IV. Parenchymal liver metastasis equals stage IV
+
+a
+
+In order to evaluate the impact on prognosis of the different criteria for allotting cases to stage IC or IIC, it would be of value to know whether rupture of the
+capsule was spontaneous, or caused by the surgeon and whether the source of malignant cells detected was peritoneal washings or ascites.
+Reprinted from the International Journal of Gynecology and Obstetrics [57]. Copyright 2006, with permission from Elsevier.
+
+vi | Ledermann et al.
+
+Volume 24 | Supplement 6 | October 2013
+
+Annals of Oncology
+
+a frozen section to identify a malignant epithelial cancer may
+allow the necessary surgical staging to be done, without the need
+for a second operative procedure. Accurate surgical staging is
+important as it may unmask occult advanced disease.
+Depending on the histological grade and subtype, ≤30% of the
+patients with apparently early epithelial ovarian cancer will be
+upstaged after comprehensive surgical staging [18, 19]. Cass
+et al. showed that, in 96 patients with grade 3 tumours and gross
+disease conﬁned to one ovary, 15% had microscopically positive
+lymph nodes [20]. Among these patients, 50% had positive
+pelvic nodes, 36% had positive para-aortic node and both were
+positive in 14% of the cases. Maggioni et al. reported on a
+prospective randomised trial of systematic lymphadenectomy in
+patients with ovarian cancer macroscopically conﬁned to the
+pelvis. Positive nodes were detected in 22% of patients
+undergoing systematic lymphadenectomy, compared with only
+9% of patients who underwent merely a sampling (P = 0.007).
+Although a trend for improved progression-free survival (PFS)
+and overall survival (OS) was observed for the
+lymphadenectomy group when compared with the control
+group, the study lacked the statistical power to be conclusive in
+this respect [21]. Thus, there is currently no evidence to suggest
+that lymphadenectomy per se improves survival. Bulky lymph
+nodes should be resected in an effort to remove all visible
+residual disease. Adequate, non-fertility-sparing surgery should
+consist of peritoneal washings, ideally taken before
+manipulation of the tumour, bilateral salpingo-oophorectomy,
+hysterectomy, multiple peritoneal biopsies of all abdominal
+ﬁelds, at least infracolic omentectomy, appendectomy in case of
+mucinous histology and pelvic and para-aortic lymph node
+dissection up to the renal veins.
+When young women are affected, fertility-sparing surgery
+could be considered in early-stage disease, but always after
+thoroughly informing the patient about the potential risks.
+Patients with stage IA or stage IC with unilateral ovarian
+involvement and favourable histology, that is mucinous, serous,
+endometrioid or mixed histology and grade 1 or 2, would be
+amenable to organ-preserving surgery, but only in combination
+with complete surgical staging. This would include a
+lymphadenectomy to exclude more advanced disease. In large
+retrospective analyses, women with G3 disease or stage IC with
+clear-cell histology had a higher risk of recurrence. However, this
+increased risk is mainly related to a higher incidence of
+extraovarian spread observed in grade 3 tumours, rather than to a
+higher relapse rate in the preserved ovary [22]. Therefore, these
+patients should be carefully informed about their prognosis to
+enable them to make a personalised and thorough choice.
+
+surgical management of primary advanced
+ovarian cancer
+In advanced epithelial ovarian cancer, the aim is complete
+cytoreduction of all macroscopic visible disease, since this has
+been shown to be associated with a signiﬁcantly increased OS and
+PFS [23–25]. In order to achieve this, a maximal surgical effort is
+required, including intestinal resection, peritoneal stripping,
+diaphragmatic resection, removal of bulky para-aortic lymph
+nodes and splenectomy. There is an increasing body of evidence
+that suggests specialist training and surgical expertise results in
+
+Volume 24 | Supplement 6 | October 2013
+
+clinical practice guidelines
+improvements in the rate of cytoreduction, with no increase in
+morbidity as a result of this process [26]. Thus, women with
+advanced disease are advised to undergo surgery in specialised
+centres with adequate infrastructure and training [B]. Optimal
+cytoreduction is deﬁned as total macroscopic tumour clearance
+with no residual visible disease. A recent meta-analysis evaluating
+the surgical outcome of more than 3120 patients showed that
+residual tumour is a more powerful prognostic determinant than
+FIGO stage; patients with suboptimally debulked stage IIB–IIIB
+tumours had a worse outcome that those with completely
+debulked stage IIIC tumours [23]. The value of systematic pelvic
+and para-aortic lymphadenectomy in advanced disease remains
+controversial. A retrospective analysis of more than 1900 patients
+found that lymphadenectomy was associated with a prolonged
+survival in patients with no gross residual disease [27]. However, a
+prospective randomised trial of lymphadenectomy versus removal
+of bulky nodes in patients with <2 cm residual tumour showed an
+improvement in PFS but not OS for the lymphadenectomy group
+[28]. A large multi-centre, prospectively randomised trial of
+lymphadenectomy in this group of patients just completed accrual
+(LION Trial, AGO-OVAR OP.3 [NCT00712218]). Until the
+results of such trials become available, systematic
+lymphadenectomy should not be regarded as a standard
+procedure. Currently, the removal of bulky lymph nodes is carried
+out as part of an attempt to achieve maximum cytoreduction.
+The timing of surgical cytoreduction in relation to
+chemotherapy is still debated. A large prospective trial showed
+[25] that in advanced bulky stage IIIC or IV disease, three cycles
+of platinum-based neoadjuvant chemotherapy followed by
+interval debulking surgery was not inferior to primary
+debulking surgery followed by chemotherapy [I, A]. Surgical
+morbidity had a non-signiﬁcant trend to be lower in the
+neoadjuvant arm. As a result of these data, the use of primary
+chemotherapy with interval surgery is becoming more widely
+accepted and is offered to patients with poor performance status
+at presentation, low albumin levels and in those with very
+extensive tumour dissemination. Validation of the results of this
+approach may come from further trials that are ongoing. The
+place of secondary interval debulking surgery after primary
+surgery with suboptimal cytoreduction and three cycles of
+chemotherapy is less clear. Improved survival following
+secondary surgery was seen in the European Organisation for
+Research and Treatment of Cancer (EORTC) trial [24], but it
+was not conﬁrmed by another trial conducted by the
+Gynaecological Oncology Group (GOG) [29]. However,
+differences in the extent of primary cytoreduction and the use of
+paclitaxel with platinum may account for the discordant results.
+A ‘second look’ diagnostic laparoscopy or laparotomy after
+completion of treatment to assess intraperitoneal status is
+obsolete and should not be carried out, as its impact on survival
+has never been demonstrated.
+
+surgical management of relapsed ovarian cancer
+and surgery for palliation
+The value of surgical cytoreduction in relapsed epithelial
+ovarian cancer remains controversial and is not regarded as a
+standard of care, as the evidence for this approach has not been
+demonstrated in prospective trials. In retrospective analyses,
+
+doi:10.1093/annonc/mdt333 | vi
+
+clinical practice guidelines
+surgery at ﬁrst relapse appears to be associated with a survival
+beneﬁt only when a complete tumour resection can be obtained
+[30, 31]. Patients with two of three of the following criteria:
+complete resection at ﬁrst surgery, good performance status and
+absence of ascites had the best survival [III, C]. There are
+currently two prospective multi-centre randomised trials
+evaluating the value of surgery at relapse. The European trial,
+DESKTOP III [NCT01166737] uses selection criteria based on
+the above. The other study GOG 213 [NCT00565851] also
+incorporates the addition of bevacizumab to chemotherapy.
+The value of surgery to improve palliation at later relapse is less
+clear. The largest multi-centre retrospective analysis on tertiary
+cytoreduction included more than 400 patients in 14 centres
+worldwide [32]. This analysis showed that residual tumours retain
+a positive effect on survival even in the tertiary setting of epithelial
+ovarian cancer, attenuating the impact of other well-established
+negative prognostic predictors of survival such as ascites,
+advanced FIGO stage and peritoneal carcinomatosis [IV, C].
+
+adjuvant chemotherapy for early-stage
+disease
+A recent Cochrane meta-analyses of ﬁve large prospective
+clinical trials (4 of 10 with platinum-based chemotherapy)
+showed that chemotherapy is more beneﬁcial than observation
+in patients with early-stage ovarian cancer [33]. Patients who
+received platinum-based adjuvant chemotherapy had better OS
+[hazard ratio (HR) 0.71; 95% conﬁdence interval (CI) 0.53–
+0.93] and PFS (HR 0.67; 95% CI 0.53–0.84) than patients who
+did not receive adjuvant treatment. Even though two-thirds of
+the patients included in the two major studies were
+suboptimally staged, some beneﬁt for chemotherapy in
+optimally staged patients cannot be excluded. Long-term
+follow-up of the ICON 1 trial conﬁrms the beneﬁt of adjuvant
+chemotherapy, particularly in those patients at higher risk of
+recurrence (stage 1B/C grade 2/3, any grade 3 or clear-cell
+histology) [34]. Therefore, adjuvant chemotherapy should be
+offered not only to suboptimally staged patients but also to
+those optimally staged at higher risk of recurrence [I, A].
+The optimal duration of treatment remains controversial;
+there has been only one randomised trial (GOG 157) which
+showed that six cycles of carboplatin and paclitaxel were not
+associated with longer PFS or OS, but with a signiﬁcantly
+greater toxicity than with three cycles [35]. There are no data to
+demonstrate that the addition of paclitaxel to carboplatin is
+superior. Some clinicians feel that separating the choice of
+treatment between FIGO stage IC and stage II–IV is artiﬁcial,
+and therefore choose to offer combination chemotherapy to
+women with stage IC. However, evidence of a beneﬁt of
+combination therapy in this group is lacking; therefore, it is
+reasonable to consider single-agent carboplatin to all women
+with intermediate and high-risk stage I disease.
+
+front-line chemotherapy for epithelial
+ovarian cancer (FIGO stage II–IV)
+The risks of recurrence for disease spread beyond the ovary are
+signiﬁcant, and chemotherapy is recommended for all patients
+with FIGO stage II–IV disease post surgery.
+
+vi | Ledermann et al.
+
+Annals of Oncology
+
+Standard chemotherapy consists of a combination of
+paclitaxel 175 mg/m2 and carboplatin AUC 6-5, both
+administered intravenously every 3 weeks [I, A] [36–38]. This
+has been the standard treatment of more than 15 years, and
+clinical trials in the last decade adding a third drug, such as the
+large Gynaecologic Cancer InterGroup (GCIG) ICON-5/GOG
+182 trial [39], have not been shown to improve PFS or OS in
+these patients. The combination of cisplatin and paclitaxel is
+equally effective but is more toxic and less convenient to
+administer. Usually six cycles of treatment are given; no
+evidence exists to suggest that more than six cycles results in a
+better outcome. While survival beneﬁts are seen in trials with
+platinum-based therapy, many women undergo several lines of
+treatment, making dissection of the contribution of individual
+therapies, particularly ﬁrst-line therapy, more complex.
+For those patients who develop an allergy to or do not
+tolerate paclitaxel, the combination of docetaxel-carboplatin or
+pegylated liposomal doxorubicin (PLD)-carboplatin can be
+considered an alternative, based on two randomised clinical
+trials that showed similar efﬁcacy [II, A] [40, 41].
+Alternative schedules of administration of paclitaxel and
+platinum chemotherapy have included intraperitoneal delivery
+and dose-dense regimens.
+Intraperitoneal chemotherapy has a solid pharmacokinetic
+background and consists of administration of part of the
+chemotherapy, usually the platinum agent, directly into the
+peritoneal cavity through a catheter. One randomised clinical
+trial carried out by the GOG (GOG-172) demonstrated a beneﬁt
+in PFS and OS for a regimen that included not only
+intraperitoneal cisplatin on day 2 and intravenous paclitaxel on
+day 1, but also intraperitoneal paclitaxel on day 8 [42].
+Additionally a meta-analysis of ﬁve clinical trials conﬁrmed a
+beneﬁt for intraperitoneal chemotherapy in OS [43]. This led to
+a National Cancer Institute alert in 1996 recommending that
+intraperitoneal therapy should be considered in patients with
+small volume (<1 cm) or no residual disease after surgery.
+However, this treatment has not been adopted as a standard of
+care in the majority of institutions and countries due to its
+greater toxicity and difﬁculty in delivering all of the
+planned treatment. The absence of the current standard
+intravenous control arm in these trials has further inﬂuenced
+scepticism, and many clinicians still regard intraperitoneal
+therapy as experimental, recommending its use only in the
+context of randomised trials. Several of these are in progress
+[I, B].
+Dose-dense scheduling to improve the effectiveness of
+paclitaxel chemotherapy has also been explored in ovarian
+cancer. A Japanese study (NOVEL–JGOG 3062) compared 3weekly paclitaxel and carboplatin with the same dose of
+carboplatin every 3 weeks (AUC 6) and paclitaxel administered
+in a weekly dose of 80 mg/m2. Signiﬁcant beneﬁts in PFS and
+OS were seen at 3 years, and a recent update with longer followup has conﬁrmed this beneﬁt in women with small volume and
+>2 cm residual disease [44, 45]. However, 36% of patients had to
+stop this regimen prematurely due to side-effects, especially
+myelotoxicity. This is a potentially practice-changing trial, but
+the possibility that this is a chance ﬁnding or is due to a
+pharmacogenomic difference between Japanese and Caucasian
+populations makes it necessary to conﬁrm these results in a
+
+Volume 24 | Supplement 6 | October 2013
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Caucasian population. Two trials are in progress (GOG 262
+[NCT01167712] and ICON 8 [NCT01654146]) and one was
+recently completed (MITO 7 [NCT00660842]), but in the
+absence of conﬁrmatory data, dose-dense administration of
+paclitaxel currently can only be considered an option, and not
+as a standard of care [I, B].
+
+interval debulking surgery or at the end of ﬁrst-line
+chemotherapy, to conﬁrm the disease status. If the CA 125 does
+not reach the normal range before the end of chemotherapy, or
+if there is residual disease on CT, the disease status would be
+regarded as a ‘partial response’ to front-line treatment.
+
+targeted therapy
+
+chemotherapy in recurrent ovarian
+cancer
+
+Angiogenesis is an important component driving the growth of
+ovarian cancer. Two large randomised clinical trials (GOG-218
+and ICON-7) have assessed the addition of bevacizumab to the
+combination of paclitaxel and carboplatin in front-line therapy
+[46, 47]. Bevacizumab is a monoclonal antibody targeting
+vascular endothelial growth factor. In both trials patients in the
+experimental arm received bevacizumab intravenously every 3
+weeks during the chemotherapy phase, followed by a limited
+period of maintenance with the same schedule of bevacizumab.
+GOG-218 included a second experimental arm of bevacizumab
+with chemotherapy, followed by maintenance with a placebo.
+There were signiﬁcant differences in both trials in terms of dose
+(7.5 mg/kg in the ICON-7 versus 15 mg/kg in the GOG-218),
+duration (12 months in the ICON-7 versus 15 months in the
+GOG-218) and patient characteristics (GOG-218 included only
+patients with stage III–IV and macroscopic residual disease after
+surgery, but ICON-7 included patients also with high-risk early
+stage, and patients in a more advanced stage but without
+macroscopic residual disease after surgery). Both trials met their
+primary end point, which was PFS for the two bevacizumab
+maintenance arms. The test for interaction in the ICON-7 trial
+showed that a greater beneﬁt was observed in the ‘high-risk’
+population, deﬁned as those patients with stage III–IV and
+residual disease >1 cm. In an interim analysis, OS was
+prolonged in this group. No survival difference was observed in
+GOG-218 and mature survival results from ICON-7 are awaited.
+Bevacizumab has been licensed by the European Medicines
+Agency (EMA) at 15 mg/kg, with carboplatin and paclitaxel and
+for ≤15 months or until progression. Bevacizumab is not
+licensed for ovarian cancer in the USA, and it is not consistently
+used in Europe. Some clinicians restrict the use of the drug to
+the subgroup of ‘higher risk’ patients as deﬁned in the ICON-7
+trial, and some are awaiting the mature survival data from
+ICON 7, while others use the drug in its licensed dose and
+indication or use the drug in patients with recurrent ovarian
+cancer. The addition of bevacizumab is recommended for
+patients with advanced ovarian cancer with poor prognostic
+features such as stage IV or suboptimal debulking as deﬁned in
+the ICON-7 trial [I, B]. Bevacizumab should be given with
+paclitaxel or carboplatin with a treatment duration of one year.
+Trials with other anti-angiogenic drugs and extended therapy
+with bevacizumab are ongoing.
+
+evaluating the response to treatment
+As CA 125 is elevated in most patients with advanced disease,
+serial measurement is a useful marker to assess the response to
+chemotherapy according to GCIG criteria [48]. Where there is
+visible disease on CT at the beginning of chemotherapy, some
+clinicians will formally evaluate a response on CT halfway
+through chemotherapy. A CT should be carried out before
+
+Volume 24 | Supplement 6 | October 2013
+
+Despite optimal upfront surgery and the administration of
+front-line paclitaxel–carboplatin chemotherapy, ∼70% of
+patients will relapse in the ﬁrst 3 years.
+The prognosis and probability of response to second-line
+therapy and subsequent lines depends in great part on the
+progression-free interval after the last dose of the preceding line
+of chemotherapy. These categories are based on the response to
+a rechallenge with platinum-based drugs but probably apply to
+non-platinum therapies as well. A categorisation, recently
+updated and conﬁrmed by the GCIG 4th Ovarian Cancer
+Consensus Meeting, deﬁnes ‘platinum-refractory’ as patients
+progressing during therapy or within 4 weeks after the last dose;
+‘platinum-resistant’ patients progressing within 6 months of
+platinum-based therapy; ‘partially platinum-sensitive, patients
+progressing between 6 and 12 months; and ‘platinum-sensitive’
+patients progressing with an interval of more than 12 months
+(GCIG Consensus) [49]. It should be noted that these categories
+are based on observational studies and that the categorisation is
+probabilistic, with the likelihood of response being a continuous
+variable. Furthermore, the category of ‘platinum-resistant/
+refractory’ comprises patients whose disease recurs after one or
+several lines of treatment. The biological behaviour of the
+tumour in these groups may be very variable, with differing
+growth rates and distribution of symptoms requiring different
+approaches to treatment.
+Treatment of patients with ‘platinum-resistant or refractory’
+disease should be focused on quality of life and control of
+symptoms. Traditionally, this is a poor prognosis population with
+a short expected OS, usually <12 months. Four different agents,
+weekly or 3-weekly paclitaxel, topotecan, PLD and gemcitabine,
+have been shown to have some activity in phase III trials, with
+overall response rates no >15% and a median PFS of 3–4 months.
+Occasionally, platinum drugs continue to be used in the
+‘platinum-resistant’ population with, for example, a dose-dense
+regimen. However, as no agent has proven to be superior to
+another, the selection of therapy should be based on toxicity,
+clinical situation of the patient and convenience of
+administration. Randomised trials of combination chemotherapy
+have shown no advantage in this population; it compounds
+toxicity. Accordingly, sequential single-agent therapy is the
+recommended management for this group of patients [I, A].
+For those patients with a later relapse, over 6 months and
+especially over 12 months, carboplatin-doublet should be the
+treatment of choice [I, A]. Trials have included carboplatin
+compared with the same drug combined with paclitaxel,
+gemcitabine or an anthracycline. All have shown an
+improvement in PFS but a survival beneﬁt was only seen with
+the carboplatin–paclitaxel combination (ICON 4/OVAR 2.2)
+[50]. A meta-analysis including four randomised trials
+
+doi:10.1093/annonc/mdt333 | vi
+
+clinical practice guidelines
+conﬁrmed an improvement in PFS with a HR of 0.68 (95% CI
+0.57–0.81) and OS with a HR of 0.8 (95% CI 0.64–1.0) [51].
+Additionally, the CALYPSO trial demonstrated that the
+combination of carboplatin–PLD was not inferior to paclitaxel–
+carboplatin in terms of PFS, but was better tolerated because of
+the minimal incidence of alopecia, neuropathy, and arthralgias
+and fewer hypersensitivity reactions [52]. Again, the selection
+between the different options of platinum-based doublets
+should be based on the toxicity proﬁle and convenience of
+administration [I, B].
+Several choices of treatment exist for patients with ‘platinumsensitive’ relapse. As this can occur on more than one occasion,
+it allows for different combinations to be selected. Most of these
+combinations involve platinum, but in the ‘partially platinumsensitive’ group, a survival beneﬁt was seen in a subgroup
+analysis of the OVA-301 trial when trabectedin was combined
+with PLD, when compared with PLD alone [I, B] [53, 54]. It has
+been hypothesised that this beneﬁt is due to the restoration of
+‘platinum-sensitivity’ by artiﬁcially prolonging the platinumfree interval. This is now being explored in two prospective
+randomised trials.
+
+targeted therapy
+Bevacizumab has shown to improve the PFS of recurrent
+ovarian cancer in two randomised phase III trials. The ﬁrst
+(OCEANS trial) included patients with measurable recurrent
+ovarian cancer after ﬁrst-line and a platinum-free interval
+longer than 6 months. All patients received a combination of
+carboplatin and gemcitabine at standard doses and were
+randomised to receive bevacizumab (15 mg/kg) or placebo
+administered every 3 weeks until progression. The addition of
+bevacizumab to chemotherapy increased signiﬁcantly the PFS
+(HR 0.48, 95% CI 0.38–0.60) and produced an increment in the
+response rate of 21% (ORR 78.5% versus 57.4%, P < 0.0001)]
+[55]. A more mature survival analysis has not proven any
+additional beneﬁt in OS, probably due to the high rate of
+crossover (41% of patients in the control arm received
+
+Annals of Oncology
+
+bevacizumab at some point during progression) [I, A].
+However, bevacizumab in combination with this chemotherapy
+has been licensed by the EMA and is a recommended treatment
+for patients with ‘platinum-sensitive’ relapsed ovarian cancer
+who have not previously received bevacizumab.
+The second (AURELIA) trial was carried out in patients with
+‘platinum-resistant’ ovarian cancer. This was a selected group
+who had received no more than two previous lines of treatment
+and who did not have evidence of bowel obstruction or tumour
+involvement of the serosa of the rectosigmoid colon. Patients
+received standard chemotherapy according to physician choice
+(weekly paclitaxel, PLD or topotecan), and were randomised to
+receive bevacizumab or no additional treatment, together with
+chemotherapy and then as maintenance until progression.
+Patients receiving bevacizumab had a longer PFS (HR 0.48, 95%
+CI 0.38–0.60) and an increment in response rate measured by
+Response Evaluation Criteria in Solid Tumors (RECIST) of 15%
+(11.8% versus 27.3%) [I, B] [56]. However, quality of life and OS
+data are still pending.
+
+follow-up
+Relapse may be deﬁned according to CA 125 criteria even if this
+does not directly lead to a change in treatment. More often, a
+rising CA 125 triggers further imaging. According to GCIG
+criteria, progression or recurrence based on serum CA 125
+levels is deﬁned on the basis of a progressive serial elevation of
+serum CA 125 [48]. Elevated values must be conﬁrmed by two
+separate measurements obtained at least one week apart. CA
+125 progression will be assigned the date of the ﬁrst
+measurement that meets the criteria as noted.
+The value and type of follow-up after primary therapy has a
+weak evidence base and as a result practice varies. Clinical
+evaluation with or without pelvic examination and
+measurement of CA 125 is often carried out every 3 months for
+2 years, then every 6 months during years 4 and 5 or until
+progression occurs. While the beneﬁt of monitoring CA 125
+during therapy is clear, the value of its measurement following
+
+Table 2. Levels of evidence and grades of recommendation (adapted from the Infectious Diseases Society of America-United States Public Health Service
+Grading Systema)
+Levels of evidence
+I
+Evidence from at least one large randomised, controlled trial of good methodological quality (low potential for bias) or meta-analyses of wellconducted randomised trials without heterogeneity
+II
+Small randomised trials or large randomised trials with a suspicion of bias (lower methodological quality) or meta-analyses of such trials or of
+trials with demonstrated heterogeneity
+III
+Prospective cohort studies
+IV
+Retrospective cohort studies or case–control studies
+V
+Studies without control group, case reports, experts opinions
+Grades of recommendation
+A
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt, strongly recommended
+B
+Strong or moderate evidence for efﬁcacy but with a limited clinical beneﬁt, generally recommended
+C
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh the risk or the disadvantages (adverse events, costs,...), optional
+D
+Moderate evidence against efﬁcacy or for adverse outcome, generally not recommended
+E
+Strong evidence against efﬁcacy or for adverse outcome, never recommended
+a
+
+Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis 2001;
+33: 139–144. By permission of the Infectious Diseases Society of America.
+
+vi | Ledermann et al.
+
+Volume 24 | Supplement 6 | October 2013
+
+Annals of Oncology
+
+the completion of treatment is less certain. A phase III
+randomised study (OV05-EORTC 55955) comparing the early
+intervention of second-line therapy based on elevated CA 125
+compared with treatment begun on clinical evidence of relapse
+showed no OS advantage of early CA 125-directed retreatment.
+Treatment was delayed by a median of 4.8 months with no
+detriment to OS (HR 1.01; 95% CI 0.82–1.25; P = 0.91) [57]
+[I, A]. Similarly, third-line treatment was begun 4.6 months
+earlier in the patients who had regular CA 125 monitoring.
+Quality of life was lower in the early treatment group,
+presumably because this group was exposed to more
+chemotherapy. While some clinicians no longer measure CA
+125 as part of follow-up, others do as there is a possibility of
+missing surgically resectable recurrence if CA 125 is not
+measured. The results of ongoing trials will determine whether
+surgery for relapse improves survival. Practice depends on local
+follow-up and patients wishes; some patients prefer to have the
+reassurance of a normal CA 125 reading. Many clinicians have
+interpreted the results of OV05-EORTC55955 as showing that it
+is safe to delay the reintroduction of chemotherapy up to the
+appearance of symptoms when the CA 125 is rising, provided
+the patient is well, the disease volume on CT scan is small and
+there is no evidence of compromised organ function.
+PET-CT scans may reveal sites of disease not visible on CT
+scans. The principal role of this imaging modality is to help the
+selection of patients for secondary debulking surgery, by
+excluding additional sites of disease not seen on CT scans and
+not amenable to cytoreduction.
+
+personalised medicine
+In this disease setting, more research is needed to identify
+molecular markers which could lead to advances in
+personalised medicine.
+
+note
+Levels of evidence and grades of recommendation have been
+applied using the system shown in Table 2. Statements without
+grading were considered justiﬁed standard clinical practice by
+the experts and the ESMO faculty.
+
+conﬂict of interest
+Prof. Ledermann has reported research funding support from
+AstraZeneca, consultancy and/or speaker’s bureau with no
+personal renumeration from AstraZeneca, MSD/Endocyte,
+Clovis, Glycotype and Roche and Boehringer Ingelheim; travel
+grants from Roche and Boehringer Ingleheim. Dr Raja is
+supported by grant funding from Cancer Research UK (C444/
+A15953). Dr Gonzalez-Martin has reported speaker’s bureau for
+Roche, PharmaMar. Dr Colombo has reported consultancy/
+honoraria from GlaxoSmithKline, Merck Serono, Roche,
+Amgen, PharmaMar, Clovis. Dr Fotopoulous and Prof. Sessa
+have declared no potential conﬂicts of interest.
+
+Volume 24 | Supplement 6 | October 2013
+
+clinical practice guidelines
+references
+1. EUCAN Cancer Factsheets: Ovary. http://eu-cancer.iarc.fr/EUCAN/CancerOne.
+aspx?Cancer=27&Gender=2 (11 July 2013, date last accessed).
+2. U.S. Cancer Statistics Working Group. United States Cancer Statistics: 1999–
+2009 Incidence and Mortality Web-based Report. Atlanta (GA): Department of
+Health and Human Services, Centers for Disease Control and Prevention, and
+National Cancer Institute 2013. http://www.cdc.gov/uscs (11 July 2013, date last
+accessed).
+3. Alsop K, Fereday S, Meldrum C et al. BRCA Mutation frequency and patterns of
+treatment response in BRCA mutation-positive women with ovarian cancer: a
+report from the Australian Ovarian Cancer Study Group. J Clin Oncol 2012; 30:
+2654–2663.
+4. Scully RE, Sobin LH, Serov SF. Histological Typing of Ovarian Tumours. Berlin,
+Heidelberg, New York: Springer 1999.
+5. Mackay HJ, Brady MF, Oza AM et al. Prognostic relevance of uncommon ovarian
+histology in women with stage III/IV epithelial ovarian cancer. Int J Gynecol Cancer
+2010; 20: 945–952.
+6. Shimizu Y, Kamoi S, Amada S et al. Toward the development of a universal
+grading system for ovarian epithelial carcinoma: testing of a proposed system in a
+series of 461 patients with uniform treatment and follow-up. Cancer 1998; 82:
+893–901.
+7. Bodurka DC, Deavers MT, Tian C et al. Reclassiﬁcation of serous ovarian
+carcinoma by a 2-tier system: a Gynecologic Oncology Group Study. Cancer 2012;
+118: 3087–3094.
+8. Vang R, Shih I-M, Kurman RJ. Ovarian low-grade and high-grade serous
+carcinoma: pathogenesis, clinicopathologic and molecular biologic features, and
+diagnostic problems. Adv Anat Pathol 2009; 16: 267–282.
+9. Bonome T, Lee JY, Park DC et al. Expression proﬁling of serous low malignant
+potential, low-grade, and high-grade tumors of the ovary. Cancer Res 2005; 65:
+10602–10612.
+10. Diaz-Padilla I, Malpica AL, Minig L et al. Ovarian low-grade serous carcinoma: a
+comprehensive update. Gynecol Oncol 2012; 126: 279–285.
+11. Schmeler KM, Sun CC, Bodurka DC et al. Neoadjuvant chemotherapy for lowgrade serous carcinoma of the ovary or peritoneum. Gynecol Oncol 2008; 108:
+510–514.
+12. Wiegand KC, Shah SP, Al-Agha OM et al. ARID1A mutations in endometriosisassociated ovarian carcinomas. N Engl J Med 2010; 363: 1532–1543.
+13. McCluggage WG. Morphological subtypes of ovarian carcinoma: a review with
+emphasis on new developments and pathogenesis. Pathology 2011; 43:
+420–432.
+14. Bell D, Berchuck A, Birrer M et al. Integrated genomic analyses of ovarian
+carcinoma. Nature 2011; 474: 609–615.
+15. Vang R, Shih I-M, Kurman RJ. Fallopian tube precursors of ovarian low- and highgrade serous neoplasms. Histopathology 2013; 62: 44–58.
+16. Carlson JW, Miron A, Jarboe EA et al. Serous tubal intraepithelial carcinoma: its
+potential role in primary peritoneal serous carcinoma and serous cancer
+prevention. J Clin Oncol 2008; 26: 4160–4165.
+17. Lerner JP, Timor-Tritsch IE, Federman A, Abramovich G. Transvaginal
+ultrasonographic characterization of ovarian masses with an improved, weighted
+scoring system. Am J Obstet Gynecol 1994; 170: 81–85.
+18. Garcia-Soto AE, Boren T, Wingo SN et al. Is comprehensive surgical staging
+needed for thorough evaluation of early-stage ovarian carcinoma? Am J Obstet
+Gynecol 2012; 206: 242.e241–242.e245.
+19. Timmers PJ, Zwinderman AH, Coens C et al. Understanding the problem of
+inadequately staging early ovarian cancer. Eur J Cancer 2010; 46: 880–884.
+20. Cass I, Li AJ, Runowicz CD et al. Pattern of lymph node metastases in clinically
+unilateral stage I invasive epithelial ovarian carcinomas. Gynecol Oncol 2001; 80:
+56–61.
+21. Maggioni A, Benedetti Panici P, Dell’Anna T et al. Randomised study of systematic
+lymphadenectomy in patients with epithelial ovarian cancer macroscopically
+conﬁned to the pelvis. Br J Cancer 2006; 95: 699–704.
+22. Fruscio R, Corso S, Ceppi L et al. Conservative management of early-stage
+epithelial ovarian cancer: results of a large retrospective series. Ann Oncol 2013;
+24: 138–144.
+
+doi:10.1093/annonc/mdt333 | vi
+
+clinical practice guidelines
+23. du Bois A, Reuss A, Pujade-Lauraine E et al. Role of surgical outcome as
+prognostic factor in advanced epithelial ovarian cancer: a combined exploratory
+analysis of 3 prospectively randomized phase 3 multicenter trials: by the
+Arbeitsgemeinschaft Gynaekologische Onkologie Studiengruppe Ovarialkarzinom
+(AGO-OVAR) and the Groupe d’Investigateurs Nationaux Pour les Etudes des
+Cancers de l’Ovaire (GINECO). Cancer 2009; 115: 1234–1244.
+24. van der Burg ME, van Lent M, Buyse M et al. The effect of debulking surgery after
+induction chemotherapy on the prognosis in advanced epithelial ovarian cancer.
+Gynecological Cancer Cooperative Group of the European Organization for
+Research and Treatment of Cancer. N Engl J Med 1995; 332: 629–634.
+25. Vergote I, Tropé CG, Amant F et al. Neoadjuvant chemotherapy or primary surgery
+in stage IIIC or IV ovarian cancer. N Engl J Med 2010; 363: 943–953.
+26. Aletti GD, Dowdy SC, Gostout BS et al. Quality improvement in the surgical
+approach to advanced ovarian cancer: the Mayo Clinic experience. J Am Coll Surg
+2009; 208: 614–620.
+27. du Bois A, Reuss A, Harter P et al. Potential role of lymphadenectomy in advanced
+ovarian cancer: a combined exploratory analysis of three prospectively randomized
+phase III multicenter trials. J Clin Oncol 2010; 28: 1733–1739.
+28. Panici PB, Maggioni A, Hacker N et al. Systematic aortic and pelvic
+lymphadenectomy versus resection of bulky nodes only in optimally debulked
+advanced ovarian cancer: a randomized clinical trial. J Natl Cancer Inst 2005; 97:
+560–566.
+29. Rose PG, Nerenstone S, Brady MF et al. Secondary surgical cytoreduction for
+advanced ovarian carcinoma. N Engl J Med 2004; 351: 2489–2497.
+30. Harter P, Hahmann M, Lueck HJ et al. Surgery for recurrent ovarian cancer: role of
+peritoneal carcinomatosis: exploratory analysis of the DESKTOP I Trial about risk
+factors, surgical implications, and prognostic value of peritoneal carcinomatosis.
+Ann Surg Oncol 2009; 16: 1324–1330.
+31. Zang RY, Harter P, Chi DS et al. Predictors of survival in patients with recurrent
+ovarian cancer undergoing secondary cytoreductive surgery based on the pooled
+analysis of an international collaborative cohort. Br J Cancer 2011; 105:
+890–896.
+32. Fotopoulou C, Zang R, Gultekin M et al. Value of tertiary cytoreductive surgery in
+epithelial ovarian cancer: an international multicenter evaluation. Ann Surg Oncol
+2013; 20: 1348–1354.
+33. Winter-Roach BA, Kitchener HC, Dickinson HO. Adjuvant ( post-surgery)
+chemotherapy for early stage epithelial ovarian cancer. Cochrane Database Syst
+Rev 2009; CD004706.
+34. Swart AC, on behalf of ICON Collaborators. Long-term follow-up of women enrolled
+in a randomized trial of adjuvant chemotherapy for early stage ovarian cancer
+(ICON1). J Clin Oncol (Meeting Abstracts) 2007; 25(18 suppl): Abstr 5509.
+35. Chan JK, Tian C, Fleming GF et al. The potential beneﬁt of 6 vs. 3 cycles of
+chemotherapy in subsets of women with early-stage high-risk epithelial ovarian
+cancer: an exploratory analysis of a Gynecologic Oncology Group study. Gynecol
+Oncol 2010; 116: 301–306.
+36. du Bois A, Lueck H, Meier W et al. Cisplatin/paclitaxel vs carboplatin/paclitaxel in
+ovarian cancer: update of an AGO trial. Proc Am Soc Clin Oncol 1999; 18: 356a
+(abstr 1374).
+37. Neijt JP, Engelholm SA, Tuxen MK et al. Exploratory phase III study of paclitaxel
+and cisplatin versus paclitaxel and carboplatin in advanced ovarian cancer. J Clin
+Oncol 2000; 18: 3084–3092.
+38. Ozols RF, Bundy BN, Greer BE et al. Phase III trial of carboplatin and paclitaxel
+compared with cisplatin and paclitaxel in patients with optimally resected stage III
+ovarian cancer: a Gynecologic Oncology Group Study. J Clin Oncol 2003; 21:
+3194–3200.
+39. Bookman MA, Brady MF, McGuire WP et al. Evaluation of new platinum-based
+treatment regimens in advanced-stage ovarian cancer: a phase III trial of the
+Gynecologic Cancer Intergroup. J Clin Oncol 2009; 27: 1419–1425.
+40. Pignata S, Scambia G, Ferrandina G et al. Carboplatin plus paclitaxel versus
+carboplatin plus pegylated liposomal doxorubicin as ﬁrst-line treatment for patients
+
+vi | Ledermann et al.
+
+Annals of Oncology
+
+41.
+
+42.
+43.
+
+44.
+
+45.
+
+46.
+47.
+48.
+
+49.
+50.
+
+51.
+
+52.
+
+53.
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+with ovarian cancer: the MITO-2 randomized phase III trial. J Clin Oncol 2011; 29:
+3628–3635.
+Vasey PA, Jayson GC, Gordon A et al. Phase III randomized trial of docetaxelcarboplatin versus paclitaxel-carboplatin as ﬁrst-line chemotherapy for ovarian
+carcinoma. J Natl Cancer Inst 2004; 96: 1682–1691.
+Armstrong DK, Bundy B, Wenzel L et al. Intraperitoneal cisplatin and paclitaxel in
+ovarian cancer. N Engl J Med 2006; 354: 34–43.
+Hess LM, Benham-Hutchins M, Herzog TJ et al. A meta-analysis of the efﬁcacy of
+intraperitoneal cisplatin for the front-line treatment of ovarian cancer. Int J Gynecol
+Cancer 2007; 17: 561–570.
+Katsumata N, Yasuda M, Takahashi F et al. Dose-dense paclitaxel once a week in
+combination with carboplatin every 3 weeks for advanced ovarian cancer: a phase
+3, open-label, randomised controlled trial. Lancet 2009; 374: 1331–1338.
+Katsumata N, Yasuda M, Isonishi S et al. Long-term follow-up of a randomized trial
+comparing conventional paclitaxel and carboplatin with dose-dense weekly
+paclitaxel and carboplatin in women with advanced epithelial ovarian, fallopian
+tube, or primary peritoneal cancer: JGOG 3016 trial. J Clin Oncol 2012; 30
+(suppl): abstr 5003.
+Burger RA, Brady MF, Bookman MA et al. Incorporation of bevacizumab in the
+primary treatment of ovarian cancer. N Engl J Med. 2011; 365: 2473–2483.
+Perren TJ, Swart AM, Pﬁsterer J et al. A phase 3 trial of bevacizumab in ovarian
+cancer. N Engl J Med 2011; 365: 2484–2496.
+Rustin GJ, Vergote I, Eisenhauer E et al. Deﬁnitions for response and progression
+in ovarian cancer clinical trials incorporating RECIST 1.1 and CA 125 agreed by
+the Gynecological Cancer Intergroup (GCIG). Int J Gynecol Cancer 2011; 21:
+419–423.
+Friedlander M, Trimble E, Tinker A et al. Clinical trials in recurrent ovarian cancer.
+Int J Gynecol Cancer 2011; 21: 771–775.
+Parmar MK, Ledermann JA, Colombo N et al. Paclitaxel plus platinum-based
+chemotherapy versus conventional platinum-based chemotherapy in women with
+relapsed ovarian cancer: the ICON4/AGO-OVAR-2.2 trial. Lancet 2003; 361:
+2099–2106.
+Raja FA, Counsell N, Colombo N et al. Platinum combination chemotherapy versus
+platinum monotherapy in platinum-sensitive recurrent ovarian cancer: a metaanalysis of randomised trials using individual patients data (IPD). Ann Oncol 2012;
+23: abstr 982P.
+Pujade-Lauraine E, Wagner U, Aavall-Lundqvist E et al. Pegylated liposomal
+doxorubicin and carboplatin compared with paclitaxel and carboplatin for patients
+with platinum-sensitive ovarian cancer in late relapse. J Clin Oncol 2010; 28:
+3323–3329.
+Monk BJ, Herzog TJ, Kaye SB et al. Trabectedin plus pegylated liposomal
+doxorubicin in recurrent ovarian cancer. J Clin Oncol 2010; 28: 3107–3114.
+Poveda A, Vergote I, Tjulandin S et al. Trabectedin plus pegylated liposomal
+doxorubicin in relapsed ovarian cancer: outcomes in the partially platinumsensitive ( platinum-free interval 6–12 months) subpopulation of OVA-301 phase III
+randomized trial. Ann Oncol 2011; 22: 39–48.
+Aghajanian C, Blank SV, Goff BA et al. OCEANS: a randomized, double-blind,
+placebo-controlled phase III trial of chemotherapy with or without bevacizumab in
+patients with platinum-sensitive recurrent epithelial ovarian, primary peritoneal, or
+fallopian tube cancer. J Clin Oncol 2012; 30: 2039–2045.
+Pujade Lauraine E, Hilpert F, Weber B et al. AURELIA: a randomized phase III trial
+evaluating bevacizumab (BEV) plus chemotherapy (CT) for platinum (PT)-resistant
+recurrent ovarian cancer (OC). J Clin Oncol 2012; 30(suppl): abstr LBA5002.
+Rustin GJ, van der Burg ME, on behalf of MRC and EORTC collaborators. A
+randomized trial in ovarian cancer (OC) of early treatment of relapse based on
+CA125 level alone versus delayed treatment based on conventional clinical
+indicators (MRC OV05/EORTC 55955 trials). J Clin Oncol (Meeting Abstracts)
+2009; 27(18s): 1.
+Heintz APM, Odicino F, Maisonneuve P et al. Carcinoma of the ovary. Int J Gynecol
+Obstet 2006; 95(suppl 1): S163.
+
+Volume 24 | Supplement 6 | October 2013
+
+

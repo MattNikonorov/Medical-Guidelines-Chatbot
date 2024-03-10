@@ -1,0 +1,2058 @@
+Annals of Oncology 28 (Supplement 4): iv1–iv21, 2017
+doi:10.1093/annonc/mdx222
+
+CLINICAL PRACTICE GUIDELINES
+
+Early and locally advanced non-small-cell lung cancer
+(NSCLC): ESMO Clinical Practice Guidelines for
+diagnosis, treatment and follow-up†
+P. E. Postmus1, K. M. Kerr2, M. Oudkerk3, S. Senan4, D. A. Waller5, J. Vansteenkiste6, C. Escriu1 & S. Peters7,
+on behalf of the ESMO Guidelines Committee*
+1
+The Clatterbridge Cancer Centre and Liverpool Heart and Chest Hospital, Liverpool; 2University of Aberdeen, Aberdeen, UK; 3Center for Medical Imaging,
+University of Groningen, Groningen; 4Department of Radiation Oncology, VU University Medical Center, Amsterdam, The Netherlands; 5Department of Thoracic
+Surgery, University Hospitals of Leicester NHS Trust, Leicester, UK; 6University Hospitals KU Leuven, Leuven, Belgium; 7Oncology Department, Service d’Oncologie
+Médicale, Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org
+†
+Approved by the ESMO Guidelines Committee: March 2010, last update May 2017. This publication supersedes the previously published version—Ann Oncol 2013; 24
+(Suppl. 6): vi89–vi98.
+
+Incidence and epidemiology
+Lung cancer is the leading cause of cancer mortality worldwide
+with 1.8 million newly diagnosed cases, or 13% of all cancers
+diagnosed, in 2012 [1]. The worldwide numbers are still rising
+despite an ongoing small decline in the Western world. Global
+statistics estimate that 15% of lung cancers in men and 53% in
+women are not attributable to smoking, overall accounting for
+25% [2].
+
+Screening for lung cancer
+Lung cancer symptoms occur late in the disease, so the majority
+of patients with lung cancer present with advanced disease.
+Unfortunately for those patients, the disease will not be curable
+with currently available therapies. Therefore, early detection
+might be a valuable approach to detect the disease at an earlier,
+asymptomatic and potentially curable stage. Screening evaluated
+in relatively small trials failed to show benefit if periodical chest
+X-ray and/or sputum cytology were used; screening by these techniques is therefore not recommended.
+The much larger National Lung Cancer Screening Trial
+(NLST) comparing low-dose computed tomography (LDCT) to
+chest X-ray in over 53 000 current or former heavy smokers ( 30
+pack-years or  15 years since smoking cessation), aged between
+55 and 74 years, showed a 20% reduction in lung cancer-related
+death and an overall all-cause mortality reduction of 6.7% [3].
+LDCT screening thus reduces lung cancer-related mortality.
+However, this positive outcome generates new questions on the
+
+rate of overdiagnosis of indolent cancers, such as lepidic adenocarcinomas (previously named bronchioloalveolar carcinoma)
+[4, 5], although a pathology review according to the recent classification [6] made this unlikely, as it categorised 97% of the detected cancers as invasive [7].
+How screening for lung cancer should become part of standard
+evidence-based practice therefore needs to be analysed further.
+Nevertheless, for part of the Western world this positive trial has
+resulted in guidelines for screening within high-risk groups
+[8, 9]. Implementation in other health care systems has not yet
+happened as confirmation of the results in a comparable trial in a
+different geographical area is crucial. Mature data of the
+NELSON study [10] are expected in 2017 and may result in confirmation. The NELSON study developed a non-invasive protocol based on volume measurement and growth rate resulting in a
+10-fold reduction of the false-positive rate compared to the
+NLST, maintaining the same lung cancer detection rate [11].
+An important question is how to translate the findings of both
+NLST and NELSON into advice on ‘who to screen’ (high-risk
+group), ‘how often’ (intervals between rounds), and ‘for how
+long’ (until which age). It is difficult to come to conclusions on
+how to perform screening for the detection of incidence cases as a
+screening study initially mainly deals with prevalence cases and
+the trial runs during a limited period of time. Questions such as,
+‘what is the optimal time between screening rounds?’, and ‘for
+how long should this be continued?’, are difficult to answer, because the characteristics of tumours detected during the prevalence screening might differ from tumours detected during
+incidence screening [12]. Furthermore, findings detected during
+
+C The Author 2017. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+V
+
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+Clinical Practice Guidelines
+earlier screening rounds provide further possibilities for risk
+stratifications and may lead to guidance on the length of screening [13].
+Recommendations:
+• Screening with LDCT reduces lung cancer-related mortality
+[I, A]. It is not yet ready for large-scale implementation,
+mainly because the lung cancer mortality reduction rate lacks
+deﬁnite proof of a second study result, and partly because of
+remaining questions regarding deﬁnition of the at-risk population, timing, interval and method of computed tomography
+(CT, especially 2D versus 3D evaluation), how to handle
+(false-) positive ﬁndings and especially cost-effectiveness,
+notably in relation to smoking cessation [I, A].
+• LDCT screening can be carried out outside a clinical trial provided it is offered within a dedicated programme with quality
+control, in a centre with experience in CT screening, a large volume of thoracic oncology activity and multidisciplinary management of suspicious ﬁndings [I, B]. Candidates are current or
+former heavy smokers ( 30 pack-years or  15 years since
+smoking cessation) aged 55–74 years, who are well informed
+about potential beneﬁts and risks. Individuals offered LDCT
+screening should be referred to a smoking cessation programme.
+• LDCT screening should not be offered on an ad hoc individual basis, but patients requesting screening should be referred
+to a dedicated programme, as recommended above [V, B].
+• Other screening methods, such as chest X-ray, sputum analysis
+or biomarkers are not recommended for clinical use [I, C].
+
+Diagnosis and pathology/molecular biology
+Diagnosis
+The most common diagnostic test for lung cancer is fibreoptic
+bronchoscopy, often extended with evaluation of regional lymph
+nodes by endobronchial ultrasound (EBUS) and/or endoscopic
+ultrasound (EUS). In most cases this will be sufficient to diagnose
+non-small-cell lung cancer (NSCLC), although quite often the
+amount of obtained material is not sufficient to sub-classify the
+tumour in more detail.
+For earlier stages of NSCLC, the need for a detailed
+pretreatment pathological diagnosis is not yet clear. In contrast
+to stage IV [14], the consequences of the upfront diagnosis for selecting the most effective therapy of stages I–III NSCLC are
+assumed to be less relevant.
+For molecular analysis, the sample obtained through EBUSguided aspirations of lymph nodes is often sufficient [15].
+Commonly used tests are summarised in Table 1.
+
+Pathology
+As pathologists will not necessarily be aware of the disease stage at
+the time of pathological diagnosis, a thorough comprehensive
+diagnosis is always recommended whenever possible.
+The recent World Health Organization (WHO) classification,
+with its further sub-classification of (surgically resected) adenocarcinoma, shows differences in metastatic pattern, recurrence
+and survival between different histological subtypes [16]. This
+
+iv2 | Postmus et al.
+
+Annals of Oncology
+Table 1. Work-up for diagnosis and staging
+Mandatory
+General
+
+Medical historya
+Physical examinationa
+Assessing comorbidity
+PS
+
+Imaging
+
+X-ray thorax
+CT thoraxa
+PET-CT thoraxa
+MRI brainb
+
+Laboratory
+
+Blood cell counts
+Renal function
+Liver enzymes
+Bone parameters
+
+Cardio-pulmonary
+function
+
+FVC, FEV1, DLCO
+ECG
+If indicated: CPET
+
+Tissue procurement
+
+Bronchoscopyb,c
+EBUS/EUS mediastinal
+nodesa
+CT-guided biopsy
+
+Optional
+
+Bone scintigraphy
+Contrast enhancedCT brain
+
+Ejection fraction,
+CAG
+Mediastinoscopy
+
+a
+
+Tests needed for clinical staging.
+See text.
+c
+Depending on site and size of tumour with biopsy/aspiration/brush/
+washing.
+CAG, coronary angiography; CPET, cardio pulmonary exercise testing;
+CT, computed tomography; DLCO, diffusing capacity of the lungs for
+carbon monoxide; EBUS, endoscopic bronchial ultrasound; ECG, electrocardiogram; EUS, endoscopic ultrasound; FEV1, forced expiratory volume in 1 second; FVC, forced expiratory vital capacity; MRI, magnetic
+resonance imaging; PET-CT, positron emission tomography computed
+tomography; PS, performance status.
+b
+
+becomes even more relevant as different histological subtypes differ with regards to metastatic pattern, recurrence and survival.
+The beneficial effects of adjuvant chemotherapy (ChT) postresection may differ depending upon this adenocarcinoma subclassification [17–19]; prospective trials are needed to evaluate
+whether these retrospective findings have clinical consequences.
+The pathological classification at diagnosis may influence initial treatment decisions such as the initial surgical approach. In a
+large surgical series (n ¼ 2268) of resected adenocarcinoma of
+ 3 cm in diameter, the categories adenocarcinoma in situ (AIS),
+minimally invasive adenocarcinoma (MIA) and lepidic predominant (Lep) were found to have no metastasis in N1 or N2 lymph
+nodes (n ¼ 329), whereas the other categories with predominance
+of acinar, papillary, micropapillary or solid growth patterns had
+N1 or N2 involvement in 22.9% of patients (445 of 1939). Until
+now, these features are only detectable in full extent in resected
+material; further refining of preoperative work-up might make
+this applicable for prospective use [20]. Future work may determine if the extent of surgery could be limited to a segmentectomy
+in the AIS and MIA subtypes, and a lobectomy could be
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+performed with lymph node dissection for the invasive types.
+Such decisions could be based on intra-operative frozen section
+examination, which has a high concordance rate with final pathology [21], but is far from being a validated standard practice due
+to several technical and logistical problems [22–24].
+Preoperative diagnostic work-up may identify patients at
+higher risk for presence of regional lymph node metastases. By
+measuring primary tumour low maximum standardised uptake
+values (SUVmax) of fluorodeoxyglucose-positron emission tomography (FDG-PET) (< 3.0), it was possible to detect those cases
+with low probability of mediastinal lymph node metastases, and
+to select the suitable candidates for a sublobar resection [25];
+however, this needs to be confirmed in comparable studies before
+it can be concluded that a low SUVmax value of a peripheral tumour is useful for selection of patients for a sublobar resection.
+If bronchoscopy or transthoracic needle biopsy results in large
+( 0.7 mm2) and multiple ( 2) biopsies, the concordance with
+the final tumour classification after resection is 70% overall.
+For the acinar type, concordance was low, whereas the others
+were more favourable, but still relatively low at 70% [26]. These
+types of study require further validation. Based on these observations, and for other reasons, the idea of ‘minimal amounts of tissue
+to come to a diagnosis’ of cancer needs to be re-evaluated, and
+probably changed to ‘as much tissue as possible’ to allow better
+diagnosis and classification as early as possible in the trajectory to
+therapeutic decisions. In general, the rate of NOS (not otherwise
+specified) after the complete diagnostic work-up should be <10%.
+Recommendations:
+In patients with clinical stages I–III lesions, a pretreatment
+pathological diagnosis is recommended prior to any curative
+treatment.
+• Bronchoscopy is the recommended test to obtain a pathological diagnosis of centrally located tumours in stages I–III
+with biopsy of any visible lesion [III, A].
+• The pathological classiﬁcation NOS should be used only in
+cases where it is impossible to obtain enough tissue for further classiﬁcation, or when steps to further classify the tumour are inconclusive [V, A].
+• An exception to the requirement for a pretreatment diagnosis
+can be made if an experienced multidisciplinary group decides that the risks of obtaining pathology may be unacceptable in a patient in whom the likelihood of malignancy is
+high based on clinical and imaging ﬁndings [III, B].
+• A pretreatment pathological diagnosis is strongly recommended for all patients before stereotactic ablative radiotherapy (SABR), unless a multidisciplinary tumour board is of
+the opinion that the risk-beneﬁt ratio of the procedure is unacceptable. In such a situation, the predicted likelihood of
+malignancy should preferably be at least 85%, based upon accepted criteria [III, B] [25].
+• The descriptive element of the recent WHO classiﬁcation of
+adenocarcinoma subtypes should be used to describe bronchoscopic and CT-guided biopsies whenever possible [III, A].
+• The revised adenocarcinoma classiﬁcation may identify patient subtypes for whom an anatomical sublobar resection,
+rather than lobectomy, would be sufﬁcient [III, A].
+• FDG-PET may contribute for the selection of patients for anatomical sublobar resections as low SUVmax values of peripheral
+•
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+•
+
+tumours indicate lack of mediastinal metastases [III, A]. This
+diagnosis may be made intra-operatively by video-assisted
+thoracoscopic biopsy and frozen section analysis.
+In isolated cases a diagnostic anatomical sublobar resection
+may be acceptable.
+
+The solitary pulmonary nodule
+Solitary pulmonary nodules are a common problem and are usually
+a diagnostic challenge. Depending on presence or lack of benign
+characteristics, such as calcification or no changes during at least
+2 years, a diagnostic algorithm can be used to qualify the lesion as
+more or less likely to be malignant. However, it is important to note
+that validated diagnostic algorithms are not available in many
+populations. Guidelines developed by the British Thoracic Society
+(BTS) and the Fleischner Society were published recently [27, 28],
+but like many previous guidelines, have focussed on Western populations. For other areas, such as Asia, with a high prevalence of
+granulomatous disease and other infectious causes of pulmonary
+nodules, the recent Asian consensus guidelines are likely more appropriate. The latter recommend a lesser reliance on positron emission tomography (PET) scans in Asian populations, and greater use
+of non-surgical biopsy over surgical diagnosis or surveillance [29].
+In general, it is important for clinicians to be aware of the emphasis they would place on a ‘non-malignant’ result from a percutaneous biopsy. If the clinical and radiological evidence would
+favour a surgical biopsy in any case, then the merits of noninvasive methods should be discussed with the patient.
+Recent data from the NELSON study on incidental nodules
+might be applied to the solitary nodule and incorporated in
+guidelines [12]. Diagnostic procedures, as described in the previous section, will be of help in case further evaluation is needed.
+Recommendations:
+The diagnostic approach to non-calciﬁed pulmonary nodules
+should be based on existing standard guidelines [III, A], although new evidence on nodule management is emerging.
+• Likelihood of malignancy based upon risk calculation methods used in CT screening studies should be used only to
+guide the clinical assessment of pulmonary nodules detected
+in the wider population [V, C].
+•
+
+Staging and risk assessment
+During the 16th World Congress of Lung Cancer, the Union for
+International Cancer Control (UICC) presented the revised tumour,
+node and metastasis (TNM) classification of malignant tumours
+(UICC TNM 8), published in December 2016 [30] and effective
+since January 2017 (Table 2).
+
+•
+
+Recommendation:
+In non-metastatic NSCLC, detailed locoregional staging according to the 8th TNM staging system and the cardiopulmonary ﬁtness of the patient determine the choice of treatment [III, A].
+
+Locoregional staging
+For locoregional staging, algorithms shown in Figures 1 and 2 are
+still applicable.
+
+doi:10.1093/annonc/mdx222 | iv3
+
+Clinical Practice Guidelines
+Table 2. Staging and stage grouping UICC TNM 8 [30]
+Occult carcinoma
+
+TX
+
+N0
+
+M0
+
+Stage 0
+Stage IA1
+
+Tis
+T1a(mi)
+T1a
+T1b
+T1c
+T2a
+T2b
+T1a–c
+T2a–b
+T3
+T1a–c
+T2a–b
+T3
+T4
+T4
+T1a–c
+T2a–b
+T3
+T4
+T3
+T4
+
+N0
+N0
+N0
+N0
+N0
+N0
+N0
+N1
+N1
+N0
+N2
+N2
+N1
+N0
+N1
+N3
+N3
+N2
+N2
+N3
+N3
+
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+
+Stage IA2
+Stage IA3
+Stage IB
+Stage IIA
+Stage IIB
+
+Stage IIIA
+
+Stage IIIB
+
+Stage IIIC
+
+UICC, Union for International Cancer Control; TNM, tumour, node and
+metastasis.
+Reprinted from [30] with permission from John Wiley & Sons, Inc.
+
+The two most striking changes in UICC TNM 8 are the further
+subdividing and detailing of both T and M stage, although the
+consequences for therapeutic approach are not yet obvious in all
+situations.
+The T stage was divided further by splitting T1 into three subgroups based on size (T1a  1 cm, T1b > 1 cm to  2 cm,
+T1c > 2 cm to  3 cm), this is continued into T2 (T2a > 3 cm
+to  4 cm, T2b > 4 cm to  5 cm), T3 (> 5 cm to  7 cm) and T4
+(> 7 cm). The T2 category was further enriched by adding the
+previous T3 classifiers, atelectasis/pneumonitis and/or involvement of main bronchus, irrespective of distance to main carina.
+Invasion of the diaphragm was found to have a similar prognosis
+as other T4 tumours and has therefore been added to this category [31].
+In addition to a further refinement of T stage overall, a number
+of questions that were—despite the major improvements—left
+unanswered in the UICC TNM 7 classification, have now been
+addressed, and should therefore be incorporated in a new
+guideline.
+How to code and measure T and what size should be used? The
+new pathology classification for adenocarcinoma [6, 16] proposed
+that AIS be classified as Tis (AIS) and that MIA be coded as T1mi.
+For part-solid tumours the size of the invasive component should
+be used to assign the T category for clinical staging; however, the
+whole size of the tumour should also be recorded. Pathological
+staging might be challenging in the situation of lepidic growth, and
+therefore, interaction with radiology might be needed to score the
+invasive (solid) component. The display is best with wide (lung)
+window settings, particularly in the case of subsolid lesions. For
+
+iv4 | Postmus et al.
+
+Annals of Oncology
+measuring the solid component of tumours, expert opinion favours lung or intermediate window settings [32].
+CT follow-up studies have shown that incidental non-calcified
+non-solid lung lesions do not need shorter repeat CT examinations than 1–2 years and are definitely less aggressive than solid
+or part-solid lesions and often even indolent.
+The use of the staging system for tumours with additional nodules has been left unchanged, although the approach to score
+same lobe nodules as T3, different ipsilateral lobe as T4 and
+contralateral as M1a should be restricted to the same histological
+(sub)type and, as such, be considered as intrapulmonary metastases [33]. In other situations, with more than one pulmonary site
+of disease, such as second primary tumours, these should be
+staged differently. To conclude if two foci are indeed two different primaries is difficult; criteria are presented but often it will be
+impossible to come to a definitive conclusion and the role of a
+multidisciplinary tumour board is important [34]. When the
+conclusion is the presence of two primaries, each tumour should
+be given a separate T, N and M category [35].
+A specific problem is the tumour with a specific growth pattern,
+such as ground glass or lepidic, and the pneumonic type. The
+International Association for the Study of Lung Cancer (IASLC)
+proposes to determine the T of multifocal ground glass/lepidic tumours by the highest T-lesion, with either the number of tumours
+or m in parentheses to denote the multifocal nature, and that a
+single N and M category be used for all these lesions collectively.
+In daily practice, simply using m is to be preferred over trying to
+estimate the number of groundglass opacity (GGO) areas. For the
+pneumonic type, it is suggested to use size (or T3) if in one lobe,
+T4 if involving a different ipsilateral lobe, and M1a if contralateral;
+in that situation, the T stage will be based on the highest category
+in the most involved lung. For N and M, a single category should
+be used for all pulmonary areas of involvement [36]. Especially in
+the case where more than one lesion is present, and/or differences
+in growth pattern are observed [34–36], accurate staging is vital to
+avoid erroneous interpretations leading to a false stage, resulting
+in undertreatment.
+For patients with abnormal mediastinal and/or hilar lymph
+nodes at CT and/or PET, endosonography is recommended over
+surgical staging [I, A]. If malignant nodal involvement is not
+found by this modality, subsequent surgical staging is recommended [I, B]. For peripheral tumours without mediastinal involvement on CT or PET-CT, mediastinal staging is advised in
+case of no uptake of FDG by the primary tumour and/or a tumour size  3 cm [II, C] [37].
+The proposed new staging suggests leaving the N categories unchanged, but to record for future testing the sub-classification of
+single (N1a, N2a) or multiple (N1b, N2b) affected nodes. For the
+situation of so-called skip metastases, the N2a group is further
+divided into N2a1 (no N1) and N2a2 (with N1) [38].
+Incorporation of specific consequences related to the new pathology classification [6, 16] and, through that, recognising specific
+categories with a much higher incidence of mediastinal metastases, even if the tumour size is < 3 cm [20], remains to be
+confirmed.
+A specific problem is whether it is necessary to evaluate the
+possible existence of brain metastases by brain magnetic resonance imaging (MRI). There is some controversy between existing
+guidelines: The National Comprehensive Cancer Network
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+
+Clinical Practice Guidelines
+
+Figure 1. Suggested algorithm for locoregional lymph node staging in patients with non-metastatic NSCLC.
+CT, computed tomography; EBUS, endoscopic bronchial ultrasound; EUS, endoscopic ultrasound; FDG, ﬂuorodeoxyglucose; LN, lymph node;
+NPV, negative predictive value; NSCLC, non-small-cell lung cancer; PET, positron emission tomography; VAM, video-assisted mediastinoscopy.
+Reprinted from [137] with permission.
+
+(NCCN) advises this for all patients except for those with stage IA
+[39], the BTS and the National Institute for Health and Care
+Excellence (NICE) for all patients considered for curative therapy
+[40, 41], whereas the American College of Chest Physicians
+(ACCP) restricts it to stage III/IV and symptomatic patients [42].
+Whether this is cost-effective is unclear as the detection rate of
+brain metastases is very low [43].
+Recommendations:
+• For part-solid tumours, the size of the invasive component should
+be used to assign the T category for clinical staging [III, A].
+• Subsolid lesions need dedicated radiological expertise for
+evaluating the lung lesion composition [V, A].
+• If two lung lesions fulﬁl the criteria for two primaries these
+should be evaluated and treated accordingly [III, A].
+• For patients with abnormal mediastinal and/or hilar lymph
+nodes at CT and/or PET, endosonography is recommended
+over surgical staging [I, A].
+• The preferred ﬁrst technique for pathological conﬁrmation of
+suspect nodes is needle aspiration under EBUS and/or EUS
+guidance [I, A].
+
+Volume 28 | Supplement 4 | August 2017
+
+•
+•
+•
+
+If EBUS and/or EUS does not reveal nodal involvement in a situation of high clinical suspicion, mediastinoscopy is indicated [I, A].
+Mediastinoscopy is the test with the highest negative predictive value to rule out mediastinal lymph node disease [I, A].
+Screening for brain metastases by MRI might be useful in patients considered for curative therapy [III, B].
+
+Pretreatment risk assessment
+Any locoregional therapy must consider the pre-therapy situation of the patient but, even more importantly, their predicted
+post-treatment status. Most patients are older than 65 years
+of age and may have age- and life-style-related comorbidity.
+A therapeutic intervention for lung cancer will reduce the pulmonary and vascular reserve capacity, either acutely following resection, or more gradually following radiotherapy (RT). This
+functional loss needs to be estimated pre-therapy to determine
+whether an individual patient is able to cope with it and to maintain an acceptable quality of life.
+For surgical candidates, algorithms for pretreatment evaluation
+have been developed and are used widely (Figure 3) [41, 44]. The
+
+doi:10.1093/annonc/mdx222 | iv5
+
+Imaging
+CT-Scan*
+
+Extensive mediastinal
+N2 infiltration
+
+Invasive
+LN Result
+
+Not required if negative
+LNs on PET
+
+Category
+of N2
+
+Enlarged discrete N2 LNs
+
+Surgery:
+unforeseen N2
+
+Not required
+NO-N1
+
+N2
+
+N3
+
+Unresectable N2
+Potentially
+resectable N2
+
+Clinical Practice Guidelines
+
+iv6 | Postmus et al.
+
+No enlarged N2 nodes
+but central tumour or
+hilar LNs
+
+No enlarged LNs
+and peripheral tumour
+
+Dedicated
+multidisciplinary
+assessment
+
+Therapeutic
+Approach
+
+Adjuvant chemotherapy
+(radiotherapy)
+
+Surgical multimodality
+treatment
+
+Non-surgical
+multimodality treatment
+
+Figure 2. Treatment recommendations for patients with locoregional NSCLC, based on imaging, invasive lymph node staging tests and multidisciplinary assessment.
+*Category description according to CT imaging as in ACCP staging document [42].
+**See text for factors involved in the choice between non-surgical and surgical multimodality treatment.
+ACCP, American College of Chest Physicians; CT, computed tomography; LN, lymph node; NSCLC, non-small-cell lung cancer; PET, positron-emission tomography.
+
+Annals of Oncology
+
+Volume 28 | Supplement 4 | August 2017
+
+**
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+Cardiac assessment:
+low risk or
+treated patient
+
+FEV1
+DL,CO
+
+Both
+> 80 %
+
+Either one < 80%
+
+< 35 % or
+<10 mL·kg–1·min–1
+
+Exercise testing
+Peak VO2
+
+> 75% or
+> 20 mL·kg–1·min–1
+
+35%-75% or
+10-20 mL·kg–1·min–1
+
+Split function
+ppo-FEV1
+ppo-D L,CO
+
+Both > 30%
+
+At least one < 30%
+
+< 35% or
+< 10 mL·kg–1·min–1
+
+ppo-peak VO2
+
+> 35% or
+> 10 mL·kg–1·min–1
+
+Lobectomy or
+pneumonectomy
+are usually
+not recommended.
+Consider other options
+
+Resection up to
+calculated extent
+
+Resection
+up to
+pneumonectomy
+
+Figure 3. Preoperative respiratory evaluation.
+DLCO, diffusing capacity of the lungs for carbon monoxide; FEV1, forced expiratory volume in 1 second; ppo, predicted postoperative;
+VO2, oxygen consumption.
+Reprinted from [50], with permission from the European Respiratory Society.
+
+relative risk of postoperative morbidity and mortality can be predicted from preoperative forced expiratory volume in the first second (FEV1) and diffusing capacity of the lung for carbon
+monoxide (DLCO). Patients with lower values might benefit from
+a more extensive assessment through pulmonary exercise testing.
+When maximal oxygen consumption (VO2max) is < 10 mL/kg/
+min, patients are potentially at high risk for serious postoperative
+complications [III, A]. Surgical resection is usually acceptable if
+the predicted postoperative FEV1 and DLCO values are > 40%.
+This can be estimated from the number of bronchopulmonary segments to be resected taking into account the regional distribution
+of ventilation and perfusion. The problematic area is where no real
+guidelines exist, or the standard is not directly applicable, as resection of poorly functioning parts of the lung might improve the
+situation instead of making it worse (Figure 4) [45].
+The risk of in-hospital death can be estimated by a scoring system such as Thoracoscore [46]; however, it was designed for a
+general population and its value for use in cancer patients is
+limited.
+
+Volume 28 | Supplement 4 | August 2017
+
+Evaluation of the cardiac risk assessment for lung resections
+by the recalibrated thoracic revised cardiac risk index (RCRI)
+is recommended (Table 3) [47], as it has been validated in
+this setting [48]. Schematic description of the steps to be
+taken for evaluating these aspects is given in Figure 5 (the figure is based on the original RCRI rather than the recalibrated
+RCRI).
+Evaluating all these pros and cons should be done within a
+multidisciplinary team and in consultation with the patient.
+Concentration of expertise will certainly improve decisionmaking and be of benefit for treatment outcomes [49].
+Unfortunately, the predicted tolerance for high-dose RT is less
+well defined and it is, in general, impossible to accurately determine the related acute and long-term risks [50]. Based on the
+known adverse effects of RT on vasculature and cardiac function,
+the dose to the heart should be minimised during RT planning
+[51–53].
+In general, it is necessary to evaluate and optimise any comorbidities before planned surgery [41]; furthermore, trying to
+
+doi:10.1093/annonc/mdx222 | iv7
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Clinical stage I
+lung cancer
+
+Reduced lung
+function?
+(FEV1 < 65%)
+
+Yes
+
+No
+
+Lobectomy with
+confidence
+
+Evidence of
+emphysema?
+(based on TLC, RV, FEV1/FVC, CT
+w/ hyperexpansion, etc.)
+
+No
+
+Consider restrictive
+pathology with higher
+associated risks (ILD, IPF)
+
+Yes
+
+Moderately impaired lung
+function?
+(FEV1 30%-65%)
+
+Consider anatomy of
+emphysema, location of
+mass, LVRS candidacy
+
+Non-ideal LVRS
+candidate
+
+Ideal LVRS
+candidate
+
+Calculate COPD index
+Predict postop FEV1
+Consider sublobar
+resection
+
+Resection of mass
+with concomitant
+LVRS
+
+Severely impaired
+lung function?
+(FEV1 < 30%)
+
+Consider non-surgical
+modalities
+(SBRT, RFA)
+
+Figure 4. Algorithm for patients with clinical stage I lung cancer and limited pulmonary function due to emphysema.
+CT, computed tomography; COPD, chronic obstructive pulmonary disease; FEV1, forced expiratory volume 1; FVC, forced vital capacity; ILD,
+interstitial lung disease; IPF, idiopathic pulmonary ﬁbrosis; LVRS, lung volume reduction surgery; RFA, radiofrequency ablation; RV, reserve volume; SBRT, stereotactic body radiotherapy; TLC, total lung capacity.
+Reprinted from [45], with permission from Elsevier.
+
+optimise a patient’s condition prior to surgery is beneficial, especially for those with a poor preoperative condition [54].
+
+•
+
+Recommendations:
+In non-metastatic NSCLC, the cardiopulmonary ﬁtness of the
+patient will determine the choice of treatment [III, A].
+
+•
+
+•
+
+iv8 | Postmus et al.
+
+The risk of postoperative morbidity and mortality can be estimated using risk-speciﬁc models, although none have been
+validated in a cancer population [III, B].
+Before considering surgical resection, precise assessment of
+cardiac and pulmonary function is necessary to estimate risk
+of operative morbidity [III, A].
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+Table 3. Recalibrated thoracic revised cardiac risk index (adapted from [47])
+Points
+Weighted factors
+Ischaemic heart disease
+History of cerebrovascular disease
+Serum creatinine > 2 mg/dL
+Pneumonectomy planned
+
+1.5
+1.5
+1
+1.5
+
+Class groupings
+A
+B
+C
+D
+
+0
+1–1.5
+2–2.5
+> 2.5
+
+Ischaemic heart disease: history of myocardial infarction, history of positive exercise test, current complaint of chest pain (myocardial ischaemia), nitrate therapy, ECG with pathological Q waves. Cerebrovascular
+disease: transient ischaemic attack, stroke.
+ECG, electrocardiogram.
+
+•
+•
+
+•
+•
+
+For cardiac assessment, use of recalibrated RCRI is recommended [III, A].
+Formal lung function testing should be undertaken to estimate
+postoperative lung function. For patients with FEV1 and
+DLCO values > 80% of their predicted pulmonary function
+tests and no other major comorbidities, no further investigations are advised before surgical resection [III, A]. For others,
+exercise testing and split lung function are recommended. In
+these patients, VO2max can be used to measure exercise capacity and predict postoperative complications [III, A].
+Comorbidities should be evaluated and optimised before surgery [III, A].
+In patients with limited pulmonary function due to emphysema,
+a lung volume reduction effect may be observed by resection of
+the lung cancer within emphysematous lung tissue [III, B].
+
+Treatment of early stages (stages I and II)
+Surgery
+The cornerstone of treatment of potentially resectable lung cancer
+is surgical removal of the tumour [55]. For those who are not willing to accept the risks, or are at very high risk, curative RT should
+be offered, either SABR or hypofractionated high-dose RT.
+Based on the Lung Cancer Study Group (LCSG) 821 trial, lobectomy is the current treatment of choice for T1 tumours as the local
+recurrence rate after a more limited resection (segmentectomy or
+wedge resection) was found to be higher [56]. This study should be
+viewed within the context that staging and surgical methods have
+progressed significantly since its publication more than two decades
+ago. Whether the conclusions are still applicable for smaller lesions
+(T1a) seems uncertain, research based on large databases suggest a
+(limited) practice change [57]. In squamous cell carcinoma, lobectomy is superior to segmentectomy or wedge resection. For adenocarcinoma, wedge resection was inferior to lobectomy, whereas
+
+Volume 28 | Supplement 4 | August 2017
+
+segmentectomy resulted in equivalent outcomes [57]. The same
+outcome of segmentectomy and lobectomy was reported in patients
+with radiologically pure solid cT1a adenocarcinomas [58]. As discussed in the section on diagnosis and pathology, the different types
+of adenocarcinoma have evolved in differences in metastatic pattern, recurrence and survival, and based on this, one might expect
+that a limited resection will be adequate in the least invasive subtypes [20, 21]. Currently two phase III studies (CALGB 140503, and
+JCOG0802/WJOG4607L) are recruiting [59] and waiting to mature
+after accrual had been reached [60], respectively.
+Whether surgery should be done through standard open thoracotomy, or a video-assisted thoracoscopic surgery (VATS) procedure, is probably less important from oncological perspective [61],
+since comparative margin clearance and nodal dissection can be
+achieved. A point of concern might be the extent of lymph node
+staging [62]. For patients, the major benefit is the reduced postoperative morbidity and mortality, resulting in improved quality of
+life and making VATS the more attractive approach [63].
+The management of lymph nodes during surgery is mainly dictated by the staging requirements for guaranteed ‘R0 resection’
+status. This implies surgical evaluation of a minimum of six
+nodes/stations, three of which should be mediastinal, including
+the sub-carinal station, with no metastases found in most cranial
+resected nodes [64]. While in stage I cases, overall survival (OS),
+local recurrence rate and distant metastasis do not appear to be
+influenced by the method of lymph node assessment, systematic
+nodal dissection is recommended in stages II and IIIA [65].
+Intraoperative nodal management may be influenced by the extent of preoperative lymph node mapping, particularly prior
+negative mediastinoscopy.
+Patients presenting with multiple primaries should be assessed
+with curative intent. Complete resection is recommended, but
+combinations of resection and SABR have been found to be effective as well [66, 67].
+Recommendations:
+Surgery should be offered to all patients with stage I and II
+NSCLC as the preferred treatment to all who are willing to
+accept procedure-related risks [III, A].
+• For patients with a non-centrally located resectable tumour
+and absence of nodal metastasis on both CT and PET images,
+surgical resection is recommended [I, A].
+• Anatomical resection is preferred over wedge resection [I, A].
+• Anatomical segmentectomy is generally considered acceptable for pure GGO lesions or adenocarcinomas in situ or
+with minimal invasion [III, B].
+• Lobectomy is still considered the standard surgical treatment of tumours  2 cm in size that have a solid appearance on CT [II, B].
+• Lymph node dissection should conform to IASLC speciﬁcations for staging [III, A].
+• Either open thoracotomy or VATS access can be carried out
+as appropriate to the expertise of the surgeon [III, A].
+• VATS should be the approach of choice in stage I tumours
+[V, C].
+• For patients with multifocal lung cancer, complete resection
+is recommended whenever possible. All patients with multifocal lung cancer should be discussed in a multidisciplinary
+tumour board [III, B].
+•
+
+doi:10.1093/annonc/mdx222 | iv9
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+RCRI: at least 3 weighted
+factors* or
+1) Any cardiac condition
+requiring medications
+
+History
+Physical examination
+Baseline ECG
+Calculate RCRI
+
+2) A newly suspected cardiac
+condition
+3) Inability to climb two flights
+of stairs
+
+Yes
+
+No
+
+Cardiac consulation with non-invasive
+cardiac testing treatments as per
+AHA/ACC guidelines
+
+*RCRI weighted factors [138]:
+
+Need for coronary
+intervention
+(CABG or PCI)
+
+• High risk surgery (including
+lobectomy or pneumonectomy)
+Continue with ongoing cardiac care
+Institute any needed new medical
+interventions (i.e. beta-blockers,
+anticoagulants or statins)
+
+• Ischaemic heart disease
+(prior myocardial infarction,
+angina pectoris)
+• Heart failure
+• Insulin-dependent diabetes
+• Previous stroke or TIA
+• Creatinine ≥ 2 mg.dL–1
+
+Postpone surgery
+for ≥ 6 weeks
+
+Lung function tests
+(see Figure 3)
+
+Figure 5. Preoperative cardiac evaluation.
+AHA/ACC, American Heart Association/American College of Cardiology; CABG, coronary artery bypass grafting; ECG, electrocardiogram; PCI,
+percutaneous coronary intervention; RCRI, revised cardiac risk index; TIA, transient ischaemic attack.
+Reprinted from [50], with permission from the European Respiratory Society.
+
+Systemic therapy
+In a period of about two decades, it has become clear that adjuvant
+ChT is of benefit for patients with N1 and N2 disease (stage II and
+III), resulting overall in 4%–5% absolute survival improvement at
+5 years [68]. These results were obtained by administering cisplatinbased doublets, delivering at least 300 mg/m2 of cisplatin in three to
+four cycles. Although for the accompanying drug, most data are available for the efficacy of vinorelbine, this does by no means exclude
+newer agents, with at least comparable efficacy, such as docetaxel,
+gemcitabine or pemetrexed. However, adding bevacizumab was not
+beneficial [69, 70]. Patient selection criteria for these studies, such as
+proper recovery from surgery and the absence of major comorbidities, are essential. Although in most studies the interval between surgery and the start of ChT was restricted to 6 weeks, a recent analysis
+of the National Cancer Database showed a comparable outcome in
+patients treated after a longer interval post-resection [71].
+Its value in lower stages is less clear. For stage IA, postoperative
+ChT resulted in a worse outcome. In stage IB, a small overall benefit
+
+iv10 | Postmus et al.
+
+was found [68], a subgroup analysis indicated it was mainly due to
+the outcome in patients with tumours > 4 cm [72, 73].
+Neoadjuvant ChT has not been evaluated as extensively as
+postoperative. However, comparing outcomes of both modalities
+did not reveal a major difference in OS [74, 75]. Its use might be
+beneficial as downstaging might be achieved [76], potentially
+resulting in a less extensive resection.
+Predictive molecular markers have not been evaluated in prospective studies. For cases with mutation in epidermal growth factor receptor (EGFR) there is limited evidence coming from a
+meta-analysis [77], two major trials are currently recruiting to answer this important question [78, 79]. Until these outcomes become available, targeted agents should not be used in the adjuvant
+setting. Adjuvant immunotherapy trials using anti-PD-1 and anti
+PD-L1 checkpoint inhibitors in stage I-III adjuvant setting (trials
+NCT NCT02504372 and NCT02273375) are ongoing. A neoadjuvant trial using anti-CTLA4 and anti-PD-1 in stage I-III neoadjuvant setting has been also recently initiated (NCT02998528).
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+Recommendations:
+Adjuvant ChT should be offered to patients with resected stage
+II and III NSCLC [I, A] and can be considered in patients with
+resected stage IB disease and a primary tumour > 4 cm [II, B].
+Pre-existing comorbidity, time from surgery and postoperative
+recovery need to be taken into account in this decision taken
+in a multidisciplinary tumour board [V, A].
+• For adjuvant ChT, a two-drug combination with cisplatin is preferable [I, A]. In randomised studies, the attempted cumulative cisplatin dose was up to 300 mg/m2, delivered in three to four cycles.
+The most frequently studied regimen is cisplatin–vinorelbine.
+• At the present time, the choice of adjuvant therapy should
+not be guided by molecular analyses, e.g. ERCC1 mutation
+testing [IV, B].
+• In the current state of knowledge, targeted agents should not
+be used in the adjuvant setting [II, A].
+• In view of the equivalence of neoadjuvant and adjuvant ChT
+for OS, the consistent results and broad evidence base support adjuvant ChT as the timing of choice [II, C].
+• (Neo)adjuvant anti-PD(L)-1 checkpoint inhibitors are currently being evaluated in addition to current standard of care.
+•
+
+Primary radiotherapy
+For patients with comorbidities or other reasons for inoperability, presenting with a peripherally located stage I NSCLC, or any
+patient refusing surgery, stereotactic radiotherapy [SABR or stereotactic body radiotherapy (SBRT)] is the preferred treatment,
+with local control rates of 90% at 5 years [80, 81].
+Current SABR practice generally utilises small planning margins based on 4-dimensional CT (4DCT), multiple radiation
+beams or arcs, all of which reduce the risk of normal organ toxicity [82]. Acute treatment-related toxicity is uncommon, as deterioration in quality of life [83]; however, the risk of high-grade
+and fatal toxicity is high in patients with pre-existing interstitial
+lung fibrosis and careful evaluation of the risks and benefits of the
+procedure by an expert tumour board is advised [84, 85].
+Late toxicities reported in phase II trials include rib fractures
+[86], dyspnoea and ventricular tachycardia [80, 87].
+In elderly patients, the introduction of SABR led to an improvement in population-based survivals of patients with peripherally located stage I, as well as a reduction of the number of
+untreated patients [88]. When SABR is unavailable, radical RT
+using hypofractionated schedules is preferred to the use of conventionally fractionated RT [89, 90].
+Despite the available data on outcomes of SABR in patients with
+peripheral stage I tumours who are fit to undergo surgery [91, 92],
+there is currently no evidence to routinely recommend SABR for patients who are at low risk for surgical complications. Three randomised
+clinical trials in this population failed to complete accrual, and results
+from four new trials will be forthcoming in the coming decade [93]. A
+pooled analysis of two of the closed trials, the STARS and ROSEL studies, revealed comparable recurrence-free survival at 3 years [94]. Given
+the differences in early toxicity and quality of life between surgery and
+SABR, as well as the growing emphasis on patient reported endpoints
+when evaluating new treatments [95], more attention should be given
+towards developing tools for shared decision-making, as it may assist
+operable patients and their clinicians to define a management plan
+that is consistent with a patient’s preferences and values [96, 97].
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+With the introduction of SABR for operable stage I tumours, a new
+problem arises when recurrence of these tumours is detected during
+follow-up. In those with proven recurrence (or a high suspicion), the
+possibility of salvage surgery should be considered [98–105].
+The IASLC has defined ‘central tumours’ as tumours located
+within 2 cm in all directions of any mediastinal critical structure,
+including the bronchial tree, oesophagus, heart, brachial plexus,
+major vessels, spinal cord, phrenic nerve and recurrent laryngeal
+nerve [106]. For tumours located in the hilar region, SABR using
+‘risk-adapted’ fractionation schemes can achieve high local control
+rates with limited toxicity [107]. However, care should be taken to
+distinguish moderately central tumours from so-called ‘ultracentral’ lesions, a term used to describe a planning target volume that
+overlaps the trachea or main bronchi [108]. SABR is not appropriate for ultracentral tumours, as increased toxicity has already been
+reported for this subgroup, after conventional and hypofractionated RT schemes. Data from a completed prospective
+Radiation Therapy Oncology Group (RTOG) study of SABR for
+moderately central tumour are expected in the near future, and
+until such time, a radical RT scheme using hypofractionated schedules can be considered an acceptable standard of care [89, 90].
+Whether incorporating the new pathology classification [16], and
+the possible pretherapy detection of less invasive types [25, 26],
+would change recommendations for subgroups remains to be seen.
+Recommendations:
+The non-surgical treatment of choice for stage I NSCLC
+is SABR. The dose should be to a biologically equivalent tumour dose of  100 Gy, prescribed to the encompassing isodose [III, A].
+• SABR for early-stage peripheral lung tumours is associated
+with low toxicity in patients with chronic obstructive pulmonary disease (COPD) and the elderly [III, A].
+• Salvage surgery, if feasible, may be offered to patients having
+complications post-SABR [V, B].
+• Salvage surgery, if feasible, may be offered, using the same indications as for primary surgery in progressive disease after
+SABR, but surgery may be more difﬁcult with higher operative risk [V, B].
+• For medically inoperable patients with tumours with a size > 5
+cm and/or moderately central location, radical RT using more
+conventional or accelerated schedules is recommended [III, A].
+•
+
+Radiofrequency ablation
+Fortunately, not many patients have contraindications for both
+surgery and SABR [85]. For these patients radiofrequency ablation (RFA) might be a reasonable alternative although the level of
+evidence comes from observational studies only [109].
+
+•
+
+Recommendation:
+Stage I NSCLC patients with strong contraindications for surgery and/or SABR may be treated with RFA [V, C].
+
+Postoperative radiotherapy
+In a meta-analysis of rather old studies postoperative radiotherapy (PORT) was found to be detrimental if given to patients with
+N0 and N1 disease [110]. The case for unexpected N2 disease
+
+doi:10.1093/annonc/mdx222 | iv11
+
+Clinical Practice Guidelines
+discovered at surgery is less clear, and currently evaluated in a
+large clinical trial, applying 54 Gy in 27–30 fractions [111]. The
+use of PORT after an R1 resection appears reasonable, but it is
+not supported by high-quality evidence.
+Recommendations:
+PORT in completely resected early-stage NSCLC is not recommended [I, A].
+• In case of R1 resection (positive resection margin, chest wall),
+PORT should be considered [IV, B].
+• Even if such patients were not included in randomised, clinical trials (RCTs), adjuvant ChT should be considered in patients with R1 resection of stage IB disease and a primary
+tumour > 4 cm, stage II and III [V, A].
+• In case both ChT and RT are administered post-surgery, RT
+should be administered after ChT [V, C].
+•
+
+Treatment of locally advanced stage (stage III)
+Adequate staging through PET-CT imaging is indicated to rule
+out extracranial metastasis. Evaluation of the brain by MRI is
+indicated.
+Platinum-based ChT is an essential part of the treatment of locally advanced NSCLC (LA-NSCLC) as it improves survival in
+tumours considered resectable, as well in unresectable tumours.
+Recommendations:
+All patients planned for deﬁnitive stage III NSCLC treatment
+should undergo a diagnostic contrast-enhanced CT scan of the
+chest and upper abdomen followed by a PET or a combined
+PET-CT with a CT technique with adequately high resolution
+for initial staging purposes [I, A] in order to rule out detectable
+extrathoracic, extracranial metastasis, and to assess potential
+mediastinal lymph node involvement, ideally within 4 weeks
+before the start of treatment [III, B]. Single PET-positive distant
+lesions need pathological conﬁrmation [V, B].
+• For patients with operable N2 disease, pathological staging of
+the mediastinum is advised [III, C].
+• All patients planned for curative stage III NSCLC treatment
+should receive brain imaging for initial staging [III, B].
+Contrast-enhanced brain MRI is the preferred method for
+staging of the brain in stage III disease [III, A]. If it is not possible to perform MRI, dedicated contrast-enhanced brain CT
+scan is advised [III, B].
+•
+
+Annals of Oncology
+The treatment of resectable LA-NSCLC remains a matter of debate. There is only one trial comparing the two locoregional
+modalities head-to-head, surgery and RT (60 Gy), in patients
+with at least a minimal tumour response [113], no difference in
+survival was found. In the Lung Intergroup Trial 0139, the induction regimen of chemoradiotherapy (CRT) (45 Gy), was followed
+by surgery or definitive RT to a dose of 61 Gy [114]. No significant difference in OS was found, but disease-free survival was significantly better in the trimodality arm. An explanation for this
+difference is the higher early toxic death rate in the surgery arm,
+apparently due to the higher number of early postoperative
+deaths in the group of patients undergoing right-sided pneumonectomy. Excluding pneumonectomy for an unplanned subgroup
+analysis of matched surgical patients treated by lobectomy, the
+surgical patients had a better survival. Two more recent studies
+confirmed the outcomes with regard to disease-free survival and
+OS after induction therapy followed by surgery. The SAKK study
+failed to show benefit by adding relatively low doses of RT
+(45 Gy) to ChT [115], whereas the ESPATUE trial confirmed that
+CRT (45 Gy) followed by surgery, is as good as CRT with definitive RT (65–71 Gy) given as a boost in the last week of CRT [116].
+As these studies showed no clear benefit for one of the local
+therapies over the other, the choice of local treatment modality
+can vary across countries and centres.
+Recommendations:
+If, despite adequate mediastinal staging procedures, N2 disease is only documented intra-operatively, surgery should be
+followed by adjuvant ChT [I, A]. In case of complete resection, addition of PORT is not routinely recommended, but
+may be an option following individual risk assessment [V, C].
+• If single station N2 disease can be demonstrated by preoperative
+pathological nodal analysis, resection followed by adjuvant ChT,
+induction ChT followed by surgery or induction CRT followed
+by surgery are options. If induction ChT alone is given preoperatively, PORT is not standard treatment, but may be an option
+based on critical evaluation of locoregional relapse risks [IV, C].
+• In multistation N2 or N3, concurrent deﬁnitive CRT is preferred
+[I, A]. An experienced multidisciplinary team is of paramount
+importance in any complex multimodality treatment strategy decision, including the role of surgery in these cases [IV, C].
+• In potentially resectable superior sulcus tumours, concurrent
+CRT induction followed by deﬁnitive surgery is the treatment of
+choice [III, A]. The same strategy may be applied for potentially
+resectable T3 or T4 central tumours in highly selected cases and
+experienced centres [III, B]. In both situations, surgery should
+be carried out within 4 weeks after the end of RT [III, B].
+•
+
+Resectable LA-NSCLC
+Resectable in this situation usually refers to the following situations:
+• single station N2 disease where other nodal stations have
+been biopsied and proved to be benign. Postoperative ChT
+should then be advised [112];
+• T4N0 tumours where nodal disease had been excluded by invasive methods when a R0 resection is considered to be feasible;
+• after induction therapy, when there has been nodal downstaging and a pneumonectomy can be avoided.
+All such cases should be evaluated within an experienced
+multidisciplinary team.
+
+iv12 | Postmus et al.
+
+Systemic therapy
+Which ChT is optimal has not been investigated extensively. In
+fact, information coming from studies in stage IV has hardly been
+applied in this situation, probably the only exception being the
+PROCLAIM study, evaluating the use of pemetrexed-cisplatin
+versus standard cisplatin-etoposide, but failing to show any improvement except for less haematological toxicity [117].
+Consolidation ChT after CRT failed to improve progression-free
+survival (PFS) [118]. There is no beneficial role for induction
+ChT before CRT [119], although in many centres for practical
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+reasons, related to planning of RT, one cycle will be given prior to
+concurrent CRT. Adjuvant immunotherapy trials, using antiPD-1 and anti-PD-L1 checkpoint inhibitors in stage I-III adjuvant setting, as well as the combination of anti-CTLA4 and antiPD-1 in stage I-III neoadjuvant setting, are ongoing. A consolidation trial using an anti-PD-L1 drug in consolidation after CRT
+will deliver results very soon (NCT NCT02125461).
+Recommendations:
+For curative-intent management, patients should be able to
+undergo platinum-based ChT (preferably cisplatin) [I, A].
+• (Neo)adjuvant anti PD(L)-1 checkpoint inhibitors are currently being evaluated in addition to current standard of care.
+Checkpoints are also being evaluated after CRT as consolidation therapy.
+
+Clinical Practice Guidelines
+•
+
+•
+
+Unresectable LA-NSCLC
+Unresectable in this situation refers to the situation that—even
+after induction therapy—a complete resection (R0) would not be
+possible, based on evaluation within a multidisciplinary team,
+including an experienced thoracic surgeon.
+Sequential CRT (induction ChT followed by RT), usually given
+at a dose of 60–66 Gy in 30–33 fractions over 6–7 weeks, was compared to concurrent CRT at comparable doses in several phase III
+trials and in a meta-analysis [120].
+Concurrent CRT is considered the preferred treatment for patients who are fit, as it leads to higher 5-year survival rates, albeit at
+the cost of a higher rate of reversible oesophagitis. In recent phase
+III trials delivering concurrent CRT to doses between 60 and 66 Gy,
+the incidence of grade 3 or higher oesophagitis ranged from 7% to
+21%, with corresponding rates of grade 3 or higher radiation pneumonitis ranging from 2.5% to 7% [51, 118]. Another area of concern is the early mortality rate of 10% following concurrent CRT.
+Tumour volume and pulmonary function were found to be risk factors associated with mortality in the first 180-day post-treatment in
+a multi-institutional analysis of 1245 patients [121]. The use of radiation doses in excess of 66 Gy is not recommended outside trials, as
+delivery of 74 Gy with concurrent CRT led to a poorer survival [51].
+For elderly and/or less fit patients with clinically relevant
+comorbidities, the sequential approach is a reasonable choice
+[50]. An individual patient data meta-analysis of trials conducted
+prior to 2006 found that accelerated RT schedules which are delivered in a shorter overall treatment time led to an absolute benefit of 2.5% in 5-year OS [89]. Based on this, accelerated RT
+schedules delivering once-daily fractions of 2.6–3 Gy, to a total
+dose of up to 60–66 Gy, are recommended in patients who receive
+either sequential CRT or RT alone for stage III NSCLC.
+Recommendations:
+Concurrent CRT is the treatment of choice in patients evaluated as unresectable in stage IIIA and IIIB [I, A]. If concurrent CRT is not possible—for any reason—sequential ChT
+followed by deﬁnitive RT represents a valid and effective alternative [I, A].
+• There is no role for prophylactic cranial irradiation in stage
+III NSCLC [II, A].
+• In the absence of contraindications, the optimal ChT to be
+combined with radiation in stage III NSCLC should be based
+•
+
+Volume 28 | Supplement 4 | August 2017
+
+•
+
+•
+
+•
+
+on cisplatin. There are no ﬁrm conclusions supporting singleagent carboplatin as a radiation sensitiser [I, A].
+Most comparative studies of concurrent CRT versus sequential administration were using cisplatin þ etoposide or cisplatin þ vinca alkaloid (typically: cisplatin þ vinorelbine), or
+cisplatin þ pemetrexed if non-squamous histology. There are
+no comparative phase III trials using the paclitaxel/carboplatin regimen. When delivered perioperatively cisplatin-based
+combinations are considered the treatment of choice, in the
+absence of contraindications [I, A].
+In the stage III disease CRT strategy, two to four cycles of
+concomitant ChT should be delivered [I, A]. There is no evidence for further induction or consolidation ChT. In the
+perioperative setting, three to four cycles of cisplatin-based
+ChT are recommended [I, A], aiming at a total cumulative
+dose of at least 300 mg/m2 of cisplatin [II, B].
+60–66 Gy in 30–33 daily fractions is recommended for concurrent CRT [I, A]. Maximum overall treatment time should
+not exceed 7 weeks [III, B]. ‘Biological intensiﬁcation’, such
+as treatment acceleration, is not standard practice in concurrent CRT schedules [III, B].
+In sequential approaches, RT delivered in a short overall
+treatment time is recommended [I, A].
+
+Personalised medicine
+Although proven to be beneficial in stage IV patients with driving
+mutations, such as in EGFR or translocation of anaplastic lymphoma kinase (ALK), the role of targeted agents in stage I, II and III
+has not been evaluated properly. From the meta-analysis [77], no
+conclusion can be drawn for adjuvant use of targeted therapy in
+EGFR mutated stage I-III NSCLC. The only study in which more
+staging details are given included only 36 patients with stage III;
+however, details on outcome of those patients were not given [122].
+Recommendations:
+There is currently no role for targeted agents in stage III
+NSCLC outside clinical trials [I, A].
+• Immunotherapy is being studied in early NSCLC as (neo)adjuvant therapy and as consolidation after CRT; data should
+be awaited before any clinical use [I, A].
+•
+
+Follow-up, long-term implications and
+survivorship
+NSCLC patients treated with radical intent are at risk of developing new cancer related problems, with potentially considerable
+consequences and different dynamics over time:
+•
+•
+•
+
+treatment-related complications,
+comorbidities;
+detection of treatable relapse;
+detection of second primaries.
+
+treatment
+
+of
+
+existing
+
+In the early phase after lung cancer resection, readmission for
+complications is not rare; 12.8% of patients listed in a large
+Surveillance, Epidemiology, and End Results (SEER) programme
+database were readmitted within 30 days after discharge shortly
+
+doi:10.1093/annonc/mdx222 | iv13
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 4. Summary of recommendations
+Incidence/epidemiology
+ Screening with LDCT reduces lung cancer-related mortality [I, A]. It is not yet ready for large-scale implementation, mainly because the lung cancer mortality reduction rate lacks deﬁnite proof of a second study result, and partly because of remaining questions regarding deﬁnition of the at-risk population,
+timing, interval and method of CT (especially 2D versus 3D evaluation), how to handle (false-) positive ﬁndings and especially cost-effectiveness, notably
+in relation to smoking cessation [I, A].
+ LDCT screening can be carried out outside a clinical trial provided it is offered within a dedicated programme with quality control, in a centre with experience in CT screening, a large volume of thoracic oncology activity and multidisciplinary management of suspicious ﬁndings [I, B]. Candidates are current or former heavy smokers ( 30 pack-years or  15 years since smoking cessation) aged 55–74 years, who are well informed about potential beneﬁts
+and risks. Individuals offered LDCT screening should be referred to a smoking cessation programme.
+ LDCT screening should not be offered on an ad hoc individual basis, but patients requesting screening should be referred to a dedicated programme, as
+recommended above [V, B].
+ Other screening methods, such as chest X-ray, sputum analysis or biomarkers are not recommended for clinical use [I, C].
+Diagnosis
+ In patients with clinical stages I–III lesions, a pretreatment pathological diagnosis is recommended prior to any curative treatment.
+ Bronchoscopy is the recommended test to obtain a pathological diagnosis of centrally located tumours in stages I–III with biopsy of any visible lesion [III, A].
+ The pathological classiﬁcation NOS should be used only in cases where it is impossible to obtain enough tissue for further classiﬁcation, or when steps
+to further classify the tumour are inconclusive [V, A].
+ An exception to the requirement for a pretreatment diagnosis can be made if an experienced multidisciplinary group decides that the risks of obtaining
+pathology may be unacceptable in a patient in whom the likelihood of malignancy is high based on clinical and imaging ﬁndings [III, B].
+ A pretreatment pathological diagnosis is strongly recommended for all patients before SABR, unless a multidisciplinary tumour board is of the opinion
+that the risk-beneﬁt ratio of the procedure is unacceptable. In such a situation, the predicted likelihood of malignancy should preferably be at least 85%,
+based upon accepted criteria [III, B] [25].
+ The descriptive element of the recent WHO classiﬁcation of adenocarcinoma subtypes should be used to describe bronchoscopic and CT-guided biopsies whenever possible [III, A].
+ The revised adenocarcinoma classiﬁcation may identify patient subtypes for whom an anatomical sublobar resection, rather than lobectomy, would be
+sufﬁcient [III, A].
+ FDG-PET may contribute for the selection of patients for anatomical sublobar resections as low SUVmax values of peripheral tumours indicate lack of mediastinal metastases [III, A]. This diagnosis may be made intra-operatively by video-assisted thoracoscopic biopsy and frozen section analysis.
+ In isolated cases a diagnostic anatomical sublobar resection may be acceptable.
+Solitary pulmonary nodule
+ The diagnostic approach to non-calciﬁed pulmonary nodules should be based on existing standard guidelines [III, A], although new evidence on nodule
+management is emerging.
+ Likelihood of malignancy based upon risk calculation methods used in CT screening studies should be used only to guide the clinical assessment of pulmonary nodules detected in the wider population [V, C].
+Staging and risk assessment
+ In non-metastatic NSCLC, detailed locoregional staging according to the 8th TNM staging system and the cardiopulmonary ﬁtness of the patient determine the choice of treatment [III, A].
+Locoregional staging
+ For part-solid tumours, the size of the invasive component should be used to assign the T category for clinical staging [III, A]
+ Subsolid lesions need dedicated radiological expertise for evaluating the lung lesion composition [V, A].
+ If two lung lesions fulﬁl the criteria for two primaries these should be evaluated and treated accordingly [III, A].
+ For patients with abnormal mediastinal and/or hilar lymph nodes at CT and/or PET imaging, endosonography is recommended over surgical staging [I, A].
+ The preferred ﬁrst technique for pathological conﬁrmation of suspect nodes is needle aspiration under EBUS and/or EUS guidance [I, A].
+ If EBUS and/or EUS does not reveal nodal involvement in a situation of high clinical suspicion, mediastinoscopy is indicated [I, A].
+ Mediastinoscopy is the test with the highest negative predictive value to rule out mediastinal lymph node disease [I, A].
+ Screening for brain metastases by MRI might be useful in patients considered for curative therapy [III, B].
+Pretreatment risk assessment
+ In non-metastatic NSCLC, the cardiopulmonary ﬁtness of the patient will determine the choice of treatment [III, A].
+ The risk of postoperative morbidity and mortality can be estimated using risk-speciﬁc models, although none have been validated in a cancer population [III, B].
+ Before considering surgical resection, precise assessment of cardiac and pulmonary function is necessary to estimate risk of operative morbidity [III, A].
+ For cardiac assessment, use of recalibrated RCRI is recommended [III, A].
+ Formal lung function testing should be undertaken to estimate postoperative lung function. For patients with FEV1 and DLCO values > 80% of their predicted pulmonary function tests and no other major comorbidities, no further investigations are advised before surgical resection [III, A]. For others, exercise testing and split lung function are recommended. In these patients, VO2max can be used to measure exercise capacity and predict postoperative
+complications [III, A].
+ Comorbidities should be evaluated and optimised before surgery [III, A].
+ In patients with limited pulmonary function due to emphysema, a lung volume reduction effect may be observed by resection of the lung cancer within
+emphysematous lung tissue [III, B].
+Continued
+
+iv14 | Postmus et al.
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+
+Clinical Practice Guidelines
+
+Table 4. Continued
+Treatment of early stages (stages I and II)
+Surgery
+ Surgery should be offered to all patients with stage I and II NSCLC as the preferred treatment to all who are willing to accept procedure-related risks [III, A].
+ For patients with a non-centrally located resectable tumour and absence of nodal metastasis on both CT and PET images, surgical resection is recommended [I, A].
+ Anatomical resection is preferred over wedge resection [I, A].
+ Anatomical segmentectomy is generally considered acceptable for pure GGO lesions or adenocarcinomas in situ or with minimal invasion [III, B].
+ Lobectomy is still considered the standard surgical treatment of tumours  2 cm in size that have a solid appearance on CT [II, B].
+ Lymph node dissection should conform to IASLC speciﬁcations for staging [III, A].
+ Either open thoracotomy or VATS access can be carried out as appropriate to the expertise of the surgeon [III, A].
+ VATS should be the approach of choice in stage I tumours [V, C].
+ For patients with multifocal lung cancer, complete resection is recommended whenever possible. All patients with multifocal lung cancer should be discussed in a multidisciplinary tumour board [III, B].
+Systemic therapy
+ Adjuvant ChT should be offered to patients with resected stage II and III NSCLC [I, A] and can be considered in patients with resected stage IB disease
+and a primary tumour > 4 cm [II, B]. Pre-existing comorbidity, time from surgery and postoperative recovery need to be taken into account in this decision taken in a multidisciplinary tumour board [V, A].
+ For adjuvant ChT, a two-drug combination with cisplatin is preferable [I, A]. In randomised studies, the attempted cumulative cisplatin dose was up to
+300 mg/m2, delivered in three to four cycles. The most frequently studied regimen is cisplatin–vinorelbine.
+ At the present time, the choice of adjuvant therapy should not be guided by molecular analyses, e.g. ERCC1 mutation testing [IV, B].
+ In the current state of knowledge, targeted agents should not be used in the adjuvant setting [II, A].
+ In view of the equivalence of neoadjuvant and adjuvant ChT for OS, the consistent results and broad evidence base support adjuvant ChT as the timing of choice [II, C].
+ (Neo)adjuvant anti-PD(L)-1 checkpoint inhibitors are currently being evaluated in addition to current standard of care.
+Primary radiotherapy
+ The non-surgical treatment of choice for stage I NSCLC is SABR. The dose should be to a biologically equivalent tumour dose of  100 Gy, prescribed to
+the encompassing isodose [III, A].
+ SABR for early-stage peripheral lung tumours is associated with low toxicity in patients with COPD and the elderly [III, A].
+ Salvage surgery, if feasible, may be offered to patients having complications post-SABR [V, B].
+ Salvage surgery, if feasible, may be offered, using the same indications as for primary surgery in progressive disease after SABR, but surgery may be more
+difﬁcult with higher operative risk [V, B].
+ For medically inoperable patients with tumours with a size > 5 cm and/or moderately central location, radical RT using more conventional or accelerated
+schedules is recommended [III, A].
+Radiofrequency ablation
+ Stage I NSCLC patients with strong contraindications for surgery and/or SABR may be treated with RFA [V, C].
+Postoperative radiotherapy
+ PORT in completely resected early-stage NSCLC is not recommended [I, A].
+ In case of R1 resection (positive resection margin, chest wall), PORT should be considered [IV, B].
+ Even if such patients were not included in RCTs, adjuvant ChT should be considered in patients with R1 resection of stage IB disease and a primary tumour > 4 cm, stage II and III [V, A].
+ In case both ChT and RT are administered post-surgery, RT should be administered after ChT [V, C].
+Treatment of locally advanced stage (stage III)
+ All patients planned for deﬁnitive stage III NSCLC treatment should undergo a diagnostic contrast-enhanced CT scan of the chest and upper abdomen
+followed by a PET or a combined PET-CT with a CT technique with adequately high resolution for initial staging purposes [I, A] in order to rule out detectable extrathoracic, extracranial metastasis, and to assess potential mediastinal lymph node involvement, ideally within 4 weeks before the start of treatment [III, B]. Single PET-positive distant lesions need pathological conﬁrmation [V, B].
+ For patients with operable N2 disease, pathological staging of the mediastinum is advised [III, C].
+ All patients planned for curative stage III NSCLC treatment should receive brain imaging for initial staging [III, B]. Contrast-enhanced brain MRI is the preferred
+method for staging of the brain in stage III disease [III, A]. If it is not possible to perform MRI, dedicated contrast-enhanced brain CT scan is advised [III, B].
+Resectable LA-NSCLC
+ If, despite adequate mediastinal staging procedures, N2 disease is only documented intra-operatively, surgery should be followed by adjuvant ChT [I, A].
+In case of complete resection, addition of PORT is not routinely recommended, but may be an option following individual risk assessment [V, C].
+ If single station N2 disease can be demonstrated by preoperative pathological nodal analysis, resection followed by adjuvant ChT, induction ChT followed by surgery or induction CRT followed by surgery are options. If induction ChT alone is given preoperatively, PORT is not standard treatment, but
+may be an option based on critical evaluation of locoregional relapse risks [IV, C].
+ In multistation N2 or N3, concurrent deﬁnitive CRT is preferred [I, A]. An experienced multidisciplinary team is of paramount importance in any complex
+multimodality treatment strategy decision, including the role of surgery in these cases [IV, C].
+ In potentially resectable superior sulcus tumours, concurrent CRT induction followed by deﬁnitive surgery is the treatment of choice [III, A]. The same
+strategy may be applied for potentially resectable T3 or T4 central tumours in highly selected cases and experienced centres [III, B]. In both situations,
+surgery should be carried out within 4 weeks after the end of RT [III, B].
+Continued
+
+Volume 28 | Supplement 4 | August 2017
+
+doi:10.1093/annonc/mdx222 | iv15
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 4. Continued
+Systemic therapy
+ For curative-intent management, patients should be able to undergo platinum-based ChT (preferably cisplatin) [I, A].
+ (Neo)adjuvant anti PD(L)-1 checkpoint inhibitors are currently being evaluated in addition to current standard of care.
+ Checkpoints are also being evaluated after CRT as consolidation therapy.
+Unresectable LA-NSCLC
+ Concurrent CRT is the treatment of choice in patients evaluated as unresectable in stage IIIA and IIIB [I, A]. If concurrent CRT is not possible—for any
+reason—sequential ChT followed by deﬁnitive RT represents a valid and effective alternative [I, A].
+ There is no role for prophylactic cranial irradiation in stage III NSCLC [II, A].
+ In the absence of contraindications, the optimal ChT to be combined with radiation in stage III NSCLC should be based on cisplatin. There are no ﬁrm
+conclusions supporting single-agent carboplatin as a radiation sensitiser [I, A].
+ Most comparative studies of concurrent CRT versus sequential administration were using cisplatin þ etoposide or cisplatin þ vinca alkaloid (typically: cisplatin þ vinorelbine), or cisplatin þ pemetrexed if non-squamous histology. There are no comparative phase III trials using the paclitaxel/carboplatin regimen. When delivered perioperatively cisplatin-based combinations are considered the treatment of choice, in the absence of contraindications [I, A].
+ In the stage III disease CRT strategy, two to four cycles of concomitant ChT should be delivered [I, A]. There is no evidence for further induction or consolidation ChT. In the perioperative setting, three to four cycles of cisplatin-based ChT are recommended [I, A], aiming at a total cumulative dose of at
+least 300 mg/m2 of cisplatin [II, B].
+ 60–66 Gy in 30–33 daily fractions is recommended for concurrent CRT [I, A]. Maximum overall treatment time should not exceed 7 weeks [III, B].
+‘Biological intensiﬁcation’, such as treatment acceleration, is not standard practice in concurrent CRT schedules [III, B].
+ In sequential approaches, RT delivered in a short overall treatment time is recommended [I, A].
+Personalised medicine
+ There is currently no role for targeted agents in stage III NSCLC outside clinical trials [I, A].
+ Immunotherapy is being studied in early NSCLC as (neo)adjuvant therapy and as consolidation after CRT; data should be awaited before any clinical use [I, A].
+Follow-up, long-term implications and survivorship
+ NSCLC patients treated with radical intent should be followed for treatment-related complications, detection of treatable relapse or occurrence of second primary lung cancer [III, A].
+ Surveillance every 6 months for 2 years with a visit including history, physical examination and—preferably contrast-enhanced—volume chest CT scan
+at least at 12 and 24 months is recommended, and thereafter an annual visit including history, physical examination and chest CT scan in order to detect
+second primary tumours [III, B].
+ For individual patients, follow-up with six-monthly CT scans for 3 years is recommended for patients who are suitable for salvage treatment (e.g. surgery, local ablative therapy) [III, B]. The frequency of the follow-up visits can be tailored to the individual patient for those not suitable for salvage treatment [V, B].
+ The selective use of FDG–PET is recommended when recurrence after SABR is suspected based on serial spiral chest CT [III, B].
+ Due to a high number of false-positive ﬁndings on PET, patients suitable for salvage therapy should undergo a biopsy, whenever possible [III, B].
+ NSCLC patients should be offered smoking cessation, as this leads to superior treatment outcomes. Combining behaviour techniques with pharmacotherapy is the preferred approach [I, A].
+2D, 2 dimensional; 3D, 3 dimensional; ChT, chemotherapy; COPD, chronic obstructive pulmonary disease; CRT, chemoradiotherapy; CT, computed tomography;
+DLCO, diffusing capacity of the lungs for carbon monoxide; EBUS, endobronchial ultrasound; EUS, endoscopic ultrasound; FDG–PET, ﬂuorodeoxyglucose positron emission tomography; FEV1, forced expiratory volume in 1 second; GGO, ground glass opacity; IASLC, International Association for the Study of Lung
+Cancer; LA-NSCLC, locally advanced NSCLC; LDCT, low-dose CT; MRI, magnetic resonance imaging; NSCLC, non-small-cell lung cancer; NOS, not otherwise
+speciﬁed; OS, overall survival; PET, positron emission tomography; PORT, postoperative radiotherapy; RCRI, revised cardiac risk index; RCT, randomised controlled
+trial; RFA, radiofrequency ablation; RT, radiotherapy; SABR, stereotactic ablative radiotherapy; SUVmax, maximum standardised uptake value; TNM, tumour, node
+and metastasis; VATS, video-assisted thoracoscopic surgery; VO2max, maximal oxygen consumption; WHO, World Health Organization.
+
+after the resection; reasons were respiratory insufficiency, pneumonia, pneumothorax and cardiac complications. Patient factors
+associated with readmission were resection type, age, prior induction CRT and preoperative comorbidities, including congestive
+heart failure and COPD. The 90-day mortality in those readmitted
+at 30 days is 6-fold that of those not readmitted. This emphasises
+the need for adequate care and more intense early follow-up in patients at risk of developing postoperative problems [123]. Overall,
+the 90-day mortality is nearly double the 30-day mortality, with a
+considerable difference between low and high-volume hospitals
+[124]. Overall, these patients have a significant excess conditional
+mortality with an—increasing over time—relative contribution of
+cardiovascular and respiratory co-morbidity [125].
+
+iv16 | Postmus et al.
+
+In a large group of resected patients, standardised follow-up revealed that during the first 4 years after surgery, the risk of recurrence ranged from 6% to 10% per person per year, but decreased
+thereafter to 2% [126]. Within this period a pattern can be recognised, during the first and second year recurrence is mainly local
+and rare thereafter, whereas at the end of the second year until the
+end of the fourth year, recurrence is dominated by distant metastases decreasing over time [127]. After 5 years, these are virtually
+absent. The risk of developing a second primary lung cancer exhibits a more uniform pattern over time, ranging from 1% to 6%
+per person per year and did not diminish over time [126, 128].
+This is not restricted to cancers developing in smokers but was
+observed at a comparable magnitude in non-smokers [129].
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+
+Clinical Practice Guidelines
+
+Table 5. Table of levels of evidence and grades of recommendation (adapted from the Infectious Diseases Society of America-United States Public Health
+Service Grading Systema)
+Levels of evidence
+I
+Evidence from at least one large randomised, controlled trial of good methodological quality (low potential for bias) or meta-analyses of wellconducted randomised trials without heterogeneity
+II
+Small randomised trials or large randomised trials with a suspicion of bias (lower methodological quality) or meta-analyses of such trials or of trials
+demonstrated heterogeneity
+III
+Prospective cohort studies
+IV
+Retrospective cohort studies or case–control studies
+V
+Studies without control group, case reports, expert opinions
+Grades of recommendation
+A
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt, strongly recommended
+B
+Strong or moderate evidence for efﬁcacy but with a limited clinical beneﬁt, generally recommended
+C
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh the risk or the disadvantages (adverse events and costs, ...), optional
+D
+Moderate evidence against efﬁcacy or for adverse outcome, generally not recommended
+E
+Strong evidence against efﬁcacy or for adverse outcome, never recommended
+a
+
+By permission of the Infectious Diseases Society of America [139].
+
+Surveillance after treatment with curative intent is only useful
+if detection of a recurrence, locally or distant, or detection of a
+metachronous primary will result in potentially life-prolonging
+or preferable curative therapy. Curative therapy after a local recurrence is often not possible, resulting only in 5-year survival
+rates of 15% [130, 131].
+For second primaries, the outcome is better with 5-year survival rates ranging from 25% to 60% [132, 133].
+This illustrates that detection of local recurrence or a metachronous primary may lead to therapy resulting in long-term disease-free survival. Therefore, regular screening for both is likely
+to be worthwhile.
+There are no prospective trials evaluating what will be the most
+optimal follow-up after surgery. As most local relapses will be
+seen during the first two years after treatment, a follow-up visit
+every 6 months is recommended during that period, and annually
+thereafter. A new finding detected through history, physical
+examination and/or imaging (preferably CT) usually needs to be
+discussed in an experienced multidisciplinary team taking into
+account that a new finding could be a treatment complication, a
+metastasis or a new primary.
+For patients initially treated with SABR, the late local recurrences can be observed for up to 5 years post-treatment, and the
+incidence of second primary lung tumours appears to be similar
+to that post-surgery [81, 134]. As it may be sometimes difficult
+to distinguish post-SABR recurrences from focal fibrosis, highrisk radiological features have been identified [135] and the use
+of such a scheme has recently been independently validated
+[136].
+Patients who have undergone ChT and RT for stage III
+NSCLC, are at high risk of developing progressive disease, either
+locally or at metastatic sites. Establishing locoregional disease
+progression is often a diagnostic challenge, but this is important
+in patients who may be fit for salvage treatments [98–105].
+Smoking cessation is crucial in all lung cancer patients treated
+with curative intent, and patients should be offered support to
+achieve this goal.
+
+Volume 28 | Supplement 4 | August 2017
+
+Recommendations:
+NSCLC patients treated with radical intent should be followed
+for treatment-related complications, detection of treatable relapse or occurrence of second primary lung cancer [III, A].
+• Surveillance every 6 months for 2 years with a visit including
+history, physical examination and—preferably contrastenhanced—volume chest CT scan at least at 12 and
+24 months is recommended, and thereafter an annual visit
+including history, physical examination and chest CT scan in
+order to detect second primary tumours [III, B].
+• For individual patients, follow-up with six-monthly CT scans
+for 3 years is recommended for patients who are suitable for
+salvage treatment (e.g. surgery, local ablative therapy) [III, B].
+The frequency of the follow-up visits can be tailored to the individual patient for those not suitable for salvage treatment [V, B].
+• The selective use of FDG–PET is recommended when recurrence after SABR is suspected based on serial spiral chest CT
+scan [III, B].
+• Due to a high number of false-positive ﬁndings on PET, patients suitable for salvage therapy should undergo a biopsy,
+whenever possible [III, B].
+• NSCLC patients should be offered smoking cessation, as this leads
+to superior treatment outcomes. Combining behaviour techniques
+with pharmacotherapy is the preferred approach [I, A].
+•
+
+Methodology
+These Clinical Practice Guidelines were developed in accordance
+with the ESMO standard operating procedures for Clinical
+Practice Guidelines development http://www.esmo.org/
+Guidelines/ESMO-Guidelines-Methodology. The relevant literature has been selected by the expert authors. A summary of recommendations is shown in Table 4. Levels of evidence and grades
+of recommendation have been applied using the system shown in
+Table 5. Statements without grading were considered justified
+standard clinical practice by the experts and the ESMO Faculty.
+
+doi:10.1093/annonc/mdx222 | iv17
+
+Clinical Practice Guidelines
+This manuscript has been subjected to an anonymous peer review
+process.
+
+Disclosure
+PEP has reported advisory boards for Bristol-Myers Squibb,
+Boehringer Ingelheim, Novartis, AstraZeneca, Janssen
+Pharmaceuticals, Merck Sharp & Dohme and Roche; received honoraria from Roche and travel grants from Merck Sharp & Dohme,
+Boehringer Ingelheim, Pfizer and Celgene; KMK has reported lecture honoraria and/or consultancy fees from AstraZeneca, BristolMyers Squibb, Boehringer Ingelheim, Eli Lilly, Merck KGaA, Merck
+Sharpe & Dohme, Novartis, Pfizer, Roche and Roche Diagnostics;
+SS has reported advisory boards for Lilly Oncology and research
+sponsored by Varian Medical Systems; JV has reported advisory
+boards, consulting and honoraria from Merck Sharp & Dohme,
+Boehringer, Eli Lilly, AstraZeneca and Novartis; MO, DW, CE and
+SP have reported no conflicts of interest.
+
+References
+1.
+2.
+3.
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+Centers for Disease Control and Prevention, Lung Cancer. https://www.
+cdc.gov/cancer/lung/basic_info/ (18 May 2017, date last accessed).
+Sun S, Schiller JH, Gazdar AF. Lung cancer in never smokers—a different disease. Nat Rev Cancer 2007; 7: 778–790.
+Aberle DR, Adams AM, Berg CD et al. Reduced lung-cancer mortality with
+low-dose computed tomographic screening. N Engl J Med 2011; 365: 395–409.
+Veronesi G, Maisonneuve P, Bellomi M et al. Estimating overdiagnosis
+in low-dose computed tomography screening for lung cancer: a cohort
+study. Ann Intern Med 2012; 157: 776–784.
+Patz EF Jr, Pinsky P, Gatsonis C et al. Overdiagnosis in low-dose computed tomography screening for lung cancer. JAMA Intern Med 2014;
+174: 269–274.
+Travis WD, Brambilla E, Noguchi M et al. International Association for
+the Study of Lung Cancer/American Thoracic Society/European
+Respiratory Society international multidisciplinary classification of lung
+adenocarcinoma. J Thorac Oncol 2011; 6: 244–285.
+Franklin WA, Merrick DT, Achcar RD, Aberle DR. Reclassification of
+lung cancers detected by CT imaging in the American College of
+Radiology Imaging Network National Lung Screening Trial. J Thor
+Oncol 2015; 10 (9, Suppl 2): S220. oral24.05.
+Wiener RS, Gould MK, Arenberg DA et al. An official American Thoracic
+Society/American College of Chest Physicians policy statement: implementation of low-dose computed tomography lung cancer screening programs in clinical practice. Am J Respir Crit Care Med 2015; 192: 881–891.
+Begnaud A, Hall T, Allen T. Lung cancer screening with low-dose CT:
+implementation amid changing public policy at one health care system.
+Am Soc Clin Oncol Educ Book 2016; 35: e468–e475.
+van Iersel CA, de Koning HJ, Draisma G et al. Risk-based selection from
+the general population in a screening trial: selection criteria, recruitment and power for the Dutch-Belgian randomised lung cancer multislice CT screening trial (NELSON). Int J Cancer 2007; 120: 868–874.
+Horeweg N, van Rosmalen J, Heuvelmans MA et al. Lung cancer probability in patients with CT-detected pulmonary nodules: a prespecified
+analysis of data from the NELSON trial of low-dose CT screening.
+Lancet Oncol 2014; 15: 1332–1341.
+Walter JE, Heuvelmans MA, de Jong PA et al. Occurrence and lung cancer probability of new solid nodules at incidence screening with lowdose CT: analysis of data from the randomised, controlled NELSON
+trial. Lancet Oncol 2016; 17: 907–916.
+Yousaf-Khan U, van der Aalst C, de Joing PA et al. Risk stratification
+based on screening history: the NELSON lung cancer screening study.
+Thorax 2017; 72: 48–56.
+
+iv18 | Postmus et al.
+
+Annals of Oncology
+14. Novello S, Barlesi F, Califano R et al. Metastatic non-small-cell lung
+cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and
+follow-up. Ann Oncol 2016; 27 (Suppl 5): v1–v27.
+15. Navani N, Brown JN, Nankivell M et al. Suitability of endobronchial
+ultrasound-guided transbronchial needle aspiration specimens for subtyping and genotyping of non-small cell lung cancer. Am J Respir Crit
+Care Med 2012; 185: 1316–1322.
+16. Travis WD, Brambilla E, Nicholson AG et al. The 2015 World Health
+Organization Classification of Lung Tumours: impact of genetic, clinical and radiologic advances since the 2004 classification. J Thor Oncol
+2015; 10: 1243–1260.
+17. Warth A, Muley T, Meister M et al. The novel histologic International
+Association for the Study of Lung Cancer/American Thoracic Society/
+European Respiratory Society classification system of lung adenocarcinoma is a stage-independent predictor of survival. J Clin Oncol 2012; 30:
+1438–1446.
+18. Hung JJ, Yeh YC, Jeng WJ et al. Predictive value of the International
+Association for the Study of Lung Cancer/American Thoracic Society/
+European Respiratory Society classification of lung adenocarcinoma in
+tumor recurrence and patient survival. J Clin Oncol 2014; 32: 2357–2364.
+19. Tsao MS, Marguet S, Le Teuff G et al. Subtype classification of lung
+adenocarcinoma predicts benefit from adjuvant chemotherapy in patients undergoing complete resection. J Clin Oncol 2015; 33: 3439–3446.
+20. Yu Y, Jian H, Shen L et al. Lymph node involvement influenced by lung
+adenocarcinoma subtypes in tumour size  3 cm disease: a study of
+2268 cases. Eur J Surg Oncol 2016; 42: 1714–1719.
+21. Liu S, Wang R, Zhang Y et al. Precise diagnosis of intraoperative frozen
+section is an effective method to guide resection strategy for peripheral
+small-sized lung adenocarcinoma. J Clin Oncol 2016; 34: 307–313.
+22. Walts AE, Marchevsky AM. Root cause analysis of problems in the frozen section diagnosis of in situ, minimally invasive, and invasive adenocarcinoma of the lung. Arch Pathol Lab Med 2012; 136: 1515–1521.
+23. Yeh YC, Nitadori J, Kadota K et al. Using frozen section to identify
+histological patterns in stage I lung adenocarcinoma of  3 cm: accuracy and interobserver agreement. Histopathology 2015; 66: 922–938.
+24. Donington JS. An additional step toward personalization of surgical care
+for early-stage non–small-cell lung cancer. J Clin Oncol 2016; 34: 295–296.
+25. Nakamura H, Saji H, Marushima H et al. Standardized uptake values in the
+primary lesions of non-small-cell lung cancer in FDG-PET/CT can predict
+regional lymph node metastases. Ann Surg Oncol 2015; 22: S1388–S1393.
+26. Matsuzawa R, Kirita K, Kuwata T et al. Factors influencing the concordance of histological subtype diagnosis from biopsy and resected specimens of lung adenocarcinoma. Lung Cancer 2016; 94: 1–6.
+27. Callister ME, Baldwin DR, Akram AR et al. British Thoracic Society
+Guidelines for the investigation and management of pulmonary nodules. Thorax 2015; 70: ii1–ii54.
+28. MacMahon H, Naidich P, Goo JM et al. Guidelines for management of
+incidental pulmonary nodules detected on CT images: from the
+Fleischner Society 2017. Radiology 2017; 284: 228–243.
+29. Bai C, Choi CM, Chu CM et al. Evaluation of pulmonary nodules: clinical practice consensus guidelines for Asia. Chest 2016; 150: 877–893.
+30. Brierley JD, Gospodarowicz MK and Wittekind C. (eds). TNM
+Classification of Malignant Tumours, 8th edition. Oxford: John Wiley &
+Sons, Inc. 2016.
+31. Rami-Porta R, Bolejack V, Crowley J et al. The IASLC lung cancer staging project: proposals for the revisions of the T descriptors in the forthcoming eighth edition of the TNM classification for lung cancer. J Thor
+Oncol 2015; 10: 990–1003.
+32. Travis WD, Asamura H, Bankier AA et al. The IASLC lung cancer staging project: proposals for coding T categories for subsolid nodules and
+assessment of tumor size in part-solid tumors in the forthcoming eighth
+edition of the TNM classification of lung cancer. J Thorac Oncol 2016;
+11: 1204–1223.
+33. Detterbeck FC, Bolejack V, Arenberg DA et al. The IASLC lung cancer staging project: background data and proposals for the classification of lung
+cancer with separate tumor nodules in the forthcoming edition of the
+TNM classification for lung cancer. J Thor Oncol 2016; 11: 681–692.
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+34. Detterbeck FC, Franklin WA, Nicholson AG et al. The IASLC lung cancer staging project: background data and proposed criteria to distinguish separate primary lung cancers from metastatic foci in patients
+with two lung tumors in the forthcoming eighth edition of the TNM
+classification for lung cancer. J Thor Oncol 2016; 11: 651–665.
+35. Detterbeck FC, Nicholson AG, Franklin WA et al. The IASLC lung cancer staging project: summary of proposals for revisions of the classification of lung cancers with multiple pulmonary sites of involvement in
+the forthcoming eighth edition of the TNM classification. J Thor Oncol
+2016; 11: 639–650.
+36. Detterbeck FC, Marom EM, Arenberg DA et al. The IASLC lung cancer
+staging project: background data and proposals for the application of
+TNM staging rules to lung cancer presenting as multiple nodules with
+ground glass or lepidic features or a pneumonic type of involvement in
+the forthcoming eighth edition of the TNM classification for lung cancer. J Thor Oncol 2016; 11: 666–680.
+37. Vilmann P, Clementsen PF, Colella S et al. Combined endobronchial and
+esophageal endosonography for the diagnosis and staging of lung cancer:
+European Society of Gastrointestinal Endoscopy (ESGE) guideline, in cooperation with the European Respiratory Society (ERS) and the European
+Society of Thoracic Surgeons (ESTS). Endoscopy 2015; 47: 545–559.
+38. Asamura H, Chansky C, Crowley J et al. The IASLC lung cancer staging
+project: proposals for the revisions of the N descriptors in the forthcoming 8th edition of the TNM classification for lung cancer. J Thorac
+Oncol 2015; 10: 1675–1684.
+39. Ettinger DS, Wood DE, Aisner DL et al. NCCN clinical practice guidelines in oncology: non–small cell lung cancer version 5.2017. March 16,
+2017. https://www.nccn.org/professionals/physician_gls/pdf/nscl.pdf.
+(1 May 2017, date last accessed).
+40. Baldwin DR, White B, Schmidt-Hansen M et al. Diagnosis and treatment of lung cancer: summary of updated NICE guidance. BMJ 2011;
+342: d2110.
+41. Lim E, Baldwin D, Beckles M et al. Guidelines on the radical management of patients with lung cancer. Thorax 2010; 65 (Suppl 3): iii1–iii27.
+42. Silvestri GA, Gonzalez AV, Jantz MA et al. Methods for staging nonsmall cell lung cancer diagnosis and management of lung cancer, 3rd ed:
+American College of Chest Physicians evidence-based clinical practice
+guidelines. Chest 2013; 143(5 Suppl): e211S–e250S.
+43. Vernon J, Andruszkiewicz N, Schneider L et al. Comprehensive clinical
+staging for resectable lung cancer: clinicopathological correlations and
+the role of brain MRI. J Thor Oncol 2016; 11: 1970–1975.
+44. Brunelli A, Postmus PE, Preoperative functional evaluation of the surgical candidate. In HI Pass, D Ball, GV Scagliotti (eds), The IASLC
+Approach to Thoracic Oncology. Aurora, CO: IASLC 2014; 373–383.
+45. Yacoub WN, Meyers BF. Surgical resection in combination with lung
+volume reduction surgery for stage I non-small cell lung cancer. Semin
+Thorac Cardiovasc Surg 2010; 22: 38–43.
+46. Falcoz PE, Conti M, Brouchet L et al. The Thoracic Surgery Scoring
+System (Thoracoscore): risk model for in-hospital death in 15,183 patients
+requiring thoracic surgery. J Thorac Cardiovasc Surg 2007; 133: 325–332.
+47. Brunelli A, Varela G, Salati M et al. Recalibration of the revised cardiac risk
+index in lung resection candidates. Ann Thorac Surg 2010; 90: 199–203.
+48. Brunelli A, Cassivi SD, Fibla J et al. External validation of the recalibrated thoracic revised cardiac risk index for predicting the risk of
+major cardiac complications after lung resection. Ann Thorac Surg
+2011; 92: 445–448.
+49. Lau KK, Rathinam S, Waller DA, Peake MD. The effects of increased
+provision of thoracic surgical specialists on the variation in lung cancer
+resection rate in England. J Thor Oncol 2013; 8: 68–72.
+50. Brunelli A, Charloux A, Bolliger CT et al. ERS/ESTS clinical guidelines
+on fitness for radical therapy in lung cancer patients (surgery and
+chemo-radiotherapy). Eur Respir J 2009; 34: 17–41.
+51. Bradley JD, Paulus R, Komaki R et al. Standard-dose versus high-dose
+conformal radiotherapy with concurrent and consolidation carboplatin
+plus paclitaxel with or without cetuximab for patients with stage IIIA or
+IIIB non-small-cell lung cancer (RTOG 0617): a randomised, two-bytwo factorial phase 3 study. Lancet Oncol 2015; 16: 187–199.
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+52. Hong JC, Salama JK. Dose escalation for unresectable locally advanced
+non-small cell lung cancer: end of the line?. Transl Lung Cancer Res
+2016; 5: 126–133.
+53. Tucker SL, Liu A, Gomez D et al. Impact of heart and lung dose on early
+survival in patients with non-small cell lung cancer treated with chemoradiation. Radiother Oncol 2016; 119: 495–500.
+54. Harada H, Yamashita Y, Misumi K et al. Multidisciplinary team-based
+approach for comprehensive preoperative pulmonary rehabilitation
+including intensive nutritional support for lung cancer patients. PLoS
+One 2013; 8: e59566.
+55. Rosen JE, Keshava HB, Yao X et al. The natural history of operable nonsmall cell lung cancer in the National Cancer Database. Ann Thorac
+Surg 2016; 101: 1850–1855.
+56. Ginsberg RJ, Rubinstein LV. Randomized trial of lobectomy versus limited resection for T1N0 non-small cell lung cancer. Lung Cancer Study
+Group. Ann Thorac Surg 1995; 60: 615–622.
+57. Veluswamy RR, Ezer N, Mhango G et al. Limited resection versus lobectomy for older patients with early stage lung cancer: impact of histology.
+J Clin Oncol 2015; 33: 3447–3453.
+58. Koike T, Kitahara A, Sato S et al. Lobectomy versus segmentectomy in
+radiologically pure solid small-sized non-small cell lung cancer. Ann
+Thorac Surg 2016; 101: 1354–1360.
+59. Blasberg JD, Pass HI, Donington JS. Sublobar resection: a movement
+from the Lung Cancer Study Group. J Thorac Oncol 2010; 5:
+1583–1593.
+60. Nakamura K, Saji H, Nakajima R et al. A phase III randomized trial of
+lobectomy versus limited reection for for small-sized peripheral nonsmall cell lung cancer (JCOG0802/WJOG4607L). Jpn J Clin Oncol
+2010; 40: 271–274.
+61. Petrella F, Spaggiari L. The smaller the better: a new concept in thoracic
+surgery? Lancet Oncol 2016; 17: 699–700.
+62. Zhang W, Wei Y, Jiang H et al. Video-assisted thoracoscopic surgery versus
+thoracotomy lymph node dissection in clinical stage I lung cancer: a metaanalysis and system review. Ann Thorac Surg 2016; 101: 2417–2424.
+63. Bendixen M, Jørgensen OD, Kronborg C et al. Postoperative pain and
+quality of life after lobectomy via video-assisted thoracoscopic surgery
+or anterolateral thoracotomy for early stage lung cancer: a randomised
+controlled trial. Lancet Oncol 2016; 17: 836–844.
+64. Rami-Porta R, Wittekind C, Goldstraw P, International Association for the
+Study of Lung Cancer (IASLC) Staging Committee. Complete resection in
+lung cancer surgery: proposed definition. Lung Cancer 2005; 49: 25–33.
+65. Huang X, Wang J, Chen Q, Jiang J. Mediastinal lymph node dissection versus mediastinal lymph node sampling for early stage non-small cell lung
+cancer: a systematic review and meta-analysis. PLoS One 2014; 9: e109979.
+66. Chang JY, Liu YH, Zhu Z et al. Stereotactic ablative radiotherapy: a potentially curable approach to early stage multiple primary lung cancer.
+Cancer 2013; 119: 3402–3410.
+67. Griffioen GH, Lagerwaard FJ, Haasbeek CJ et al. Treatment of multiple
+primary lung cancers using stereotactic radiotherapy, either with or
+without surgery. Radiother Oncol 2013; 107: 403–408.
+68. Artal Cortés A, Calera Urquizu L, Hernando Cubero J. Adjuvant
+chemotherapy in non-small cell lung cancer: state-of-the-art. Transl
+Lung Cancer Res 2015; 4: 191–197.
+69. NSCLC Meta-analyses Collaborative Group; Arriagada R, Auperin A,
+Burdett S et al. Adjuvant chemotherapy, with or without postoperative
+radiotherapy, in operable non-small-cell lung cancer: two metaanalyses of individual patient data. Lancet 2010; 375: 1267–1277.
+70. Wakelee HA, Dahlberg SE, Keller SM et al. E1505: adjuvant chemotherapy þ/- bevacizumab for early stage NSCLC—Outcomes based on
+chemotherapy subsets. J Clin Oncol 2016; 34 (Suppl); abstr 8507.
+71. Butts CA, Ding K, Seymour L et al. Randomized phase III trial of vinorelbine plus cisplatin compared with observation in completely resected
+stage IB and II non-small-cell lung cancer: updated survival analysis of
+JBR-10. J Clin Oncol 2010; 28: 29–34.
+72. Salazar MC, Rosen JE, Wang Z et al. Association of delayed adjuvant
+chemotherapy with survival after lung cancer surgery. JAMA Oncol
+2017; 3: 610–619.
+
+doi:10.1093/annonc/mdx222 | iv19
+
+Clinical Practice Guidelines
+73. Strauss GM, Herndon JE 2nd, Maddaus MA et al. Adjuvant paclitaxel plus
+carboplatin compared with observation in stage IB non-small-cell lung
+cancer: CALGB 9633 with the Cancer and Leukemia Group B, Radiation
+Therapy Oncology Group, and North Central Cancer Treatment Group
+Study Groups. J Clin Oncol 2008; 26: 5043–5051.
+74. Lim E, Harris G, Patel A et al. Preoperative versus postoperative chemotherapy in patients with resectable non-small cell lung cancer: systematic review and indirect comparison meta-analysis of randomized trials.
+J Thorac Oncol 2009; 4: 1380–1388.
+75. NSCLC Meta-analysis Collaborative Group. Preoperative chemotherapy for non-small-cell lung cancer: a systematic review and metaanalysis of individual participant data. Lancet 2014; 383: 1561–1571.
+76. Gilligan D, Nicolson M, Smith I et al. Preoperative chemotherapy in patients with resectable non-small cell lung cancer: results of the MRC
+LU22/NVALT 2/EORTC 08012 multicentre randomised trial and update of systematic review. Lancet 2007; 369: 1929–1937.
+77. Huang O, Li J, Sun Y et al. Efficacy of EGFR tyrosine kinase inhibitors
+in the adjuvant treatment for operable non-small cell lung cancer by a
+meta-analysis. Chest 2016; 149: 1384–1392.
+78. Tada H, Takeda K, Nakagawa K et al. Vinorelbine plus cisplatin versus
+gefitinib in resected non-small cell lung cancer harboring activating
+EGFR mutation (WJOG6410L). J Clin Oncol 2012; 30 (Suppl); abstr
+TPS7110.
+79. National Cancer Institute, Lung Cancer. http://www.cancer.gov/types/
+lung/research/alchemist (18 May 2017, date last accessed).
+80. Lindberg K, Nyman J, Riesenfeld K€allskog V et al. Long-term results of
+a prospective phase II trial of medically inoperable stage I NSCLC
+treated with SBRT – the Nordic experience. Acta Oncol 2015; 54:
+1096–1104.
+81. Verstegen NE, Lagerwaard FJ, Hashemi SM et al. Patterns of disease recurrence after SABR for early stage non-small-cell lung cancer: optimizing follow-up schedules for salvage therapy. J Thorac Oncol 2015; 10:
+1195–1200.
+82. Louie AV, Palma DA, Dahele M et al. Management of early-stage nonsmall cell lung cancer using stereotactic ablative radiotherapy: controversies, insights, and changing horizons. Radiother Oncol 2015; 114:
+138–147.
+83. Chen H, Louie AV, Boldt RG et al. Quality of life after stereotactic ablative radiotherapy for early-stage lung cancer: a systematic review. Clin
+Lung Cancer 2016; 17: e141–e149.
+84. Bahig H, Filion E, Vu T et al. Severe radiation pneumonitis after lung
+stereotactic ablative radiation therapy in patients with interstitial lung
+disease. Pract Radiat Oncol 2016; 6: 367–374.
+85. Chen H, Senan S, Nossent EJ et al. Treatment-related toxicity in patients with early-stage non-small cell lung cancer and co-existing interstitial lung disease: a systematic review. Int J Radiat Oncol Biol Phys
+2017; 98: 245–246.
+86. Nambu A, Onishi H, Aoki S et al. Rib fracture after stereotactic radiotherapy for primary lung cancer: prevalence, degree of clinical symptoms, and risk factors. BMC Cancer 2013; 13: 68.
+87. Timmerman RD, Herman J, Cho LC. Emergence of stereotactic body
+radiation therapy and its impact on current and future clinical practice.
+J Clin Oncol 2014; 32: 2847–2854.
+88. Haasbeek CJ, Palma D, Visser O et al. Early-stage lung cancer in elderly
+patients: a population-based study of changes in treatment patterns and
+survival in the Netherlands. Ann Oncol 2012; 23: 2743–2747.
+89. Mauguen A, le Péchoux C, Saunders MI et al. Hyperfractionated or
+accelerated radiotherapy in lung cancer: an individual patient data
+meta-analysis. J Clin Oncol 2012; 30: 2788–2797.
+90. Cheung P, Faria S, Ahmed S et al. Phase II study of accelerated hypofractionated three-dimensional conformal radiotherapy for stage T1-3
+N0 M0 non-small cell lung cancer. NCIC CTG BR.25. J Natl Cancer
+Inst 2014; 106: dju164.
+91. Onishi H, Shirato H, Nagata Y et al. Stereotactic body radiotherapy
+(SBRT) for operable stage I non-small-cell lung cancer: can SBRT be
+comparable to surgery?. Int J Radiat Oncol Biol Phys 2011; 81:
+1352–1358.
+
+iv20 | Postmus et al.
+
+Annals of Oncology
+92. Lagerwaard FJ, Verstegen NE, Haasbeek CJ et al. Outcomes of stereotactic
+ablative radiotherapy in patients with potentially operable stage I nonsmall cell lung cancer. Int J Radiat Oncol Biol Phys 2012; 83: 348–353.
+93. Siva S, Ball D. Curing operable stage I non-small cell lung cancer with
+stereotactic ablative body radiotherapy: the force awakens. Oncologist
+2016; 21: 393–398.
+94. Chang JY, Senan S, Paul MA et al. Stereotactic ablative radiotherapy versus lobectomy for operable stage I non-small-cell lung cancer: a pooled
+analysis of two randomised trials. Lancet Oncol 2015; 16: 630–637.
+95. Cherny NI, Sullivan R, Dafni U et al. A standardised, generic, validated
+approach to stratify the magnitude of clinical benefit that can be anticipated from anti-cancer therapies: the European Society for Medical
+Oncology Magnitude of Clinical Benefit Scale (ESMO-MCBS). Ann
+Oncol 2015; 26: 1547–1573.
+96. Samson P, Waters EA, Meyers B, Politi MC. Shared decision making and
+effective risk communication in the high-risk patient with operable stage
+I non-small cell lung cancer. Ann Thorac Surg 2016; 101: 2049–2052.
+97. Hopmans W, Damman OC, Senan S et al. A patient perspective on
+shared decision making in stage I non-small cell lung cancer: a mixed
+methods study. BMC Cancer 2015; 15: 959.
+98. Chen F, Matsuo Y, Yoshizawa A et al. Salvage lung resection for nonsmall cell lung cancer after stereotactic body radiotherapy in initially
+operable patients. J Thorac Oncol 2010; 5: 1999–2002.
+99. Neri S, Takahashi Y, Terashi T et al. Surgical treatment of local recurrence after stereotactic body radiotherapy for primary and metastatic
+lung cancers. J Thorac Oncol 2010; 5: 2003–2007.
+100. Allibhai Z, Cho BC, Taremi M et al. Surgical salvage following stereotactic
+body radiotherapy for early-stage NSCLC. Eur Respir J 2012; 39: 1039–1042.
+101. Hamamoto Y, Kataoka M, Yamashita M et al. Lung-cancer related chest
+events detected by periodical follow-up CT after stereotactic body
+radiotherapy for stage I primary lung cancer: retrospective analysis of
+incidence of lung-cancer related chest events and outcomes of salvage
+treatment. Jpn J Radiol 2012; 30: 671–675.
+102. Taira N, Kawabata T, Ichi T et al. Salvage operation for late recurrence
+after stereotactic body radiotherapy for lung cancer: two patients with
+no viable cancer cells. Ann Thorac Surg 2014; 97: 2167–2171.
+103. Hamaji M, Chen F, Matsuo Y et al. Treatment and prognosis of isolated
+local relapse after stereotactic body radiotherapy for clinical stage I
+non-small-cell lung cancer: importance of salvage surgery. J Thorac
+Oncol 2015; 10: 1616–1624.
+104. Dickhoff C, Dahele M, Paul MA et al. Salvage surgery for locoregional recurrence or persistent tumor after high dose chemoradiotherapy for locally
+advanced non-small cell lung cancer. Lung Cancer 2016; 94: 108–113.
+105. Verstegen NE, Maat AP, Lagerwaard FJ et al. Salvage surgery for local
+failures after stereotactic ablative radiotherapy for early stage non-small
+cell lung cancer. Radiat Oncol 2016; 11: 131.
+106. Chang JY, Bezjak A, Mornex F. IASLC Advanced Radiation Technology
+Committee. Stereotactic ablative radiotherapy for centrally located early
+stage non–small-cell lung cancer: what we have learned. J Thorac Oncol
+2015; 10: 577–585.
+107. Senthi S, Haasbeek CJ, Slotman BJ, Senan S. Outcomes of stereotactic
+ablative radiotherapy for central lung tumours: a systematic review.
+Radiother Oncol 2013; 106: 276–282.
+108. Tekatli H, Haasbeek N, Dahele M et al. Outcomes of hypofractionated
+high-dose radiotherapy in poor-risk patients with “ultracentral” nonsmall cell lung cancer. J Thorac Oncol 2016; 11: 1081–1089.
+109. Ambrogi MC, Fanucchi O, Dini P et al. Wedge resection and radiofrequency ablation for stage I non small cell lung cancer. Eur Respir J 2015;
+45: 1089–1097.
+110. PORT Meta-analysis Trialists Group. Postoperative radiotherapy for nonsmall cell lung cancer. Cochrane Database Syst Rev 2005; CD002142.
+111. Le Péchoux C. Role of postoperative radiotherapy in resected non-small
+cell lung cancer: a reassessment based on new data. Oncologist 2011; 16:
+672–681.
+112. Tsitsias T, Boulemden A, Ang K et al. The N2 paradox: similar outcomes of pre- and postoperatively identified single-zone N2a positive
+non-small-cell lung cancer. Eur J Cardiothorac Surg 2014; 45: 882–887.
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+113. van Meerbeeck JP, Kramer GW, Van Schil PE et al. Randomized controlled trial of resection versus radiotherapy after induction chemotherapy in stage IIIA-N2 non-small-cell lung cancer. J Natl Cancer Inst
+2007; 99: 442–450.
+114. Albain KS, Swann RS, Rusch VW et al. Radiotherapy plus chemotherapy
+with or without surgical resection for stage III non-small-cell lung cancer:
+a phase III randomised controlled trial. Lancet 2009; 374: 379–386.
+115. Pless M, Stupp R, Ris HR et al. Induction chemoradiation in stage IIIA/
+N2 non-small-cell lung cancer: a phase 3 randomised trial. Lancet 2015;
+386: 1049–1056.
+116. Eberhardt WE, Pöttgen C, Gauler TC et al. Phase III study of surgery
+versus definitive concurrent chemoradiotherapy boost in patients with
+resectable stage IIIA(N2) and selected IIIB non–small-cell lung cancer
+after induction chemotherapy and concurrent chemoradiotherapy
+(ESPATUE). J Clin Oncol 2015; 33: 4194–4201.
+117. Senan S, Brade A, Wang LH et al. PROCLAIM: randomized phase III trial
+of pemetrexed-cisplatin or etoposide-cisplatin plus thoracic radiation therapy followed by consolidation chemotherapy in locally advanced nonsquamous non–small-cell lung cancer. J Clin Oncol 2016; 34: 953–962.
+118. Ahn JS, Ahn YC, Kim JH et al. Multinational randomized phase III trial
+with or without consolidation chemotherapy using docetaxel and cisplatin
+after con-current chemoradiation in inoperable stage III non–small-cell
+lung cancer: KCSG-LU05-04. J Clin Oncol 2015; 33: 2660–2666.
+119. Vokes EE, Herndon JE II, Kelley MJ et al. Induction chemotherapy followed by chemoradiotherapy compared with chemoradiotherapy alone
+for regionally advanced unresectable stage III nonsmall-cell lung cancer:
+cancer and leukemia group B. J Clin Oncol 2007; 25: 1698–1704.
+120. Aupérin A, Le Péchoux C, Rolland E et al. Meta-analysis of concomitant
+versus sequential radiochemotherapy in locally advanced non–smallcell lung cancer. J Clin Oncol 2010; 28: 2181–2190.
+121. Warner A, Dahele M, Hu B et al. Factors associated with early mortality
+in patients treated with concurrent chemoradiation therapy for locally
+advanced non-small cell lung cancer. Int J Radiat Oncol Biol Phys 2016;
+94: 612–620.
+122. Kelly K, Altorki NK, Eberhardt WE et al. Adjuvant erlotinib versus placebo in patients with stage IB-IIIA non-small-cell lung cancer
+(RADIANT): a randomized, double-blind, phase III trial. J Clin Oncol
+2015; 33: 4007–4014.
+123. Hu Y, McMurry TL, Isbell JM et al. Readmission after lung resection is
+associated with a 6-fold increase in 90-day postoperative mortality.
+J Thorac Cardiovasc Surg 2014; 148: 2261–2267.
+124. Pezzi CM, Mallin K, Mendez AS et al. Ninety-day mortality after resection for lung cancer is nearly double 30-day mortality. J Thorac
+Cardiovasc Surg 2014; 148: 2269–2277.
+125. Janssen-Heijnen ML, van Erning FN, de Ruysscher DK et al.
+Variation in causes of death in patients with non-small cell lung
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+126.
+
+127.
+
+128.
+129.
+
+130.
+
+131.
+
+132.
+
+133.
+134.
+
+135.
+
+136.
+
+137.
+
+138.
+
+139.
+
+cancer according to stage and time since diagnosis. Ann Oncol
+2015; 26: 902–907.
+Lou F, Huang J, Sima CS et al. Patterns of recurrence and second primary lung cancer in early-stage lung cancer survivors followed with
+routine computed tomography surveillance. J Thorac Cardiovasc Surg
+2013; 145: 75–81. Discussion 81–82.
+Demicheli R, Fornili M, Ambrogi F et al. Recurrence dynamics for nonsmall-cell-lung cancer: effect of surgery on the develoment of metastases. J Thorac Oncol 2012; 7: 723–730.
+Johnson BE. Second lung cancers in patients after treatment for an initial lung cancer. J Natl Cancer Inst 1998; 90: 1335–1345.
+Ripley RT, McMillan RR, Sima CS et al. Second primary lung cancers:
+smokers versus nonsmokers after resection of stage I lung adenocarcinoma. Ann Thorac Surg 2014; 98: 968–974.
+Voltolini L, Paladini P, Luzzi L et al. Iterative surgical resections for
+local recurrent and second primary bronchogenic carcinoma. Eur J
+Cardiothorac Surg 2000; 18: 529–534.
+Hung JJ, Hsu WH, Hsieh CC et al. Post-recurrence survival in completely resected stage I non-small cell lung cancer with local recurrence.
+Thorax 2009; 64: 192–196.
+Hamaji M, Allen MS, Cassivi SD et al. Surgical treatment of metachronous second primary lung cancer after complete resection of
+non-small cell lung cancer. J Thorac Cardiovasc Surg 2013; 145:
+683–690.
+Rosengart TK, Martini N, Ghosn P, Burt M. Multiple primary lung carcinomas: prognosis and treatment. Ann Thorac Surg 1991; 52: 773–778.
+Spratt DE, Wu AJ, Adeseye V et al. Recurrence patterns and second primary lung cancers after stereotactic body radiation therapy for earlystage non small-cell lung cancer: implications for surveillance. Clin
+Lung Cancer 2016; 17: 177–183.e2.
+Huang K, Senthi S, Palma DA et al. High-risk CT features for detection
+of local recurrence after stereotactic ablative radiotherapy for lung cancer. Radiother Oncol 2013; 109: 51–57.
+Peulen H, Mantel F, Guckenberger M et al. Validation of high-risk computed tomography features for detection of local recurrence after
+stereotactic body radiation therapy for early-stage non-small cell lung
+cancer. Int J Radiat Oncol Biol Phys 2016; 96: 134–141.
+De Leyn P, Dooms C, Kuzdzal J et al. Revised ESTS guidelines for preoperative mediastinal lymph node staging for non-small-cell lung cancer. Eur J Cardiothorac Surg 2014; 3: 787–798.
+Lee TH, Marcantonio ER, Mangione CM et al. Derivation and prospective validation of a simple index for prediction of cardiac risk of major
+noncardiac surgery. Circulation 1999; 100: 1043–1049.
+Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001; 33: 139–144.
+
+doi:10.1093/annonc/mdx222 | iv21
+
+

@@ -1,0 +1,743 @@
+LETTERS TO THE EDITOR
+Early and locally advanced non-small-cell lung
+cancer: an update of the ESMO Clinical Practice
+Guidelines focusing on diagnosis, staging,
+systemic and local therapy
+The following ESMO Clinical Practice Guideline has been
+recently updated with new treatment recommendations:
+Early and locally advanced non-small-cell lung cancer
+(NSCLC): ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-up.1
+EUPDATE
+View the ESMO eUpdate here: https://www.esmo.org/guid
+elines/lung-and-chest-tumours/early-stage-and-locally-adva
+nced-non-metastatic-non-small-cell-lung-cancer/eupdateearly-and-locally-advanced-non-small-cell-lung-cancer-ns
+clc-treatment-recommendations2.
+PATHOLOGY/MOLECULAR BIOLOGY
+Diagnosis
+The original Table 1 is updated.
+
+chemotherapy (ChT).3,4 A total of 682 patients were randomised (1 : 1) to receive 3 years of osimertinib 80 mg orally
+once daily or placebo following recovery from surgery and
+standard adjuvant ChT, if given. The major efﬁcacy outcome
+measure was disease-free survival (DFS) in patients with stage
+II-IIIA NSCLC determined by investigator assessment. With a
+median follow-up for the primary endpoint of 22.1 months in
+the osimertinib arm and 14.9 months in the placebo arm,
+the median DFS was not reached [(38.8 months-not
+evaluable (NE)] in patients on the osimertinib arm
+compared with 19.6 months (16.6-24.5 months) on the placebo arm [hazard ratio (HR) 0.17, 99.1% conﬁdence interval
+(CI) 0.11-0.26, P < 0.0001]. DFS in the overall study population was a secondary efﬁcacy outcome measure; the median
+was not reached (NE-NE) in patients on the osimertinib arm
+compared with 27.5 months (22.0-35.0 months) on the placebo arm (HR 0.20, 99.1% CI 0.14-0.30, P < 0.0001).3,4 The
+DFS beneﬁt with osimertinib occurred in patients who
+received adjuvant ChT (HR 0.16, 95% CI 0.10-0.26), and
+among those who did not (HR 0.23, 95% CI 0.13-0.40),
+knowing that ChT administration was not a stratiﬁcation
+factor and this decision was left to the investigator.3
+The recommended osimertinib dose for adjuvant treatment of early-stage NSCLC is 80 mg orally once daily, with or
+without food, until disease recurrence, or unacceptable
+toxicity, or for up to 3 years.
+
+STAGING AND RISK ASSESSMENT
+Locoregional staging
+
+Neoadjuvant or adjuvant immune checkpoint inhibitors
+
+The original Figure 1 is updated.
+
+Unpublished data from phase III clinical trials have reported
+that in patients with stage IB-IIIA NSCLC, neoadjuvant immune checkpoint inhibitors (ICIs) plus ChT increases the
+rate of pathological complete response compared with ChT.
+Likewise, in the same setting, adjuvant ICI with antiprogrammed death-ligand 1 (anti-PD-L1) leads to
+increased DFS versus best supportive care (BSC) for patients
+with PD-L1-positive tumours.
+The recent phase III IMpower-010 trial assessed the role
+of adjuvant atezolizumab 1200 mg every 3 weeks for
+16 cycles versus BSC in completely resected stage IB-IIIA
+NSCLC patients following recovery from surgery and standard adjuvant cisplatin-based ChT.5 In hierarchical testing,
+atezolizumab signiﬁcantly improved the DFS versus BSC in
+PD-L1-expressing tumour cells 1% (SP263 assay) stage
+II-IIIA NSCLC [median DFS not reached versus 35.3 months,
+(HR 0.66, 95% CI 0.50-0.88, P ¼ 0.0039)], as well as in all
+randomised stage II-IIIA tumours [median DFS 42.3 versus
+35.3 months, (HR 0.79, 95% CI 0.64-0.96, P ¼ 0.0205)].
+Finally, in the intention-to-treat population, DFS did not
+cross signiﬁcance boundary [HR 0.81, 95% CI 0.67-0.99,
+P ¼ 0.04].5 Atezolizumab, however, does not have EMA
+approval in this setting yet.
+The primary analysis population from the three-arm
+CheckMate 816 trial reported that nivolumab plus
+platinum-based ChT for 3 cycles as neoadjuvant strategy in
+patients with stage IB-IIIA NSCLC signiﬁcantly improved the
+
+TREATMENT OF EARLY STAGES (STAGES I-IIIA)
+The original section ‘Treatment of early stages (stages I-II)’ is
+renamed ‘Treatment of early stages (stages I-IIIA)’. The
+original recommendations are updated and a new
+treatment algorithm provided (Figure 6). The ESMO-MCBS
+table is updated to include osimertinib (Table 6).
+Systemic therapy
+Adjuvant treatment with targeted therapies
+Adjuvant osimertinib for resected IB-IIIA NSCLC with
+EGFR exon 19 deletions or exon 21 L858R mutations.
+Osimertinib is approved by both the United States Food and
+Drug Administration (FDA) and the European Medicines
+Agency (EMA) as adjuvant therapy after complete tumour
+resection in patients with stage IB-IIIA NSCLC whose
+tumours have epidermal growth factor receptor (EGFR)
+exon 19 deletions or exon 21 L858R mutations [I, A;
+European Society for Medical Oncology-Magnitude of
+Clinical Beneﬁt Scale (ESMO-MCBS) v1.1 score: A].
+Efﬁcacy was demonstrated in a randomised, double-blind,
+placebo-controlled trial (ADAURA, NCT02511106) in patients
+with centrally conﬁrmed EGFR exon 19 deletions or exon 21
+L858R mutation-positive stage IB-IIIA NSCLC who had
+complete tumour resection, with or without prior adjuvant
+Volume 32
+
+-
+
+Issue 12
+
+-
+
+2021
+
+1637
+
+Annals of Oncology
+
+Letters to the Editor
+
+Table 1. Work-up for diagnosis and staging
+Mandatory
+General
+
+Imaging
+
+Laboratory
+
+Medical historya
+Physical examinationa
+Assessing comorbidity
+PS
+CT thorax and upper
+abdomena
+PET-CTa
+MRI brainc
+
+Optional
+
+
+
+X-ray thoraxb
+
+
+
+Bone scintigraphy
+Contrast-enhanced
+CT brain
+
+
+
+Bone parametersd
+
+
+
+Blood cell counts
+Renal function
+Liver enzymes
+
+Cardiopulmonary FVC, FEV1, DLCO
+function
+ECG
+If indicated: CPET
+Tissue
+Bronchoscopyc,e
+EBUS/EUS mediastinal
+procurement
+nodesa
+CT-guided biopsy
+Genomic
+EGFR mutation status
+proﬁling
+Other
+PD-L1 expression (for
+biomarkers
+unresectable NSCLC)
+
+Ejection fraction, CAG
+Mediastinoscopy
+
+ALK fusion status
+PD-L1 expression (for
+completely resected
+NSCLC)
+
+CAG, coronary angiography; CPET, cardiopulmonary exercise testing; CT, computed
+tomography; DLCO, diffusing capacity of the lungs for carbon monoxide; EBUS,
+endoscopic bronchial ultrasound; ECG, electrocardiogram; EUS, endoscopic ultrasound; FEV1, forced expiratory volume in 1 second; FVC, forced expiratory vital
+capacity; MRI, magnetic resonance imaging; NSCLC, non-small-cell lung cancer; PDL1, programmed death-ligand 1; PET-CT, positron emission tomography computed
+tomography; PS, performance status.
+a
+Tests needed for clinical staging.
+b
+X-ray could be used as a ﬁrst test in case of suspicious of lung cancer. However, a CT
+scan is recommended for those patients with risk factors or high clinical suspicious and
+a negative X-ray.
+c
+See text.
+d
+Optional, at physician’s discretion upon suspicion. Bone scan or PET-CT to be carried
+out in case of suspicion for bone metastases.
+e
+Depending on site and size of tumour with biopsy/aspiration/brush/washing.
+
+primary endpoint of pathological complete responses
+compared with ChT alone [24.0% versus 2.2%, odds ratio
+13.94, 99% CI 3.49-55.75, P < 0.0001]. This beneﬁt was
+consistent across disease stages, histologies, tumour
+mutational burden and PD-L1 expression levels.6 There are
+no data yet, however, on outcome with this strategy from
+this phase III trial. Therefore, in stage IB-IIIA NSCLC, the
+immune strategy in the (neo)adjuvant setting using ICIs 
+CT is not yet standard. Several large phase III clinical trials
+are still ongoing with immune strategy in the (neo)adjuvant
+stage IB-IIIA clinical scenario.
+Post-operative radiotherapy
+The original recommendations are updated.
+Recommendations
+Adjuvant ChT
+ Adjuvant ChT should be offered to patients with resected
+TNM (tumourenodeemetastasis) 8th edition stage IIB
+and III NSCLC [I, A] and can be considered in patients
+with T2bN0, stage IIA resected primary tumour >4 cm
+[II, B]. Pre-existing comorbidity, time from surgery and
+post-operative recovery need to be taken into account
+1638
+
+in this decision taken in a multidisciplinary tumour board
+[V, A].
+For adjuvant ChT, a two-drug combination with cisplatin
+is preferable [I, A]. In randomised studies, the attempted
+cumulative cisplatin dose was up to 300 mg/m2, delivered in 3 to 4 cycles.
+When cisplatin administration is not feasible, carboplatin
+is an accepted alternative [IV, B].
+Although the most frequently studied regimen is
+cisplatin-vinorelbine, other combinations such as cisplatin
+and gemcitabine, or docetaxel or pemetrexed (only in
+adenocarcinoma tumours) could be also feasible [II, B].
+Carboplatin and paclitaxel is a potential ChT option for
+T2bN0, stage IIA resected primary tumour >4 cm [IV, B].
+
+Adjuvant treatment with targeted therapies
+ Osimertinib is indicated for the adjuvant treatment after
+complete tumour resection in adult patients with stage
+IB-IIIA NSCLC whose tumours have EGFR exon 19 deletions or exon 21 L858R substitution mutations [I, A;
+ESMO-MCBS v1.1 score: A].
+Post-operative radiotherapy
+ Post-operative radiotherapy (PORT) in completely resected
+early-stage I-IIIA NSCLC is not recommended [I, E].
+ In case of microscopic residual tumour (R1) resection
+(positive resection margin, chest wall), PORT should be
+considered [IV, B].
+ Even if such patients were not included in randomised,
+clinical trials, adjuvant ChT should be considered in patients with R1 resection of stage IIA-IIB-III disease [V, A].
+ In case both ChT and radiotherapy (RT) are administered
+post-R1 surgery, RT may be administered before ChT [V, C].
+
+TREATMENT OF LOCALLY ADVANCED STAGE (STAGE III)
+The original recommendations are updated and a new
+treatment algorithm provided (see Figure 6). The ESMOMCBS table is updated for durvalumab (see Table 6).
+Resectable locally advanced NSCLC
+PORT after resected stage III NSCLC. PORT should not be
+used in patients with NSCLC following complete R0 resection and after (neo)adjuvant ChT, as no statistically signiﬁcant difference in 3-year DFS was shown in a randomised,
+controlled trial.
+The large randomised, controlled LungART trial presented at ESMO 2020 explored the role of modern mediastinal PORT in patients with completely resected NSCLC
+with histo/cytologically proven N2 nodal involvement. The
+study randomised 501 patients with completely resected
+stage IIIA N2 NSCLC to PORT (54 Gy in 27-30 fractions or no
+PORT). Safety analysis was carried out in 487 patients.7
+LungART is the only large, adequately-powered, high-quality, randomised trial in the modern era to be completed in
+these patients. The trial selected a well-deﬁned, high-risk
+Volume 32
+
+-
+
+Issue 12
+
+-
+
+2021
+
+Annals of Oncology
+
+Letters to the Editor
+
+CT and PET or PET-CT
+
+Mediastinal LNs negative
+
+Mediastinal LNs positive
+
+cN1 or central tumour
+Remove the
+Tumour >3 cm (mainly
+adenoma
+adenocarcinoma with high FDG
+update)a
+
+cN0 andRemove
+peripheral
+the tumour
+(outer third
+of the lung) and
+adenoma
+tumour ≤3 cm
+
+Tissue confirmation:
+EBUS/EUSc
+
+Mediastinal LNs
+negative on EBUS/EUS
+Mediastinal LNs positive
+
+Tissue confirmation:
+EBUS/EUS or VAMb
+
+VAMd
+
+Mediastinal LNs negative
+Mediastinal LNs
+positive
+
+Mediastinal LNs
+negative
+
+2N neesrofnu treatment
+:yregruS
+Multimodality
+
+2N neesSurgery
+rofnu :yregruS
+
+Figure 1. Suggested algorithm for locoregional lymph node staging in patients with non-metastatic NSCLC.
+Red: surgery; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+CT, computed tomography; EBUS, endoscopic bronchial ultrasound; EUS, endoscopic ultrasound; FDG, ﬂuorodeoxyglucose; LN, lymph node; NPV, negative predictive
+value; NSCLC, non-small-cell lung cancer; PET, positron emission tomography; VAM, video-assisted mediastinoscopy.
+a
+In tumours >3 cm (mainly in adenocarcinoma with high FDG uptake), invasive staging should be considered.
+b
+Depending on local expertise to adhere to minimal requirements for staging.
+c
+Endoscopic techniques are minimally invasive and are the ﬁrst choice if local expertise with EBUS/EUS needle aspiration is available.
+d
+Due to its higher NPV, in case of PET-positive or CT-detected mediastinal LN enlargement, negative endoscopic staging (EBUS or EUS) and high clinical suspicion with
+availability of VAM, nodal dissection or biopsy is recommended.
+Adapted with permission from De Leyn et al.2
+
+patient population (52% of patients had 2 N2 nodal stations involved), 91% of whom had undergone positron
+emission tomography (PET) scans, and 95% of whom had
+undergone systemic ChT. The quality of surgery carried out
+was clearly speciﬁed and also reviewed centrally by a surgical committee.
+At a median follow-up of 4.8 years, the DFS HR reported in
+the trial was 0.85 (95% CI 0.67-1.07, P ¼ 0.16), with median
+DFS times of 30.5 months for PORT and 22.8 months without
+PORT. Three-year DFS rates were 47.1% and 43.8% with and
+without PORT, respectively. There was also no evidence that
+PORT improved overall survival (OS), with 3-year OS rates of
+66.5% and 68.5% with and without PORT, respectively. Not
+only did PORT fail to provide a survival beneﬁt, but it may
+actually be harmful for patients, with an incidence of late
+grade 3-4 cardiopulmonary toxicity twice that in patients
+without PORT (10.8% versus 4.9%).
+Consequently, PORT cannot be recommended for patients with completely resected stage I-III N2 NSCLC. Its
+potential utility for locoregional disease control in resected
+stage III N2 disease (decrease of the rate of mediastinal
+relapse by 50%) is offset by the risk of over-added cardiopulmonary toxicity. Further analysis is needed to determine
+Volume 32
+
+-
+
+Issue 12
+
+-
+
+2021
+
+whether certain patients, in particular, could beneﬁt. For
+patients with incompletely resected R1 stage III NSCLC,
+PORT should be considered, with thorough assessment in a
+multidisciplinary tumour board.
+Unresectable locally advanced NSCLC
+The phase III PACIFIC trial randomised (2 : 1) 713 patients
+with unresectable, locally-advanced NSCLC without disease
+progression within the ﬁrst 42 days after concurrent chemoradiotherapy, to consolidative durvalumab for 1 year or
+placebo.8 After a median follow-up of 34.2 months, the
+median OS for durvalumab was reached (47.5 months
+versus 29.1 months for placebo, HR 0.72, 95% CI 0.59-0.89),
+and the estimated 5-year OS rates were 42.9% versus 33.4%
+for durvalumab versus placebo, respectively. The median
+PFS was 16.9 months for durvalumab and 5.6 months for
+placebo (HR 0.55, 95% CI 0.45-0.68) with a 5-year PFS rate
+of 33.1% versus 19.0%, respectively.8
+A post hoc exploratory analysis of the mature survival
+data requested by licensing European authorities observed
+that the beneﬁt with durvalumab was not evident in patients with PD-L1 expression <1%. The signiﬁcance of this
+observation is disputed.9
+1639
+
+Annals of Oncology
+
+Letters to the Editor
+
+Stage IB-IIIA
+
+Unresectable stage III
+
+R0 resection [I, A]
+
+R1 resection
+
+Adjuvant ChT in N+ [I, A]a
+Adjuvant ChT in resected tumours
+≥ 4 cm (T2bN0, stage IIA) [II, B]
+
+PORT [IV, B]
+
+ChT and RT
+
+No progression
+
+Adjuvant ChT [V, A]
+Cisplatin [I, A] in combination with:
+Vinorelbine [I, A]
+Gemcitabine [II, B]
+Docetaxel [II, B]
+Pemetrexed [II, B, non-squamousb]
+If cisplatin is not feasible, carboplatin
+is an alternative [IV, B]
+If resected primary tumour ≥ 4 cm
+and N0, carboplatin–paclitaxel [IV, B]
+
+Durvalumab in PD-L1 ≥1%
+[I, A; MCBS: 4]c
+
+Complete resection with
+EGFR exon 19 del or exon 21
+L858R substitution
+
+Osimertinib
+[I, A; MCBS: A]c,d
+Figure 6. Systemic treatment algorithm for early-stage (stage IB-IIIA) and unresectable locally advanced (stage III) NSCLC.
+For resection criterion, check Figure 2. Purple: general categories or stratiﬁcation (symptom); red: surgery; dark green: radiotherapy; blue: systemic anticancer therapy;
+turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+ChT, chemotherapy; ESMO, European Society for Medical Oncology; MCBS, Magnitude of Clinical Beneﬁt Scale; Nþ, node-positive; PD-L1, programmed death-ligand 1;
+PORT, post-operative radiotherapy; RT, radiotherapy.
+a
+For stage IB, adjuvant ChT in primary tumours 4 cm [II, B].
+b
+Only in adenocarcinoma tumours.
+c
+ESMO-MCBS v1.1 score for new therapy/indication approved by the EMA since 1 January 2016 and the Food and Drug Administration (FDA) since 1 January 2020. The
+score has been calculated by the ESMO-MCBS Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/scaleevaluation-forms-v1.0-v1.1/scale-evaluation-forms-v1.1).
+d
+Primary endpoint of ADAURA trial was DFS in stage II-IIIA according to 7th TNM (T> 5 cm or Nþ). Adjuvant osimertinib in stage IB (3 cm < T  5 cm) was a secondary
+endpoint. Stage was a stratiﬁcation factor. Therefore, indication for osimertinib in T  5 cm N0 will follow local recommendations/physician’s discretion [I, B].
+
+Recommendations
+PORT after resected stage III NSCLC
+ PORT is not beneﬁcial for patients with completely
+resected stage III N2 NSCLC [I, E] and should only be
+considered in the setting of residual microscopic or
+macroscopic disease [IV, B].
+1640
+
+Unresectable locally advanced NSCLC
+ The consolidation administration of the ICI durvalumab
+within 1-42 days after the end of concurrent chemoradiotherapy has demonstrated a survival beneﬁt in unresectable stage III NSCLC and is recommended in patients
+whose disease has not progressed following platinumVolume 32
+
+-
+
+Issue 12
+
+-
+
+2021
+
+Annals of Oncology
+
+Letters to the editor
+
+Table 6. ESMO-MCBS table for new therapies/indications in early and
+locally advanced NSCLC
+Therapy
+
+Durvalumab
+
+Disease setting Consolidation therapy in patients with stage III NSCLC who
+did not have disease progression after 2 cycles of
+platinum-based CRT
+Trial
+A study of durvalumab as consolidation therapy in patients
+with locally advanced, unresectable NSCLC (stage III) who
+have not progressed following deﬁnitive, platinum-based,
+concurrent chemoradiation therapy (PACIFIC)10-14
+Phase III
+NCT02125461
+Control
+Placebo
+(median)
+PFS ITT across all PD-L1 categories control: 5.6 months
+OS control: 29.1 months
+2-year OS control: 55.3%
+4-year OS control: 36.3%
+Absolute
+PFS ITT across all PD-L1 categories gain: 11.6 months
+survival gain
+OS gain: 18.4 months
+2-year OS gain: 11%
+4-year OS gain: 13.3%
+HR (95% Cl)
+PFS HR: 0.55 (0.44-0.67)
+OS HR: 0.71 (0.57-0.88)
+QoL/toxicity
+No beneﬁt observed
+4b (Form 2a)
+ESMO-MCBS
+scorea
+Osimertinib e 3 years
+
+Therapy
+
+Disease setting Adjuvant treatment after tumour resection EGFR exon 19
+deletions or exon 21 (L858R) mutation
+Trial
+A study of osimertinib versus placebo in patients with
+EGFR mutation positive stage IB-IIIA NSCLC following
+complete tumour resection with or without adjuvant
+chemotherapy (ADAURA)15
+Phase III
+NCT02511106
+Control
+Placebo
+(median)
+2-year DFS control: 52%d
+Absolute
+2-year DFS gain: 37%d
+survival gain
+HR (95% Cl)
+DFS HR: 0.20 (0.14-0.30)c,d
+QoL/toxicity
+ESMO-MCBS
+Ad (Form 1)
+scorea
+CI, conﬁdence interval; CRT, chemoradiotherapy; DFS, disease-free survival; EGFR,
+epidermal growth factor receptor; EMA, European Medicines Agency; ESMO-MCBS,
+European Society for Medical Oncology-Magnitude of Clinical Beneﬁt Scale; FDA,
+Food and Drug Administration; HR, hazard ratio; ITT, intention to treat; NSCLC, nonsmall-cell lung cancer; OS, overall survival; PD-L1, programmed death-ligand 1; PFS,
+progression-free survival; QoL, quality of life.
+a
+ESMO-MCBS v1.1.15 The scores have been calculated by the ESMO-MCBS Working
+Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/
+guidelines/esmo-mcbs/scale-evaluation-forms-v1.0-v1.1/scale-evaluation-forms-v1.1).
+b
+EMA approval is limited to PD-L1 >1%, based on post hoc subgroup analysis
+indicating lack of beneﬁt for patients with PD-L1 <1%13; FDA approval is based on
+ITT and is irrespective of PD-L1.
+c
+HR with 99.12% CI.
+d
+Approval was based on all patient data (including stage Ib), which was a secondary
+outcome (statistically signiﬁcant after hierarchical testing).
+
+based chemoradiotherapy [I, A] in the intention-to-treat
+population across all PD-L1 categories and in patients
+whose tumours express PD-L1 on tumour cells (as per the
+EMA-approved indication) [I, A; ESMO-MCBS v1.1 score: 4].
+
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND
+SURVIVORSHIP
+The original recommendations are updated.
+Volume 32
+
+-
+
+Issue 12
+
+-
+
+2021
+
+Recommendations
+ NSCLC patients treated with radical intent should be
+followed for treatment-related complications, detection of treatable relapse or occurrence of second primary lung cancer. Multidisciplinary team assessment is
+required for feasibility check for treatment of locoregional relapse [III, A].
+ Surveillance every 6 months for 2 years with a visit
+including history, physical examination and contrastenhanced volume chest and abdominal CT scan at least
+at 12 and 24 months is recommended, with optional
+[18F]2-ﬂuoro-2-deoxy-D-glucose-PET if required, and
+thereafter an annual visit including history, physical examination and chest/upper abdominal CT scan in order
+to detect second primary tumours [III, B].
+J. Remon1,y, J.-C. Soria2,y & S. Peters,3 on behalf of the
+ESMO Guidelines Committee*
+1
+
+Department of Medical Oncology, Centro Integral
+Oncológico Clara Campal (HM-CIOCC),
+Hospital HM Nou Delfos, HM Hospitales,
+Barcelona, Spain;
+2
+University Paris-Saclay and Gustave Roussy Cancer
+Campus, Villejuif, France;
+3
+Department of Oncology, Centre Hospitalier Universitaire
+Vaudois, Lausanne University, Lausanne, Switzerland
+(*E-mail: clinicalguidelines@esmo.org).
+yThese authors contributed equally.
+Available online 1 September 2021
+© 2021 European Society for Medical Oncology. Published
+by Elsevier Ltd. All rights reserved.
+https://doi.org/10.1016/j.annonc.2021.08.1994
+
+ACKNOWLEDGEMENTS
+The ESMO Guidelines Committee acknowledges and thanks
+the following people who have acted as reviewers for this
+update: Rolf Stahel (ESMO Guidelines Steering Committee)
+and Marina Garassino (ESMO Faculty, metastatic NSCLC).
+George Pentheroudakis (Chief Medical Ofﬁcer of ESMO)
+provided coordination and writing support. Catherine
+Evans, Richard Lutz and Jennifer Lamarre (ESMO staff)
+provided editing support. Nathan Cherny, Chair of the
+ESMO-MCBS Working Group, Urani Dafni ESMO-MCBS
+Working Group Member/Frontier Science Foundation Hellas and Giota Zygoura of Frontier Science Foundation Hellas
+provided review and validation of the ESMO-MCBS scores.
+Nicola Latino (ESMO Scientiﬁc Affairs staff) provided coordination and support of the ESMO-MCBS scores and Angela
+Corstorphine of Kstorﬁn Medical Communications Ltd.
+provided medical writing and editing support in the preparation of the ESMO-MCBS table; this support was funded
+by ESMO.
+1641
+
+Annals of Oncology
+FUNDING
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURE
+JCS reports that he is on the Board of directors for Hookipa
+Pharma, a former full-time employee of AstraZeneca from
+September 2017 to December 2019 and has shares in Relay
+Therapeutics and Gritstone Bio. JR reports receipt of honoraria to institute for consultancy, advisory boards and/or
+lectures from AstraZeneca, Bristol Myers Squibb (BMS),
+Boehringer Ingelheim, Merck Sharp & Dohme (MSD), OSEImmunotherapeutics, Pﬁzer, Roche. SP reports consultation/advisory roles for AbbVie, Amgen, AstraZeneca, Bayer,
+BeiGene, Biocartis, BioInvent, Blueprint Medicines, Boehringer Ingelheim, BMS, Clovis, Daiichi Sankyo, Debiopharm,
+Eli Lilly, Elsevier, F. Hoffmann-La Roche/Genentech, Foundation Medicine, Illumina, Incyte, IQVIA, Janssen, Medscape,
+MSD, Merck Serono, Merrimack, Mirati, Novartis, PharmaMar, Phosplatin Therapeutics, Pﬁzer, Regeneron, Sanoﬁ,
+Seattle Genetics, Takeda, Vaccibody; talk in a company’s
+organised public event: AstraZeneca, Boehringer Ingelheim,
+BMS, e-cancer, Eli Lilly, F. Hoffmann-La Roche/Genentech,
+Illumina, Medscape, MSD, Novartis, PER, Pﬁzer, Prime, RTP,
+Sanoﬁ, Takeda; receipt of grants/research support as (sub)
+investigator in trials (institutional ﬁnancial support for clinical
+trials) sponsored by Amgen, AstraZeneca, Biodesix, Boehringer Ingelheim, BMS, Clovis, F. Hoffmann-La Roche/Genentech, GlaxoSmithKline, Illumina, Lilly, MSD, Merck Serono,
+Mirati, Novartis, Pﬁzer, Phosplatin Therapeutics.
+
+Letters to the editor
+7. Le Pechoux C, Poural N, Barlesi F, et al. LBA3_PR An international
+randomized trial, comparing post-operative conformal radiotherapy
+(PORT) to no PORT, in patients with completely resected non-small cell
+lung cancer (NSCLC) and mediastinal N2 involvement: primary endpoint analysis of lungART (IFCT-0503, UK NCRI, SAKK) NCT00410683.
+Ann Oncol. 2020;31:S1178.
+8. Spigel DR, Faivre-Finn C, Gray JE, et al. Five-year survival outcomes
+with durvalumab after chemoradiotherapy in unresectable stage III
+NSCLC: an update from the PACIFIC trial. J Clin Oncol. 2021;39(suppl
+15):8511.
+9. Peters S, Dafni U, Boyer M, et al. Position of a panel of international lung
+cancer experts on the approval decision for use of durvalumab in stage
+III non-small-cell lung cancer (NSCLC) by the Committee for Medicinal
+Products for Human Use (CHMP). Ann Oncol. 2019;30(2):161-165.
+10. Antonia SJ, Villegas A, Daniel D, et al. Durvalumab after chemoradiotherapy in stage III non-small-cell lung cancer. N Engl J Med.
+2017;377(20):1919-1929.
+11. Antonia SJ, Villegas A, Daniel D, et al. Overall survival with durvalumab
+after chemoradiotherapy in stage III NSCLC. N Engl J Med.
+2018;379(24):2342-2350.
+12. Hui R, Ozguroglu M, Villegas A, et al. Patient-reported outcomes with
+durvalumab after chemoradiotherapy in stage III, unresectable nonsmall-cell lung cancer (PACIFIC): a randomised, controlled, phase 3
+study. Lancet Oncol. 2019;20(12):1670-1680.
+13. Gray JE, Villegas A, Daniel D, et al. Three-year overall survival with
+durvalumab after chemoradiotherapy in stage III NSCLC-update from
+PACIFIC. J Thorac Oncol. 2020;15(2):288-293.
+14. Faivre-Finn C, Vicente D, Kurata T, et al. Four-year survival with durvalumab after chemoradiotherapy in stage III NSCLC-an update from
+the PACIFIC trial. J Thorac Oncol. 2021;16(5):860-867.
+15. Cherny NI, Dafni U, Bogaerts J, et al. ESMO-Magnitude of Clinical
+Beneﬁt Scale version 1.1. Ann Oncol. 2017;28(10):2340-2366.
+
+Detection of additional occult malignancy through
+proﬁling of ctDNA in late-stage cancer patients
+
+REFERENCES
+1. Postmus PE, Kerr KM, Oudkerk M, et al. Early and locally advanced
+non-small-cell lung cancer (NSCLC): ESMO Clinical Practice Guidelines
+for diagnosis, treatment and follow-up. Ann Oncol. 2017;28(suppl 4):
+iv1-iv21.
+2. De Leyn P, Dooms C, Kuzdzal J, et al. Revised ESTS guidelines for
+preoperative mediastinal lymph node staging for non-small-cell lung
+cancer. Eur J Cardiothorac Surg. 2014;45(5):787-798.
+3. Wu YL, Tsuboi M, He J, et al. Osimertinib in resected EGFR-mutated
+non-small-cell lung cancer. N Engl J Med. 2020;383(18):1711-1723.
+4. Herbst RS, Tsuboi M, John T, et al. Osimertinib as adjuvant therapy in
+patients (pts) with stage IBeIIIA EGFR mutation positive (EGFRm)
+NSCLC after complete tumor resection: ADAURA. J Clin Oncol.
+2020;38(suppl 18):LBA5.
+5. Felip E, Altorki N, Zhou C, Cs}
+oszi T, Vynnychenko I, Goloborodko O,
+Luft A, Akopov A, Martinez-Marti A, Kenmotsu H, Chen YM, Chella A,
+Sugawara S, Voong D, Wu F, Yi J, Deng Y, McCleland M, Bennett E,
+Gitlitz B, Wakelee H. IMpower010 Investigators. Adjuvant atezolizumab
+after adjuvant chemotherapy in resected stage IB-IIIA non-small-cell
+lung cancer (IMpower010): a randomised, multicentre, open-label,
+phase 3 trial. Lancet. 2021 Sep 17;S0140-6736(21)02098-5. https://doi.
+org/10.1016/S0140-6736(21)02098-5. Epub ahead of print. Erratum in:
+Lancet. 2021 Sep 23; PMID: 34555333.
+6. Forde PM, Spicer J, Lu S, et al. Nivolumab (NIVO) þ platinum-doublet
+chemotherapy (chemo) vs chemo as neoadjuvant treatment (tx) for
+resectable (IB-IIIA) non-small cell lung cancer (NSCLC) in the phase 3
+CheckMate 816 trial [abstract]. Proceedings of the 112th Annual
+Meeting of the American Association for Cancer Research. 2021 April
+10-15. Philadelphia (PA): AACR; 2021. Abstract nr CT003.
+
+1642
+
+Next-generation sequencing (NGS) of circulating tumor DNA
+(ctDNA) is an increasingly used method for the genomic
+proﬁling of cancer. This approach has several advantages in
+comparison with NGS of tissue biopsies: non-invasive, easily
+accessible, and representative of the entire tumor burden
+present within the patient.1 ctDNA assays may also detect
+genetic aberrations arising from other sources, such as alterations of clonal hematopoiesis of indeterminate origin (CHIP).2
+Here, we report three cases of patients who underwent
+genomic proﬁling of cancer by NGS of ctDNA and for whom
+the analysis of the results allowed the detection of an
+additional occult malignancy.
+From December 2020 to June 2021, 1086 patients underwent NGS of ctDNA by using the FoundationOne® Liquid
+Assay3 at Gustave Roussy (Villejuif, France). Five (0.46%) of
+them had a suspicion of a second cancer based on the
+analysis of ctDNA sequencing. Three of them underwent
+further investigations which conﬁrmed the presence of a
+second malignancy and are presented below.
+CASE 1
+Patient #1 was a 73-year-old Caucasian male who presented
+in February 2020 with thoracic pain. Diagnostic work-up
+Volume 32
+
+-
+
+Issue 12
+
+-
+
+2021
+
+

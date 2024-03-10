@@ -1,0 +1,2067 @@
+Annals of Oncology 30: 1884–1901, 2019
+doi:10.1093/annonc/mdz411
+Published online 30 September 2019
+
+SPECIAL ARTICLE
+
+Cutaneous melanoma: ESMO Clinical Practice
+Guidelines for diagnosis, treatment and follow-up†
+O. Michielin1, A. C. J. van Akkooi2, P. A. Ascierto3, R. Dummer4 & U. Keilholz5, on behalf of the ESMO
+Guidelines Committee*
+1
+Department of Oncology, University Hospital Lausanne, Lausanne, Switzerland; 2Department of Surgical Oncology, Netherlands Cancer Institute – Antoni van
+Leeuwenhoek Hospital, Amsterdam, The Netherlands; 3Istituto Nazionale Tumori IRCCS Fondazione “G. Pascale”, Napoli, Italy; 4Department of Dermatology, Skin
+Cancer Centre, University Hospital Zürich, Zürich, Switzerland; 5Charité Comprehensive Cancer Centre, Charité-Universitätsmedizin Berlin, Berlin, Germany
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, CH-6900 Lugano, Switzerland; E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Committee: February 2002, last update September 2019.
+
+This publication supersedes the previously published version—Ann Oncol 2015; 26 (Suppl 5): v126-v132.
+
+Key words: cutaneous melanoma, clinical practice guidelines, diagnosis, treatment, follow-up
+
+Incidence and epidemiology
+The European annual incidence of malignant melanoma varies
+from 3–5/100 000 in Mediterranean countries to 12–35/100 000
+in Nordic countries, whereas it can reach over 50/100 000 in
+Australia or New Zealand. The incidence of melanoma has been
+rising steadily over the last 40 years, with a trend towards stabilisation of mortality, except in elderly males [1]. Melanoma incidence peaks at 65 years, though any age can be affected [2]. There
+is an increase in the mortality-to-incidence ratios in Eastern compared with Western European countries, suggesting a need to improve prevention and early detection in Eastern Europe [3].
+Ultraviolet (UV) irradiation was identified as a major carcinogen involved in melanoma genesis. UV irradiation is associated
+with a distinct DNA damage signature and a high rate of mutations per megabase (Mb) [4]. The best prevention is physical protection with adapted garments. In a randomised trial, prevention
+of UV exposure including the regular use of sunscreen has been
+shown to diminish the incidence of primary cutaneous melanomas in an Australian population [5].
+
+Diagnosis and pathology/molecular biology
+Diagnosis
+Suspicious pigmented lesions are usually clinically analysed with
+the ‘ugly duckling’ concept and the ‘ABCD’ rule [6]: Asymmetry,
+
+Border irregularities, Colour heterogeneity, Dynamics, (Dyna
+mics or evolution in colours, elevation or size). Today, many primary melanomas have a diameter of <5 mm [7]. Dynamics (or
+evolution) is a very important criterion because it can also help to
+identify rapidly growing amelanotic melanomas in educated
+patients.
+The ‘ugly duckling’ concept helps to identify melanomas,
+because naevi in the same individual tend to resemble one another and melanomas often do not fit the individuals naevus pattern [8].
+Dermoscopy by an experienced physician enhances the diagnostic accuracy [II, B] [9]. An automated videodermoscopy system can provide improved diagnostic accuracy for patients with
+multiple atypical naevi in the follow-up. Full body imaging with
+high-resolution pictures has also shown to improve early detection [10].
+Machine-learning algorithms trained on either standard or
+dermatoscopic images have been shown to correctly diagnose
+pigmented skin lesions, with a success rate comparable to that of
+a panel of 21 board-certified dermatologists; though early results
+are very promising, their use in clinical practice remains to be
+evaluated [11]. The use of patient-operated diagnostic devices
+without medical supervision is presently not recommended.
+Diagnosis should be based on a full thickness excisional biopsy
+with a minimal side margin [V, A]. Processing of the primary tumour according to international guidelines and by an experienced pathology institute is mandatory.
+
+C The Author(s) 2019. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+V
+
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+Annals of Oncology
+The histology report should follow the eighth edition of the
+American Joint Committee on Cancer (AJCC) tumour, node,
+metastasis (TNM) classification and include: the maximum
+thickness in millimetres (Breslow) reported to the nearest
+0.1 mm (rounding up starting at 0.05), presence of ulceration and
+clearance of the surgical margins [II, A] [12]. Although no longer
+included in the eighth edition of the AJCC classification, mitotic
+rate and regression assessment and recording is recommended
+for all tumour thickness categories due to its important prognostic determinant when evaluated using its dynamic range across all
+melanomas [12].
+Information on anatomical site (including extra-cutaneous
+sites, such as mucosa, conjunctiva) and degree of sun damage of
+the surrounding skin is necessary. It should also include the melanoma type [superficial spreading melanoma, lentigo maligna
+melanoma (LMM), acral lentiginous melanoma, nodular melanoma, and others]. In rare situations, melanomas may derive from
+dermal melanocytes (melanoma arising from giant congenital
+naevus, malignant blue naevus and spitzoid lesions), which
+should be reported as well [13]. Atypical spitzoid tumours should
+be distinguished from spitzoid melanoma as they do not have a
+metastatic potential. In these melanomas, the prognostic relevance of tumour thickness and sentinel lymph node (SN) involvement is questionable.
+
+Special article
+of mutations per Mb can be assessed and recorded [IV, C],
+though its clinical use is not warranted at this time [16].
+
+Staging and risk assessment
+Staging and risk assessment procedures are determined by disease
+presentation at diagnosis.
+Physical examination with special attention to any suspicious
+pigmented lesions, tumour satellites, in-transit metastases
+(ITM), regional lymph node (LN) and systemic metastases is
+mandatory.
+In low-risk melanomas (pT1a), no additional investigations
+are necessary. In the other T stages, pT1b-pT4b, ultrasound (US)
+for locoregional LN metastasis, and/or computed tomography
+(CT) or positron emission tomography (PET) scans as well as
+brain magnetic resonance imaging (MRI), represent options for
+tumour extension assessment before surgical treatment and SN
+biopsy (SNB). Brain MRI and PET-CT/CT scan should
+be applied only for very high-risk patients (pT3b and higher
+[III, C]).
+The eighth version of the AJCC staging and classification system, which includes SN staging, is the preferred classification system (Table 1) [12].
+
+Molecular characterisation
+Mutation testing for actionable mutations is mandatory in
+patients with resectable or unresectable stage III or stage IV [I, A],
+and is highly recommended in high-risk resected disease stage
+IIC but not for stage I or stage IIA–IIB. BRAF testing is mandatory [I, A]. If the tumour is BRAF wild-type (WT) at the V600
+locus (class I BRAF mutant) sequencing the loci of the other
+known minor BRAF mutations (class II and class III BRAF mutant) to confirm WT status and testing for NRAS and c-kit mutations are recommended [II, C] [14]. Although no good targeted
+therapies options exist for these drivers at the moment, they are
+important to identify for future opportunities and to select
+patients for clinical trials. Alternatively, a clinically validated
+next-generation sequencing panel covering all key oncogenic
+drivers is increasingly being carried out. As drivers are actionable
+and can impact clinical decision, mutation analysis must be carried out in accredited (certified) institutes that have careful quality controls.
+The main melanoma subtypes are associated with different
+mutational landscapes: frequently mutated genes include [15]:
+•
+•
+•
+
+BRAF, CDKN2A, NRAS and TP53 in cutaneous melanoma,
+BRAF, NRAS, NF1 and KIT in acral melanoma (though with
+lower frequencies than in cutaneous melanoma),
+SF3B1 in mucosal melanoma.
+
+In addition to the mutational status, programmed deathligand 1 (PD-L1) expression, reported as the percentage of
+positive tumour cells, can be useful to assess and record for all
+resectable or unresectable stage III and IV [I, B], though its
+clinical use is very limited at this time (see below). Tumour
+mutational burden (TMB) computed on full exome sequencing or on a large full length panel and expressed as the number
+
+Management of local/locoregional disease
+Treatment of localised disease (primary tumours)
+Wide local excision (WLE) of primary tumours with safety margins of 0.5 cm for in situ melanomas, 1 cm for tumours with a
+thickness of up to 2 mm and 2 cm for thicker tumours, is recommended [II, B] (Table 2) [17]. Modifications, with reduced safety
+margins, are acceptable for preservation of function in acral
+and facial melanomas and can be carried out with Slow Mohs
+technique, although prospective randomised trials are missing
+[18, 19].
+For lentigo maligna, radiotherapy (RT) can be curative and
+represents an option to avoid unacceptable surgery [20].
+Definitive RT to the primary tumour is only considered in (rare)
+palliative cases, when excision is not possible either due to severe
+comorbidities of the patient (i.e. very old age, end-stage cardiovascular disease etc.) or when the morbidity of the excision is
+considered too great (i.e. extreme patient delay with a huge nonresectable local disease). RT is not curative in these settings.
+
+Treatment of locoregional disease
+A locoregional disease treatment algorithm is provided in
+Figure 1.
+Elective lymph node dissection or primary elective irradiation
+to the regional LNs should not be carried out [II, B] [21–24].
+Again, definitive irradiation can be considered in (rare) palliative
+cases.
+SNB is recommended for precise staging in melanoma of AJCC
+eighth edition stage pT1b or higher, i.e. with a tumour thickness
+
+doi:10.1093/annonc/mdz411 | 1885
+
+Special article
+
+Annals of Oncology
+
+Table 1. AJCC TNM eighth edition staging system of melanoma [12]
+T—primary tumour
+T category
+
+Thickness
+
+Ulceration status
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Not applicable
+1.0 mm
+<0.8 mm
+<0.8 mm
+0.8–1.0 mm
+>1.0–2.0 mm
+>1.0–2.0 mm
+>1.0–2.0 mm
+>2.0–4.0 mm
+>2.0–4.0 mm
+>2.0–4.0 mm
+>4.0 mm
+>4.0 mm
+>4.0 mm
+
+Not applicable
+Unknown or unspeciﬁed
+Without ulceration
+With ulceration
+With or without ulceration
+Unknown or unspeciﬁed
+Without ulceration
+With ulceration
+Unknown or unspeciﬁed
+Without ulceration
+With ulceration
+Unknown or unspeciﬁed
+Without ulceration
+With ulceration
+
+M categorya
+
+Anatomic site
+
+LDH level
+
+M0
+M1
+M1a
+
+No evidence of distant metastasis
+Evidence of distant metastasis
+Distant metastasis to skin, soft tissue including muscle and/or nonregional lymph
+node
+
+Not applicable
+See below
+Not recorded or unspeciﬁed
+
+TX
+
+Primary tumour thickness cannot be
+assessed (e.g. diagnosis by
+curettage)
+No evidence of primary tumour (e.g.
+unknown primary or completely
+regressed melanoma)
+
+T0
+
+Tis (melanoma in situ)
+T1
+T1a
+T1b
+T2
+T2a
+T2b
+T3
+T3a
+T3b
+T4
+T4a
+T4b
+M—metastasis
+
+M1a(0)
+M1a(1)
+M1b
+
+Distant metastasis to lung with or without
+M1a sites of disease
+
+M1b(0)
+M1b(1)
+M1c
+
+Distant metastasis to non-CNS visceral sites
+with or without M1a or M1b sites of
+disease
+
+M1c(0)
+M1c(1)
+M1d
+
+Distant metastasis to CNS with or without
+M1a, M1b or M1c sites of disease
+
+M1d(0)
+M1d(1)
+
+Not elevated
+Elevated
+Not recorded or unspeciﬁed
+Not elevated
+Elevated
+Not recorded or unspeciﬁed
+
+Not elevated
+Elevated
+Not recorded or unspeciﬁed
+Not elevated
+Elevated
+
+T
+
+N
+
+M
+
+Pathological stage group
+
+Tis
+T1a
+T1b
+T2a
+T2b
+T3a
+T3b
+T4a
+T4b
+
+N0b
+N0
+N0
+N0
+N0
+N0
+N0
+N0
+N0
+
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+
+0
+IA
+IA
+IB
+IIA
+IIA
+IIB
+IIB
+IIC
+Continued
+
+1886 | Michielin et al.
+
+Special article
+
+Annals of Oncology
+Table 1. Continued
+T
+
+N
+
+M
+
+Pathological stage group
+
+T0
+T0
+T1a/b–T2a
+T1a/b–T2a
+T2b/T3a
+T1a–T3a
+T3b/T4a
+T4b
+T4b
+Any T, Tis
+
+N1b, N1c
+N2b, N2c, N3b or N3c
+N1a or N2a
+N1b/c or N2b
+N1a–N2b
+N2c or N3a/b/c
+Any N N1
+N1a–N2c
+N3a/b/c
+Any N
+
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M1
+
+IIIB
+IIIC
+IIIA
+IIIB
+IIIB
+IIIC
+IIIC
+IIIC
+IIID
+IV
+
+a
+
+Sufﬁxes for M category: (0) LDH not elevated, (1) LDH elevated. No sufﬁx is used if LDH is not recorded or is unspeciﬁed.
+Pathological stage 0 (melanoma in situ) and T1 do not require pathological evaluation of lymph nodes to complete pathological staging; use clinical N information to assign their pathological stage.
+AJCC, American Joint Committee on Cancer; CNS, central nervous system; LDH, lactate dehydrogenase; TNM, tumour, node, metastasis.
+Reprinted from [12] with permission.
+
+b
+
+•
+
+Table 2. Local excision margins [17]
+Wide local excision margins according to Breslow (pT1a-pT4b Nx
+M0)
+
+•
+•
+
+Tumour thickness
+(Breslow) in mm
+
+Excision
+margin (cm)
+
+Melanoma in situ (pTis N0 M0)
+2 mm (pT1a-pT2 N0 M0)
+>2 mm (pT3a-pT4b N0 M0)
+
+0.5
+1
+2
+
+Reprinted from [17] with permission from Elsevier Ltd.
+
+>0.8 mm or with a tumour thickness of <0.8 mm with ulceration
+[II, B] [25]. SNB is not recommended for pT1a melanomas [26].
+In the Multicentre Selective Lympadenectomy Trial I (MSLTI), there was no significant treatment-related difference between
+WLE/SN versus WLE/nodal observation in the 10-year follow-up
+melanoma-specific survival rate in patients with intermediatethickness melanomas and thick primary melanomas [27]. A
+criticised subgroup analysis seemed to show a significant benefit
+for the node-positive patients in the SN arm compared with the
+node-positive patients in the observation arm. However, any falsepositive negative patients or false-positive SN results were not
+taken into account. Another statistical method was developed on
+the interim data but was not externally validated [28, 29]. In summary, the MSLT-I validated the staging potential of SNB but did
+not show any unequivocal survival benefit for this procedure. SNB
+should therefore not be considered as a therapeutic procedure.
+SNB should be carried out only in experienced centres [30].
+Quality criteria for centres performing SNB include the
+following [31]:
+
+•
+•
+•
+
+Review and comparison of primary histology with SNB is recommended in difﬁcult cases.
+Histology evaluation of the SNB according to cell morphology and immune proﬁle of the primary.
+SNB procedure carried out simultaneously with the safety
+margins re-excision of the primary to avoid lymph drainage
+modiﬁcations.
+SNB and re-excision carried out by an experienced surgical
+team.
+Marking of the scar during the consultation, preferably with
+photo documentation.
+Single-photon emission CT (SPECT) imaging in cases of unclear sentinel LN localisation.
+
+SN tumour burden has been assessed in different ways, and all
+different measures conclude that it adds to the accuracy of the
+prognosis [32, 33]. The most used and best reproducible method
+between pathologists has been the maximum diameter of the
+largest lesion (MDLL) according to the Rotterdam Criteria,
+which the European Organisation for Research and Treatment of
+Cancer (EORTC) has validated and adopted [34–36]. An MDLL
+cut-off of 1 mm has been used for adjuvant therapy trials.
+Therefore, though not formally part of the AJCC eighth edition
+evaluation, it is recommended to record the EORTC/Rotterdam
+criteria in the reporting of SN tumour burden.
+Complete lymph node dissection (CLND) for SN-positive
+patients was the standard of care until very recently. Following
+the MSLT-I trial, both the MSLT-II and the German
+Dermatologic Cooperative Oncology Group-selective lymphadenectomy (DeCOG-SLT) trials analysed the benefit of performing
+routine CLND for SN-positive disease. Both studies reported no
+impact on survival for early CLND compared with nodal observation with periodic US of the SN-positive basin [37, 38]. CLND
+provides additional staging information, as 15%–20% of SNpositive patients have additional non-SN involvement. However,
+upstaging occurs even less frequently at 6% of cases. Therefore,
+
+doi:10.1093/annonc/mdz411 | 1887
+
+Special article
+considering the morbidity of routine CLND, this practice can no
+longer be recommended [I, E] [39–41].
+In the case of isolated locoregional clinically detectable
+(macroscopic, non-SN) LN metastases, therapeutic lymph node
+dissection is indicated [III, C]; removal of the tumour-bearing
+LN alone is insufficient [42].
+However, before undertaking additional aggressive local surgical treatments, a detailed staging investigation that includes highresolution imaging techniques such as PET, CT or MRI is necessary to exclude distant metastases [III, B] [6]. Evidence of distant
+metastatic spread will preclude surgery and qualify the patient for
+systemic therapy (see below).
+In-transit disease. Resectable satellite or ITM patients can be candidates for surgery, though the advent of highly effective systemic
+therapies is now challenging such an approach as it is associated
+with the risk of rapid progression, jeopardising the chances of
+long-term benefit from systemic therapies.
+Non-resectable satellite, ITM or inoperable primary tumours
+of the limbs, without additional metastases, may be treated with
+isolated limb perfusion using melphalan and/or tumour necrosis
+factor alpha [III, C]. Alternatively, talimogene laherparepvec (TVEC) has shown an improved durable response rate compared
+with subcutaneous granulocyte-macrophage colony-stimulating
+factor, especially in stage IIIB/C, IVM1a (AJCC seventh edition
+[43]) melanoma patients [44] [I, B]. These local procedures
+should be carefully weighed against systemic treatment, in order
+not to lower their chances in providing long-term benefit.
+Such local treatments either require major surgery or experience using oncolytic viruses and should therefore be restricted to
+experienced centres. Since their efficacy data are less established,
+RT, electrochemotherapy, carbon dioxide (CO2) laser or other
+intralesional therapy may also be proposed within clinical trials
+[V, D] [16, 45–47].
+Adjuvant RT. Adjuvant RT for local tumour control can be considered in cases of inadequate resection margins of LMM, in R1
+resections (microscopic tumour at the margin) of melanoma
+metastases (only when second surgery is not adequate) or after resection of bulky disease [III, B] [48]. A prospective randomised
+trial has demonstrated that adjuvant irradiation after LN dissection reduces the risk for relapse in the irradiation field by 50%,
+but has no impact on recurrence-free survival (RFS) and overall
+survival (OS) [46]. Since local control is rarely the therapeutic
+objective in melanoma, adjuvant RT can no longer routinely be
+recommended in the adjuvant setting [III, D]. It could still be discussed in specific cases where local control is critical, such as in
+head and neck melanoma.
+Adjuvant systemic therapy. Many well-designed clinical trials
+have investigated the impact of adjuvant therapy in patients with
+high-risk primary melanoma (stage IIB/C) or completely resected
+LN metastases (stage III).
+Interferon alpha. A number of prospective randomised trials
+have investigated adjuvant treatment with low, intermediate and
+high doses of interferon alpha (IFNa) [49, 50].
+A meta-analysis of 14 randomised controlled trials, investigating adjuvant IFNa therapy involving 8122 patients, showed
+
+1888 | Michielin et al.
+
+Annals of Oncology
+pT1b-T4b cN0 cM0 melanoma
+
+SNB
+
+Positivea
+
+Negative
+
+Standard follow-up
+
+Relapse
+
+CLND [III, C]
+
+No adjuvant criteria
+
+US-based follow-up
+
+Adjuvant criteriab
+
+Relapse
+
+CLND
+
+Adjuvant [I, A]
+
+Adjuvant [I, A]
+
+Figure 1. Treatment algorithm for stage I–III melanoma.
+a
+For positive SND patients, avoiding CLND is justiﬁed based on the
+results of the MSLT-II and DeCOG-SLT trials. The control arm of both
+MSLT-II and DeCOG-SLT trials is not standard observation, but USbased follow-up, which should be the strategy proposed to the patient [I, A].
+b
+Please refer to main text for a discussion on criteria to propose adjuvant treatment.
+CLND, complete lymph node dissection; DeCOG-SLT, Dermatologic
+Cooperative Oncology Group-selective lymphadenectomy; MSLT,
+multicentre selective lymphadenectomy; SNB, sentinel lymph node
+biopsy; SND, sentinel lymph node dissection; US, ultrasound.
+
+statistically significant absolute improvement in both disease-free
+survival (DFS) [hazard ratio (HR) 0.82] and OS (HR 0.89) [I, C],
+with no clear indication to specific dose or treatment duration
+and at the cost of significant toxicity [51].
+Considering the most recent developments in adjuvant therapy
+(see below), adjuvant IFNa can no longer be routinely proposed
+in the adjuvant setting. Its use might be confined to particular settings like patients with an ulcerated stage IIc primary [52] and
+where the approved new drugs are not accessible.
+Anti-cytotoxic T lymphocyte-associated antigen 4. Long-term
+therapy with ipilimumab, a monoclonal antibody blocking cytotoxic T lymphocyte-associated antigen 4 (CTLA-4) that promotes T cell priming against tumour cells, resulted in improved
+RFS (HR 0.75; median RFS 26.1 months versus 17.1 months, with
+3-year RFS rates of 46.5% versus 34.8%, P ¼ 0.0013) in the adjuvant setting compared with placebo in the EORTC 18071 trial
+[53]. The rate of OS at 5 years was 65.4% in the ipilimumab
+group, when compared with 54.4% in the placebo group (HR for
+death, 0.72; 95.1% CI 0.58–0.88; P ¼ 0.001). Contrary to results
+with IFNa, the benefit was also observed for N1b and higher
+stages. However, the treatment schedule at 10 mg/kg every
+3 weeks for four doses, then every 3 months for up to 3 years, was
+associated with a number of severe and some long-lasting adverse
+reactions, including colitis and endocrinopathies. Due to the toxicity profile of anti-CTLA-4, anti-programmed cell death protein
+
+Annals of Oncology
+1 (anti-PD-1) adjuvant therapy or dabrafenib/trametinib are the
+preferred treatment options [I, A] [54]. Ipilimumab has not been
+approved in the adjuvant setting in the EU by the European
+Medicines Agency (EMA).
+Anti-PD-1. Adjuvant anti-PD-1, nivolumab has very recently
+shown a significant RFS benefit for stage IIIB/C, IV (AJCC seventh edition; [43]) resected melanoma when compared with adjuvant high-dose ipilimumab, with an RFS HR of 0.66, 70% of
+patients free of relapse versus 60% at 12 months, 66% versus 53%
+at 18 months and 63% versus 50% at 24 months, respectively
+[55]. The RFS HR is very consistent across stage subgroups with
+0.68 for IIIB, 0.68 for IIIC and 0.66 for M1a/M1b [55]. Moreover,
+this adjuvant treatment with nivolumab had far fewer grade 3/4
+adverse events compared with the very toxic high-dose ipilimumab; 14.4% versus 45.9%, respectively [56].
+In addition, pembrolizumab has been evaluated against placebo for stage IIIA (SN >1 mm), B and C (without ITM) within
+the EORTC 1325 trial [57]. At a median follow-up of 15 months,
+pembrolizumab was associated with significantly longer RFS
+than placebo in the overall intention-to-treat population [1-year
+rate of RFS, 75.4% (95% CI 71.3–78.9) versus 61.0% (95% CI
+56.5–65.1); HR for recurrence or death, 0.57; 98.4% CI 0.43–0.74;
+P < 0.001)].
+OS data are not currently available for nivolumab or
+pembrolizumab.
+Based on these RFS data and despite the lack of OS data, the
+EMA approved nivolumab [I, A; ESMO-Magnitude of Clinical
+Benefit Scale (ESMO-MCBS) v1.1 score: A] and pembrolizumab
+[I, A; ESMO-MCBS v1.1 score: A] in the adjuvant setting in
+August and December 2018, respectively [see Table 3 (58–70)].
+Targeted therapy. Efficacy of adjuvant targeted therapy has also
+been recently reported. The BRIM8 study analysed vemurafenib
+monotherapy versus a placebo in stage IIC and stage III (AJCC
+seventh edition [43]) melanoma after complete surgical resection. The study did not meet its primary end point of DFS [71].
+Therefore, BRAF inhibitor (BRAFi) monotherapy cannot be recommended as adjuvant treatment for melanoma.
+The COMBI-AD study, however, analysed dabrafenib/trametinib combination therapy versus two placebos in fully resected
+high-risk stage IIIA (with LN metastasis diameter >1 mm), IIIB
+or IIIC melanoma (AJCC seventh edition [43]). This study
+showed a significantly improved estimated RFS of 58% versus
+39% at 3 years (HR for relapse or death, 0.47; 95% CI 0.39–0.58;
+P < 0.001), as well as a numerically improved OS of 86% versus
+77% (HR for death, 0.57; 95% CI 0.42–0.79; P ¼ 0.0006) [I, A]
+[62]. The P value for the OS HR (0.0006) reported by Long et al.
+[62] did not meet the prespecified boundary (0.000019). The
+combination of dabrafenib/trametinib is one of the standards of
+care for adjuvant BRAF-mutated melanoma and was approved
+by the EMA for adjuvant treatment for melanoma in August 2018
+[I, A; ESMO-MCBS v1.1 score: A] (see Table 3).
+Summary of recommendations in the adjuvant setting. Table 4
+summarises the results from key trials in the adjuvant setting.
+The data currently available establish both PD-1 blockade and
+dabrafenib/trametinib as recommended adjuvant treatments
+
+Special article
+options for stage IIIA (SN >1 mm), B and C for BRAF-mutated
+melanoma. Some of the current approvals include all stage III, regardless of SN deposit. Treatment decisions for stage IIIA SN
+<1 mm should be made on an individual basis, considering the
+exact prognosis of the patient. This decision process will be discussed in detail in the upcoming ‘ESMO Consensus Conference
+Recommendations on Melanoma’ publication.
+Additionally, results from CheckMate 238 suggest that nivolumab had benefits for stage IV no evidence of disease (NED) similar to those of stage III, making it a clear option for this patient
+population [56]. Combination of nivolumab plus ipilimumab
+has shown very promising clinical activity compared to nivolumab in stage IV patients rendered NED by surgery or radiotherapy [72] though with increased toxicity.
+The added toxicity and the lower efficacy of ipilimumab no
+longer warrants its use in the adjuvant setting.
+In BRAF WT patients, PD-1 blockade is the only recommended option.
+For BRAF-mutated melanoma, as there is no direct efficacy
+comparison between dabrafenib/trametinib versus PD-1 blockade, individual treatment decisions should be made with the patient, factoring in the toxicity profiles.
+Contrary to the initial EORTC 18071 ipilimumab trial, HRs for
+RFS are robust and consistent across the various subgroups for
+the PD-1 trial, EORTC 1325 and CheckMate 238, and the dabrafenib/trametinib trial, COMBI-AD [62]. This suggests that the
+benefit from PD-1 or dabrafenib/trametinib could be similar in
+lower, not yet evaluated, subgroups, such as some stage II.
+Indeed, the risk of relapse for SN-negative pT3b, pT4a and pT4b
+melanoma is quite high, with a mortality of 20% at 10-year
+follow-up [12]. Therefore, such patients should be considered a
+priority for adjuvant stage II clinical trials.
+
+Management of advanced/metastatic
+disease
+Surgical or ablative treatment of resectable
+stage IV
+Some stage IV patients present with a resectable, oligometastatic
+disease. Although the value of complete surgery or ablative
+radiosurgery in such a clinical setting has not been validated in
+phase III prospective studies, data from phase II are available
+[73]. Surgical removal or stereotactic irradiation of locoregional
+recurrence or single distant metastasis should be considered in fit
+patients, as a therapeutic option, offering potential for long-term
+disease control [III, C]. Surgery remains an option for selected
+patients, preferentially combined with adjuvant systemic therapies [see section on adjuvant systemic therapy].
+
+Systemic treatment of unresectable stage III and IV
+disease
+The therapeutic landscape of unresectable stage III and IV melanoma has been revolutionised by immunotherapies and targeted
+therapies. Both strategies have shown markedly improved survival compared with the use of chemotherapy (ChT) regimens.
+
+doi:10.1093/annonc/mdz411 | 1889
+
+1890 | Michielin et al.
+
+Trametinib with
+dabrafenib
+
+Ipilimumab
+
+Cobimetinib with
+vemurafenib
+
+Nivolumab
+
+First-line advanced or
+metastatic
+melanoma
+
+Nivolumab with
+ipilimumab
+
+Trial
+
+Phase 3 Study of Nivolumab or
+Nivolumab Plus Ipilimumab
+Versus Ipilimumab Alone in
+Previously Untreated Advanced
+Melanoma (CheckMate 067)
+[58, 59]
+Phase III
+NCT01844505
+First-line advanced or Phase 3 Study of Nivolumab or
+metastatic
+Nivolumab Plus Ipilimumab
+melanoma
+Versus Ipilimumab Alone in
+Previously Untreated Advanced
+Melanoma (CheckMate 067)
+[58, 59]
+Phase III
+NCT01844505
+First-line unresectable A Study Comparing Vemurafenib
+Versus Vemurafenib Plus
+or metastatic melCobimetinib in Participants
+anoma with the
+With Metastatic Melanoma
+BRAF V600E
+[60]
+mutation
+Phase III
+NCT01689519
+Adjuvant stage III
+Efﬁcacy Study of Ipilimumab
+melanoma
+Versus Placebo to Prevent
+Recurrence After Complete
+Resection of High Risk Stage III
+Melanoma
+[53]
+Phase III
+NCT00636168
+First-line unresectable Dabrafenib Plus Trametinib vs
+Vemurafenib Alone in
+or metastatic melUnresectable or Metastatic
+anoma with the
+BRAF V600 mutation BRAF V600E/K Cutaneous
+Melanoma
+following complete
+[61]
+resection
+Phase III
+NCT01597908
+
+Disease setting
+
+Therapy
+
+Table 3. ESMO-MCBS table for new therapies/indications in melanomaa
+Absolute survival
+gain
+PFS gain: 8.6 months
+3-year OS gain: 24%
+
+PFS gain: 4 months
+OS gain: 17.7 months
+3-year OS gain: 18%
+
+PFS gain: 5.1 months
+OS gain: 4.9 months
+
+Primary outcome 5year DFS
+OS gain: 11%
+
+PFS gain: 4.1 months
+OS gain: 1-year survival 7%
+
+Control
+
+Ipilimumab
+PFS: 2.9 months
+OS: 19.9 months
+3-year OS: 34%
+
+Ipilimumab
+PFS: 2.9 months
+OS: 19.9 months
+3-year OS: 34%
+
+Vemurafenibþplacebo
+PFS: 7.2 months
+OS: 17.4 months
+
+Placebo
+OS: 54.40%
+
+Vemurafenib
+PFS: 7.3 months
+OS: 1-year survival 65%
+
+QoL/toxicity
+
+PFS HR: 0.56 (0.46–
+17% reduction skin
+0.69)
+cancer
+OS HR: 0.69 (0.53–0.89)
+
+OS HR: 0.76 (0.64–0.89)
+
+PFS HR: 0.58 (0.46–
+9% reduction skin
+0.72)
+cancer
+OS HR: 0.70 (0.55–0.90)
+
+PFS HR: 0.53 (0.44–
+0.64)
+OS HR: 0.65 (0.53–0.79)
+
+PFS HR: 0.42 (0.35–
+0.51)
+OS HR: 0.55 (0.44–0.68)
+
+HR (95% CI)
+
+Continued
+
+4 (Form 2b)
+
+A (Form 1)
+
+4 (Form 2a)
+
+4 (Form 2a)
+
+4 (Form 2a)
+
+ESMO-MCBS
+scoreb
+
+Special article
+Annals of Oncology
+
+Disease setting
+
+Trial
+
+Dabrafenib in combin- Adjuvant treatment of Dabrafenib With Trametinib in
+ation with trametinib
+melanoma after sur- the Adjuvant Treatment of
+gical resection with
+High-risk BRAF V600 MutationBRAF V600 mutation positive Melanoma (COMBI-AD)
+[62, 63]
+Phase III
+NCT01682083
+Trametinib as
+Unresectable or meta- GSK1120212 vs Chemotherapy in
+monotherapy
+static melanoma
+Advanced or Metastatic BRAF
+with a BRAF V600E/
+V600 E/K Mutation-positive
+K mutation
+Melanoma
+[64–67]
+Phase III
+NCT01245062
+Pembrolizumab
+Adjuvant treatment of Study of Pembrolizumab (MK3475) Versus Placebo After
+adults with stage III
+Complete Resection of Highmelanoma and
+Risk Stage III Melanoma (MKlymph node in3475-054/1325-MG/KEYNOTEvolvement after
+054)
+complete resection
+[57]
+Phase III
+NCT02362594
+Nivolumab
+Adult patients with
+Efﬁcacy Study of Nivolumab
+complete resection
+Compared to Ipilimumab in
+of stage IIIB/C or IV
+Prevention of Recurrence of
+melanoma
+Melanoma After Complete
+Resection of Stage IIIb/c or
+Stage IV Melanoma (CheckMate
+238)
+[56]
+Phase III
+NCT02388906
+
+Therapy
+
+Table 3. Continued
+
+PFS gain: 3.3 months
+
+RFS gain at 1 year:
+14.40%
+
+RFS gain at 1 year:
+9.7%
+
+Dacarbazine or paclitaxel
+PFS (crossover allowed):
+1.5 months
+
+Placebo
+RFS at 1 year: 61%
+
+Ipilimumab 10 mg/kg
+RFS at 1 year: 60.8%
+
+RFS HR: 0.66 (0.53–
+0.81)
+
+RFS HR: 0.57 (0.43–
+0.74)
+
+PFS HR: 0.45 (0.33–
+0.63)
+OS HR: not signiﬁcant
+
+RFS gain: 27.9 months RFS HR: 0.47 (0.39–
+3-year RFS gain: 19%
+0.58)
+
+Placebo
+RFS: 16.6 months
+3-year RFS: 39%
+
+HR (95% CI)
+
+Absolute survival
+gain
+
+Control
+
+A (Form 1)
+
+Continued
+
+4 (Form 2b)
+
+A (Form 1)
+
+ESMO-MCBS
+scoreb
+
+Fewer treatmentA (Form 1)
+related grade 3 or 4
+adverse events
+14.4% versus 45.9%
+
+QoL improved
+
+QoL/toxicity
+
+Annals of Oncology
+
+Special article
+
+doi:10.1093/annonc/mdz411 | 1891
+
+1892 | Michielin et al.
+
+Adult patients with
+unresectable or
+metastatic melanoma with the BRAF
+V600 mutation
+
+Binimetinib with
+encorafenib
+
+Control
+
+Study Comparing Combination of Vemurafenib
+PFS: 7.3 months
+LGX818 Plus MEK162 Versus
+OS: 16.9 months
+Vemurafenib and LGX818
+Monotherapy in BRAF Mutant
+Melanoma
+[68, 69]
+Phase III
+NCT01909453
+
+Trial
+
+PFS gain: 7.6 months
+OS gain: 16.7 months
+
+Absolute survival
+gain
+
+QoL/toxicity
+
+PFS HR: 0.51 (0.39–
+QoL not published as
+0.67)
+full paper
+OS HR: 0.61 (0.47–0.79)
+
+HR (95% CI)
+
+4 (Form 2a)
+
+ESMO-MCBS
+scoreb
+
+b
+
+EMA approvals since January 2016.
+ESMO-MCBS version 1.1 [70]. The scores have been calculated by the ESMO-MCBS Working Group and validated by the ESMO Guidelines Committee.
+CI, conﬁdence interval; DFS, disease-free survival; EMA, European Medicines Agency; HR, hazard ratio; ESMO-MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; OS, overall survival; PFS, progression-free survival;
+QoL, quality of life; RFS, recurrence-free survival.
+
+a
+
+Disease setting
+
+Therapy
+
+Table 3. Continued
+
+Special article
+Annals of Oncology
+
+Special article
+
+Annals of Oncology
+Table 4. Summary of stage subgroup eligibility criteria and RFS efﬁcacy data for adjuvant trials
+
+Stage—AJCC seventh edition (all patients NED)
+Study
+
+Design
+
+EORTC 18071 [53]
+
+IIC
+
+IIIA
+
+IIIB
+
+IIIC
+
+Ipilimumab 10 mg/kg versus placebo
+
+SN >1 mm
+HR 0.98
+
+HR 0.75
+
+HR 1.00, 1–3 LNs
+HR 0.48, 4 LNs
+
+EORTC 1325 [57]
+
+Pembrolizumab versus placebo
+
+SN >1 mm
+HR 0.38
+
+HR 0.58
+
+HR 0.58
+
+CheckMate 238 [55, 56]
+
+Ipilimumab 10 mg/kg versus nivolumab
+
+HR 0.68
+
+HR 0.68
+
+BRIM8 [71]
+
+Vemurafenib versus placebo
+
+SN >1 mm
+HR 0.52
+
+HR 0.63
+
+HR 0.8
+
+COMBI-AD [62]
+
+Dabrafenib/trametinib versus placebo
+
+SN >1 mm
+HR 0.44
+
+HR 0.50
+
+HR 0.45
+
+HR 0.0 NE
+
+IV
+
+HR 0.66 M1a, b
+HR 0.78 M1c
+
+Note: All trials including stage IIIA patients requested a minimum SN diameter of 1 mm. All stage III patients included in these trials had radical LN
+dissection.
+AJCC, American Joint Committee on Cancer; EORTC, European Organisation for Research and Treatment of Cancer; HR, hazard ratio; LN, lymph node; NE,
+not established; NED, no evidence of disease; RFS, recurrence-free survival; SN, sentinel node.
+
+Despite progress in treatment of advanced disease, many questions remain unanswered, and for the majority of melanoma
+patients, prognosis remains poor. Inclusion in clinical trials
+remains, therefore, the number one priority in all settings.
+Systemic treatment algorithms for stage IV are provided in
+Figures 2–4 (see also Table 5).
+First-line treatment. The current first-line standard of care treatments for unresectable stage III/IV are PD-1 blockade (nivolumab, pembrolizumab), PD-1 blockade (nivolumab) combined
+with CTLA-4 blockade (ipilimumab) and, in addition for BRAF
+V600-mutated melanoma [II, B], BRAF inhibition (vemurafenib,
+dabrafenib, encorafenib) combined with MEK inhibition (cobimetinib, trametinib, binimetinib) [60]. For unresectable stage
+IIIB/C, IVM1a (AJCC seventh edition [43]), talimogene laherparepvec (T-VEC) is also an option [I, B] (see ‘In-transit disease’
+section above).
+Superiority of nivolumab compared with dacarbazine (DTIC)
+ChT has been demonstrated for BRAF WT melanoma patients in
+the CheckMate 066, prospective, randomised, first-line trial, with
+an HR for death of 0.42; 99.79% CI 0.25–0.73; P < 0.001 and an
+HR for death or progression of disease of 0.43; 95% CI 0.34–0.56;
+P < 0.001 [I, A] [74]. Superiority of PD-1 (nivolumab, pembrolizumab) compared with ipilimumab has been shown in two prospective randomised trials, CheckMate 067 and KEYNOTE-006
+[58, 75]. CheckMate 067 has an HR for death for nivolumab versus ipilimumab of 0.65 (P < 0.001). KEYNOTE-006 has an HR
+for death for pembrolizumab q2w (10 mg/kg every 2 weeks) versus ipilimumab of 0.63 (P < 0.001) and an HR for pembrolizumab q3w (10 mg/kg every 3 weeks) versus ipilimumab of 0.69
+(P < 0.001) [58, 75]. Based on these trials, PD-1 blockade is now
+a standard of care for all patients, regardless of their BRAF status,
+in the first-line setting [I, A].
+
+Figure 2. Treatment algorithm for inoperable stage III and IV BRAF
+WT melanoma.
+a
+IO rechallenge can be ipilimumab if not given previously, nivolumab or pembrolizumab if another line of treatment was given after
+IO failure [II, B], or ipilimumab/nivolumab if not given previously [IV,
+B]. As described in the main text, treatment beyond progression
+might be an option for selected patients [IV, C].
+CTLA-4, cytotoxic T lymphocyte-associated antigen 4; IO, immunooncology; PD-1, programmed cell death protein 1; T-VEC, talimogene
+laherparepvec; WT, wild-type.
+
+The benefit of adding ipilimumab to nivolumab has been
+assessed in the CheckMate 067 study. The nivolumab and ipilimumab combination arm resulted in numerically higher response rates, response durations, time to subsequent therapies,
+progression-free survival (PFS) and OS [58]. These numerical
+differences are maintained in the 4-year survival update [59]. By
+study design, the two nivolumab-containing arms cannot be
+compared due to insufficient power. Despite all end points numerically favouring the combination, the OS gain appears limited
+
+doi:10.1093/annonc/mdz411 | 1893
+
+Special article
+
+Figure 3. Treatment algorithm for inoperable stage III and IV BRAFmutated melanoma.
+a
+IO rechallenge can be ipilimumab if not given previously, nivolumab or pembrolizumab if another line of treatment was given after
+IO failure [II, B], or ipilimumab/nivolumab again if not given previously [IV, B]. As described in the main text, treatment beyond progression might be an option for selected patients [IV, C].
+BRAFi, BRAF inhibitor; CTLA-4, cytotoxic T lymphocyte-associated
+antigen 4; IO, immuno-oncology; MEKi, MEK inhibitor; PD-1, programmed cell death protein 1; T-VEC, talimogene laherparepvec; TKI,
+tyrosine kinase inhibitor.
+
+and biomarkers are needed to better select patients that benefit
+from the combination. PD-L1 provides an imperfect biomarker.
+Indeed, receiver operating characteristic (ROC) curve analyses
+show that PD-L1 enriches only marginally the prediction compared with random assignment arguing for its limited value with
+an area under the curve (AUC) of only 0.56 (see supplementary
+Figure S1, available at Annals of Oncology online) [58].
+Some clinical parameters could provide interesting biomarkers
+to select patients with the highest benefit from the combination,
+including asymptomatic brain metastases (BMs) that demonstrate an improved PFS and >50% (10 out of 20) response rate
+with the combination compared with 21% (4 out of 19) for
+single-agent nivolumab in treatment-naive patients [II, A] [76],
+or elevated lactate dehydrogenase (LDH) with a PFS/OS HR of
+0.69/0.73 favouring the combination in patient with LDH >2
+upper limit of normal [58, 77], though evidence for the latter is
+weaker [III, B].
+Current treatment decisions are, therefore, based on several
+parameters and need to be individualised to the patient when
+selecting between nivolumab and the combination.
+In case of BRAF-mutated melanoma, additional first-line
+options are provided by BRAF and MEK inhibition. BRAF/MEK
+double inhibition is superior to single-agent BRAF in terms of response rates, PFS and OS [61, 78, 79]. In addition to improved
+
+1894 | Michielin et al.
+
+Annals of Oncology
+
+Figure 4. Treatment algorithm for inoperable stage III and IV NRASmutated melanoma.
+a
+IO rechallenge can be ipilimumab if not given previously, nivolumab or pembrolizumab if another line of treatment was given after
+IO failure [II, B], or ipilimumab/nivolumab again if not given previously [IV, B]. As described in the main text, treatment beyond progression might be an option for selected patients [IV, C].
+CTLA-4, cytotoxic T lymphocyte-associated antigen 4; IO, immunooncology; MEKi, MEK inhibitor; PD-1, programmed cell death protein
+1; T-VEC, talimogene laherparepvec.
+
+efficacy, skin-related side-effects are reduced with the combination, though MEK inhibition adds specific toxicities (e.g.
+muscle, heart, eye). Single-agent BRAFis should be used only in
+case of an absolute contraindication for MEK inhibitors
+(MEKis).
+First-line decision between targeted therapies or immunotherapies is currently being studied in prospective trials
+(SECOMBIT, NCT02631447) to define the best sequencing combination treatment in terms of OS, the primary efficacy variable.
+No direct randomised comparison exists between the two
+approaches, but meta-analyses suggest that, despite better outcome within the first 12 months for targeted therapies, immunotherapy patients may have a better survival after 1 year [68, 80,
+81]. Patients for whom immunotherapy can be delivered safely
+for the first few months, i.e. patients with tumours not progressing very quickly and not immediately threatening an important
+organ or function, should be considered for immunotherapy
+first, preserving targeted therapies for the subsequent lines.
+For NRAS-mutated melanoma, due to the limited efficacy of
+MEKis [82], first-line immunotherapy options identical to those
+of WT melanoma are the first choice (see Figure 4).
+For other drivers such as cKIT or NF1, targeted therapies are of
+limited activity and first-line immunotherapy options identical
+to those of WT melanoma are also the first choice. In second-line
+some specific c-Kit mutations suggest a treatment attempt with
+imatinib or nilotinib [83].
+Several simple clinical and laboratory parameters provide predictive and prognostic markers, like the Eastern Cooperative
+Oncology Group (ECOG) performance status (PS), LDH levels
+
+Special article
+
+Annals of Oncology
+and the number of metastatic sites. They are negative prognostic
+and predictive markers for both targeted and immunotherapies
+[84–86].
+
+Melanoma with asymptomatic brain metastases
+
+Optional SRSa
+
+Treatment beyond progression. Some retrospective data show
+that treatment beyond progression can be an option in selected
+patients both on targeted as well as on immunotherapies [87].
+Important biases are expected from these analyses as the decision
+to treat beyond progression is linked to patient’s overall status.
+No randomised data are available at this time.
+Second-line treatment. Standard-of-care second-line selection
+depends on the strategy used for the first-line and the mutational
+status of the disease. Clinical trials should always be considered
+when available.
+For BRAF WT disease, second-line options are very limited
+and inclusion in clinical trials and/or personalised approaches
+could be discussed. If the first-line treatment was anti-PD-1
+alone, ipilimumab is an option [II, B] as well as ipilimumab/nivolumab [IV, B] [88, 89]. In some cases, ChT with DTIC or temozolomide can be discussed as a bridging therapy.
+For BRAF-mutated disease, all the options available for WT
+melanoma are still valid with the addition of BRAFis/MEKis if
+not used in the first-line setting. BRAFis/MEKis should not be
+used too late in the course of the disease, as clinical parameters
+associated with disease progression, such as LDH, number of
+metastatic sites and ECOG PS represent strong negative predictive biomarkers [I, A] [85].
+In NRAS-mutated melanoma, MEKis have a limited activity,
+providing improved PFS with an mPFS of 2.8 months for binimetinib compared with 1.5 for dacarbazine (HR for PFS 0.62,
+P < 0.001) [82]. cKIT targeting has shown limited activity,
+though more recent and potent KIT inhibitors are being tested
+[83]. In the absence of positive phase III data, KIT inhibition
+remains an option in this molecular subgroup.
+Subsequent lines. Subsequent lines of therapy are not evidencebased at this time. Clinical trials or rechallenge, either with targeted or immunotherapies, can be an option [90] (see Figure 2).
+ChT with DTIC or temozolomide or other drugs remains an alternative for palliation or as a bridging therapy [II, C].
+
+Management of difficult clinical situations: BMs
+Management of BMs is particularly challenging, as brain involvement usually dictates a negative outcome for melanoma patients.
+Therefore, these patients need careful interdisciplinary care in
+specialised referral centres.
+Recent studies confirmed that the preferred systemic treatments, targeted therapies and immunotherapies, can be safely
+and efficiently applied in BM patients. Thus, four modalities have
+to be considered and applied depending on the individuals’
+needs: neurosurgery, stereotactic radiosurgery (SRS), targeted
+therapy with BRAFi/MEKi combination, as well as immunotherapies. Whole-brain RT (WBRT) should be avoided whenever
+possible for its lack of efficacy and long-term toxicities that can
+no longer be justified in the light of the new PFS milestones
+obtained by combination immunotherapies [91] (see below).
+The optimal sequence or combination of these modalities has not
+
+BRAF WT
+
+BRAF -mutated
+
+Anti-PD-1/ Anti-CTLA-4 [II, A]
+
+BRAFi/MEKi [I, A]
+
+Anti-PD-1/ Anti-CTLA-4 [II, A]
+
+Optional SRSb
+
+Follow-up therapies
+
+Figure 5. Treatment algorithm for asymptomatic brain metastases
+(BMs).
+This algorithm is restricted to asymptomatic BMs. In case of symptomatic BMs, strategies can be signiﬁcantly modiﬁed due to the use of steroids that can hamper the efﬁcacy of IO treatments or due to
+additional modalities like neuro-surgery. Such an algorithm should be
+adapted to the general condition of the patient, e.g. progressing visceral metastasis requiring systemic treatment adaptation, or previous
+lines of treatment, e.g. patients developing BMs during adjuvant treatment and where a change of systemic treatment might be warranted.
+a
+For patients with small number of asymptomatic metastases (<5–
+10), non-bulky disease (<3 cm), SRS up front is an option. Other
+patients should be considered for systemic treatment ﬁrst, keeping
+SRS for the treatment of non-responding lesions.
+b
+For patients failing systemic treatment, SRS could be considered as a
+salvage therapy if the total number of progressing lesions is <5–10
+and their maximal size <3 cm.
+BRAFi, BRAF inhibitor; CTLA-4, cytotoxic T lymphocyte-associated antigen 4; IO, immuno-oncology; MEKi, MEK inhibitor; PD-1, programmed
+cell death protein 1; SRS, stereotactic radiosurgery; WT, wild-type.
+
+been fully determined, but recent results can help with decisionmaking until ongoing clinical trials bring more definitive
+answers.
+Dabrafenib/trametinib combination therapy was investigated
+in a prospective, multicentre, multicohort, open-label, phase II
+clinical trial (COMBI-MB) with good ECOG PS of 0 or 1 [92].
+The response rate of 58% in asymptomatic untreated BMs is
+similar to the response rate in other organ sites. However, PFS
+with a median at 5.6 months seems to be shorter than the
+11.0 months median PFS reported in COMBI-d [78].
+Immunotherapy with anti-PD-1 monotherapy or ipilimumab
+plus nivolumab has been investigated in patients with BMs. The
+outcomes are in favour of the combination with an overall response rate of 46% in patients with asymptomatic BMs, reasonable response duration and PFS of >50% at 18 months [76, 93].
+Importantly, the inclusion criteria in these trials are strict which
+resulted in a selection of patients with low central nervous system
+(CNS) tumour burden. These results suggest, however,
+
+doi:10.1093/annonc/mdz411 | 1895
+
+Special article
+
+Annals of Oncology
+
+Table 5. Treatment modalities for melanoma metastases
+Metastases localisation, number (pathological stage)
+
+Treatment modalitiesa
+
+GoR
+
+Few ITMs
+(pTXN2cM0)
+
+Surgical removal
+T-VEC
+Irradiation, electrochemotherapy
+
+C
+C
+D
+
+Multiple ITMs
+(>5; pTXN2cM0)
+
+T-VEC
+Systemic therapyb
+Perfusion of the extremityb
+Electrochemotherapy
+
+B
+C
+C
+D
+
+Locoregional LNs
+(pTxN1a, 2a, N3a)
+
+Consider adjuvant therapy
+Consider trial participation
+
+A
+B
+
+Locoregional LNs
+(pTxN1bN2b, N2c, 3)
+
+Complete surgical removal followed by adjuvant therapy
+Irradiation in case of incomplete resection
+Consider trial participation
+
+A
+C
+
+Solitary CNS metastases
+(pTxNxM3)
+
+Stereotactic irradiationb
+Systemic treatment
+Neurosurgical removal
+Consider clinical trial participation
+
+B
+B
+C
+
+Solitary lung, liver, kidney and other metastases
+(pTxNxM1)
+
+Systemic therapyb
+Surgical removal
+Stereotactic irradiation
+Consider clinical trial participation
+
+A
+C
+C
+
+Multiple metastases
+(pTxNxM1a-1c)
+
+Systemic therapyb
+Consider clinical trial participation
+
+A
+
+Painful bone metastases
+(pTxNxM1a-1c)
+
+Radiotherapy
+Bone-modifying agents
+Consider clinical trial participation
+
+B
+C
+
+a
+
+Treatment modalities are presented in order of preference.
+These therapies should be preferentially carried out at specialised centres.
+CNS, central nervous system; GoR, grade of recommendation; ITM, in-transit metastasis; LN, lymph node; T-VEC, talimogene laherparepvec.
+
+b
+
+ipilimumab/nivolumab combination therapy as the preferred
+first-line treatment also in BRAF-mutated asymptomatic patients
+[III, A]. Importantly, efficacy of ipilimumab/nivolumab combination seems to be lower in patients with symptomatic BMs with
+only 22% [94] or 21% intracranial responses on a limited cohort
+of patients [76].
+Since multiple sessions of SRS can be combined with systemic
+targeted or immunotherapies, close disease monitoring by MRI is
+recommended in order to add SRS when indicated. For patients
+with a small number of asymptomatic metastases (<5–10), nonbulky disease (<3 cm), SRS up front is an option. Other patients
+should be considered for systemic treatment first, keeping SRS
+for the treatment of non-responding lesions. For patients failing
+systemic treatment, SRS could be considered as a salvage therapy
+if the total number of progressing lesions is <5–10 and their maximal size <3cm. First real world data show interesting results
+between SRS and systemic treatment [95]. Toxicity should also
+be factored in the decision as data suggest increased risk of symptomatic radio-necrosis with immunotherapies [96]. The place of
+SRS in the rapidly evolving landscape of systemic treatment must
+be determined prospectively and several clinical trials are ongoing
+like the ABC-X trial (NCT03340129) to answer these questions.
+
+1896 | Michielin et al.
+
+Patients with BMs in whom local therapy has failed, or who
+have neurological symptoms requiring steroids or leptomeningeal disease, infrequently respond to ipilimumab/nivolumab [76,
+94]. This population can be treated by WBRT, even in the case of
+leptomeningeal disease or very extensive disease, and systemically
+with BRAFi/MEKi in BRAF-mutated or temozolomide in BRAF
+WT patients. Nevertheless, the prognosis of this population is extremely poor and palliative care must be discussed and prepared.
+A summary of the management of BMs is provided in Figure 5.
+
+Management of toxicities
+Management of toxicities from systemic therapies are well documented. Good references exist for immunotherapies [97] as well
+as for mitogen-activated protein kinase (MAPK) inhibitors [98].
+
+Personalised medicine
+Biomarkers such as mutations (BRAF, NRAS, c-Kit) are already
+indispensable today for proper management of advanced melanoma. Other mutations and the TMB might be additional
+
+Annals of Oncology
+
+Special article
+
+Table 6. Summary of recommendations
+Diagnosis and pathology/molecular biology
+• Diagnosis should be based on a full thickness excisional biopsy with a small side margin [V, A]
+• The histology report should include at least information on the type of melanoma, actinic damage, maximum vertical thickness in millimetres, information on mitotic rate, presence of ulceration, presence and extent of regression and clearance of the surgical margins [II, A]
+• Mutation testing for actionable mutations is mandatory in patients with resectable or unresectable stage III or stage IV and is highly recommended in
+high-risk resected disease stage IIC but not for stage I or stage IIA–IIB [I, A]. BRAF testing is mandatory [I, A]
+Staging and risk assessment
+• Physical examination with special attention to other suspicious pigmented lesions, tumour satellites, ITMs, regional LNs and distant metastases is mandatory. In higher tumour stages, US, CT and/or PET scans are recommended in order to allow proper tumour assessment [III, C]
+Management of local/locoregional disease
+• Wide local excision of primary tumours with safety margins of 0.5 cm for in situ melanomas, 1 cm for tumours with a tumour thickness up to 2 mm and
+2 cm for thicker tumours is recommended [II, B]
+• SNB is recommended for all patients with pT1b or higher according to the AJCC eighth edition TNM staging system [II, B]
+• CLND is not recommended for SN-positive patients [I, E]. In the case of isolated locoregional clinically detectable (macroscopic, non-SN) LN metastases,
+CLND is indicated [III, C]; removal of the tumour-bearing LN alone is insufﬁcient
+• Patients with resected stage III melanomas should be evaluated for adjuvant therapy
+• Adjuvant RT for local tumour control can be considered in cases of inadequate resection margins of LMM, in R1 resections or after resection of bulky
+disease [III, B]. Adjuvant RT is not recommended in the adjuvant setting [III, D]
+• Anti-PD-1 adjuvant therapy, nivolumab [l, A; ESMO-MCBS v1.1 score: A], pembrolizumab [l, A; ESMO-MCBS v1.1 score: A] or dabrafenib/trametinib [l, A;
+ESMO-MCBS v1.1 score A] are the preferred treatment options
+Management of advanced/metastatic disease
+• Surgical removal or stereotactic irradiation of locoregional recurrence or single distant metastasis should be considered in ﬁt patients, as a therapeutic
+option, offering potential for long-term disease control [III, C]
+• Patients with metastatic melanoma should have metastasis (preferably) or the primary tumour screened for detection of BRAF V600 mutation treatment
+options for the ﬁrst- and second-line settings include anti-PD-1 antibodies (pembrolizumab, nivolumab), PD-1 and ipilimumab for all patients, and BRAFi/
+MEKi combination for patients with BRAF-mutated melanoma [II, B]
+• For unresectable stage IIIB/C, IVM1a, T-VEC is also an option [I, B]
+• PD-1 blockade or PD-1 and ipilimumab are now a standard of care for all patients, regardless of their BRAF status, in the ﬁrst-line setting [I, A]
+• For BRAF WT disease, second-line options are very limited and inclusion in clinical trials and/or personalised approaches could be discussed. If the ﬁrstline treatment was anti-PD-1 alone, ipilimumab is an option [II, B] as well as ipilimumab/nivolumab [IV, B]
+• For BRAF-mutated disease, all the options available for WT melanoma are still valid with the addition of BRAFis/MEKis if not used in the ﬁrst-line setting
+• For NRAS-mutated melanoma, due to the limited efﬁcacy of MEK inhibitors, ﬁrst-line immunotherapy options identical to those of WT melanoma are
+the ﬁrst choice
+• If clinical trials or the approved new compounds are not available, cytotoxic drugs such as DTIC or temozolomide may be administered, with modest
+activity shown [II, C]
+• For management of brain metastases, study results suggest, ipilimumab/nivolumab combination therapy as the preferred ﬁrst-line treatment also in
+BRAF-mutated asymptomatic patients [III, A]. For patients with a small number of asymptomatic metastases (<5–10), non-bulky disease (<3 cm), SRS up
+front is an option. Other patients should be considered for systemic treatment ﬁrst, keeping SRS for the treatment of non-responding lesions. For patients
+failing systemic treatment, SRS could be considered as a salvage therapy if the total number of progressing lesions is <5–10 and their maximal size
+<3 cm
+Follow-up, long-term implications and survivorship
+• Melanoma patients should be instructed in the avoidance of sunburns, extended unprotected solar or artiﬁcial UV exposure, and in lifelong regular selfexaminations of the skin and peripheral LNs [III, B]
+• Patients must be aware that family members have an increased melanoma risk [III, B]
+• During melanoma follow-up, patients are clinically monitored in order to detect a relapse and to recognise additional skin tumours, especially secondary melanomas, as early as possible [III, B]
+• There is no consensus on optimal schedule, follow-up or the utility of imaging and blood tests for patients with resected melanoma; recommendations
+vary from follow-up visits every 3 months, during the ﬁrst 3 years and every 6–12 months thereafter, to no organised follow-up at all
+• SN-positive patients should be followed by regular US examinations
+• Rising levels of serum S100 protein is the most accurate blood test in the follow-up of melanoma patients, if any blood test is recommended at all
+[IV, D]
+AJCC, American Joint Committee on Cancer; BRAFi, BRAF inhibitor; CLND, complete lymph node dissection; CT, computed tomography; DTIC, dacarbazine;
+ESMO-MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; ITM, in-transit metastases; LMM, lentigo maligna melanoma; LN, lymph node; MEKi, MEK inhibitor;
+PD-1, programmed cell death protein 1; PET, positron emission tomography; R1, microscopic tumour at the margin; RT, radiotherapy; SN, sentinel node;
+SNB, sentinel node biopsy; SRS, stereotactic radiosurgery; T-VEC, talimogene laherparepvec; TNM, tumour, node, metastasis; US, ultrasound; UV, ultraviolet;
+WT, wild-type.
+
+doi:10.1093/annonc/mdz411 | 1897
+
+Special article
+Table 7. Levels of evidence and grades of recommendation (adapted from
+the Infectious Diseases Society of America-United States Public Health
+Service Grading Systema)
+Levels of evidence
+I
+Evidence from at least one large randomised, controlled trial of
+good methodological quality (low potential for bias) or metaanalyses of well-conducted randomised trials without
+heterogeneity
+II
+Small randomised trials or large randomised trials with a suspicion
+of bias (lower methodological quality) or meta-analyses of such
+trials or of trials with demonstrated heterogeneity
+III
+Prospective cohort studies
+IV Retrospective cohort studies or case–control studies
+V
+Studies without control group, case reports, experts’ opinions
+Grades of recommendation
+A
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt,
+strongly recommended
+B
+Strong or moderate evidence for efﬁcacy but with a limited clinical
+beneﬁt, generally recommended
+C
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh the
+risk or the disadvantages (adverse events, costs, etc.), optional
+D
+Moderate evidence against efﬁcacy or for adverse outcome, generally not recommended
+E
+Strong evidence against efﬁcacy or for adverse outcome, never
+recommended
+a
+
+By permission of the Infectious Diseases Society of America [104].
+
+molecular predictive markers in the near future. PD-L1 has been
+shown to provide an imperfect predictive biomarker for immunotherapy. Determining the optimal cut-off in melanoma
+proves challenging and, assessed rigorously with a proper ROC
+analysis [58], PD-L1 staining has very little predictive value with
+an AUC of 0.56 for ipilimumab/nivolumab and 0.57 for nivolumab alone.
+The authors anticipate that treatment algorithms for advanced
+melanoma could evolve in a paradigm for precision oncology,
+where both targeted and immunotherapies are used sequentially
+or simultaneously according to a highly personalised strategy.
+
+Follow-up, long-term implications and
+survivorship
+Melanoma patients need instructions in avoidance of sunburns,
+extended unprotected solar or artificial UV exposure, and in lifelong regular self-examinations of the skin and peripheral LNs
+[III, B]. Patients must be aware that family members have an
+increased melanoma risk [III, B]. There is no recommendation
+for genetic testing.
+During melanoma follow-up, patients are clinically monitored
+in order to detect a relapse and to recognise additional skin
+tumours, especially secondary melanomas, as early as possible
+[III, B] [6]. However, it remains to be determined whether this
+strategy leads to improved survival rates, especially in this new
+
+1898 | Michielin et al.
+
+Annals of Oncology
+era of systemic therapies for stage IV disease. Eight percent of all
+melanoma patients develop a secondary melanoma within 2 years
+of the initial diagnosis [99]. Melanoma patients also have an
+increased risk for other skin tumours. In patients with LMM,
+35% of patients develop another cutaneous malignancy within 5
+years [48].
+There is currently no consensus on the frequency of follow-up
+examinations and the use of imaging techniques and blood tests
+for patients with resected melanoma. Recommendations vary
+from follow-up visits every 3 months, during the first 3 years and
+every 6–12 months thereafter, to no organised follow-up at all.
+The authors encourage consultation of the respective national
+guidelines. Intervals between clinical visits and imaging exams
+may be tailored according to individual risk and personal needs
+of the patient [100].
+Since patients with a thin primary melanoma have only a small
+risk of relapse, routine imaging techniques are definitively not
+recommended for this patient population. In high-risk patients,
+e.g. those with thick primary tumours, or following treatment of
+metastases, US of LNs, CT or whole-body PET/PET-CT scans
+may lead to an earlier diagnosis of regional or systemic relapses
+[101]. The impact of radiological exams upon survival has not
+been demonstrated so far [102]. However, targeted therapy and
+immunotherapy demonstrate favourable effects in patients with
+low tumour burden, who can be identified by high-resolution
+imaging during follow-up. Rising levels of serum S100 protein
+has a higher specificity for disease progression than LDH, and is,
+therefore, the most accurate blood test in the follow-up of melanoma patients [103], if any blood test is recommended at all
+[IV, D].
+
+Methodology
+These Clinical Practice Guidelines were developed in accordance
+with the ESMO standard operating procedures for Clinical
+Practice Guidelines development http://www.esmo.org/
+Guidelines/ESMO-Guidelines-Methodology. The relevant literature has been selected by the expert authors. A summary of recommendations is shown in Table 6. An ESMO-MCBS table with
+MCBS scores is included in Table 3. ESMO-MCBS v1.1 [70] was
+used to calculate scores for new therapies/indications approved
+by the EMA since 1 January 2016. The scores have been calculated
+by the ESMO-MCBS Working Group and validated by the ESMO
+Guidelines Committee. Levels of evidence and grades of recommendation have been applied using the system shown in Table 7.
+Statements without grading were considered justified standard
+clinical practice by the experts and the ESMO faculty. This manuscript has been subjected to an anonymous peer review process.
+
+Acknowledgements
+The ESMO Guidelines Committee would like to thank the
+ESMO Faculty and other experts who provided critical reviews
+of these ESMO Clinical Practice Guidelines. They would also
+like to thank the European Cancer Patient Coalition and the following patient organisations for their review: Stichting
+Melanoom and Melanoma Patient Network Europe.
+
+Annals of Oncology
+Funding
+No external funding has been received for the preparation of
+these guidelines. Production costs have been covered by ESMO
+from central funds.
+
+Disclosure
+OM has reported research funding from Merck Sharp &
+Dohme, Bristol-Myers Squibb, Roche and consultant or advisory board with Novartis, Merck Sharp & Dohme, Bristol-Myers
+Squibb, Amgen, Roche and GlaxoSmithKline; AVA has reported
+research funding from Amgen and Novartis and consultant or
+advisory board with Amgen, Bristol-Myers Squibb, Novartis,
+Merck Sharp & Dohme, Merck – Pfizer; PA has reported research funding from Bristol-Myers Squibb, Roche-Genentech
+and Array and consultant or advisory board with Bristol-Myers
+Squibb, Roche-Genentech, Merck Sharp & Dohme, Array,
+Novartis, Amgen, Merck Serono, Pierre Fabre, Incyte, Genmab,
+Newlink Genetics, Medimmune, AstraZeneca and Syndax; RD
+has reported research funding from Novartis, Merck Sharp &
+Dohme, Bristol-Myers Squibb, Roche and GlaxoSmithKline and
+consultant or advisory board with Novartis, Merck Sharp &
+Dohme, Bristol-Myers Squibb, Amgen, Roche, Sun Pharma and
+Takeda; UK has reported research funding from Novartis,
+Merck Sharp & Dohme, Bristol-Myers Squibb, Roche,
+GlaxoSmithKline, AstraZeneca and Merck Serono and consultant or advisory board with, Merck Sharp & Dohme, BristolMyers Squibb, AstraZeneca, Merck Serono and Glaxo
+SmithKline.
+
+References
+1.
+
+Hollestein LM, van den Akker SAW, Nijsten T et al. Trends of cutaneous melanoma in The Netherlands: increasing incidence rates among all
+Breslow thickness categories and rising mortality rates since 1989. Ann
+Oncol 2012; 23(2): 524–530.
+2. National Cancer Registration and Analysis Service, Public Health
+England, https://www.cancerresearchuk.org (15 October 2019, date last
+accessed).
+3. Forsea AM, Del Marmol V, Stratigos A, Geller AC. Melanoma prognosis
+in Europe: far from equal. Br J Dermatol 2014; 171(1): 179–182.
+4. Alexandrov LB, Nik-Zainal S, Wedge DC et al. Signatures of mutational
+processes in human cancer. Nature 2013; 500(7463): 415.
+5. Green AC, Williams GM, Logan V, Strutton GM. Reduced melanoma
+after regular sunscreen use: randomized trial follow-up. J Clin Oncol
+2011; 29(3): 257–263.
+6. Dummer R, Guggenheim M, Arnold AW et al. Updated Swiss guidelines for the treatment and follow-up of cutaneous melanoma. Swiss
+Med Wkly 2011; 141: w13320.
+7. Bono A, Tolomio E, Trincone S et al. Micro-melanoma detection: a
+clinical study on 206 consecutive cases of pigmented skin lesions with a
+diameter < or ¼ 3 mm. Br J Dermatol 2006; 155(3): 570–573.
+8. Grob JJ, Bonerandi JJ. The ‘ugly duckling’ sign: identification of the
+common characteristics of nevi in an individual as a basis for melanoma
+screening. Arch Dermatol 1998; 134(1): 103–104.
+9. Kittler H, Pehamberger H, Wolff K, Binder M. Diagnostic accuracy of
+dermoscopy. Lancet Oncol 2002; 3(3): 159–165.
+10. Salerni G, Carrera C, Lovatto L et al. Benefits of total body photography
+and digital dermatoscopy (“two-step method of digital follow”) in the
+early diagnosis of melanoma in patients at high risk for melanoma.
+J Am Acad Dermatol 2012; 67(1): e17–e27.
+
+Special article
+11. Esteva A, Kuprel B, Novoa RA et al. Dermatologist-level classification of
+skin cancer with deep neural networks. Nature 2017; 542(7639):
+115–118.
+12. Gershenwald JE, Scolyer RA, Hess KR et al. Melanoma staging:
+evidence-based changes in the American Joint Committee on Cancer
+eighth edition cancer staging manual. CA Cancer J Clin 2017; 67(6):
+472–492.
+13. Whiteman DC, Pavan WJ, Bastian BC. The melanomas: a synthesis of
+epidemiological, clinical, histopathological, genetic, and biological
+aspects, supporting distinct subtypes, causal pathways, and cells of origin. Pigment Cell Melanoma Res 2011; 24(5): 879–897.
+14. Yao Z, Yaeger R, Rodrik-Outmezguine VS et al. Tumours with class 3
+BRAF mutants are sensitive to the inhibition of activated RAS. Nature
+2017; 548(7666): 234–238.
+15. Hayward NK, Wilmott JS, Waddell N et al. Whole-genome landscapes
+of major melanoma subtypes. Nature 2017; 545(7653): 175–180.
+16. Snyder A, Makarov V, Merghoub T et al. Genetic basis for clinical response to CTLA-4 blockade in melanoma. N Engl J Med 2014; 371(23):
+2189–2199.
+17. Thompson JF, Scolyer RA, Kefford RF. Cutaneous melanoma. Lancet
+2005; 365(9460): 687–701.
+18. Tzellos T, Kyrgidis A, Mocellin S et al. Interventions for melanoma in
+situ, including lentigo maligna. Cochrane Database Syst Rev 2014.
+19. Clark GS, Pappas-Politis EC, Cherpelis BS et al. Surgical management
+of melanoma in situ on chronically sun-damaged skin. Cancer Control
+2008; 15(3): 216–224.
+20. Fogarty GB, Hong A, Scolyer RA et al. Radiotherapy for lentigo maligna: a literature review and recommendations for treatment. Br J
+Dermatol 2014; 170(1): 52–58.
+21. Veronesi U, Adamus J, Bandiera DC et al. Inefficacy of immediate node
+dissection in stage 1 melanoma of the limbs. N Engl J Med 1977;
+297(12): 627–630.
+22. Sim FH, Taylor WF, Ivins JC et al. A prospective randomized study of
+the efficacy of routine elective lymphadenectomy in management of
+malignant melanoma. Preliminary results. Cancer 1978; 41(3):
+948–956.
+23. Balch CM, Soong SJ, Bartolucci AA et al. Efficacy of an elective regional
+lymph node dissection of 1 to 4 mm thick melanomas for patients 60
+years of age and younger. Ann Surg 1996; 224: 255–263; discussion
+263–256.
+24. Cascinelli N, Morabito A, Santinami M et al. Immediate or delayed dissection of regional nodes in patients with melanoma of the trunk: a
+randomised trial. WHO Melanoma Programme. Lancet 1998;
+351(9105): 793–796.
+25. Han D, Zager JS, Shyr Y et al. Clinicopathologic predictors of sentinel
+lymph node metastasis in thin melanoma. J Clin Oncol 2013; 31(35):
+4387–4393.
+26. Sondak VK. Clinical problems in the immunotherapy, surgery, and radiation therapy of melanoma. American Society of Clinical Oncology
+2017 Educational Book. American Society of Clinical Oncology
+(ASCO). 2017.
+27. Morton DL, Thompson JF, Cochran AJ et al. Final trial report of
+sentinel-node biopsy versus nodal observation in melanoma. N Engl J
+Med 2014; 370(7): 599–609.
+28. Thomas JM. Prognostic false-positivity of the sentinel node in melanoma. Nat Clin Pract Oncol 2008; 5(1): 18–23.
+29. van Akkooi A. Sentinel node followed by completion lymph node dissection versus nodal observation: staging or therapeutic? Controversy
+continues despite final results of MSLT-1. Melanoma Res 2014; 24(4):
+291–294.
+30. Nieweg OE. False-negative sentinel node biopsy. Ann Surg Oncol 2009;
+16(8): 2089–2091.
+31. Dummer R, Ramelyte E, Levesque M et al. Critical aspects to achieve a
+high-quality melanoma clinic. Curr Opin Oncol 2017; 29(2): 145–150.
+32. van Akkooi ACJ, de Wilt JHW, Verhoef C et al. Clinical relevance
+of melanoma micrometastases (<0.1 mm) in sentinel nodes: are
+
+doi:10.1093/annonc/mdz411 | 1899
+
+Special article
+33.
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+42.
+
+43.
+
+44.
+
+45.
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+these nodes to be considered negative? Ann Oncol 2006; 17(10):
+1578–1585.
+van Akkooi ACJ, de Wilt JHW, Voit C et al. Sentinel lymph-node false
+positivity in melanoma. Nat Clin Pract Oncol 2008; 5(4): E2.
+Murali R, Desilva C, Thompson JF, Scolyer RA. Factors predicting recurrence and survival in sentinel lymph node-positive melanoma
+patients. Ann Surg 2011; 253(6): 1155–1164.
+van der Ploeg APT, van Akkooi ACJ, Rutkowski P et al. Prognosis in
+patients with sentinel node-positive melanoma is accurately defined by
+the combined Rotterdam tumor load and Dewar topography criteria. J
+Clin Oncol 2011; 29(16): 2206–2214.
+van der Ploeg APT, van Akkooi ACJ, Haydu LE et al. The prognostic
+significance of sentinel node tumour burden in melanoma patients: an
+international, multicenter study of 1539 sentinel node-positive melanoma patients. Eur J Cancer 2014; 50(1): 111–120.
+Leiter U, Stadler R, Mauch C et al. Complete lymph node dissection
+versus no dissection in patients with sentinel lymph node biopsy positive melanoma (DeCOG-SLT): a multicentre, randomised, phase 3 trial.
+Lancet Oncol 2016; 17(6): 757–767.
+Faries MB, Thompson JF, Cochran AJ et al. Completion dissection or
+observation for sentinel-node metastasis in melanoma. N Engl J Med
+2017; 376(23): 2211–2222.
+Madu MF, Franke V, Bruin MM et al. Immediate completion lymph
+node dissection in stage IIIA melanoma does not provide significant
+additional staging information beyond EORTC SN tumour burden criteria. Eur J Cancer (Oxford, England 1990) 2017; 87: 212–215.
+Verver D, van Klaveren D, van Akkooi ACJ et al. Risk stratification of
+sentinel node-positive melanoma patients defines surgical management
+and adjuvant therapy treatment considerations. Eur J Cancer 2018; 96:
+25–33.
+Coit D. The enigma of regional lymph nodes in melanoma. N Engl J
+Med 2017; 376(23): 2280–2281.
+Morton DL, Wanek L, Nizze JA et al. Improved long-term survival after
+lymphadenectomy of melanoma metastatic to regional nodes. Analysis
+of prognostic factors in 1134 patients from the John Wayne Cancer
+Clinic. Ann Surg 1991; 214(4): 491–501.
+Balch C, Buzaid A, Soong S et al. Final Version of the American Joint
+Committee on cancer staging system for cutaneous melanoma. J Clin
+Oncol 2001; 19(16): 3635–3648.
+Andtbacka RHI, Kaufman HL, Collichio F et al. Talimogene
+Laherparepvec improves durable response rate in patients with
+advanced melanoma. J Clin Oncol 2015; 33(25): 2780–2788.
+Hong A, Fogarty G. Role of radiation therapy in cutaneous melanoma.
+Cancer J (Sudbury, Mass.) 2012; 18(2): 203–207.
+Henderson MA, Burmeister BH, Ainslie J et al. Adjuvant lymph-node
+field radiotherapy versus observation only in patients with melanoma at
+high risk of further lymph-node field relapse after lymphadenectomy
+(ANZMTG 01.02/TROG 02.01): 6-year follow-up of a phase 3, randomised controlled trial. Lancet Oncol 2015; 16(9): 1049–1060.
+Miura JT, Kroon HM, Beasley GM et al. Long-term oncologic outcomes
+after isolated limb infusion for locoregionally metastatic melanoma: an
+international multicenter analysis. Ann Surg Oncol 2019; 26(8):
+2486–2494.
+Farshad A, Burg G, Panizzon R, Dummer R. A retrospective study of
+150 patients with lentigo maligna and lentigo maligna melanoma and
+the efficacy of radiotherapy using Grenz or soft X-rays. Br J Dermatol
+2002; 146(6): 1042–1046.
+Eggermont AMM, Suciu S, Testori A et al. Long-term results of the
+randomized phase III trial EORTC 18991 of adjuvant therapy with
+pegylated interferon alfa-2b versus observation in resected stage III melanoma. J Clin Oncol 2012; 30(31): 3810–3818.
+Kirkwood JM, Ibrahim JG, Sondak VK et al. High- and low-dose interferon alfa-2b in high-risk melanoma: first analysis of intergroup trial
+E1690/S9111/C9190. J Clin Oncol 2000; 18(12): 2444–2458.
+Mocellin S, Pasquali S, Rossi CR, Nitti D. Interferon alpha adjuvant
+therapy in patients with high-risk melanoma: a systematic review and
+meta-analysis. J Natl Cancer Inst 2010; 102(7): 493–501.
+
+1900 | Michielin et al.
+
+Annals of Oncology
+52. Ives NJ, Suciu S, Eggermont AMM et al. Adjuvant interferon a for the
+treatment of high-risk melanoma: an individual patient data meta-analysis. Eur J Cancer 2017; 82: 171–183.
+53. Eggermont AMM, Chiarion-Sileni V, Grob J-J et al. Prolonged survival
+in stage III melanoma with ipilimumab adjuvant therapy. N Engl J Med
+2016; 375(19): 1845–1855.
+54. Eggermont AMM, Chiarion-Sileni V, Grob J-J et al. Adjuvant ipilimumab versus placebo after complete resection of high-risk stage III melanoma (EORTC 18071): a randomised, double-blind, phase 3 trial.
+Lancet Oncol 2015; 16(5): 522–530.
+55. Weber JS, Mandalà M, Del Vecchio M et al. Adjuvant therapy with
+nivolumab (NIVO) versus ipilimumab (IPI) after complete resection of
+stage III/IV melanoma: updated results from a phase III trial
+(CheckMate 238). J Clin Oncol 2018; 36(Suppl 15): 9502–9502.
+56. Weber J, Mandalà M, Del Vecchio M et al. Adjuvant nivolumab versus
+ipilimumab in resected stage III or IV melanoma. N Engl J Med 2017;
+377(19): 1824–1835.
+57. Eggermont AMM, Blank CU, Mandalà M et al. Adjuvant pembrolizumab versus placebo in resected stage III melanoma. N Engl J Med 2018;
+378(19): 1789–1801.
+58. Wolchok JD, Chiarion-Sileni V, Gonzalez R et al. Overall survival with
+combined nivolumab and ipilimumab in advanced melanoma. N Engl J
+Med 2017; 377(14): 1345–1356.
+59. Hodi FS, Chiarion-Sileni V, Gonzalez R et al. Nivolumab plus ipilimumab or nivolumab alone versus ipilimumab alone in advanced melanoma (CheckMate 067): 4-year outcomes of a multicentre, randomised,
+phase 3 trial. Lancet Oncol 2018; 19(11): 1480–1492.
+60. Ascierto PA, McArthur GA, Dréno B et al. Cobimetinib combined with
+vemurafenib in advanced BRAF V600-mutant melanoma (coBRIM):
+updated efficacy results from a randomised, double-blind, phase 3 trial.
+Lancet Oncol 2016; 17(9): 1248–1260.
+61. Robert C, Karaszewska B, Schachter J et al. Improved overall survival in
+melanoma with combined dabrafenib and trametinib. N Engl J Med
+2015; 372(1): 30–39.
+62. Long GV, Hauschild A, Santinami M et al. Adjuvant dabrafenib plus
+trametinib in stage III BRAF-mutated melanoma. N Engl J Med 2017;
+377(19): 1813–1823.
+63. Hauschild A, Dummer R, Schadendorf D et al. Longer follow-up confirms relapse-free survival benefit with adjuvant dabrafenib plus trametinib in patients with resected BRAF V600-mutant stage III melanoma.
+J Clin Oncol 2018; 36(35): 3441–3449.
+64. Latimer NR, Bell H, Abrams KR et al. Adjusting for treatment switching
+in the METRIC study shows further improved overall survival with trametinib compared with chemotherapy. Cancer Med 2016; 5(5):
+806–815.
+65. Robert C, Flaherty K, Nathan P et al. Five-year outcomes from a phase 3
+METRIC study in patients with BRAF V600 E/K-mutant advanced or
+metastatic melanoma. Eur J of Can 2019; 109: 61–69.
+66. Flaherty KT, Robert C, Hersey P et al. Improved survival with MEK inhibition in BRAF-mutated melanoma. N Engl J Med 2012; 367(2):
+107–114.
+67. Schadendorf D, Amonkar MM, Milhem M et al. Functional and symptom impact of trametinib versus chemotherapy in BRAF V600E
+advanced or metastatic melanoma: quality-of-life analyses of the
+METRIC study. Ann Oncol 2014; 25(3): 700–706.
+68. Dummer R, Ascierto PA, Gogas HJ et al. Encorafenib plus binimetinib
+versus vemurafenib or encorafenib in patients with BRAF-mutant melanoma (COLUMBUS): a multicentre, open-label, randomised phase 3
+trial. Lancet Oncol 2018; 19(5): 603–615.
+69. Dummer R, Ascierto PA, Gogas HJ et al. Overall survival in patients
+with BRAF-mutant melanoma receiving encorafenib plus binimetinib
+versus vemurafenib or encorafenib (COLUMBUS): a multicentre,
+open-label, randomised, phase 3 trial. Lancet Oncol 2018; 19(10):
+1315–1327.
+70. Cherny NI, Dafni U, Bogaerts J et al. ESMO-Magnitude of Clinical
+Benefit Scale version 1.1. Ann Oncol 2017; 28(10): 2340–2366.
+
+Special article
+
+Annals of Oncology
+71. Maio M, Lewis K, Demidov L et al. Adjuvant vemurafenib in resected,
+BRAFV600 mutation-positive melanoma (BRIM8): a randomised,
+double-blind, placebo-controlled, multicentre, phase 3 trial. Lancet
+Oncol 2018; 19(4): 510–520.
+72. Schadendorf D, Hassel JC, Fluck M et al. LBA67 Adjuvant immunotherapy with nivolumab (NIVO) alone or in combination with ipilimumab
+(IPI) versus placebo in stage IV melanoma patients with no evidence of
+disease (NED): A randomized, double-blind phase II trial
+(IMMUNED). Ann Oncol 2019; 30(Suppl_5): v851–v934.
+73. Sosman JA, Moon J, Tuthill RJ et al. A phase 2 trial of complete resection for stage IV melanoma: results of Southwest Oncology Group
+Clinical Trial S9430. Cancer 2011; 117(20): 4740–4706.
+74. Robert C, Long GV, Brady B et al. Nivolumab in previously untreated
+melanoma without BRAF mutation. N Engl J Med 2015; 372(4):
+320–330.
+75. Robert C, Schachter J, Long GV et al. Pembrolizumab versus ipilimumab in advanced melanoma. N Engl J Med 2015; 372(26): 2521–2532.
+76. Long GV, Atkinson V, Lo S et al. Combination nivolumab and ipilimumab or nivolumab alone in melanoma brain metastases: a multicentre
+randomised phase 2 study. Lancet Oncol 2018; 19(5): 672–681.
+77. Larkin J, Minor D, D’Angelo S et al. Overall survival in patients with
+advanced melanoma who received nivolumab versus investigator’s
+choice chemotherapy in CheckMate 037: a randomized, controlled,
+open-label phase III trial. J Clin Oncol 2018; 36(4): 383–390.
+78. Long GV, Stroyakovskiy D, Gogas H et al. Dabrafenib and trametinib
+versus dabrafenib and placebo for Val600 BRAF-mutant melanoma: a
+multicentre, double-blind, phase 3 randomised controlled trial. Lancet
+2015; 386(9992): 444–451.
+79. Larkin J, Ascierto PA, Dreno B et al. Combined vemurafenib and cobimetinib in BRAF-mutated melanoma. N Engl J Med 2014; 371:
+1867–1876.
+80. Liszkay G, Gogas H, Mandalà M et al. Update on overall survival in
+COLUMBUS: a randomized phase III trial of encorafenib (ENCO) plus
+binimetinib (BINI) versus vemurafenib (VEM) or ENCO in patients with
+BRAF V600-mutant melanoma. J Clin Oncol 2019; 37(Suppl 15):
+9512–9512.
+81. Ugurel S, Röhmel J, Ascierto PA et al. Survival of patients with
+advanced metastatic melanoma: the impact of novel therapies-update
+2017. Eur J Cancer 2017; 83: 247–257.
+82. Dummer R, Schadendorf D, Ascierto P et al. Binimetinib versus dacarbazine in patients with advanced NRAS mutant melanoma (NEMO): a
+multicentre, open-label, randomised, phase 3 trial. Lancet Oncol 2017;
+18(4): 435–445.
+83. Guo J, Carvajal RD, Dummer R et al. Efficacy and safety of nilotinib in
+patients with KIT-mutated metastatic or inoperable melanoma: final
+results from the global, single-arm, phase II TEAM trial. Ann Oncol
+2017; 28(6): 1380–1387.
+84. Balch CM, Gershenwald JE, Soong SJ et al. Final version of 2009 AJCC
+melanoma staging and classification. J Clin Oncol 2009; 27(36):
+6199–6206.
+85. Schadendorf D, Long GV, Stroiakovski D et al. Three-year pooled analysis of factors associated with clinical outcomes across dabrafenib and
+trametinib combination therapy phase 3 randomised trials. Eur J
+Cancer 2017; 82: 45–55.
+86. Weide B, Martens A, Hassel JC et al. Baseline biomarkers for outcome
+of melanoma patients treated with pembrolizumab. Clin Cancer Res
+2016; 22(22): 5487–5496.
+87. Beaver JA, Hazarika M, Mulkey F et al. Patients with melanoma treated
+with an anti-PD-1 antibody beyond RECIST progression: a US Food
+
+88.
+
+89.
+
+90.
+
+91.
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+
+99.
+
+100.
+
+101.
+
+102.
+103.
+
+104.
+
+and Drug Administration pooled analysis. Lancet Oncol 2018; 19(2):
+229–239.
+Ascierto PA, Del Vecchio M, Robert C et al. Ipilimumab 10 mg/kg versus ipilimumab 3 mg/kg in patients with unresectable or metastatic
+melanoma: a randomised, double-blind, multicentre, phase 3 trial.
+Lancet Oncol 2017; 18(5): 611–622.
+Zimmer L, Apuri S, Eroglu Z et al. Ipilimumab alone or in combination
+with nivolumab after progression on anti-PD-1 therapy in advanced
+melanoma. Eur J Cancer 2017; 75: 47–55.
+Valpione S, Carlino MS, Mangana J et al. Rechallenge with BRAFdirected treatment in metastatic melanoma: a multi-institutional retrospective study. Eur J Cancer 2018; 91: 116–124.
+Glitza Oliva IC, Schvartsman G, Tawbi H. Advances in the systemic
+treatment of melanoma brain metastases. Ann Oncol 2018; 1509–1520.
+Davies MA, Saiag P, Robert C et al. Dabrafenib plus trametinib in
+patients with BRAFV600-mutant melanoma brain metastases (COMBIMB): a multicentre, multicohort, open-label, phase 2 trial. Lancet
+Oncol 2017; 18(7): 863–873.
+Tawbi HA, Forsyth PA, Algazi A et al. Combined nivolumab and ipilimumab in melanoma metastatic to the brain. N Engl J Med 2018;
+379(8): 722–730.
+Tawbi H-H, Forsyth PAJ, Hodi FS et al. Efficacy and safety of the combination of nivolumab (NIVO) plus ipilimumab (IPI) in patients with
+symptomatic melanoma brain metastases (CheckMate 204). J Clin
+Oncol 2019; 37(Suppl 15): 9501.
+Gaudy-Marqueste C, Dussouil AS, Carron R et al. Survival of melanoma
+patients treated with targeted therapy and immunotherapy after systematic upfront control of brain metastases by radiosurgery. Eur J
+Cancer 2017; 84: 44–54.
+Minniti G, Anzellini D, Reverberi C et al. Stereotactic radiosurgery
+combined with nivolumab or ipilimumab for patients with melanoma
+brain metastases: evaluation of brain control and toxicity.
+J Immunother Cancer 2019; 7(1): 102.
+Haanen J, Carbonnel F, Robert C et al. Management of toxicities from
+immunotherapy: ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-up. Ann Oncol 2017; 28(Suppl 4): iv119–iv142.
+Daud A, Tsai K. Management of treatment-related adverse events with
+agents targeting the MAPK pathway in patients with metastatic melanoma. Oncologist 2017; 22(7): 823–833.
+Titus-Ernstoff L, Perry AE, Spencer SK et al. Multiple primary melanoma: two-year results from a population-based study. Arch Dermatol
+2006; 142(4): 433–438.
+Turner RM, Bell KJL, Morton RL et al. Optimizing the frequency of
+follow-up visits for patients treated for localized primary cutaneous
+melanoma. J Clin Oncol 2011; 29(35): 4641–4646.
+Bastiaannet E, Wobbes T, Hoekstra OS et al. Prospective comparison of
+[18F]fluorodeoxyglucose positron emission tomography and computed
+tomography in patients with melanoma with palpable lymph node
+metastases: diagnostic accuracy and impact on treatment. J Clin Oncol
+2009; 27(28): 4774–4780.
+Nieweg OE, Kroon B. The conundrum of follow-up: should it be abandoned? Surg Oncol Clin N Am 2006; 15(2): 319–330.
+Beyeler M, Waldispuhl S, Strobel K et al. Detection of melanoma relapse: first comparative analysis on imaging techniques versus S100 protein. Dermatology 2006; 213(3): 187–191.
+Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001; 33(2): 139–144.
+
+doi:10.1093/annonc/mdz411 | 1901
+
+

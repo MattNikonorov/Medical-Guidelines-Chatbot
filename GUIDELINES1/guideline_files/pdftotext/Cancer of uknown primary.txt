@@ -1,0 +1,1882 @@
+SPECIAL ARTICLE
+
+Cancer of unknown primary: ESMO Clinical Practice Guideline for diagnosis,
+treatment and follow-up5
+A. Krämer1,2, T. Bochtler1,2,3, C. Pauli4,5, G. Baciarello6, S. Delorme7, K. Hemminki8,9, L. Mileshkin10, H. Moch4,5, K. Oien11,
+T. Olivier12,13, A. Patrikidou14, H. Wasan15, G. Zarkavelis16, G. Pentheroudakis17 & K. Fizazi14, on behalf of the ESMO
+Guidelines Committee*
+1
+
+Clinical Cooperation Unit Molecular Haematology/Oncology, German Cancer Research Center (DKFZ) Heidelberg; 2Department of Internal Medicine V, University of
+Heidelberg, Heidelberg; 3Department of Medical Oncology, National Center for Tumor Diseases (NCT), University of Heidelberg, Heidelberg, Germany; 4Department of
+Pathology and Molecular Pathology, University Hospital Zurich (USZ), Zurich; 5Medical Faculty, University of Zurich (UZH), Zurich, Switzerland; 6Medical Oncology
+Department, Azienda Ospedaliera San Camillo Forlanini, Rome, Italy; 7Division of Radiology, German Cancer Research Center (DKFZ), Heidelberg; 8Division of Cancer
+Epidemiology, German Cancer Research Center (DKFZ), Heidelberg, Germany; 9Faculty of Medicine and Biomedical Center, Charles University, Pilsen, Czech Republic;
+10
+Department of Medical Oncology, Peter MacCallum Cancer Centre, Melbourne, Australia; 11Institute of Cancer Sciences, University of Glasgow, Glasgow, UK;
+12
+Department of Oncology, Geneva University Hospital, Geneva, Switzerland; 13Department of Epidemiology and Biostatistics, University of California San Francisco,
+San Francisco, USA; 14Department of Cancer Medicine, Institute Gustave Roussy, University of Paris Saclay, Villejuif, France; 15Department of Cancer Medicine,
+Hammersmith Hospital, Imperial College Healthcare NHS Trust, London, UK; 16Department of Medical Oncology, University of Ioannina, Ioannina, Greece; 17European
+Society for Medical Oncology, Lugano, Switzerland
+
+Available online 20 December 2022
+
+Key words: Classiﬁcation, ESMO Clinical Practice Guideline, diagnosis, risk assessment, treatment, unknown primary
+neoplasm
+
+INCIDENCE AND EPIDEMIOLOGY
+Deﬁnition
+Cancer of unknown primary (CUP) is deﬁned as a carcinoma
+or undifferentiated neoplasm for which a standardised
+diagnostic work-up fails to identify the primary tumour
+responsible for metastatic seeding.
+Incidence
+CUP accounts for <5% of cancers but, because of its high
+mortality rate, its relative contribution to cancer deaths is
+higher.1 The incidence of CUP has been declining, probably due
+to improving success in localising primary tumours.2 The incidence increases with age and is higher in men compared with
+women. Adenocarcinoma is the most common histology.
+Approximately 50% of CUP cases can be categorised as welldifferentiated to moderately differentiated adenocarcinomas,
+w30% as poorly differentiated adenocarcinomas or undifferentiated carcinomas, w15% as squamous-cell carcinomas and
+w5% as undifferentiated neoplasms.2,3 Sarcomas, melanomas,
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, 6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5
+Note: Approved by the ESMO Guidelines Committee: April 2002, last update November 2022. This publication supersedes the previously published
+versiondAnn Oncol. 2015;26(suppl 5):v133-v138.
+0923-7534/© 2022 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+228
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+germ cell tumours, neuroendocrine tumours and haematological malignancies whose exact site of origin is not established
+are not included in the CUP deﬁnition. Many patients present
+with metastases in multiple organs, such as the liver (most
+common), respiratory system, lymph nodes, abdominal cavity,
+bone and brain.1 The decrease in CUP incidence has been noted
+for most metastatic locations and histologies.1
+Subsequent primary cancers after CUP
+CUP diagnostics include a meticulous search for the hidden
+primary cancer, which explains why no new primaries are
+diagnosed soon after a CUP diagnosis.4 The majority of patients with CUP will not have a primary lesion identiﬁed
+during the course of the disease. However, some survivors of
+CUP may develop (i) initially hidden primary tumours
+responsible for their metastatic disease or (ii) second primary
+cancers. Elevated risks for the development of several types
+of second primaries have been reported,5 with the highest
+risks observed for cancers of the small intestine, male genital
+organs and aerodigestive tract. Signiﬁcant risks have also
+been observed for the development of non-Hodgkin’s lymphoma and squamous-cell skin cancer, which are known
+hallmarks of dysregulated immunity, suggesting a contribution of suppressed immune function as a feature of CUP.
+Risk factors
+Smokers are at risk of developing CUP and this risk correlates
+with the level of tobacco exposure: from 1.8-fold for smokers
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+A. Krämer et al.
+
+Annals of Oncology
+
+of 1-15 cigarettes/day up to 3.5-fold for 16-25 cigarettes/day
+and 4.1-fold for >25 cigarettes/day.6 The likelihood of being
+a smoker was higher in patients with CUP and respiratory
+system metastases (4.9-fold) than in those with CUP and liver
+metastases (2.0-fold).7 Type 2 diabetes (1.8-fold)8 and
+autoimmune disorders are also associated with an increased
+risk of CUP; the relative risks were 3.5 for polymyositis/
+dermatomyositis, 1.8 for primary biliary cirrhosis and 1.7 for
+Addison disease.9 Familial predisposition to CUP is another
+established risk factor.10 High body mass index, waist
+circumference, low socioeconomic status and black ethnic
+background may be additional risk factors.6,11
+Survival
+The probability of survival after a diagnosis of CUP has
+remained at w20% at 1 year and has not improved much
+over time.1,2 Around half of the observed deaths occur
+within the ﬁrst 3 months following diagnosis, i.e. median
+survival is w3 months. Survival is worse for adenocarcinoma and undifferentiated carcinoma compared with
+squamous-cell carcinoma (1-year survival of <20% and 36%,
+respectively).12 Increasing age is associated with a survival
+disadvantage. Patients with CUP manifestations restricted
+to lymph nodes have a better prognosis than those with
+extranodal disease.1,12
+In a comparison of survival outcomes for patients with
+CUP versus those with metastatic cancer of known primary
+and matched location of metastases, in general, patients
+with CUP had a poorer survival, with the exception of those
+with brain and respiratory system metastases.13
+CUP DIAGNOSIS
+Histology and immunohistochemistry
+Histology and immunohistochemistry (IHC) on good quality
+tissue specimens are required. A morphological patternbased approach is ﬁrst applied to differentiate between
+epithelial, round, spindle-shaped and anaplastic cancers to
+identify the pattern of tissue organisation regarding entity
+and tissue of origin.
+For undifferentiated neoplasms or cells of unclear lineage, an initial IHC screening is carried out,14 typically
+comprising a broad-spectrum keratin to identify an
+epithelial phenotype (e.g. AE1/AE3, OSCAR), cluster of differentiation 45 (CD45) for haematolymphoid origin (be
+aware of downregulation of CD45 expression in immature
+B-cell neoplasms) and SOX10 and/or S100 for melanoma. In
+case of a triple-negative screen, a mesenchymal origin must
+be considered. There is no single screening marker for sarcoma (see Supplementary Table S1, available at https://doi.
+org/10.1016/j.annonc.2022.11.013).
+After lineage classiﬁcation, a stepwise approach, using
+additional marker assessments navigated by the clinical
+work-up results, must be undertaken (see Supplementary
+Table S2, available at https://doi.org/10.1016/j.annonc.
+2022.11.013). For carcinomas, cytokeratin (CK)7 and CK20
+staining patterns may provide an indication of primary
+localisation (see Supplementary Table S3, available at
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+https://doi.org/10.1016/j.annonc.2022.11.013). For male
+patients, metastatic prostate cancer must be ruled out using
+prostate-speciﬁc membrane antigen (PSMA) and/or NKX3.1
+as markers. For female patients, GATA3 should be used to
+screen for breast cancer and SOX10 for triple-negative
+breast cancer.
+Lung cancer. Only w60% of poorly differentiated and
+metastatic lung adenocarcinomas stain positive for thyroid
+transcription factor 1 (TTF1).15 In the setting of CK7 positivity and TTF1 negativity but suspicion of a lung primary,
+SWI/SNF-related, matrix-associated, actin-dependent regulator of chromatin, subfamily A, member 4 (SMARCA4)
+staining should be considered as many TTF1-negative lung
+adenocarcinomas show loss of SMARCA4 nuclear staining.16
+Napsin A can be useful in a panel together with TTF1 in the
+diagnostic work-up of lung adenocarcinoma but it has
+limited value when TTF1 is negative (see Supplementary
+Table S3, available at https://doi.org/10.1016/j.annonc.
+2022.11.013).
+Gastrointestinal carcinomas. For analysis of biopsies
+including an adenocarcinoma in the liver, the initial IHC
+panel should include CK7, CK20, caudal type homeobox 2
+(CDX2) and TTF1 (plus GATA3 and/or SOX10 in women) to
+screen for metastatic tumours of breast, lung, gastrointestinal (GI) and/or pancreaticobiliary origin (see
+Supplementary Table S3, available at https://doi.org/10.
+1016/j.annonc.2022.11.013). At least 80% of colorectal
+cancers (CRCs) show the classic CK7-negative, CK20positive, CDX2-positive immunophenotype, with CK20 and
+CDX2 staining usually being diffuse and strong. Occasional
+upper GI and rare pancreaticobiliary adenocarcinomas also
+demonstrate a colorectal immunophenotype. In this setting,
+special AT-rich sequence-binding protein 2 (SATB2) positivity is fairly speciﬁc for tumours of lower GI origin.17 The
+differential diagnosis of intrahepatic cholangiocarcinomas
+(CCAs) by IHC remains difﬁcult due to the lack of speciﬁc
+markers. Immunohistochemical loss of BRCA1-associated
+protein 1 (BAP1) or AT-rich interactive domain-containing
+protein 1A (ARID1A) can support the diagnosis but the
+ﬁnal decision can only be made in conjunction with clinical
+and radiological ﬁndings.18
+Neuroendocrine tumours. In order to identify neuroendocrine tumours, a synaptophysin and/or INSM1 staining must
+be carried out in tumours with a solid, trabecular, gyriform
+or regular glandular growth pattern, uniform nuclei and
+coarsely stippled (‘salt and pepper’) chromatin. Likewise,
+synaptophysin and/or INSM1 staining should also be carried
+out in high-grade tumours that resemble small-cell carcinomas or large-cell neuroendocrine tumours of the lung.
+Positivity for CDX2 and ISLET 1 may hint towards primary
+locations of neuroendocrine tumours in the GI tract and
+pancreas, respectively (see Supplementary Table S3, available at https://doi.org/10.1016/j.annonc.2022.11.013).
+Mesothelioma. Speciﬁc caveats in the CUP work-up exist for
+mesotheliomas, which are typically positive for keratins and
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+229
+
+A. Krämer et al.
+
+Annals of Oncology
+therefore might be misclassiﬁed as carcinomas. Mesothelioma should be considered in biopsies originating from the
+pleura, pericardium and peritoneum. Immunostaining with
+calretinin should be carried out in these cases and, upon
+positivity, should be complemented with Wilms tumour 1
+(WT1), CK5/6, D2-40 and BAP1 (loss) (see Supplementary
+Table S1, available at https://doi.org/10.1016/j.annonc.
+2022.11.013).
+Sarcoma. Expression of broad-spectrum epithelial markers
+by mesenchymal tumours is focal in most cases. However, in
+cases with an epithelioid morphology, expression of these
+markers can be diffuse, and strong keratin positivity (e.g.
+synovial sarcoma, epithelioid sarcoma) often leads to
+erroneous classiﬁcation as carcinoma. Keratin positivity
+might also be seen in small round blue cell sarcomas (e.g.
+desmoplastic round cell tumour, Ewing’s sarcoma).19
+Regardless of broad-spectrum epithelial marker positivity,
+sarcoma should always be considered in the mediastinum,
+retroperitoneum and soft tissue, particularly in cases with
+spindle cell morphology (see Supplementary Table S1,
+available at https://doi.org/10.1016/j.annonc.2022.11.013).
+Haematopoietic malignancies. Broad-spectrum keratins can
+be expressed by haematolymphoid tumours such as plasma
+cell neoplasms, anaplastic large-cell and mantle-cell lymphomas.20 Useful immunohistochemical markers for
+screening are listed in Supplementary Table S1, available at
+https://doi.org/10.1016/j.annonc.2022.11.013.
+Clinical work-up
+The minimal mandatory work-up for all patients should
+comprise the following tests:
+ Thorough patient history and physical examination.
+ Blood draw with basic blood and biochemical analyses.
+ Either computed tomography (CT) with intravenous (i.v.)
+contrast agent infusion or magnetic resonance imaging
+(MRI) scans of the neck, thorax, abdomen and pelvis.
+ Mammography in females.
+Beyond this minimal diagnostic work-up, further tests are
+indicated according to the clinical and pathological results.
+This includes the tumour markers a-fetoprotein (AFP) and
+b-human chorionic gonadotropin (b-hCG) in males with a
+suspected germ cell tumour; prostate-speciﬁc antigen (PSA)
+in males with a possible prostate cancer; cancer antigen
+(CA)15-3 and CA125 in females with a suspected gynaecological primary and carcinoembryonic antigen (CEA), carbohydrate antigen 19-9 (CA19-9) and CA72-4 when a GI
+primary is suspected and chromogranin A in patients with a
+possible neuroendocrine malignancy. Despite frequent nontumour type-speciﬁc elevations of CEA, CA19-9, CA15-3 and
+CA125, these markers may be used to determine the disease course and monitor treatment response. Gastroscopy
+and colonoscopy are generally recommended whenever a
+putative GI primary is deemed possible. In contrast, bronchoscopy may be withheld unless IHC or the clinical picture
+for lung lesions and/or mediastinal lymph nodes implies a
+230
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+lung primary. Diagnostic and staging guidelines for patients
+with an anticipated CUP diagnosis are summarised in
+Supplementary Table S4, available at https://doi.org/10.
+1016/j.annonc.2022.11.013, and include both the minimal
+mandatory and additional results-driven tests.
+MRI is recommended for suspected head and neck tumours, brain metastases and for suspected pelvic neoplasms. Dedicated protocols are needed for some primary
+tumours, such as breast or prostate cancers, or for differentiating adenoma from metastasis in case of enlarged
+adrenal glands.
+Whole-body [18F]2-ﬂuoro-2-deoxy-D-glucose (FDG)e
+positron emission tomography (PET)eCT is optional in the
+routine CUP diagnostic work-up. Although it is excellent for
+depicting the true extent of disease and identifying lesions
+that are otherwise difﬁcult to detect, it is only able to
+identify a primary in around a third of cases.21 However, it is
+generally recommended in the following situations that
+warrant radical locoregional treatment:
+ For patients with single-site/oligometastatic CUP, FDGe
+PETeCT should be carried out to rule out additional
+manifestations.22
+ For patients with cervical lymph node metastases suspicious for head and neck cancer.23,24
+In these cases, FDGePETeCT may be carried out early
+during the diagnostic work-up, ahead of panendoscopy with
+biopsies and tonsillectomy, to avoid false-positive ﬁndings.23 Furthermore, when clinically suspected, speciﬁc
+tumour entities can be diagnosed if special tracers are used,
+such as DOTATOC for neuroendocrine tumours or PSMA
+ligands for prostate cancer.
+Differential diagnosis of CUP
+With pathological and clinical diagnostic tests complete, the
+diagnosis of CUP relies on the multidisciplinary team’s
+interpretation of the clinical, pathological and radiographic
+ﬁndings in order to decide whether the tumour manifestations represent a primary cancer or metastases compatible with CUP. The most important diagnostic tool for this
+purpose is sound clinical reasoning. In the absence of a
+clearly identiﬁable primary tumour or an entity-speciﬁc
+genomic alteration (see Supplementary Table S5, available
+at https://doi.org/10.1016/j.annonc.2022.11.013), it must
+be decided whether one of the visible lesions is likely to
+represent a primary tumour. Radiological clues in the
+diagnosis are (i) size and location of lesions and their
+imaging features, (ii) associated phenomena (see
+Supplementary Tables S6 and S7, available at https://doi.
+org/10.1016/j.annonc.2022.11.013), (iii) invasion patterns
+into adjacent structures and (iv) the distribution of haematogenic and lymphogenic metastases. Speciﬁcally, tumours that metastasise along the preformed lymphatic
+pathways may be surrounded by lymphatic metastases in
+typical locations, with the closest adjacent lymph node
+groups usually being the most heavily involved. In the
+presence of widespread disease, the absence of lymph node
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+A. Krämer et al.
+
+Annals of Oncology
+
+metastases in typical sites may refute the presence of a
+primary tumour in a suspected location.
+In order to standardise the interpretation of ﬁndings in
+ambiguous cases, following established diagnostic algorithms to delineate CUP from cancer entities with a known
+primary is generally recommended.18 The respective decision algorithms are based on histology and IHC, metastatic
+pattern and radiographic criteria, and may be applied,
+particularly in clinical trials, to ensure the integrity of the
+study cohorts and to harmonise the eligibility process
+among different trials for the sake of comparability.
+Lung cancer. The differential diagnosis between CUP and
+non-small-cell lung cancer (NSCLC) poses a recurrent diagnostic dilemma. Since 40% of lung cancers are negative for
+TTF1, patients presenting with neoplastic pulmonary lesions
+
+may either have metastases from an unknown primary
+tumour to the lung, or one of the lung lesions may be the
+primary itself, usually an NSCLC, with extrapulmonary as
+well as pulmonary metastases. The respective decision algorithms are based on pathological and radiographic features of the lung mass, hilar and mediastinal lymph node
+involvement and the pattern of distant metastases (see
+Figures 1 and 2). Radiographic features to support the
+discrimination are shown in Supplementary Table S6,
+available at https://doi.org/10.1016/j.annonc.2022.11.013.
+CCA. The presence of intrahepatic lesions and histological
+proof of adenocarcinoma constitute a recurrent problem in
+discriminating between primary CCA (with or without
+additional intrahepatic metastases) and hepatic metastases
+due to an unknown extrahepatic primary tumour (with or
+
+Figure 1. Differential diagnostic algorithm to discriminate between CUP and TTF1-negative NSCLC.
+Brain, bone, liver, adrenal glands and pleura are the most common sites of metastatic disease in NSCLC.
+Purple: general categories or stratiﬁcation; white: other aspects of management.
+CK, cytokeratin; CUP, cancer of unknown primary; IHC, immunohistochemistry; LN, lymph node; NSCLC, non-small-cell lung cancer; TTF1, thyroid transcription factor 1.
+
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+231
+
+A. Krämer et al.
+
+Annals of Oncology
+
+Figure 2. Differential diagnostic algorithm to discriminate between CUP and TTF1-positive NSCLC.
+Purple: general categories or stratiﬁcation; white: other aspects of management.
+CK, cytokeratin; CUP, cancer of unknown primary; LN, lymph node; NSCLC, non-small-cell lung cancer; TTF1, thyroid transcription factor 1.
+
+without additional extrahepatic metastases).25,26 The decision algorithm to differentiate CUP with liver metastases
+from intrahepatic CCA relies on (I)HC, radiological
+morphology, size and number of hepatic lesions and the
+overall metastatic pattern (see Figure 3). Radiologically, the
+criteria shown in Supplementary Table S7, available
+at https://doi.org/10.1016/j.annonc.2022.11.013, suggest
+intrahepatic CCA.
+Other cancer types. Further algorithms have been established for the differential diagnosis between CUP and
+ovarian, renal, salivary gland and breast primaries (see
+Figures 4-7).
+For the detection of salivary gland carcinoma, additional
+studies may be needed. Ultrasound may be sufﬁcient, with
+contrast-enhanced MRI of the neck as a reliable alternative
+232
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+method. CT is less suitable due to its lower soft-tissue
+contrast. Although a negative imaging result is sufﬁcient
+to rule out a primary salivary gland tumour, a positive
+ﬁnding may be more difﬁcult to interpret due to the possibility of lymph nodes located inside the gland that may be
+involved by metastatic spread. In unclear cases, targeted
+biopsies of the lesion may be carried out.
+
+Differential diagnosis to relapse of prior malignancy
+About 25% of patients with presumed CUP have had a prior
+malignancy.27 In these cases, a relapse of the prior malignancy should always be considered. In dubious cases,
+comparative sequencing of tissue from the prior malignancy
+and presumed CUP is recommended to identify any clonal
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+A. Krämer et al.
+
+Annals of Oncology
+
+Figure 3. Differential diagnostic algorithm to discriminate between CUP and intrahepatic CCA.
+Purple: general categories or stratiﬁcation; white: other aspects of management.
+CCA, cholangiocarcinoma; CK, cytokeratin; CUP, cancer of unknown primary; GI, gastrointestinal; LN, lymph node.
+
+relationships and therefore corroborate or refute a new
+CUP diagnosis.27
+
+(PD-L1) expression should be considered at least at
+progression.
+
+Next-generation sequencing
+
+Recommendations
+
+Given the potential treatment options with targeted therapies or immune checkpoint inhibitors (ICIs), panel nextgeneration sequencing (NGS) may be carried out routinely
+in CUP using a pan-cancer panel covering relevant molecular targets across different entities. However, randomised
+trial data to assess the clinical utility of NGS-based approaches in CUP are pending.28 In individual cases, the
+molecular proﬁle might also clarify or provide clues
+regarding the putative primary, e.g. when anaplastic lymphoma kinase (ALK), ROS proto-oncogene 1 (ROS1; in
+NSCLC), transmembrane serine protease 2 (TMPRSS2; in
+prostate cancer) or nuclear protein in testis (NUT) midline
+carcinoma family member 1 (NUTM1; in NUT carcinoma)
+rearrangements are detected or when genomic signatures
+point towards ultraviolet light or tobacco exposure. A list of
+genomic aberrations supporting the diagnosis of speciﬁc
+primary tumour entities that can be used in conjunction
+with the differential diagnostic algorithms depicted in
+Figures 1-7 is provided in Supplementary Table S5, available
+at
+https://doi.org/10.1016/j.annonc.2022.11.013.
+In
+addition, analysis of the microsatellite instability (MSI) status may be routinely carried out. Testing for tumour
+mutational burden (TMB) and programmed death-ligand 1
+
+Histology, IHC and molecular biology
+ Histology and IHC on good quality tissue specimens are
+required [III, A].
+ After lineage classiﬁcation, a stepwise approach using
+further IHC markers, navigated by the clinical work-up results, is recommended [III, A].
+ NGS may be carried out routinely in CUP [IV, B].
+ The clinical utility of gene expression proﬁling to help
+elucidate the likely primary is not currently supported
+by high-level evidence. Consequently, it is not generally
+recommended outside of clinical research [II, D].
+Clinical work-up
+ The minimal clinical work-up should consist of a thorough patient history, physical examination, basic blood
+analyses, CT or MRI imaging of neck, thorax, abdomen
+and pelvis for all patients, with additional mammography
+in females [IV, A].
+ Further tests may be indicated according to the clinical
+and pathological picture [V, B].
+ FDGePETeCT imaging is generally recommended for
+single-site/oligometastatic cases that warrant ablative
+locoregional treatment as well as for patients with
+head and neck CUP [IV, B].
+
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+233
+
+A. Krämer et al.
+
+Annals of Oncology
+
+CUP versus ovarian cancer
+
+(High-grade) serous carcinoma
+
+Mass in the gynaecological tract?
+
+No
+
+Yes
+
+LN involvement or tumour mass
+below the diaphragm?
+
+Gynaecological cancer
+
+No
+
+Yes
+
+Isolated peritoneal carcinomatosis
+
+CUP not confirmed
+
+Yes
+
+No
+
+Favourable
+ovary-like CUP
+confirmed
+
+Ovarian cancer
+excluded
+CUP confirmed
+
+Figure 4. Differential diagnostic algorithm to discriminate between CUP and ovarian cancer.
+Purple: general categories or stratiﬁcation; white: other aspects of management.
+CUP, cancer of unknown primary; LN, lymph node.
+
+ FDGePETeCT imaging is optional in all other cases [III, C].
+Differential diagnosis
+ Diagnostic algorithms to delineate CUP from speciﬁc cancer entities with known primaries can be used [V, B].
+ In patients with a prior malignancy, a relapse of this cancer should always be considered [IV, A].
+ In individual cases, mutational proﬁles can provide clues
+regarding the putative primary [IV, B].
+
+RISK ASSESSMENT
+Clinical parameters
+Several independent clinical risk factors in CUP have been
+identiﬁed consistently across different studies; ﬁrst and
+foremost among them is poor Eastern Cooperative
+Oncology Group (ECOG) performance status (PS), which
+reached the highest statistical signiﬁcance in multivariate
+234
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+risk factor analyses.29-33 Other independent adverse
+prognostic factors include male sex,32,33 unfavourable CUP
+subtype,32,34 a higher number of metastatically involved
+organs,32,33 the presence of liver metastases30,35 or
+visceral metastases31 and adenocarcinoma histology.33
+Signiﬁcant independent adverse laboratory parameters
+comprise elevated alkaline phosphatase (ALP), elevated
+lactate dehydrogenase (LDH),30,35 low serum albumin and
+lymphopenia30 or elevated neutrophil versus lymphocyte
+ratio (NLR) as a reﬂection of the inﬂammatory state.31,33
+Based on these adverse prognostic factors, numerous
+clinical risk scores have been proposed.30,31,33,35 For risk
+assessment of unfavourable CUP, the authors recommend
+an easy-to-use two-factor score that combines ECOG PS,
+as the most robust clinical risk factor, with LDH at ﬁrst
+diagnosis (good prognostic group: ECOG PS 0 or 1 and
+normal LDH; poor prognostic group: ECOG PS >1 or
+elevated LDH).35
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+A. Krämer et al.
+
+Annals of Oncology
+
+CUP versus RCC
+
+Renal lesion and/or histology and IHC
+suggestive of RCC
+
+Contrast-enhanced CT or MRI of
+reasonable quality
+Renal lesion
+
+No renal lesion
+
+Suspicion of benign cystic lesions?
+
+RCC excluded
+CUP confirmed
+
+No
+
+Yes
+
+RCC
+
+Bosniak classification
+required
+
+Bosniak classification
+III-IV
+
+Bosniak classification
+IIF
+
+Yes
+
+Resection; carcinoma
+in cyst?
+
+Bosniak classification
+I-II
+
+No
+
+Figure 5. Differential diagnostic algorithm to discriminate between CUP and RCC.
+Purple: general categories or stratiﬁcation; white: other aspects of management.
+CT, computed tomography; CUP, cancer of unknown primary; IHC, immunohistochemistry; MRI, magnetic resonance imaging; RCC, renal-cell carcinoma.
+
+Molecular prognostic and predictive markers
+Kirsten rat sarcoma virus (KRAS) or neuroblastoma RAS viral
+oncogene homologue (NRAS) activation and cyclindependent kinase inhibitor 2A (CDKN2A) deletion have
+been shown to confer an independent adverse prognosis by
+multivariate analysis.32 Chromosomal copy number losses
+and deleterious tumour suppressor protein p53 (TP53)
+mutations or deletions of chromosome 17p are associated
+with poor prognosis in single-site/oligometastatic CUP
+amenable to localised therapy.36,37 Neurotrophic tyrosine
+receptor kinase (NTRK) rearrangements predict response to
+NTRK inhibitors irrespective of the tissue of origin, therefore
+including CUP.38,39 Similarly, high TMB and MSI have been
+established as predictive markers for response to ICI
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+treatment in a tissue-agnostic manner.40-43 In CUP, higher
+levels of PD-L1 expression and higher TMB are also associated with better response rates and longer survival in
+previously treated patients who received nivolumab monotherapy.44 Therefore, beyond panel NGS and MSI status at
+initial diagnosis, PD-L1 and TMB may be determined when
+ICI treatment is considered.
+Recommendations
+ In patients with unfavourable CUP, prognosis should be
+assessed by a risk score combining ECOG PS and serum
+LDH levels [IV, A].
+ Determination of MSI, PD-L1 and TMB status is generally
+recommended when ICI treatment is considered [III, B].
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+235
+
+A. Krämer et al.
+
+Annals of Oncology
+
+CUP versus salivary gland carcinoma
+
+Histology and IHC compatible with
+salivary gland carcinoma
+
+Contrast-enhanced CT or MRI
+of reasonable quality
+
+Lesion in salivary gland
+
+Ambiguous
+
+Salivary gland US with
+high-specification scannera
+Salivary gland carcinoma
+
+Contrast-enhanced MRI if only
+CT has been carried out
+
+No lesion in ENT region
+
+Salivary gland carcinoma excluded
+CUP confirmed
+
+Salivary gland targeted biopsy
+Figure 6. Differential diagnostic algorithm to discriminate between CUP and salivary gland carcinoma.
+Purple: general categories or stratiﬁcation; white: other aspects of management.
+2D, two dimensional; CT, computed tomography; CUP, cancer of unknown primary; ENT, ear nose and throat; FPS, frames per second; IHC, immunohistochemistry; MRI,
+magnetic resonance imaging; US, ultrasound.
+a
+High speciﬁcation includes: broad band linear array transducer with a frequency range of 5-20 MHz suitable for vascular superﬁcial, superﬁcial small parts and
+elastography applications; electronic phased array colour Doppler system with minimum 50 000 digital processing channels and 256 grey shades for sharp contrast
+resolution; frame rate of 500 FPS; gain control for an additional level of ﬂexibility to image quality control; real-time high-frequency 2D imaging for higher resolution
+and low-frequency Doppler for higher sensitivity; tissue harmonic imaging in power Doppler imaging mode for improved sensitivity and speciﬁcity in differentiating
+blood from tissue.
+
+CLASSIFICATION AND MANAGEMENT OF CUP
+Classiﬁcation and management of favourable CUP
+Besides single-site and oligometastatic CUP, favourable CUP
+is deﬁned by obvious analogies to certain cancers with a
+known primary. It is generally recommended that these
+patients receive site-speciﬁc treatment tailored to the
+presumed primary site as this is associated with a more
+favourable prognosis compared with the vast majority of
+patients with CUP who are collectively grouped as ‘unfavourable’.45 Around 20% of patients belong to one of the
+favourable CUP subtypes. The following favourable subtypes should be recognised (see also Supplementary
+Table S8, available at https://doi.org/10.1016/j.annonc.
+2022.11.013):
+ Single metastatic deposit or oligometastatic disease
+amenable to local ablative treatment (single-site or oligometastatic CUP)
+ Women with isolated axillary lymph node metastases
+(breast-like CUP)
+236
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+ Women with peritoneal carcinomatosis of a serous papillary adenocarcinoma (ovary-like CUP)
+ Squamous-cell carcinoma involving non-supraclavicular
+cervical lymph nodes (head and neck-like CUP)
+ Men with blastic bone metastases and/or IHC or serum
+PSA expression (prostate-like CUP)
+ Adenocarcinoma with colorectal IHC (CK7-negative,
+CK20-positive, CDX2-positive) or molecular proﬁle
+(colon-like CUP)
+ Carcinoma with renal-cell histological and immunohistochemical proﬁle (renal-like CUP)
+The formerly recognised favourable neuroendocrine carcinoma subtypes45 are not considered in the current
+guideline. This is because in neuroendocrine malignancies,
+an elusive primary is a common ﬁnding. Neuroendocrine
+carcinomas should therefore be classiﬁed according to the
+increasingly sophisticated and therapy-relevant subclassiﬁcation of neuroendocrine malignancies, irrespective of the
+presence of an obvious primary tumour.
+
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+A. Krämer et al.
+
+Annals of Oncology
+
+CUP versus breast cancer
+
+Breast MRI negative but histology and IHC from
+isolated axillary LN tissue show breast profile
+
+Breast MRI negative but histology and IHC from
+non-axillary LN tissue show breast profile
+
+Breast-like CUP
+(women with isolated axillary LN metastases)
+
+Breast cancer history?
+
+Yes
+
+No
+
+Breast cancer
+suspected
+
+Axillary, internal
+mammary or retropectoral
+LN metastases?
+
+Yes
+
+No
+
+Breast cancer
+suspected
+
+Definitive breast cancer
+IHC profile?
+
+Yes
+
+No
+
+Breast cancer
+suspected
+
+Breast cancer excluded
+CUP confirmed
+
+Figure 7. Differential diagnostic algorithm to discriminate between CUP and breast cancer.
+Purple: general categories or stratiﬁcation; white: other aspects of management.
+CUP, cancer of unknown primary; IHC, immunohistochemistry; LN, lymph node; MRI, magnetic resonance imaging.
+
+The former favourable subtype known as ‘poorly differentiated carcinoma with midline distribution’, which was
+already absent from the 2015 European Society for Medical
+Oncology (ESMO) CUP guideline, should not be used
+anymore. Historically, many of these patients actually had
+extragonadal germ cell tumours. Also, some of these young
+patients may have an underdiagnosed and aggressive NUT
+midline carcinoma. Thus, full consideration should be given
+to these differential diagnoses in male patients with young
+age and midline metastatic distribution with or without
+elevated b-hCG and/or AFP.
+Likewise, ‘squamous-cell carcinoma with inguinal lymph
+nodes’ has not been acknowledged as a distinct favourable
+subtype since it belongs to the subgroup of single-site and/
+or oligometastatic CUP, whose therapeutic principles
+equally apply.
+
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+Single metastatic deposit or oligometastatic disease
+amenable to local ablative treatment (single-site and/or
+oligometastatic CUP). In the 2015 ESMO guideline, ‘CUP
+with a single metastatic deposit’ was already recognised as
+a distinct favourable CUP subtype.45 However, patients with
+oligometastatic disease exceeding the ‘single metastatic
+deposit’ deﬁnition, who are still potentially amenable to
+ablative surgery and/or radiotherapy (RT), also seem to
+beneﬁt from this treatment strategy.36 The authors have
+therefore redeﬁned localised CUP by substitution of ‘single
+metastatic deposit’ with ‘single metastatic deposit or oligometastatic disease amenable to local ablative treatment’
+as a distinct favourable CUP subtype. In view of the need for
+standardisation and despite the scarcity of data in CUP, the
+authors suggest the following oligometastasis deﬁnition
+analogous to other cancer entities:22,46
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+237
+
+A. Krämer et al.
+
+Annals of Oncology
+ Local ablative treatment of all lesions by surgery and/or
+radiotherapy is deemed feasible.
+ Oligometastatic state has been conﬁrmed by imaging
+including PETeCT and brain MRI.
+ Number of metastases does not exceed ﬁve.
+ No involvement of a diffuse organ such as malignant
+pleural, pericardial, peritoneal or leptomeningeal
+carcinomatosis.
+Local treatment strategies have proven beneﬁcial, with
+long-term survival observed in a few distinct clinical scenarios.34 Accordingly, localised treatment is generally recommended as the standard of care in the following situations:
+single brain metastases,47,48 squamous-cell carcinoma
+involving cervical lymph nodes (excluding supraclavicular
+nodes)49 as well as inguinal and iliac lymph nodes.50
+Furthermore, beyond these well-deﬁned scenarios, the
+use of local surgery and/or RT has opened up the prospect
+of long-term remission or even cure.36 Therefore, in singlesite or oligometastatic disease, localised treatment is
+generally recommended when technically feasible and after
+a careful beneﬁterisk assessment, irrespective of histology
+and organs involved by metastases. Limited data suggest
+that patients with two or more metastases might also
+beneﬁt from local ablative treatment.36 The acceptable
+upper limit regarding the number of metastases, metastatically involved organs and metastasis size is elusive but
+should not exceed the deﬁnition of oligometastatic disease
+described previously. In order to comply with this deﬁnition,
+it is suggested that local ablative treatment is preceded by a
+search for additional metastatic sites, which should include
+the use of PETeCT and brain MRI.22 There is insufﬁcient
+evidence to provide recommendations regarding the treatment modality (surgery versus RT) or the administration of
+(neo)adjuvant chemotherapy (ChT) or immunotherapy.
+Local recurrences and newly arising metastases at other
+sites are observed at a similar frequency following local
+ablative treatment. Local recurrences are frequently
+amenable to further local ablative treatment.36
+Women with isolated axillary lymph node metastases
+(breast-like CUP). This favourable subtype is deﬁned as
+isolated axillary lymph node metastases in females, an
+(immuno)histology pattern compatible with breast cancer
+and the absence of an ipsilateral mammary carcinoma. In
+several retrospective analyses, breast MRI has been shown
+to identify the primary in around two-thirds of patients with
+negative clinical examination and negative mammography,51 and is therefore mandatory before reaching the
+diagnosis of breast-like CUP. The lymph node metastasis
+specimen should be tested for estrogen receptor (ER),
+progesterone receptor (PgR) and human epidermal growth
+factor receptor 2 (HER2) status.52
+Patients with breast-like CUP should be managed under
+the presumption of an occult breast primary and thus
+receive treatment according to primary breast cancer protocols.53 There is broad consensus regarding axillary lymph
+
+238
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+node dissection. Additional ipsilateral breast-targeting
+treatment with either mastectomy or RT has been shown
+to reduce the risk of recurrence and improve survival and is
+therefore recommended. However, there is no deﬁnitive
+consensus regarding whether surgery or RT should be the
+preferred local treatment. Breast RT after axillary lymph
+node dissection appears to be at least equivalent to mastectomy with respect to locoregional recurrence and
+recurrence-free survival, implying that patients could be
+spared surgery.54-57 When RT is chosen, there is also no
+consensus as to whether the supraclavicular or internal
+mammary regional lymph nodes should be included in the
+radiation ﬁeld.55,57 Systemic therapy should be given analogous to the equivalent nodal-positive breast cancer. Given
+the rapid evolution of systemic therapy in breast cancer, the
+authors recommend that systemic therapy use in patients
+with breast-like CUP should be aligned with the current
+treatment standards for breast cancer.
+Women with peritoneal carcinomatosis of a serous papillary adenocarcinoma (ovary-like CUP). This favourable
+subtype is deﬁned as (isolated) peritoneal carcinomatosis in
+females with serous or undifferentiated adenocarcinoma
+histology; the absence of an ovary, fallopian tube or uterine
+primary cancer58 and possibly identical to primary peritoneal serous carcinoma.59 IHC serum and genetic analysis
+frequently reveals elevated CA125 and BRCA1/2 mutations
+consistent with the proﬁle of ovarian cancer.60 Thus, analogous to ovarian cancer, germline and somatic BRCA1/2
+mutation testing should be carried out.61 Treatment may be
+similar to that for stage III/IV ovarian cancer, including
+surgical debulking for cytoreduction62 followed by
+carboplatinepaclitaxel ChT (the addition of bevacizumab is
+optional)61 and poly (ADP-ribose) polymerase (PARP) inhibitor maintenance therapy in responding patients.63
+Squamous-cell carcinoma involving non-supraclavicular
+cervical lymph nodes (head and neck-like CUP). This
+favourable subtype is deﬁned as squamous-cell carcinoma
+in non-supraclavicular cervical lymph nodes without a
+detectable mucosal primary. Attempts to identify the primary tumour should include ﬂexible endoscopy, contrastenhanced CT and/ordpreferablydMRI of the head and
+neck as well as FDGePET. In cases where the primary has
+remained elusive after these examinations, panendoscopy
+with biopsies of the naso-, hypo- and oropharynx, as well as
+bilateral tonsillectomy, should be carried out. Carcinoma
+tissue should be tested for p16 expression and, in case of
+positivity, for human papillomavirus (HPV) status.64 The
+EpsteineBarr virus (EBV) status should also be determined,
+and PD-L1 expression may be analysed in patients with
+relapsed disease or distant metastases.64 Based on expert
+consensus, treatment recommendations for head and necklike CUP have already been described and should be
+considered as the therapeutic standard.24,64 Broadly, primary surgery by neck dissection and/or RT  ChT are recommended as ﬁrst-line treatment in non-distant metastatic
+
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+A. Krämer et al.
+
+Annals of Oncology
+
+disease. Patients with small-volume neck disease should
+receive either surgery or RT  ChT, whereas both options
+should be combined in large-volume disease.
+Men with blastic bone metastases and/or IHC or serum
+PSA expression (prostate-like CUP). Blastic bone metastases in the pelvis and lower spine and/or high serum concentrations or IHC expression levels of PSA in males are
+quite similar to ﬁndings in metastatic prostate cancer. It is
+therefore suggested to align the diagnostic procedures and
+therapy for prostate-like CUP to metastatic prostate cancer
+guidelines.65
+Adenocarcinoma with colorectal IHC (CK7-negative, CK20positive, CDX2-positive) or molecular proﬁle (colon-like
+CUP). Colon-like CUP is deﬁned as adenocarcinoma histology compatible with a GI primary, predominant intraabdominal metastases, a CK7-negative, CK20-positive,
+CDX2-positive IHC signature characteristic of CRC and
+negative colonoscopy.66,67 Gene expression-based colon-like
+prediction appears to be less strict than IHC criteria.67
+Retrospective data suggest that patients with colon-like
+CUP treated with site-speciﬁc CRC ChT regimens [i.e.
+5-ﬂuorouracileleucovorineoxaliplatin
+(FOLFOX)
+or
+5-ﬂuorouracileleucovorineirinotecan (FOLFIRI)] achieve
+response and survival rates similar to those observed in
+patients with metastatic CRC.66,67 However, these data are
+from small patient numbers and additional prospective
+validation is necessary to substantiate these ﬁndings.
+Nevertheless, treatment analogous to metastatic CRC is
+generally recommended in colon-like CUP. Accordingly, in
+patients with microsatellite-stable (MSS) tumours,
+5-ﬂuorouracil (5-FU)-based regimens (i.e. FOLFOX or FOLFIRI) may be administered, which can be combined with
+bevacizumab or, alternatively, an anti-epidermal growth
+factor receptor (EGFR) antibody in patients with unmutated
+KRAS or NRAS. Patients receiving 5-FU should be tested for
+the lack of dihydropyrimidine dehydrogenase (DPD) before
+starting treatment.68 In patients with MSI-high (MSI-H) tumours, ICIs should be used.69 As CK20 expression is reduced
+or absent in MSI-H CRCs,70 the diagnosis of colon-like CUP
+may also be considered in patients with CK20-negative,
+MSI-H CUP otherwise ﬁtting colon-like criteria.
+Carcinoma with renal-cell histological and immunohistochemical proﬁle (renal-like CUP). The diagnostic algorithm
+shown in Figure 5 outlines the differential diagnosis between kidney cancer and CUP in patients with renal lesions.
+However, a small subset of patients appear to display a
+histological and immunohistochemical proﬁle truly
+compatible with renal-cell carcinoma in the absence of any
+renal lesion, with documented responses to renal-speciﬁc
+treatment supporting the accuracy of the presumption of
+a renal primary.71,72 In view of the far-reaching therapeutic
+consequences of applying only tyrosine kinase inhibitor
+(TKI)- and ICI-based treatments, this subgroup may constitute a novel and distinct favourable CUP subset. Its deﬁnition relies on a histology and IHC proﬁle strictly aligned with
+kidney cancer, such as clear cell or papillary histology
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+(which appears overrepresented) with comprehensive immunostaining for the renal markers PAX8, PAX2, racemase
+and CD10. Optionally, treatment according to the rapidly
+evolving kidney cancer protocols may be justiﬁable,71,72
+with ICIs offering a broader coverage across the malignancy spectrum in particularly ambiguous cases.
+
+Management of unfavourable CUP
+ChT. Patients with unfavourable CUP are deﬁned as those
+who do not belong to any of the aforementioned favourable
+subgroups and constitute w80% of all patients with CUP.
+According to data from small clinical studies, they have a
+dismal prognosis despite treatment with a variety of combination ChTs.29 Platinum-based doublet ChT is generally
+recommended as the standard of care, although no randomised trials have been conducted to demonstrate superiority over best supportive care.73 Modest survival beneﬁt
+and symptom palliation with preservation of quality of life
+are currently the only realistic aims of therapy for these
+patients, although rare cases of cure have been reported.74
+Consequently, low-toxicity patient-convenient ChT regimens
+should be administered to reasonably ﬁt, poor-risk patients
+(see Supplementary Table S9, available at https://doi.org/
+10.1016/j.annonc.2022.11.013).
+Clinical trials conducted to-date (mostly randomised
+phase II trials) have evaluated regimens comprising platinum salts, taxanes, gemcitabine, vinca alkaloids or irinotecan, with no evidence of statistically signiﬁcant superior
+efﬁcacy demonstrated for any of the protocols.73,75-79
+Generally, platinum-based doublets combined with either
+a taxane or gemcitabine are widely accepted as the gold
+standard. Better outcomes were reported with cisplatine
+gemcitabine compared with cisplatin alone, although this
+was not assessed in a large and adequately powered
+randomised phase III trial.76 Cisplatinegemcitabine has also
+shown a superior efﬁcacyetoxicity ratio compared with
+cisplatineirinotecan in a randomised phase II trial.77
+Carboplatinepaclitaxel has demonstrated meaningful activity in CUP as well,79 although superiority over
+gemcitabineevinorelbine did not reach statistical signiﬁcance with respect to survival or remission in a randomised
+phase II trial.78 A prospective, randomised phase III trial of
+198 patients comparing gemcitabineeirinotecan with
+paclitaxelecarboplatineetoposide reported signiﬁcantly
+less toxicity and equal survival rates with the two-drug
+regimen.73 As such, doublet ChT regimens are generally
+recommended as the standard of care, whereas triplet ChT
+regimens are considered to confer excessive toxicity and are
+not recommended.
+There are no available data regarding the efﬁcacy of
+different ChT regimes for unfavourable squamous-cell
+versus adeno-CUP. When extrapolating from other common
+squamous-cell carcinoma entities, including cervical, head
+and neck, non-small-cell lung and oesophageal cancer,
+platinum-based doublet ChT is generally recommended for
+unfavourable CUP independent of histology.
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+239
+
+A. Krämer et al.
+
+Annals of Oncology
+Although only a few non-ChT drugs have been tested in
+patients with unfavourable CUP, neither belinostat nor
+cetuximab have improved on the results demonstrated with
+carboplatinepaclitaxel in randomised trials and are therefore not recommended.80,81
+No clinical trial data are available for second-line ChT.
+Switching between established CUP ChT protocols in progressing patients appears reasonable. Molecular targeted
+therapy and ICIs may be considered as alternatives. The
+combination of bevacizumabeerlotinib has shown activity
+in CUP, with a substantial rate of disease stabilisation also
+seen in ChT-pre-treated patients, but only 10% of patients
+reached a partial response.82
+Site-directed therapy by molecular tissue of origin prediction. Several clinical studies in CUP have used RNA
+expression- or DNA methylation-based molecular techniques to predict the putative primary, a strategy termed
+‘tissue of origin’ prediction, with subsequent administration
+of ‘site-speciﬁc’ therapy according to the predicted primary.
+Despite a promising pilot study,83 two randomised trials
+failed to demonstrate superiority of gene expression
+proﬁling-based ‘site-speciﬁc’ therapy over standard empiric
+ChT with either carboplatinepaclitaxel or cisplatine
+gemcitabine, respectively.84,85 Consequentially, no recommendation for the use of gene expression proﬁling-based
+‘site-directed’ therapy can currently be provided.
+Molecular targeted therapy. The mutational proﬁle of
+unfavourable CUP has been assessed in numerous panel NGS
+studies to identify targets for molecular therapies.32,86-90
+Beyond TP53 as the most abundant mutation present in
+around half of patients, these studies have consistently
+shown a very heterogeneous mutational landscape with a
+diverse set of potentially actionable genetic alterations. Discussion of NGS ﬁndings in a molecular tumour board is
+therefore advised. The use of molecular targeted therapies is
+strongly recommended when the respective compound has
+received cancer type-agnostic approval, as is currently the
+case for larotrectinib and entrectinib in NTRK fusion-positive
+cancers.38,39 Likewise, BRAF V600E and RET proto-oncogene
+(RET) can be considered as cancer type-agnostic targets in
+patients with relapsed or refractory CUP.91-93 Targeted therapies are also strongly recommended in patients with tumours harbouring a genetic alteration suggestive of a
+putative primary in which molecular guided therapies are
+licensed and are the standard of care (Supplementary
+Table S5, available at https://doi.org/10.1016/j.annonc.
+2022.11.013). For example, this currently applies to EGFRmutant as well as ALK and ROS1 fusion-positive tumours,
+which strongly imply NSCLC as the primary and for which TKIs
+represent the treatment of choice.46
+Beyond these recommendations, molecular targeted
+therapy may be considered in patients harbouring molecular alterations for which approved compounds are available in other cancer entities. Here, ranking of molecular
+guided therapy depends on the evidence from known primary cancer entities and the respective putative primary.
+Accordingly, ﬁrst-line targeted therapy with a BRAF inhibitor
+240
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+appears justiﬁed for BRAF V600E mutations when lung is
+the putative primary. Further compounds licensed in
+non-CUP entities are available for various genetic targets,
+although evidence in CUP is limited to anecdotal cases.32,88
+Examples include ﬁbroblast growth factor receptor (FGFR)
+fusions, actionable v-erb-b2 avian erythroblastic leukaemia
+viral oncogene homologue 2 (ERBB2) alterations (activating
+mutations or ampliﬁcations), deleterious mutations of
+BRCA1/2 or DNA damage repair genes including RAD51
+recombinase (RAD51) and partner and localiser of BRCA2
+(PALB2), activating KRAS G12C and phosphatidylinositol-4,
+5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA)
+mutations as well as MET proto-oncogene, receptor tyrosine kinase (MET) ampliﬁcation. The spectrum of molecular
+targets is likely to grow in the future.
+ICIs. ICI treatment has not yet been established in the
+general CUP population, although an overall response rate
+of 22% has been reported in patients with unfavourable
+CUP who have relapsed or are refractory to ﬁrst-line ChT.44
+ICIs may be considered for the indications described below.
+MSI-H or mismatch repair-deﬁcient CUP. The responsiveness of MSI-H or mismatch repair-deﬁcient (dMMR)
+tumours to ICIs has been shown across different cancer
+entities.41,94-96 Accordingly, pembrolizumab has been granted tumour-agnostic approval from the Food and Drug
+Administration (FDA) for the second-line treatment of MSIH or dMMR cancers,97 which also includes CUP. Accordingly,
+ICI treatment might be considered as the second-line
+therapy at the latest for this group.
+Based on the superior progression-free survival (PFS) of
+pembrolizumab over standard-of-care ChT in MSI-H or
+dMMR CRC,98 pembrolizumab has been approved by the
+European Medicines Agency (EMA) and FDA as the ﬁrst-line
+treatment in this setting.67 As it is suggested that treatment
+of colon-like CUP follows CRC treatment guidelines, pembrolizumab may be used as the ﬁrst-line treatment in MSI-H
+or dMMR colon-like CUP.
+TMB-high CUP. High TMB represents an established predictor for response to ICI treatment across different cancer
+entities.96,99 Accordingly, pembrolizumab is FDA approved
+for the second-line treatment of TMB-high (TMB-H) cancers
+[deﬁned as 10 mutations per megabase (mut/Mb)]. Likewise, nivolumab was more effective in CUP with a high TMB
+(deﬁned as 7.75 mut/Mb).44 Thus, ICI treatment may be
+considered as the second-line therapy at the latest in TMB-H
+CUP.
+PD-L1-high CUP. High PD-L1 expression has been associated with improved outcomes following ICI treatment across
+some, but not all, cancer entities.96,100,101 Similar to other
+tumour entities, patients with PD-L1-positive CUP tended to
+achieve a better PFS and overall survival, although this did
+not reach statistical signiﬁcance.44 Accordingly, ICI treatment
+may be considered as an option in relapsed or refractory
+unfavourable CUP with high-level PD-L1 expression and no
+alternative treatment options. It is, however, still unclear
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+A. Krämer et al.
+
+Annals of Oncology
+
+whether the cancer cell-based tumour proportion score
+(TPS) or the cancer plus cancer environment-based combined positive score (CPS) should be used, and whether cutoffs used should be at 1%, 10% or 50%.
+Additional scenarios highly suggestive of a primary
+cancer in which ICI treatment is established. ICIs may be
+considered as an option when clinicopathological features
+imply analogy to a known primary cancer where immunotherapy is an established treatment option, as is the case with
+NSCLC, head and neck squamous-cell, urothelial or gastroesophageal carcinomas, among others. So far, no data are
+available to evaluate the beneﬁterisk proﬁle for the addition
+of an anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA4) antibody, such as ipilimumab, to anti-PD-(L)1 antibodies.
+Peritonectomy
+Isolated peritoneal carcinomatosis is, in principle, amenable
+to cytoreductive surgery  hyperthermic intraperitoneal
+ChT (HIPEC) as local therapy. Recommendations in CUP
+mostly rely on cross-entity analogies102 and are hampered
+by the uncertainty of a potentially undetected primary
+persisting after local peritoneal treatment.
+A randomised study conducted in patients with colon
+cancer and peritoneal carcinomatosis treated with cytoreductive surgery showed a lack of therapeutic beneﬁt and
+excessive toxicity with the addition of HIPEC.103 However,
+outcomes with cytoreductive surgery alone were considered encouraging. Likewise, cytoreductive surgery is standard in ovarian cancer, with some data pointing to a
+possible beneﬁcial effect for the addition of HIPEC in this
+entity both in the ﬁrst-line104 and relapsed settings.105 In
+patients with (i) ovary-like CUP and (ii) mucin-producing or
+signet ring adenocarcinoma suggesting colon-like CUP and
+isolated peritoneal carcinomatosis, small retrospective analyses on a total of 40 patients and a few additional case
+reports suggest prolonged survival times after cytoreductive
+surgery with peritonectomy.106-108 Accordingly, for patients
+with ovary- or colon-like CUP and isolated peritoneal
+carcinomatosis, assessment for peritonectomy might be an
+option, whereas additional HIPEC is not recommended as
+there are no data available for this procedure in CUP. Also,
+peritonectomy is not recommended in unfavourable CUP.
+In view of the associated morbidity and mortality risks,
+candidates for cytoreductive surgery should be carefully and
+strictly selected in experienced referral centres based on a
+good PS, a low burden of peritoneal involvement [as
+assessed by the peritoneal cancer index (PCI)] and the
+exclusion of any additional, extraperitoneal metastases.102,105 The principles of completeness of cytoreduction
+as the decisive step should be meticulously adhered to, as
+done in other cancer entities.
+Recommendations
+Classiﬁcation and management of favourable CUP
+ The formerly recognised favourable CUP subtypes with
+neuroendocrine differentiation are no longer viewed as
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+CUP subtypes and should be treated according to guidelines for neuroendocrine malignancies [IV, B].
+ The formerly recognised favourable CUP subtype termed
+‘poorly differentiated carcinoma with midline distribution’ is no longer viewed as a CUP subtype. Historically,
+many of these patients actually had extragonadal germ
+cell tumours [IV, B]. Also, some of these young patients
+may have an underdiagnosed and aggressive NUT
+midline carcinoma [IV, B].
+ The former favourable subtype of ‘localised CUP’ has
+been redeﬁned to also include oligometastatic disease
+amenable to local ablative treatment [IV, B].
+ In patients with single-site or oligometastatic CUP, localised treatment with ablative surgery and/or RT is suggested [IV, B].
+ Before localised treatment, patients with single-site or
+oligometastatic CUP should receive PETeCT and brain
+MRI [IV, B].
+ In general, patients with one of the six favourable CUP
+subtypes deﬁned by analogy to cancers with a known
+primary should be treated with site-speciﬁc therapy
+[III, B].
+ Breast MRI should be carried out and demonstrate negative results before reaching the diagnosis of breast-like
+CUP [IV, A].
+ In addition to systemic therapy, breast treatment with RT
+(or alternatively surgery) is recommended in breast-like
+CUP [IV, A].
+ Renal-like CUP may constitute a novel favourable CUP
+subset that beneﬁts from TKI and ICI treatments [V, C].
+Management of unfavourable CUP
+ For patients with newly diagnosed unfavourable CUP and
+adequate PS, platinum-based doublet ChT is generally
+recommended as the standard of care [III, B].
+ There is currently no high-level evidence that gene expression proﬁling-directed therapy leads to an improvement in
+patient outcomes. Consequently, such strategies are not
+recommended outside of clinical trials [II, D].
+ For patients with ovary-like and colon-like CUP and isolated peritoneal carcinomatosis, assessment for peritonectomy without HIPEC might be an option [IV, C].
+ In view of the ongoing poor prognosis and lack of highlevel clinical evidence in patients with CUP, inclusion in
+clinical trials is encouraged [V, A].
+Molecular targeted treatment
+ In patients with NTRK fusion-positive CUP, treatment
+with an NTRK inhibitor is recommended [III, A].
+ In EGFR-mutant as well as ALK and ROS1 fusion-positive
+CUP, treatment with the respective TKI is recommended
+[II, A].
+ For patients with BRAF V600E mutations, treatment
+with a BRAF inhibitor from second-line onwards may
+be an option; BRAF inhibitors may be considered for
+ﬁrst-line treatment when lung is the putative primary
+[III, C].
+ Limited evidence suggests that compounds targeting
+additional genetic alterations licensed in non-CUP
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+241
+
+A. Krämer et al.
+
+Annals of Oncology
+entities may be an option for patients with CUP harbouring these genetic alterations [III, C].
+ If no clinical trials are available in the second-line setting,
+molecular targeted treatments and ICIs may be considered as alternative options [V, C].
+Immunotherapy
+ Patients with MSI-H or dMMR unfavourable CUP may
+receive ICI treatment in the second-line setting [III, B].
+ Patients with MSI-H or dMMR colon-like CUP may
+receive ICI treatment in the ﬁrst-line setting [III, B].
+ Patients with TMB-H unfavourable CUP may be considered for ICI treatment in the second-line setting [III, B].
+ For patients with PD-L1-high unfavourable CUP, secondline ICI treatment may be an option [III, C].
+
+ESMO-Guidelines-Methodology). The relevant literature
+has been selected by the expert authors. The FDA/EMA or
+other regulatory body approval status of new therapies/
+indications is reported at the time of writing this CPG.
+Levels of evidence and grades of recommendation have
+been applied using the system shown in Supplementary
+Table S10, available at https://doi.org/10.1016/j.annonc.
+2022.11.013.109,110 Statements without grading were
+considered justiﬁed standard clinical practice by the authors. Future updates to this CPG will be published on
+esmo.org as a Living GL version or an eUpdate, to be made
+available at: https://www.esmo.org/guidelines/guidelinesby-topic/cancers-of-unknown-primary-site.
+ACKNOWLEDGEMENTS
+
+FOLLOW-UP AND LONG-TERM SURVIVORSHIP
+In patients with unfavourable CUP who are receiving
+treatment, and after treatment discontinuation, restaging
+and follow-up by CT or MRI should be carried out at
+3-month intervals provided that the patient is deemed ﬁt
+for further therapy.
+Long-term survivors exist among patients with single-site
+or oligometastatic CUP who have received ablative surgery/
+RT and those with other favourable CUP subtypes such as
+women with isolated axillary nodal metastases.34 Long-term
+survival for up to 50 months has also been documented
+among patients with unfavourable CUP, although this is
+rare.34
+For patients with single-site or oligometastatic CUP who
+have received local ablative treatment, no consensus
+guidelines for routine follow-up have been established. Since
+early diagnosis of local relapse might enable additional local
+ablative treatment,35 follow-up with CT or MRI should be
+carried out at 3-6 month intervals during the ﬁrst 2 years,
+followed by 6-12 month intervals in years 3-5.
+In view of the elevated risk for secondary malignancies,
+long-term CUP survivors may adhere to cancer screening
+guidelines recommended for the general population, which
+includes screening for colon, breast, prostate and skin
+cancer. If family history and/or molecular work-up have
+raised the suspicion of a germline cancer-predisposing
+mutation, genetic counselling and testing should be
+offered. If conﬁrmed, a germline cancer-predisposing mutation should warrant additional screening.
+Recommendation
+ Follow-up by CT or MRI may be carried out at 3-month
+intervals, provided that the patient is deemed ﬁt for
+further therapy [IV, B].
+METHODOLOGY
+This Clinical Practice Guideline (CPG) was developed in
+accordance with the ESMO standard operating procedures
+for CPG development (https://www.esmo.org/Guidelines/
+
+242
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+Kari Hemminki was supported by the European Union’s
+Horizon 2020 research and innovation programme, No
+856620. Manuscript editing support was provided by Claire
+Bramley (ESMO Guidelines staff) and Angela Corstorphine
+of Kstorﬁn Medical Communications Ltd (KMC); this support
+was funded by ESMO.
+FUNDING
+No external funding has been received for the preparation
+of this guideline. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURE
+AK reports personal fees as an invited speaker from Roche;
+fees paid to his institution for advisory board membership
+from Roche; institutional funding from Bristol Myers Squibb
+(BMS); non-remunerated role as a principal investigator for
+Roche. TB reports fees paid to his institution as a study
+oncologist, for expert testimony and study-related travel
+expenses from Roche. CP reports fees paid to her institution
+as an invited speaker from Roche; institutional funding as a
+coordinating principal investigator from Roche. GB reports
+personal fees for advisory board membership from
+Gensenta; institutional funding as a Steering Committee
+member from Bayer; non-remunerated roles as a principal
+investigator for Eli Lilly, Merck Sharp & Dohme (MSD) and
+Roche; member of the American Society of Clinical
+Oncology (ASCO). SD reports personal fees as an invited
+speaker from Bracco Germany; non-remunerated leadership
+role as President (2010-2012) and Vice-President
+(2012-2014) of DEGUM (German Ultrasound Society);
+non-remunerated role as member and chairman of the
+‘Radiation Protection in Medicine’ (2017-2020) working
+group for the Radiation Protection Commission (SSK) at the
+German Federal Ministry of Environmental Protection. KH
+has reported no potential conﬂicts of interest. LM reports a
+non-remunerated role as co-chair of the Steering Committee for the CUPISCO trial from Roche. HM reports personal
+fees as an invited speaker from Amgen and Roche; personal
+fees for advisory board membership from AstraZeneca,
+Janssen and Merck; institutional funding from Roche. KO
+
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+A. Krämer et al.
+
+Annals of Oncology
+
+reports institutional funding from BioClavis, BioTheranostics
+and Leica; non-remunerated advisory role as member of
+Steering Group for Early Detection and Diagnosis of Cancer
+Roadmap for Cancer Research UK and as member of Innovation Expert Advisory Group (EAG) for NHS England Cancer
+Innovation Programme; co-author of the RCPath dataset on
+CUP and malignancy of unknown origin for the Royal College of Pathologists; Cancer Research UK afﬁliate at the
+Beatson Institute; member of the National Cancer Research
+Institute (UK). AP reports personal fees for a congress
+subscription from Amgen; personal fees for advisory board
+membership in urothelial cancer from Basilea; personal fees
+for congress expenses from Janssen. HW reports personal
+fees as an invited speaker and for advisory board membership from Array BioPharma, Bayer, BMS, Celgene, Erytech, Incyte, Merck KGaA, Pierre Fabre, Servier Sirtex
+Medical and Roche/Genentech; personal fees for consultancy from OnoSil; personal fees for an advisory role and as
+a Trial Steering Committee member from Zymeworks; personal fees and institutional funding for an advisory role, as a
+coordinating principal investigator and member of Trial
+Steering Committee from Sirtex Medical; non-remunerated
+advisory roles with Bayer, Pﬁzer and Pierre Fabre. GZ reports personal fees as an invited speaker from Amgen,
+Ipsen, Leo Pharma and Merck. GP is the Chief Medical Ofﬁcer for ESMO and member of ASCO and the Hellenic
+Cooperative Oncology Group and the Hellenic Society of
+Medical Oncology (HeCOG). KF reports personal fees for
+advisory board membership from Curevac and Orion; fees
+paid to his institution as an invited speaker from Astellas,
+AstraZeneca, Bayer, Janssen, MSD, Novartis, Pﬁzer and
+Sanoﬁ; fees paid to his institution for advisory board
+membership from AAA, Astellas, AstraZeneca, Bayer, Janssen, MSD, Novartis/AAA and Pﬁzer; institutional funding as
+trial chair from AstraZeneca, Bayer, BMS, Janssen, MSD,
+Orion and Pﬁzer; non-remunerated role as principal investigator and trial chair for Bayer, BMS, Merck, Novartis/AAA
+and Orion. TO has declared no conﬂicts of interest.
+
+REFERENCES
+1. Brewster DH, Lang J, Bhatti LA, et al. Descriptive epidemiology of
+cancer of unknown primary site in Scotland, 1961-2010. Cancer
+Epidemiol. 2014;38(3):227-234.
+2. Binder C, Matthes KL, Korol D, et al. Cancer of unknown primaryEpidemiological trends and relevance of comprehensive genomic
+proﬁling. Cancer Med. 2018;7(9):4814-4824.
+3. Pavlidis N, Briasoulis E, Hainsworth J, et al. Diagnostic and therapeutic management of cancer of an unknown primary. Eur J Cancer.
+2003;39(14):1990-2005.
+4. Hemminki K, Liu H, Heminki A, et al. Power and limits of modern
+cancer diagnostics: cancer of unknown primary. Ann Oncol.
+2012;23(3):760-764.
+5. Shu X, Liu H, Ji J, et al. Subsequent cancers in patients diagnosed with
+cancer of unknown primary (CUP): etiological insights? Ann Oncol.
+2012;23(1):269-275.
+6. Kaaks R, Sookthai D, Hemminki K, et al. Risk factors for cancers of
+unknown primary site: results from the prospective EPIC cohort. Int J
+Cancer. 2014;135(10):2475-2481.
+
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+7. Hemminki K, Chen B, Melander O, et al. Smoking and body mass
+index as risk factors for subtypes of cancer of unknown primary. Int J
+Cancer. 2015;136(1):246-247.
+8. Hemminki K, Försti A, Sundquist K, et al. Cancer of unknown primary
+is associated with diabetes. Eur J Cancer Prev. 2016;25(3):246-251.
+9. Hemminki K, Sundquist K, Sundquist J, et al. Risk of cancer of unknown primary after hospitalization for autoimmune diseases. Int J
+Cancer. 2015;137(12):2885-2895.
+10. Hemminki K, Ji J, Sundquist J, et al. Familial risks in cancer of unknown primary: tracking the primary sites. J Clin Oncol. 2011;29(4):
+435-440.
+11. Urban D, Rao A, Bressel M, et al. Cancer of unknown primary: a
+population-based analysis of temporal change and socioeconomic
+disparities. Br J Cancer. 2013;109(5):1318-1324.
+12. Hemminki K, Bevier M, Hemminki A, et al. Survival in cancer of unknown primary site: population-based analysis by site and histology.
+Ann Oncol. 2012;23(7):1854-1863.
+13. Riihimäki M, Thomsen H, Hemminki A, et al. Comparison of survival of
+patients with metastases from known versus unknown primaries:
+survival in metastatic cancer. BMC Cancer. 2013;13:36.
+14. Selves J, Long-Mira E, Mathieu MC, et al. Immunohistochemistry for
+diagnosis of metastatic carcinomas of unknown primary site. Cancers
+(Basel). 2018;10(4):108.
+15. Noh S, Shim H. Optimal combination of immunohistochemical
+markers for subclassiﬁcation of non-small cell lung carcinomas: a
+tissue microarray study of poorly differentiated areas. Lung Cancer.
+2012;76(1):51-55.
+16. Herpel E, Rieker RJ, Dienemann H, et al. SMARCA4 and SMARCA2
+deﬁciency in non-small cell lung cancer: immunohistochemical survey
+of 316 consecutive specimens. Ann Diagn Pathol. 2017;26:47-51.
+17. Lugli A, Tzankov A, Zlobec I, et al. Differential diagnostic and functional role of the multi-marker phenotype CDX2/CK20/CK7 in colorectal cancer stratiﬁed by mismatch repair status. Mod Pathol.
+2008;21(11):1403-1412.
+18. Pauli C, Bochtler T, Mileshkin L, et al. A challenging task: identifying
+patients with cancer of unknown primary (CUP) according to ESMO
+guidelines: the CUPISCO trial experience. Oncologist. 2021;26(5):
+e769-e779.
+19. Bahrami A, Gown AM, Baird GS, et al. Aberrant expression of
+epithelial and neuroendocrine markers in alveolar rhabdomyosarcoma: a potentially serious diagnostic pitfall. Mod Pathol. 2008;21(7):
+795-806.
+20. Adams H, Schmid P, Dirnhofer S, et al. Cytokeratin expression in
+hematological neoplasms: a tissue microarray study on 866 lymphoma and leukemia cases. Pathol Res Pract. 2008;204(8):569-573.
+21. Kwee TC, Kwee RM. Combined FDG-PET/CT for the detection of unknown primary tumors: systematic review and meta-analysis. Eur
+Radiol. 2009;19(3):731-744.
+22. Lievens Y, Guckenberger M, Gomez D, et al. Deﬁning oligometastatic
+disease from a radiation oncology perspective: an ESTRO-ASTRO
+consensus document. Radiother Oncol. 2020;148:157-166.
+23. Albertson M, Chandra S, Sayed Z, et al. PET/CT evaluation of head and
+neck cancer of unknown primary. Semin Ultrasound CT MR.
+2019;40(5):414-423.
+24. Maghami E, Ismaila N, Alvarez A, et al. Diagnosis and management of
+squamous cell carcinoma of unknown primary in the head and neck:
+ASCO guideline. J Clin Oncol. 2020;38(22):2570-2596.
+25. Bridgewater J, Galle PR, Khan SA, et al. Guidelines for the diagnosis
+and management of intrahepatic cholangiocarcinoma. J Hepatol.
+2014;60(6):1268-1289.
+26. Conway AM, Morris GC, Smith S, et al. Intrahepatic cholangiocarcinoma hidden within cancer of unknown primary. Br J
+Cancer. 2022;127(3):531-540.
+27. Bochtler T, Endris V, Leichsenring J, et al. Comparative genetic
+proﬁling aids diagnosis and clinical decision making in challenging
+cases of CUP syndrome. Int J Cancer. 2019;145(11):2963-2973.
+28. Ross JS, Sokol ES, Moch H, et al. Comprehensive genomic proﬁling of
+carcinoma of unknown primary origin: retrospective molecular
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+243
+
+A. Krämer et al.
+
+Annals of Oncology
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+244
+
+classiﬁcation considering the CUPISCO study design. Oncologist.
+2021;26(3):e394-e402.
+Bugat R, Bataillard A, Lesimple T, et al. Summary of the Standards,
+Options and Recommendations for the management of patients with
+carcinoma of unknown primary site (2002). Br J Cancer.
+2003;89(suppl 1):S59-S66.
+Seve P, Ray-Coquard I, Trillet-Lenoir V, et al. Low serum albumin levels
+and liver metastasis are powerful prognostic markers for survival in
+patients with carcinomas of unknown primary site. Cancer.
+2006;107(11):2698-2705.
+Huang CY, Lu CH, Yang CK, et al. A simple risk model to predict survival in patients with carcinoma of unknown primary origin. Medicine
+(Baltimore). 2015;94(47):e2135.
+Bochtler T, Reiling A, Endris V, et al. Integrated clinicomolecular
+characterization identiﬁes RAS activation and CDKN2A deletion as
+independent adverse prognostic factors in cancer of unknown primary. Int J Cancer. 2020;146(11):3053-3064.
+Raghav K, Hwang H, Jácome AA, et al. Development and validation of
+a novel nomogram for individualized prediction of survival in cancer
+of unknown primary. Clin Cancer Res. 2021;27(12):3414-3421.
+Pavlidis N, Petrakis D, Golﬁnopoulos V, et al. Long-term survivors
+among patients with cancer of unknown primary. Crit Rev Oncol
+Hematol. 2012;84(1):85-92.
+Culine S, Kramar A, Saghatchian M, et al. Development and validation
+of a prognostic model to predict the length of survival in patients
+with carcinomas of an unknown primary site. J Clin Oncol.
+2002;20(24):4679-4683.
+Pouyiourou M, Wohlfromm T, Kraft B, et al. Local ablative treatment
+with surgery and/or radiotherapy in single-site and oligometastatic
+carcinoma of unknown primary. Eur J Cancer. 2021;157:179-189.
+Bochtler T, Wohlfromm T, Hielscher T, et al. Prognostic impact of
+copy number alterations and tumor mutational burden in carcinoma
+of unknown primary. Genes Chromosomes Cancer. 2022;61(9):
+551-560.
+Ardini E, Siena S. Entrectinib approval by EMA reinforces options for
+ROS1 and tumour agnostic NTRK targeted cancer therapies. ESMO
+Open. 2020;5(5):e000867.
+Farago AF, Demetri GD. Larotrectinib, a selective tropomyosin receptor kinase inhibitor for adult and pediatric tropomyosin receptor
+kinase fusion cancers. Future Oncol. 2020;16(9):417-425.
+Marabelle A, Fakih M, Lopez J, et al. Association of tumour mutational burden with outcomes in patients with advanced solid tumours
+treated with pembrolizumab: prospective biomarker analysis of the
+multicohort, open-label, phase 2 KEYNOTE-158 study. Lancet Oncol.
+2020;21(10):1353-1365.
+Marabelle A, Le DT, Ascierto PA, et al. Efﬁcacy of pembrolizumab in
+patients with noncolorectal high microsatellite instability/mismatch
+repair-deﬁcient cancer: results from the phase II KEYNOTE-158 study.
+J Clin Oncol. 2020;38(1):1-10.
+Samstein RM, Lee CH, Shoushtari AN, et al. Tumor mutational load
+predicts survival after immunotherapy across multiple cancer types.
+Nat Genet. 2019;51(2):202-206.
+Le DT, Durham JN, Smith KN, et al. Mismatch repair deﬁciency predicts response of solid tumors to PD-1 blockade. Science.
+2017;357(6349):409-413.
+Tanizaki J, Yonemori K, Akiyoshi K, et al. Open-label phase II study of
+the efﬁcacy of nivolumab for cancer of unknown primary. Ann Oncol.
+2022;33(2):216-226.
+Fizazi K, Greco FA, Pavlidis N, et al. Cancers of unknown primary site:
+ESMO Clinical Practice Guidelines for diagnosis, treatment and followup. Ann Oncol. 2015;26(suppl 5):v133-v138.
+Planchard D, Popat S, Kerr K, et al. Metastatic non-small cell lung
+cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment
+and follow-up. Ann Oncol. 2018;29(suppl 4):iv192-iv237.
+Rudà R, Borgognone M, Benech F, et al. Brain metastases from unknown primary tumour: a prospective study. J Neurol. 2001;248(5):
+394-398.
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+48. Bartelt S, Lutterbach J. Brain metastases in patients with cancer of
+unknown primary. J Neurooncol. 2003;64(3):249-253.
+49. Galloway TJ, Ridge JA. Management of squamous cancer metastatic
+to cervical nodes with an unknown primary site. J Clin Oncol.
+2015;33(29):3328-3337.
+50. Matsuyama S, Nakafusa Y, Tanaka M, et al. Iliac lymph node metastasis of an unknown primary tumor: report of a case. Surg Today.
+2006;36(7):655-658.
+51. de Bresser J, de Vos B, van der Ent F, et al. Breast MRI in clinically and
+mammographically occult breast cancer presenting with an axillary
+metastasis: a systematic review. Eur J Surg Oncol. 2010;36(2):114-119.
+52. Pentheroudakis G, Lazaridis G, Pavlidis N. Axillary nodal metastases
+from carcinoma of unknown primary (CUPAx): a systematic review of
+published evidence. Breast Cancer Res Treat. 2010;119(1):1-11.
+53. Gennari A, André F, Barrios CH, et al. ESMO Clinical Practice Guideline
+for the diagnosis, staging and treatment of patients with metastatic
+breast cancer. Ann Oncol. 2021;32(12):1475-1495.
+54. Walker GV, Smith GL, Perkins GH, et al. Population-based analysis of
+occult primary breast cancer with axillary lymph node metastasis.
+Cancer. 2010;116(17):4000-4006.
+55. Rueth NM, Black DM, Limmer AR, et al. Breast conservation in the
+setting of contemporary multimodality treatment provides excellent
+outcomes for patients with occult primary breast cancer. Ann Surg
+Oncol. 2015;22(1):90-95.
+56. Macedo FI, Eid JJ, Flynn J, et al. Optimal surgical management for
+occult breast carcinoma: a meta-analysis. Ann Surg Oncol. 2016;23(6):
+1838-1844.
+57. Kim H, Park W, Kim SS, et al. Prognosis of patients with axillary lymph
+node metastases from occult breast cancer: analysis of multicenter
+data. Radiat Oncol J. 2021;39(2):107-112.
+58. Pentheroudakis G, Pavlidis N. Serous papillary peritoneal carcinoma:
+unknown primary tumour, ovarian cancer counterpart or a distinct
+entity? A systematic review. Crit Rev Oncol Hematol. 2010;75(1):27-42.
+59. Kim J, Park EY, Kim O, et al. Cell origins of high-grade serous ovarian
+cancer. Cancers (Basel). 2018;10(11):433.
+60. Finch A, Beiner M, Lubinski J, et al. Salpingo-oophorectomy and the
+risk of ovarian, fallopian tube, and peritoneal cancers in women with
+a BRCA1 or BRCA2 Mutation. JAMA. 2006;296(2):185-192.
+61. Colombo N, Sessa C, du Bois A, et al. ESMO-ESGO consensus conference recommendations on ovarian cancer: pathology and molecular biology, early and advanced stages, borderline tumours and
+recurrent disease. Ann Oncol. 2019;30(5):672-705.
+62. Ben-Baruch G, Sivan E, Moran O, et al. Primary peritoneal serous
+papillary carcinoma: a study of 25 cases and comparison with stage
+III-IV ovarian papillary serous carcinoma. Gynecol Oncol. 1996;60(3):
+393-396.
+63. Ray-Coquard I, Pautier P, Pignata S, et al. Olaparib plus bevacizumab
+as ﬁrst-line maintenance in ovarian cancer. N Engl J Med.
+2019;381(25):2416-2428.
+64. Machiels JP, René Leemans C, Golusinski W, et al. Squamous cell
+carcinoma of the oral cavity, larynx, oropharynx and hypopharynx:
+EHNS-ESMO-ESTRO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2020;31(11):1462-1475.
+65. Parker C, Castro E, Fizazi K, et al. Prostate cancer: ESMO Clinical
+Practice Guidelines for diagnosis, treatment and follow-up. Ann
+Oncol. 2020;31(9):1119-1134.
+66. Varadhachary GR, Raber MN, Matamoros A, et al. Carcinoma of unknown primary with a colon-cancer proﬁle-changing paradigm and
+emerging deﬁnitions. Lancet Oncol. 2008;9(6):596-599.
+67. Hainsworth JD, Schnabel CA, Erlander MG, et al. A retrospective study
+of treatment outcomes in patients with carcinoma of unknown primary site and a colorectal cancer molecular proﬁle. Clin Colorectal
+Cancer. 2012;11(2):112-118.
+68. Hodroj K, Barthelemy D, Lega JC, et al. Issues and limitations of
+available biomarkers for ﬂuoropyrimidine-based chemotherapy
+toxicity, a narrative review of the literature. ESMO Open. 2021;6(3):
+100125.
+
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+A. Krämer et al.
+
+Annals of Oncology
+
+69. Trullas A, Delgado J, Genazzani A, et al. The EMA assessment of
+pembrolizumab as monotherapy for the ﬁrst-line treatment of adult
+patients with metastatic microsatellite instability-high or mismatch
+repair deﬁcient colorectal cancer. ESMO Open. 2021;6(3):100145.
+70. McGregor DK, Wu TT, Rashid A, et al. Reduced expression of cytokeratin 20 in colorectal carcinomas with high levels of microsatellite
+instability. Am J Surg Pathol. 2004;28(6):712-718.
+71. Greco FA, Hainsworth JD. Renal cell carcinoma presenting as carcinoma of unknown primary site: recognition of a treatable patient
+subset. Clin Genitourin Cancer. 2018;16(4):e893-e898.
+72. Overby A, Duval L, Ladekarl M, et al. Carcinoma of unknown primary
+site (CUP) With metastatic renal-cell carcinoma (mRCC) histologic and
+immunohistochemical characteristics (CUP-mRCC): results from
+consecutive patients treated with targeted therapy and review of
+literature. Clin Genitourin Cancer. 2019;17(1):e32-e37.
+73. Hainsworth JD, Spigel DR, Clark BL, et al. Paclitaxel/carboplatin/etoposide versus gemcitabine/irinotecan in the ﬁrst-line treatment of
+patients with carcinoma of unknown primary site: a randomized,
+phase III Sarah Cannon Oncology Research Consortium Trial. Cancer J.
+2010;16(1):70-75.
+74. Levy A, Massard C, Gross-Goupil M, et al. Carcinomas of an unknown
+primary site: a curable disease? Ann Oncol. 2008;19(9):1657-1658.
+75. Golﬁnopoulos V, Pentheroudakis G, Salanti G, et al. Comparative
+survival with diverse chemotherapy regimens for cancer of unknown
+primary site: multiple-treatments meta-analysis. Cancer Treat Rev.
+2009;35(7):570-573.
+76. Gross-Goupil M, Fourcade A, Blot E, et al. Cisplatin alone or combined
+with gemcitabine in carcinomas of unknown primary: results of the
+randomised GEFCAPI 02 trial. Eur J Cancer. 2012;48(5):721-727.
+77. Culine S, Lortholary A, Voigt JJ, et al. Cisplatin in combination with
+either gemcitabine or irinotecan in carcinomas of unknown primary
+site: results of a randomized phase II study–trial for the French Study
+Group on Carcinomas of Unknown Primary (GEFCAPI 01). J Clin Oncol.
+2003;21(18):3479-3482.
+78. Huebner G, Link H, Kohne CH, et al. Paclitaxel and carboplatin vs
+gemcitabine and vinorelbine in patients with adeno- or undifferentiated carcinoma of unknown primary: a randomised prospective
+phase II trial. Br J Cancer. 2009;100(1):44-49.
+79. Lee J, Hahn S, Kim DW, et al. Evaluation of survival beneﬁts by
+platinums and taxanes for an unfavourable subset of carcinoma of
+unknown primary: a systematic review and meta-analysis. Br J Cancer.
+2013;108(1):39-48.
+80. Hainsworth JD, Daugaard G, Lesimple T, et al. Paclitaxel/carboplatin
+with or without belinostat as empiric ﬁrst-line treatment for patients
+with carcinoma of unknown primary site: a randomized, phase 2 trial.
+Cancer. 2015;121(10):1654-1661.
+81. Folprecht G, Trautmann K, Stein A, et al. Adding cetuximab to paclitaxel and carboplatin for ﬁrst-line treatment of carcinoma of unknown primary (CUP): results of the Phase 2 AIO trial PACET-CUP. Br J
+Cancer. 2021;124(4):721-727.
+82. Hainsworth JD, Spigel DR, Farley C, et al. Phase II trial of bevacizumab and
+erlotinib in carcinomas of unknown primary site: the Minnie Pearl Cancer
+Research Network. J Clin Oncol. 2007;25(13):1747-1752.
+83. Hainsworth JD, Rubin MS, Spigel DR, et al. Molecular gene expression
+proﬁling to predict the tissue of origin and direct site-speciﬁc therapy in
+patients with carcinoma of unknown primary site: a prospective trial of
+the Sarah Cannon research institute. J Clin Oncol. 2013;31(2):217-223.
+84. Fizazi K, Maillard A, Penel N, et al. 3562 - A phase 3 trial of empiric
+chemotherapy with cisplatin and gemcitabine or systemic treatment
+tailored by molecular gene expression analysis in patients with carcinomas of an unknown primary (CUP) site (GEFCAPI 04). Ann Oncol.
+2019;30(suppl 5):v851-v934.
+85. Hayashi H, Kurata T, Takiguchi Y, et al. Randomized phase II trial
+comparing site-speciﬁc treatment based on gene expression proﬁling
+with carboplatin and paclitaxel for patients with cancer of unknown
+primary site. J Clin Oncol. 2019;37(7):570-579.
+86. Tothill RW, Li J, Mileshkin L, et al. Massively-parallel sequencing assists
+the diagnosis and guided treatment of cancers of unknown primary.
+J Pathol. 2013;231(4):413-423.
+
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+87. Gatalica Z, Millis SZ, Vranic S, et al. Comprehensive tumor proﬁling
+identiﬁes numerous biomarkers of drug response in cancers of unknown primary site: analysis of 1806 cases. Oncotarget. 2014;5(23):
+12440-12447.
+88. Ross JS, Wang K, Gay L, et al. Comprehensive genomic proﬁling of
+carcinoma of unknown primary site: new routes to targeted therapies. JAMA Oncol. 2015;1(1):40-49.
+89. Löfﬂer H, Pfarr N, Kriegsmann M, et al. Molecular driver alterations
+and their clinical relevance in cancer of unknown primary site.
+Oncotarget. 2016;7(28):44322-44329.
+90. Clynick B, Dessauvagie B, Sterrett G, et al. Genetic characterisation of
+molecular targets in carcinoma of unknown primary. J Transl Med.
+2018;16(1):185.
+91. Adashek JJ, Menta AK, Reddy NK, et al. Tissue-agnostic activity of
+BRAF plus MEK inhibitor in BRAF V600-mutant tumors. Mol Cancer
+Ther. 2022;21(6):871-878.
+92. Subbiah V, Wolf J, Konda B, et al. Tumour-agnostic efﬁcacy and safety
+of selpercatinib in patients with RET fusion-positive solid tumours
+other than lung or thyroid tumours (LIBRETTO-001): a phase 1/2,
+open-label, basket trial. Lancet Oncol. 2022;23(10):1261-1273.
+93. Subbiah V, Cassier PA, Siena S, et al. Pan-cancer efﬁcacy of pralsetinib
+in patients with RET fusion-positive solid tumors from the phase 1/2
+ARROW trial. Nat Med. 2022;28(8):1640-1645.
+94. Le DT, Uram JN, Wang H, et al. PD-1 Blockade in tumors with
+mismatch-repair deﬁciency. N Engl J Med. 2015;372(26):2509-2520.
+95. Overman MJ, McDermott R, Leach JL, et al. Nivolumab in patients
+with metastatic DNA mismatch repair-deﬁcient or microsatellite
+instability-high colorectal cancer (CheckMate 142): an open-label,
+multicentre, phase 2 study. Lancet Oncol. 2017;18(9):1182-1191.
+96. Luchini C, Bibeau F, Ligtenberg MJL, et al. ESMO recommendations on
+microsatellite instability testing for immunotherapy in cancer, and its
+relationship with PD-1/PD-L1 expression and tumour mutational
+burden: a systematic review-based approach. Ann Oncol. 2019;30(8):
+1232-1243.
+97. Marcus L, Lemery SJ, Keegan P, et al. FDA approval summary: pembrolizumab for the treatment of microsatellite instability-high solid
+tumors. Clin Cancer Res. 2019;25(13):3753-3758.
+98. Diaz LA Jr, Shiu KK, Kim TW, et al. Pembrolizumab versus chemotherapy
+for microsatellite instability-high or mismatch repair-deﬁcient metastatic
+colorectal cancer (KEYNOTE-177): ﬁnal analysis of a randomised, openlabel, phase 3 study. Lancet Oncol. 2022;23(5):659-670.
+99. Hellmann MD, Ciuleanu TE, Pluzanski A, et al. Nivolumab plus ipilimumab in lung cancer with a high tumor mutational burden. N Engl J
+Med. 2018;378(22):2093-2104.
+100. Reck M, Rodríguez-Abreu D, Robinson AG, et al. Pembrolizumab
+versus chemotherapy for PD-L1-positive non-small-cell lung cancer.
+N Engl J Med. 2016;375(19):1823-1833.
+101. Sati N, Boyne DJ, Cheung WY, et al. Factors modifying the associations
+of single or combination programmed cell death 1 and programmed
+cell death ligand 1 inhibitor therapies with survival outcomes in patients with metastatic clear cell renal cell carcinoma: a systematic
+review and meta-analysis. JAMA Netw Open. 2021;4(1):e2034201.
+102. Granieri S, Bonomi A, Frassini S, et al. Prognostic impact of cytoreductive
+surgery (CRS) with hyperthermic intraperitoneal chemotherapy (HIPEC) in
+gastric cancer patients: a meta-analysis of randomized controlled trials.
+Eur J Surg Oncol. 2021;47(11):2757-2767.
+103. Quénet F, Elias D, Roca L, et al. Cytoreductive surgery plus hyperthermic
+intraperitoneal chemotherapy versus cytoreductive surgery alone for
+colorectal peritoneal metastases (PRODIGE 7): a multicentre, randomised,
+open-label, phase 3 trial. Lancet Oncol. 2021;22(2):256-266.
+104. van Driel WJ, Koole SN, Sikorska K, et al. Hyperthermic intraperitoneal
+chemotherapy in ovarian cancer. N Engl J Med. 2018;378(3):230-240.
+105. Huo YR, Richards A, Liauw W, et al. Hyperthermic intraperitoneal
+chemotherapy (HIPEC) and cytoreductive surgery (CRS) in ovarian
+cancer: a systematic review and meta-analysis. Eur J Surg Oncol.
+2015;41(12):1578-1589.
+106. Delhorme JB, Ohayon J, Gouy S, et al. Ovarian and peritoneal
+psammocarcinoma: results of a multicenter study on 25 patients. Eur
+J Surg Oncol. 2020;46(5):862-867.
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+245
+
+A. Krämer et al.
+
+Annals of Oncology
+107. Sebbag G, Shmookler BM, Chang D, et al. Peritoneal carcinomatosis
+from an unknown primary site. Management of 15 patients. Tumori.
+2001;87(2):67-73.
+108. Mugerwa S, Lekharaju V, Kiire CF. Management of peritoneal carcinomatosis secondary to metastatic cancer of unknown primary in
+men. Eur J Cancer Care (Engl). 2009;18(1):22-27.
+
+246
+
+https://doi.org/10.1016/j.annonc.2022.11.013
+
+109. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis. 2001;33(2):139-144.
+110. Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards
+for infectious diseases. Infectious Diseases Society of America. Clin
+Infect Dis. 1994;18(3):421.
+
+Volume 34
+
+-
+
+Issue 3
+
+-
+
+2023
+
+

@@ -1,0 +1,1363 @@
+Annals of Oncology 30: 1558–1571, 2019
+doi:10.1093/annonc/mdz233
+Published online 5 August 2019
+
+SPECIAL ARTICLE
+
+Hereditary gastrointestinal cancers: ESMO Clinical
+Practice Guidelines for diagnosis, treatment and
+follow-up†
+~a1 & E. Martinelli8,
+N. Stjepanovic1, L. Moreira2, F. Carneiro3,4,5,6, F. Balaguer2, A. Cervantes7, J. Balman
+on behalf of the ESMO Guidelines Committee*
+1
+Medical Oncology Department, University Hospital Vall d’Hebron, Barcelona; 2Gastroenterology Department, Hospital Clı́nic de Barcelona, Institut d’Investigacions
+Biomèdiques August Pi i Sunyer (IDIBAPS), Centro de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBEREHD), Barcelona, Spain; 3Institute
+of Molecular Pathology and Immunology of the University of Porto (IPATIMUP), Porto; 4Instituto de Investigaç~ao e Inovaç~ao em Saúde (i3S), Porto; 5Medical Faculty
+of the University of Porto, Porto; 6Centro Hospitalar Universitário S~ao Jo~ao, Porto, Portugal; 7CIBERONC, Department of Medical Oncology, Biomedical Research
+Institute INCLIVA, University of Valencia, Valencia, Spain; 8Dipartimento di Medicina di Precisione, Università degli Studi della Campania Luigi Vanvitelli, Napoli, Italy
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, 6900 Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Committee: May 2019.
+
+Knowledge of genetic susceptibility to gastrointestinal cancers is
+constantly evolving with identification of new genes. Similarly, a
+better understanding of the genotype/phenotype relationship in
+patients with Lynch syndrome (LS) or familial adenomatous polyposis (FAP) is leading to more individualised surveillance recommendations. In addition, molecular profiling of patients with
+cancer has been shown to guide targeted therapies, such as immunotherapy. Specialists involved in the care of patients
+with gastrointestinal cancer should be familiar with the main
+hereditary cancer syndromes and refer patients to specialised cancer
+genetic units for adequate genetic counselling and to address specific
+concerns associated to each genetic susceptibility. These guidelines
+aim to summarise the evidence-based data on hereditary colorectal
+cancer (CRC), gastric cancer (GC) and pancreatic cancer (PC) and
+provide useful clinical recommendations for identification and
+management of patients with hereditary gastrointestinal cancers.
+
+Hereditary non-polyposis colorectal cancer
+syndrome (Lynch syndrome)
+Prevalence and penetrance
+LS accounts for 1%–3% of all CRC diagnoses [1]. It is caused by
+germline mutations in one of the mismatch repair (MMR) genes
+(MLH1, MSH2, MSH6 or PMS2) or epithelial cell adhesion molecule (EPCAM, which causes epigenetic silencing of MSH2) and
+has an autosomal dominant inheritance. More than 70% of
+
+mutations are identified in MLH1, MSH2 or EPCAM in tumours
+with microsatellite instability (MSI)-high.
+LS is characterised by an increased lifetime risk of CRC
+(30%–73%) and extracolonic malignancies such as endometrial
+(30%–51%), ovarian (4%–15%), gastric (up to 18%), small
+bowel (3%–5%), urinary tract (2%–20%), pancreatic (4%), brain
+or cutaneous gland tumours [2–4]. The carriers of pathogenic
+variants in MLH1 and MSH2 genes have a substantially higher
+risk of CRC cancer with younger age at diagnosis compared with
+carriers of MSH6 or PMS2 pathogenic variants. The cumulative
+incidence of endometrial and urinary tract cancers is higher in
+MSH2 carriers [5]. Data on cancer risk estimates for carriers of an
+EPCAM deletion is still limited.
+Historically, two LS clinical phenotypes have been described in
+those individuals with germline MMR gene pathogenic variants
+presenting with the combination of central nervous system
+tumours (Turcot syndrome) or combination of cutaneous gland
+tumours (Muir–Torre syndrome) [6, 7]. Recently, a third phenotype denominated constitutional or biallelic MMR deficiency
+(CMMRD) has been described in those individuals who are
+homozygous or compound heterozygotes for pathogenic variants
+in the MMR gene and is characterised by café-au-lait spots and
+childhood-onset tumours [8, 9].
+
+Clinical and molecular diagnosis
+Alterations in the MMR genes lead to accumulation of errors during DNA replication, especially in repetitive sequences known as
+
+C The Author(s) 2019. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+V
+
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+Annals of Oncology
+microsatellites, causing MSI in the LS-related tumours. Due to
+the alterations in the MMR genes, the LS tumours may lack the
+expression of the corresponding MMR protein [tested by immunohistochemistry (IHC) staining]. MMR IHC testing on CRC
+tumours has a sensitivity and specificity of 94% and 88%, respectively, and is highly correlated to MSI status [10].
+Approximately 10% of CRCs display loss of expression of MLH1
+and MSI due to somatic hypermethylation of the MLH1 promoter,
+often associated with BRAF V600E mutation in sporadic CRC.
+Therefore, if loss of MLH1 expression (alone or concurrently with
+loss of PMS2 expression) is observed, methylation analysis of the
+MLH1 promoter in the tumour and/or analysis for somatic BRAF
+V600E mutation should be carried out first [III, B]. Similarly, if loss
+of MLH1 expression (alone or concurrently with loss of PMS2 expression) is observed in GCs, hypermethylation of the MLH1 promoter should be ruled out first [III, B]. Double somatic mutations
+in CRC and endometrial cancer (EC) have recently been recognised
+by tumour sequencing. Tumours with double somatic mutations in
+MMR genes have a molecular phenotype that mimic LS cancers, as
+they present with MSI and lack the expression of MMR proteins
+[11]. Therefore, somatic MMR gene testing for patients with unexplained abnormal tumour screening is suggested [III, B] [11].
+Clinical criteria used for identification of individuals at risk of
+LS, such as Amsterdam II criteria and revised Bethesda guidelines
+are based on age and family history of cancer (Table 1) [12, 13].
+Due to the limited sensitivity and specificity of the clinical criteria, a broader CRC molecular screening with MMR IHC and/or
+MSI via polymerase chain reaction was proposed (Figure 1). The
+universal MMR IHC tumour testing in CRC patients has been
+shown to be more sensitive than the Bethesda guidelines for the
+identification of individuals at risk of LS (100% versus 87.8%)
+[14]. In addition, clinical criteria are gradually being surpassed by
+the evolving universal MMR IHC due to the role of MSI as a biomarker for predicting good response to treatment with immune
+checkpoint inhibitors in advanced cancer patients [15, 16].
+Germline genetic testing can be considered in patients who fulfil
+the Amsterdam criteria, regardless of the MMR status. If multigene panel testing is available, MUTYH, POLE and POLD1 genes
+can be added to MMR genes, especially in those diagnosed at
+<50 years [III, C] [17, 18].
+Similarly, MMR IHC and/or MSI screening followed by analysis of MLH1 promoter hypermethylation (if loss of expression
+of MLH1) is also recommended for women with EC, since
+2%–3% of ECs are associated with LS [III, B] [19].
+For those individuals where no tumour tissue is available for
+molecular testing, prediction models that estimate the likelihood
+of finding an MMR gene pathogenic variant (i.e. PREMM model)
+constitute an effective clinical tool to consider referral for genetic
+testing [III, B] [20].
+Pathogenic genetic alterations might be frameshift, nonsense
+or splice site mutations that lead to truncating or unstable proteins, but large deletions and rearrangements are also common.
+Therefore, full germline genetic testing should include both DNA
+sequencing and large rearrangement analysis [III, A].
+
+Surveillance and risk reduction
+For individuals with LS, prevention and early detection of associated cancers by active surveillance can increase survival and
+
+Volume 30 | Issue 10 | 2019
+
+Special article
+improve quality of life. Thanks to advances in the genotype/
+phenotype correlation for LS patients, the surveillance protocol
+may be tailored according to the genetic alteration and family history of cancer (Table 2).
+Colorectal surveillance. Accelerated adenoma-carcinoma sequence has been demonstrated in individuals with LS. Periodic
+colonoscopy surveillance allows the resection of polyps and identification of early-stage CRC. Colonoscopies carried out every
+3 years have shown a CRC incidence and mortality reduction of
+62% and 66%, respectively, while more frequent screening has
+been associated with earlier stage of CRC at diagnosis and up to
+72% decrease in CRC mortality [21–23]. Since the diagnosis of
+CRC before age 25 is unlikely in individuals with LS, and the CRC
+risk in MSH6 and PMS2 mutation carriers is substantially lower
+than for MLH1 and MSH2 ones, onset of colonoscopy surveillance is recommended at the age of 25 years for MLH1 and MSH2
+mutation carriers and at the age of 35 years for MSH6 and PMS2
+mutation carriers [III, C] [24, 25]. In all cases, age of onset in the
+youngest member of the family is to be considered and surveillance should be started 5 years earlier [V, B]. Surveillance colonoscopy every 1–2 years in asymptomatic individuals with LS is
+recommended [III, A] [5].
+Chromoendoscopy with indigo carmine added to the standard
+colonoscopy has been shown to be substantially more effective
+than colonoscopy alone in LS individuals [26]. High-quality
+colonoscopy carried out in dedicated centres is advised [IV, C].
+Gastric and small bowel surveillance. There is no clear evidence
+to support upper gastrointestinal endoscopy surveillance in all LS
+patients. Consider testing and treating Helicobacter pylori (H.
+pylori) in all mutation carriers [27]. In regions with high GC incidence and in families with a history of gastric neoplasms, surveillance with upper endoscopy may be considered every 1–3 years,
+starting at the age of 30–35 years [27]. Routine surveillance of the
+small bowel in LS has a high rate of false-positive findings and it
+is not considered to be cost-efficient [IV, C].
+Pancreatic surveillance. Annual magnetic resonance imaging
+(MRI) and/or endoscopic ultrasound (EUS) surveillance in individuals with LS and one first-degree relative (FDR) affected with
+PC may be considered, although more supporting evidence is
+needed [IV, C] [28].
+Gynaecological surveillance. Transvaginal ultrasound (TV US)
+has shown poor sensitivity and specificity for the diagnosis of EC
+in women with LS, while endometrial sampling could identify
+patients with premalignant endometrial lesions or asymptomatic
+endometrial carcinomas. Prophylactic hysterectomy and/or
+bilateral salpingo-oophorectomy reduce the incidence of EC and
+ovarian cancer in the LS population, although the survival benefit
+has not been demonstrated [29].
+We recommend an annual gynaecological examination, TV US
+with cancer antigen 125 (CA 125) analysis and endometrial biopsy from age 30 to 35 years [IV, C]. Prophylactic hysterectomy
+with bilateral oophorectomy is an option that might be discussed
+and considered for mutation carriers who have completed childbearing or are postmenopausal [IV, C].
+
+doi:10.1093/annonc/mdz233 | 1559
+
+Special article
+
+Annals of Oncology
+
+Table 1. Amsterdam criteria II [12] and revised Bethesda [13] guidelines
+Amsterdam criteria II
+At least three relatives must have a cancer associated with LS (colorectal, cancer of the endometrium, small bowel, ureter or renal pelvis); all of the following criteria should be present:
+• One must be a FDR of the other two
+• At least two successive generations must be affected
+• At least one relative with a cancer associated with LS should be diagnosed before age 50
+• FAP should be excluded in the CRC case(s) (if any)
+• Tumours should be veriﬁed whenever possible
+Revised Bethesda guidelines
+Tumours from individuals should be tested for MSI in the following situations:
+• CRC diagnosed in a patient who is younger than 50 years of age
+• Presence of synchronous or metachronous colorectal or other LS-related tumoursa, regardless of age
+• CRC with MSI-high histologyb diagnosed in a patient who is younger than 60 years of age
+• CRC diagnosed in a patient with one or more FDRs with an LS-related cancer, with one of the cancers being diagnosed below age 50
+• CRC diagnosed in a patient with two or more ﬁrst- or second-degree relatives with LS-related cancer regardless of age
+a
+
+LS-related cancers include colorectal, endometrial, gastric, ovarian, pancreas, ureter and renal pelvis, biliary tract, brain (usually glioblastoma), small intestinal cancers, as well as sebaceous gland adenomas and keratoacanthomas.
+b
+Presence of tumour inﬁltrating lymphocytes, Crohn’s-like lymphocytic reaction, mucinous/signet ring differentiation or medullary growth pattern.
+CRC, colorectal cancer; FAP, familial adenomatous polyposis; FDR, ﬁrst-degree relative; LS, Lynch syndrome; MSI, microsatellite instability.
+Adapted from Vasen et al. [12] and Umar et al. [13] with permission.
+
+Figure 1. Algorithm for molecular diagnosis of Lynch syndrome.
+a
+If the loss of expression of MLH1 is concurrent with the loss of expression of MSH2 or MSH6 a germline genetic analysis should be recommended.
+CRC, colorectal cancer; IHC, immunohistochemistry; MSI, microsatellite instability.
+
+1560 | Stjepanovic et al.
+
+Volume 30 | Issue 10 | 2019
+
+Special article
+
+Annals of Oncology
+Table 2. LS surveillance recommendations
+Site
+
+Technique
+
+Age (years)
+
+Colorectum
+
+Colonoscopy
+
+• MLH1/MSH2: 25a,b 1–2
+• MSH6/PMS2: 35
+
+Uterus
+
+TV US
+Endometrial
+biopsy
+
+30–35
+
+1
+
+Ovaries
+
+CA 125 þ TV US
+
+30–35
+
+1
+
+Stomach
+
+c
+
+UGI endoscopy
+30–35
+Consider testing
+Helicobacter pylori
+
+Interval
+(years)
+
+1–3
+
+Other LSNoned
+associated cancers
+a
+
+Or 5 years before the earliest CRC, if diagnosis <25 years.
+b
+Consider later age for MSH6 carriers.
+c
+Consider in high-incidence countries or family history of gastric cancer.
+d
+Consider pancreatic/urinary tract cancer surveillance if family history.
+CA 125, cancer antigen 125; CRC, colorectal cancer; LS, Lynch syndrome;
+TV, transvaginal; UGI, upper gastrointestinal; US, ultrasound.
+
+Urinary tract surveillance. Urine cytology surveillance in individuals with LS has a poor sensitivity (29%) and a high rate of falsepositive results, while the benefit of the US screening is unknown
+[30]. We only recommend urinary tract surveillance under a research protocol [IV, C].
+Chemoprevention. The Colorectal Adenoma/Carcinoma Prevention Programme 2 (CAPP2) has shown a 60% reduction in the incidence of CRC- and other LS-associated tumours among those
+individuals treated with 600 mg daily aspirin taken for at least
+2 years versus placebo [31]. Aspirin may be considered as a cancer
+prevention measure in individuals with LS, although the optimal
+dose has still not been determined and is the objective of the ongoing CAPP3 study that compares daily aspirin at 600, 300 and
+100 mg [I, C].
+Environmental and lifestyle factors. Smoking and obesity increase
+the risk of adenomas and CRC in LS [32]. Patients are advised to
+refrain from smoking and stay within normal weight range [III, C].
+
+Cancer treatment
+Colorectal surgery. It has been shown that there was an increased
+risk of metachronous CRC after partial colectomy and that the
+quality of life was similar after partial and total colectomy with
+ileorectal anastomosis (IRA) [19]. Therefore, an extended colectomy may be an option in patients with LS undergoing primary
+surgery for CRC, especially in younger patients [IV, C].
+Systemic treatment. Presence of MSI is a demonstrated prognostic factor and remains controversial as predictive for current
+chemotherapy (ChT) regimens in CRC and GC. Current
+
+Volume 30 | Issue 10 | 2019
+
+evidence does not allow definitive recommendations regarding
+ChT regimens based on the MMR or MSI status [33]. The MMRor MSI-deficient status may be useful to determine the subset
+of stage II CRC patients who present a low risk of recurrence and
+in whom an adjuvant ChT may not be necessary [II, C] [34].
+Several studies have demonstrated that MMR-deficient
+tumours harbour a high mutational load, and express numerous
+neoantigens that makes them sensitive to immunotherapy. Two
+immune checkpoint inhibitors have demonstrated substantial
+responses in patients with advanced MMR-deficient cancers and
+have received accelerated approval by the United States Food and
+Drug Administration (FDA): pembrolizumab for any MMRdeficient solid tumour and nivolumab for colorectal MMRdeficient tumours [15, 16].
+
+Familial colorectal cancer X syndrome
+This syndrome represents up to 40% of families who fulfil the
+Amsterdam criteria for hereditary non-polyposis colon cancer
+but do not harbour a tumour MMR deficiency or an underlying
+germline MMR gene alteration [35]. Risk of cancer in these families seems to be limited to the colorectum, and colonoscopy surveillance at 3–5-year intervals, starting at age 40 or 10 years earlier
+than the age at diagnosis of the youngest case in the family may be
+considered [IV, C].
+
+Constitutional mismatch repair-deficiency
+syndrome
+Patients with biallelic mutations in one of the MMR genes are
+usually affected with childhood cancers. There is a high-incidence
+of CRC, adenomatous polyposis and small bowel tumours,
+haematological tumours (leukaemia or lymphoma), brain, endometrium and urinary tract tumours. Two expert consensuses
+have proposed a surveillance approach that includes semestral
+blood work and abdominal US, annual brain MRI, upper endoscopy and colonoscopy and consideration of annual whole-body
+MRI. Both consensuses acknowledge the lack of robust evidence
+and the need for more research [36, 37].
+
+Lynch-like syndrome
+This refers to patients who resemble LS due to the presence of
+MMR deficiency or MSI (excluding MLH1 hypermethylation)
+but lack a germline mutation. In these cases, MMR genetic testing
+on tumour DNA would recognise that 50%–70% of these cases
+harbour biallelic somatic mutations that might explain the
+abnormal IHC and/or MSI results [38]. Therefore, ruling out a
+sporadic somatic biallelic inactivation of these genes would spare
+an intensive surveillance of Lynch-associated tumours in relatives
+considered potentially at risk.
+
+Hereditary polyposis colorectal cancer
+syndromes
+Colorectal polyposis is a group of syndromes characterised by
+multiple polyps in the large intestine and an increased risk of
+CRC, as well as extraintestinal manifestations. Depending on
+the histology of the polyps, they are classified into adenomatous,
+serrated polyposis and hamartomatous polyposis.
+
+doi:10.1093/annonc/mdz233 | 1561
+
+Special article
+Familial adenomatous polyposis
+Prevalence and penetrance. FAP is an autosomal dominant
+inherited disorder associated with germline mutations in the adenomatous polyposis coli (APC) gene and characterised by the
+presence of multiple colorectal adenomas. In its classical form,
+FAP patients have a near 100% risk of developing CRC at an early
+age if prophylactic colectomy is not carried out. It represents
+<1% of all cases of CRC and constitutes the most frequent cause
+of polyposis with a known genetic cause [39].
+Clinical and molecular diagnosis. Clinical diagnosis is based on
+two main phenotypes, the classical form characterised by >100
+adenomas along the entire colon, and the attenuated phenotype
+that presents between 10 and 100 adenomas, preferentially localised in the right colon and with a later onset. It is associated with
+a broad spectrum of extracolonic tumours, including hepatoblastoma in children, duodenal, pancreatic, thyroid and brain cancers. Germline mutation in the APC gene is found in 80% of the
+classical FAP and only in 10% of attenuated cases [40]. Mutations
+located between codons 1250 and 1464 of the APC gene have
+been associated with more severe forms of FAP. In 30%–40% of
+cases, no family history of FAP is present, thus suggesting a de
+novo origin [41].
+Full germline genetic testing should include both DNA
+sequencing and large rearrangement analysis; APC analysis
+should include large rearrangements [III, A]. With the incorporation of multigene panels, the genetic testing can be carried out
+as a single analysis of multiple genes involved in colorectal
+adenomatous polyposis (APC, MUTYH, POLE, POLD1, NTHL1)
+[42, 43].
+Surveillance and risk reduction. Surveillance should be done in
+all mutation carriers as well as in all members of any given family
+for whom the causative germline mutation cannot be identified
+(Tables 3 and 4).
+Colorectal surveillance: In patients with classical FAP, flexible
+sigmoidoscopy or colonoscopy should be carried out every
+2 years, starting at age 12–15 years [44]. Once adenomas are
+detected, colonoscopy should be carried out every 1–2 years until
+colectomy is planned. In patients with APC-attenuated FAP
+(AFAP), colonoscopic surveillance should be done every
+1–2 years, starting at the age of 18–20 years [III, C] [44].
+Treatment of classical FAP is surgical and should be carried out
+before the age of 25 years. The choice of surgical technique [total
+colectomy with IRA or proctocolectomy with ileal pouch-anal
+anastomosis (IPAA)] depends on the age at diagnosis, severity of
+the polyposis, presence of rectal polyps and risk of developing
+desmoids [45]. Annual or biannual endoscopic follow-up is recommended after surgery in patients with FAP [III, B].
+Secondary chemoprevention with the use of non-steroidal
+anti-inflammatory drugs (NSAIDs) has been shown to reduce the
+number and extent of colorectal adenomas and, less reliably, duodenal adenomas. Due to the cardiovascular risk of NSAIDs (particularly for cyclooxygenase-2 [COX-2] inhibitors), no single
+chemoprevention drug has an approved indication for the management of FAP or MUTYH-associated polyposis (MAP). Their
+use needs to be balanced with the side-effects [II, B] [46].
+
+1562 | Stjepanovic et al.
+
+Annals of Oncology
+Table 3. Classical FAP surveillance guidelines
+Site
+
+Technique
+
+Age
+(years)
+
+Interval
+(years)
+
+Colorectal
+
+Sigmoidoscopy and
+colonoscopy (if adenomas)a
+
+12–15
+
+1–2
+
+Duodenum
+
+Gastroduodenal endoscopy
+(front and side view)
+
+25–30
+
+1–5b
+
+Thyroid
+
+Cervical US or cervical palpation
+
+25–30
+
+1
+
+c
+
+1
+
+Liver
+
+Abdominal US
+Serum alpha foetoprotein
+
+Desmoids
+
+CT/MRId
+
+0.5
+
+a
+
+If adenomas are found at sigmoidoscopy, carry out annual colonoscopies until colectomy.
+b
+Periodicity according to the Spigelman stage.
+c
+Until age 7 years.
+d
+If family history or symptoms. Periodicity is not well-established.
+CT, computed tomography; FAP, familial adenomatous polyposis; MRI,
+magnetic resonance imaging; US, ultrasound.
+
+Gastric and small bowel surveillance: Fundic gland polyps are
+frequently found in FAP patients, while gastric neoplasias are uncommon. Duodenal polyps are present in up to 90% of FAP
+patients, and duodenal cancer is the second cause of cancer death in
+FAP, with a cumulative lifetime risk of 5% [47]. Therefore, gastroduodenal endoscopy surveillance is recommended every 5 years
+starting at 25–30 years of age or at the time of diagnosis of colonic
+polyposis for both classical FAP and AFAP patients [III, C]. If
+adenomas are detected, surveillance is guided by the Spigelman classification based on the number, size and histology of adenomas
+(Table 5) [47]. For Spigelman stage I, the upper endoscopy is recommended every 5 years and for Spigelman stage II every 3 years,
+while for more advanced stages the intervals should be shortened to
+every 1–2 years for Spigelman stage III and every 6 months or
+prophylactic surgery for Spigelman stage IV [III, B] [44]. Additional
+side-viewing endoscopic surveillance is recommended for patients
+with Spigelman stages III and IV and/or papillary involvement.
+Duodenal adenomas are usually managed by endoscopic polypectomy, although surgery (duodenectomy or duodenalpancreatectomy) may be necessary in advanced cases. The risk of
+cancer in jejunum and ileum is extremely low; therefore, routine
+surveillance with endoscopic capsule is not recommended [V, C].
+Extraintestinal surveillance: Some experts recommend annual
+thyroid palpation and/or ultrasonography, due to a 2% lifetime
+risk of thyroid cancer in FAP patients [44]. Surveillance for hepatoblastoma has been suggested with biannual determination of serum
+alpha foetoprotein levels and abdominal ultrasonography in children of patients with FAP, from birth to 7 years of age [IV, C] [48].
+Development of desmoid tumours is mainly related to a positive family history, abdominal surgery and site of the mutation
+and can occur inside the abdomen or in the abdominal wall. In
+this setting, regular physical examination and abdominal computed tomography or MRI should be carried out. The options
+for treatment include pharmacological treatment (NSAIDs
+
+Volume 30 | Issue 10 | 2019
+
+Special article
+
+Annals of Oncology
+Table 4. Other polyposis syndromes surveillance guidelines
+Syndrome
+
+Site
+
+Technique
+
+Age (years)
+
+Interval (years)
+
+Attenuated FAP
+
+Colorectal
+Duodenum
+
+Colonoscopy
+Gastroduodenal endoscopy (front and side view)
+
+18–20
+25–30
+
+1–2
+1–5a
+
+MAP
+
+Colorectal
+Duodenum
+
+Colonoscopy
+Gastroduodenal endoscopy (front and side view)
+
+18–20
+25–30
+
+1–2
+1–5a
+
+PPAP
+
+Colorectal
+Uterus
+
+Colonoscopy
+TV US
+
+18–20
+30–35
+
+1–2
+1
+
+SP
+
+Colorectal
+
+Colonoscopy
+
+45
+
+1–2b
+
+PJ
+
+Colorectal
+Gastric
+Small bowel
+Pancreas
+
+Colonoscopy
+Gastroduodenal endoscopy
+Capsule endoscopy or MRI enterography
+Endoscopic ultrasonography or MRI
+
+8c
+8c
+8c
+30
+
+1–3
+1–3
+1–3
+1
+
+Juvenile polyposis
+
+Colorectal
+Gastric
+
+Colonoscopy
+Gastroduodenal endoscopy
+
+15
+15
+
+1–3
+1–3
+
+a
+
+Periodicity according to the Spigelman stage.
+FDR: starting at 45 or 10 years earlier than the affected relative. If no polyps, repeat every 5 years.
+c
+Basal colonoscopy at age 8. If negative for polyps, re-start surveillance at age 18.
+FAP, familial adenomatous polyposis; FDR, ﬁrst-degree relative; MAP, MUTYH-associated polyposis; MRI, magnetic resonance imaging; PJ, Peutz–Jeghers;
+PPAP, polymerase proofreading-associated polyposis; SP, serrated polyposis; TV, transvaginal; US, ultrasound.
+b
+
+Table 5. Spigelman classiﬁcation for duodenal polyposis in familial adenomatous polyposis [47]
+Variable
+
+1 point
+
+2 points
+
+3 points
+
+Number of polyps
+Polyp size (mm)
+Histology
+Dysplasia
+
+1–4
+1–4
+Tubular
+Mild
+
+5–20
+5–10
+Tubulovillous
+Moderate
+
+>20
+>10
+Villous
+Severe
+
+Stage 0, 0 points; stage I, 4 points; stage II, 5–6 points; stage III, 7–8 points;
+stage IV, 9–12 points.
+Reprinted from Groves et al. [47] with permission.
+
+and/or antioestrogens), ChT, surgical excision or radiotherapy
+[48].
+
+MUTYH-associated polyposis
+Prevalence and penetrance. MAP is an autosomal recessive syndrome caused by biallelic germline mutations in the MUTYH
+gene and usually characterised by a phenotype of attenuated adenomatous polyposis and a lower risk of extracolonic manifestations in comparison with FAP.
+The development of polyps in individuals carrying biallelic
+mutations in the MUTYH gene usually begins in the second or
+third decade of life. A CRC risk of 19% at 50 years and 43% at
+60 years (with a mean age of 48 years) has been described [49].
+The risk of duodenal adenomas is low.
+Clinical and molecular diagnosis. The clinical spectrum of
+MUTYH germline mutations is heterogeneous, including
+
+Volume 30 | Issue 10 | 2019
+
+attenuated and classic adenomatous polyposis, CRC without
+polyposis and Lynch-like syndrome. Biallelic MUTYH mutations
+should be suspected in patients with an attenuated form of adenomatous polyposis or classical FAP with a recessive pattern of inheritance. It should also be considered in CRC patients diagnosed
+before the age of 50 years, and in patients with multiple colonic
+polyps (>10, including both adenomatous and serrated ones).
+The most prevalent mutations in the Caucasian population are
+Y179C and G396D [40]; however, there exist ethnic and geographical differences in the mutation landscape of this gene. The
+prevalence of MUTYH heterozygotes in the general population is
+1%–2% [50].
+Germline genetic testing should include all exons of MUTYH.
+With the incorporation of multigene panels, due to the substantial overlap of the clinical phenotype of polyposis syndromes,
+we recommend a multigene single analysis of the genes involved
+in colorectal adenomatous polyposis (APC, MUTYH, POLE,
+POLD1, NTHL1) [V, B].
+Surveillance and risk reduction.
+Colorectal surveillance: In patients with MAP, a first colonoscopy
+is recommended at the age of 18–20 years, and every 1–2 years
+(Table 4). When the polyps cannot be controlled endoscopically,
+colectomy with IRA should be considered in absence of rectal
+involvement; however, if rectal involvement is substantial, a total
+proctocolectomy with IPAA is indicated. After surgery is carried
+out, it is recommended to continue with 1–2-year surveillance
+intervals of the remaining colorectal segment [III, C] [44].
+CRC screening in monoallelic mutation carriers is recommended as for FDRs of a patient with sporadic CRC. There is no
+evidence of the usefulness of chemoprevention in this condition.
+
+doi:10.1093/annonc/mdz233 | 1563
+
+Special article
+Gastric and small bowel surveillance: In most cases, the surveillance strategy with upper endoscopy is determined based on
+the monitoring of duodenal polyps, carrying out a first endoscopy at 25–30 years and continuing depending on the Spigelman
+stage (Table 5) [47].
+
+Polymerase proofreading-associated polyposis
+Recent studies have identified two genes with autosomal dominant inheritance associated with multiple adenomas and earlyonset CRC: POLE and POLD1 [51]. Mutations in these genes
+have been related to different phenotypes that range from a classic
+phenotype with gastroduodenal involvement to attenuated forms
+or characteristic tumours of LS [52]. An approach similar to
+MAP is recommended with regular colonoscopy surveillance
+(Table 4).
+
+Adenomatous polyposis associated with germinal
+mutation in NTHL1
+Recent studies of whole exome sequencing have identified the association of biallelic germinal mutation of NTHL1 (16p13.3)
+with attenuated adenomatous polyposis. This new polyposis syndrome has an autosomal recessive inheritance and probably an
+increased risk of EC in biallelic mutation carriers [53]. There are
+no specific recommendations for the management of these
+patients and an approach similar to MAP is recommended with
+regular colonoscopy surveillance.
+
+Serrated polyposis syndrome
+Prevalence and penetrance. Serrated polyposis syndrome (SPS) is
+a condition characterised by the combination of large and/or numerous serrated lesions spreading throughout the colorectum
+with an increased lifetime risk of CRC (15%–30%). While prevalence of SPS remains unknown, this syndrome is emerging as one
+of the most common CRC polyp syndromes [54, 55].
+Clinical and molecular diagnosis. According to the World Health
+Organization (WHO) criteria developed in 2019 [56], SPS is
+defined as:
+Criterion 1: 5 serrated lesions/polyps proximal to the rectum, all being 5 mm in size, with 2 being 10 mm
+in size;
+Criterion 2: >20 serrated lesions/polyps of any size distributed throughout the large bowel, with 5 being proximal
+to the rectum.
+Any histological subtype of serrated lesion/polyp (hyperplastic
+polyp, sessile serrated lesion without or with dysplasia, traditional
+serrated adenoma and unclassified serrated adenoma) is included
+in the final polyp count. The polyp count is cumulative over multiple colonoscopies.
+The genetic basis of SPS remains largely unknown. Biallelic
+MUTYH mutations have been reported in some patients fulfilling
+the WHO criteria, usually in the context of a concomitant attenuated form of adenomatous polyposis. Recently, RNF-43 germline
+mutations have been reported in some families with SPS [57].
+
+1564 | Stjepanovic et al.
+
+Annals of Oncology
+Surveillance and risk reduction. Recent evidence suggests
+that surveillance with colonoscopy should be carried out every
+1–2 years (it can be extended to 2 years in most patients based on
+certain risk factors, i.e. polyp multiplicity or advanced features)
+(Table 4) [III, C] [58, 59]. Although more evidence is needed,
+screening by colonoscopy every 5 years in FDRs of patients with
+SPS is commonly recommended, starting at the age of 45 years
+(or 10 years earlier than the age of diagnosis of the youngest
+affected family member) [60, 61]. There is no evidence to support
+extracolonic cancer surveillance in SPS patients [62].
+Surgery is reserved to patients with CRC or those who cannot
+safely be managed endoscopically. Total colectomy with IRA is the
+technique of choice in patients with severe and recurrent polyposis,
+whereas segmental colectomy may be indicated in less severe cases.
+After colectomy, it is recommended to continue with 1–2-year surveillance intervals of the remaining colorectal segment [III, C].
+
+Hamartomatous polyposis
+Hamartomatous polyposis syndromes, such as Peutz–Jeghers
+syndrome (PJS) and juvenile polyposis syndrome are rare entities
+with diagnostic criteria and surveillance recommendations based
+on expert consensus (Table 4) [63] [IV, C].
+
+Hereditary gastric cancer
+The majority of GCs are sporadic. Familial clustering is observed in
+about 10% of the cases and 1%–3% are hereditary, encompassing
+hereditary diffuse GC (HDGC) and familial intestinal GC (FIGC).
+The stomach is also affected by gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS) syndrome that was recently recognised as a rare variant of FAP. Furthermore, GC can
+develop in the setting of other hereditary cancer syndromes such as
+Li–Fraumeni syndrome (LFS), FAP, PJS, LS, hereditary breast/
+ovarian cancer syndrome (HBOCS), MAP and juvenile polyposis.
+The lifetime risk of GC in these syndromes varies substantially between populations studied but is generally low. A diagnostic algorithm for hereditary GC is shown in Figure 2.
+
+Hereditary diffuse gastric cancer
+Prevalence and penetrance. HDGC is an autosomal dominant
+cancer susceptibility syndrome characterised by signet ring cell
+(SRC) cancer/diffuse gastric cancer (DGC) and lobular breast
+cancer (LBC). CDH1 gene, encoding for E-cadherin, was identified as a genetic cause of HDGC and recently the CTNNA1 gene,
+encoding a–E-catenin, has also been implicated [64, 65]. The incidence of heterozygous CTNNA1 germline mutation is low in
+families with DGC (1%–2%).
+HDGC accounts for <3% of the global burden of GC. The cumulative risk of DGC for CDH1 mutation carriers by the age of
+80 years is reported to be 70% for men and 56% for women [66].
+The cumulative risk of LBC for women with a CDH1 mutation is
+estimated to be 42% by 80 years. The age of onset of HDGC may
+be extremely variable (14–85 years).
+Clinical and molecular diagnosis. Genetic testing for CDH1 is
+recommended in families with clinical criteria of HDGC [III, A],
+Testing of germline CDH1 alterations is recommended in
+
+Volume 30 | Issue 10 | 2019
+
+Annals of Oncology
+
+Special article
+
+Figure 2. Algorithm for hereditary gastric cancer diagnosis.
+a
+Including ﬁrst- or second-degree relatives.
+DGC, diffuse gastric cancer; FIGC, familial intestinal gastric cancer; GAPPS, gastric adenocarcinoma and proximal polyposis of the stomach;
+GC, gastric cancer; LBC, lobular breast cancer.
+
+Volume 30 | Issue 10 | 2019
+
+doi:10.1093/annonc/mdz233 | 1565
+
+Special article
+families that fulfil one of the following three criteria, according to
+the International Gastric Cancer Linkage Consortium (IGCLC)
+guidelines [66]:
+•
+•
+•
+
+Two or more documented cases of GC at any age in ﬁrst- or
+second-degree relatives, with at least one conﬁrmed DGC;
+Personal history of DGC before the age of 40 years or
+Personal or family history (ﬁrst- or second-degree relatives)
+of DGC and LBC, one diagnosed before the age of 50 years.
+
+Genetic testing can be considered in families with bilateral or
+multiple cases of LBC before the age of 50 years, families with
+clustering of DGC and cleft lip/cleft palate and any patient diagnosed with in situ or pagetoid spread of SRCs [66].
+The age at which at-risk relatives should be genetically tested
+should take into consideration the earliest age of cancer onset in
+that family. Testing from the late teens or early 20s is favoured in
+families with early-onset DGC [66].
+Germline genetic testing should include both DNA sequencing
+and large rearrangement analysis. The identification of germline
+CDH1 missense variants requires additional studies to assess their
+putative pathogenicity.
+Surveillance and risk reduction.
+Endoscopic surveillance and prophylactic surgery: Asymptomatic
+carriers of CDH1 pathogenic germline mutations are offered
+prophylactic gastrectomy or, for selected groups, annual endoscopic surveillance [IV, B]. Surveillance with annual endoscopy
+is recommended for individuals aged <20 years, for those who
+decline prophylactic gastrectomy unless they have a positive
+biopsy, for those with comorbidities and for those with familial
+DGC and a variant of uncertain significance in CDH1. A
+minimum of 30 random biopsies in the endoscopy is recommended, as described in the Cambridge protocol [IV, B] [66].
+Any malignant lesion detected endoscopically would prompt a
+referral for gastrectomy; however, all patients undergoing
+endoscopy for HDGC should be informed that given the very
+focal and often endoscopically invisible nature of these lesions,
+it is quite possible that lesions will not be detected by random
+biopsies.
+Total gastrectomy is recommended between 20 and 30 years of
+age [IV, A]. In biopsy-positive individuals, a curative total gastrectomy is advised, regardless of age. Prophylactic gastrectomy
+at an age of >75 years should be carefully considered.
+Breast cancer surveillance: Annual breast MRI with mammography starting at age 30 is recommended in women with a
+CDH1 mutation [IV, B]. Annual clinical breast examination
+and breast cancer awareness by the patient and her physicians
+are essential.
+
+Familial intestinal gastric cancer
+Prevalence and penetrance. The diagnosis is considered when
+there is a family history of intestinal-type GC with an autosomal
+dominant inheritance pattern.
+
+Annals of Oncology
+Criteria in low-incidence countries include:
+•
+•
+
+At least two ﬁrst- or second-degree relatives affected by intestinal GC, one of them diagnosed before the age of 50 years, or
+Three or more relatives with intestinal GC at any age [67].
+
+The diagnosis is considered when there is a family history of
+intestinal-type GC in families without polyposis. The genetic
+cause of FIGC is currently unknown.
+Surveillance and risk reduction. There is a lack of evidence to
+make robust recommendations for the management of individuals at risk of FIGC [68] [V, C]. Eradication of H. pylori is advised
+in family members of patients with intestinal GC at <40 years or
+in families with clustering of FIGC.
+
+Gastric adenocarcinoma and proximal polyposis of
+the stomach
+Prevalence and penetrance. GAPPS is an autosomal dominant
+cancer predisposition syndrome with a substantial risk of gastric,
+but not colorectal, adenocarcinoma [69].
+Clinical and molecular diagnosis. Clinical criteria are required
+for the diagnosis of GAPPS:
+•
+•
+•
+
+•
+•
+
+Gastric polyps restricted to the body and fundus with no evidence of colorectal or duodenal polyposis;
+>100 polyps carpeting the proximal stomach in the index
+case, or >30 polyps in an FDR of another case;
+Mainly fundic gastric polyps, some with regions of dysplasia
+(or a family member with either dysplastic fundic gastric polyps or gastric adenocarcinoma);
+Autosomal dominant pattern of inheritance;
+Exclusions include other hereditary gastric polyposis syndromes and use of proton-pump inhibitors [69].
+
+GAPPS presents with incomplete penetrance. The age of onset
+of GC is variable (23–75 years; median 50 years) and the typical
+carpeting fundic gland polyposis with dysplasia has been detected
+as early as 10 years of age.
+The genetic defect was identified as point mutations in the promoter 1B of the APC gene that co-segregated with disease in six
+GAPPS families [70]. Therefore, GAPPS is considered as an FAP
+variant with a predominant gastric phenotype.
+Surveillance and risk reduction. The management includes endoscopic surveillance with random biopsies or preferably polypectomies directed to large/irregular polyps and, eventually,
+prophylactic gastrectomy. The limitations of endoscopic surveillance, the patient-specific risk of morbidity associated with
+prophylactic surgery and the risk of GC within the specific family
+need to be balanced [70, 71]. Due to the limited data available,
+individualised management is advised.
+
+Hereditary pancreatic cancer
+Prevalence and penetrance
+
+Clinical and molecular diagnosis. In 1999, the IGCLC proposed
+diagnostic criteria analogous to the Amsterdam criteria in highincidence countries (e.g. Portugal, Japan).
+
+1566 | Stjepanovic et al.
+
+Approximately 10% of patients with PC present a family cancer
+history. There are several hereditary syndromes associated with
+
+Volume 30 | Issue 10 | 2019
+
+Annals of Oncology
+
+Special article
+
+Table 6. Summary of recommendations
+Hereditary non-polyposis colorectal cancer syndrome (Lynch syndrome)
+ Tumour testing with IHC for MMR proteins and/or MSI is recommended in individuals with CRC [III, A]
+ If loss of MLH1 is observed in the tumour, analysis of BRAF V600E mutation or analysis of the methylation of the MLH1 promoter should be carried out
+ﬁrst to rule out a sporadic case [III, B]
+ Somatic MMR gene testing for patients with unexplained abnormal tumour screening is suggested [III, B]
+ Clinical risk can be assessed using Amsterdam criteria II or the revised Bethesda guidelines
+ MMR IHC and/or MSI screening, with MLH1 promotor hypermethylation analysis in cases of MLH1 expression loss, is recommended for women with
+endometrial cancer [III, B]
+ Full germline genetic testing should include DNA sequencing and large rearrangement analysis [III, A]
+ Follow-up recommendations in mutation carriers include colonoscopy every 1–2 years [III, A], and gynaecological examination (with TV US, CA 125
+and endometrial biopsy) on a yearly basis from age 30 to 35 years [IV, C]. In all cases, age of onset in the youngest member of the family is to be considered and surveillance be started 5 years earlier [V, B]. High-quality colonoscopy carried out in dedicated centres is advised [IV, C]. UGI endoscopy
+surveillance (every 1–3 years, from age 30–35 years) may be considered in patients at high risk. Prophylactic gynaecological surgery might be an option for female carriers who have completed childbearing or are postmenopausal [IV, C]
+Cancer treatment
+ Extended colectomy may be an option in patients undergoing primary surgery for CRC [IV, C]
+ MMR or MSI status can be used to direct adjuvant ChT [II, C]
+ Advanced MMR-deﬁcient tumours may beneﬁt from pembrolizumab or nivolumab
+Other syndromes
+ In familial CRC cancer X syndrome, colonoscopy surveillance (every 3–5 years) should generally start at age 40 years [IV, C]
+ In Lynch-like syndrome, MMR genetic testing rules out sporadic somatic biallelic mutations
+Hereditary polyposis colorectal cancer syndromes
+ Patients with multiple colorectal adenomas (>10) should be considered for panel germline genetic testing that includes APC, MUTYH, POLE, POLD1
+and NTHL1 genes. APC analysis should include large rearrangements [III, A]
+ In families with classic FAP, sigmoidoscopy should begin at the age of 12–15 years and be carried out every 1–2 years. Once adenomas are detected,
+colonoscopy should be carried out every 1–2 years until colectomy is planned. Surgery is indicated if there are large numbers of adenomas, or with a
+high degree of dysplasia [III, C]
+ In families with AFAP, colonoscopy should be carried out every 2 years starting at the age of 18–20 years and continued lifelong in mutation carriers.
+Surgery is indicated if there are large numbers of adenomas. Some patients with AFAP can be conservatively managed with annual colonoscopy and
+polypectomy [III, C]
+ The type of colorectal surgery in FAP (total colectomy þ IRA versus proctocolectomy þ IPAA) depends on the age of the patient, the severity of rectal
+polyposis and the risk of developing desmoid tumours [III, B]
+ After colorectal surgery, surveillance of the rectum or pouch should be carried out [III, B]
+ In both classic FAP and AFAP, screening for extracolonic manifestations (gastroduodenal polyposis, thyroid cancer, desmoid tumours) should start
+when colorectal polyposis is diagnosed or at the age of 25–30 years, whichever comes ﬁrst [III, C]
+ If adenomas are detected, surveillance should be guided by the Spigelman classiﬁcation [III, B]
+ Duodenal adenomas are usually managed by endoscopic polypectomy, although surgery (duodenectomy or duodenal-pancreatectomy) may be necessary in advanced cases
+ Regular physical examination and abdominal CT or MRI should be conducted in patients who are at risk of developing desmoid tumours, with treatment options including NSAIDs and/or antioestrogens, ChT, surgical excision or RT
+MAP
+ Biallelic MUTYH mutations should be suspected in cases of AFAP or FAP with a recessive pattern of inheritance, diagnosis before the age of 50 years,
+and multiple colonic polyps
+ A multigene single analysis of APC, MUTYH (all exons), POLE, POLD1 and NTHL1 is recommended [V, B]
+ Colonoscopy should be conducted every 1–2 years from the age of 18–20 years
+ Where endoscopic control is not possible, IRA or IPAA, depending on the degree of rectal involvement, followed by annual endoscopic surveillance,
+is recommended [III, C]
+ CRC screening in monoallelic mutation carriers is recommended
+ UGI endoscopic surveillance of duodenal polyps should begin at age 25–30 years and continue according to the Spigelman stage
+Other syndromes
+ For POLE- and POLD1-mutation-positive PPAP and NTHL1-mutation-positive adenomatous polyposis, colonoscopic surveillance should follow MAP
+recommendations
+ In SPS, colonoscopic surveillance should be carried out every 1-2 years (it can be extended to 2 years in most patients, based on risk factors)
+ In FDRs of patients with SPS, colonoscopic screening every 5 years, from age 45 years, is generally recommended
+ In SPS patients with CRC or where disease cannot be managed endoscopically, total colectomy with IRA or segmental colectomy are indicated, followed by annual surveillance [III, C]
+Continued
+
+Volume 30 | Issue 10 | 2019
+
+doi:10.1093/annonc/mdz233 | 1567
+
+Special article
+
+Annals of Oncology
+
+HDGC
+ Genetic testing for CDH1 is recommended in families with clinical criteria of hereditary diffuse gastric cancer [III, A]
+ Testing of germline CDH1 alterations is recommended in families fulﬁlling at least one of the IGCLC guidelines criteria
+ Testing from late teens or early 20s is favoured in families with early-onset DGC
+ Germline testing should include both DNA sequencing and large rearrangement analysis
+ Annual endoscopy surveillance is recommended for individuals aged < 20 years, those declining gastrectomy and those with familial DGC and a
+CDH1 variant of uncertain signiﬁcance
+ A minimum of 30 random biopsies is recommended [IV, B] and a curative gastrectomy is recommended for biopsy-positive individuals, regardless of
+age
+ Total gastrectomy is recommended between 20 and 30 years of age [IV, A]
+ Prophylactic gastrectomy is recommended in carriers of a pathogenic germline CDH1 mutation between 20 and 30 years [IV, A], and annual breast
+MRI in female mutation carriers starting at age 30 [IV, B]
+ Annual clinical breast examination and breast cancer awareness by the patient and her physicians are essential
+Familial intestinal gastric cancer
+ The diagnosis of FIGC is considered when there is a family history of intestinal-type GC in families without polyposis
+ No robust recommendations can be made for the management of individuals at risk [V, C], but Helicobacter pylori eradication is advised in family
+members of patients with intestinal GC at < 40 years or in families with clustering of FIGC
+Gastric adenocarcinoma and proximal polyposis of the stomach
+ GAPPS is diagnosed according to the degree and distribution of gastric polyps and familial history
+ Management should be individualised and includes endoscopic surveillance, with random biopsies or polypectomies, and eventual prophylactic
+gastrectomy
+Hereditary PC
+ Multigene panel testing, covering BRCA1, BRCA2, PALB2, CDKN2A, is recommended for families with a strong clustering of pancreatic cancer [IV, B]
+ Surveillance generally begins at age 50 years (or 10 years earlier than the age of the youngest affected relative) [IV, B], and annual endoscopic ultrasonography and/or pancreatic MRI are the procedures of choice.
+ Patients with HP or PJS are recommended to start surveillance at age 30 and 40, respectively
+ For suspicious lesions, surgical intervention must be individualised
+ Prophylactic pancreatectomy is not indicated in gene mutation carriers without any precursor lesion [V, A]
+AFAP, attenuated familial adenomatous polyposis; APC, adenomatous polyposis coli; CA 125, cancer antigen 125; ChT, chemotherapy; CRC, colorectal cancer; CT, computed tomography; DGC, diffuse gastric cancer; FAP, familial adenomatous polyposis; FDR, ﬁrst-degree relative; FIGC, familial intestinal gastric
+cancer; GAPPS, gastric adenocarcinoma and proximal polyposis of the stomach; GC, gastric cancer; HDGC, hereditary diffuse gastric cancer; HP, hereditary
+pancreatitis; IGCLC, International Gastric Cancer Linkage Consortium; IHC, immunohistochemistry; IPAA, ileal pouch-anal anastomosis; IRA, ileorectal anastomosis; MAP, MUTYH-associated polyposis; MMR, mismatch repair; MRI, magnetic resonance imaging; MSI, microsatellite instability; NSAID, non-steroidal
+anti-inﬂammatory drug; PC, pancreatic cancer PJS, Peutz-Jeghers syndrome; RT, radiotherapy; SPS, serrated polyposis syndrome; TV, transvaginal; UGI, upper
+gastrointestinal; US, ultrasound.
+
+an increased risk of PC: HBOCS, familial atypical multiple mole
+melanoma (FAMMM), LS, FAP, ataxia telangiectasia (ATM), PJS
+and hereditary pancreatitis (HP). Of these syndromes, PJS and
+HP are associated with the highest accumulated risk for PC (36%
+and 18%–53%, respectively) [72, 73].
+
+Clinical and molecular diagnosis
+Diagnosis is usually based upon clinical criteria of the different
+syndromes associated, followed by a confirmation with a genetic
+test. These hereditary cancer syndromes account for approximately 10%–15% of hereditary PC cases, and the most common
+cause of hereditary PC is a mutation in the BRCA2 gene [74].
+In most families, the cause of hereditary PC is not identified.
+This is known as familial PC (FPC) and applies to families with
+two or more FDRs with PC who do not fulfil the criteria of any
+other inherited tumour syndrome. FPC accounts for 80% of
+clusters of families with PC. Some recent studies have reported
+germline mutations in the most frequent genes (BRCA1, BRCA2,
+PALB2, CDKN2A) related to hereditary pancreatic syndromes,
+even without other extrapancreatic manifestations. This suggests
+
+1568 | Stjepanovic et al.
+
+that a multigene panel approach in families with a strong clustering of PC is adequate [IV, B] [74].
+
+Surveillance of high-risk patients
+There is no solid evidence that screening is associated with a decrease in morbidity and mortality related to PC [28, 62, 75].
+Based upon the International Cancer of the Pancreas Screening
+(CAPS) Consortium consensus, surveillance for PC is recommended in the following high-risk patients [28]:
+•
+•
+•
+•
+•
+•
+•
+
+Individuals with three or more blood relatives affected with
+PC, with at least one affected FDR;
+Individuals with at least two affected FDRs with PC;
+Patients with PJS, regardless of family history of PC;
+CDKN2A/p16 carriers with one affected FDR;
+BRCA2 mutation carriers with one affected FDR (or two
+affected family members, no FDR) with PC;
+PALB2 mutation carriers with one affected FDR; and
+MMR gene mutation carriers (LS) with one affected FDR.
+
+Currently, annually endoscopic ultrasonography and/or pancreatic MRI are the procedures of choice for surveillance [62].
+
+Volume 30 | Issue 10 | 2019
+
+Special article
+
+Annals of Oncology
+
+Table 7. Levels of evidence and grades of recommendation (adapted from the Infectious Diseases Society of America—United States Public Health Service
+Grading Systema)
+Levels of evidence
+I
+Evidence from at least one large randomised, controlled trial of good methodological quality (low potential for bias) or meta-analyses of well-conducted randomised trials without heterogeneity
+II
+Small randomised trials or large randomised trials with a suspicion of bias (lower methodological quality) or meta-analyses of such trials or of trials
+with demonstrated heterogeneity
+III
+Prospective cohort studies
+IV
+Retrospective cohort studies or case–control studies
+V
+Studies without control group, case reports, expert opinions
+Grades of recommendation
+A
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt, strongly recommended
+B
+Strong or moderate evidence for efﬁcacy but with a limited clinical beneﬁt, generally recommended
+C
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh the risk or the disadvantages (adverse events, costs, etc.), optional
+D
+Moderate evidence against efﬁcacy or for adverse outcome, generally not recommended
+E
+Strong evidence against efﬁcacy or for adverse outcome, never recommended
+a
+
+By permission of the Infectious Diseases Society of America [76].
+
+Surveillance programmes usually begin at age 50 (or 10 years earlier than the age of the youngest affected relative) [IV, B].
+Patients with HP or PJS are recommended to start surveillance at
+age 30 and 40, respectively.
+
+Surgical management in patients at high-risk for
+pancreatic cancer
+If a suspicious lesion is detected, no consensus has been reached
+with respect to the extension of pancreatic resection (partial or
+total pancreatectomy). In this setting, a multidisciplinary team is
+needed and surgical intervention must be individualised. In gene
+mutation carriers without any precursor lesion, prophylactic
+pancreatectomy is not indicated [V, A].
+
+Methodology
+These Clinical Practice Guidelines were developed in accordance
+with the ESMO standard operating procedures for Clinical
+Practice Guidelines development (http://www.esmo.org/
+Guidelines/ESMO-Guidelines-Methodology). The relevant literature has been selected by the expert authors. A summary of
+recommendations is shown in Table 6. Levels of evidence and
+grades of recommendation have been applied using the system
+shown in Table 7. Statements without grading were considered
+justified standard clinical practice by the experts and the ESMO
+Faculty. This manuscript has been subjected to an anonymous
+peer review process.
+
+Acknowledgements
+The ESMO Guidelines Committee would like to thank the
+ESMO Faculty and other experts who provided critical reviews
+of these ESMO Clinical Practice Guidelines.
+
+Volume 30 | Issue 10 | 2019
+
+Funding
+No external funding has been received for the preparation of
+these guidelines. Production costs have been covered by ESMO
+from central funds.
+
+Disclosure
+EM has received honoraria for lecture and advisory boards for
+Roche, Amgen, Servier and Sanofi; AC has received honoraria
+for lecture and advisory boards for Merck Serono, Amgen,
+Servier, Roche, Lilly, Novartis, Takeda, Astellas, Beigene, Bayer
+and Foundation Medicine and research funding from
+Genentech, Merck Serono, Roche, Beigene, Bayer, Servier, Lilly,
+Novartis, Takeda, Astellas, Fibrogen, Amcure, Sierra Oncology,
+AstraZeneca, Medimmune, Bristol-Myers Squibb and MSD; JB,
+NS, LM, FC and FB have declared no potential conflicts of
+interest.
+
+References
+1. Lynch HT, de la Chapelle A. Hereditary colorectal cancer. N Engl J Med
+2003; 348(10): 919–932.
+2. Engel C, Loeffler M, Steinke V et al. Risks of less common cancers in proven mutation carriers with Lynch syndrome. J Clin Oncol 2012; 30(35):
+4409–4415.
+3. Win AK, Young JP, Lindor NM et al. Colorectal and other cancer risks
+for carriers and noncarriers from families with a DNA mismatch repair
+gene mutation: a prospective cohort study. J Clin Oncol 2012; 30(9):
+958–964.
+4. Samadder NJ, Smith KR, Wong J et al. Cancer risk in families fulfilling
+the Amsterdam criteria for Lynch syndrome. JAMA Oncol 2017; 3(12):
+1697–1701.
+5. Moller P, Seppala T, Bernstein I et al. Cancer incidence and survival in
+Lynch syndrome patients receiving colonoscopic and gynaecological surveillance: first report from the prospective Lynch syndrome database.
+Gut 2017; 66: 464–472.
+
+doi:10.1093/annonc/mdz233 | 1569
+
+Special article
+6. Hamilton SR, Liu B, Parsons RE et al. The molecular basis of Turcot’s
+syndrome. N Engl J Med 1995; 332(13): 839–847.
+7. Misago N, Narisawa Y. Sebaceous neoplasms in Muir–Torre syndrome.
+Am J Dermatopathol 2000; 22(2): 155–161.
+8. Wimmer K, Kratz CP, Vasen HF et al. Diagnostic criteria for constitutional mismatch repair deficiency syndrome: suggestions of the
+European consortium ‘care for CMMRD’ (C4CMMRD). J Med Genet
+2014; 51(6): 355–365.
+9. Durno CA, Sherman PM, Aronson M et al. Phenotypic and genotypic
+characterisation of biallelic mismatch repair deficiency (BMMR-D) syndrome. Eur J Cancer 2015; 51(8): 977–983.
+10. Hampel H, Frankel WL, Martin E et al. Feasibility of screening for Lynch
+syndrome among patients with colorectal cancer. J Clin Oncol 2008;
+26(35): 5783–5788.
+11. Hampel H, Pearlman R, Beightol M et al. Assessment of tumor sequencing as a replacement for Lynch syndrome screening and current molecular tests for patients with colorectal cancer. JAMA Oncol 2018; 4(6):
+806–813.
+12. Vasen HF, Watson P, Mecklin JP, Lynch HT. New clinical criteria for
+hereditary nonpolyposis colorectal cancer (HNPCC, Lynch syndrome)
+proposed by the International Collaborative group on HNPCC.
+Gastroenterology 1999; 116(6): 1453–1456.
+13. Umar A, Boland CR, Terdiman JP et al. Revised Bethesda Guidelines for
+hereditary nonpolyposis colorectal cancer (Lynch syndrome) and microsatellite instability. J Natl Cancer Inst 2004; 96(4): 261–268.
+14. Moreira L, Balaguer F, Lindor N et al. Identification of Lynch syndrome
+among patients with colorectal cancer. JAMA 2012; 308(15): 1555–1565.
+15. Le DT, Uram JN, Wang H et al. PD-1 blockade in tumors with
+mismatch-repair deficiency. N Engl J Med 2015; 372(26): 2509–2520.
+16. Overman MJ, McDermott R, Leach JL et al. Nivolumab in patients with
+metastatic DNA mismatch repair-deficient or microsatellite instabilityhigh colorectal cancer (CheckMate 142): an open-label, multicentre,
+phase 2 study. Lancet Oncol 2017; 18(9): 1182–1191.
+17. Pearlman R, Frankel WL, Swanson B et al. Prevalence and spectrum of
+germline cancer susceptibility gene mutations among patients with earlyonset colorectal cancer. JAMA Oncol 2017; 3(4): 464–471.
+18. Yurgelun MB, Kulke MH, Fuchs CS et al. Cancer susceptibility gene
+mutations in individuals with colorectal cancer. J Clin Oncol 2017;
+35(10): 1086–1095.
+19. Moller P, Seppala T, Bernstein I et al. Incidence of and survival after subsequent cancers in carriers of pathogenic MMR variants with previous
+cancer: a report from the prospective Lynch syndrome database. Gut
+2017; 66: 1657–1664.
+20. Kastrinos F, Uno H, Ukaegbu C et al. Development and validation of the
+PREMM5 Model for comprehensive risk assessment of Lynch syndrome.
+J Clin Oncol 2017; 35(19): 2165–2172.
+21. Jarvinen HJ, Renkonen-Sinisalo L, Aktan-Collan K et al. Ten years after
+mutation testing for Lynch syndrome: cancer incidence and outcome in
+mutation-positive and mutation-negative family members. J Clin Oncol
+2009; 27: 4793–4797.
+22. Vasen HF, Abdirahman M, Brohet R et al. One to 2-year surveillance
+intervals reduce risk of colorectal cancer in families with Lynch syndrome. Gastroenterology 2010; 138(7): 2300–2306.
+23. Dove-Edwin I, Sasieni P, Adams J, Thomas HJ. Prevention of colorectal
+cancer by colonoscopic surveillance in individuals with a family history
+of colorectal cancer: 16 year, prospective, follow-up study. BMJ 2005;
+331(7524): 1047.
+24. Moller P, Seppala TT, Bernstein I et al. Cancer risk and survival in
+path_MMR carriers by gene and gender up to 75 years of age: a report
+from the Prospective Lynch Syndrome Database. Gut 2018; 67:
+1306–1316.
+25. Ten Broeke SW, van der Klift HM, Tops CMJ et al. Cancer risks for
+PMS2-associated Lynch syndrome. J Clin Oncol 2018; 36(29):
+2961–2968.
+26. Rahmi G, Lecomte T, Malka D et al. Impact of chromoscopy on adenoma detection in patients with Lynch syndrome: a prospective, multicenter, blinded, tandem colonoscopy study. Am J Gastroenterol 2015;
+110(2): 288–298.
+
+1570 | Stjepanovic et al.
+
+Annals of Oncology
+27. Vasen HF, Blanco I, Aktan-Collan K et al. Revised guidelines for the clinical management of Lynch syndrome (HNPCC): recommendations by a
+group of European experts. Gut 2013; 62(6): 812–823.
+28. Canto MI, Harinck F, Hruban RH et al. International Cancer of the
+Pancreas Screening (CAPS) Consortium summit on the management of
+patients with increased risk for familial pancreatic cancer. Gut 2013;
+62(3): 339–347.
+29. Schmeler KM, Lynch HT, Chen LM et al. Prophylactic surgery to reduce
+the risk of gynecologic cancers in the Lynch syndrome. N Engl J Med
+2006; 354(3): 261–269.
+30. Myrhoj T, Andersen MB, Bernstein I. Screening for urinary tract cancer
+with urine cytology in Lynch syndrome and familial colorectal cancer.
+Fam Cancer 2008; 7: 303–307.
+31. Burn J, Gerdes AM, Macrae F et al. Long-term effect of aspirin on cancer
+risk in carriers of hereditary colorectal cancer: an analysis from the
+CAPP2 randomised controlled trial. Lancet 2011; 378(9809): 2081–2087.
+32. Oines M, Helsingen LM, Bretthauer M, Emilsson L. Epidemiology and
+risk factors of colorectal polyps. Best Pract Res Clin Gastroenterol 2017;
+31: 419–424.
+33. Sinicrope FA, Shi Q, Allegra CJ et al. Association of DNA mismatch repair and mutations in BRAF and KRAS with survival after recurrence in
+stage III colon cancers: a secondary analysis of 2 randomized clinical trials. JAMA Oncol 2017; 3(4): 472–480.
+34. Tejpar S, Saridaki Z, Delorenzi M et al. Microsatellite instability, prognosis and drug sensitivity of stage II and III colorectal cancer: more complexity to the puzzle. J Natl Cancer Inst 2011; 103(11): 841–844.
+35. Lindor NM, Rabe K, Petersen GM et al. Lower cancer incidence in
+Amsterdam-I criteria families without mismatch repair deficiency: familial colorectal cancer type X. JAMA 2005; 293(16): 1979–1985.
+36. Tabori U, Hansford JR, Achatz MI et al. Clinical management and tumor
+surveillance recommendations of inherited mismatch repair deficiency
+in childhood. Clin Cancer Res 2017; 23(11): e32–e37.
+37. Vasen HF, Ghorbanoghli Z, Bourdeaut F et al. Guidelines for surveillance
+of individuals with constitutional mismatch repair-deficiency proposed
+by the European Consortium “Care for CMMR-D” (C4CMMR-D).
+J Med Genet 2014; 51(5): 283–293.
+38. Haraldsdottir S, Hampel H, Tomsic J et al. Colon and endometrial cancers with mismatch repair deficiency can arise from somatic, rather than
+germline, mutations. Gastroenterology 2014; 147(6): 1308–1316.
+39. Karstensen JG, Burisch J, Pommergaard HC et al. Colorectal cancer in
+individuals with familial adenomatous polyposis, based on analysis of
+the Danish polyposis registry. Clin Gastroenterol Hepatol 2019 [Epub
+ahead of print].
+40. Grover S, Kastrinos F, Steyerberg EW et al. Prevalence and phenotypes of
+APC and MUTYH mutations in patients with multiple colorectal adenomas. JAMA 2012; 308(5): 485–492.
+41. Bisgaard ML, Fenger K, Bulow S et al. Familial adenomatous polyposis
+(FAP): frequency, penetrance, and mutation rate. Hum Mutat 1994;
+3(2): 121–125.
+42. Feliubadalo L, Lopez-Fernandez A, Pineda M et al. Opportunistic testing
+of BRCA1, BRCA2 and mismatch repair genes improves the yield of
+phenotype driven hereditary cancer gene panels. Int J Cancer 2019; 145:
+2682–2691.
+43. Taylor A, Brady AF, Frayling IM et al. Consensus for genes to be included
+on cancer panel tests offered by UK genetics services: guidelines of the
+UK Cancer Genetics Group. J Med Genet 2018; 55: 372–377.
+44. Vasen HF, Moslein G, Alonso A et al. Guidelines for the clinical management of familial adenomatous polyposis (FAP). Gut 2008; 57(5): 704–713.
+45. Melnitchouk N, Saadat LV, Bleday R, Goldberg JE. A decision analysis
+for rectal-sparing familial adenomatous polyposis: total colectomy with
+ileorectal anastomosis versus proctocolectomy with IPAA. Dis Colon
+Rectum 2019; 62(1): 27–32.
+46. Solomon SD, Wittes J, Finn PV et al. Cardiovascular risk of celecoxib in
+6 randomized placebo-controlled trials: the cross trial safety analysis.
+Circulation 2008; 117(16): 2104–2113.
+47. Groves CJ, Saunders BP, Spigelman AD, Phillips RK. Duodenal cancer in
+patients with familial adenomatous polyposis (FAP): results of a 10 year
+prospective study. Gut 2002; 50(5): 636–641.
+
+Volume 30 | Issue 10 | 2019
+
+Annals of Oncology
+48. Groen EJ, Roos A, Muntinghe FL et al. Extra-intestinal manifestations of familial adenomatous polyposis. Ann Surg Oncol 2008; 15(9): 2439–2450.
+49. Croitoru ME, Cleary SP, Di Nicola N et al. Association between biallelic
+and monoallelic germline MYH gene mutations and colorectal cancer
+risk. J Natl Cancer Inst 2004; 96(21): 1631–1634.
+50. Balaguer F. Hereditary and familial colorectal cancer. Gastroenterol
+Hepatol 2014; 37(Suppl 3): 77–84.
+51. Bellido F, Pineda M, Aiza G et al. POLE and POLD1 mutations in 529
+kindred with familial colorectal cancer and/or polyposis: review of
+reported cases and recommendations for genetic testing and surveillance.
+Genet Med 2016; 18(4): 325–332.
+52. Esteban-Jurado C, Gimenez-Zaragoza D, Munoz J et al. POLE and
+POLD1 screening in 155 patients with multiple polyps and early-onset
+colorectal cancer. Oncotarget 2017; 8(16): 26732–26743.
+53. Weren RD, Ligtenberg MJ, Kets CM et al. A germline homozygous mutation in the base-excision repair gene NTHL1 causes adenomatous polyposis and colorectal cancer. Nat Genet 2015; 47(6): 668–671.
+54. Moreira L, Pellise M, Carballal S et al. High prevalence of serrated polyposis syndrome in FIT-based colorectal cancer screening programmes.
+Gut 2013; 62(3): 476–477.
+55. Carballal S, Rodriguez-Alcalde D, Moreira L et al. Colorectal cancer risk
+factors in patients with serrated polyposis syndrome: a large multicentre
+study. Gut 2016; 65(11): 1829–1837.
+56. Bosman F, Carneiro F, Hruban R, Theise N. WHO Classification of
+Tumours of the Digestive System, 5th edition. IARC, Lyon 2019 [in press].
+57. Gala MK, Mizukami Y, Le LP et al. Germline mutations in oncogeneinduced senescence pathways are associated with multiple sessile serrated
+adenomas. Gastroenterology 2014; 146(2): 520–529.
+58. Bleijenberg AG, IJspeert JE, van Herwaarden YJ et al. Personalised surveillance for serrated polyposis syndrome: results from a prospective 5year international cohort study. Gut 2019 [Epub ahead of print].
+59. Rodriguez-Alcalde D, Carballal S, Moreira L et al. High incidence of
+advanced colorectal neoplasia during endoscopic surveillance in serrated
+polyposis syndrome. Endoscopy 2019; 51(2): 142–151.
+60. Boparai KS, Mathus-Vliegen EM, Koornstra JJ et al. Increased colorectal
+cancer risk during follow-up in patients with hyperplastic polyposis syndrome: a multicentre cohort study. Gut 2010; 59(8): 1094–1100.
+61. East JE, Atkin WS, Bateman AC et al. British Society of Gastroenterology
+position statement on serrated polyps in the colon and rectum. Gut
+2017; 66(7): 1181–1196.
+62. Syngal S, Brand RE, Church JM et al. ACG clinical guideline: genetic testing and management of hereditary gastrointestinal cancer syndromes.
+Am J Gastroenterol 2015; 110(2): 223–262.
+
+Volume 30 | Issue 10 | 2019
+
+Special article
+63. Ngeow J, Heald B, Rybicki LA et al. Prevalence of germline PTEN,
+BMPR1A, SMAD4, STK11, and ENG mutations in patients with
+moderate-load colorectal polyps. Gastroenterology 2013; 144(7):
+1402–1409.
+64. Hansford S, Kaurah P, Li-Chang H et al. Hereditary diffuse gastric cancer
+syndrome: CDH1 mutations and beyond. JAMA Oncol 2015; 1(1):
+23–32.
+65. van der Post R, Oliveira C, Guilford P, Carneiro F. Hereditary gastric cancer: what’s new? Update 2013–2018. Fam Cancer 2019; 18(3): 363–367.
+66. van der Post RS, Vogelaar IP, Carneiro F et al. Hereditary diffuse gastric
+cancer: updated clinical guidelines with an emphasis on germline CDH1
+mutation carriers. J Med Genet 2015; 52(6): 361–374.
+67. Caldas C, Carneiro F, Lynch HT et al. Familial gastric cancer: overview
+and guidelines for management. J Med Genet 1999; 36(12): 873–880.
+68. Corso G, Roncalli F, Marrelli D et al. History, pathogenesis, and management of familial gastric cancer: original study of John XXIII’s family.
+Biomed Res Int 2013; 2013: 1.
+69. Worthley DL, Phillips KD, Wayte N et al. Gastric adenocarcinoma and
+proximal polyposis of the stomach (GAPPS): a new autosomal dominant
+syndrome. Gut 2012; 61(5): 774–779.
+70. Li J, Woods SL, Healey S et al. Point mutations in Exon 1B of APC reveal
+gastric adenocarcinoma and proximal polyposis of the stomach as a
+familial adenomatous polyposis variant. Am J Hum Genet 2016; 98(5):
+830–842.
+71. McDuffie LA, Sabesan A, Allgaeuer M et al. Beta-catenin activation in
+fundic gland polyps, gastric cancer and colonic polyps in families
+afflicted by ‘gastric adenocarcinoma and proximal polyposis of the stomach’ (GAPPS). J Clin Pathol 2016; 69(9): 826–833.
+72. Korsse SE, Harinck F, van Lier MG et al. Pancreatic cancer risk in
+Peutz–Jeghers syndrome patients: a large cohort study and implications
+for surveillance. J Med Genet 2013; 50(1): 59–64.
+73. Weiss FU. Pancreatic cancer risk in hereditary pancreatitis. Front Physiol
+2014; 5: 70.
+74. Zhen DB, Rabe KG, Gallinger S et al. BRCA1, BRCA2, PALB2, and
+CDKN2A mutations in familial pancreatic cancer: a PACGENE study.
+Genet Med 2015; 17(7): 569–577.
+75. Vasen H, Ibrahim I, Ponce CG et al. Benefit of surveillance for pancreatic
+cancer in high-risk individuals: outcome of long-term prospective
+follow-up studies from three European expert centers. J Clin Oncol 2016;
+34(17): 2010–2019.
+76. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001; 33(2): 139–144.
+
+doi:10.1093/annonc/mdz233 | 1571
+
+

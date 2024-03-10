@@ -1,0 +1,1496 @@
+SPECIAL ARTICLE
+
+Marginal zone lymphomas: ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-up✰
+E. Zucca1,2,3, L. Arcaini4,5, C. Buske6, P. W. Johnson7, M. Ponzoni8, M. Raderer9, U. Ricardi10, A. Salar11, K. Stamatopoulos12,
+C. Thieblemont13, A. Wotherspoon14 & M. Ladetto15, on behalf of the ESMO Guidelines Committee*
+1
+
+Division of Medical Oncology, Oncology Institute of Southern Switzerland, Bellinzona; 2Department of Medical Oncology, Inselspital, Bern University Hospital,
+University of Bern, Bern; 3Institute of Oncology Research, Bellinzona, Switzerland; 4Division of Hematology, Fondazione IRCCS Policlinico San Matteo, Pavia;
+5
+Department of Molecular Medicine, University of Pavia, Pavia, Italy; 6Comprehensive Cancer Centre, University Hospital of Ulm, Ulm, Germany; 7Cancer Research UK
+Centre, Southampton General Hospital, Southampton, UK; 8Vita-Salute San Raffaele University and Pathology Unit, San Raffaele Scientiﬁc Institute, Milan, Italy;
+9
+Internal Medicine I, Division of Oncology, Medical University Vienna, Vienna, Austria; 10Department of Oncology, University of Turin, Turin, Italy; 11Department of
+Hematology, Hospital del Mar, Barcelona, Barcelona, Spain; 12Institute of Applied Biosciences, CERTH, the Centre for Research and Technology Hellas, Thessaloniki,
+Greece; 13Department of Hematology, APHP-Saint-Louis Hospital, University Paris-Diderot, Paris, France; 14Department of Histopathology, The Royal Marsden Hospital,
+London, UK; 15Division of Hematology, Azienda Ospedaliera SS. Antonio e Biagio e Cesare Arrigo, Alessandria, Italy
+
+Key words: marginal zone B-cell lymphoma (MZL), extranodal marginal zone lymphoma (EMZL), splenic marginal zone
+lymphoma (SMZL), nodal marginal zone lymphoma (NMZL), mucosa-associated lymphoid tissue (MALT), clinical
+practice guidelines
+
+In the last update of the World Health Organization (WHO)
+classiﬁcation, the marginal zone B-cell lymphomas (MZLs)
+comprise extranodal MZL (EMZL) of mucosa-associated
+lymphoid tissue (MALT), also known as MALT lymphoma,
+splenic MZL (SMZL) with or without villous lymphocytes and
+nodal MZL (NMZL) with or without monocytoid B cells. These
+are three distinct clinical entities with speciﬁc diagnostic
+criteria and different genetic features, clinical behaviour and
+therapeutic implications.1e3 The onset of an overt MZL,
+particularly of SMZL, may be preceded by the appearance of
+clonal B cells in the blood, a condition recently described as
+clonal B-cell lymphocytosis of marginal zone origin (CBL-MZ).4
+INCIDENCE AND EPIDEMIOLOGY
+MZLs represent approximately 5%e15% of all non-Hodgkin
+lymphomas in the Western world. EMZLs comprise approximately two-thirds and can arise at any extranodal site, usually in the context of chronic antigenic stimulation due either
+to infections or autoimmune disorders. The stomach is the
+most common site, followed by ocular adnexa, lung and
+salivary glands. SMZL accounts for w20% and NMZL for
+<10% of cases. Aetiological heterogeneity is apparent across
+the anatomical sites, probably inﬂuenced by either intrinsic
+genetic/molecular characteristics or geographical factors and
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+✰
+Approved by the ESMO Guidelines Committee: December 2006, last update
+July 2019. This publication supersedes the previously published versiondAnn
+Oncol. 2013;24(suppl. 6):vi144-vi148.
+0923-7534/© 2019 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+environmental exposures. Overall, the incidence appears to
+have increased in the last two decades (possibly because of
+improved pathological diagnosis), despite a decline in the
+incidence of Helicobacter pylori-associated gastric MZLs.5
+DIAGNOSIS AND PATHOLOGY/MOLECULAR BIOLOGY
+The diagnosis should follow the current 2017 WHO classiﬁcation and requires an adequate tumour biopsy [IV, A]. The
+typical (centrocyte-like) marginal zone B cells have small- to
+medium-sized, slightly irregular nuclei with inconspicuous
+nucleoli, moderately dispersed chromatin and pale cytoplasm. The accumulation of abundant pale-staining cytoplasm may lead to a monocytoid appearance.3 Differential
+diagnosis from mimics of MZL mainly depends upon
+immunohistochemistry (IHC), including at least CD20, CD10,
+CD5, CD23, cyclin D1, immunoglobulin (Ig) D and SOX-11 [IV,
+B] (Table 1). It is recommended that diagnostic and followup biopsies of MZL should be reviewed and conﬁrmed by an
+expert haematopathologist.6 Although there are no entirely
+deﬁnitive criteria, a diagnosis of evolution to large B-cell
+lymphoma should be made when there are clearly separated sheets of large cells comprising >20% of the
+neoplastic population [V, B].
+CBL-MZ
+This condition is deﬁned by the presence of circulating
+clonal B cells with phenotypic features consistent with a
+marginal zone origin in the absence of splenomegaly, hepatomegaly, lymphadenopathy or other symptoms and
+signs suggestive of an established lymphoma. Unlike chronic
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+17
+
+E. Zucca et al.
+
+Annals of Oncology
+Table 1. Immunohistochemical and molecular markers in MZL
+Molecule
+
+Type
+of test
+
+Expected result
+
+Level of
+recommendation
+
+CD20
+CD5
+CD23
+CD10
+IgD
+Cyclin D1
+MYD88 mutation
+
+IHC
+IHC
+IHC
+IHC
+IHC
+IHC
+PCR
+
+Positive
+Negativea
+Negative/positive
+Negative
+Negativec
+Negative
+Negative
+
+Mandatory
+Mandatory
+Suggestedb
+Mandatory
+Suggested
+Mandatoryd
+Suggestede
+
+IgD, immunoglobulin D; IHC, immunohistochemistry; LPL, lymphoplasmacytic lymphoma; MZL, marginal zone lymphoma; PCR, polymerase chain reaction; SMZL,
+splenic marginal zone lymphoma.
+a
+Few exceptions may occur.
+b
+In cases with small cell morphology, irrespectively of CD5-concurrent positivity.
+c
+In cases with splenomegaly, as it is usually positive in SMZL.
+d
+In cases positive for CD5.
+e
+When present, a differential diagnostic problem with LPL arises (cases of MZL with
+MYD88 mutation may represent rare exceptions).
+
+lymphocytic leukaemia (CLL)-like monoclonal B-cell
+lymphocytosis (MBL) which may precede the development
+of CLL, there is no deﬁned cut-off in the clonal B-cell
+lymphocyte count for discriminating CBL-MZ from MZL.
+Only a minority (15%e20%) of patients will eventually
+progress to an overt lymphoma, most often an SMZL.4
+EMZL
+Lymphoepithelial lesions are neither essential for the
+diagnosis of EMZL nor absolutely speciﬁc for this entity, as
+they can be seen in some reactive conditions as well as in
+other lymphoma subtypes.
+In gastric MZL, if the presence of active H. pylori infection is
+not demonstrated by (immuno)histochemistry, it must be ruled
+out by serology, urea breath test and/or stool antigen test.7
+In addition to routine histology and IHC, ﬂuorescent
+in situ hybridisation (FISH) studies for detection of
+t(11;18)(p21;p21) may be useful for identifying gastric MZL
+patients who are unlikely to respond to antibiotic therapy
+[III, B].5
+SMZL
+In most instances, the diagnosis of splenic small B-cell
+lymphomas of marginal origin, usually SMZL, can be
+established without a splenectomy specimen, through a
+combination of peripheral blood/bone marrow aspirate
+morphology and ﬂow cytometry, as well as bone marrow
+biopsy histology and IHC, reviewed by expert haematopathologists/haematologists [IV, B].2,8,9 However, the accuracy
+and reproducibility of this approach have not yet been fully
+investigated. In a minority of cases, the deﬁnitive diagnosis
+may not be possible without splenectomy. The same holds
+for the deﬁnitive differential diagnosis between SMZL and
+splenic diffuse red pulp lymphoma, as they share similar
+features in the peripheral blood and bone marrow.10,11
+Neoplastic lymphocytes in SMZL often display villi; however, these are not seen in all cases (sometimes for technical
+reasons) and not every lymphoma displaying villi corresponds to SMZL.2
+18
+
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+NMZL
+NMZL shares morphological and immunophenotypic similarities with other MZLs, and its differential diagnosis from
+other indolent lymphomas can be particularly difﬁcult, unless so-called ‘monocytoid B-cell morphology’ is prominent.
+A small monoclonal component, usually IgM, may be
+detected and, in such cases, differential diagnosis from
+lymphoplasmacytic lymphoma (LPL) may be necessary.
+Since MYD88 gene mutations are detected in the large
+majority of LPLs, this molecular aberration may be used for
+diagnostic purposes, with the knowledge that MZLs rarely
+harbour MYD88 mutations.12
+In all cases, but particularly for NMZL, the histopathological diagnosis must be established with full knowledge of
+the clinical and radiological presentation [IV, A].
+NMZL is also seen in children. Notably, paediatric NMZL
+has distinct morphological and clinical characteristics. It is
+much more common in boys, usually presents as asymptomatic and localised disease and has a much better
+prognosis than adult-onset cases.1
+STAGING AND RISK ASSESSMENT
+Initial work-up
+Mandatory initial staging for all MZL subtypes should
+include:
+ history and physical examination, noting lymph node regions, eyes and ears, nose and throat, liver and spleen;
+ full blood and differential counts, with ﬂow cytometry
+of peripheral blood mandatory in NMZL and SMZL and
+optional in EMZL;
+ biochemistry, including renal and liver function tests;
+ protein electrophoresis;
+ lactate dehydrogenase (LDH) and b2 microglobulin
+(B2M);
+ optional direct antiglobulin (Coombs) test in SMZL;
+ serum and urine immunoﬁxation;
+ serology for hepatitis C virus (HCV) [if positive, including
+HCV-RNA polymerase chain reaction (PCR) test and virus
+genotyping];
+ cryoglobulins and cryocrit if HCV-positive;
+ hepatitis B virus (HBV) markers and human immunodeﬁciency virus (HIV) serology.
+Bone marrow aspirate (with morphology and ﬂow
+cytometry) and biopsy are mandatory in NMZL and SMZL
+and highly recommended in EMZL, particularly in nongastric lymphoma and when only local treatment is
+planned.
+Imaging should include complete chest and abdominal
+computed tomography (CT) scan [or magnetic resonance
+imaging (MRI)] and imaging of the orbits and salivary glands
+[IV, B].
+Positron emission tomography (PET) scanning has
+generally been considered of little clinical utility; however,
+this is now being reconsidered as a result of the increased
+sensitivity of modern PET-CT equipment. It may be useful in
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+E. Zucca et al.
+
+Annals of Oncology
+
+cases when only localised treatment is planned. PET scanning should also be considered when clinical and/or laboratory data suggest transformation to high-grade histology
+and to guide decisions on which lymph node to target for
+biopsy [IV, B].
+Endoscopic ultrasound (US) for gastric MZL can be used
+to deﬁne gastric wall inﬁltration and perigastric lymph node
+involvement.
+EMZL. EMZL usually remains localised for a prolonged
+period within the tissue of origin, but involvement of
+regional lymph nodes and multiple mucosal sites may be
+present at diagnosis. Within the stomach, the disease is
+usually multifocal. Concomitant involvement of multiple
+mucosal sites is not rare, particularly in non-gastric EMZLs,
+with disseminated disease reported in 25%e50% of cases.
+Bone marrow inﬁltration has been described in 2%e20% of
+cases, with lower rates in recent series, and is more common in non-gastric lymphomas.13 EMZLs with lymph node
+or bone marrow involvement at presentation carry a worse
+prognosis, but this is not the case for those with involvement of multiple mucosal sites.14
+The best system for staging of gastric MZL is controversial.6,7 The Lugano staging system has been widely used
+previously, but more modern systems have been proposed,
+such as the Paris staging system which describes the depth
+of gastric wall involvement more accurately, a parameter
+that may predict the response to H. pylori eradication
+(Table 2).7,15
+The initial staging procedures must take into account the
+speciﬁc site of presentation (Table 3) and for gastric MZL
+must include an oesophagogastroduodenoscopy (EGD) with
+multiple biopsies taken from each region of the stomach,
+duodenum and gastroesophageal junction and from any site
+with an abnormal appearance. Routine EGD may also be
+advisable for patients with non-gastrointestinal MZL,
+particularly females, those with primary involvement of
+lung, upper airways and salivary glands and those with a
+high International Prognostic Index (IPI) score, elevated
+serum B2M level or H. pylori infection, regardless of the
+primary site.16,17
+
+SMZL. SMZL typically involves the spleen, hilar lymph nodes,
+bone marrow and, frequently, the blood. Some patients are
+diagnosed following the incidental ﬁnding of a peripheral
+lymphocytosis. In advanced-stage SMZL, symptomatic
+splenomegaly and cytopaenia may be the presenting features.18e20 Some cases of disseminated MZL may present
+with splenomegaly and lymph node enlargement at distant
+sites. Approximately 20% of patients have autoimmune
+manifestations including autoimmune haemolytic anaemia
+(AIHA), immune thrombocytopaenia, cold agglutinin disease,
+circulating anticoagulants, acquired von Willebrand disease
+or angioedema as a result of acquired C1-esterase inhibitor
+deﬁciency.
+The role of PET is uncertain and SMZL is usually staged by
+CT. Abdominal sonography may give additional information
+to CT scanning for the detection of splenic focal lesions.21,22
+PET-CT should be considered if high-grade transformation is
+suspected.
+NMZL. NMZL usually presents with disseminated lymphadenopathy (mostly cervical and abdominal), with or without
+bone marrow and blood involvement at diagnosis. The disease
+is often advanced at presentation and 10%e20% of patients
+present with B symptoms (unexplained weight loss >10% in 6
+months, unexplained fever >38 C, drenching night sweats).
+Anaemia occurs in w25% of patients and thrombocytopaenia
+in 10%. Initial staging follows the rules for other nodal lymphomas, with the main goal to discriminate localised from
+advanced-stage disease and to have measurable disease for
+evaluation of treatment response.21e23 Staging should rule
+out primary EMZL, since around one-third of cases represent
+nodal dissemination of an EMZL.21,24
+Main prognostic factors and prognostic indices
+EMZL. The International Extranodal Lymphoma Study Group
+(IELSG) has developed an EMZL-speciﬁc prognostic index
+using data from more than 400 patients enrolled in a large
+prospective randomised trial. This index, named MALT-IPI,
+uses three simple clinical parameters (age 70 years, Ann
+Arbor stage III or IV and elevated LDH) and allows the
+
+Table 2. Comparison of the Lugano and Paris staging systems for gastrointestinal tract lymphoma7,16
+Lugano staging system
+
+Paris staging system
+
+Tumour extension
+
+Stage I
+
+Conﬁned to the GI tract
+(single primary or multiple,
+non-contiguous)
+
+T1m N0 M0
+T1sm N0 M0
+T2 N0 M0
+T3 N0 M0
+
+Mucosa
+Submucosa
+Muscularis propria
+Serosa
+
+Stage II
+II1
+II2
+Stage IIE
+
+Extending into abdomen
+Local nodal involvement
+Distant nodal involvement
+Penetration of serosa to involve
+adjacent organs or tissues
+Disseminated extranodal
+involvement or concomitant
+supra-diaphragmatic nodal involvement
+
+T1e3 N1 M0
+T1e3 N2 M0
+T4 N0e2 M0
+
+Perigastric lymph nodes
+More distant regional nodes
+Invasion of adjacent structures
+with or without abdominal lymph nodes
+Extra-abdominal lymph nodes
+Distant (non-contiguous) GI sites involvement
+Non-GI sites involvement
+
+Stage IV
+
+T1e4 N3 M0
+T1e4 N0e3 M1
+T1e4 N0e3 M2
+
+GI, gastrointestinal.
+T describes the gastric wall inﬁltration; N describes the regional lymph node involvement; M describes distant dissemination.
+Adapted from Ruskone-Fourmestraux et al.7 and Mazloom et al.16
+
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+19
+
+E. Zucca et al.
+
+Annals of Oncology
+Table 3. Speciﬁc staging and work-up procedures for EMZL at different primary anatomic sites
+Site
+
+Exam
+
+Notes
+
+Stomach
+
+EGD
+Endoscopic US
+
+Mandatory
+Optional, to evaluate the regional lymph nodes and gastric
+wall inﬁltration
+Mandatory, to evaluate Helicobacter pylori status. Faecal
+antigen or breath test and serology studies are
+recommended when the results of histology are negative
+Optional, to detect t(11;18) translocation
+Campylobacter jejuni search in the tumour biopsy
+
+IHC
+
+Small intestine (IPSID)
+Colon
+Ocular adnexa
+
+Salivary glands
+
+Lung
+Breast
+Thyroid
+
+Skin
+
+FISH or PCR assay
+PCR, IHC or ISH
+Colonoscopy and EGD
+Orbital and salivary glands
+imaging (MRI or CT)
+Head and neck imaging (MRI or CT)
+PCR
+
+If clinically indicated
+If clinically indicated
+Chlamydophila psittaci search in the tumour biopsy and
+PBMCs (optional, according to the geographical
+distribution of the infection)
+
+ENT examination and echography
+EGD
+Anti-SSA/Ro and anti-SSB/La antibodies
+Bronchoscopy and bronchoalveolar lavage
+EGD
+Mammography and breast sonography
+MRI (or CT scan)
+Thyroid echography
+CT scan of the neck
+Thyroid function tests
+PCR
+
+To rule out association with Sjogren syndrome
+
+Borrelia burgdorferi search in the tumour biopsy
+
+CT, computed tomography; EGD, oesophagogastroduodenoscopy; EMZL, extranodal marginal zone B-cell lymphoma; ENT, ear, nose and throat; FISH, ﬂuorescent in situ
+hybridisation; IHC, immunohistochemistry; IPSID, immunoproliferative small intestinal disease; ISH, in situ hybridisation; MRI, magnetic resonance imaging; PBMC, peripheral
+blood mononuclear cell; PCR, polymerase chain reaction; US, ultrasound.
+
+discrimination of three groups of patients with low, intermediate and high risk (corresponding to the presence of 0,
+1 or 2 of these factors, respectively). The 5-year event-free
+survival rates in these groups were 70%, 56% and 29%,
+respectively. The MALT-IPI distinguished patients with
+different progression-free, overall and cause-speciﬁc survival. Its prognostic utility was retained in gastric and nongastric lymphomas, as well as in patients treated with
+different modalities, and was conﬁrmed in a large external
+validation set of more than 600 patients.25 However, there
+are no data yet to indicate that the choice of therapy should
+be based on this index.
+SMZL. An Italian lymphoma cooperative group (Intergruppo
+Italiano Linfomi; IIL) developed a prognostic model in more
+than 300 patients based on three risk factors (haemoglobin
+<12 g/dl, albumin <35 g/l and elevated LDH level).26 A
+newer prognostic model (named HPLL on the basis of the
+determinant factors: haemoglobin concentration, platelet
+count, LDH level and extrahilar lymphadenopathy) has been
+developed by the SMZL Study Group from an international
+retrospective survey of nearly 600 patients27 and identiﬁed
+three risk groups with signiﬁcantly different outcomes [IV,
+C]. A simpliﬁed version of the HPLL was later proposed and
+validated.28,29 Analogous to the MALT-IPI, there is no evidence supporting the use of these indices to decide
+whether and which therapy should be given.
+NMZL. There is no speciﬁc prognostic score established for
+NMZL. The Follicular Lymphoma International Prognostic
+Index (FLIPI), although not validated for NMZL, may help
+20
+
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+discriminate between low- and high-risk patients in smaller
+patient cohorts.24
+TREATMENT
+EMZL
+Initial therapy with antibiotics in gastric MZL. Helicobacter
+pylori eradication therapy should be given to all patients
+with gastric MZL, irrespective of stage [II, A].5e7,30,31 AntiH. pylori regimen should be chosen based on the regional
+microbial ecology; usually triple-therapy regimens
+combining a proton-pump inhibitor (PPI) for 4 weeks plus
+clarithromycin with either amoxicillin or metronidazole for
+10e14 days are highly effective.32,33 The outcome of
+eradication therapy should be checked by a urea breath test
+(or by a monoclonal stool antigen test) at least 6 weeks
+after starting eradication therapy and at least 2 weeks after
+PPI withdrawal. Where H. pylori eradication is not successful, second-line treatment should be attempted with
+alternative triple- or quadruple-therapy regimens of PPI
+plus antibiotics.5,7,30,31
+In localised H. pylori-positive gastric MZL, the initial
+treatment should be H. pylori eradication. This treatment
+can induce lymphoma regression and long-term clinical
+disease control in three-quarters of patients [II, A]. The
+length of time necessary to obtain a remission can vary
+from a few weeks to more than a year. In patients who
+achieve clinical and endoscopic remission with eradication
+of H. pylori but have persistent microscopic lymphoma on
+histology, it is reasonable to wait for at least 12 months
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+E. Zucca et al.
+
+Annals of Oncology
+
+before starting another treatment [III, B].5,7 Several studies
+of post-antibiotic molecular follow-up have shown the
+frequent persistence of monoclonal B cells after histological
+regression of the lymphoma.5,7
+In H. pylori-negative cases, regression of the lymphoma
+after antibiotic treatment is less likely and the immediate
+start of speciﬁc anti-lymphoma treatments (see below) may
+be considered. A trial of anti-Helicobacter therapy may still
+be worthwhile, since occasional lymphoma responses have
+been reported, possibly due to a false-negative test or
+infection by other Helicobacter species [IV, C].7,34 In these
+H. pylori-negative patients, speciﬁc treatment [usually
+radiotherapy (RT) as described below] should be considered
+if no signs of lymphoma regression are seen at a repeat
+endoscopy assessment 3e6 months after antibiotic therapy.
+Figure 1 summarises the recommended treatment
+algorithm for localised gastric MZL. After anti-H. pylori
+treatment, the patients presenting with advanced disease
+(stage IV) can be managed expectantly (watch-and-wait)
+unless systemic treatment (see ‘Other treatments for
+EMZL’) is required because of symptomatic disease. Any
+treatment decision should also take into account the patient’s preference (Figure 2).
+Anti-infective therapy in non-gastric EMZL. Eradication
+therapy with antibiotics in EMZL arising outside the stomach remains investigational. While H. pylori eradication is
+not recommended for extra-gastric MZL, various results
+suggest the involvement of other infectious agents, especially in ocular adnexal EMZL. As response rates up to 65%
+with long-lasting complete remissions have been reported,
+antibiotic therapy may be considered for initial therapy in
+patients with ocular EMZL, if they are not in need of urgent
+treatment to preserve their sight.35
+Recent results have shown that therapy of HCV infection
+may lead to regression of lymphoma in patients with HCVassociated EZML, suggesting that these (rare) patients
+should also be given anti-HCV drugs as initial therapy of
+EZML [IV, B].36
+RT in localised EMZL: recommended doses and schedules
+at different sites. In patients who do not achieve lymphoma
+regression following antibiotic therapy, irradiation and systemic oncological therapies should be used, depending on the
+stage of disease. RT is the preferred option for treatment of
+localised disease. Excellent disease control using RT alone has
+been reported in several series, supporting the use of
+moderate-dose (e.g. 24e30 Gy to the stomach and perigastric
+nodes, given over 3e4 weeks) involved-ﬁeld RT (IFRT) in
+gastric EMZL [IIeIV, AeB].37,38 A phase III trial from the UK has
+further shown that the dose of RT can be safely lowered to 24
+Gy in indolent lymphomas, including those of MALT, without
+compromising local tumour control in the long term [II, A].39
+A recent guideline from the International Lymphoma
+Radiation Oncology Group (ILROG) clearly describes the
+volumes to be treated for each site of extranodal lymphomas, including MALT, in respect of the modern deﬁnition of involved-site RT (ISRT).40
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+Long-term complications related to irradiation of EMZL
+are rare, dose-dependent and predominantly related to
+orbital irradiation. There is an increased risk of cataract and
+dry eyes for doses >4e5 Gy, while ischaemic retinopathy,
+optic atrophy, corneal ulceration and glaucoma are uncommon for doses below 36 Gy. More recently, low-dose RT
+(4 Gy in two fractions) has been increasingly used in the
+management of indolent non-Hodgkin lymphomas, with
+progression-free survival (PFS) rates of w70% at 5 years.41
+This fractionation may be extremely useful in particular
+anatomical presentations, such as ocular adnexa lymphomas, where the lower dose reduces the risk of cataract
+while maintaining high response rates (96%) and durable
+local control (96% at 2 years), as shown by a retrospective
+study from the United States.42 The standard recommended
+dose still remains 24 Gy, but a low-dose schedule (4 Gy)
+may also be considered in the elderly or in the setting of a
+palliative treatment for patients with advanced-stage EMZL
+unﬁt for systemic therapy or in critical sites (considering the
+possibility to deliver the standard dose in case of no
+response to 4 Gy).
+Other treatments for EMZL. Chemotherapy (ChT), immunotherapy, or combination chemoimmunotherapy are all
+effective in patients with EMZL who require systemic
+treatment. Usually, systemic treatment is preferred in patients with symptomatic systemic disease, contraindications
+to RT, failure after antibiotics or after local therapy (RT or
+surgery), and also in those with histological transformation
+(Figure 2).5,7,43
+Relatively few compounds and regimens have been tested
+speciﬁcally in EMZLs. Hence, patients should be offered
+enrolment in clinical trials where available. As in other
+indolent lymphomas, alkylating agents (either cyclophosphamide or chlorambucil) or purine nucleoside analogues
+(ﬂudarabine, cladribine) have shown activity [III, B].44,45
+The efﬁcacy of rituximab in combination with chlorambucil
+has been proven in a large randomised phase III study [I, A].46
+This combination was well tolerated and improved complete
+response rate (CRR), event-free survival and PFS compared
+with either rituximab or chlorambucil as single agents,
+although no overall survival (OS) beneﬁt was seen. Since the
+efﬁcacy of rituximab monotherapy has also been demonstrated in phase II studies, its use can be considered when the
+potential toxicity of ChT is a relevant issue [III, B].47e49
+A phase II study of the combination of rituximab and
+bendamustine has shown good activity, including in cases
+carrying t(11;18). Most patients achieve a complete remission after 4 cycles of this combination and it may be
+possible to stop treatment at this point,50,51 thereby
+avoiding the greater toxicity of longer schedules [III, A]. The
+need for rituximab maintenance is controversial, with no
+evidence of OS beneﬁt52,53 and there are no published data
+supporting rituximab maintenance [III, D].
+Consolidation therapy with chlorambucil is not beneﬁcial
+in patients with gastric lymphoma responding to H. pylori
+eradication [II, D].54
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+21
+
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+Annals of Oncology
+
+22
+Gastric MZL, Stage I–IIEa
+
+Helicobacter pylori test
+
+Helicobacter pylori negative or
+Helicobacter pylori positive with t(11;18)
+
+Helicobacter pylori positive
+t(11;18) negative or undetermined
+
+Helicobacter pylori eradication therapy
+Standard antibiotics plus PPI
+[II, A]
+
+Helicobacter pylori test at least 6 weeks after starting
+eradication therapy and at least 2 weeks after PPI withdrawal
+
+Helicobacter pylori eradicated
+
+Helicobacter pylori detected
+
+EGD and biopsy at 3–6 months
+
+Negative
+for lymphoma
+
+Positive for residual lymphoma,
+asymptomatic
+
+Alternative antibiotics plus PPI
+
+Helicobacter pylori not eradicated
+or no lymphoma response
+
+Positive for lymphoma, symptomatic or with
+other treatment indications [overt progression,
+deep invasion, nodal involvement, t(11;18)]
+
+Volume 31
+
+if RT not feasible
+or not indicated
+
+-
+
+EGD and biopsy
+every 3–6 months
+
+ISRT [II–IV, A–B]
+
+-
+
+2020
+
+Figure 1. Treatment algorithm for localised gastric MZL.
+EGD, oesophagogastroduodenoscopy; ISRT, involved-site radiotherapy; MZL, marginal zone B-cell lymphoma; PPI, proton-pump inhibitor; R, rituximab; RT, radiotherapy.
+a
+Stage is deﬁned according to the Lugano staging system described in Table 2.
+
+R-chlorambucil [I, A]
+R-bendamustine [III, A]
+Rituximab [III, B]
+R-lenalidomide [III, C]
+
+E. Zucca et al.
+
+Issue 1
+
+EGD and biopsy
+every 6 months for 2 years then
+every 12–18 months
+
+Non-gastric EMZL, Stage IV
+
+-
+
+E. Zucca et al.
+
+Volume 31
+
+Gastric MZL, Stage IVa
+
+Issue 1
+-
+
+Helicobacter pylori test
+
+2020
+
+Helicobacter pylori positive
+
+Helicobacter pylori negative
+
+Helicobacter pylori eradication therapy
+Standard antibiotics plus PPI
+[II, A]
+
+Symptomatic lymphoma or with other
+treatment indications (overt progression,
+deep invasion, bulky disease, impending
+organ damage, patient preference)
+
+Watch-and-wait
+EGD and systemic follow-up
+twice per year for 2 years,
+then every 12–18 months
+
+R-chlorambucil [I, A]
+R-bendamustine [III, A]
+Rituximab [III, B]
+R-lenalidomide [III, C]
+Consider enrolment in clinical trials
+
+23
+
+Figure 2. Treatment algorithms for advanced gastric MZL and non-gastric EMZL.
+EGD, oesophagogastroduodenoscopy; EMZL, extranodal marginal zone B-cell lymphoma; MZL, marginal zone B-cell lymphoma; PPI, proton-pump inhibitor; R, rituximab.
+a
+Stage is deﬁned according to the Lugano staging system described in Table 2.
+
+Annals of Oncology
+
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+Asymptomatic lymphoma
+
+E. Zucca et al.
+
+Annals of Oncology
+Rituximab in combination with lenalidomide has shown
+promising activity in a phase II study, with an acceptable
+toxicity proﬁle [III, C].55
+Lymphomas carrying the t(11;18) are usually unresponsive to alkylating agents as sole treatment but are sensitive
+to purine analogues or rituximab.5,7
+The combination of rituximab and ﬂudarabine has shown
+noteworthy activity in EMZLs56,57 but there are risks of signiﬁcant immunotoxicity and secondary myelodysplasia [III, C].
+Anthracycline-containing regimens are not usually
+necessary and should be reserved for the few patients with
+a very aggressive clinical course with suspected histological
+transformation [IV, A].43 Cases with proven histological
+transformation should be treated with chemoimmunotherapy according to the guidelines for diffuse large
+B-cell lymphoma [II, A].58
+Surgery has not been shown to achieve superior results
+than less invasive approaches in EMZL. It may impair the
+quality of life, and procedures such as gastrectomy no
+longer have a role in the initial treatment of EMZL.59,60
+SMZL
+In asymptomatic patients, an active surveillance (watchand-wait) policy is recommended, with follow-up evaluation
+every 3e6 months (physical exam, abdominal US, blood
+count and biochemistry).
+In patients with concomitant chronic HCV infection who
+do not immediately need conventional treatment, antiviral
+therapy should be considered [IV, B].22,36,61
+The main criteria for initiating treatment in SMZL are the
+presence of progressive or symptomatic splenomegaly and/
+or any progressive cytopaenias (haemoglobin <10 g/dl,
+platelets <80 000/ml, neutrophils <1000/ml). Autoimmune
+disorders such as AIHA or idiopathic thrombocytopenic
+purpura, if present, should be speciﬁcally treated [V, B].
+For SMZL, the recognised therapeutic options are splenectomy,18,62,63 ChT,22,64,65 rituximab alone66e68 or rituximab plus ChT.22,65,66,69
+Splenectomy was traditionally considered as the recommended ﬁrst treatment for patients with SMZL. The majority
+of patients who had a splenectomy showed haematological
+responses with restoration of cytopaenias and a fast resolution of splenomegaly-related symptoms. The 5-year PFS
+and OS are 50%e60% and 70%e80%, respectively, and
+approximately half of the splenectomised patients did not
+require further treatment for SMZL.70,71 However, it is a
+major surgical procedure that may have severe, and potentially fatal, acute and late complications. Moreover, splenectomy cannot completely eradicate the disease and has
+been largely replaced by rituximab (with or without ChT) in
+the last two decades as the preferred initial therapy [III, A].72
+Rituximab therapy alone (375 mg/m2 4- to 8-weekly
+doses) can produce a rapid response, with a high overall
+response rate (>80%) and CRR (>40%) with minimal
+toxicity. Responses to rituximab appear to be long lasting,
+with a 10-year PFS exceeding 60%.70 Maintenance with
+rituximab (every 2 months for 1e2 years) may improve PFS
+24
+
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+but no OS advantage has been shown to date and maintenance may not be superior to retreatment on demand.70
+Rituximab usually remains active at relapse.
+Rituximab can be particularly useful in patients with
+autoimmune disorders, since it can allow concomitant
+control of AIHA (or idiopathic thrombocytopenic purpura)
+and lymphoma, thereby avoiding the toxicity of long-term
+steroid administration.
+For the patients who do not respond to rituximab,
+splenectomy [IV, B] or the addition of ChT may be considered. Chemoimmunotherapy is particularly indicated for ﬁt
+patients with symptomatic disseminated disease, constitutional symptoms and/or signs of high-grade transformation
+[III, B].
+NMZL
+Treatment should follow the principles of therapy for
+follicular lymphoma [IV, B]. In advanced-stage NMZL with
+low tumour burden and lack of clinical symptoms, a watchand-wait strategy may be followed. Treatment should be
+initiated in the case of B symptoms, deterioration of peripheral blood counts due to lymphoma inﬁltration of the
+bone marrow, rapid enlargement of lymph nodes or
+compression of vital organs by bulky disease. RT should be
+considered in patients presenting with localised disease.
+Rituximab combined with ChT is the backbone of
+treatment. There are different options for ChT including
+rituximab/bendamustine, rituximab/cyclophosphamide/
+doxorubicin/vincristine/prednisone (R-CHOP), rituximab/
+cyclophosphamide/vincristine/prednisone (R-CVP) or rituximab/ﬂudarabine. Fludarabine combined with rituximab,
+however, was associated with high treatment-related
+toxicity.57 Rituximab/bendamustine followed by rituximab
+maintenance was associated with higher treatment-related
+mortality than R-CHOP in a large randomised phase III trial,
+comprising 195 treatment-naive patients with MZL (66 with
+NMZL), along with patients with follicular lymphoma.73
+Thus, the choice of the ChT partner should be adapted to
+the individual ﬁtness of the patient and the risk of infections. Rituximab maintenance is optional, as there is no
+evidence from prospective randomised studies that this is
+superior to observation after successful induction in
+NMZL.74 In patients with NMZL and concurrent HCV-related
+chronic hepatitis, antiviral treatment may induce remission
+in a high proportion of cases. In patients not needing immediate lymphoma treatment, antiviral therapy should be
+considered as ﬁrst treatment [IV, B].36,61
+MZL patients with recurrent disease
+Asymptomatic patients may be observed (watch-and-wait)
+and RT may be considered for MZL patients with localised
+relapses.61 If systemic treatment is required, chemoimmunotherapy can be repeated after long initial remissions (24 months). Autologous transplantation may be
+considered in ﬁt patients with clinically aggressive relapse.
+In other cases, an alternate chemoimmunotherapy regimen
+can be used. In a phase II trial, ibrutinib single-agent
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+E. Zucca et al.
+
+Annals of Oncology
+
+Table 4. GELA grading system proposed to deﬁne the histological response of gastric MZL after Helicobacter pylori eradication72
+Response (score)
+
+Description
+
+Histological characteristics
+
+CR
+
+Complete histological remission
+
+pMRD
+
+Probable minimal residual disease
+
+rRD
+
+Responding residual disease
+
+NC
+
+No change
+
+Normal or empty LP and/or ﬁbrosis with absent
+or scattered plasma cells and small lymphoid cells in the LP, no LEL
+Empty LP and/or ﬁbrosis with aggregates of lymphoid cells or
+lymphoid nodules in the LP/MM and/or SM, no LEL
+Focal empty LP and/or ﬁbrosis with dense, diffuse or nodular
+lymphoid inﬁltrate, extending around glands in the LP, focal LEL or absent
+Dense, diffuse or nodular lymphoid inﬁltrate, LEL usually present
+
+GELA, Groupe d’Etude des Lymphomes de l’Adulte; LEL, lymphoepithelial lesion; LP, lamina propria; MM, muscularis mucosa; MZL, marginal zone B-cell lymphoma; SM,
+submucosa.
+Reprinted from Kalpadakis et al.72 with permission.
+
+therapy showed anti-lymphoma activity in MZL including
+NMZL, leading to approval of the drug in the United States
+for the treatment of patients with MZL who require systemic therapy and have received at least one prior antiCD20-based therapy.75 The phosphoinositide 3-kinase (PI3K)
+inhibitor copanlisib had also demonstrated signiﬁcant efﬁcacy and a manageable safety proﬁle in heavily pretreated
+patients with relapsed or refractory MZL.76 Thus, these
+targeted agents may become a treatment option, in
+particular for patients with short remissions after rituximabcontaining chemoimmunotherapy [III, B].75
+RESPONSE EVALUATION AND FOLLOW-UP
+General considerations
+Asymptomatic patients with disseminated MZL (SMZL and
+NMZL) being managed expectantly (watch-and-wait) should
+be monitored by physical examination, imaging as clinically
+required, blood counts and biochemistry every 6 months.
+The interval between visits may be shortened when there is
+increasing splenomegaly, lymphadenopathy, cytopaenias
+and/or symptoms related to the disease. A CT scan or bone
+marrow biopsy is not indicated unless there are signs of
+disease progression.
+Fluorodeoxyglucose (FDG)-PET investigation can be
+considered in selected cases when there are clinical and/or
+
+Table 5. Response criteria for SMZL
+Complete
+response
+
+Resolution of organomegaly (spleen longitudinal
+diameter <13 cm)
+Hb >12 g/dl, platelets >100  109/l and neutrophils
+>1.5  109/l
+No evidence of circulating clonal B cells by ﬂow
+cytometry (light chain-restricted B cells)
+No evidence of bone marrow inﬁltration detected by IHC
+Negative DAT and PET (if positive at diagnosis)
+Regression 50% in all the measurable disease
+manifestations
+No new sites of disease
+Improvement of cytopaenias
+Decrease of inﬁltration and improvement of
+haematopoietic reserve at bone marrow biopsy
+<10% Improvement on the disease manifestations
+Colonoscopy and EGD
+>50% measurable signs of the disease from nadir
+Reappearance of any measurable sign of the disease
+
+Partial
+response
+
+No change
+Progression
+Relapse
+
+DAT, direct antiglobulin test; EGD, oesophagogastroduodenoscopy; Hb, haemoglobin; IHC, immunohistochemistry; PET, positron emission tomography; SMZL, splenic
+marginal zone lymphoma.
+
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+laboratory ﬁndings to suggest possible histological transformation. PET scans should also be carried out in cases
+where transformation has been demonstrated, for staging.
+Patients with EMZL at non-gastric sites who have
+completed treatment can be re-evaluated in the same way
+as any other indolent lymphoma (clinical examination, laboratory work-up, imaging/biopsy of residual lesions if indicated) every 3 months for the ﬁrst 2 years, and every 6
+months thereafter.
+Gastric MZL
+Sequential evaluation of gastric biopsies remains an
+essential follow-up procedure for gastric MZL to exclude
+either persistent disease or the appearance of early
+epithelial changes which may lead to gastric carcinoma,
+particularly in patients with persistent H. pylori infection.
+Unfortunately, the interpretation of lymphoid inﬁltrates in
+post-treatment gastric biopsies can be very difﬁcult and
+there are no uniform criteria for the deﬁnition of histological remission. Comparison with previous biopsies is helpful
+to assess response, and the authors recommend the
+Groupe d’ Etude des Lymphomes de l’ Adulte (GELA) scoring
+system (Table 4) as a reproducible method [IV, B].77
+Following the documentation of H. pylori eradication,
+strict endoscopic follow-up is recommended, with multiple
+biopsies taken 2e3 months after treatment to rule out
+tumour progression, and subsequently (twice per year for 2
+years) to monitor the histological regression of the
+lymphoma.
+Gastric MZLs have a limited tendency to distant spread
+and to histological transformation. Transient, apparent histological relapses are occasionally observed in endoscopic
+follow-up biopsies but are considered a relapse only if they
+are sustained and progressive, as they are often selflimiting, especially in the absence of H. pylori reinfection.
+Hence, in the case of persistent but stable residual disease
+or histological relapse (without distant dissemination and/
+or gross endoscopic tumour), a watch-and-wait policy appears to be safe [IV, C].78e80
+Nevertheless, long-term endoscopic and systemic followup (clinical examination, blood counts every 12e18
+months) is recommended. The risk of gastric adenocarcinoma among patients diagnosed with gastric MZLs has
+been reported to be six-fold higher than in the general
+population, although it still remains relatively low,81 and the
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+25
+
+E. Zucca et al.
+
+Annals of Oncology
+Table 6. Summary of recommendations
+
+Staging and risk assessment
+ Initial staging for all MZL subtypes should include history and physical examination, full blood and differential counts, biochemistry including renal and liver
+function tests, protein electrophoresis, LDH and B2M, serum and urine immunoﬁxation, serology for HBV, HCV and HIV and cryoglobulins and cryocrit if HCVpositive
+ IHC panel including at least CD20, CD10, CD5, CD23, cyclin D1 and IgD with diagnostic evaluation by an expert haematopathologist [IV, B]
+ Clinical and biological prognosticators (HPLL, MALT-IPI) should be applied in clinical routine to estimate the clinical behaviour [IIIeIV, C]
+Treatment
+EMZL
+ Helicobacter pylori eradication therapy should be given to all patients with gastric MZL [II, A]
+ ISRT is the preferred option for treatment of localised EMZL (moderate dose, which may vary according to the site) [IIeIV, AeB]
+ Anti-HCV therapy is recommended in patients with HCV-associated lymphoma [IV, B]
+ Other treatments including ChT, immunotherapy or combination chemoimmunotherapy are indicated in patients with symptomatic disseminated disease, contraindications to RT, failure after antibiotics or after local therapy or clinical suspicion of histological transformation: R-chlorambucil [I, A], R-bendamustine
+[III, A], rituximab monotherapy [III, B], R-lenalidomide [III, C] and R-CHOP for (clinically suspected or biopsy-proven) histological transformation
+SMZL
+ Rituximab alone is the preferred initial therapy in patients with SMZL [III, A]
+ Chemoimmunotherapy is indicated when rituximab alone is ineffective or in the presence of disseminated symptomatic disease and/or signs of high-grade
+transformation [III, B]
+ Anti-HCV therapy should be considered in patients with HCV-associated lymphoma [IV, B]
+ Splenectomy may be considered in selected cases, when rituximab is not indicated or ineffective [IV, B]
+NMZL
+ Treatment should follow the principles of therapy for follicular lymphoma [IV, B]
+ Anti-HCV therapy should be considered in patients with HCV-associated lymphoma [IV, B]
+ Chemoimmunotherapy is recommended in patients with NMZL (e.g. R-bendamustine, R-CHOP, R-CVP) [IV, B]
+Response evaluation and follow-up
+ Asymptomatic patients with disseminated MZL (SMZL and NMZL) being managed by watch-and-wait should be monitored by physical examination, imaging as
+clinically required, blood counts and biochemistry every 6 months
+ Patients with EMZL at non-gastric sites can be re-evaluated with clinical examination, laboratory work-up and imaging/biopsy of residual lesions if indicated
+every 3 months for the ﬁrst 2 years, and every 6 months thereafter
+Gastric MZL
+ Sequential evaluation of gastric biopsies remains an essential follow-up procedure for gastric MZL, particularly in patients with persistent Helicobacter pylori
+infection
+SMZL
+ Speciﬁc criteria for response assessment are recommended for SMZL and achievement of CR is deﬁned by normal spleen size, normal blood counts, negative
+ﬂow cytometry on blood and negative IHC on bone marrow biopsy
+B2M, b2 microglobulin; ChT, chemotherapy; CR, complete remission; EMZL, extranodal marginal zone B-cell lymphoma; HBV, hepatitis B virus; HCV, hepatitis C virus; HIV, human
+immunodeﬁciency virus; HPLL, prognostic model based on haemoglobin concentration, platelet count, LDH level and extrahilar lymphadenopathy; IgD, immunoglobulin D; IHC,
+immunohistochemistry; ISRT, involved-site radiotherapy; LDH, lactate dehydrogenase; MALT-IPI, mucosa-associated lymphoid tissue-International Prognostic Index; MZL, marginal
+zone B-cell lymphoma; NMZL, nodal splenic marginal zone B-cell lymphoma; R, rituximab; R-CHOP, rituximab/cyclophosphamide/doxorubicin/vincristine/prednisone; R-CVP, rituximab/cyclophosphamide/vincristine/prednisone; RT, radiotherapy; SMZL, splenic marginal zone B-cell lymphoma.
+
+In view of the particular clinical presentation of SMZL,
+speciﬁc criteria for response assessment are recommended
+(Table 5). In particular, achievement of CR is deﬁned by
+normal spleen size, normal blood counts, negative ﬂow
+cytometry on blood and negative IHC on bone marrow
+biopsy.9,22
+
+lymphoma regression after antibiotics.5,30,31,43,83 As discussed
+in the ‘Diagnosis and pathology/molecular biology’ section,
+detection of t(11;18) may also help to identify patients less
+likely to respond to alkylating agents alone. Nevertheless, in
+this disease, more research is needed to identify and validate
+molecular markers which might lead to more precise targeted
+therapies. In SMLZ, several molecular features (Ig mutational
+status, NOTCH2 and KLF2 mutations, TP53 abnormalities, and
+aberrant promoter methylation) have been reported as
+potentially useful biomarkers, which might be integrated in
+the clinical indices for a better risk stratiﬁcation.22
+
+PERSONALISED MEDICINE
+
+METHODOLOGY
+
+Risk stratiﬁcation using the speciﬁc prognostic indices for
+EMZL25 and SMZL26,28 may help the discussion of treatment
+options with patients, but these prognostic scores are not
+validated as tools to decide whether and which treatment is
+indicated.
+In gastric MZL, the absence of H. pylori, the deep invasion of
+the gastric wall (beyond the submucosa), the involvement of
+regional lymph nodes, the presence of chromosomal translocations that result in deregulation of MALT1 or BCL10 and
+other genetic features (such as overexpression of miR-142-5p
+and miR-155) may be associated with a reduced probability of
+
+These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating procedures for
+Clinical Practice Guidelines development, http://www.esmo.
+org/Guidelines/ESMO-Guidelines-Methodology. The relevant literature has been selected by the expert authors. A
+summary of recommendations is shown in Table 6. Levels of
+evidence and grades of recommendation have been applied
+using the system shown in Table 7. Statements without
+grading were considered justiﬁed standard clinical practice by
+the experts and the ESMO Faculty. This manuscript has been
+subjected to an anonymous peer review process.
+
+risk of other non-Hodgkin lymphomas may be increased as
+well.82
+SMZL
+
+26
+
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+E. Zucca et al.
+
+Annals of Oncology
+
+Table 7. Level of evidence and grades of recommendation (adapted from
+the Infectious Diseases Society of America-United States Public Health
+Service Grading Systema)
+Levels of evidence
+I Evidence from at least one large randomised, controlled trial of good
+methodological quality (low potential for bias) or meta-analyses of
+well-conducted randomised trials without heterogeneity
+II Small randomised trials or large randomised trials with a suspicion of
+bias (lower methodological quality) or meta-analyses of such trials or
+of trials with demonstrated heterogeneity
+III Prospective cohort studies
+IV Retrospective cohort studies or caseecontrol studies
+V Studies without control group, case reports, expert opinions
+Grades of recommendation
+A Strong evidence for efﬁcacy with a substantial clinical beneﬁt, strongly
+recommended
+B Strong or moderate evidence for efﬁcacy but with a limited clinical
+beneﬁt, generally recommended
+C Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh the risk or
+the disadvantages (adverse events, costs, etc.), optional
+D Moderate evidence against efﬁcacy or for adverse outcome, generally
+not recommended
+E Strong evidence against efﬁcacy or for adverse outcome, never
+recommended
+a
+
+By permission of the Infectious Diseases Society of America.84
+
+ACKNOWLEDGEMENTS
+The ESMO Guidelines Committee would like to thank the
+ESMO Faculty and other experts who provided critical reviews of these ESMO Clinical Practice Guidelines.
+FUNDING
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURE
+EZ has received research support from Roche, Janssen and
+Celgene; LA has reported consultancy or advisory role for
+Roche, Bayer, Celgene, Sandoz and Gilead Sciences, has
+received research funding from Gilead Sciences and travel
+expenses from Roche, Celgene, Gilead Sciences and EUSA
+Pharma and is a member of the speaker’s bureau for Celgene;
+CB has received research support from Roche, Bayer, Amgen
+and Janssen; PWJ has received research support from Epizyme and Janssen and consultancy for Boehringer Ingelheim,
+Bristol-Myers Squibb, Pﬁzer, Celgene, Carrick, Karus, Genmab
+and Incyte; MR has received support from Celgene, Novartis,
+Ipsen and Roche; UR is a member of the speaker’s bureau of
+AstraZeneca, Merck, Sharp and Dohme and Bayer; AS is a
+member of the speaker’s bureau of Janssen, Roche and
+Mundipharma; KS has reported consultancy and advisory
+board for Janssen and Gilead Sciences and has received
+institutional research support from Janssen, Gilead Sciences
+and AbbVie; CT has reported consultancy or advisory role for
+Janssen, Roche, Bayer and Celgene, has received research
+funding from Roche and Janssen and travel expenses from
+Sanoﬁ and Roche and is a member of the speaker’s bureau for
+Cellectis; AW has received service fees from Celgene and
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+Bristol-Myers Squibb and travel expenses from Pﬁzer; ML is a
+member of the speaker’s bureau of Celgene, Janssen-Cilag,
+Roche, Bayer, Amgen and Mundipharma; MP has declared
+no conﬂicts of interest.
+
+REFERENCES
+1. Campo E, Pileri SA, Jaffe ES, et al. Nodal marginal zone B-cell lymphoma. In: Swerdlow SH, Campo E, Harris NL, et al., eds. WHO Classiﬁcation of Tumours of Haematopoietic and Lymphoid Tissues. Revised
+4th ed. Lyon: IARC; 2017:263e265.
+2. Piris MA, Isaacson PI, Swerdlow SH, et al. Splenic marginal zone lymphoma. In: Swerdlow SH, Campo E, Harris NL, et al., eds. WHO Classiﬁcation of Tumours of Haematopoietic and Lymphoid Tissues. Revised
+4th ed. Lyon: IARC Press; 2017:223e225.
+3. Cook JR, Isaacson PG, Chott A, et al. Extranodal marginal zone B-cell
+lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma).
+In: Swerdlow SH, Campo E, Harris NL, et al., eds. WHO Classiﬁcation of
+Tumours of Haematopoietic and Lymphoid Tissues. Revised 4th ed.
+Lyon: IARC Press; 2017:259e262.
+4. Xochelli A, Kalpadakis C, Gardiner A, et al. Clonal B-cell lymphocytosis
+exhibiting immunophenotypic features consistent with a marginalzone origin: is this a distinct entity? Blood. 2014;123:1199e1206.
+5. Zucca E, Bertoni F. The spectrum of MALT lymphoma at different sites:
+biological and therapeutic relevance. Blood. 2016;127:2082e2092.
+6. Dreyling M, Thieblemont C, Gallamini A, et al. ESMO Consensus conferences: guidelines on malignant lymphoma. Part 2: marginal zone
+lymphoma, mantle cell lymphoma, peripheral T-cell lymphoma. Ann
+Oncol. 2013;24:857e877.
+7. Ruskone-Fourmestraux A, Fischbach W, Aleman BM, et al. EGILS
+consensus report. Gastric extranodal marginal zone B-cell lymphoma
+of MALT. Gut. 2011;60:747e758.
+8. Franco V, Florena AM, Iannitto E. Splenic marginal zone lymphoma.
+Blood. 2003;101:2464e2472.
+9. Matutes E, Oscier D, Montalban C, et al. Splenic marginal zone lymphoma proposals for a revision of diagnostic, staging and therapeutic
+criteria. Leukemia. 2008;22:487e495.
+10. Ponzoni M, Kanellis G, Pouliou E, et al. Bone marrow histopathology in
+the diagnostic evaluation of splenic marginal-zone and splenic diffuse
+red pulp small B-cell lymphoma: a reliable substitute for spleen histopathology? Am J Surg Pathol. 2012;36:1609e1618.
+11. Swerdlow SH, Campo E, Pileri SA, et al. The 2016 revision of the World
+Health Organization classiﬁcation of lymphoid neoplasms. Blood.
+2016;127:2375e2390.
+12. Swerdlow SH, Kuzu I, Dogan A, et al. The many faces of small B cell
+lymphomas with plasmacytic differentiation and the contribution of
+MYD88 testing. Virchows Arch. 2016;468:259e275.
+13. Raderer M, Kiesewetter B, Ferreri AJ. Clinicopathologic characteristics and treatment of marginal zone lymphoma of mucosaassociated lymphoid tissue (MALT lymphoma). CA Cancer J Clin.
+2016;66:153e171.
+14. Zucca E, Conconi A, Pedrinis E, et al. Nongastric marginal zone B-cell
+lymphoma of mucosa-associated lymphoid tissue. Blood. 2003;101:
+2489e2495.
+15. Ruskone-Fourmestraux A, Dragosics B, Morgner A, et al. Paris
+staging system for primary gastrointestinal lymphomas. Gut.
+2003;52:912e913.
+16. Mazloom A, Rodriguez A, Ha CS, et al. Incidence of gastric involvement
+in patients with nongastrointestinal extranodal marginal zone lymphoma. Cancer. 2011;117:2461e2466.
+17. Ogusa E, Tomita N, Ishii Y, et al. Clinical manifestations of primary
+pulmonary extranodal marginal zone lymphoma of mucosaassociated lymphoid tissue in Japanese population. Hematol Oncol.
+2013;31:18e21.
+18. Thieblemont C, Felman P, Callet-Bauchu E, et al. Splenic marginal-zone
+lymphoma: a distinct clinical and pathological entity. Lancet Oncol.
+2003;4:95e103.
+
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+27
+
+E. Zucca et al.
+
+Annals of Oncology
+19. Thieblemont C, Felman P, Berger F, et al. Treatment of splenic marginal
+zone B-cell lymphoma: an analysis of 81 patients. Clin Lymphoma.
+2002;3:41e47.
+20. Thieblemont C, Davi F, Noguera ME, et al. Splenic marginal zone
+lymphoma: current knowledge and future directions. Oncology (Williston Park). 2012;26:194e202.
+21. Traverse-Glehen A, Bertoni F, Thieblemont C, et al. Nodal marginal zone
+B-cell lymphoma: a diagnostic and therapeutic dilemma. Oncology
+(Williston Park). 2012;26:92e99, 103e104.
+22. Arcaini L, Rossi D, Paulli M. Splenic marginal zone lymphoma: from
+genetics to management. Blood. 2016;127:2072e2081.
+23. Berger F, Felman P, Thieblemont C, et al. Non-MALT marginal zone
+B-cell lymphomas: a description of clinical presentation and outcome
+in 124 patients. Blood. 2000;95:1950e1956.
+24. Arcaini L, Paulli M, Burcheri S, et al. Primary nodal marginal zone B-cell
+lymphoma: clinical features and prognostic assessment of a rare disease. Br J Haematol. 2007;136:301e304.
+25. Thieblemont C, Cascione L, Conconi A, et al. A MALT lymphoma
+prognostic index. Blood. 2017;130:1409e1417.
+26. Arcaini L, Lazzarino M, Colombo N, et al. Splenic marginal zone lymphoma:
+a prognostic model for clinical use. Blood. 2006;107:4643e4649.
+27. Montalban C, Abraira V, Arcaini L, et al. Risk stratiﬁcation for splenic
+marginal zone lymphoma based on haemoglobin concentration,
+platelet count, high lactate dehydrogenase level and extrahilar
+lymphadenopathy: development and validation on 593 cases. Br J
+Haematol. 2012;159:164e171.
+28. Montalban C, Abraira V, Arcaini L, et al. Simpliﬁcation of risk stratiﬁcation for splenic marginal zone lymphoma: a point-based score for
+practical use. Leuk Lymphoma. 2014;55:929e931.
+29. Kalpadakis C, Pangalis GA, Angelopoulou MK, et al. Validation of the
+simpliﬁed prognostic score for splenic marginal zone lymphoma of the
+Splenic Marginal Zone Lymphoma Working Group. Leuk Lymphoma.
+2014;55:2640e2642.
+30. Thieblemont C, Zucca E. Clinical aspects and therapy of gastrointestinal
+MALT lymphoma. Best Pract Res Clin Haematol. 2017;30:109e117.
+31. Bertoni F, Coifﬁer B, Salles G, et al. MALT lymphomas: pathogenesis can
+drive treatment. Oncology (Williston Park). 2011;25:1134e1142, 1147.
+32. Fuccio L, Laterza L, Zagari RM, et al. Treatment of Helicobacter pylori
+infection. BMJ. 2008;337:a1454.
+33. Zullo A, Hassan C, Cristofari F, et al. Effects of Helicobacter pylori
+eradication on early stage gastric mucosa-associated lymphoid tissue
+lymphoma. Clin Gastroenterol Hepatol. 2010;8:105e110.
+34. Zullo A, Hassan C, Ridola L, et al. Eradication therapy in Helicobacter
+pylori-negative, gastric low-grade mucosa-associated lymphoid tissue
+lymphoma patients: a systematic review. J Clin Gastroenterol. 2013;47:
+824e827.
+35. Kiesewetter B, Raderer M. Antibiotic therapy in nongastrointestinal
+MALT lymphoma: a review of the literature. Blood. 2013;122:1350e
+1357.
+36. Arcaini L, Vallisa D, Rattotti S, et al. Antiviral treatment in patients with
+indolent B-cell lymphomas associated with HCV infection: a study of
+the Fondazione Italiana Linfomi. Ann Oncol. 2014;25:1404e1410.
+37. Wirth A, Gospodarowicz M, Aleman BM, et al. Long-term outcome for
+gastric marginal zone lymphoma treated with radiotherapy: a retrospective, multi-centre, International Extranodal Lymphoma Study
+Group study. Ann Oncol. 2013;24:1344e1351.
+38. Goda JS, Gospodarowicz M, Pintilie M, et al. Long-term outcome in
+localized extranodal mucosa-associated lymphoid tissue lymphomas
+treated with radiotherapy. Cancer. 2010;116:3815e3824.
+39. Lowry L, Smith P, Qian W, et al. Reduced dose radiotherapy for local
+control in non-Hodgkin lymphoma: a randomised phase III trial.
+Radiother Oncol. 2011;100:86e92.
+40. Yahalom J, Illidge T, Specht L, et al. Modern radiation therapy for extranodal
+lymphomas: ﬁeld and dose guidelines from the International Lymphoma
+Radiation Oncology Group. Int J Radiat Oncol Biol Phys. 2015;92:11e31.
+41. Hoskin PJ, Kirkwood AA, Popova B, et al. 4 Gy versus 24 Gy radiotherapy for patients with indolent lymphoma (FORT): a randomised
+phase 3 non-inferiority trial. Lancet Oncol. 2014;15:457e463.
+
+28
+
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+42. Fasola CE, Jones JC, Huang DD, et al. Low-dose radiation therapy (2 Gy
+x 2) in the treatment of orbital lymphoma. Int J Radiat Oncol Biol Phys.
+2013;86:930e935.
+43. Thieblemont C. Clinical presentation and management of marginal zone
+lymphomas. Hematology (Am Soc Hematol Educ Program). 2005:307e313.
+44. Hammel P, Haioun C, Chaumette MT, et al. Efﬁcacy of single-agent
+chemotherapy in low-grade B-cell mucosa- associated lymphoid tissue lymphoma with prominent gastric expression. J Clin Oncol.
+1995;13:2524e2529.
+45. Jager G, Neumeister P, Brezinschek R, et al. Treatment of extranodal
+marginal zone b-cell lymphoma of mucosa-associated lymphoid tissue
+type with cladribine: a phase II study. J Clin Oncol. 2002;20:3872e
+3877.
+46. Zucca E, Conconi A, Martinelli G, et al. Final results of the IELSG-19
+randomized trial of mucosa-associated lymphoid tissue lymphoma:
+improved event-free and progression-free survival with rituximab plus
+chlorambucil versus either chlorambucil or rituximab monotherapy.
+J Clin Oncol. 2017;35:1905e1912.
+47. Conconi A, Martinelli G, Thieblemont C, et al. Clinical activity of rituximab in extranodal marginal zone B-cell lymphoma of MALT type.
+Blood. 2003;102:2741e2745.
+48. Martinelli G, Laszlo D, Conconi A, et al. Anti-CD20 monoclonal antibody
+(rituximab) in gastric extranodal marginal zone (MALT) non-Hodgkins
+lymphoma (NHL) patients: clinical and biological results (phase II
+study). Blood. 2003;102:410a.
+49. Raderer M, Jager G, Brugger S, et al. Rituximab for treatment of
+advanced extranodal marginal zone B cell lymphoma of the mucosaassociated lymphoid tissue lymphoma. Oncology. 2003;65:306e310.
+50. Salar A, Domingo-Domenech E, Panizo C, et al. First-line responseadapted treatment with the combination of bendamustine and rituximab in patients with mucosa-associated lymphoid tissue lymphoma
+(MALT2008-01): a multicentre, single-arm, phase 2 trial. Lancet Haematol. 2014;1:e104ee111.
+51. Salar A, Domingo-Domenech E, Panizo C, et al. Long-term results of a
+phase II study of rituximab and bendamustine for mucosa-associated
+lymphoid tissue lymphoma. Blood. 2017;130:1772e1774.
+52. Rummel MJ, Koenigsmann M, Chow KU, et al. Two years rituximab
+maintenance vs. observation after ﬁrst line treatment with bendamustine plus rituximab (B-R) in patients with marginal zone lymphoma
+(MZL): Results of a prospective, randomized, multicenter phase 2 study
+(the StiL NHL7-2008 MAINTAIN trial). J Clin Oncol. 2018;36:7515.
+53. Stathis A, Gregorini A, Gressin R, et al. IELSG-38: A phase II study of
+chlorambucil in combination with rituximab followed by maintenance
+therapy with subcutaneous rituximab in patients with extranodal
+marginal zone B-cell lymphoma of mucosa associated lymphoid tissue
+(MALT). Blood. 2017;130:1506.
+54. Hancock BW, Qian W, Linch D, et al. Chlorambucil versus observation after
+anti-Helicobacter therapy in gastric MALT lymphomas: results of the international randomised LY03 trial. Br J Haematol. 2009;144:367e375.
+55. Kiesewetter B, Willenbacher E, Willenbacher W, et al. A phase 2 study
+of rituximab plus lenalidomide for mucosa-associated lymphoid tissue
+lymphoma. Blood. 2017;129:383e385.
+56. Salar A, Domingo-Domenech E, Estany C, et al. Combination therapy
+with rituximab and intravenous or oral ﬂudarabine in the ﬁrst-line,
+systemic treatment of patients with extranodal marginal zone B-cell
+lymphoma of the mucosa-associated lymphoid tissue type. Cancer.
+2009;115:5210e5217.
+57. Brown JR, Friedberg JW, Feng Y, et al. A phase 2 study of concurrent
+ﬂudarabine and rituximab for the treatment of marginal zone lymphomas. Br J Haematol. 2009;145:741e748.
+58. Tilly H, Gomes da Silva M, Vitolo U, et al. Diffuse large B-cell lymphoma
+(DLBCL): ESMO Clinical Practice Guidelines for diagnosis, treatment and
+follow-up. Ann Oncol. 2015;26(Suppl 5):v116ev125.
+59. Koch P, Probst A, Berdel WE, et al. Treatment results in localized primary gastric lymphoma: data of patients registered within the German
+multicenter study (GIT NHL 02/96). J Clin Oncol. 2005;23:7050e7059.
+60. Zucca E, Stathis A, Bertoni F. The management of nongastric MALT
+lymphomas. Oncology (Williston Park). 2014;28:86e93.
+
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+E. Zucca et al.
+
+Annals of Oncology
+
+61. Arcaini L, Paulli M, Boveri E, et al. Splenic and nodal marginal zone
+lymphomas are indolent disorders at high hepatitis C virus seroprevalence with distinct presenting features but similar morphologic and
+phenotypic proﬁles. Cancer. 2004;100:107e115.
+62. Chacon JI, Mollejo M, Munoz E, et al. Splenic marginal zone lymphoma:
+clinical characteristics and prognostic factors in a series of 60 patients.
+Blood. 2002;100:1648e1654.
+63. Kalpadakis C, Pangalis GA, Angelopoulou MK, et al. Treatment of splenic
+marginal zone lymphoma with rituximab monotherapy: progress report
+and comparison with splenectomy. Oncologist. 2013;18:190e197.
+64. Lefrere F, Hermine O, Belanger C, et al. Fludarabine: an effective
+treatment in patients with splenic lymphoma with villous lymphocytes.
+Leukemia. 2000;14:573e575.
+65. Cervetti G, Galimberti S, Pelosini M, et al. Signiﬁcant efﬁcacy of 2chlorodeoxyadenosine  rituximab in the treatment of splenic marginal zone lymphoma (SMZL): extended follow-up. Ann Oncol. 2013;24:
+2434e2438.
+66. Tsimberidou AM, Catovsky D, Schlette E, et al. Outcomes in patients
+with splenic marginal zone lymphoma and marginal zone lymphoma
+treated with rituximab with or without chemotherapy or chemotherapy alone. Cancer. 2006;107:125e135.
+67. Kalpadakis C, Pangalis GA, Dimopoulou MN, et al. Rituximab monotherapy is highly effective in splenic marginal zone lymphoma. Hematol
+Oncol. 2007;25:127e131.
+68. Bennett M, Sharma K, Yegena S, et al. Rituximab monotherapy for
+splenic marginal zone lymphoma. Haematologica. 2005;90:856e858.
+69. Iannitto E, Bellei M, Amorim S, et al. Efﬁcacy of bendamustine and
+rituximab in splenic marginal zone lymphoma: results from the phase II
+BRISMA/IELSG36 study. Br J Haematol. 2018;183:755e765.
+70. Kalpadakis C, Pangalis GA, Sachanas S, et al. Rituximab monotherapy in
+splenic marginal zone lymphoma: prolonged responses and potential
+beneﬁt from maintenance. Blood. 2018;132:666e670.
+71. Kalpadakis C, Pangalis GA, Angelopoulou MK, et al. Treatment of
+splenic marginal zone lymphoma. Best Pract Res Clin Haematol.
+2017;30:139e148.
+72. Kalpadakis C, Pangalis GA, Angelopoulou MK, et al. Should rituximab
+replace splenectomy in the management of splenic marginal zone
+lymphoma? Best Pract Res Clin Haematol. 2018;31:65e72.
+73. Marcus R, Davies A, Ando K, et al. Obinutuzumab for the ﬁrst-line
+treatment of follicular lymphoma. N Engl J Med. 2017;377:1331e1344.
+
+Volume 31
+
+-
+
+Issue 1
+
+-
+
+2020
+
+74. Herold M, Hoster E, Janssens A, et al. Immunochemotherapy with
+obinutuzumab or rituximab in a subset of patients in the randomised
+GALLIUM trial with previously untreated marginal zone lymphoma
+(MZL). Hematol Oncol. 2017;35:146e147.
+75. Noy A, de Vos S, Thieblemont C, et al. Targeting Bruton tyrosine kinase
+with ibrutinib in relapsed/refractory marginal zone lymphoma. Blood.
+2017;129:2224e2232.
+76. Dreyling M, Santoro A, Mollica L, et al. Phosphatidylinositol 3-kinase
+inhibition by copanlisib in relapsed or refractory indolent lymphoma.
+J Clin Oncol. 2017;35:3898e3905.
+77. Copie-Bergman C, Wotherspoon AC, Capella C, et al. Gela histological
+scoring system for post-treatment biopsies of patients with gastric
+MALT lymphoma is feasible and reliable in routine practice. Br J
+Haematol. 2013;160:47e52.
+78. Nakamura S, Sugiyama T, Matsumoto T, et al. Long-term clinical
+outcome of gastric MALT lymphoma after eradication of Helicobacter
+pylori: a multicentre cohort follow-up study of 420 patients in Japan.
+Gut. 2012;61:507e513.
+79. Stathis A, Chini C, Bertoni F, et al. Long-term outcome following Helicobacter pylori eradication in a retrospective study of 105 patients
+with localized gastric marginal zone B-cell lymphoma of MALT type.
+Ann Oncol. 2009;20:1086e1093.
+80. Wundisch T, Thiede C, Morgner A, et al. Long-term follow-up of gastric
+MALT lymphoma after Helicobacter pylori eradication. J Clin Oncol.
+2005;23:8018e8024.
+81. Capelle LG, de Vries AC, Looman CW, et al. Gastric MALT lymphoma:
+epidemiology and high adenocarcinoma risk in a nation-wide study. Eur
+J Cancer. 2008;44:2470e2476.
+82. Wundisch T, Dieckhoff P, Greene B, et al. Second cancers and residual disease in patients treated for gastric mucosa-associated
+lymphoid tissue lymphoma by Helicobacter pylori eradication and
+followed for 10 years. Gastroenterology. 2012;143:936e942. quiz
+e913e934.
+83. Saito Y, Suzuki H, Tsugawa H, et al. Overexpression of miR-142-5p and
+miR-155 in gastric mucosa-associated lymphoid tissue (MALT) lymphoma resistant to Helicobacter pylori eradication. PLoS One. 2012;7:
+e47396.
+84. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis. 2001;33:139e144.
+
+https://doi.org/10.1016/j.annonc.2019.10.010
+
+29
+
+

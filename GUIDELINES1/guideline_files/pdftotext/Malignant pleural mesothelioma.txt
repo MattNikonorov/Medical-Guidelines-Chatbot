@@ -1,0 +1,1652 @@
+SPECIAL ARTICLE
+
+Malignant pleural mesothelioma: ESMO Clinical Practice Guidelines for
+diagnosis, treatment and follow-up5
+S. Popat1,2, P. Baas3,4, C. Faivre-Finn5, N. Girard6, A. G. Nicholson2,7, A. K. Nowak8,9, I. Opitz10, A. Scherpereel11 &
+M. Reck12, on behalf of the ESMO Guidelines Committee*
+1
+
+Royal Marsden Hospital NHS Foundation Trust, Section of Clinical Studies, Institute of Cancer Research, London; 2National Centre for Mesothelioma Research,
+National Heart & Lung Institute, Imperial College London, London, UK; 3Department of Thoracic Oncology, The Netherlands Cancer Institute, Amsterdam; 4Leiden
+University Medical Center, Leiden, The Netherlands; 5Department of Clinical Oncology, The Christie NHS Foundation Trust and University of Manchester, Manchester,
+UK; 6Thorax Institute Curie Montsouris, Institut Curie, Paris, France; 7Department of Histopathology, Royal Brompton & Hareﬁeld Hospitals, London, UK; 8National
+Centre for Asbestos Related Diseases, Centre for Respiratory Health, University of Western Australia, Nedlands; 9Medical School, University of Western Australia,
+Nedlands, Australia; 10Department of Thoracic Surgery, University Hospital Zurich, Zurich, Switzerland; 11Department of Pulmonary and Thoracic Oncology, University
+of Lille, CHU Lille, INSERM U1189, OncoThAI, Lille, France; 12Department of Thoracic Oncology, LungenClinic Airway Research Center North (ARCN), German Center for
+Lung Research, Grosshansdorf, Germany
+
+Available online 30 November 2021
+
+Key words: malignant pleural mesothelioma, diagnosis, treatment, follow-up, clinical practice guideline
+
+INCIDENCE AND EPIDEMIOLOGY
+Incidence
+Incidence of malignant pleural mesothelioma (MPM) is
+generally higher in males than females and is attributed to
+historical differences in exposures with world-standardised
+incidence rates per 100 000 persons of 0.7 and 0.3 in the
+United States and 1.7 and 0.4 for Europe (for males and
+females, respectively). Incidence is highest in countries with
+greatest previous asbestos use such as the Netherlands, UK
+and Australia.1 Due to a lag time of w40 years between
+exposure and presentation, alongside relatively recent usage bans, incidence continues to rise in many countries. In
+Europe, rates of mesothelioma were rising sharply in the
+early 2000s, although there is longer-term uncertainty on
+incidence given the high usage of asbestos domestically.
+Moreover, in the developing world, asbestos use continues
+to rise.2 Incidence is higher in males than females and
+several studies have reported better survival for females
+compared with males.3
+Epidemiology
+MPM is a relatively rare tumour classiﬁed by the World
+Health Organization (WHO) as directly attributable to all
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, 6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5
+Note: Approved by the ESMO Guidelines Committee: September 2021. This
+publication supersedes the previously published versiondAnn Oncol. 2015:26
+(suppl 5):v31-v39.
+0923-7534/© 2021 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+types of asbestos exposure and is therefore both an industrial and preventable disease. Asbestos use is currently
+banned in 67 countries4 but continues to be high in Central
+Asia compared with Europe, with several countries,
+including the United States, having no ban but only usage
+restrictions. Mesothelioma is a disease of the elderly, being
+rare below the age of 50 years, with a sharp rise in incidence thereafter and a median age at diagnosis of
+76 years.5
+DIAGNOSIS, PATHOLOGY AND MOLECULAR BIOLOGY
+Diagnosis
+Patients typically present with one or more of dyspnoea,
+chest pain and weight loss. Symptoms may occur over many
+months. During physical examination, unilateral effusions
+are typical. It is important that a detailed occupational
+history is obtained for potential legal compensation.
+Standard work-up (Table 1) includes:
+ chest X-ray;
+ computed tomography (CT) scan of the chest and upper
+abdomen;
+ thoracentesis, with examination of the pleural effusion
+(thoracoscopy with conﬁrmatory biopsy is preferred);
+ general laboratory blood tests.
+Plain chest radiography lacks sufﬁcient sensitivity and
+speciﬁcity for diagnosis and staging. Signiﬁcant volumes of
+pleural effusions can mask pleural/chest lesions and make
+small, malignant pleural lesions undetectable. When an
+occupational history indicates signiﬁcant asbestos exposure,
+or radiology is suggestive of mesothelioma, cytology can be
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+129
+
+S. Popat et al.
+
+Annals of Oncology
+Table 1. Table of diagnostic work-up
+Initial presentation
+
+Diagnostic phase
+
+Occupational history
+Chest X-ray
+General blood tests
+
+CT scan
+Pleural ﬂuid sampling (cytology)
+Thoracoscopy or CT-/US-guided histological
+biopsya
+
+CT, computed tomography; US, ultrasound.
+a
+Thoracoscopy with conﬁrmatory biopsy is preferred.
+
+used to detect malignant cells (but may yield false negatives), and immunohistochemical conﬁrmation should be
+undertaken (see the Pathology and molecular biology subsection). Thoracoscopy is recommended to obtain adequate
+histology, to stage optimally and to allow pleural ﬂuid
+evacuation (with or without pleurodesis).6,7 This can be
+carried out by pleuroscopy or by video-assisted thoracic
+surgery (VATS). MPM can be difﬁcult to identify and therefore deep biopsies from ideally three sites are recommended. When thoracoscopy is not feasible or
+contraindicated, CT scan or ultrasound-guided biopsies are a
+good alternative. Other than obtaining a diagnosis, there are
+medico-legal reasons to conﬁrm an MPM diagnosis. To date,
+there are no studies that recommend screening of patients
+who have had any (occupational) history of asbestos
+exposure.
+Potential circulating tumour markers have been extensively tested; however, only a few have been able to facilitate the diagnostic process: cyfra 21.1, ﬁbulin-3 and
+mesothelin all lack speciﬁcity and should not be used as
+speciﬁc markers for mesothelioma.8 Carcinoembryonic antigen (CEA) is a negative marker and is not increased in
+MPM. It may be useful to rule out MPM when tissue
+analysis is inconclusive.
+
+Pathology and molecular biology
+Classiﬁcation of mesothelioma has been updated in 2021 by
+the WHO.9 Nearly all pleural mesotheliomas are diffuse,
+although very rarely tumours are localised, deﬁned by a
+single circumscribed mass with no clinical or histological
+evidence of spread.10 There are three histological subtypes:
+epithelioid, sarcomatoid and biphasic. There is increased
+recognition, however, of the importance of architectural
+patterns and both cytological and stromal features.9,11 In
+addition, following several independent, retrospective
+cohort studies, grading of epithelioid mesotheliomas is
+recommended for epithelioid subtypes.9,11,12
+The diversity of histological features in mesotheliomas,
+combined with the pleura being a common site for metastatic disease and reactive changes showing signiﬁcant atypia, makes diagnosis on morphology alone problematic and
+use of immunohistochemistry (IHC) is recommended. For
+epithelioid mesotheliomas, diagnosis can usually be made
+by using a combination of two ‘mesothelioma-associated’
+markers [e.g. calretinin, Wilms’ tumour-1 (WT-1), cytokeratin
+5/6] and two ‘(adeno)carcinoma-associated’ markers [e.g.
+130
+
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+CEA, Ber-EP4, MOC-31], supplemented by other markers
+dependent on possibility of known, suspected or occult
+malignancies.13 These other markers are far less speciﬁc and
+sensitive in sarcomatoid malignancies, although broadspectrum cytokeratins are positive in the majority of sarcomatoid mesotheliomas, while most sarcomas are negative.13
+There are also numerous other antibodies that may be of
+value to a greater or lesser extent, reviewed elsewhere, and
+pathologists should consider these as appropriate.13 Exclusion of mesothelioma by identifying tumour molecular variants speciﬁc to certain sarcomas [e.g. primary pleural
+synovial sarcoma and t(x:18) may also be valuable].13 Diffuse
+and localised mesotheliomas also need to be distinguished
+from the much rarer well-differentiated papillary mesothelial tumour and adenomatoid tumour, both of mesothelial
+origin but with far more indolent behaviour.9
+Samples used for diagnosis of pleural mesothelioma
+range from pleural effusion cytology, blind or image-guided
+needle core biopsies, open or VATS surgical biopsies samples to macroscopic complete resection (MCR), extended
+pleural decortication (EPD) and extrapleural pneumonectomy (EPP) samples. Opinions differ on the accuracy of
+cytological diagnosis and most will require a minimum of
+IHC on cell blocks to conﬁrm mesothelial phenotype.13,14 In
+most cases, tissue biopsies that allow identiﬁcation of
+subpleural invasion and its extent are required. Thoracocentesis for the sole purpose of cytological diagnosis
+should be avoided as biopsy is more likely to provide a
+deﬁnitive diagnosis, to minimise the risk of permeation
+metastasis along thoracocentesis tracts. Deﬁnitive diagnosis
+can be made on single samples of any size but an expert
+consensus document recently proposed that sampling of at
+least three sites, if feasible, should be undertaken to increase the likelihood of robust subtyping and grading, with
+subsequent supporting evidence in a retrospective
+cohort.11,15 Expert consensus also proposed that imaging
+might be useful in targeting biopsies to speciﬁc areas of
+interest.11
+In relation to the differential diagnoses of the epithelioid
+subtype versus mesothelial hyperplasia and sarcomatoid
+subtype versus reactive ﬁbrous pleuritis, recent studies have
+identiﬁed that mesotheliomas often show loss of BAP1
+(more common in epithelioid subtype) and/or loss of
+CDKN2A (more common in sarcomatoid subtype). Loss of
+BAP1 can be identiﬁed through IHC. Loss of CDKN2A requires
+molecular analysis, although loss of methylthioadenosine
+phosphorylase (MTAP) staining can act as a surrogate (with
+96% speciﬁcity but 78% sensitivity16), as MTAP is located
+very close to CDKN2A at 9p21.3. It is recommended, however, that any laboratories using these antibodies or molecular assays have validated testing protocols.9 Molecular
+testing should not be used in isolation of other ﬁndings as
+the ﬁeld is far from fully understood. For example, the signiﬁcance of focal loss of MTAP remains uncertain.
+The 2021 WHO classiﬁcation also recognises mesothelioma in situ (MIS).9,17 Until recently, such a diagnosis was
+not possible due to the morphological overlap between
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+S. Popat et al.
+
+Annals of Oncology
+
+reactive and neoplastic atypia in mesothelial cells, although
+advances in molecular pathology have allowed MIS to be
+diagnosed through a combination of clinical, imaging and
+morphological data, together with loss of BAP1 staining
+and/or loss of MTAP staining and/or homozygous deletion
+of CDKN2A.9 The 2021 WHO classiﬁcation also recommends
+grading of epithelioid mesotheliomas into a two-tier system
+of high and low grade, applicable to resections and
+biopsies.
+Recommendations
+Diagnostic procedures
+ Diagnostic procedures should encompass at least occupational history with emphasis on asbestos exposure
+[II, A] and contrast-enhanced CT of the thorax and upper
+abdomen [II, A].
+ In all patients who have a unilateral pleural thickening,
+with or without ﬂuid and/or pleural plaques, efforts
+should be made to obtain a pathological specimen
+[II, A]. Thoracoscopy is preferred [III, B].
+ The role of screening of persons exposed to asbestos for
+early MPM diagnosis is uncertain [IV, E].
+ Circulating tumour markers cannot adequately distinguish MPM [II, D].
+Pathological sampling
+ Effusion cytology for MPM deﬁnitive diagnosis remains
+controversial and biopsy is recommended especially for
+histological subtyping and if clinical trial participation is
+considered [IV, B].
+ Biopsy sampling of at least three distant sites when
+feasible, with possible targeting of areas of interest via
+thoracoscopic imaging, is recommended for robust subtyping and grading [IV, B].
+Pathological classiﬁcation
+ Mesotheliomas should be classiﬁed using the current
+WHO criteria, including major subtype and documentation of architectural patterns, grading of epithelioid subtypes and stromal and cytologic features that reﬁne
+prognostication [IV, A].
+ Epithelioid mesotheliomas should be graded as low or
+high grade [IV, B], with this stratiﬁcation used in ongoing
+and future trials and research [V, C].
+ A diagnosis of MIS can be made in a multidisciplinary
+(clinical, imaging, morphological and molecular) setting,
+with molecular tests undertaken in validated laboratories
+[IV, A].
+Use of IHC
+ IHC is recommended for all primary diagnoses of MPM
+[IV, A].
+ For epithelioid subtype, at least two ‘mesothelial’
+markers and at least two ‘(adeno)carcinoma’ markers
+should be used [V, A].
+ For sarcomatoid subtype, cytokeratin staining should be
+used [V, A].
+ Loss of BAP1 and/or MTAP as surrogate for CDKN2A
+deletion aid the MPM diagnosis and are required as
+part of the multidisciplinary diagnosis of MIS, undertaken in a strictly validated setting [IV, A].
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+STAGING AND RISK ASSESSMENT
+The current 8th revision of the Union for International
+Cancer Control (UICC) TNM (tumourenodeemetastasis)
+staging system for mesothelioma is based on the updated
+International Association for the Study of Lung Cancer
+(IASLC) mesothelioma staging project, using prospective
+data on >3500 patients treated both surgically and
+non-surgically, and is presented in Supplementary Tables S1
+and S2, available at https://doi.org/10.1016/j.annonc.
+2021.11.005.18 Contrast-enhanced CT of the thorax and upper abdomen is the recommended baseline imaging for
+diagnosis and staging for all patients. Clinical staging for
+MPM is challenging because of the nature of the disease
+and growth pattern; additional staging investigations may
+be required for surgical candidates. Currently different imaging protocols are being explored for better T staging,
+speciﬁcally for lung parenchyma, diaphragm and chest wall
+inﬁltrationdcritical points if considering resection. An
+important change with regard to N-staging is that no difference in survival between clinical stages N0, N1 and N2
+was identiﬁed,19 and contralateral nodes are now classiﬁed
+as N2. For surgical candidates, consideration of mediastinal
+staging by endobronchial ultrasound (EBUS) or mediastinoscopy should be given to exclude contralateral
+involvement. Mediastinoscopy is recommended in case of
+potential resectable disease and if EBUS is negative despite
+ﬂuorodeoxyglucose-avid lymph nodes or very small lymph
+nodes with a low chance of diagnostic yield by EBUS. For Mstage, although rarely metastatic at diagnosis, in surgical
+candidates it is important to exclude metastases by, for
+example, positron emission tomography (PET)-CT, due to
+survival differences between single- versus multiple-site
+cM1 cases.20 Interpretation of PET-CT may be limited if
+previous chemical pleurodesis was carried out, but remains
+useful to exclude occult distant metastatic disease, and
+because of prognostic utility of maximum standard uptake
+values.21 MRI may be useful for speciﬁc surgical questions.22 Brain imaging is not routine but should be considered in case of clinical suspicion, although central nervous
+system involvement in early-stage disease is very rare.
+Pathological staging
+For T stage, because of a well-documented survival difference between pT3 and pT4 tumours,23 clear marking of the
+surgical specimen is critical for accurate pathological staging, as is the resection of previous biopsy or incision sites,24
+which have prognostic importance, as does the resected
+tumour weight.25 For N-stage, hilar and mediastinal nodes
+are now classiﬁed as N1 and contralateral or all extrathoracic nodal metastases are categorised as N2.19 The
+signiﬁcance of lymph node metastases at other locations
+such as the mammary vessels, intercostal or peridiaphragmatic lymph nodes remains unknown.
+Staging investigations
+Pretreatment staging investigations are important for patient allocation to active treatment or supportive care. The
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+131
+
+S. Popat et al.
+
+Annals of Oncology
+patient’s age, performance status (PS) and physiological
+functioning should be evaluated before extensive staging to
+consider if active therapy [systemic therapy, radiotherapy
+(RT) or surgery] will be tolerated. More extensive staging is
+recommended for those considered suitable for surgical
+resection with multimodality therapy.26 A summary of
+staging recommendations proportionate to planned treatments is presented in Figure 1.
+Recommendations
+Staging
+ The 8th revision of the UICC TNM staging system should
+be used for clinical and pathological staging [I, A].
+ Non-invasive staging for a patient ﬁt to undergo active
+treatment should include contrast-enhanced CT of the
+chest including the upper abdomen [III, B].
+ For patients considered for MCR, additional staging
+including PET-CT should be carried out [III, B].
+Pathological staging
+ Pathological staging should be limited to MCR specimens
+with smaller specimens being clinically staged [V, B].
+
+MANAGEMENT OF MPM
+Treatment of mesothelioma
+The treatment strategy (Figures 2-4) should take into account factors such as staging, histology, age, PS, comorbidities and the patient’s preferences. Treatment decisions
+should ideally be discussed within a multidisciplinary
+tumour board who are experienced in mesothelioma
+management.
+
+Basic staging in
+all patients
+
+Role of surgery
+Surgery for staging and palliation. Surgery plays a role in
+mesothelioma diagnosis, treatment and palliation. For
+diagnosis and treatment allocation, an accurate diagnostic
+procedure is crucial. For this purpose, sufﬁcient numbers of
+large and deep pleural biopsies (either by VATS or minithoracotomy) should be obtained to prove microscopic
+subpleural fat tissue invasion and to allow for adequate
+immunohistochemical analysis. Uniportal approach for VATS
+has the advantage of reducing the risk of port-site recurrence. Surgical procedures for palliation such as effusion
+control should be primarily minimally invasive whenever
+possible, to minimise morbidity. A randomised controlled
+trial (MesoVATS)27 comparing VATS partial pleurectomy
+with talc pleurodesis with the primary outcome of overall
+survival (OS) at 1 year showed no differences between
+groups. Therefore currently talc poudrage via thoracoscopy
+remains the ﬁrst procedure of choice for pleurodesis. VATS
+partial pleurectomy is a valid therapy option for patients ﬁt
+enough for surgery with non-expanded lungs and who
+therefore would not beneﬁt from chemical pleurodesis.
+Indwelling pleural catheters (IPCs), which can be inserted in
+an outpatient setting and are convenient for patients
+to handle independently, are a very good alternative
+for rapid palliation of recurring pleural effusions, even
+with an entrapped lung.28 Whether VATS-pleurectomy/
+decortication is more effective than IPCs for patients with
+entrapped lungs is currently being investigated in a multicentre randomised feasibility phase III trial (MesoTRAP).29
+Cytoreductive surgery with radical intent. MCR, deﬁned as
+a procedure to remove all visible and palpable tumours
+
+Staging in those suitable for
+multimodality treatment
+
+Staging in those with borderline
+resectability prior to radical surgery
+(if suspicion of involvement)
+
+MRI brain,
+thorax, liver
+FDG-PET
+Laparoscopy/
+contralateral
+VATS
+
+CT thorax
+& upper
+abdomen
+EBUS/EUS
+
+Mediastinoscopy
+
+Figure 1. A staging summary for MPM.
+Red: surgery; white: other aspects of management.
+CT, computed tomography; EBUS, endobronchial ultrasound; EUS, endoscopic ultrasound; FDG, ﬂuorodeoxyglucose; MRI, magnetic resonance imaging; PET, positron
+emission tomography; VATS, video-assisted thoracic surgery.
+Modiﬁed from Opitz et al.26 with permission.
+
+132
+
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+S. Popat et al.
+
+Annals of Oncology
+
+Confirmed mesothelioma diagnosis
+
+Suitable for best
+supportive care only
+
+Suitable for active treatment
+but not multimodality
+treatment (e.g. inoperable
+or comorbidities)
+
+Suitable for multimodality
+treatment including surgery
+
+Figure 2. Therapeutic strategy by treatment intent.
+Purple: general categories or stratiﬁcation; blue: systemic anticancer therapy; turquoise: combination of treatments or other systemic treatments; white: other aspects
+of management.
+
+within the hemithorax, may be suitable for selected patients in selected centres with such experience, as part of
+multimodality treatment. MCR can be achieved by EPP
+consisting of en bloc resection of lung, pleura, pericardium
+and diaphragm or EPD, where visceral and parietal pleura
+
+MPM staged and determined suitable
+for multimodality treatment
+
+Consideration of VATS pleurodesis
+
+Macroscopic complete resectiona
+with/without induction
+Platinum–pemetrexed ChTb
+
+Completion of up to 6 cycles of ChT
+(platinum–pemetrexed)b
+
+Figure 3. Treatment algorithm for multimodality management of MPM.
+Purple: general categories or stratiﬁcation; red: surgery; blue: systemic anticancer therapy; turquoise: combination of treatments or other systemic
+treatments.
+ChT, chemotherapy; MPM, malignant pleural mesothelioma; VATS, videoassisted thoracic surgery.
+a
+Extended pleurectomy/decortication is the favoured approach.
+b
+Current data support multimodality systemic therapy with platinume
+pemetrexed.
+
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+are removed together with pericardium and diaphragm.
+Both techniques include systematic mediastinal lymph
+node dissection for optimal staging. Although EPP was
+traditionally the technique of choice, in a systematic review of 1145 patients comparing outcomes after EPD with
+EPP, perioperative mortality (2.9% versus 6.8%, P ¼ 0.02)
+and morbidity (27.9% versus 62.0%, P < 0.001) were
+signiﬁcantly lower with EPD than EPP, whereas OS was
+comparable.30 These results were further conﬁrmed in a
+meta-analysis of 2903 patients treated with EPD or EPP.31
+Therefore, lung-sparing EPD should be considered as the
+ﬁrst-choice surgical procedure, whereas EPP may be
+offered in highly selected patients when carried out in
+high-volume centres.
+The role of surgery over non-surgical therapy has been
+addressed in only one randomised controlled trial: the
+Mesothelioma and Radical Surgery (MARS) trial, a small trial
+that identiﬁed poorer survival for EPP.32 This UK trial was
+not powered to assess OS and was designed to evaluate
+feasibility of randomisation for EPP over non-surgical therapy. Nevertheless, the adjusted hazard ratio (HR) for OS
+between EPP and no-EPP groups was 2.75 [95% conﬁdence
+interval (CI) 1.21-6.26]; however, the 12-month survival rate
+was not signiﬁcantly different. Currently, a multicentre,
+randomised trial comparing EPD with no surgery (MARS-2)
+is ongoing (NCT02040272). By contrast, a variety of retrospective and prospective cohort studies and population and
+cancer registries suggest a survival advantage for patients
+undergoing surgery,33,34 although selection bias obviously
+plays an important role. Factors suggestive for surgery not
+being beneﬁcial include sarcomatoid histology, contralateral
+mediastinal or supraclavicular lymph node involvement,
+extrathoracic disease, multilevel chest wall inﬁltration or
+inadequate cardiopulmonary reserve. Currently, no single
+prognostic factor, but rather prognostic scores, may be
+considered for patient treatment allocation.
+The combination and sequence of modalities used within
+multimodality treatments in combination with surgery are
+not standardised. Platinumepemetrexed chemotherapy
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+133
+
+S. Popat et al.
+
+Annals of Oncology
+MPM unsuitable for
+multimodality treatment (e.g. PS 0-1)
+
+PS ≥ 3
+
+PS 0-1
+
+Disease
+progression
+
+Nivolumab–ipilimumab
+(up to 2 years equivalent dosing)
+[I, A; MCBS 3]a
+
+PS 0-2
+
+PS ≥ 3
+
+Best supportive
+care
+
+Cisplatin–pemetrexed [I, A;
+MCBS 3]a
+or Carboplatin–pemetrexed [I, A]
+(up to 6 cycles) followed by
+maintenance gemcitabine [II, C]
+
+Cisplatin–pemetrexed–
+bevacizumab
+(up to 6 cycles) followed by
+maintenance bevacizumab [I, A]
+
+Best supportive
+care
+
+Disease progression
+PS 0-1
+
+Vinorelbine [II, B]
+Gemcitabine [II, B]
+Pemetrexed [III, C]
+
+Nivolumabb [I, A]
+Pembrolizumabb [II, C]
+Nivolumab–ipilimumabb
+[II, C]
+
+PS 0-2
+
+Gemcitabine–
+ramucirumab
+[III, C]
+
+Cisplatin–pemetrexed
+[II, B; MCBS 3]a
+Carboplatin–pemetrexed
+[II, B]
+
+Vinorelbine [II, B]
+Gemcitabine [II, B]
+Pemetrexed [III, C]
+
+PS ≥ 3
+
+Best supportive
+care
+
+Gemcitabine–
+ramucirumab
+[III, C]
+
+Disease progression
+PS 0-1
+
+PS ≥ 2
+
+Nivolumabb [I, A]
+Nivolumab–ipilimumabb [II, C]
+
+Best supportive
+care
+
+Figure 4. Treatment algorithm for patients unsuitable for multimodality management (inoperable) of MPM.
+Purple: general categories or stratiﬁcation; blue: systemic anticancer therapy; white: other aspects of management.
+EMA, European Medicines Agency; FDA, Food and Drug Administration; ICI, immune checkpoint inhibitor; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; MPM,
+malignant pleural mesothelioma; PS, performance status.
+a
+ESMO-MCBS v1.192 was used to calculate scores for new therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS
+Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/scale-evaluation-forms-v1.0-v1.1/scale-evaluationforms-v1.1).
+b
+For patients not previously exposed to ICI therapy.
+
+(ChT) is usually given in either neoadjuvant and/or adjuvant
+paradigms to surgery, and the question of timing is
+currently being explored (NCT02436733). The role of adjuvant or neoadjuvant immunotherapy is unknown. The potential role of high-dose perioperative RT is discussed
+below.
+First-line systemic therapy
+Patients not suitable for MCR, as deﬁned in a multidisciplinary tumour board, are candidates for a non-surgical
+approach with ﬁrst-line systemic therapy. Systemic therapy
+should be considered for all MPM patients with PS 0-2. Two
+randomised phase III trials of all MPM histological subtypes
+demonstrated an improved OS for pemetrexed35 (68%
+epithelioid; 24% non-epithelioid) or raltitrexed36 (61%-75%
+epithelioid; 18%-31% non-epithelioid) with cisplatin
+compared with cisplatin monotherapy. For cisplatine
+pemetrexed, folic acid and vitamin B12 supplementation
+were essential to reduce the pemetrexed toxicities. Despite
+134
+
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+limited literature, consensus suggests that administration of
+ﬁrst-line ChT should not be delayed after diagnosis and
+should be considered before functional clinical deterioration
+as pemetrexed-based ChT can improve dyspnoea and quality
+of life (QoL).37 ChT should be continued for up to six cycles in
+non-progressing patients, without unacceptable toxicity.
+Based on several large phase II trials, the CheckMate 743
+trial and the MPM pemetrexed International Expanded Access Program showed comparable efﬁcacy of ﬁrst-line
+cisplatinepemetrexed and carboplatinepemetrexed; this
+latter combination is a reasonable alternative.38,39
+Targeted therapies in combination with ﬁrst-line ChT. The
+phase III MAPS trial demonstrated a signiﬁcant OS beneﬁt
+for the addition of bevacizumab (15 mg/kg) to cisplatine
+pemetrexed as ﬁrst-line treatment (HR 0.77, 95% CI
+0.62-0.95, P ¼ 0.0167; median OS 16.1 versus 18.8 months)
+in MPM (81% epithelioid; 19% non-epithelioid), with only
+mild and manageable increased toxicities and no negative
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+S. Popat et al.
+
+Annals of Oncology
+
+impact on QoL.40,41 This study therefore represents another
+standard of care for unresectable MPM patients having
+platinum-based ChT; however, to date, bevacizumab has not
+been submitted for regulatory approval. Despite multiple
+studies, no other antiangiogenic drugs or tyrosine kinase
+inhibitors have demonstrated a signiﬁcant OS gain in phase
+III trials,42 with trials of other targets ongoing.
+Immunotherapy, alone or combined with other systemic
+therapy, as ﬁrst-line treatment for MPM. Immune checkpoint inhibitors (ICIs) and other immunotherapies were ﬁrst
+tested as salvage treatment in relapsed MPM with
+encouraging results (see Systemic therapy for second line
+and beyond section). In parallel, ICIs are also being evaluated in the ﬁrst-line setting. The phase III CheckMate 743
+trial randomised 605 unresectable, treatment-naïve, PS 0-1
+MPM patients (75%-76% epithelioid; 24%-25% nonepithelioid) to combination nivolumab (3 mg/kg once
+every 2 weeks) plus low-dose ipilimumab (1 mg/kg once
+every 6 weeks) for up to 2 years (or until progression or
+unacceptable toxicity) versus cisplatinepemetrexed or
+carboplatinepemetrexed combination for up to six cycles.39
+OS was signiﬁcantly increased with nivolumabeipilimumab
+over ChT (HR 0.74, 95% CI 0.61-0.89, P ¼ 0.002). Importantly, at 3 years of follow-up, 23% of patients treated by
+immunotherapy were alive versus only 15% with ChT. This
+OS gain was observed in the trial as a whole. In an
+exploratory analysis, immunotherapy demonstrated similar
+efﬁcacy across both epithelioid and non-epithelioid histologies, but there was differential ChT efﬁcacy by histology,
+translating to a larger immunotherapy OS beneﬁt in nonepithelioid subtypes than epithelioid subtypes (HR 0.46,
+95% CI 0.31-0.68 and HR 0.86, 95% CI 0.69-1.08, respectively). No signiﬁcant improvement in progression-free
+survival (PFS) was observed between the ICI and ChT
+arms (6.8 versus 7.2 months median, respectively; HR 1.00,
+95% CI 0.82-1.21) or for objective response rates (ORRs;
+39.6% versus 42.7%, respectively), with PFS initially inferior
+over the ﬁrst 7 months. At 3 years of follow-up, however,
+14% of patients treated by immunotherapy were alive and
+progression free versus 1% with ChT.43 There were no unexpected toxicities with ICIs and rates of grade 3-4
+treatment-related adverse events were reported to be
+similar between both arms. Any grade treatment-related
+adverse events led to discontinuation in 23.0% and 15.8%
+of patients, respectively. Thus the balance of efﬁcacy against
+toxicities was more favourable in non-epithelioid MPM
+patients than in epithelioid cases. Interestingly, patientreported outcomes data from this trial seemed to favour
+the immunotherapy arm in terms of QoL and of symptoms
+deterioration.44 Taken together, these data suggest that
+nivolumabeipilimumab is a new ﬁrst-line option for unresectable MPM, more so for non-epithelioid disease, and is
+now approved by the Food and Drug Administration (FDA)
+and the European Medicines Agency (EMA), without histology or biomarker subtype restriction.
+Several other experimental immunotherapy combinations are being explored in phase III trials, including the
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+PrE0506/DREAM3R trial (NCT04334759) evaluating
+cisplatinepemetrexededurvalumab with maintenance durvalumab versus cisplatinepemetrexed, the ETOP 13-18/
+BEAT-meso trial (NCT03762018) comparing carboplatine
+pemetrexedebevacizumab followed by bevacizumab
+maintenance with carboplatinepemetrexedebevacizumabe
+atezolizumab followed by atezolizumabebevacizumab maintenance, the CCTG IND227/IFCT-1901 trial (NCT02
+784171) comparing cisplatinepemetrexed and carboplatine
+pemetrexed with or without pembrolizumab for six cycles,
+followed by pembrolizumab maintenance. Other immunotherapy strategies have also been tested but with discordant
+or negative results.45 Dendritic cell vaccination was found to
+be promising in small trials, providing rationale for the
+randomised phase II-III trial DENIM (NCT03610360). In
+conclusion, nivolumabeipilimumab represents a new
+standard-of-care option for inoperable ﬁrst-line MPM patients alongside cisplatinepemetrexed or carboplatine
+pemetrexed and platinumepemetrexedebevacizumab.
+More studies are needed to ﬁrmly establish immunotherapy
+for all settings of MPM patients, however, either alone or in
+combination with standard treatment or targeted therapies,
+and to validate predictive biomarkers for patient selection.
+Maintenance systemic therapy
+There are no strong data in the literature suggesting a
+beneﬁt for maintenance treatment after standard ﬁrst-line
+ChT by platinumepemetrexed. A recent randomised phase
+II trial, which closed prematurely due to poor recruitment,
+assessed pemetrexed continuation maintenance versus
+observation after four to six cycles of ﬁrst-line platinume
+pemetrexed. No improvement in PFS or OS was observed.46
+A randomised phase II trial (NVALT19; NTR4132) tested a
+switch to maintenance gemcitabine versus best supportive
+care (BSC) after four to six cycles of platinumepemetrexed.
+PFS was signiﬁcantly longer with gemcitabine, but there was
+no OS beneﬁt.47 Switch to maintenance defactinib [a focal
+adhesion kinase (FAK) inhibitor] versus placebo was also
+evaluated after ﬁrst-line therapy,48 but no OS beneﬁt was
+observed regardless of biomarker (merlin) expression. While
+the addition of bevacizumab to ﬁrst-line cisplatine
+pemetrexed ChT is now considered a standard as discussed above, this trial was not designed to assess the
+contribution of bevacizumab maintenance.
+Systemic therapy for second line and beyond
+There is a limited evidence base for active post-ChT secondline cytotoxic ChTs, evidenced by the VIM and PROMISEmeso trials, randomising against symptom control and
+pembrolizumab, respectively.49,50 Most other efforts in the
+second-line setting have focussed on signal-seeking trials,
+rather than large, randomised trials to deﬁnitively demonstrate beneﬁts of second- or subsequent-line treatment.
+Role of ICIs. A number of trials of ICIs have been conducted
+in second- or subsequent-line settings. These used CTLA-4,
+PD-1 and PD-L1 targeting agents. The DETERMINE study
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+135
+
+S. Popat et al.
+
+Annals of Oncology
+compared tremelimumab with placebo, and showed no OS
+beneﬁt.51 Subsequently, clinical trials of single-agent programmed cell death protein 1 (PD-1) and programmed
+death-ligand 1 (PD-L1) inhibition have shown modest activity, with ORRs ranging from 10% to 29% and highly variable PFS and OS.52-56 The MAPS2 phase II trial randomised
+125 second- and third-line MPM patients to nivolumab or
+nivolumab plus ipilimumab. Both arms reached their primary endpoint of a centrally reviewed response rate of over
+40%, with an encouraging OS of 11.9 and 15.9 months,
+respectively.57 The PROMISE-meso randomised phase III
+clinical trial compared pembrolizumab with second-line
+vinorelbine or gemcitabine monotherapy, and demonstrated no OS beneﬁt for pembrolizumab despite a higher
+response rate; notably, 63% of patients on ChT crossed over
+to receive pembrolizumab.50 Discrepancies between
+PROMISE-meso and MAPS2 trials, beyond different designs,
+could also be the consequence of different patient selection, as more MAPS2 patients may have had relatively
+indolent disease, not immediately progressing after ﬁrst
+line. Indeed, in that trial a stratiﬁcation factor was time of
+progression/relapse after ﬁrst-line completion (>/<3
+months), and rapidly progressive MAPS2 patients had the
+shortest OS, comparable with the OS of the pembrolizumab
+arm patients from the PROMISE-meso trial. Results of the
+CONFIRM study, a randomised phase III trial comparing
+nivolumab with placebo in the second- or third-line setting,
+demonstrated a signiﬁcant OS (HR 0.72, 95% CI 0.55-0.94,
+P ¼ 0.02) and PFS beneﬁt, with greater beneﬁt in epithelioid subtypes and no predictive utility of PD-L1
+expression,58 but the recent OS beneﬁt for ﬁrst-line
+nivolumabeipilimumab will reduce the relevance of results of ICI therapy in ICI-pretreated patients.
+Role of other systemic therapies. There is some evidence for
+retreatment with platinumepemetrexed doublet. A recent
+meta-analysis suggested that reintroduction of platinume
+pemetrexed or pemetrexed alone was among the most
+active options in the second-line setting.59 Vinorelbine or
+gemcitabine monotherapy are used in practice and, while
+they demonstrate modest ORRs, there is no evidence of
+improved survival for vinorelbine over placebo/BSC from the
+randomised VIM trial49 or for vinorelbine or gemcitabine over
+single-agent pembrolizumab from the randomised PROMISEmeso trial.50 In a small randomised phase II trial (RAMES),
+combination gemcitabineeramucirumab demonstrated an
+encouraging OS beneﬁt over gemcitabineeplacebo.60
+Role of systemic therapy beyond second line
+The CONFIRM study is the only clinical trial that provided
+randomised evidence in the third-line setting, versus placebo, in ICI-naïve patients. At the moment, use of treatment beyond the second line remains speculative.
+Personalised therapy
+Predictors for standard-of-care therapies. A variety of
+biomarkers have been evaluated to predict beneﬁt from
+136
+
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+bevacizumab40 or nintedanib,42 none with proven predictive utility.
+PD-L1 is expressed in 40%-60% of MPM tumour cells,
+strongly in sarcomatoid cases.61 This association may
+explain the reported worse outcomes in PD-L1-positive
+MPM.61 In several studies, PD-L1 expression was loosely
+correlated with response to ICIs, alone or in combination
+with CTLA-4 inhibitors,51,53,54,56,57,62,63 including exploratory analysis of CheckMate 743 where OS with ICIs was
+improved over ChT in PD-L1-positive MPM (1% of
+tumour cells, HR 0.69, 95% CI 0.55-0.87) but not in PD-L1negative cases (HR 0.94, 95% CI 0.62-1.40),39 although the
+optimal testing method and cut-off remain unknown.
+Tumour mutational burden is low in MPM64 and microsatellite instability is rare with only 1 of 74 cases in The
+Cancer Genome Atlas being hypermutated.64
+Genomic alterations for precision medicine. In MPM,
+activating mutations are rare and genomic losses/alterations are more widespread. Mutations occur most
+frequently in BAP1 (25%-60% of cases), CDKN2A/B
+(40%-45% of cases) and NF2 genes (20%-50% of cases)64;
+these mutations are observed across all MPM histologies
+with some variability in frequency. Somatic BAP1 losses/
+inactivating mutations occur in up to 60% of MPMs and
+support a classical two-hit tumour suppressor mechanism.
+Somatic BAP1 mutations may have germline counterparts
+that deﬁne the BAP1 hereditary cancer syndrome65; these
+mutations are observed in <5% of MPM patients. In patients with a family history of mesothelioma or cancers
+consistent with the BAP1 hereditary cancer syndrome,
+referral to a clinical genetics service is recommended for
+germline BAP1 mutation screening. NF2 mutations were
+reported preclinically to predict the efﬁcacy of mammalian
+target of rapamycin (mTOR) inhibition, but clinical data have
+been disappointing to date. NF2 mutations may lead,
+through altered merlin function, to FAK inhibitor-induced
+synthetic lethality, and experimental approaches are
+ongoing, including the potential for YAP/TEAD inhibitors for
+tumours with dysregulation of the Hippo pathway. CDKN2A/
+B regulates the Rb and MDM2-TP53 tumour suppressor
+pathways; CDKN2A mutations may predict the efﬁcacy of
+cyclin-dependent kinase 4 and 6 (CDK4/6) inhibitors with
+trials ongoing. Preclinical evidence and some series suggest
+that sensitivity to chemotherapeutic agents may be BAP1driven and this has been observed also in MPM patients.66,67 BAP1 loss has been evaluated as a possible
+biomarker of poly(ADP-ribose) polymerase (PARP) inhibitor
+efﬁcacy. In a phase II trial of rucaparib in BAP1- or BRCA1deﬁcient patients (MiST1) rucaparib met the primary
+endpoint of disease control at 12 weeks (58%).68 Other
+alterations that may be potentially actionable in MPM
+include PTCH1 mutations (5% of cases) and loss of argininosuccinate synthetase, among others. Clinical trials are
+ongoing, but the absence of selection of patients based on
+genotyping may hamper the identiﬁcation of any signal of
+clinical efﬁcacy; the Mesothelioma Stratiﬁed Therapy trial
+(NCT03654833) is investigating such selection of patients
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+S. Popat et al.
+
+Annals of Oncology
+
+based on molecular characterisation. Mesothelin-directed
+agents have been, and continue to be, under intensive
+investigation in MPM.
+Role of RT
+RT can be used for different indications in mesothelioma: as
+palliation, as prophylaxis and as part of a multimodality
+treatment.
+Palliative RT for symptom control. For patients with pain
+(e.g. chest wall invasion or other thoracic structures), RT
+can be considered, although limited high-quality evidence
+currently exists to support RT for pain control.69 Palliative
+RT is typically given in short courses of 1-10 fractions. A
+prospective, multicentre, single-arm study investigated 20
+Gy in ﬁve fractions to painful areas and demonstrated that
+RT is effective in controlling pain 5 weeks after treatment
+completion.70 A follow-on study is ongoing comparing this
+regime with a higher RT dose using advanced techniques
+(ISRCTN126981070). No prospective studies have specifically investigated the role of RT for palliation of cough or
+breathlessness.
+Prophylactic RT of instrumentation tracts. For decades, the
+role of prophylactic irradiation of tracts after diagnostic or
+therapeutic pleural procedures to reduce the risk of subcutaneous metastasis was heavily debated. Three small
+randomised, controlled trials carried out in the pre-ChT era
+reported contradictory results. However, since the publication of the previous version of this ESMO Clinical Practice
+Guideline (CPG) in 2015, two large, randomised, multicentre
+studies were published, neither of them demonstrating a
+beneﬁt to prophylactic tract irradiation. In both studies, the
+majority of patients received ChT. The ﬁrst study (SMART
+trial) compared immediate RT (21 Gy in three fractions
+within 42 days of large-bore pleural interventions) with
+deferred RT.71 No signiﬁcant difference between the two
+arms in terms of tract metastases rate, chest pain, analgesia
+requirements, QoL and OS was demonstrated. A suggestion
+of beneﬁt, however, was identiﬁed in subgroups (i.e.
+epithelioid histology) and those untreated with ChT (predeﬁned analysis), and in those with RT protocol deviations.
+Nevertheless, the applicability of these results is limited by
+small numbers in each subgroup. The second study [Prophylactic Irradiation of Tracts (PIT)] compared prophylactic
+RT of tracts (21 Gy in three fractions within 42 days of
+pleural intervention) with no RT.72 No signiﬁcant difference
+in incidence of chest wall metastases at 6 and 12 months
+was reported between the two groups, including when
+controlling for stratiﬁcation factors (epithelioid histology
+versus others and ChT intention), although the cumulative
+incidence was higher at later timepoints in both trials (e.g.
+month 24 in PIT). Skin toxicity from RT was mild. Furthermore, contrary to a commonly held belief, PIT demonstrated that more than half of the patients who developed
+chest wall metastases did not report increased pain scores.
+Despite some differences in participants recruited, RT
+techniques and endpoints between the SMART and PIT
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+trials, both studies conducted in the ChT era came to the
+same conclusion: that prophylactic irradiation of tracts is
+not justiﬁed in routine practice, although some have commented on statistical design and potential late beneﬁt of
+postoperative RT.73
+High-dose RT
+Preoperative and postoperative RT. The delivery of
+perioperative RT is challenging due to complex volumes of
+irradiation related to the growth patterns of the disease in
+the diaphragmal gutters and in the lobar ﬁssures. Field sizes
+and dose delivered to neighbouring organs at risk (OARs)
+contribute considerably to toxicity. Radiation-induced lung
+toxicity is especially high when the lung remains in situ after
+decortication but improved three-dimensional RT planning
+and the introduction of intensity-modulated RT (IMRT) have
+led to improved conformality of the high-dose radiation
+volumes and decreased toxicity. Strict dosimetric constraints should be implemented for target volumes and
+critical organs (contralateral lung, cardiac volume, spinal
+cord, oesophagus, liver, right and left kidney). Studies have
+underlined the importance of RT techniques, in terms of
+both local control and toxicity. It is therefore recommended
+that such RT be delivered in specialised centres.
+Studies evaluating perioperative RT either before or after
+surgery (EPP or EPD) have shown that RT is feasible in the
+multimodality setting. Severe toxicities have been reported,
+however, particularly radiation pneumonitis in up to 46% of
+patients.74 In patients who develop 3 grade radiation
+pneumonitis, a normal lung dose-volume effect was
+established,75,76 and strict dose constraints applied to the
+contralateral lung have resulted in reduction in severe
+pneumonitis.
+Most of the studies evaluating RT in the multimodality
+setting were carried out in the context of EPP, which is no
+longer a standard surgical procedure. Since the last ESMO
+CPG, a randomised controlled trial in the postoperative
+setting was published. The SAKK trial randomised 54 patients after EPP to either observation or adjuvant hemithoracic RT (three-dimensional conformal RT or IMRT;
+median dose 55.9 Gy).77 The trial closed early due to poor
+accrual and was therefore underpowered. The primary
+endpoint was locoregional relapse-free survival with no
+signiﬁcant difference observed between the two arms (9.4
+months versus 7.6 months). Two prospective studies
+demonstrated that hemithoracic pleural IMRT for MPM is
+feasible, and has an acceptable toxicity proﬁle after EPD
+with median survival up to 26 months.78,79 An important
+ﬁnding is that heart dose correlates with symptomatic radiation pneumonitis; therefore, the dose to both lung and
+heart must be taken into consideration to reduce lung
+toxicity80 and randomised trials are required to establish
+the role of hemithoracic IMRT after routine EPD. Preoperatively, the delivery of a short, accelerated course of
+high-dose IMRT (25 Gy in ﬁve fractions to the entire
+hemithorax with concomitant 5 Gy boost to areas at risk)
+followed by EPP within a week is possible. In a singlehttps://doi.org/10.1016/j.annonc.2021.11.005
+
+137
+
+S. Popat et al.
+
+Annals of Oncology
+centre phase II study of 96 patients median OS was 24.4
+months but 49% developed grade 3-4 complications within
+30 days of EPP, signiﬁcantly exceeding the 35% threshold
+set for feasibility (P ¼ 0.0018).81 One patient died of grade
+5 pneumonia. Further conﬁrmatory multicentre studies are
+needed.
+There are limited data on the role of stereotactic ablative
+body RT in patients with oligorecurrent MPM after multimodality treatment.82
+Proton therapy. Proton therapy is an attractive alternative
+to standard photon RT due to its physical properties. It
+results in improved sparing of normal tissues (including
+contralateral lung, heart, stomach and kidneys and liver)
+when irradiating the pleura, compared with standard photons.83 Several challenges, however, should be considered
+when treating with protons, including range uncertainty,
+treating moving targets with signiﬁcant tissue heterogeneity and requirements for adaptive treatment due to
+changes in anatomy during treatment course. Furthermore,
+to date, prospective studies on proton treatment in this
+setting are limited to mostly small and single-centre
+studies.84,85 Data are particularly needed on the impact
+of proton therapy on a patient’s QoL given its promise to
+reduce toxicity to OARs.
+Recommendations
+Role of surgery
+ Surgery is recommended to obtain diagnostic samples of
+tumour tissue and to stage the patient [II, A], for palliation of pleural effusions when chest tube drainage is not
+successful [II, A] and to obtain diagnostic samples of
+tumour tissue and to stage the patient [II, A].
+ Talc poudrage via thoracoscopy remains the ﬁrst surgical
+procedure of choice for pleurodesis over VATS partial
+pleurectomy [I, A].
+ MCR in combination with other modalities is recommended in selected MPM patients, to be carried out at experienced centres and to be discussed with a
+multidisciplinary team involving thoracic surgeons, pulmonologists, medical and radiation oncologists [III, C].
+ EPD is a lung-preserving procedure and is preferred over
+EPP [III, B].
+First-line systemic therapy
+ Pemetrexed combined with cisplatin [I, A; ESMOMagnitude of Clinical Beneﬁt (ESMO-MCBS) v1.1 score:
+3] (or alternatively carboplatin), and vitamin supplementation, up to six cycles is recommended as a ﬁrst-line
+systemic therapy option [I, A].
+ Combination of bevacizumab with platinume
+pemetrexed is recommended as ﬁrst-line systemic therapy option [I, A].
+ Nivolumab plus ipilimumab, given up to 2 years equivalent dosing, is recommended as a ﬁrst-line systemic
+therapy option regardless of histologies or PD-L1 status for unresectable MPM [I, A; ESMO-MCBS v1.1
+score: 3].
+138
+
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+ Maintenance gemcitabine is not routinely recommended
+in patients with non-progressive MPM but may prolong
+PFS and can be considered when the beneﬁts of deferring progression outweigh the inconveniences and toxicities of ongoing treatment [II, C].
+ Maintenance pemetrexed is not recommended in patients with non-progressive MPM after ﬁrst-line
+platinumepemetrexed ChT [II, E].
+Systemic therapy for second line and beyond
+ Single-agent pembrolizumab in immunotherapy-naïve
+patients as second-line therapy has similar outcomes
+to single-agent ChT and is a treatment option [II, C].
+ Single-agent nivolumab is superior to BSC in pretreated
+immunotherapy-naïve patients and is a treatment option
+[I, A].
+ Combination nivolumabeipilimumab can be considered
+in immunotherapy-naïve patients as a second- or thirdline treatment option [II, C].
+ Reintroduction of platinumepemetrexed [II, B] or pemetrexed ChT [III, C] has second-line activity in selected circumstances, as suggested by ORRs.
+ Single-agent gemcitabine or vinorelbine [II, B] has limited
+second-line activity, as suggested by ORRs or OS, with
+encouraging activity for gemcitabineeramucirumab
+combination [III, C].
+ There is no evidence basis for routine third-line therapy
+in MPM. Clinical trial participation should be considered
+[V, C].
+Personalised therapy
+ PD-L1 expression, immune microenvironment analyses
+or tumour mutational burden should not be used to
+select patients for treatment with ICIs [I, D].
+ No current treatment options warrant routine molecular
+testing of MPM [III, D].
+ Screening of BAP1-deﬁcient MPM patients for germline
+mutation is not recommended in the absence of family
+history suspicious for a BAP1 syndrome [V, D].
+Role of RT
+ RT can be considered for palliation of pain related to
+local inﬁltration of thoracic structures [III, B].
+ The use of prophylactic RT of tracts after diagnostic or
+therapeutic pleural procedures to prevent chest wall metastases is not recommended [I, D].
+ RT can be considered in an adjuvant setting after MCR to
+reduce the local failure rate; however, no evidence is
+available for its use as a standard treatment [II, D].
+ When postoperative RT is applied, strict thoracic critical
+organs dose constraints must be adhered to in order to
+avoid toxicity to OARs [II, A].
+
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND
+SURVIVORSHIP
+Supportive care
+As systemic treatment for mesothelioma is not considered
+curative, maintaining palliative and supportive care is
+
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+S. Popat et al.
+
+Annals of Oncology
+
+paramount to ensuring adequate QoL. Such measures
+should be cross-referenced with the ESMO CPGs on supportive and palliative care.86 These guidelines are relevant
+for issues commonly occurring in MPM, including cancerrelated fatigue, cancer pain, dyspnoea and advanced care
+planning. The aforementioned sections on RT and surgery
+also include guidance on the palliative use of these modalities. Night sweats are common but there is no
+consensus on management. While early parallel referral to
+palliative care services may be considered, a large, randomised trial has demonstrated that early (peridiagnostic)
+referral to specialist palliative care services does not
+improve health-related QoL.87 Hence, specialist palliative
+care referrals can be reserved until clinically needed, at
+least in MPM patients who are cared for in centres with
+good access to supportive and palliative care. Nevertheless,
+despite an adequate PS at diagnosis, there remains a high
+symptom burden. Recurrent pleural effusion may be problematic for some patients and early pleurodesis is appropriate; however, if the lung is trapped, an IPC may promote
+pleurodesis and provide good symptom relief. There is no
+additional beneﬁt for aggressive daily drainage over
+symptom-driven pleural draining in breathlessness
+control.88
+People with mesothelioma have high rates of presarcopenia and malnutrition, which impact on QoL and
+physical activity,89 and general guidance from the ESMO CPG
+on cancer cachexia in adult patients should be followed.90
+Response evaluation and follow-up
+It is advised that response evaluation is carried out with
+contrast-enhanced CT scanning and examinations carried
+out at presentation. The follow-up of a patient will depend
+on the local institutional recommendations. For clinical trial
+evaluation, the modiﬁed for mesothelioma Response Evaluation Criteria In Solid Tumours (RECIST) v1.1 criteria are
+recommended.91
+
+The relevant literature has been selected by the expert authors. An ESMO-MCBS table with ESMO-MCBS scores is
+included in Supplementary Table S3, available at https://doi.
+org/10.1016/j.annonc.2021.11.005. ESMO-MCBS v1.192 was
+used to calculate scores for new therapies/indications
+approved by the EMA and/or the FDA (https://www.esmo.
+org/Guidelines/ESMO-MCBS). The scores have been calculated by the ESMO-MCBS Working Group and validated by the
+ESMO Guidelines Committee.The FDA/EMA approval status of
+new therapies/indications is correct at the time of writing this
+CPG. Levels of evidence and grades of recommendation have
+been applied using the system shown in Supplementary
+Table S4, available at https://doi.org/10.1016/j.annonc.
+2021.11.005.93 Statements without grading were considered
+justiﬁed standard clinical practice by the authors.
+ACKNOWLEDGEMENTS
+SP acknowledges NHS funding to the Royal Marsden Hospital/Institute of Cancer Research NIHR-Biomedical
+Research Centre. CFF is supported by a grant from the
+NIHR Manchester Biomedical Research Centre. NG and AS
+acknowledge the European Reference Network for Rare
+Solid Adult Cancers (EURACAN) for valuable input and
+networking. Manuscript editing support was provided by
+Richard Lutz, Louise Green, Catherine Evans and Jennifer
+Lamarre (ESMO Guidelines staff); this support was funded
+by ESMO. Nathan Cherny, Chair of the ESMO-MCBS Working
+Group, Urani Dafni ESMO-MCBS Working Group Member/
+Frontier Science Foundation Hellas and Giota Zygoura of
+Frontier Science Foundation Hellas provided review and
+validation of the ESMO-MCBS scores. Nicola Latino (ESMO
+Scientiﬁc Affairs staff) provided coordination and support of
+the ESMO-MCBS scores and Angela Corstorphine of KMC
+provided medical writing and editing support in the preparation of the ESMO-MCBS table; this support was funded
+by ESMO.
+FUNDING
+
+Recommendations
+Palliative and supportive care
+ Early access to specialist palliative care at the time of
+diagnosis does not improve QoL [I, D].
+ Pleurodesis is useful in preventing recurrent effusions
+[I, A].
+ For recurrent pleural effusions, an IPC can provide good
+clinical beneﬁt [I, B].
+ For patients with IPCs aggressive draining is not superior
+in breathlessness control to symptomatic drainage [I, E].
+Surveillance
+ Response evaluation imaging is best carried out with
+contrast-enhanced CT scanning [III, B].
+METHODOLOGY
+This CPG was developed in accordance with the ESMO standard operating procedures for CPGs development (http://
+www.esmo.org/Guidelines/ESMO-Guidelines-Methodology).
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURE
+SP has received honoraria and consultant fees from AstraZeneca, Roche, Boehringer Ingelheim, Pﬁzer, Novartis,
+Takeda, Bristol Myers Squibb (BMS), Merck Sharp & Dohme
+(MSD), EMD Serono, Bayer, Blueprint, Daiichi Sankyo,
+Guardant Health, Janssen, GlaxoSmithKline (GSK), BeiGene,
+Incyte, Eli Lilly, Seattle Genetics and Amgen; received
+institutional research funding from AstraZeneca, Roche,
+Boehringer Ingelheim, Clovis, Celgene, Novartis, Takeda,
+Ariad, BMS, MSD, Daiichi Sankyo, Guardant Health, Janssen,
+Epizyme, GSK, Mirati, Trizel and Turning Point Therapeutics.
+PB has received institutional research funding from AstraZeneca, BMS and MSD; holds non-remunerated consulting
+and advisory board roles for BMS, MSD, Pﬁzer, Epizyme,
+Trizel and Daiichi. IO holds an advisory board role for
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+139
+
+S. Popat et al.
+
+Annals of Oncology
+AstraZeneca; has received speakers fee from Roche and an
+institutional research grant from Medtronic and Roche. AS
+has an advisory board role for BMS, MSD, AstraZeneca and
+Roche and has received an institutional research grant from
+BMS. CFF has received institutional honoraria from AstraZeneca and institutional research funding from AstraZeneca
+and Elekta. AGN has received honoraria and consultant fees
+from Merck, BMS, AstraZeneca, Roche, Boehringer Ingelheim, Pﬁzer, Novartis, Eli Lilly, AbbVie and Oncologica; has
+received institutional research funding from Pﬁzer and has
+produced educational content for AstraZeneca, Pﬁzer,
+UpToDate and European Society of Oncology. NG has
+received honoraria and consultant fees from AstraZeneca,
+Boehringer Ingelheim, BMS, Lilly, MSD, Roche and Trizell;
+has received institutional research funding from AstraZeneca, Boehringer Ingelheim, BMS, Lilly, MSD, Roche and
+Trizell; has received hospitality/travel expenses from
+AstraZeneca, BMS, Roche and has an immediate family
+member who is an employee of AstraZeneca. AKN has
+received honoraria and consultant fees from AstraZeneca,
+Boehringer Ingelheim, MSA Pharma, Trizell, Roche, Douglas
+Pharmaceuticals, Atara Biotherapeutics, Seagen, PharmAbcine, BMS and UpToDate; has received institutional research
+funding from AstraZeneca and Douglas Pharmaceuticals.
+MR has received honoraria for consultancy and lectures
+from Amgen, AstraZeneca, BMS, Boehringer-Ingelheim,
+Merck, Mirati, MSD, Lilly, Novartis, Pﬁzer, Regeneron,
+Roche and Sanoﬁ Bioepis.
+REFERENCES
+1. Alpert N, van Gerwen M, Taioli E. Epidemiology of mesothelioma in the
+21st century in Europe and the United States, 40 years after restricted/
+banned asbestos use. Transl Lung Cancer Res. 2020;9(suppl 1):S28-S38.
+2. Chen T, Sun X-M, Wu L. High time for complete ban on asbestos use in
+developing countries. JAMA Oncol. 2019;5(6):779-780.
+3. Sirri E, Kieschke J, Vohmann C, et al. Survival of malignant mesothelioma and other rare thoracic cancers in Germany and the United
+States: a population-based study. Int J Cancer. 2020;147(6):1548-1558.
+4. Current Asbestos Bans. Available at http://www.ibasecretariat.org/
+alpha_ban_list.php. Accessed December 6, 2021.
+5. Royal College of Physicians. National Mesothelioma Audit Report 2020
+(Audit Period 2016-18). London: RCP; 2020.
+6. Maskell NA, Gleeson FV, Davies RJO. Standard pleural biopsy versus CTguided cutting-needle biopsy for diagnosis of malignant disease in
+pleural effusions: a randomised controlled trial. Lancet.
+2003;361(9366):1326-1330.
+7. Greillier L, Cavailles A, Fraticelli A, et al. Accuracy of pleural biopsy using
+thoracoscopy for the diagnosis of histologic subtype in patients with
+malignant pleural mesothelioma. Cancer. 2007;110(10):2248-2252.
+8. Greillier L, Baas P, Welch JJ, et al. Biomarkers for malignant pleural
+mesothelioma: current status. Mol Diagn Ther. 2008;12(6):375-390.
+9. WHO Classiﬁcation of Tumours Editorial Board. Thoracic Tumours. 5th
+ed. Lyon, France: International Agency for Research on Cancer; 2020.
+10. Marchevsky AM, Khoor A, Walts AE, et al. Localized malignant mesothelioma, an unusual and poorly characterized neoplasm of serosal
+origin: best current evidence from the literature and the International
+Mesothelioma Panel. Mod Pathol. 2020;33(2):281-296.
+11. Nicholson AG, Sauter JL, Nowak AK, et al. EURACAN/IASLC proposals for
+updating the histologic classiﬁcation of pleural mesothelioma: towards a
+more multidisciplinary approach. J Thorac Oncol. 2020;15(1):29-49.
+12. Rosen LE, Karrison T, Ananthanarayanan V, et al. Nuclear grade and
+necrosis predict prognosis in malignant epithelioid pleural mesothelioma: a multi-institutional study. Mod Pathol. 2018;31(4):598-606.
+
+140
+
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+13. Papotti M, Nicholson AG, Dacic S. Mesothelioma and immunohistochemsitry. In: Yatabe Y, Borczuk AC, Cooper WA, et al., editors. IASLC
+Atlas of Diagnostic Immunohistochemistry. Denver, Colorado: IASLC;
+2020. p. 157-166.
+14. Husain AN, Colby TV, Ordóñez NG, et al. Guidelines for pathologic
+diagnosis of malignant mesothelioma 2017 update of the consensus
+statement from the International Mesothelioma Interest Group. Arch
+Pathol Lab Med. 2018;142(1):89-108.
+15. Zhang YZ, Brambilla C, Molyneaux PL, et al. Utility of nuclear grading
+system in epithelioid malignant pleural mesothelioma in biopsy-heavy
+setting: an external validation study of 563 cases. Am J Surg Pathol.
+2020;44(3):347-356.
+16. Chapel DB, Schulte JJ, Berg K, et al. MTAP immunohistochemistry is an
+accurate and reproducible surrogate for CDKN2A ﬂuorescence in situ
+hybridization in diagnosis of malignant pleural mesothelioma. Mod
+Pathol. 2020;33(2):245-254.
+17. Churg A, Galateau-Salle F, Roden AC, et al. Malignant mesothelioma in
+situ: morphologic features and clinical outcome. Mod Pathol.
+2020;33(2):297-302.
+18. Pleural mesothelioma. In: Brierley J, Gospodarowicz MK, Wittekind C,
+editors. TNM Classiﬁcation of Malignant Tumours.. 8th ed. Chichester,
+West Sussex/Hoboken, New Jersey: John Wiley & Sons, Inc; 2017. p.
+113-114.
+19. Rice D, Chansky K, Nowak A, et al. The IASLC mesothelioma staging
+project: proposals for revisions of the N descriptors in the forthcoming
+eighth edition of the TNM classiﬁcation for pleural mesothelioma.
+J Thorac Oncol. 2016;11(12):2100-2111.
+20. Rusch VW, Chansky K, Kindler HL, et al. The IASLC mesothelioma staging
+project: proposals for the M descriptors and for revision of the TNM
+stage groupings in the forthcoming (eighth) edition of the TNM classiﬁcation for mesothelioma. J Thorac Oncol. 2016;11(12):2112-2119.
+21. Billé A, Krug LM, Woo KM, et al. Contemporary analysis of prognostic
+factors in patients with unresectable malignant pleural mesothelioma.
+J Thorac Oncol. 2016;11(2):249-255.
+22. Zahid I, Sharif S, Routledge T, Scarci M. What is the best way to diagnose and stage malignant pleural mesothelioma? Interact Cardiovasc
+Thorac Surg. 2011;12(2):254-259.
+23. Nowak AK, Chansky K, Rice DC, et al. The IASLC mesothelioma staging
+project: proposals for revisions of the T descriptors in the forthcoming
+eighth edition of the TNM classiﬁcation for pleural mesothelioma.
+J Thorac Oncol. 2016;11(12):2089-2099.
+24. Sugarbaker DJ, Richards WG, Bueno R. Extrapleural pneumonectomy in
+the treatment of epithelioid malignant pleural mesothelioma: novel
+prognostic implications of combined N1 and N2 nodal involvement
+based on experience in 529 patients. Ann Surg. 2014;260(4):577-582.
+25. Kircheva DY, Husain AN, Watson S, et al. Specimen weight and volume:
+important predictors of survival in malignant pleural mesothelioma.
+Eur J Cardiothorac Surg. 2016;49(6):1642-1647.
+26. Opitz I, Scherpereel A, Berghmans T, et al. ERS/ESTS/EACTS/ESTRO
+guidelines for the management of malignant pleural mesothelioma.
+Eur J Cardiothorac Surg. 2020;58(1):1-24.
+27. Rintoul RC, Ritchie AJ, Edwards JG, et al. Efﬁcacy and cost of videoassisted thoracoscopic partial pleurectomy versus talc pleurodesis in
+patients with malignant pleural mesothelioma (MesoVATS): an openlabel, randomised, controlled trial. Lancet. 2014;384(9948):1118-1127.
+28. Freeman RK, Ascioti AJ, Dake M, Mahidhara RS. A propensity-matched
+comparison of pleurodesis or tunneled pleural catheter for heart failure patients with recurrent pleural effusion. Ann Thorac Surg.
+2014;97(6):1872-1877.
+29. Matthews C, Freeman C, Sharples LD, et al. MesoTRAP: a feasibility
+study that includes a pilot clinical trial comparing video-assisted
+thoracoscopic partial pleurectomy decortication with indwelling
+pleural catheter in patients with trapped lung due to malignant pleural
+mesothelioma designed to address recruitment and randomisation
+uncertainties and sample size requirements for a phase III trial. BMJ
+Open Resp Res. 2019;6(1):e000368.
+30. Cao C, Tian D, Park J, et al. A systematic review and meta-analysis of
+surgical treatments for malignant pleural mesothelioma. Lung Cancer.
+2014;83(2):240-245.
+
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+S. Popat et al.
+
+Annals of Oncology
+
+31. Taioli E, Wolf AS, Flores RM. Meta-analysis of survival after pleurectomy decortication versus extrapleural pneumonectomy in mesothelioma. Ann Thorac Surg. 2015;99(2):472-480.
+32. Treasure T, Lang-Lazdunski L, Waller D, et al. Extra-pleural pneumonectomy versus no extra-pleural pneumonectomy for patients with
+malignant pleural mesothelioma: clinical outcomes of the Mesothelioma and Radical Surgery (MARS) randomised feasibility study. Lancet
+Oncol. 2011;12(8):763-772.
+33. Saddoughi SA, Abdelsattar ZM, Blackmon SH. National trends in the
+epidemiology of malignant pleural mesothelioma: a national cancer
+data base study. Ann Thorac Surg. 2018;105(2):432-437.
+34. Rosskamp M, Macq G, Nackaerts K, et al. Real-life treatment practice
+for malignant pleural mesothelioma in Belgium. Lung Cancer.
+2018;125:258-264.
+35. Vogelzang NJ, Rusthoven JJ, Symanowski J, et al. Phase III study of
+pemetrexed in combination with cisplatin versus cisplatin alone in
+patients with malignant pleural mesothelioma. J Clin Oncol.
+2003;21(14):2636-2644.
+36. van Meerbeeck JP, Gaafar R, Manegold C, et al. Randomized phase III
+study of cisplatin with or without raltitrexed in patients with malignant
+pleural mesothelioma: an intergroup study of the European Organisation for Research and Treatment of Cancer Lung Cancer Group and
+the National Cancer Institute of Canada. J Clin Oncol. 2005;23(28):
+6881-6889.
+37. Boyer MJ, Jassem J, Liepa AM, et al. O-56 Symptom and quality of life
+advantages for pemetrexed þ cisplatin versus cisplatin in treatment of
+malignant pleural mesothelioma. Lung Cancer. 2003;41:S19.
+38. Taylor P, Castagneto B, Dark G, et al. Single-agent pemetrexed for
+chemonaïve and pretreated patients with malignant pleural mesothelioma: results of an international expanded access program.
+J Thorac Oncol. 2008;3(7):764-771.
+39. Baas P, Scherpereel A, Nowak AK, et al. First-line nivolumab plus ipilimumab in unresectable malignant pleural mesothelioma (CheckMate
+743): a multicentre, randomised, open-label, phase 3 trial. Lancet.
+2021;397(10272):375-386.
+40. Zalcman G, Mazieres J, Margery J, et al. Bevacizumab for newly diagnosed pleural mesothelioma in the Mesothelioma Avastin Cisplatin
+Pemetrexed Study (MAPS): a randomised, controlled, open-label,
+phase 3 trial. Lancet. 2016;387(10026):1405-1414.
+41. Eberst G, Anota A, Scherpereel A, et al. Health-related quality of life
+impact from adding bevacizumab to cisplatin-pemetrexed in malignant
+pleural mesothelioma in the MAPS IFCT-GFPC-0701 phase III trial. Clin
+Cancer Res. 2019;25(19):5759-5765.
+42. Scagliotti GV, Gaafar R, Nowak AK, et al. Nintedanib in combination
+with pemetrexed and cisplatin for chemotherapy-naive patients with
+advanced malignant pleural mesothelioma (LUME-Meso): a doubleblind, randomised, placebo-controlled phase 3 trial. Lancet Respir
+Med. 2019;7(7):569-580.
+43. Peters S, Scherpereel A, Cornelissen R, et al. LBA65 First-line nivolumab
+(NIVO) plus ipilimumab (IPI) vs chemotherapy (chemo) in patients (pts)
+with unresectable malignant pleural mesothelioma (MPM): 3-year
+update from CheckMate 743. Ann Oncol. 2021;32:S1341-S1342.
+44. Scherpereel A, Antonia S, Bautista Y, et al. LBA1 First-line nivolumab
+(NIVO) plus ipilimumab (IPI) versus chemotherapy (chemo) for the
+treatment of unresectable malignant pleural mesothelioma (MPM):
+patient-reported outcomes (PROs) from CheckMate 743. Ann Oncol.
+2020;31:S1441.
+45. Scherpereel A, Wallyn F, Albelda SM, Munck C. Novel therapies for
+malignant pleural mesothelioma. Lancet Oncol. 2018;19(3):e161-e172.
+46. Dudek AZ, Wang X, Gu L, et al. Randomized study of maintenance
+pemetrexed versus observation for treatment of malignant pleural
+mesothelioma: CALGB 30901. Clin Lung Cancer. 2020;21(6):553-561.e1.
+47. de Gooijer CJ, van der Noort V, Stigt JA, et al. Switch-maintenance
+gemcitabine after ﬁrst-line chemotherapy in patients with malignant
+mesothelioma (NVALT19): an investigator-initiated, randomised, openlabel, phase 2 trial. Lancet Respir Med. 2021;9(6):585-592.
+48. Fennell DA, Baas P, Taylor P, et al. Maintenance defactinib versus
+placebo after ﬁrst-line chemotherapy in patients with Merlin-Stratiﬁed
+
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+66.
+
+pleural mesothelioma: COMMANDda double-blind, randomized,
+phase II study. J Clin Oncol. 2019;37(10):790-798.
+Fennell DA, Casbard AC, Porter C, et al. A randomized phase II trial of
+oral vinorelbine as second-line therapy for patients with malignant
+pleural mesothelioma. J Clin Oncol. 2021;39(suppl 15):8507.
+Popat S, Curioni-Fontecedro A, Dafni U, et al. A multicentre randomised phase III trial comparing pembrolizumab versus single-agent
+chemotherapy for advanced pre-treated malignant pleural mesothelioma: the European Thoracic Oncology Platform (ETOP 9-15) PROMISEmeso trial. Ann Oncol. 2020;31(12):1734-1745.
+Maio M, Scherpereel A, Calabrò L, et al. Tremelimumab as secondline or third-line treatment in relapsed malignant mesothelioma
+(DETERMINE): a multicentre, international, randomised, doubleblind, placebo-controlled phase 2b trial. Lancet Oncol. 2017;18(9):
+1261-1273.
+Alley EW, Lopez J, Santoro A, et al. Clinical safety and activity of
+pembrolizumab in patients with malignant pleural mesothelioma
+(KEYNOTE-028): preliminary results from a non-randomised, open-label, phase 1b trial. Lancet Oncol. 2017;18(5):623-630.
+Desai A, Karrison T, Rose B, et al. Phase II trial of pembrolizumab (P) in
+patients (pts) with previously-treated mesothelioma (MM). J Clin
+Oncol. 2018;36(suppl 15):8565.
+Quispel-Janssen J, van der Noort V, de Vries JF, et al. Programmed
+death 1 blockade with nivolumab in patients with recurrent malignant
+pleural mesothelioma. J Thorac Oncol. 2018;13(10):1569-1576.
+Hassan R, Thomas A, Nemunaitis JJ, et al. Efﬁcacy and safety of avelumab treatment in patients with advanced unresectable mesothelioma: phase 1b results from the JAVELIN solid tumor trial. JAMA Oncol.
+2019;5(3):351.
+Okada M, Kijima T, Aoe K, et al. Clinical efﬁcacy and safety of nivolumab: results of a multicenter, open-label, single-arm, Japanese phase II
+study in malignant pleural mesothelioma (MERIT). Clin Cancer Res.
+2019;25(18):5485-5492.
+Scherpereel A, Mazieres J, Greillier L, et al. Nivolumab or nivolumab
+plus ipilimumab in patients with relapsed malignant pleural mesothelioma (IFCT-1501 MAPS2): a multicentre, open-label, randomised,
+non-comparative, phase 2 trial. Lancet Oncol. 2019;20(2):239-253.
+Fennell DA, Ewings S, Ottensmeier C, et al. Nivolumab versus placebo
+in patients with relapsed malignant mesothelioma (CONFIRM): a
+multicentre, double-blind, randomised, phase 3 trial. Lancet Oncol.
+2021;22(11):1530-1540.
+Petrelli F, Ardito R, Conti B, et al. A systematic review and metaanalysis of second-line therapies for treatment of mesothelioma.
+Respir Med. 2018;141:72-80.
+Pinto C, Zucali PA, Pagano M, et al. Gemcitabine with or without
+ramucirumab as second-line treatment for malignant pleural mesothelioma (RAMES): a randomised, double-blind, placebo-controlled,
+phase 2 trial. Lancet Oncol. 2021;22(10):1438-1447.
+Ghanim B, Rosenmayr A, Stockhammer P, et al. Tumour cell PD-L1
+expression is prognostic in patients with malignant pleural effusion:
+the impact of C-reactive protein and immune-checkpoint inhibition. Sci
+Rep. 2020;10(1):5784.
+Calabrò L, Morra A, Giannarelli D, et al. Tremelimumab combined with
+durvalumab in patients with mesothelioma (NIBIT-MESO-1): an openlabel, non-randomised, phase 2 study. Lancet Respir Med. 2018;6(6):
+451-460.
+Disselhorst MJ, Quispel-Janssen J, Lalezari F, et al. Ipilimumab and
+nivolumab in the treatment of recurrent malignant pleural mesothelioma (INITIATE): results of a prospective, single-arm, phase 2 trial.
+Lancet Respir Med. 2019;7(3):260-270.
+Hmeljak J, Sanchez-Vega F, Hoadley KA, et al. Integrative molecular
+characterization of malignant pleural mesothelioma. Cancer Discov.
+2018;8(12):1548-1565.
+Carbone M, Yang H, Pass HI, et al. BAP1 and cancer. Nat Rev Cancer.
+2013;13(3):153-159.
+Oehl K, Vrugt B, Wagner U, et al. Alterations in BAP1 are associated
+with cisplatin resistance through inhibition of apoptosis in malignant
+pleural mesothelioma. Clin Cancer Res. 2021;27(8):2277-2291.
+
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+141
+
+S. Popat et al.
+
+Annals of Oncology
+67. Hassan R, Morrow B, Thomas A, et al. Inherited predisposition to
+malignant mesothelioma and overall survival following platinum
+chemotherapy. Proc Natl Acad Sci U S A. 2019;116(18):9008-9013.
+68. Fennell DA, King A, Mohammed S, et al. Rucaparib in patients with
+BAP1-deﬁcient or BRCA1-deﬁcient mesothelioma (MiST1): an openlabel, single-arm, phase 2a clinical trial. Lancet Respir Med. 2021;9(6):
+593-600.
+69. Macleod N, Price A, O’Rourke N, et al. Radiotherapy for the treatment
+of pain in malignant pleural mesothelioma: a systematic review. Lung
+Cancer. 2014;83(2):133-138.
+70. MacLeod N, Chalmers A, O’Rourke N, et al. Is radiotherapy useful for
+treating pain in mesothelioma? A phase II trial. J Thorac Oncol.
+2015;10(6):944-950.
+71. Clive AO, Taylor H, Dobson L, et al. Prophylactic radiotherapy for the
+prevention of procedure-tract metastases after surgical and large-bore
+pleural procedures in malignant pleural mesothelioma (SMART): a
+multicentre, open-label, phase 3, randomised controlled trial. Lancet
+Oncol. 2016;17(8):1094-1104.
+72. Bayman N, Appel W, Ashcroft L, et al. Prophylactic irradiation of tracts
+in patients with malignant pleural mesothelioma: an open-label,
+multicenter, phase III randomized trial. J Clin Oncol. 2019;37(14):
+1200-1208.
+73. Lee CC, Soon YY, Vellayappan B, et al. Prophylactic irradiation of tracts
+in patients with malignant pleural mesothelioma: a systematic review
+and meta-analysis of randomized trials. Crit Rev Oncol Hematol.
+2021;160:103278.
+74. Kristensen CA, Nøttrup TJ, Berthelsen AK, et al. Pulmonary toxicity
+following IMRT after extrapleural pneumonectomy for malignant
+pleural mesothelioma. Radiother Oncol. 2009;92(1):96-99.
+75. Minatel E, Trovo M, Polesel J, et al. Tomotherapy after pleurectomy/
+decortication or biopsy for malignant pleural mesothelioma allows the
+delivery of high dose of radiation in patients with intact lung. J Thorac
+Oncol. 2012;7(12):1862-1866.
+76. Rice DC, Smythe WR, Liao Z, et al. Dose-dependent pulmonary
+toxicity after postoperative intensity-modulated radiotherapy for
+malignant pleural mesothelioma. Int J Radiat Oncol Biol Phys.
+2007;69(2):350-357.
+77. Stahel RA, Riesterer O, Xyrafas A, et al. Neoadjuvant chemotherapy and
+extrapleural pneumonectomy of malignant pleural mesothelioma with
+or without hemithoracic radiotherapy (SAKK 17/04): a randomised,
+international, multicentre phase 2 trial. Lancet Oncol. 2015;16(16):
+1651-1658.
+78. Minatel E, Trovo M, Bearz A, et al. Radical radiation therapy after lungsparing surgery for malignant pleural mesothelioma: survival, pattern
+of failure, and prognostic factors. Int J Radiat Oncol Biol Phys.
+2015;93(3):606-613.
+79. Rimner A, Zauderer MG, Gomez DR, et al. Phase II study of hemithoracic intensity-modulated pleural radiation therapy (IMPRINT) as
+
+142
+
+https://doi.org/10.1016/j.annonc.2021.11.005
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+93.
+
+part of lung-sparing multimodality therapy in patients with malignant
+pleural mesothelioma. J Clin Oncol. 2016;34(23):2761-2768.
+Yorke ED, Jackson A, Kuo LC, et al. Heart dosimetry is correlated with
+risk of radiation pneumonitis after lung-sparing hemithoracic pleural
+intensity modulated radiation therapy for malignant pleural mesothelioma. Int J Radiat Oncol Biol Phys. 2017;99(1):61-69.
+de Perrot M, Feld R, Leighl NB, et al. Accelerated hemithoracic radiation followed by extrapleural pneumonectomy for malignant pleural
+mesothelioma. J Thorac Cardiovasc Surg. 2016;151(2):468-475.
+Schröder C, Opitz I, Guckenberger M, et al. Stereotactic body radiation
+therapy (SBRT) as salvage therapy for oligorecurrent pleural mesothelioma after multi-modality therapy. Front Oncol. 2019;9:961.
+Lin L, Kang M, Huang S, et al. Beam-speciﬁc planning target volumes
+incorporating 4D CT for pencil beam scanning proton therapy of
+thoracic tumors. J Appl Clin Med Phys. 2015;16(6):281-292.
+Rice SR, Li YR, Busch TM, et al. A novel prospective study assessing the
+combination of photodynamic therapy and proton radiation therapy:
+safety and outcomes when treating malignant pleural mesothelioma.
+Photochem Photobiol. 2019;95(1):411-418.
+Li YR, Alley EW, Friedberg J, et al. ORAL26.06 prospective assessment
+of proton therapy for malignant pleural mesothelioma. J Thorac Oncol.
+2015;10(9):S224.
+ESMO Clinical Practice Guidelines: Supportive and Palliative Care.
+Available at https://www.esmo.org/guidelines/supportive-and-palliativecare. Accessed December 6, 2021.
+Brims F, Gunatilake S, Lawrie I, et al. Early specialist palliative care on
+quality of life for malignant pleural mesothelioma: a randomised
+controlled trial. Thorax. 2019;74(4):354-361.
+Muruganandan S, Azzopardi M, Fitzgerald DB, et al. Aggressive versus
+symptom-guided drainage of malignant pleural effusion via indwelling
+pleural catheters (AMPLE-2): an open-label randomised trial. Lancet
+Respir Med. 2018;6(9):671-680.
+Jeffery E, Lee YCG, Newton RU, et al. Body composition and nutritional
+status in malignant pleural mesothelioma: implications for activity
+levels and quality of life. Eur J Clin Nutr. 2019;73(10):1412-1421.
+Arends J, Strasser F, Gonella S, et al. Cancer cachexia in adult patients: ESMO Clinical Practice Guidelines. ESMO Open. 2021;6(3):
+100092.
+Armato SG, Nowak AK. Revised modiﬁed response evaluation criteria
+in solid tumors for assessment of response in malignant pleural mesothelioma (Version 1.1). J Thorac Oncol. 2018;13(7):1012-1021.
+Cherny NI, Dafni U, Bogaerts J, et al. ESMO-Magnitude of Clinical
+Beneﬁt Scale version 1.1. Ann Oncol. 2017;28(10):2340-2366.
+Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis. 2001;33(2):139-144 (adapted from: Gross PA, Barrett TL,
+Dellinger EP, et al. Purpose of quality standards for infectious diseases.
+Clin Infect Dis. 1994;1918:1421).
+
+Volume 33
+
+-
+
+Issue 2
+
+-
+
+2022
+
+

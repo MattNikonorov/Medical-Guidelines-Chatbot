@@ -1,0 +1,762 @@
+clinical practice guidelines
+
+Annals of Oncology 26 (Supplement 5): v100–v107, 2015
+doi:10.1093/annonc/mdv200
+Published online 12 August 2015
+
+Hairy cell leukaemia: ESMO Clinical Practice Guidelines
+for diagnosis, treatment and follow-up†
+T. Robak1, E. Matutes2, D. Catovsky3, P. L. Zinzani4 & C. Buske5, on behalf of the ESMO Guidelines
+Committee*
+1
+
+Department of Hematology, Medical University of Lodz, Lodz, Poland; 2Haematopathology Unit, Hospital Clinic, Barcelona University, Barcelona, Spain;
+Haemato-Oncology Research Unit, The Institute of Cancer Research, Sutton, Surrey, UK; 4Seràgnoli Institute of Hematology, University of Bologna, Bologna, Italy;
+5
+Comprehensive Cancer Center Ulm, Institute of Experimental Cancer Research, University Hospital, Ulm, Germany
+3
+
+clinical practice
+guidelines
+
+incidence and epidemiology
+Classical hairy cell leukaemia (HCL) is a B-cell chronic lymphoproliferative disorder characterised by splenomegaly, pancytopaenia and bone marrow involvement with ﬁbrosis. HCL represents
+2% of adult leukaemia. Approximately 1600 new cases per year
+are diagnosed in Europe [1], with a median age of 52 years at the
+time of diagnosis. The disease occurs more often in men than in
+women, with a ratio of approximately 4:1 [2]. In the USA, a
+higher frequency of HCL is observed among white Americans
+than among African-Americans or Asians, as well as in patients
+following exposure to the herbicide ‘Agent Orange’, used during
+the Vietnam War [3]. HCL variant (HCL-V) is classiﬁed among
+the unclassiﬁable splenic B-cell leukaemia/lymphoma that is no
+longer biologically related to classical HCL. It is included in the
+World Health Organization (WHO) classiﬁcation as a provisional
+entity [4]. HCL-V is an uncommon disorder, accounting for approximately 0.4% of chronic lymphoid malignancies and 10% of
+all HCL cases, without sexual predominance. The median age of
+the patients is 71 years.
+
+diagnosis and pathology/molecular
+biology
+The examination of peripheral blood ﬁlms and immunophenotyping allows for a diagnosis to be established in most cases
+(Table 1) [I, C] [5, 6]. The neoplastic cells are twice the size of a
+lymphocyte and have a round or kidney-shaped nucleus with
+loose chromatin and abundant pale cytoplasm with projections.
+Monocytopaenia and macrocytosis are very common; other
+cytopaenias may be present. A diagnosis of HCL based on cytology can be effectively conﬁrmed by ﬂow cytometry studies
+using anti-B-cell monoclonal antibodies such as CD19, CD20 or
+CD22, together with a panel of antibodies such as CD11c,
+CD25, CD103 and CD123, which are more speciﬁc to HCL; this
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, via L. Taddei 4,
+CH-6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Committee, July 2015.
+
+combination will allow for the differentiation of HCL from
+other B-cell leukaemias and lymphomas with circulating villous
+cells [5, 6]. In addition, strong expression of CD200 is characteristic of HCL and may be useful for the diagnosis in difﬁcult
+cases [7].
+HCL-V typically presents with high lymphocyte counts, with
+the cells being nucleolated and lacking monocytopaenia. Flow
+cytometry will indicate the cells to be CD11c+ and often CD103
++ but very rarely CD25+ and CD123+. There is an overlap with
+splenic diffuse red pulp lymphoma, and distinguishing between
+these two diseases may be difﬁcult. A bone marrow examination
+is required for the diagnosis, particularly after treatment, to
+assess response [I, C].
+As the bone marrow can rarely be aspirated (‘dry-tap’) in classical HCL, diagnosis is typically performed by a bone marrow
+trephine biopsy. The degree and pattern of inﬁltration varies
+from mild interstitial to diffuse, and the lymphoid cells are surrounded by a clear halo due to the abundant cytoplasm, giving
+the characteristic ‘fried egg’ pattern. In HCL-V, the inﬁltration is
+either intrasinusoidal or interstitial.
+Immunohistochemistry with the monoclonal antibodies CD20,
+CD72 (DBA44), CD11c, CD25, CD103, annexin A1 and tartrateresistant acid phosphatase stain will highlight the lymphoid inﬁltrates and support the diagnosis of classical HCL [6]. However,
+annexin A1 is not suitable for detecting residual disease after
+treatment as it stains myeloid cells also. Cyclin D1 may be weakly
+positive but differential diagnosis with mantle cell lymphoma
+rarely arises. Recently, monoclonal antibodies that detect the
+mutated BRAF protein have been developed and shown to be
+useful for the diagnosis and detection of minimal residual
+disease (MRD) [8]. Although this requires validation, preliminary data suggest that this marker has high speciﬁcity and sensitivity for HCL [II, C].
+The main distinguishing features between HCL and HCL-V
+are outlined in Table 2. HCL does not have a distinct chromosomal abnormality. The majority of the cases have mutations
+of the immunoglobulin heavy chain (IGHV) gene, suggesting
+that the disease arises on a memory B cell. Unlike other splenomegalic disorders such as splenic marginal zone lymphoma or
+HCL-V, there is no evidence of speciﬁc IGHV, IGHD, IGHJ
+
+© The Author 2015. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 1. Diagnostic work-up of classical HCL
+Peripheral blood film morphology [I, C]
+Flow cytometry in peripheral blood and bone marrow aspirate [I, C]
+Bone marrow trephine biopsy with immunohistochemistry [I, C]
+BRAF mutation of exon 15 in difficult cases [II, C]
+HCL, hairy cell leukaemia.
+
+Table 2. Diagnostic criteria for HCL and HCL-V
+Characteristics
+
+Classical HCL
+
+HCL-V
+
+Bone marrow aspiration
+Lymphocytosis
+Monocytopaenia
+Prominent nucleoli
+Cytoplasmic projections
+CD25
+FMC7, CD20, CD22, CD11c
+CD103, CD123
+Annexin
+BRAF V600E mutation
+Splenomegaly
+Response to purine analogues
+
+Difficult (often dry tap)
+−
++
+−
++
++
++
++
++
++
++
+Good
+
+Easy
++
+−
++
++
+−
++
+Variable
+−
+−
++
+Poor
+
+HCL, hairy cell leukaemia; HCL-V, HCL variant.
+
+repertoires or stereotypes in HCL [9–11]. In 2011, Tiacci et al.
+[12] reported the presence of the V600E mutation of the BRAF
+gene in exon 15 in all 47 investigated HCL cases. The mutation
+rarely occurs in exon 11. The BRAF mutation leads to the activation of the RAF/MEK-ERK pathway, resulting in enhanced cell
+proliferation and survival. These results have been validated by
+other groups and new simpler and more sensitive methods to
+detect the mutation, such as quantitative real-time polymerase
+chain reaction (q-PCR) have been developed. This ﬁnding is relevant to the diagnosis and pathogenesis of HCL with potential
+therapeutic implications. In the near future, testing for this mutation may be incorporated on a routine basis into the diagnostic
+work-up of HCL [II, C]. Although HCL-V patients lack the BRAF
+mutation, TP53 mutations are present in one-third of cases [13].
+
+staging and risk stratiﬁcation
+There is no worldwide accepted staging system for HCL. In addition to the diagnostic tests on the blood and bone marrow trephine biopsy, a staging work-up should include full blood cell
+counts with differential and reticulocytes, renal and liver biochemistry, serum immunoglobulins, β2 microglobulin, direct
+antiglobulin test (DAT), Coombs test and hepatitis virus B and
+C and human immunodeﬁciency virus screening. Computed
+tomography (CT) imaging is desirable at the time of diagnosis
+(as around 10% of HCL patients have abdominal lymphadenopathy) and should be performed at relapse [14].
+There is no international prognostic system for risk stratiﬁcation of HCL. Clinical variables that have been considered to
+have an adverse prognosis include the degree of cytopaenias
+(Hb < 10 g/dl, platelets < 100 × 109/l) and neutrophils (<1 × 109/l),
+
+Volume 26 | Supplement 5 | September 2015
+
+as well as the presence of lymphadenopathy, which predicts a
+poor response to purine analogues [15]. Patients who achieve a
+complete response (CR) have a signiﬁcantly longer disease-free
+survival than those who achieve a partial response (PR) [II, B]
+[16]. Biological factors that have been associated with a poor
+outcome are the presence of TP53 mutations and the lack of
+somatic mutations in the IGVH genes, which occur in a minor
+proportion of cases [IV, C] [10] and the VH4-34 family usage, a
+feature more frequent in HCL-V [11]. The presence of TP53
+mutations (but not VH4-34) usage appears to be an adverse
+prognostic factor in HCL-V [IV, C] [13].
+
+treatment plan
+Treatment is not indicated in asymptomatic patients [V, B].
+However, untreated patients should be closely monitored with
+a complete history, physical examination, and complete blood
+cell count with a differential test every 3–6 months. In contrast
+to chronic lymphocytic leukaemia, asymptomatic patients, who
+may be diagnosed by chance, are rare and in practice most
+patients need treatment shortly after diagnosis, either because of
+symptoms or to correct cytopaenias including monocytopaenia.
+Treatment should be initiated in patients with symptomatic
+disease manifested by bulky or progressive, symptomatic splenomegaly cytopaenias (haemoglobin <10 g/dl and/or platelets
+<100 × 109/l and/or neutrophils <1 × 109/l), recurrent or severe
+infections and/or systemic symptoms [II, A] [17, 18].
+
+ﬁrst line
+purine analogues
+Purine analogues, cladribine (2-CldA) or pentostatin (DCF), are
+recommended as initial treatment of symptomatic HCL patients
+who are young and ﬁt (Figure 1) [II, A]. 2-CldA induces durable
+and unmaintained response in 87%–100% patients, including CR
+in 85%–91%, after a single course of therapy [19]. 2-CldA is
+administered either as a continuous intravenous (i.v.) infusion at
+a dose of 0.09 mg/kg over a 5–7 day period, or as a 2-h i.v. infusion at a dose of 0.12–0.14 mg/kg for 5–7 days [20, 21]. 2-CldA is
+also an effective drug when administered at a dose of 0.12–0.15
+mg/kg in 2-h infusion once a week over 6 courses [I, B] [22, 23].
+Both CR and overall response (OR) rates are similar in weekly
+and daily administration. Neither less frequent infections nor
+haematological toxicity have been conﬁrmed in the weekly schedule by randomised trials [I, B] [23, 24]. Similar results were
+achieved when the drug was given as a subcutaneous injection
+[II, B] [24, 25]. A subcutaneous 2-CldA is given at a dose of 0.1
+mg/kg/day for 5–7 days or 0.14 mg/kg/day for 5 days as a single
+course [24, 25]. Grade 3–4 toxicity, largely represented by neutropaenic fevers and infections, were less frequent when lower total
+doses were used (0.5 mg/kg) than higher doses (0.7 mg/kg) with
+similar OR [25]. Subcutaneous administration does not usually
+require hospitalisation, and seems to be an easier way of delivering the drug than i.v. administration. Although no randomised
+trial comparing i.v. versus subcutaneous 2-CldA administration
+has been performed, the efﬁcacy of both methods is similar [II,
+B]. A CR following 2-CldA administration is durable even
+without maintenance therapy [16]. In patients demonstrating a
+
+doi:10.1093/annonc/mdv200 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Figure 1. Therapeutic algorithm for newly diagnosed classical hairy cell leukaemia (HCL). CR, complete response; PR, partial response.
+
+PR after the ﬁrst course of 2-CldA, a second course should be
+repeated to achieve a CR at least 6 months after the end of the
+ﬁrst course, with or without rituximab [IV, B] [26].
+Similarly to 2-CldA, DCF induces a high rate of long-lasting
+CR. In patients with a normal creatinine clearance (>60 ml/min),
+DCF is usually given at a dose of 4 mg/m2 i.v. every second week
+until CR, plus one or two consolidating injections [27]. After 8–9
+courses, the full blood count usually normalises, and the bone
+marrow biopsy should be performed to conﬁrm a CR [III, B]. If a
+CR is documented, one or two further DCF injections are indicated [16]. DCF and 2-CldA appear to induce similar high response rates, duration of response, recurrence rates and adverse
+events [III, B] [16]. However, no randomised, direct comparison
+between the two drugs has been performed. The advantage of
+DCF over interferon-α (IFN-α) in HCL patients has been conﬁrmed in a multicentre, randomised trial [I, A] [28]. 2-CldA administration is more convenient than DCF and is used more
+frequently.
+
+interferon-α
+As purine analogues produce higher and more durable remissions, and are more convenient to patients, the use of IFN-α in
+
+v | Robak et al.
+
+the treatment of HCL is limited. However, IFN-α may still have
+a place in the treatment of HCL in pregnancy [V, B]. It can also
+be used in patients presenting with very severe neutropaenia
+(neutrophil count <0.2 × 109/l) to increase the neutrophil count
+prior to nucleoside analogue therapy [V, C] [29].
+
+response evaluation
+Responses are deﬁned according to the ‘Consensus Resolution’
+criteria (Table 3) [30]. Response evaluation includes careful
+physical examination and a blood cell count. A marrow biopsy
+is recommended to establish a CR. A chest X-ray and an abdominal ultrasound or CT for response evaluation should be
+performed. A CR requires the morphological absence of hairy
+cells in peripheral blood and bone marrow aspiration or biopsy
+specimens, and normalisation of any organomegaly and cytopaenia. Immunophenotypic analysis of peripheral blood or bone
+marrow is not required but is useful to detect MRD. A PR is
+deﬁned as normalisation of peripheral counts, associated with at
+least a 50% reduction in organomegaly and bone marrow hairy
+cells, and <5% circulating hairy cells. All other outcomes are considered as nonresponse. The eradication of MRD is generally not
+recommended in routine clinical practice. Assessment of response
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+Table 3. Response criteria for HCL
+Definition of response categories
+Complete
+response
+
+No hairy cells on peripheral blood and bone marrow
+aspiration or biopsy specimens, normalisation of
+organomegaly and peripheral blood counts
+
+Partial response
+
+Normalisation of peripheral blood counts, at least
+50% reduction in organomegaly and bone marrow
+hairy cells, and <5% circulating hairy cells
+
+Relapse
+
+Any deterioration in blood counts related to the
+detection of hairy cells in peripheral blood and/or
+bone marrow and/or increasing splenomegaly
+
+HCL, hairy cell leukaemia. Data from [30].
+
+should be performed 4–6 months after treatment with 2-CldA
+and after 8–9 courses of DCF [31]. Relapse is deﬁned as any deterioration in blood counts related to the detection of hairy cells
+in peripheral blood and/or bone marrow.
+
+treatment of relapsed patients and
+patients refractory to purine analogues
+Relapsed patients can be successfully retreated with 2-CldA or
+DCF if relapse occurs after 12–18 months [IV, B] [32] (Figure 2).
+The alternative nucleoside analogue can be used in early relapse
+within 2 years after the ﬁrst-line treatment [31]. The ability to
+attain CR decreases with each course of therapy, but CR duration appears to be similar after ﬁrst-, second- or third-line therapy
+[16, 33].
+Rituximab at a dose of 375 mg/m2 for 4–8 doses given weekly
+as i.v. infusions can be used in early relapsed patients [III, B]
+[34–36]. However, rituximab alone is inferior to purine analogues and is not the treatment of choice as a single agent in
+relapsed patients. Outcomes for patients with recurrent HCL
+appear to be better when a combination of rituximab and 2CldA or DCF is used rather than the purine analogue alone [III,
+B] [37, 38]. Concurrent therapy of rituximab and a purine analogue induces higher response rates, and higher rates of toxic
+events than in the sequential administration [III, B] [39].
+IFN-α is also a possible option for selected patients relapsing
+after purine analogue therapy [IV, B] [40, 41]. Patients refractory to purine analogue therapy should be enrolled on clinical
+trials that use new agents, whenever possible. Fludarabine at a
+dose of 40 mg/m2 oral ( p.o.) for ﬁve consecutive days in combination with an i.v. injection of 375 mg/m2 rituximab on day 1,
+every 28 days for four cycles, can be a therapeutic option in
+relapsed or refractory patients previously treated with 2-CldA
+[IV, B]. After a median follow-up of 35 months with 14 progression-free patients, a 5-year progression-free survival (PFS) of
+89%, an overall survival (OS) of 83% and a recurrence rate of
+7% were observed in 15 treated patients [42]. Bendamustine at
+70–90 mg/m2 combined with rituximab is another therapeutic
+option in multiply relapsed/refractory HCL, and could be considered in HCL patients after the failure of standard therapies
+[IV, B] [43].
+
+Volume 26 | Supplement 5 | September 2015
+
+clinical practice guidelines
+Other promising drugs active in purine analogue refractory
+HCL patients include moxetumomab pasudotox, an anti-CD22
+recombinant immunotoxin, and vemurafenib, a BRAF V600E
+inhibitor [44–46]. A phase I trial of moxetumomab pasudotox
+in relapsed/refractory HCL induced an 86% OR rate, and a 46%
+CR [44]. However, moxetumomab pasudotox is not licensed in
+Europe yet.
+Vemurafenib also showed remarkable activity in multiply
+relapsed and refractory HCL patients with rapidly decreased
+splenomegaly, increased platelet counts and normalisation
+of haemoglobin and granulocyte counts [45, 46]. The optimal
+dosing and duration of treatment using vemurafenib is unknown. A multicentre, phase II study of vemurafenib in the
+treatment of refractory HCL is ongoing (NCT01711632). The
+therapeutic potential of the Bruton’s tyrosine kinase (BTK) inhibitor ibrutinib also needs to be taken into consideration in a
+relapse setting, given the proven in vitro activity of this drug in
+hairy cells [47]. A phase II study with ibrutinib in patients with
+relapsed HCL is ongoing (NCT01841723).
+
+splenectomy
+Splenectomy may be indicated in patients with resistant massive
+symptomatic splenomegaly (>10 cm below the costal margin)
+with accompanied low-level bone marrow inﬁltration [IV, B]
+[48]. OR rates of 60%–100% were documented in eight major
+reports [29]. Splenectomised patients respond better and faster
+to the subsequent chemotherapy [V, B]. Splenectomy can also
+be considered when progressive HCL develops during pregnancy and in patients refractory to nucleoside analogues and
+IFN-α [V, B] [29]. Systemic therapy should not be performed
+earlier than 6 months after splenectomy to reach full beneﬁts
+of this treatment [31]. Vaccination against Haemophilus inﬂuenza and pneumococcus before splenectomy is recommended
+[IV, B] [49].
+
+allogeneic stem cell transplantation
+Allogeneic stem cell transplantation has a potential role in
+younger, heavily pretreated HCL patients who have had multiple
+relapses and are refractory to purine analogues and rituximab
+[V, C] [50, 51].
+
+treatment during pregnancy
+Only a few cases of HCL during pregnancy have been reported
+[52, 53]. Treatment is indicated only when truly warranted. The
+appropriate therapy depends on the stage of pregnancy, rate of
+disease progression and response to previous therapies. If treatment is indicated, the lower risks associated with IFN-α for both
+the mother and the fetus make it the treatment of choice [V, B].
+IFN-α shows good tolerance, uncomplicated pregnancy and
+delivery, and normal child development [54]. Splenectomy is
+another option to consider, should INF-α fail, especially in early
+gestation when the risks are lower [V, B] [52, 55]. Administration
+of 2-CldA and rituximab are not indicated in pregnancy because
+of the risk of teratogenic effects. However, successful pregnancy
+after the administration of 2-CldA and rituximab has also been
+reported [56].
+
+doi:10.1093/annonc/mdv200 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Figure 2. Therapeutic algorithm for relapsed and refractory classical hairy cell leukaemia (HCL).
+
+supportive treatment
+
+treatment of HCL-V
+
+Patients treated with nucleoside analogues and lymphopaenia
+should receive prophylactic co-trimoxazole 960 mg three times
+per week and aciclovir (200 mg three times daily) until the
+lymphocyte count increases to >1 × 109/l to prevent pneumocystis
+infections and herpes reactivation [IV, B]. Co-trimoxazole and
+aciclovir prophylaxis should be started one week after purine analogue administration to reduce allergic skin reaction [18]. The
+routine adjunctive use of ﬁlgrastim with 2-CldA in the treatment
+of patients with HCL and severe neutropaenia is not recommended [IV, C] [57]. However, granulocyte colony-stimulating
+factor use should be considered in individual cases with severe
+neutropaenia and life-threatening infection. Patients treated with
+2-CldA or DCF should receive irradiated blood products to
+prevent transfusion-associated graft-versus-host disease [58].
+
+The results of the treatment of HCL-V with purine analogues
+are poor (Figure 3). The analysis of 19 cases treated with 2-CldA
+showed a response rate of 55%, including only 2 with CR [59].
+In addition, the majority of HCL-V patients required more than
+1 cycle to maintain a response. DCF induced a PR in only 8 out
+of 15 (54%) patients and no CR was achieved [60]. Rituximab
+alone, or splenectomy followed by rituximab therapy, can also
+induce CR in HCL-V [61, 62]. However, administration of
+2-CldA immediately followed by rituximab, typically involving
+2-CldA being given at a dose of 0.15 mg/kg on days 1–5, with
+8 weekly doses of 375 mg/m2 rituximab beginning day 1,
+appears to be more effective than 2-CldA alone or rituximab
+alone and should be considered as the initial treatment of HCLV patients [IV, B] [38, 63]. In a recent study based on 8 patients,
+
+v | Robak et al.
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Figure 3. Therapeutic algorithm for hairy cell leukaemia variant (HCL-V).
+
+all achieved a CR, including 7 (88%) with MRD negativity at
+12–38 (median 24) months of follow-up. Alternatively, individual case reports suggest that alemtuzumab is an active agent
+in treating HCL-V, even in patients who have relapsed after
+rituximab [64]. Splenectomy induces clinical responses in some
+patients with HCL-V, and is recommended because it corrects
+cytopaenias, removes the bulk of the tumour and may improve
+response to purine nucleoside analogues [V, B] [65]. Splenic
+irradiation could be performed in elderly patients with a high
+surgical risk of splenectomy [V, B]. Clinical case reports support
+the use of moxetumomab pasudotox in patients with HCL-V
+[V, B] [44]. Some case reports indicate that autologous or
+allogeneic hematopoietic cell transplantation can be effective in
+refractory patients [V, B] [66]. However, the data to support
+these approaches are limited.
+
+in 17 (77.3%) of 22 HCL cases by PCR, and was demonstrated
+in 20 (90.9%) cases using VE1 immunohistochemistry staining
+[68]. Immunohistochemical detection of BRAF V600E mutant
+protein is highly sensitive and speciﬁc for the diagnosis of HCL.
+
+follow-up and long-term implications
+A follow-up of asymptomatic patients should include a complete history, physical examination, a blood cell count and
+routine chemistry every 3–12 months [II, B]. Regular CT scans
+are not necessary outside clinical trials. The frequency of second
+malignancies is increased in HCL patients whether treated
+or untreated. Solid and haematological malignancies develop
+in 10% of patients after HCL diagnosis, particularly chronic
+lymphoproliferative diseases (myeloma, Hodgkin’s and nonHodgkin’s lymphoma), melanoma and thyroid cancer [70, 71].
+
+personalised medicine
+In HCL and HCL-V, more research is needed to identify biomarkers which could be used for medical treatment decisions.
+Recently, BRAF V600E mutation has been identiﬁed as a characteristic biomarker of HCL [III, B] [67–69]. It is present in nearly
+all cases of HCL but virtually absent in diseases that mimic
+HCL. In a recent study, a BRAF V600E mutation was detected
+
+Volume 26 | Supplement 5 | September 2015
+
+methodology
+These clinical practice guidelines were developed in accordance
+with the ESMO standard operating procedures for clinical practice guidelines development. The relevant literature has been
+selected by the expert authors. Levels of evidence and grades of
+recommendation have been applied using the system shown in
+
+doi:10.1093/annonc/mdv200 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 4. Levels of evidence and grades of recommendation (adapted from the Infectious Diseases Society of America-United States Public Health
+Service Grading System)a
+Levels of evidence
+I
+II
+III
+IV
+V
+
+Evidence from at least one large randomised, controlled trial of good methodological quality (low potential for bias) or meta-analyses
+of well-conducted randomised trials without heterogeneity
+Small randomised trials or large randomised trials with a suspicion of bias (lower methodological quality) or meta-analyses of such
+trials or of trials with demonstrated heterogeneity
+Prospective cohort studies
+Retrospective cohort studies or case–control studies
+Studies without control group, case reports, experts opinions
+
+Grades of recommendation
+A
+B
+C
+D
+E
+a
+
+Strong evidence for efficacy with a substantial clinical benefit, strongly recommended
+Strong or moderate evidence for efficacy but with a limited clinical benefit, generally recommended
+Insufficient evidence for efficacy or benefit does not outweigh the risk or the disadvantages (adverse events, costs, ....), optional
+Moderate evidence against efficacy or for adverse outcome, generally not recommended
+Strong evidence against efficacy or for adverse outcome, never recommended
+
+By permission of the Infectious Diseases Society of America [72].
+
+Table 4. Statements without grading were considered justiﬁed
+standard clinical practice by the experts and the ESMO faculty.
+This manuscript has been subjected to an anonymous peer
+review process.
+
+10.
+
+11.
+
+conﬂict of interest
+TR has reported honoraria from Roche and research grants
+from Roche, Janssen, GlaxoSmithKline and Medimmune. PLZ
+has reported honoraria from Takeda Millennium, Roche,
+Celgene, Pﬁzer, Gilead and Sandoz. CB has reported honoraria
+from Roche, Pﬁzer, Celgene, Pharmacyclics and Janssen and research grants from Roche and Janssen. The other authors have
+reported no potential conﬂicts of interest.
+
+12.
+13.
+
+14.
+
+15.
+
+references
+1. Ferlay J, Steliarova-Foucher E, Lortet-Tieulent J et al. Cancer incidence and
+mortality patterns in Europe: estimates for 40 countries in 2012. Eur J Cancer
+2013; 49: 1374–1403.
+2. Morton LM, Wang SS, Devesa SS et al. Lymphoma incidence patterns by WHO
+subtype in the United States, 1992–2001. Blood 2006; 107: 265–276.
+3. Grever MR, Blachly JS, Andritsos LA. Hairy cell leukemia: update on molecular
+proﬁling and therapeutic advances. Blood Rev 2014; 28: 197–203.
+4. Swerdlow SH, Campo E, Harris NL et al. World Health Organization (WHO)
+Classiﬁcation of Tumours: Pathology and Genetics of Haematopoietic and
+Lymphatic Tissues. 4th edition. Lyon, France: IARC Press, 2008.
+5. Del Giudice I, Matutes E, Morilla R et al. The diagnostic value of CD123 in B-cell
+disorders with hairy or villous lymphocytes. Haematologica 2004; 89: 303–308.
+6. Matutes E. Immunophenotyping and differential diagnosis of hairy cell leukemia.
+Hematol Oncol Clin North Am 2006; 20: 1051–1063.
+7. Pillai V, Pozdnyakova O, Charest K et al. CD200 ﬂow cytometric assessment and
+semiquantitative immunohistochemical staining distinguishes hairy cell leukemia
+from hairy cell leukemia-variant and other B-cell lymphoproliferative disorders. Am
+J Clin Pathol 2013; 140: 536–543.
+8. Andrulis M, Penzel R, Weichert W et al. Application of a BRAF V600E mutationspeciﬁc antibody for the diagnosis of hairy cell leukemia. Am J Surg Pathol 2012;
+36: 1796–1800.
+9. Hockley SL, Giannouli S, Morilla A et al. Insight into the molecular pathogenesis of
+hairy cell leukaemia, hairy cell leukaemia variant and splenic marginal zone
+
+v | Robak et al.
+
+16.
+
+17.
+18.
+
+19.
+20.
+
+21.
+
+22.
+
+23.
+
+lymphoma provided by the analysis of their IGH rearrangements and somatic
+hypermutation patterns. Br J Haematol 2010; 148: 666–669.
+Forconi F, Sozzi E, Cencini E et al. Hairy cell leukemias with unmutated IGHV genes
+deﬁne the minor subset refractory to single-agent cladribine and with more
+aggressive behaviour. Blood 2009; 114: 4696–4702.
+Arons E, Suntum T, Stetler-Stevenson M, Kreitman RJ. VH4–34+ hairy cell
+leukemia, a new variant with poor prognosis despite standard therapy. Blood
+2009; 114: 4687–4695.
+Tiacci E, Trifonov V, Schiavoni G et al. BRAF mutations in hairy cell leukemia. N
+Engl J Med 2011; 364: 2305–2315.
+Hockley SL, Else M, Morilla A et al. The prognostic impact of clinical and molecular
+features in hairy cell leukaemia variant and splenic marginal zone lymphoma . Br J
+Haematol 2012; 158: 347–354.
+Mercieca J, Puga M, Matutes E et al. Incidence and signiﬁcance of abdominal
+lymphadenopathy in hairy cell leukaemia. Leuk Lymphoma 1994; 14(Suppl. 1):
+79–83.
+Mercieca J, Matutes E, Emmett E et al. 2-chlordeoxyadenosine in the treatment of
+hairy cell leukaemia: differences in response in patients with and without
+abdominal lymphadenopathy. Br J Haematol 1996; 93: 409–411.
+Else M, Dearden CE, Matutes E et al. Long-term follow-up of 233 patients with
+hairy cell leukaemia, treated initially with pentostatin or cladribine, at a median of
+16 years from diagnosis. Br J Haematol 2009; 145: 733–740.
+Grever MR. How I treat hairy cell leukemia. Blood 2010; 115: 21–28.
+Cornet E, Delmer A, Feugier P et al. Recommendations of the SFH (French Society
+of Haematology) for the diagnosis, treatment and follow-up of hairy cell leukaemia.
+Ann Hematol 2014; 93: 1977–1983.
+Saven A, Burian C, Koziol JA, Piro LD. Long-term follow-up of patients with hairy
+cell leukemia after cladribine treatment. Blood 1998; 92: 1918–1926.
+Cheson BD, Sorensen JM, Vena DA et al. Treatment of hairy cell leukemia with
+2-chlorodeoxyadenosine via the Group C protocol mechanism of the National
+Cancer Institute: a report of 979 patients. J Clin Oncol 1998; 16: 3007–3015.
+Robak T, Blasińska-Morawiec M, Krykowski E et al. 2-chlorodeoxyadenosine (2CdA) in 2-hour versus 24-hour intravenous infusion in the treatment of patients
+with hairy cell leukemia. Leuk Lymphoma 1996; 22: 107–111.
+Robak T, Jamroziak K, Gora-Tybor J et al. Cladribine in a weekly versus daily
+schedule for untreated active hairy cell leukemia: ﬁnal report from the Polish Adult
+Leukemia Group (PALG) of a prospective, randomized, multicenter trial. Blood
+2007; 109: 3672–3675.
+Zenhäusern R, Schmitz SF, Solenthaler M et al. Randomized trial of daily versus
+weekly administration of 2-chlorodeoxyadenosine in patients with hairy cell
+leukemia: a multicenter phase III trial (SAKK 32/98). Leuk Lymphoma 2009; 50:
+1501–1511.
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+24. von Rohr A, Schmitz SF, Tichelli A et al. Treatment of hairy cell leukemia with
+cladribine (2-chlorodeoxyadenosine) by subcutaneous bolus injection: a phase II
+study. Ann Oncol 2002; 13: 1641–1649.
+25. Lauria F, Cencini E, Forconi F. Alternative methods of cladribine administration.
+Leuk Lymphoma 2011; 52(Suppl. 2): 34–37.
+26. Dearden CE, Else M, Catovsky D. Long-term results for pentostatin and cladribine
+treatment of hairy cell leukemia. Leuk Lymphoma 2011; 52(Suppl. 2): 21–24.
+27. Flinn IW, Kopecky KJ, Foucar MK et al. Long-term follow-up of remission duration,
+mortality and second malignancies in hairy cell leukemia patients treated with
+pentostatin. Blood 2000; 96: 2981–2986.
+28. Grever M, Kopecky K, Foucar MK et al. Randomized comparison of pentostatin
+versus interferon alfa-2a in previously untreated patients with hairy cell leukemia:
+an intergroup study. J Clin Oncol 1995; 13: 974–982.
+29. Habermann TM, Rai K. Historical treatments of in hairy cell leukemia, splenectomy
+and interferon: past and current uses. Leuk Lymphoma 2011; 52(Suppl. 2):
+18–20.
+30. Anonymous. Consensus resolution: proposed criteria for evaluation of response to
+treatment in hairy cell leukemia. Leukemia 1987; 1: 405.
+31. Jones G, Parry-Jones N, Wilkins B et al. Revised guidelines for the diagnosis and
+management of hairy cell leukaemia and hairy cell leukaemia variant. Br J
+Haematol 2012; 156: 186–195.
+32. Naik RR, Saven A. My treatment approach to hairy cell leukemia. Mayo Clin Proc
+2012; 87: 67–76.
+33. Zinzani PL, Pellegrini C, Stefoni V et al. Hairy cell leukemia: evaluation of the longterm outcome in 121 patients. Cancer 2010; 116: 4788–4792.
+34. Hagberg H, Lundholm L. Rituximab, a chimaeric anti-CD20 monoclonal antibody in
+the treatment of hairy cell leukaemia. Br J Haematol 2001; 115: 609–611.
+35. Nieva J, Bethel K, Saven A. Phase 2 study of rituximab in the treatment of
+cladribine-failed patients with hairy cell leukemia. Blood 2003; 102: 810–813.
+36. Forconi F, Toraldo F, Sozzi E et al. Complete molecular remission induced by
+concomitant cladribine--rituximab treatment in a case of multi-resistant hairy cell
+leukemia. Leuk Lymphoma 2007; 48: 2441–2443.
+37. Else M, Dearden CE, Matutes E et al. Rituximab with pentostatin or cladribine: an
+effective combination treatment for hairy cell leukemia after disease recurrence.
+Leuk Lymphoma 2011; 52(Suppl. 2): 75–78.
+38. Ravandi F, O’Brien S, Jorgensen J et al. Phase 2 study of cladribine followed by
+rituximab in patients with hairy cell leukemia. Blood 2011; 118: 3818–3823.
+39. Else M, Osuji N, Forconi F et al. The role of rituximab in combination with
+pentostatin or cladribine for the treatment of recurrent/refractory hairy cell
+leukemia. Cancer 2007; 110: 2240–2247.
+40. Seymour JF, Estey EH, Keating MJ, Kurzrock R. Response to interferon-alpha in
+patients with hairy cell leukemia relapsing after treatment with 2chlorodeoxyadenosine. Leukemia 1995; 9: 929–932.
+41. Hoffman MA. Interferon-alpha is a very effective salvage therapy for patients with
+hairy cell leukemia relapsing after cladribine: a report of three cases. Med Oncol
+2011; 28: 1537–1541.
+42. Gerrie AS, Zypchen LN, Connors JM. Fludarabine and rituximab for relapsed or
+refractory hairy cell leukemia. Blood 2012; 119: 1988–1991.
+43. Burotto M, Stetler-Stevenson M, Arons E et al. Bendamustine and rituximab in
+relapsed and refractory hairy cell leukemia. Clin Cancer Res 2013; 19:
+6313–6321.
+44. Kreitman RJ, Tallman MS, Robak T et al. Phase I trial of anti-CD22 recombinant
+immunotoxin moxetumomab pasudotox (CAT-8015 or HA22) in patients with hairy
+cell leukemia. J Clin Oncol 2012; 30: 1822–1828.
+45. Tiacci E, De Carolis L, Zinzani PL et al. Vemurafenib is safe and highly active in
+hairy cell leukemia patients refractory to or relapsed after purine analogs: a phase2 Italian clinical trial. Haematologica 2014; 99(s1): Abstract S696.
+46. Samuel J, Macip S, Dyer MJ. Efﬁcacy of vemurafenib in hairy-cell leukemia. N Engl
+J Med 2014; 370: 286–288.
+47. Sivina M, Kreitman RJ, Arons E et al. The bruton tyrosine kinase inhibitor
+ibrutinib (PCI-32765) blocks hairy cell leukaemia survival, proliferation and B cell
+receptor signalling: a new therapeutic approach. Br J Haematol 2014; 166:
+177–188.
+48. Jansen J, Hermans J. Splenectomy in hairy cell leukemia: a retrospective
+multicenter analysis. Cancer 1981; 47: 2066–2076.
+
+Volume 26 | Supplement 5 | September 2015
+
+clinical practice guidelines
+49. Davies JM, Barnes R, Milligan D; British Committee for Standards in Haematology.
+Working Party of the Haematology/Oncology Task Force. Update of guidelines for
+the prevention and treatment of infection in patients with an absent or
+dysfunctional spleen. Clin Med 2002; 2: 440–443.
+50. Zinzani PL, Bonifazi F, Pellegrini C et al. Hairy cell leukemia: allogeneic
+transplantation could be an optimal option in selected patients. Clin Lymphoma
+Myeloma Leuk 2012; 12: 287–289.
+51. Kiyasu J, Shiratsuchi M, Ohtsuka R et al. Achievement of complete remission of
+refractory hairy cell leukemia by rituximab progressing after allogeneic
+hematopoietic stem cell transplantation. Int J Hematol 2009; 89: 403–405.
+52. Stiles GM, Stanco LM, Saven A, Hoffmann KD. Splenectomy for hairy cell leukemia
+in pregnancy. J Perinatol 1998; 18: 200–201.
+53. Orlowski RZ. Successful pregnancy after cladribine therapy for hairy cell leukemia.
+Leuk Lymphoma 2004; 45: 187–188.
+54. Baer MR, Ozer H, Foon KA. Interferon-alpha therapy during pregnancy in chronic
+myelogenous leukaemia and hairy cell leukaemia. Br J Haematol 1992; 81:
+167–169.
+55. Adeniji BA, Fallas M, Incerpi M et al. Laparoscopic splenectomy for hairy cell
+leukemia in pregnancy. Case Rep Med 2010; 2010: 136823.
+56. Daver N, Nazha A, Kantarjian HM et al. Treatment of hairy cell leukemia during
+pregnancy: are purine analogues and rituximab viable therapeutic options. Clin
+Lymphoma Myeloma Leuk 2013; 13: 86–89.
+57. Saven A, Burian C, Adusumalli J, Koziol JA. Filgrastim for cladribine-induced
+neutropenic fever in patients with hairy cell leukemia. Blood 1999; 93:
+2471–2477.
+58. Treleaven J, Gennery A, Marsh J et al. Guidelines on the use of irradiated blood
+components prepared by the British Committee for Standards in Haematology
+blood transfusion task force. Br J Haematol 2011; 152: 35–51.
+59. Robak T. Hairy-cell leukemia variant: recent view on diagnosis, biology and
+treatment. Cancer Treat Rev 2011; 37: 3–10.
+60. Matutes E, Wotherspoon A, Catovsky D. The variant form of hairy-cell leukaemia.
+Best Pract Res Clin Haematol 2003; 16: 41–56.
+61. Narat S, Gandla J, Dogan A, Mehta A. Successful treatment of hairy cell leukemia
+variant with rituximab. Leuk Lymphoma 2005; 46: 1229–1232.
+62. Yoshida T, Mihara K, Sugihara S et al. Splenectomy followed by administration of
+rituximab is useful to treat a patient with hairy cell leukemia-variant. Ann Hematol
+2013; 92: 711–713.
+63. Kreitman RJ, Wilson W, Calvo KR et al. Cladribine with immediate rituximab for the
+treatment of patients with variant hairy cell leukemia. Clin Cancer Res 2013; 19:
+6873–6881.
+64. Telek B, Batár P, Udvardy M. Successful alemtuzumab treatment of a patient with
+atypical hairy cell leukaemia variant. Orv Hetil 2007; 148: 1805–1807.
+65. Zinzani PL, Lauria F, Buzzi M et al. Hairy cell leukemia variant: A morphologic,
+immunologic and clinical study of 7 cases. Haematologica 1990; 75: 54–57.
+66. Busemann C, Schüler F, Krüger W et al. Late extramedullary relapse after
+allogeneic transplantation in a case of variant hairy cell leukaemia. Bone Marrow
+Transplant 2010; 45: 1117–1118.
+67. Uppal G, Ly V, Wang ZX et al. The utility of BRAF V600E mutation-speciﬁc
+antibody VE1 for the diagnosis of hairy cell leukemia. Am J Clin Pathol 2015; 143:
+120–125.
+68. Brown NA, Betz BL, Weigelin HC et al. Evaluation of allele-speciﬁc PCR and
+immunohistochemistry for the detection of BRAF V600E mutations in hairy cell
+leukemia. Am J Clin Pathol 2015; 143: 89–99.
+69. Wang XJ, Kim A, Li S. Immunohistochemical analysis using a BRAF V600E
+mutation speciﬁc antibody is highly sensitive and speciﬁc for the diagnosis of hairy
+cell leukemia. Int J Clin Exp Pathol 2014; 7: 4323–4328.
+70. Cornet E, Tomowiak C, Tanguy-Schmidt A et al. Long-term follow-up and second
+malignancies in 487 patients with hairy cell leukaemia. Br J Haematol 2014; 166:
+390–400.
+71. Hisada M, Chen BE, Jaffe ES, Travis LB. Second cancer incidence and causespeciﬁc mortality among 3104 patients with hairy cell leukemia: a populationbased study. J Natl Cancer Inst 2007; 99: 215–222.
+72. Dykewicz CA. Summary of the guidelines for preventing opportunistic infections
+among hematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33:
+139–144.
+
+doi:10.1093/annonc/mdv200 | v
+
+

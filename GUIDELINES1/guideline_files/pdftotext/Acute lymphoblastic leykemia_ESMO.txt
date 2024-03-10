@@ -1,0 +1,1512 @@
+clinical practice guidelines
+
+Annals of Oncology 27 (Supplement 5): v69–v82, 2016
+doi:10.1093/annonc/mdw025
+Published online 7 April 2016
+
+Acute lymphoblastic leukaemia in adult patients: ESMO
+Clinical Practice Guidelines for diagnosis, treatment
+and follow-up†
+D. Hoelzer1, R. Bassan2, H. Dombret3, A. Fielding4, J. M. Ribera5 & C. Buske6 on behalf of the
+ESMO Guidelines Committee*
+1
+
+ONKOLOGIKUM Frankfurt am Museumsufer, Frankfurt, Germany; 2Hematology Unit, Ospedale dell’Angelo e Ospedale SS. Giovanni e Paolo, Mestre-Venezia, Italy;
+Institut Universitaire d‘Hematologie Hopital St Louis, Paris, France; 4Cancer Institute, University College London, London, UK; 5Department of Clinical Hematology,
+ICO-Hospital Germans Trias i Pujol, Jose Carreras Research Institute, Universitat Autonoma de Barcelona, Barcelona, Spain; 6CCC Ulm, Institut für Experimentelle
+Tumorforschung, Universitätsklinikum Ulm, Ulm, Germany
+3
+
+incidence and epidemiology
+
+• distinguish B-cell precursor (BCP) ALL from T-cell ALL (T-
+
+The estimated overall incidence of acute lymphoblastic leukaemia
+(ALL) and lymphoblastic lymphoma in Europe is 1.28 per 100 000
+individuals annually, with signiﬁcant age-related variations (0.53 at
+45–54 years, ∼1.0 at 55–74 years and 1.45 at 75–99 years) and that
+of Burkitt leukaemia/lymphoma is between 0.17 and 0.33 in the
+same age groups [1]. These ﬁgures qualify ALL as a rare disease in
+adults, making assessment and care at qualiﬁed centres highly desirable. Predisposing risk factors for adult ALL are not known, contrary to childhood ALL [2]. Therapeutic progress is undeniable as
+shown by large registry data. In Europe, 5-year overall survival
+(OS) improved from 29.8% in the years 1997–1999 to 41.1% in
+2006–2008 (P < 0.0001), still as a function of age. Compared with
+the reference group (age 15–54 years: OS >50%), OS was <30% in
+the 55–64 years age group (hazard ratio 2.05) and <20% in the
+≥65 years age group (hazard ratios 2.71 and 3.75) [3].
+
+• distinguish Burkitt leukaemia (B-ALL) from BCP-ALL (differ-
+
+diagnosis and pathology/molecular
+biology
+A comprehensive diagnostic approach requires the study of cell
+morphology, immunophenotype, genetics/cytogenetics and
+genomics, as detailed in the 2008 World Health Organization
+(WHO) classiﬁcation [4] and recently reviewed [I, A] [5, 6].
+
+morphology/immunophenotype/molecular
+screening
+The initial diagnostic work-up (Table 1) must be carried out
+expeditiously and before any chemotherapy (within 1–2
+working days) to:
+
+• conﬁrm ALL diagnosis,
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4,
+CH-6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+
+ALL),
+
+ent treatment required),
+
+ALL from Ph-negative (Ph−) ALL (different treatment
+required), and
+• shorten time to treatment start.
+Aspiration of bone marrow is a standard procedure, with a core
+marrow biopsy being necessary only in case of insufﬁcient cell
+yield. The bone marrow must contain at least 20% blast cells, as
+a criterion to differentiate ALL from lymphoblastic lymphoma
+with/without marrow involvement, even if therapeutic consequences are very limited. The proportion of circulating blasts is
+highly variable. ALL blasts are atypical lymphoid or undifferentiated cells. Once minimally differentiated acute myelogenous
+leukaemia (AML) has been ruled out, the morphological analysis is uninformative in ALL, if not for the common association
+between FAB L3 morphology and B-ALL [7]. The immunophenotype study plays the key diagnostic role, demonstrating commitment of the blast cell population to the B- or T-cell lineage.
+The European Group for the Immunological Characterization
+of Leukemias (EGIL) recognised distinct BCP/T-ALL subsets,
+providing a rational immunological classiﬁcation along with criteria for differential diagnosis [8]. Original EGIL standards and
+deﬁnitions of mixed-lineage leukaemias (MLLs) variously expressing B-, T- and myeloid-associated antigens were updated and
+improved [9, 10]. Further indications on how to best perform diagnostic ﬂow cytometry were presented by a panel of experts [11].
+The early diagnostic step is completed by a rapid molecular screening by means of reverse transcriptase polymerase chain reaction
+(RT-PCR) or ﬂuorescence in situ hybridisation (FISH) assays primarily for the detection of BCR-ABL1 gene rearrangements, denoting an underlying t(9;22)(q34;q11)/BCR-ABL1 chromosomal
+translocation typical of Ph+ ALL and sensitive to targeted therapy
+with tyrosine kinase inhibitors (TKIs) [I, A] [12].
+
+†
+
+Approved by the ESMO Guidelines Committee: February 2016.
+
+© The Author 2016. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+clinical practice
+guidelines
+
+• distinguish Philadelphia (Ph) chromosome-positive (Ph+)
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 1. Diagnostic work-up in adult ALL
+Diagnostic step
+
+Results/ALL subsets
+
+Recommendations
+
+– Lymphoid/undifferentiated blasts
+(≥20% bone marrow involvement)
+– FAB L3 morphology in Burkitt leukaemia
+– CNS involvement
+
+Mandatory
+
+– MPO negative; B/T markers >20%
+(CD3, CD79a >10%)
+– B-lineage ALL:
+Pro-B/B-I (CD19/CD79a/cCD22+)
+Common/B-II (CD10+/cIgM−)
+Pre-B/B-III (cIgM+/sIg−)
+Mature-B/B-IV (sIg+)
+
+Mandatory
+
+– T-lineage ALL:
+Pro-T/T-I (cCD3/CD7+)
+Pre-T/T-II (CD2/CD5)
+Cortical-T/T-III (CD1a+)
+Mature-T/T-IV (CD3+/CD1a−)
+
+Mandatory
+
+– ALL with adverse clinico-biological features:
+Ph+ ALL (rapid detection, to TKI therapy)
+t(4;11)+ ALL
+t(1;19)+ ALL
+other high-risk cytogenetics
+
+Mandatory
+
+– ALL with adverse clinico-biological features:
+Ph-like ALL
+ETP ALL
+NOTCH1/FBW7-unmutated/RAS/
+PTEN-altered T-ALL
+IKZF1, CLRF2, MLL, TP53, CREBBP,
+RAS alterations
+
+Recommended for
+new clinical trials
+
+MRD study
+– MRD marker(s): LAIP (immunophenotype)/molecular probe (PCR)
+
+– MRD-based risk classification
+
+Mandatory
+
+Storage of diagnostic material
+– Cell banking/storage of DNA/RNA/protein lysates
+
+– Additional/future studies
+
+Highly recommended
+
+HLA typing
+– Patient/siblings
+
+– Early application of SCT if required
+
+Recommended
+
+Morphology
+– Bone marrow and peripheral blood
+– Cerebro-spinal fluid
+
+Immunophenotype
+– MPO (differential diagnosis versus AML)
+– B-lineage markers: CD19, CD79a, cCD22 (at least 2); others: TdT, CD10,
+CD20, CD24, cIgM, sIg (kappa or lambda)
+– T-lineage markers: cCD3; others: TdT, CD1a, CD2, CD5, CD7 CD4,
+CD8, TCR α/β or γ/δ
+– Stem/myeloid cell markers (variable): CD34, CD13, CD33, CD117
+
+Cytogenetics/genetics
+– Cytogenetics/FISH/RT-PCR
+
+– CGH/SNP/GEP/NGS
+
+Recommended
+Mandatory
+
+Mandatory
+
+ALL, acute lymphoblastic leukaemia; CNS, central nervous system; MPO, myeloperoxidase; AML, acute myelogenous leukaemia; c, cytoplasmic; IgM,
+immunoglobulin M; s, surface; Ig, immunoglobulin; FISH, fluorescence in situ hybridisation; RT-PCR, reverse transcriptase polymerase chain reaction;
+Ph+, Philadelphia-positive; TKI, tyrosine kinase inhibitor; CGH, comparative genomic hybridisation; SNP, single nucleotide polymorphism; GEP, gene
+expression profiling; NGS, next-generation sequencing; Ph, Philadelphia; ETP, early T-cell precursor; T-ALL, T-cell ALL; MRD, minimal residual disease;
+LAIP, leukaemia-associated immunophenotype; PCR, polymerase chain reaction; HLA, human leucocyte antigen; SCT, stem-cell transplantation.
+
+cytogenetics/genetics
+Results from cytogenetics, genetics and genomics are available at
+a later stage, allowing the recognition of several ALL syndromes
+with prognostic and/or therapeutic implications (reviewed in
+references [2] and [6]). Standard cytogenetics/FISH and especially RT-PCR are routinely performed to obtain a rapid diagnosis of
+Ph+ ALL and identify other intermediate/high- and high-risk
+karyotypes/gene rearrangements, mainly:
+
+v | Hoelzer et al.
+
+• t(4;11)(q21;q23)/MLL-AFA4,
+
+abn11q23/MLL, t(1;19)(q23;
+p13)/PBX-E2A, t(8;14) or other abn14q32 in non-Burkitt ALL,
+• del(6q), del(7p), del(17p), −7, +8, low hypodiploidy, i.e.
+with 30–39 chromosomes/near triploidy with 60–78 chromosomes,
+• complex (≥5 unrelated clonal abnormalities), and
+• T-ALL lacking NOTCH1/FBXW7 mutations and/or with
+RAS/PTEN abnormalities [I, A] [13–17].
+
+Volume 27 | Supplement 5 | September 2016
+
+clinical practice guidelines
+
+Annals of Oncology
+
+The more prognostically favourable cytogenetic/genetic subsets
+are t(12;21)( p13;q22)/TEL-AML1 + ALL (rare in adults) and
+hyperdiploid ALL, and NOTCH-1/FBXW7-mutated T-ALL.
+
+new genetics/genomics
+The integration of above studies with new genetics/genomics, i.e.
+array-comparative genomic hybridisation, gene expression proﬁling,
+single-nucleotide polymorphism array analysis and next-generation
+sequencing, led to the recognition of highly speciﬁc poor-risk conditions, whose global incidence is ∼30%. These are: Ph-like ALL,
+characterised by a gene expression proﬁle similar to Ph+ ALL and
+associated with IKZF1 deletion, CLRF2 overexpression and tyrosine
+kinase-activating rearrangements involving ABL1, JAK2, PDGFRB
+and several other genes [16]; and early T-cell precursor (ETP) ALL,
+characterised by lack of CD1a and CD8, weak CD5 expression, at
+least one myeloid/stem cell marker, a speciﬁc transcriptional proﬁle
+and the possible involvement of several critical genes [18]. Other
+genetic aberrations that impart an inferior outlook are other MLL
+gene rearrangements, TP53 and CREBBP mutations, and deregulation of RAS signalling components (NRAS, KRAS, FLT3, NF1).
+Although these assays are still investigational and not regularly
+carried out in the clinical practice, they are recommended for new
+clinical trials to improve the risk classiﬁcation and support targeted
+therapies [III, B].
+other. The diagnostic phase is completed by the search for a
+sensitive molecular marker or an aberrant leukaemia-associated
+immunophenotype (LAIP) for the detection and monitoring of
+minimal residual disease (MRD) [III, B] [19]. Human leucocyte
+antigen (HLA) typing of patients and relatives is recommended
+at this stage, to facilitate subsequent application of an early
+stem-cell transplantation (SCT), according to study/treatment
+indications [V, B].
+
+risk assessment and prognostic factors
+While the suggested diagnostic work-up permits the identiﬁcation of some high-risk (HR) subsets, clinical risk groups are
+further deﬁned by several disease-related factors and some host-related factors [20, 21], and the individual prognosis is highly
+reﬁned by ALL response dynamics (Table 2). Patients presenting
+with no risk factors are deﬁned as standard risk (SR). Older age,
+reduced tolerability to treatments and higher white blood cell
+(WBC) count on presentation (reﬂecting higher tumoural
+burden) are universally recognised as independent risk variables
+predicting for lower complete remission (CR) rate and shorter
+CR duration. The kinetics of response to early treatment steps is
+also well recognised and increasingly sought-for prognostic information. This can be obtained through different methodologies and at different treatment times, ranging from pre-phase
+therapy ( prednisone response) to induction day 8–15 (marrow
+blast cell clearance), end of induction (time to CR, MRD) and
+post-induction phase (MRD) [III, A].
+
+minimal residual disease
+Quantiﬁcation of MRD is a major and well-established risk factor
+and should be obtained whenever possible for all patients also
+outside of clinical trials. Methods for MRD evaluation and standardisation of MRD quantifıcation have been intensively described
+[22–24]. Molecular response can be evaluated only for patients in
+complete cytologic remission (Table 3), with one marker or more
+for MRD analysis and samples available at the respective time
+points. Deﬁnition of responses are summarised in Table 3. If
+MRD is measured by ﬂow cytometry, a good MRD response is
+often defıned as less than 10−3, although MRD levels less than
+10−4 can be achieved with the 8–12 colour ﬂow cytometers.
+Achievement of complete molecular remission (molCR)/
+molecular remission is the most relevant independent prognostic factor for disease-free survival (DFS) and OS. Patients with
+
+Table 2. High-risk factors in adult ALL
+Risk factors
+
+Risk subsets (notes)
+
+Recommendations
+
+Patient-related
+– Age (years)
+– Performance status (ECOG score)
+
+– >40/55/65
+– >1
+
+Mandatory
+Highly recommended
+
+Disease-related
+– WBC (×109/l)
+– Immunophenotype (B-T-subsets)
+– Cytogenetics (karyotype)
+– Genetics
+
+–
+–
+–
+–
+
+– Miscellaneous
+
+>30 (B-lineage)/>100 (T-lineage)
+Pro-B/early and mature-T
+Ph+/t(4;11)+/other adverse
+BCR-ABL1+/MLL+/PBX-E2A+/
+Ph-like/IKZF1del/ETP/unmutated NOTCH1
+– Central nervous system involvement
+
+Mandatory
+Mandatory
+Mandatory
+Mandatory
+Recommended for new clinical trials
+Mandatory
+
+Response dynamics
+– corticosteroid sensitivity (blast count after pre-phase)
+– early blast cell response (BM morphology)
+– time to CR (no. of courses)
+– MRD (molecular/LAIP)
+
+–
+–
+–
+–
+
+Recommended
+Recommended
+Mandatory
+Mandatory
+
+Poor prednisone response (≥1 × 109/l)
+Day 8–15 blasts ≥5%
+>1 cycle (late CR)
+MRD+ (post-induction)
+
+ALL, acute lymphoblastic leukaemia; ECOG, Eastern Cooperative Oncology Group; WBC, white blood cells; Ph+, Philadelphia-positive; Ph, Philadelphia;
+ETP, early T-cell precursor; BM, bone marrow; CR, complete remission; MRD, minimal residual disease; LAIP, leukaemia-associated immunophenotype.
+
+Volume 27 | Supplement 5 | September 2016
+
+doi:10.1093/annonc/mdw025 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 3. Response parameters according to MRD
+Terminology
+
+Definitions
+
+CR (complete haematological remission)
+
+– Leukaemic cells not detectable by light microscopy in BM/PB/CSF (BM < 5% blasts)
+
+MolCR (complete molecular remission/MRD negativity)
+
+– Patient in CR
+– MRD not detectable by sensitive molecular probe(s) (sensitivity ≥10−4)
+
+MolR (molecular/MRD response, less than molCR)
+
+– Patient in CR, not in molCR
+– Low-level non-quantifiable MRD (<10−4/0.01%, i.e. <1 leukaemic cell in 10 000)
+– Assessable by MFC (lower detection limit, between 10−3 and 10−4, higher sensitivity
+with 8–12 colour techniques)
+
+MolFail (molecular failure/MRD positivity)
+
+– Patient in CR, not in molCR/molR
+– Quantifiable MRD (≥10−4/0.01%, i.e. ≥1 leukaemic cell in 10 000)
+– Assessable by MFC (lower detection limit, between 10−3 and 10−4)
+
+MolRel (molecular/MRD relapse)
+
+– Patient still in CR, prior molCR/molR
+– Loss of molCR/molR status (≥10−4/0.01%, i.e. >1 leukaemic cell in 10 000)
+– Assessable by MFC (lower detection limit, between 10−3 and 10−4)
+
+Relapse
+
+– Loss of CR status
+– Haematological relapse (BM ALL blasts >5%)
+– Extramedullary relapse (CNS, other site)
+
+MRD, minimal residual disease; BM/PB/CSF, bone marrow/peripheral blood/cerebro-spinal fluid; MFC, multiparameter flow cytometry; ALL, acute
+lymphoblastic leukaemia; CNS, central nervous system.
+
+molCR after induction therapy in several studies had signiﬁcantly superior outcomes, with a DFS of 54%–74%, compared
+with 17%–40% for MRD-positive patients [25–31]. Patients
+with molecular failure (molFail) after induction proceeded to
+allogeneic haematopoietic SCT, and their outcome was thereby
+substantially improved, compared with the chemotherapy-only
+arm [29, 32, 33].
+The question arises as to whether the evaluation of MRD overcomes all of the pre-therapeutic risk factors, or whether MRD
+should be combined with the pre-therapeutic factors [27, 34, 35].
+A practical approach is to bring the conventional prognostic factors
+and MRD into a decision algorithm. At diagnosis, patients are
+stratifıed into SR and HR groups, since HR patients are potential
+candidates for SCT in ﬁrst complete remission (CR1), and an early
+donor search is warranted. However, it is not clear how to proceed
+with HR patients in molCR/molecular remission, although some
+studies suggest a lack of beneﬁt from SCT in these patients. Also,
+MRD is not available for all patients, and the risk stratiﬁcation in
+those patients should rely on conventional risk factors. Overall, a
+rapid yet comprehensive diagnostic approach is essential for accurate risk deﬁnitions and appropriate risk-related treatment choices
+(Figure 1).
+
+treatment of newly diagnosed ALL
+pre-phase therapy and supportive measures
+When the diagnosis is established, treatment should start immediately, preferably in a specialised hospital; that is, physicians
+with experience in the treatment of acute leukaemia, a welltrained nursing staff, sufﬁcient supportive care (e.g. platelet substitution) and access to an intensive care unit. A pre-phase
+therapy with corticosteroids (usually prednisone 20–60 mg/day
+
+v | Hoelzer et al.
+
+or dexamethasone 6–16 mg/day, both i.v. or p.o.) alone, or in
+combination with another drug (e.g. vincristine, cyclophosphamide), is often given together with allopurinol and hydration for
+∼5–7 days. The ﬁrst intra-thecal therapy for central nervous
+system (CNS) prophylaxis is administered in this period in
+some studies. The pre-phase therapy allows a safe tumour reduction, avoiding in most cases a tumour lysis syndrome (TLS)
+[35]. In some cases, rasburicase may be given to prevent TLS. In
+cases with a very high WBC count (e.g. >100 000/µl), either
+measure is sufﬁcient, and a leukapheresis is needed only in very
+rare cases. The time needed for pre-phase therapy will also allow
+to obtain the results of the diagnostic work-up, e.g. cytogenetics,
+molecular genetics. The response to pre-phase therapy deﬁnes
+the chemosensitivity of the disease, and is included in some
+studies for risk assessment, since good responders to prednisone
+may have a better outcome [36].
+Supportive therapy should be initiated whenever necessary
+early on, e.g. to treat infections or to substitute platelets/erythrocytes. Severe neutropaenia (<500/µl) is often seen at diagnosis
+and is most frequent (>80%) during induction therapy, causing
+infections and infection-related death. A joint analysis of ﬁve
+randomised trials revealed a shorter duration of neutropaenia,
+and reduction in the rate of febrile neutropaenia in some but not
+all cases [37], and based on that, prophylactic granulocyte
+colony-stimulating factor should be considered during induction therapy [II, B].
+
+treatment: remission induction therapy
+and consolidation
+induction of complete remission. The goal of induction therapy
+is the achievement of a CR, or even better, a molCR/good
+molecular response, usually evaluated within 6–16 weeks from
+
+Volume 27 | Supplement 5 | September 2016
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Figure 1. Diagnosis and risk assessment in adult ALL for achievement of CR and risk-oriented post-remission therapy. Major diagnostic subsets are identiﬁed
+within 1–2 days to allow start of pre-phase therapy, identify cases eligible to targeted therapy (TKI in Ph+ ALL), and set up the MRD study. Pre-phase therapy
+allows for management/prevention of metabolic/infectious/haemorrhagic complications before start of induction therapy, and checks HLA identity between patient
+and siblings. Induction/early consolidation therapy (incorporating CNS prophylaxis) aims to induce CR with a deep MRD response, to support subsequent riskand MRD-oriented therapy with/without allogeneic SCT. ALL, acute lymphoblastic leukaemia; RT-PCR, reverse transcriptase polymerase chain reaction; MRD,
+minimal residual disease; LAIP, leukaemia-associated immunophenotype; WBC, white blood cells; CR, complete remission; CNS, central nervous system;
+SR, standard risk; HR, high risk; SCT, stem-cell transplantation; TKI, tyrosine kinase inhibitor; Ph+, Philadelphia-positive; HLA, human leucocyte antigen.
+
+start of chemotherapy, after which time the achievement of molCR
+is rather uncommon. Most regimens are centred on vincristine,
+corticosteroids, and anthracycline (daunorubicin, doxorubicin,
+rubidazone, idarubicin), with or without cyclophosphamide or
+cytarabine. L-Asparaginase is the only ALL-speciﬁc drug that
+depletes the asparagine levels and has been particularly explored in
+paediatric trials. It is now more intensively used in adults. Pegylated
+
+Volume 27 | Supplement 5 | September 2016
+
+asparaginase (PEG-Asp) has the advantage of a signiﬁcantly longer
+period of asparagine depletion. Dexamethasone is often preferred to
+prednisone, since it penetrates the blood–brain barrier and also acts
+on resting leukaemic blast cells (LBCs).
+results of induction therapy. There are no randomised trials
+comparing different induction regimens; however, there is a
+
+doi:10.1093/annonc/mdw025 | v
+
+clinical practice guidelines
+substantial number of large (>100 patients) prospective nonrandomised trials. In 6617 patients from 14 studies, the weighted
+mean for the CR rate was 83% (62%–92%) [35]. Using current
+approaches, the CR rate had increased to 80%–90%, higher for SR
+patients at ≥90%, and less in HR patients at ∼75%. There is only one
+randomised study for induction therapy; this compares prednisone to
+dexamethasone [38], demonstrating equal outcome [I, C].
+treatment principles. There are two chemotherapy regimens; one
+is a widespread schema patterned after the paediatric BFM (Berlin–
+Frankfurt–Münster) protocols with Induction I, Induction II,
+Consolidation cycles, sometimes an intermittent re-induction
+cycle, and is mostly used in European adult ALL trials.
+A schematic treatment algorithm in adult ALL, including
+diagnosis and risk assessment for achievement of CR and riskoriented post-remission therapy, is given in Figure 1.
+Another approach is to repeat two different alternating
+intensive chemotherapy cycles, identical for Induction and
+Consolidation, accounting for a total of eight cycles, such as the
+hyper-CVAD (cyclophosphamide, vincristine, doxorubicin, dexamethasone) protocol, preferentially used in the United States, but
+also in other parts of the world.
+post-remission consolidation. The rationale to use systemic
+high-dose (HD) therapy is particularly to reach sufﬁcient drug
+levels in sanctuary sites, such as the CNS. Most protocols employ
+6–8 courses which contain either HD methotrexate or HD
+cytarabine ± asparaginase. HD cytarabine is usually administered
+for 4–12 doses at 1–3 g/m2 and methotrexate at 1–1.5 g/m2 and
+up to 3 g/m2.
+
+maintenance therapy
+Maintenance therapy usually consists of daily 6-mercaptopurine
+and weekly methotrexate. In some treatment regimens, repeated
+cycles of vincristine, dexamethasone or other drugs in monthly
+or longer intervals are given. In one randomised study, the
+maintenance arm with reinforcement cycles was not superior to
+conventional maintenance therapy (37% versus 38% at 8 years)
+[36]. A treatment duration of 2.5–3 years is optimal and is
+usually recommended.
+Omission of maintenance worsens outcome signiﬁcantly in
+BCP-ALL, but less so in T-ALL [39], and not in B-ALL [40].
+
+CNS prophylaxis
+Effective prophylaxis to prevent CNS relapse is an essential part of
+ALL therapy. Treatment modalities of CNS prophylaxis are CNS
+irradiation, intra-thecal (i.th.) methotrexate, mono- or i.th. triple
+(usually methotrexate, steroids, cytarabine) and systemic HD
+therapy with either methotrexate and/or cytarabine. With a combination of these CNS prophylactic measures, the CNS relapse
+rate in recent adult ALL trials could be reduced from 10% to <5%.
+CNS irradiation is also effective to eradicate residual LBCs in the
+CNS; however, in most studies, it is either omitted or restricted to
+HR patients. Furthermore, it is given only as an irradiation of the
+skull (mostly 24 Gy), and no longer of the whole neuroaxis, since
+this aggravates cytopaenias. Patients with CNS involvement
+(mostly of the leptomeninges) at diagnosis are treated with the
+standard chemotherapy regimen, and additional i.th. applications
+
+v | Hoelzer et al.
+
+Annals of Oncology
+
+until blast clearance in the spinal ﬂuid. Their OS is identical to the
+CNS-negative cohort of patients, or slightly inferior [41].
+
+age-adapted protocols
+The outcome of ALL is strictly related to the age of a patient, with
+cure rates from 80% to 90% in childhood ALL, decreasing to
+<10% in elderly/frail ALL patients. Therefore, age-adapted protocols have emerged, where the age limits are mainly directed by the
+haematological and non-haematological toxicities. Although there
+is no uniform consensus, the following age groups are separated:
+
+• Adolescents and young adults (AYA), differently deﬁned
+from 15/18 to 35/40 years,
+
+• Adult ALL, age range 35/40 up to ≤55/60 years,
+• Elderly ALL protocols for patients above the age of >55/60
+years, and
+
+• Frail patients not suitable for any intensive therapy, usually
+considered above the age of 70/75 years.
+adolescents and young adults. Paediatric-inspired therapy provides
+an increased drug intensity at several treatment steps, including
+larger cumulative doses of drugs such as corticosteroids, vincristine,
+L-asparaginase and consequent CNS-directed therapy, which
+should be strictly adhered to, with a reduced role of SCT. In a
+systemic review and meta-analysis in 2012, in 11 trials including
+2489 AYA patients, paediatric-inspired regimens were superior
+to conventional adult chemotherapy [42]. None of the trials
+were a randomised comparison. In recent studies for AYAs [43–
+45], survival rates at 5 years were 67%–78%, compared with
+34%–41% with the former protocols.
+adult ALL. The treatment results for adult ALL patients have
+also improved. In the above-mentioned 14 studies, the weighted
+mean for DFS was 34% (25% at 5 years, 48% at 3 years) and the
+OS 38% (27% at 9 years, 54% at 5 years). Currently, the OS rates
+for SR adult ALL patients is 50%–70% with chemotherapy alone.
+The outcome for HR patients has also improved, from 20%–30%
+to ∼50% when they receive an allogeneic SCT in CR1. Prospective
+adult studies applying the same drugs and time–dose intensity,
+using or not using the term ‘paediatric-inspired’, or some using
+the term ‘paediatric-derived’, achieved identical results compared
+with AYAs, with survival rates of 60%–70% or more [46–49].
+elderly ALL. The incidence of ALL is increasing after the age of
+50 years [50]. Different approaches have been applied in this
+patient cohort [51]. Older patients (55–91 years) with a palliative
+treatment had a CR rate of 43% (34%–53%), an early death rate
+of 24% (18%–42%) and an OS of only 7 months (3–10 months).
+In contrast, those with an intensive chemotherapy designed for
+adult ALL had a CR rate of 56% (40%–81%), but still an early
+death rate of 23% (6%–42%), and an OS of 14 months (3–29
+months). In recent decades, several elderly speciﬁc ALL protocols
+have been initiated. Their principle is a less intensive therapy,
+based on corticosteroids, vincristine and asparaginase, and largely
+avoiding anthracyclines and alkylating agents, to reduce early
+treatment-related death. In nine prospective studies for older ALL
+patients (55–81 years), with this less intensive protocol, the CR
+rate was 71% (43%–90%), early death decreased to 15% (0%–36%)
+
+Volume 27 | Supplement 5 | September 2016
+
+Annals of Oncology
+
+and OS was signiﬁcant at 33 months (16–71 months). Thus, all
+patients, irrespective of age, should be offered a treatment.
+
+targeted therapies
+There is still a need to improve the outcome in adult and elderly
+ALL that is achieved with chemotherapy/SCT alone. Currently,
+there are two major new approaches, particularly for B-lineage
+ALL patients; either therapies with antibodies, or, for Ph+ ALL,
+targeted therapies with TKIs.
+antibodies. The anti-CD20 MoAb rituximab has substantially
+improved the outcome in Burkitt leukaemia/lymphoma, as
+demonstrated by a single randomised trial [52]. Repeated short
+cycles of intensive chemotherapy, combined with rituximab
+increased OS from 62% to 83% (reviewed in [40]). The antiCD20 antibody is also being applied in CD20-positive de novo Blineage ALL, with encouraging results [53], and randomised trials
+are ongoing. The monoclonal antibodies directed against CD22,
+linked to cytotoxic agents, either to calicheamicin (inotuzumab
+ozogamicin) or to plant or bacterial toxins (epratuzumab), are
+explored in refractory/relapsed childhood and adult ALL [54].
+Targeting CD19 is of great interest, as it is expressed in all Blineage cells, most likely including early lymphoid precursor cells.
+The bispeciﬁc antibody blinatumomab combines single chain
+antibodies to CD19 and CD3, and thereby T cells lyse the CD19bearing B cells. It is effective in patients with positive MRD [55]
+or refractory/relapsed ALL [56]. The CD19 antigen is also the
+target for a promising new approach, the use of chimaeric antigen
+receptor-modiﬁed T cells (CAR T cells) [57, 58].
+In T-ALL, speciﬁc antibodies as in B-lineage ALL are not
+available. The few new drugs under investigation are nelarabine,
+which is active in advanced disease [59, 60] (currently evaluated
+in ﬁrst-line therapy), and γ-secretase inhibitors blocking Notch1
+signalling.
+tyrosine kinase inhibitors in Ph+ ALL. When compared with
+the pre-imatinib era [61, 62], CR rates improved from 60%–70%
+to 80%–90% or even higher and short-term outcome was much
+better in relatively small non-randomised studies, which mostly
+simply added imatinib to their previous standard chemotherapy
+regimens in Ph+ ALL patients [63, 64]. These marked
+improvements were then conﬁrmed in the long term [65–68],
+with survival reaching ∼50%, compared with ≤20% in the preimatinib era, making combined imatinib/chemotherapy the
+standard treatment of Ph+ ALL. Early enthusiasm was such that
+even the place of allogeneic SCT in ﬁrst CR (which was
+considered as the only curative option for Ph+ ALL patients) was
+challenged. Nevertheless, a recent prospective trial from the
+GRAALL (Group for Research on Adult Acute Lymphoblastic
+Leukemia) suggests that allogeneic SCT is still associated with a
+better relapse-free survival in younger Ph+ ALL patients [69].
+These younger patients may receive standard myeloablative
+conditioning (MAC), but the role of reduced-intensity
+conditioning (RIC)-SCT in older patients remains to be
+prospectively evaluated. After SCT, a recent randomised study
+from the GMALL (German Multicenter Study Group for Adult
+Acute Lymphoblastic Leukemia) suggests that prophylactic
+imatinib maintenance is probably the best option to prevent post-
+
+Volume 27 | Supplement 5 | September 2016
+
+clinical practice guidelines
+SCT relapse after MAC-SCT [70]. This remains to be studied
+after RIC-SCT.
+Whether a subset of good-risk patients may be treated with
+continuous TKI/chemotherapy and be proposed allogeneic SCT
+in ﬁrst CR is still under evaluation, as is the optimal TKI/
+chemotherapy combination that could be offered to such
+patients. Achievement of a good early MRD response (here evaluated on BCR-ABL1 transcript levels) might be of great help in
+deﬁning these good-risk patients [71]. In older Ph+ ALL
+patients, usually not candidates for allogeneic SCT, a poor MRD
+response but also the presence of additional chromosomal abnormalities at diagnosis were both associated with a worse
+outcome [72]. It has also been shown that the presence of IKZF1
+gene deletion, a frequent event in Ph+ ALL, may be of poor
+prognostic value, as also observed in Ph− ALL patients [73, 74].
+The last issue relies on which is the best TKI/chemotherapy
+front-line combination. Usually, TKI therapy is initiated in frontline therapy together with the ﬁrst chemotherapy cycle. A continuous TKI exposure should be favoured, even if a few weeks off
+may be needed to limit myelosuppression [75]. To date, there is
+no comparative study evaluating second-generation TKIs (nilotinib, dasatinib) versus imatinib as ﬁrst-line treatment. The use
+of nilotinib and dasatinib may result in achieving a good MRD
+response more quickly, which could be of interest before SCT. On
+the other hand, more potent TKIs could induce a higher incidence of rate of resistance mutation, as was observed with T315I
+mutations at relapse in older patients receiving front-line dasatinib [72]. Combination of TKIs with dose-reduced chemotherapy
+should probably be preferred, compared with standard intensive
+chemotherapy/TKI combinations [76]. This has been randomly
+demonstrated in the GRAAPH-2005 trial, with lower early mortality and higher CR rate in patients receiving imatinib, combined
+with less intensive chemotherapy compared with those receiving
+Hyper-CVAD/imatinib [69]. GIMEMA (the Italian Group for
+Haematological Diseases in Adults) has also reported very good
+response rates and short-term outcomes in older patients treated
+almost exclusively with front-line dasatinib [77]. Once CR has
+been reached, autologous SCT might also be a good option, at
+least in patients who have reached a good MRD response, or in
+those who cannot tolerate allogeneic SCT [69, 78, 79].
+In patients with persistent MRD or progressive disease, the
+recommendation is to switch to another TKI while screening for
+TKI resistance mutations and then to adapt TKI choice according to the resistance proﬁle. The third-generation TKI ponatinib
+is currently the only option in patients progressing with the
+T315I mutation.
+tyrosine kinase inhibitors in Ph-like ALL. TKIs might be also
+used as targeted treatment in some patients with Ph− ALL. The
+Ph-like entity has recently been described as associated with a
+gene expression signature similar to Ph+ ALL, but with no Ph
+chromosome or BCR-ABL1 rearrangement. Kinase-activating
+events, including ABL1 itself, PDGFR-beta, JAK2 or other kinases
+are frequently found in this poor-prognosis ALL subset [16], and
+some remarkable cases of TKI treatment success have been
+reported in these patients [80, 81]. Imatinib, dasatinib or even
+ruxolitinib could thus be evaluated in these patients, who
+frequently have primary refractory ALL or very early relapse. See
+Table 4.
+
+doi:10.1093/annonc/mdw025 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 4. Recommendations for TKI/chemotherapy combinations in adults with Ph+ ALL
+Recommendation
+Adults with Ph+ ALL should be treated front line with a combination of imatinib or second-generation TKI and chemotherapy.
+Reduced-intensity chemotherapy may be used in combination with TKI during the first treatment cycles, to minimise early toxicity
+and mortality.
+TKI should be administered as continuously as possible, with respect to haematological tolerance.
+There is no standard post-remission treatment in patients not receiving allogeneic SCT because of no donor or advanced age.
+Prolonged administration of imatinib/consolidation chemotherapy followed by imatinib maintenance should be applied.
+Allogeneic SCT in first CR with a standard myeloablative conditioning probably remains the best post-remission option in younger
+patients with a donor. The role of reduced-intensity conditioning allogeneic SCT remains to be evaluated in this ALL subset.
+Post-SCT imatinib maintenance is recommended for 1–2 years of duration.
+Prolonged monitoring of BCR-ABL1 MRD levels is recommended, associated with resistance mutation screening in patients with
+persistent MRD detection or re-increasing MRD levels. Results should be used to guide the switch towards a second- or thirdgeneration TKI in these higher risk patients.
+
+Mandatory
+Recommended
+Recommended
+Recommended
+Recommended
+Recommended
+Recommended
+
+TKI, tyrosine kinase inhibitor; Ph+, Philadelphia-positive; ALL, acute lymphoblastic leukaemia; SCT, stem-cell transplantation; CR, complete remission;
+MRD, minimal residual disease.
+
+stem-cell transplantation
+Despite the existence of studies and meta-analyses comparing
+chemotherapy and SCT [82], the issue of the indications of SCT
+in adult ALL patients in ﬁrst CR is not deﬁned in a satisfactory
+way and requires continuous update. This is due to the improving results with conventional and targeted chemotherapy regimens on one hand and to the decreasing mortality and broader
+availability of SCT on the other. Several attempts have been
+made to provide evidence-based guidelines for indication of
+SCT (Table 5, ref. [83]) [84–86] [V, A]. From these guidelines,
+the OS for SCT was superior to chemotherapy in HR patients
+[I, A], but left the role of SCT in SR open [I, C]. On the
+other hand, there is a general agreement that SCT is clearly
+the best therapeutic option for patients in second or later CR
+[III, A].
+Some important issues emerged from the results of recent
+studies:
+1) Whether or not SCT should be offered to AYA with SR factors
+treated with paediatric-based or -inspired protocols that
+provide long-term OS rates ∼70% [87]. In view of these
+results, most groups skip SCT in these patients to avoid acute
+mortality and long-term effects [III, B].
+2) The use of MRD (the most important prognostic factor
+in ALL) to guide the decision of chemotherapy or SCT after
+consolidation. Data from recent studies have shown that SCT
+offers better results than chemotherapy in patients with high
+MRD levels after consolidation, regardless of the conventional risk factors at baseline [29] [III, A]. The question remains
+whether SCT is justiﬁed in patients with conventional HR
+features but low or negative MRD after consolidation, for
+whom OS rates >50% are expected with chemotherapy [29,
+31–33]. Phase III studies addressing this point are desirable,
+because the trials included in the most recent meta-analysis
+[82] did not incorporate the MRD analysis as a decision tool.
+3) The indication for the different types of SCT. Regarding allogeneic SCT, there is increasing evidence that sibling and very wellmatched, unrelated donors (MUD) SCT can be considered
+equivalent options in terms of results and, therefore, MUD
+
+v | Hoelzer et al.
+
+SCT can be offered to patients lacking a sibling donor [IV, A].
+Umbilical cord blood can be an alternative source when
+an HSCT is needed urgently or when the search for a very
+well-matched, unrelated donor is unsuccessful [88–90].
+Haploidentical SCT could be an option in patients without a
+matched sibling or MUD, but prospective comparative studies
+are lacking. In turn, autologous SCT is considered inferior to
+chemotherapy and to allogeneic SCT [91] [I, A], but could be
+reconsidered in MRD-negative patients [92] unﬁt for allogenic
+SCT [IV, D], as has been shown in patients with Ph+ ALL [71].
+4) The intensity of the conditioning. There is no standard MAC
+regimen, but total body irradiation-based regimens seem to
+have better anti-leukaemic activity than busulfan-based preparative regimens [93] [IV, B]. RIC regimens are increasingly
+considered as an option for elderly HR patients or patients with
+contraindications for MAC-SCT [84, 94] [IV, B], but no prospective comparative studies between these two types of preparative regimens have been conducted in young, ﬁt patients.
+5) The need for SCT in speciﬁc genetically deﬁned groups of
+ALL, such as BCR-ABL1-positive (as previously reviewed) or
+MLL-positive cases. Allogeneic SCT is currently carried out
+for MLL-rearranged ALL in most trials and, in the largest
+study conducted to date, better results have been observed
+compared with chemotherapy [95] [IV, A].
+
+treatment of relapsed or refractory ALL
+Relapsed ALL in adults is still a major clinical challenge. There
+is no universally accepted treatment protocol and a lack of evidence based on randomised, controlled trials. However, there is
+consensus on the general approach to managing these patients.
+
+diagnostic work-up
+Therapy-related AML should be excluded. Enumeration of
+CD19, CD20 and CD22 expression on blast cells is important as
+it may have therapeutic relevance. Cytogenetic evaluation should
+take into account fusion proteins that may indicate a BCR-ABLlike phenotype [16, 81]. If allogeneic SCT is a possible therapeutic
+option, and if this was not done at diagnosis, the HLA proﬁling
+of the patient and siblings should be carried out urgently, and an
+
+Volume 27 | Supplement 5 | September 2016
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 5. Recommendations for SCT in adult ALL (data from [83])
+Question
+
+Recommendations
+
+CR1. AutoSCT versus nontransplantation
+
+– Not recommended outside a clinical trial
+– Maintenance therapy, biological therapy, or TKIs may improve outcomes in selected patients
+
+CR1. AlloSCT versus nontransplantation
+
+– AlloSCT recommended in all patients with poor early MRD response
+– AlloSCT not recommended in SR patients with sustained molecular response
+– Indication unclear in HR patients with sustained molecular response
+
+CR ≥2. AlloSCT versus
+non-transplantation
+
+– AlloSCT superior
+
+AlloSCT versus autoSCT
+
+– Advantage for alloSCT
+– Insufficient data in patients with negative MRD levels, including Ph+ ALL
+
+Sibling donor versus MUD
+
+– Similar, and possibly equivalent survival outcomes
+
+UD CBT versus UD BMT
+
+– Consider CBT if no HLA-well-matched donor or need for urgent SCT
+– Haploidentical SCT should also be considered in this setting
+
+Conditioning regimens
+
+– Benefit of TBI regimens for myeloablative SCT
+– RIC regimens appropriate only for adults in remission unfit for myeloablative conditioning and elderly fit
+patients
+
+Areas of research needed
+
+Comments
+
+AlloSCT versus more intensive/specific
+CHT regimens
+
+– Re-evaluate, especially in the context of biological therapies and TKIs
+
+MRD to guide therapy in ALL
+
+– Increasing importance of the monitoring of MRD during initial treatment to guide individual patient
+eligibility and timing of allogeneic SCT
+
+MRD monitoring after SCT
+
+– To detect early post-SCT relapse for pre-emptive therapy
+– Effective therapies are under development
+
+RIC versus MAC regimens
+
+– Further studies needed, adjusted for a patient’s tolerance of conditioning toxicity balanced against the
+risk of relapse
+
+CBT techniques
+
+– Single unit, double unit, ex vivo expansion, third-party donor. Larger multicentre experience needed to
+evaluate the broader applicability of CB grafting for adults with ALL
+
+Haploidentical SCT
+
+– Comparative studies with SCT from other sources needed (non-randomised comparisons show similar
+results)
+
+QoL and functional status after
+successful SCT
+
+– Evaluation and measures for improvement needed
+
+SCT, stem-cell transplantation; ALL, acute lymphoblastic leukaemia; CR1, first complete remission; autoSCT, autologous stem-cell transplantation; TKIs,
+tyrosine kinase inhibitors; alloSCT, allogeneic stem-cell transplantation; MRD, minimal residual disease; SR, standard risk; HR, high risk; CR ≥2, second or
+later complete remission; Ph+, Philadelphia-positive; MUD, matched unrelated donor; UD, unrelated donor; CBT, cord blood transplantation; BMT, bone
+marrow transplantation; HLA, human leucocyte antigen; TBI, total body irradiation; RIC, reduced-intensity conditioning; CHT, chemotherapy; MAC,
+myeloablative conditioning; CB, cord blood; QoL, quality of life.
+
+unrelated donor search should be initiated if a sibling match is
+not available. In the case of Ph+ ALL, BCR-ABL1 tyrosine kinase
+domain mutations should be evaluated [96].
+Overall evaluation of the clinical situation should take into
+account the disease-speciﬁc factors (BCP-ALL or T-ALL, BCRABL1 status), patient factors (age, performance status, organ
+function and presence of extramedullary disease, in particular
+CNS), previous therapy (with particular reference to prior allograft, anthracycline dose) and speciﬁc toxicities of prior treatment
+which might guide therapeutic selection (e.g. osteonecrosis, vinca
+alkaloid neuropathy and speciﬁc infectious complications such as
+fungal infections).
+
+Volume 27 | Supplement 5 | September 2016
+
+treatment principles
+Treatment with a curative aim involves achievement of CR followed by allogeneic SCT. In four large trials, the outcome was
+very similar [59, 97–99]. The rate of second CR achieved was
+44%–45%, the median OS 4.5–8.4 months (24% at 3 years in one
+study). Long duration of ﬁrst CR (>2 years), then re-induction
+with a standard induction regimen—such as that used for original
+treatment—may be used [59, 97–99]. Short ﬁrst CR or primary
+refractory disease is a very high-risk situation, and consideration
+should immediately be given to the availability of trials of novel
+agents that may be non-cross-resistant with chemotherapy. For
+BCP-ALL, such agents are now more widely available. Both
+
+doi:10.1093/annonc/mdw025 | v
+
+clinical practice guidelines
+blinatumomab [56] and inotuzumab [96] have shown promising
+results in phase II studies and are being evaluated in randomised,
+controlled trials where the comparator arm is ‘standard of care’
+chemotherapy. A clinical trial involving immunotherapy with
+CD19 CAR T-cell therapy [58] is also a possibility.
+chemotherapy for relapsed ALL. The most commonly used
+regimens in Europe are ﬂudarabine- and anthracycline-containing
+regimens, for example, FLAG-Ida (ﬂudarabine, high-dose ara-C,
+
+Annals of Oncology
+
+granulocyte colony-stimulating factor and idarubicin). Despite its
+common use and inclusion as ‘standard of care’ arm in current
+randomised, controlled trials of relapsed ALL, there is remarkably
+little published on FLAG-Ida in relapsed ALL [97]. Clofarabinebased regimens including cytarabine, cyclophosphamide or
+etoposide are also commonly used based mostly on data in
+childhood ALL [98]. Liposomal vincristine [99] is licensed for the
+treatment of relapsed ALL. These standard chemotherapy
+approaches are applicable in BCP-ALL as well as in T-ALL.
+
+Table 6. Summary of recommendations for adult ALL
+Diagnostic work-up of ALL
+
+•
+•
+•
+•
+
+Morphology, immunophenotype and cytogenetics to confirm the diagnosis and ALL subsets are mandatory
+New genetics and molecular genetics are recommended to detect rare subtypes, such as Ph-like ALL, ETP ALL
+Targets for therapy with TKIs or antibodies have to be identified
+Minimal residual disease by immunophenotype or molecular probe at diagnosis, for MRD-based risk classification and treatment algorithm, mandatory
+
+Risk assessment and prognostic factors
+
+•
+•
+•
+
+It is essential to stratify patients as standard-risk or high-risk patients
+Risk stratification is currently determined by a combination of prognostic factors at diagnosis and treatment-related parameters, preferentially MRD
+MRD during therapy is now the most relevant prognostic parameter for treatment decisions
+
+Treatment
+Treatment algorithm
+
+•
+•
+•
+
+Chemotherapy includes induction therapy 1–2 months, consolidation cycles (alternating) 6–8 months and maintenance therapy 2–2.5 years
+Ongoing chemotherapy protocols for AYAs use paediatric-type regimens
+Prophylactic treatment to prevent CNS relapse is mandatory
+
+Antibody therapy
+
+•
+•
+•
+•
+•
+
+Anti-CD20 rituximab in combination with a chemotherapy is strongly recommended for Burkitt leukaemia/lymphoma
+Anti-CD22 immunoconjugates directed against CD22 currently under investigation
+Anti-CD19; activation of patients’ own T cells directed against CD19
+Bispecific (CD3/CD19) blinatumomab under investigation
+Chimaeric antigen receptor-modified T cells directed against CD19 in early phase
+
+Targeted therapy with TKIs in Ph+ ALL
+
+•
+•
+•
+
+A TKI should be combined with chemotherapy in front-line therapy
+The TKI imatinib (400–800 mg/day) should be administered continuously, also post-SCT
+Prolonged monitoring of BCR-ABL-1 MRD is recommended, as well as resistance mutation screening. In case of persisting MRD, increasing MRD
+level, or resistance mutation, switch to a second- or third-generation TKI
+
+SCT
+
+•
+•
+•
+•
+
+AlloSCT in CR1 significantly improves OS and EFS in high-risk patients/MRD+ patients and is the best post-remission option for Ph+ ALL and
+MLL-rearranged ALL
+Conditioning regimens are age-adapted with full allo versus RIC for elderly patients or patients unfit for full conditioning
+The role of autoSCT should be investigated for MRD-negative patients, in the setting of clinical trials
+All patients in CR ≥2 are candidates for alloSCT
+
+Approach for relapsed/ refractory ALL
+
+•
+•
+•
+
+Full diagnostic work-up necessary to exclude/reveal clonal aberrations, and to provide bases for targeted therapies
+Different treatment for patients with short versus long first remission duration (>18/24 months) where re-induction is considered
+Treatment; there is no standard re-induction therapy established, most often used new drugs
+
+ALL, acute lymphoblastic leukaemia; Ph, Philadelphia; ETP, early T-cell precursor; MRD, minimal residual disease; AYAs, adolescents and young adults;
+CNS, central nervous system; TKI, tyrosine kinase inhibitor; Ph+, Philadelphia-positive; SCT, stem-cell transplantation; alloSCT, allogeneic SCT; CR1, first
+complete remission; OS, overall survival; EFS, event-free survival; RIC, reduced-intensity conditioning; autoSCT, autologous SCT; CR ≥2, second or later
+complete remission.
+
+v | Hoelzer et al.
+
+Volume 27 | Supplement 5 | September 2016
+
+Annals of Oncology
+
+Table 7. Levels of evidence and grades of recommendation
+(adapted from the Infectious Diseases Society of America-United
+States Public Health Service Grading Systema)
+Levels of evidence
+I
+
+II
+
+III
+IV
+V
+
+Evidence from at least one large randomised, controlled trial of
+good methodological quality (low potential for bias) or metaanalyses of well-conducted randomised trials without
+heterogeneity
+Small randomised trials or large randomised trials with a
+suspicion of bias (lower methodological quality) or metaanalyses of such trials or of trials with demonstrated
+heterogeneity
+Prospective cohort studies
+Retrospective cohort studies or case–control studies
+Studies without control group, case reports, experts opinions
+
+Grades of recommendation
+A
+B
+C
+
+D
+E
+
+Strong evidence for efficacy with a substantial clinical benefit,
+strongly recommended
+Strong or moderate evidence for efficacy but with a limited
+clinical benefit, generally recommended
+Insufficient evidence for efficacy or benefit does not outweigh
+the risk or the disadvantages (adverse events, costs, …),
+optional
+Moderate evidence against efficacy or for adverse outcome,
+generally not recommended
+Strong evidence against efficacy or for adverse outcome, never
+recommended
+
+a
+
+By permission of the Infectious Diseases Society of America [100].
+
+Additionally, nelarabine is licensed for this indication, and a
+response rate of about 50% is noted [59]. Myelotoxicity is mild to
+moderate, but the neurotoxicity can be severe and irreversible.
+Co-administration with agents used to treat CNS disease can
+increase the risk.
+
+Ph+ ALL. Patients with relapsed Ph+ ALL should be offered the
+new generations of TKIs, according to the results of mutational
+analysis of their BCR-ABL1 transcripts. Patients who have lost
+response to imatinib may respond to nilotinib or dasatinib and
+there is even an option, ponatinib, for patients with the T315I
+mutation. Although TKIs are not without adverse events
+(ponatinib, in particular, carries a risk of cardiovascular events),
+they are nonetheless a vastly superior option compared with
+repetitive treatment with myelosuppressive chemotherapy, as they
+preserve performance status and are better tolerated by elderly
+patients. There is no evidence of long-term survival induced by
+TKIs post-relapse and the majority of patients will have to receive
+allogeneic SCT. Second allografts are being reported, and there are
+case reports of good outcomes, although of uncertain long-term
+beneﬁt.
+Even in a palliative setting BCR-ABL1, kinase domain mutational analysis should be carried out and used to guide therapy
+with TKIs and to monitor treatment response and impending
+relapse.
+
+Volume 27 | Supplement 5 | September 2016
+
+clinical practice guidelines
+personalised medicine
+Progress in the diagnosis of ALL with identiﬁcation of genomicdeﬁned sub-entities, the evaluation of MRD, and new targeted
+therapies have led to a substantial realisation of personalised
+medicine in adult ALL. Current options such as less intensive
+chemotherapy, new modalities of SCT, incorporation of targeted
+therapies and optimal combinations of treatments require prospective, cooperative research, hereby further reﬁning the individualised approach to each patient.
+
+follow-up and long-term implications
+The follow-up of asymptomatic patients should include blood
+cell counts and routine chemistry during maintenance therapy;
+usually every 2 weeks during the ﬁrst 2 years to adjust treatment
+accordingly. Thereafter, follow-up should be 3-monthly in years
+1, 2 and 3, since the majority of relapses occur within the ﬁrst
+2.5 years after initiation of treatment; then half-yearly in the 4th
+and 5th year. For evaluation of MRD, which is now the most important prognostic parameter, bone marrow aspiration is
+required 3-monthly. It is also desirable in Ph+ MRD to search
+for MRD (BCR-ABL) and, if possible, for mutations to switch to
+another TKI inhibitor.
+In adults, adverse long-term effects are fewer compared with
+children with ALL, and most adult ALL patients are in good
+clinical conditions. Relevant late toxicities are: endocrinological
+disorders (thyroid, gonadal), osteonecrosis/osteoporosis, skin
+and mucosal disorders, cataract, cardiovascular disorders, infection, graft versus host disease/sicca syndrome, fatigue and cognitive disorders. Second malignancies can also occur but with a
+low frequency (<3%) after chemotherapy as well as SCT. Longterm observation including quality-of-life assessment of cured
+ALL patients is an essential part of treatment optimisation
+studies.
+
+methodology
+These clinical practice guidelines were developed in accordance
+with the ESMO standard operating procedures for clinical practice guidelines development, http://www.esmo.org/Guidelines/
+ESMO-Guidelines-Methodology. The relevant literature has
+been selected by the expert authors. A summary of recommendations is presented in Table 6. Levels of evidence and grades of
+recommendation have been applied using the system is provided
+in Table 7. Statements without grading were considered justiﬁed
+standard clinical practice by the experts and the ESMO faculty.
+This manuscript has been subjected to an anonymous peer
+review process.
+
+conﬂict of interest
+DH has reported advisory boards for Amgen, Pﬁzer, Erytech
+and Bristol-Myers Squibb. AF has reported advisory boards for
+Amgen and Pﬁzer. CB has reported honoraria from Roche,
+Pﬁzer, Celgene, Pharmacyclics and Janssen and research grants
+from Roche and Janssen. RB, JR and HD have reported no potential conﬂicts of interest.
+
+doi:10.1093/annonc/mdw025 | v
+
+clinical practice guidelines
+references
+1. Sant M, Allemani C, Tereanu C et al. Incidence of hematologic malignancies in
+Europe by morphologic subtype: results of the HAEMACARE project. Blood 2010;
+116: 3724–3734.
+2. Inaba H, Greaves M, Mullighan CG. Acute lymphoblastic leukaemia. Lancet
+2013; 381: 1943–1955.
+3. Sant M, Minicozzi P, Mounier M et al. Survival for haematological malignancies in
+Europe between 1997 and 2008 by region and age: results of EUROCARE-5, a
+population-based study. Lancet Oncol 2014; 15: 931–942.
+4. Jaffe ES, Harris NL, Stein H et al. Introduction and overview of the classiﬁcation
+of the lymphoid neoplasms. In Swerdlow SH, Campo E, Harris NL et al. (eds),
+WHO Classiﬁcation of Tumours of Haematopoietic and Lymphoid Tissue. Lyon:
+IARC, 2008; 158–166.
+5. Foà R, Guarini A, Vitale A. Approach to the patient with a suspect of ALL. In
+Goekbuget N, Bassan R, Dombret H et al. (eds), Recommendations of the
+European Working Group for Adult ALL. Bremen-London-Boston: UNI-MED
+Verlag AG, 2011; 24–31.
+6. Chiaretti S, Zini G, Bassan R. Diagnosis and subclassiﬁcation of acute
+lymphoblastic leukemia. Mediterr J Hematol Infect Dis 2014; 6: e2014073.
+7. Bennett JM, Catovsky D, Daniel MT et al. The morphological classiﬁcation of
+acute lymphoblastic leukaemia: concordance among observers and clinical
+correlations. Br J Haematol 1981; 47: 553–561.
+8. Béné MC, Castoldi G, Knapp W et al. Proposals for the immunological classiﬁcation
+of acute leukemias. European Group for the Immunological Characterization of
+Leukemias (EGIL). Leukemia 1995; 9: 1783–1786.
+9. Béné MC, Nebe T, Bettelheim P et al. Immunophenotyping of acute leukemia
+and lymphoproliferative disorders: a consensus proposal of the European
+LeukemiaNet Work Package 10. Leukemia 2011; 25: 567–574.
+10. Matutes E, Pickl WF, van’t Veer M et al. Mixed-phenotype acute leukemia:
+clinical and laboratory features and outcome in 100 patients deﬁned according to
+the WHO 2008 classiﬁcation. Blood 2011; 117: 3163–3171.
+11. van Dongen JM, Lhermitte L, Böttcher S et al. EuroFlow antibody panels for
+standardized n-dimensional ﬂow cytometric immunophenotyping of normal,
+reactive and malignant leukocytes. Leukemia 2012; 26: 1908–1975.
+12. Gleissner B, Gökbuget N, Bartram CR et al. Leading prognostic relevance of the
+BCR-ABL translocation in adult acute B-lineage lymphoblastic leukemia: a
+prospective study of the German Multicenter Trial Group and conﬁrmed
+polymerase chain reaction analysis. Blood 2002; 99: 1536–1543.
+13. Moorman AV, Harrison CJ, Buck GA et al. Karyotype is an independent prognostic
+factor in adult acute lymphoblastic leukemia (ALL): analysis of cytogenetic
+data from patients treated on the Medical Research Council (MRC) UKALLXII/
+Eastern Cooperative Oncology Group (ECOG) 2993 trial. Blood 2007; 109:
+3189–3197.
+14. Pullarkat V, Slovak ML, Kopecky KJ et al. Impact of cytogenetics on the outcome
+of adult acute lymphoblastic leukemia: results of Southwest Oncology Group
+9400 study. Blood 2008; 111: 2563–2572.
+15. Mancini M, Scappaticci D, Cimino G et al. A comprehensive genetic classiﬁcation
+of adult acute lymphoblastic leukemia (ALL): analysis of the GIMEMA0496
+protocol. Blood 2005; 105: 3434–3441.
+16. Roberts KG, Li Y, Payne-Turner D et al. Targetable kinase-activating lesions in
+Ph-like acute lymphoblastic leukemia. N Engl J Med 2014; 371: 1005–1015.
+17. Trinquand A, Tanguy-Schmidt A, Ben Abdelali R et al. Toward a NOTCH1/
+FBXW7/RAS/PTEN-based oncogenetic risk classiﬁcation of adult T-cell acute
+lymphoblastic leukemia: a Group for Research in Adult Acute Lymphoblastic
+Leukemia study. J Clin Oncol 2013; 31: 4333–4342.
+18. Coustan-Smith E, Mullighan CG, Onciu M et al. Early T-cell precursor leukaemia:
+a subtype of very high-risk acute lymphoblastic leukaemia. Lancet Oncol 2009;
+10: 147–156.
+19. Brüggemann M, Raff T, Kneba M. Has MRD monitoring superseded other
+prognostic factors in adult ALL? Blood 2012; 120: 4470–4481.
+20. Hoelzer D, Thiel E, Löfﬂer H et al. Prognostic factors in a multicenter study for
+treatment of acute lymphoblastic leukemia in adults. Blood 1988; 71: 123–131.
+21. Rowe JM. Prognostic factors in adult acute lymphoblastic leukaemia. Br J
+Haematol 2010; 150: 389–405.
+
+v | Hoelzer et al.
+
+Annals of Oncology
+22. Brüggemann M, Schrauder A, Raff T et al. Standardized MRD quantiﬁcation in
+European ALL trials. In: Proceedings of the Second International Symposium on
+MRD assessment in Kiel, Germany, 18–20 September 2008. Leukemia 2010;
+24: 521–535.
+23. Campana D. Minimal residual disease in acute lymphoblastic leukemia.
+Hematology Am Soc Hematol Educ Program 2010; 2010: 7–12.
+24. Garand R, Beldjord K, Cavé H et al. Flow cytometry and IG/TCR quantitative PCR
+for minimal residual disease quantitation in acute lymphoblastic leukemia: a
+French multicenter prospective study on behalf of the FRALLE, EORTC and
+GRAALL. Leukemia 2013; 27: 370–376.
+25. Holowiecki J, Krawczyk-Kulis M, Giebel S et al. Status of minimal residual
+disease after induction predicts outcome in both standard and high-risk Phnegative adult acute lymphoblastic leukaemia: the Polish Adult Leukemia Group
+ALL 4-2002 MRD Study. Br J Haematol 2008; 142: 227–237.
+26. Patel B, Rai L, Buck G et al. Minimal residual disease is a signiﬁcant predictor of
+treatment failure in non T-lineage adult acute lymphoblastic leukaemia: ﬁnal results
+of the international trial UKALL XII/ECOG2993. Br J Haematol 2010; 148: 80–89.
+27. Beldjord K, Chevret S, Asnaﬁ V et al. Oncogenetics and minimal residual disease
+are independent outcome predictors in adult patients with acute lymphoblastic
+leukemia. Blood 2014; 123: 3739–3749.
+28. Brüggemann M, Raff T, Flohr T et al. Clinical signiﬁcance of minimal residual
+disease quantiﬁcation in adult patients with standard-risk acute lymphoblastic
+leukemia. Blood 2006; 107: 1116–1123.
+29. Gökbuget N, Kneba M, Raff T et al. Adult patients with acute lymphoblastic leukemia
+and molecular failure display a poor prognosis and are candidates for stem cell
+transplantation and targeted therapies. Blood 2012; 120: 1868–1876.
+30. Bassan R, Spinelli O, Oldani E et al. Improved risk classiﬁcation for risk-speciﬁc
+therapy based on the molecular study of minimal residual disease (MRD) in adult
+acute lymphoblastic leukemia (ALL). Blood 2009; 113: 4153–4162.
+31. Ribera JM, Oriol A, Morgades M et al. Treatment of high-risk Philadelphia
+chromosome-negative acute lymphoblastic leukemia in adolescents and adults
+according to early cytologic response and minimal residual disease after
+consolidation assessed by ﬂow cytometry: ﬁnal results of the PETHEMA ALL-AR03 trial. J Clin Oncol 2014; 32: 1595–1604.
+32. Bassan R, Spinelli O, Oldani E et al. Different molecular levels of post-induction
+minimal residual disease may predict hematopoietic stem cell transplantation
+outcome in adult Philadelphia-negative acute lymphoblastic leukemia. Blood
+Cancer J 2014; 4: e225.
+33. Dhédin N, Huynh A, Maury S et al. Role of allogeneic stem cell transplantation in
+adult patients with Ph-negative acute lymphoblastic leukemia. Blood 2015; 125:
+2486–2496.
+34. Hoelzer D, Gökbuget N. Change in prognostic factors. Leukemia 2012; 1(Suppl. 1):
+S1–S2.
+35. Bassan R, Hoelzer D. Modern therapy of acute lymphoblastic leukemia. J Clin
+Oncol 2011; 29: 532–543.
+36. Annino L, Vegna ML, Camera A et al. Treatment of adult acute lymphoblastic
+leukemia (ALL): long-term follow-up of the GIMEMA ALL 0288 randomized study.
+Blood 2002; 99: 863–871.
+37. Gökbuget N, Bassan R, Dombret H et al. Recommendations of the European
+Working Group for Adult ALL (EWALL), 1st edition. Bremen: UNI-MED Science
+Verlag, 2011.
+38. Labar B, Suciu S, Willemze R et al. Dexamethasone compared to prednisolone
+for adults with acute lymphoblastic leukemia or lymphoblastic lymphoma: ﬁnal
+results of the ALL-4 randomized, phase III trial of the EORTC Leukemia Group.
+Haematologica 2010; 95: 1489–1495.
+39. Marks DI, Paietta EM, Moorman AV et al. T-cell acute lymphoblastic leukemia in
+adults: clinical features, immunophenotype, cytogenetics, and outcome from the
+large randomized prospective trial (UKALL XII/ECOG 2993). Blood 2009; 114:
+5136–5145.
+40. Hoelzer D, Walewski J, Döhner H et al. Improved outcome of adult Burkitt
+lymphoma/leukemia with rituximab and chemotherapy: report of a large
+prospective multicenter trial. Blood 2014; 124: 3870–3879.
+41. Lazarus HM, Richards SM, Chopra R et al. Central nervous system involvement in
+adult acute lymphoblastic leukemia at diagnosis: results from the international
+ALL trial MRC UKALL XII/ECOG E2993. Blood 2006; 108: 465–472.
+
+Volume 27 | Supplement 5 | September 2016
+
+Annals of Oncology
+42. Ram R, Wolach O, Vidal L et al. Adolescents and young adults with acute
+lymphoblastic leukemia have a better outcome when treated with pediatric-inspired
+regimens: systematic review and meta-analysis. Am J Hematol 2012; 87: 472–478.
+43. Ribera JM, Ribera J, Genescà E. Treatment of adolescent and young adults with
+acute lymphoblastic leukemia. Mediterr J Hematol Infect Dis 2014; 6: e2014052.
+44. Burke PW, Douer D. Acute lymphoblastic leukemia in adolescents and young
+adults. Acta Haematol 2014; 132: 264–273.
+45. McNeer JL, Raetz EA. Acute lymphoblastic leukemia in young adults: which
+treatment? Curr Opin Oncol 2012; 24: 487–494.
+46. Rytting ME, Thomas DA, O’Brien SM et al. Augmented Berlin-Frankfurt-Münster
+therapy in adolescents and young adults (AYAs) with acute lymphoblastic
+leukemia (ALL). Cancer 2014; 120: 3660–3668.
+47. Gökbuget N, Beck J, Brandt K et al. Signiﬁcant improvement of outcome in
+adolescents and young adults (AYAs) aged 15–35 years with acute lymphoblastic
+leukemia (ALL) with a pediatric derived adult ALL protocol; results of 1529 AYAs
+in 2 consecutive trials of the German Multicenter Study Group For Adult ALL
+(GMALL). Blood (ASH Annual Meeting Abstracts) 2013; 122: abstr 839.
+48. Huguet F, Leguay T, Raffoux E et al. Pediatric-inspired therapy in adults with
+Philadelphia chromosome-negative acute lymphoblastic leukemia: the GRAALL2003 study. J Clin Oncol 2009; 27: 911–918.
+49. DeAngelo DJ, Stevenson KE, Dahlberg SE et al. Long-term outcome of a
+pediatric-inspired regimen used for adults aged 18–50 years with newly
+diagnosed acute lymphoblastic leukemia. Leukemia 2015; 29: 526–534.
+50. Guru Murthy GS, Venkitachalam R, Mehta P. Trends in survival outcomes of Blineage acute lymphoblastic leukemia in elderly patients: analysis of Surveillance,
+Epidemiology, and End Results database. Leuk Lymphoma 2015; 56: 2296–2300.
+51. Gökbuget N. How I treat older patients with ALL. Blood 2013; 122: 1366–1375.
+52. Ribrag V, Koscielny S, Bouabdallah K et al. Addition of rituximab improves outcome
+of HIV negative patients with Burkitt Lymphoma treated with the Lmba protocol:
+results of the randomized intergroup (GRAALL-Lysa) LMBA02 protocol. (IGR
+sponsored LMBA02, NCT00180882). Blood (ASH Annual Meeting Abstracts) 2012;
+120: abstr 685.
+53. Thomas DA, O’Brien S, Faderl S et al. Chemoimmunotherapy with a modiﬁed
+hyper-CVAD and rituximab regimen improves outcome in de novo Philadelphia
+chromosome-negative precursor B-lineage acute lymphoblastic leukemia. J Clin
+Oncol 2010; 28: 3880–3889.
+54. Kantarjian H, Thomas D, Jorgensen J et al. Inotuzumab ozogamicin, an antiCD22-calecheamicin conjugate, for refractory and relapsed acute lymphocytic
+leukaemia: a phase 2 study. Lancet Oncol 2012; 13: 403–411.
+55. Topp MS, Kufer P, Gökbuget N et al. Targeted therapy with the T-cell-engaging
+antibody blinatumomab of chemotherapy-refractory minimal residual disease in
+B-lineage acute lymphoblastic leukemia patients results in high response rate
+and prolonged leukemia-free survival. J Clin Oncol 2011; 29: 2493–2498.
+56. Topp MS, Gökbuget N, Stein AS et al. Safety and activity of blinatumomab for adult
+patients with relapsed or refractory B-precursor acute lymphoblastic leukaemia: a
+multicentre, single-arm, phase 2 study. Lancet Oncol 2015; 16: 57–66.
+57. Brentjens RJ, Davila ML, Riviere I et al. CD19-targeted T cells rapidly induce
+molecular remissions in adults with chemotherapy-refractory acute lymphoblastic
+leukemia. Sci Transl Med 2013; 5: 177ra38.
+58. Grupp SA, Kalos M, Barrett D et al. Chimeric antigen receptor-modiﬁed T cells
+for acute lymphoid leukemia. N Engl J Med 2013; 368: 1509–1518.
+59. Gökbuget N, Basara N, Baurmann H et al. High single-drug activity of nelarabine
+in relapsed T-lymphoblastic leukemia/lymphoma offers curative option with
+subsequent stem cell transplantation. Blood 2011; 118: 3504–3511.
+60. DeAngelo DJ, Yu D, Johnson JL et al. Nelarabine induces complete remissions in
+adults with relapsed or refractory T-lineage acute lymphoblastic leukemia or
+lymphoblastic lymphoma: Cancer and Leukemia Group B study 19801. Blood
+2007; 109: 5136–5142.
+61. Dombret H, Gabert J, Boiron JM et al. Outcome of treatment in adults with
+Philadelphia chromosome-positive acute lymphoblastic leukemia—results of the
+prospective multicenter LALA-94 trial. Blood 2002; 100: 2357–2366.
+62. Fielding AK, Rowe JM, Richards SM et al. Prospective outcome data on 267
+unselected adult patients with Philadelphia chromosome-positive acute
+lymphoblastic leukemia conﬁrms superiority of allogeneic transplantation over
+chemotherapy in the pre-imatinib era: results from the International ALL Trial
+MRC UKALLXII/ECOG2993. Blood 2009; 113: 4489–4496.
+
+Volume 27 | Supplement 5 | September 2016
+
+clinical practice guidelines
+63. Thomas DA, Faderl S, Cortes J et al. Treatment of Philadelphia chromosomepositive acute lymphocytic leukemia with hyper-CVAD and imatinib mesylate.
+Blood 2004; 103: 4396–4407.
+64. de Labarthe A, Rousselot P, Huguet-Rigal F et al. Imatinib combined with
+induction or consolidation chemotherapy in patients with de novo Philadelphia
+chromosome-positive acute lymphoblastic leukemia: results of the GRAAPH2003 study. Blood 2007; 109: 1408–1413.
+65. Ribera JM, Oriol A, González M et al. Concurrent intensive chemotherapy and
+imatinib before and after stem cell transplantation in newly diagnosed
+Philadelphia chromosome-positive acute lymphoblastic leukemia. Final results of
+the CSTIBES02 trial. Haematologica 2010; 95: 87–95.
+66. Fielding AK, Rowe JM, Buck G et al. UKALLXII/ECOG2993: addition of imatinib to
+a standard treatment regimen enhances long-term outcomes in Philadelphia
+positive acute lymphoblastic leukemia. Blood 2014; 123: 843–850.
+67. Bassan R, Rossi G, Pogliani EM et al. Chemotherapy-phased imatinib pulses
+improve long-term outcome of adult patients with Philadelphia chromosomepositive acute lymphoblastic leukemia: Northern Italy Leukemia Group protocol
+09/00. J Clin Oncol 2010; 28: 3644–3652.
+68. Pfeifer H, Goekbuget N, Völp C et al. Long-term outcome of 335 adult patients
+receiving different schedules of imatinib and chemotherapy as front-line
+treatment for Philadelphia-positive acute lymphoblastic leukemia (Ph+ ALL).
+Blood (ASH Annual Meeting Abstracts) 2010; 116: abstr 173.
+69. Chalandon Y, Thomas X, Hayette S et al. Randomized study of reduced-intensity
+chemotherapy combined with imatinib in adults with Ph-positive acute
+lymphoblastic leukemia. Blood 2015; 125: 3711–3719.
+70. Pfeifer H, Wassmann B, Bethge W et al. Randomized comparison of prophylactic
+and minimal residual disease-triggered imatinib after allogeneic stem cell
+transplantation for BCR-ABL1-positive acute lymphoblastic leukemia. Leukemia
+2013; 27: 1254–1262.
+71. Ravandi F, Jorgensen JL, Thomas DA et al. Detection of MRD may predict the
+outcome of patients with Philadelphia chromosome-positive ALL treated with
+tyrosine kinase inhibitors plus chemotherapy. Blood 2013; 122: 1214–1221.
+72. Rousselot P, Coudé MM, Huguet F et al. Dasatinib (Sprycel®) and low intensity
+chemotherapy for ﬁrst-line treatment in patients with de novo Philadelphia
+positive ALL aged 55 and over: ﬁnal results of the EWALL-Ph-01 Study. Blood
+(ASH Annual Meeting Abstracts) 2012; 120: abstr 666.
+73. Martinelli G, Iacobucci I, Storlazzi CT et al. IKZF1 (Ikaros) deletions in BCR-ABL1positive acute lymphoblastic leukemia are associated with short disease-free
+survival and high rate of cumulative incidence of relapse: a GIMEMA AL WP
+report. J Clin Oncol 2009; 27: 5202–5207.
+74. van der Veer A, Zaliova M, Mottadelli F et al. IKZF1 status as a prognostic feature
+in BCR-ABL1-positive childhood ALL. Blood 2014; 123: 1691–1698.
+75. Wassmann B, Pfeifer H, Goekbuget N et al. Alternating versus concurrent
+schedules of imatinib and chemotherapy as front-line therapy for Philadelphiapositive acute lymphoblastic leukemia (Ph+ ALL). Blood 2006; 108: 1469–1477.
+76. Ribera JM, García O, Montesinos P et al. Treatment of young patients with
+Philadelphia chromosome-positive acute lymphoblastic leukaemia using
+increased dose of imatinib and deintensiﬁed chemotherapy before allogeneic
+stem cell transplantation. Br J Haematol 2012; 159: 78–81.
+77. Foà R, Vitale A, Vignetti M et al. Dasatinib as ﬁrst-line treatment for adult patients
+with Philadelphia chromosome-positive acute lymphoblastic leukemia. Blood
+2011; 118: 6521–6528.
+78. Giebel S, Labopin M, Gorin NC et al. Improving results of autologous stem cell
+transplantation for Philadelphia-positive acute lymphoblastic leukaemia in the era
+of tyrosine kinase inhibitors: a report from the Acute Leukaemia Working Party of
+the European Group for Blood and Marrow Transplantation. Eur J Cancer 2014;
+50: 411–417.
+79. Wetzler M, Watson D, Stock W et al. Autologous transplantation for Philadelphia
+chromosome-positive acute lymphoblastic leukemia achieves outcomes similar
+to allogeneic transplantation: results of CALGB Study 10001 (Alliance).
+Haematologica 2014; 99: 111–115.
+80. Ljungman P, Bregni M, Brune M et al. Allogeneic and autologous transplantation
+for haematological diseases, solid tumours and immune disorders: current
+practice in Europe 2009. Bone Marrow Transplant 2010; 45: 219–234.
+81. Dombret H, Cluzeau T, Huguet F, Boissel N. Pediatric-like therapy for adults with
+ALL. Curr Hematol Malig Rep 2014; 9: 158–164.
+
+doi:10.1093/annonc/mdw025 | v
+
+clinical practice guidelines
+82. Nishiwaki S, Miyamura K, Ohashi K et al. Impact of a donor source on adult
+Philadelphia chromosome-negative acute lymphoblastic leukemia: a retrospective
+analysis from the Adult Acute Lymphoblastic Leukemia Working Group of the
+Japan Society for Hematopoietic Cell Transplantation. Ann Oncol 2013; 24:
+1594–1602.
+83. Oliansky DM, Camitta B, Gaynon P et al. The role of cytotoxic therapy with
+hematopoietic stem cell transplantation in the treatment of pediatric acute
+lymphoblastic leukemia: update of the 2005 evidence-based review. ASBMT
+Position Statement. Biol Blood Marrow Transplant 2012; 18: 979–981.
+84. Marks DI, Woo KA, Zhong X et al. Unrelated umbilical cord blood transplant for
+adult acute lymphoblastic leukemia in ﬁrst and second complete remission: a
+comparison with allografts from adult unrelated donors. Haematologica 2014;
+99: 322–328.
+85. Atsuta Y, Suzuki R, Nagamura-Inoue T et al. Disease-speciﬁc analyses of unrelated
+cord blood transplantation compared with unrelated bone marrow transplantation in
+adult patients with acute leukemia. Blood 2009; 113: 1631–1638.
+86. Goldstone AH, Richards SM, Lazarus HM et al. In adults with standard-risk acute
+lymphoblastic leukemia, the greatest beneﬁt is achieved from a matched sibling
+allogeneic transplantation in ﬁrst complete remission, and an autologous
+transplantation is less effective than conventional consolidation/maintenance
+chemotherapy in all patients: ﬁnal results of the International ALL Trial (MRC
+UKALL XII/ECOG E2993). Blood 2008; 111: 1827–1833.
+87. Yanada M, Naoe T, Iida H et al. Myeloablative allogeneic hematopoietic stem cell
+transplantation for Philadelphia chromosome-positive acute lymphoblastic
+leukemia in adults: signiﬁcant roles of total body irradiation and chronic graftversus-host disease. Bone Marrow Transplant 2005; 36: 867–872.
+88. Mohty M, Labopin M, Volin L et al. Reduced-intensity versus conventional
+myeloablative conditioning allogeneic stem cell transplantation for patients with
+acute lymphoblastic leukemia: a retrospective study from the European Group for
+Blood and Marrow Transplantation. Blood 2010; 116: 4439–4443.
+89. Marks DI, Moorman AV, Chilton L et al. The clinical characteristics, therapy and
+outcome of 85 adults with acute lymphoblastic leukemia and t(4;11)(q21;q23)/
+MLL-AFF1 prospectively treated in the UKALLXII/ECOG2993 trial. Haematologica
+2013; 98: 945–952.
+
+v | Hoelzer et al.
+
+Annals of Oncology
+90. Soverini S, Gnani A, Colarossi S et al. Philadelphia-positive patients who already
+harbor imatinib-resistant Bcr-Abl kinase domain mutations have a higher
+likelihood of developing additional mutations associated with resistance to
+second- or third-line tyrosine kinase inhibitors. Blood 2009; 114: 2168–2171.
+91. Fielding AK, Richards SM, Chopra R et al. Outcome of 609 adults after relapse of
+acute lymphoblastic leukemia (ALL); an MRC UKALL12/ECOG 2993 study. Blood
+2007; 109: 944–950.
+92. Weston BW, Hayden MA, Roberts KG et al. Tyrosine kinase inhibitor therapy
+induces remission in a patient with refractory EBF1-PDGFRB-positive acute
+lymphoblastic leukemia. J Clin Oncol 2013; 31: e413–e416.
+93. Oriol A, Vives S, Hernández-Rivas JM et al. Outcome after relapse of acute
+lymphoblastic leukemia in adult patients included in four consecutive riskadapted trials by the PETHEMA Study Group. Haematologica 2010; 95:
+589–596.
+94. Gökbuget N, Stanze D, Beck J et al. Outcome of relapsed adult lymphoblastic
+leukemia depends on response to salvage chemotherapy, prognostic factors, and
+performance of stem cell transplantation. Blood 2012; 120: 2032–2041.
+95. Tavernier E, Boiron JM, Huguet F et al. Outcome of treatment after ﬁrst relapse in
+adults with acute lymphoblastic leukemia initially treated by the LALA-94 trial.
+Leukemia 2007; 21: 1907–1914.
+96. Kantarjian H, Thomas D, Jorgensen J et al. Results of inotuzumab ozogamicin, a
+CD22 monoclonal antibody, in refractory and relapsed acute lymphocytic
+leukemia. Cancer 2013; 119: 2728–2736.
+97. Specchia G, Pastore D, Carluccio P et al. FLAG-IDA in the treatment of refractory/
+relapsed adult acute lymphoblastic leukemia. Ann Hematol 2005; 84: 792–795.
+98. Hijiya N, Thomson B, Isakoff MS et al. Phase 2 trial of clofarabine in combination
+with etoposide and cyclophosphamide in pediatric patients with refractory or
+relapsed acute lymphoblastic leukemia. Blood 2011; 118: 6043–6049.
+99. O’Brien S, Schiller G, Lister J et al. High-dose vincristine sulfate liposome
+injection for advanced, relapsed, and refractory adult Philadelphia chromosomenegative acute lymphoblastic leukemia. J Clin Oncol 2013; 31: 676–683.
+100. Dykewicz CA. Summary of the guidelines for preventing opportunistic infections
+among hematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33:
+139–144.
+
+Volume 27 | Supplement 5 | September 2016
+
+

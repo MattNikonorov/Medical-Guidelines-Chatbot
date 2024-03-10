@@ -1,0 +1,1916 @@
+Powered by EHA
+
+Guideline Article
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+Diagnosis and Treatment of Chronic
+Myelomonocytic Leukemias in Adults
+Recommendations From the European Hematology Association and
+the European LeukemiaNet
+Raphael Itzykson1, Pierre Fenaux1, David Bowen2, Nicholas C.P. Cross3, Jorge Cortes4, Theo De Witte5,
+Ulrich Germing6, Francesco Onida7, Eric Padron8, Uwe Platzbecker9, Valeria Santini10, Guillermo F. Sanz11,12,
+Eric Solary13,14, Arjan Van de Loosdrecht15, Luca Malcovati16, on behalf of the European Hematology
+Association, the European LeukemiaNet
+Correspondence: Raphael Itzykson (e-mail: raphael.itzykson@aphp.fr);
+Pierre Fenaux (e-mail: pierre.fenaux@aphp.fr).
+Abstract
+Chronic myelomonocytic leukemia (CMML) is a disease of the elderly, and by far the most frequent overlap myelodysplastic/
+myeloproliferative neoplasm in adults. Aside from the chronic monocytosis that remains the cornerstone of its diagnosis, the clinical
+presentation of CMML includes dysplastic features, cytopenias, excess of blasts, or myeloproliferative features including high white
+blood cell count or splenomegaly. Prognosis is variable, with several prognostic scoring systems reported in recent years, and treatment
+is poorly deﬁned, with options ranging from watchful waiting to allogeneic stem cell transplantation, which remains the only curative
+therapy for CMML. Here, we present on behalf of the European Hematology Association and the European LeukemiaNet, evidence- and
+consensus-based guidelines, established by an international group of experts, from Europe and the United States, for standardized
+diagnostic and prognostic procedures and for an appropriate choice of therapeutic interventions in adult patients with CMML.
+ing from those of a myelodysplastic syndrome (MDS) with
+peripheral monocytosis, to very proliferative forms, characterized
+by high white blood cell (WBC) counts, splenomegaly, and/or
+other forms of extramedullary disease. Its diagnosis remains
+largely based on morphology, though recent advances in ﬂow
+cytometry of blood monocytes may contribute in difﬁcult cases.
+
+Introduction
+Chronic myelomonocytic leukemia (CMML) is, by far, the most
+frequent of myelodysplastic/myeloproliferative entities recognized by World Health Organization (WHO) classiﬁcations1
+with an incidence of about 1/100,000 per year. It is a very
+heterogeneous disease, with hematological characteristics rang-
+
+Funding/support: None.
+Disclosure: RI and PF have received research support from Janssen and Novartis. GFS has received consulting fees from Amgen, Boehringer Ingelheim, and Novartis.
+All other authors have no relevant conﬂict of interest.
+1
+Department of Hematology, Hôpital Saint-Louis, Assistance Publique-Hôpitaux de Paris, Paris Diderot University, Paris, France
+2
+St. James’s Institute of Oncology, Leeds Teaching Hospitals, Leeds, United Kingdom
+3
+Faculty of Medicine, University of Southampton, Southampton, United Kingdom
+4
+Department of Leukemia, The University of Texas MD Anderson Cancer Center, Houston, TX, USA
+5
+Department of Tumor Immunology, Nijmegen Center for Molecular Life Sciences, Radboud University Medical Center, Nijmegen, The Netherlands
+6
+Department of Hematology, Oncology and Clinical Immunology, Universitätsklinik Düsseldorf, Düsseldorf, Germany
+7
+Department of Oncology and Hemato-Oncology, University of Milan and Fondazione IRCCS Ca’ Granda Ospedale Maggiore Policlinico, Hematology/BMT Unit, Milan, Italy
+8
+Department of Malignant Hematology, H. Lee Mofﬁtt Cancer Center and Research Institute, Tampa, FL, USA
+9
+Medical Clinic and Policlinic 1, University Hospital Leipzig, University of Leipzig, Leipzig, Germany
+10
+MDS UNIT, Hematology, AOU-Careggi University Hospital, Department of Experimental and Clinical Medicine, Università degli Studi di Firenze, Florence, Italy
+11
+Department of Hematology, Hospital Universitario y Politécnico La Fe, Valencia, Spain
+12
+CIBERONC, Instituto Carlos III, Madrid, Spain
+13
+Faculté de Médecine, Université Paris-Sud, Le Kremlin-Bicêtre, France
+14
+Department of Hematology, INSERM U1170, Gustave Roussy, Villejuif, France
+15
+Department of Hematology, VU University Medical Center, Cancer Center Amsterdam, Amsterdam, The Netherlands
+16
+Department of Hematology Oncology, Fondazione IRCCS Policlinico San Matteo, University of Pavia, Pavia, Italy.
+Copyright © 2018 the Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the European Hematology Association. This is an open access article distributed
+under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NC-ND), where it is permissible to download and share the
+work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal.
+HemaSphere (2018) 2:6(e150)
+Received: 21 June 2018 / Accepted: 11 September 2018
+Citation: Itzykson R, Fenaux P, Bowen D, Cross NCP, Cortes J, De Witte T, Germing U, Onida F, Padron E, Platzbecker U, Santini V, Sanz GF, Solary E, Van de
+Loosdrecht A, Malcovati L. Diagnosis and Treatment of Chronic Myelomonocytic Leukemias in Adults: Recommendations from the European Hematology
+Association and the European LeukemiaNet. HemaSphere, 2018;2:6. http://dx.doi.org/10.1097/HS9.0000000000000150
+
+1
+
+R. Itzykson et al.
+
+Diagnosis and Treatment of Chronic Myelomonocytic Leukemias in Adults
+
+an autoimmune condition should, however, not exclude the
+diagnosis of CMML, as these entities can present concomitantly.7,8
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+Somatic mutations in a small subset of recurrently mutated genes
+can be detected in almost all patients, some carrying a poor
+prognostic value. Treatment choices remain poorly supported,
+since, until recently, CMML patients were included in MDS
+series, whereas only 1 CMML-speciﬁc randomized clinical trial
+(RCT) has ever been published to date.2
+The European Hematology Association and the European
+LeukemiaNet have convened an international program, involving
+experts from Europe and the United States, aimed at developing
+evidence- and consensus-based guidelines that provide clinical
+practice recommendations for1 standardized diagnostic and
+prognostic procedures and for2 an appropriate choice of
+therapeutic interventions in adult patients with CMML. Herein,
+we present our results.
+
+Morphology
+A precise diagnostic workup of patients with suspected CMML starts
+with blood counts, a manual differential count with the assessment of
+percentage and absolute number of monocytes and blasts (including
+promonocytes) and immature myeloid cells (metamyelocytes,
+myelocytes, and promyelocytes). An absolute monocyte count of
+>1  109/L, accounting for more than 10% of leukocytes, is a
+prerequisite for the diagnosis of any type of CMML.9,10 The latter is
+important to differentiate CMML from atypical CML. If available,
+antecedent blood counts should be collected to document that
+monocytosis has been sustained for more than 3 months.
+Bone marrow cytology using May-Grünwald or Wright-Giemsa
+staining of marrow aspirates, accompanied by iron staining,
+assessment of dysplasia in all lineages, calculation of percentage of
+monocytes and blasts (including promonocytes)11,12 are mandatory. Peroxidase and esterase can also be useful. The percentage of
+marrow and peripheral blasts allows classiﬁcation of CMML
+according to WHO 2016 criteria as CMML 0 or 1 or 2 (Table 1),
+and exclusion of acute myeloid leukemia (AML), especially M4
+AML.13 Marrow monocytosis per se is not sufﬁcient for diagnosis
+but should be assessed, as there is generally a correlation between
+blood and marrow monocytosis. Distinguishing monocytes,
+promonocytes, and monoblasts only on morphological grounds
+can sometimes be extremely difﬁcult, but it is formally necessary,
+and efforts should be made to distinguish them as much as
+possible.12 In some cases, the degree of dysplasia of blood and
+marrow can help distinguish between CMML and AML, as in
+CMML dysplastic features are more pronounced in the megakaryocytic and granulocytic lineages. In addition, degranulated
+myelocytes sometimes cannot be easily distinguished from
+monocytes, potentially leading to confusion. In these cases,
+peroxidase and esterase staining can be helpful.
+Although cytology of marrow aspirates can often better assess
+signs of single cell dysplasia, marrow biopsy is useful in the
+diagnosis of CMML.14–16 It allows the assessment of cellularity,
+
+Design and methods
+Systematic review of the literature and synthesis of
+evidence
+English-language original and review articles published between
+1985 and 2017 were systematically extracted from PubMed and
+reviewed in working groups. The level of evidence was rated
+according to the Revised Grading System for Recommendations in
+Evidence-Based Guidelines of the Scottish Intercollegiate Guidelines network Grading Review Group. Brieﬂy, meta-analyses and
+systematic reviews of RCTs, or RCT were graded 1, systematic
+reviews of case-control or cohort studies, case-control or cohort
+studies were graded 2, nonanalytic studies (eg, case reports, case
+series) were graded 3, and expert opinion was graded 4.
+
+Consensus phase
+Opinions between experts from Europe and the United States
+were exchanged including via face-to-face meeting held twice a
+year for 2 years from 2016 to 2018, and conﬂicts in
+recommendations were resolved by case scenario studies
+followed by anonymous electronic votes.
+Recommendations were formulated and ranked according to the
+supporting level of evidence. The level of recommendation was
+graded according to the criteria of the Scottish Intercollegiate
+Guidelines Network Grading Review Group. A recommendation
+was rated as: A, when based on at least 1 meta-analysis, systematic
+review, or RCT and directly applicable to the target population and
+demonstrating overall consistency of results; B, when based on a
+body of evidence including systematic reviews of case-control or
+cohort studies, case-control or cohort studies directly applicable to
+the target population and demonstrating overall consistency of
+results or extrapolated evidence from meta-analysis, systematic
+review or RCT; C, when based on extrapolated evidence from
+studies rated as systematic reviews of case-control or cohort
+studies, case-control or cohort studies; and D, when based on
+evidence level 3 or 4. Recommendations for diagnostic work-up
+were based on expert consensus (recommendation level D) and
+graded as mandatory, recommended or suggested.
+
+Table 1
+Diagnostic criteria for CMML according to World Health Organization 20161
+Persistent monocytosis ≥1  109/L and monocytes ≥10% of WBC in peripheral
+blood
+No criteria and no previous history of CML, ET, PV, and PMF
+If eosinophilia, neither PDGFRA, PDGFRB, FGFR1 rearrangements nor PMC1-JAK2
+translocation
+<20% Blasts in peripheral blood and BM aspirationa
+≥1 Following criteria
+Dysplasia in ≥1 myeloid lineage
+Acquired clonal cytogenetic or molecular abnormality in hematopoietic cellsb
+Monocytosis persistent for at least 3 months, with other causes excluded
+CMML-0: <2% blasts in PB and <5% blasts in BM
+CMML-1: 2–4% blasts in PB and/or 5–9% blasts in BM
+CMML-2: 5–19% blasts in PB, 10–19% in BM, and/or Auer rods
+
+Diagnostic procedures
+
+BM = bone marrow, CMML = chronic myelomonocytic leukemia, CML = chronic myeloid leukemia,
+ET = essential thrombocytemia, PMF = primary myeloﬁbrosis, PV = polycythemia vera, WBC = white
+blood cell.
+a
+Blasts and blast equivalents include myeloblasts, monoblasts, and promonocytes.
+b
+The presence of mutations in genes often associated with CMML (eg, TET2, SRSF2, ASXL1, SETBP1)
+in the proper clinical contest can be used to support a diagnosis. It should be noted, however, that
+many of these mutations can be age-related or be present in subclones. Therefore, caution would have
+to be used in the interpretation of these genetic results.
+
+The differential diagnosis of CMML includes all conditions that
+cause a sustained monocytosis of >1  109/L in the peripheral
+blood. These include reactive causes such as a number of chronic
+infections3 and autoimmune disorders.4–6 Multiparameter ﬂow
+cytometry analysis of peripheral blood monocytes can help
+distinguish reactive monocytosis from CMML. The presence of
+2
+
+(2018) 2:6
+
+www.hemaspherejournal.com
+
+the description of stromal changes, of ﬁbrosis,17,18 and a marrow
+description in cases of dry tap. Finally, it may allow detection of
+inﬁltration with mast cells, in patients with concomitant systemic
+mastocytosis and CMML.
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+count neighboring the threshold of monocytosis, and MO1
+accumulation frequently evolve to genuine CMML.32 The
+combined analysis by ﬂow cytometry focusing on granulocytic
+and erythroid dysplasia by an integrated analysis might
+discriminate these MDS subgroups from CMML.22 Ongoing
+prospective investigation may clarify the role and interest of
+monocyte subset distribution analysis in MDS.
+Finally, ﬂow analysis of monocyte subset distribution in the
+peripheral blood can possibly be used as a biomarker to monitor
+CMML response to standard and novel therapeutic regimen, for
+example, patients who respond to hypomethylating agents
+(HMAs) have normalization of the MO1 fraction,25 although
+those results need conﬁrmation.
+
+PANEL RECOMMENDATION. Complete blood count,
+marrow aspirate with routine staining using May-Grünwald or Wright-Giemsa staining, and iron staining should
+be mandatorily performed, while bone marrow biopsy with
+Hematoxylin-Eosin and/or Gomori’s Silver staining, is
+strongly recommended. Immunohistochemistry can be
+added including CD34 and monocytic markers like
+CD68, CD163, CD14, and CD16. A ﬁnal bone marrow
+report should be made including both cytology and
+histology (recommendation level D).
+
+PANEL RECOMMENDATION. Analysis of peripheral
+blood monocyte subset distribution by a multiparameter
+ﬂow cytometry assay to distinguish CMML from reactive
+monocytosis is recommended. Its diagnostic robustness in
+the context of CMML and concomitant inﬂammatory
+manifestations remains to be validated (recommendation
+level D).
+
+Flow cytometry immunophenotyping
+Flow cytometry analysis of bone marrow cells may contribute to
+CMML diagnosis, and potentially to prognosis, and treatment
+monitoring by detecting subtle changes in antigen expression at
+the surface of myelomonocytic cells and in the erythroid
+lineage.19–23 Bone marrow cell immunophenotyping can similarly detect aberrations in CMML bone marrow.24 Recent data
+suggest that ﬂow analysis of peripheral blood cells can greatly
+contribute to the diagnosis and follow-up of CMML.25–28
+In patients with peripheral blood monocytosis ≥1  109/L,
+ﬂow cytometry analysis of monocyte subset distribution readily
+distinguishes CMML from benign reactive monocytosis. The
+fraction of classical monocytes (CD14+/CD16 ) referred to
+MO1 can be distinguished from intermediate (CD14+/CD16+,
+MO2) and nonclassical (CD14low/CD16+, MO3) monocytes
+according to the current nomenclature of normal human
+monocyte subsets.29,30 The proportion of MO1 is increased in
+CMML patients, while being decreased in those with a reactive
+condition.25,26 A proportion of MO1 ≥ 94% provides a
+speciﬁcity and sensitivity both higher than 90% to distinguish
+CMML for reactive monocytosis. This 94% cutoff has been
+validated by independent groups25–28 and this assay has been
+approved as a Clinical Laboratory Improvement Amendmentscertiﬁed clinical test in the United States.26 Similar standardization in European countries should be promoted.
+Quantiﬁcation of the MO1 fraction as CD16-negative
+monocytes by means of the HematoFlow technology (Beckman-Coulter, Brea, CA) could potentially be used in routine
+practice.31 In patients with a suspected CMML but with a normal
+monocyte subset distribution (and fewer than 94% MO1s),
+molecular analyses and follow-up are required to conﬁrm
+CMML diagnosis according to WHO 2016 criteria. Alternatively, a decreased MO3 subset combined with an increased MO2
+fraction suggests the combination of CMML with an inﬂammatory condition.27,32 In the latter situation,8 correction of the
+inﬂammatory manifestation (eg, with steroids) will reveal a
+typical increase in MO1 fraction32 (Fig. 1).
+Flow cytometry can also help distinguish CMML from
+myeloproliferative neoplasms (MPNs) with monocytosis, especially polycythemia vera33 and primary myeloﬁbrosis.34 Such a
+distinction may have therapeutic implications.27 The distinction
+between CMML and MDS can be more complex and semantic, as
+MDS with marrow monocytosis, peripheral blood monocyte
+
+Cytogenetics
+Chromosomal abnormalities in CMML have been reported in
+10% to 40% of patients in published reports, the variability been
+largely due to small numbers, inclusion criteria, and referral
+patterns. Cytogenetic aberrations are not speciﬁc of CMML. The
+most frequent are trisomy 8, and monosomy 7, while complex
+karyotypes are infrequent.35–37 Presence of chromosomal
+abnormalities is more common in patients with CMML-2.37
+There is a strong association between speciﬁc cytogenetic
+abnormalities and the risk of AML evolution and overall survival
+(OS).38–40 The Spanish cytogenetic risk stratiﬁcation divided
+karyotypic abnormalities into 3 risk groups according to OS:
+patients with trisomy 8, chromosome 7 abnormalities or complex
+karyotype with a very poor outcome (poor-risk category);
+patients with normal karyotype or isolated loss of Y chromosome
+with better OS (good-risk category); the remaining speciﬁc
+chromosomal abnormalities being merged into an intermediaterisk category.39 The prognostic signiﬁcance of isolated trisomy 8
+is, however, controversial. Investigators at MD Anderson Cancer
+Center have proposed to reassign trisomy 8 to the intermediaterisk category based on the better OS of these patients, but around
+50% of them evolved to AML.39,40 A Mayo Clinic-French
+Consortium reassigned cases with monosomal karyotype as highrisk (85% of cases with complex karyotype also have a
+monosomal karyotype) and isolated der(3) as low-risk abnormalities.41
+
+PANEL RECOMMENDATION. Cytogenetic analysis is
+mandatory in the diagnostic work-up of CMML, with
+analysis of at least 20 mitoses. If an insufﬁcient number of
+mitoses is obtained, or if only 1 or 2 metaphases with +8 or
+7 are seen, ﬂuorescence in situ hybridization (FISH)
+analysis with centromeric probes for chromosomes 7 and 8
+is recommended (recommendation level D).
+
+3
+
+R. Itzykson et al.
+
+Diagnosis and Treatment of Chronic Myelomonocytic Leukemias in Adults
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+Figure 1. Flow cytometry panel of CD14 and CD16 expression on gated monocytes in (A) an aged healthy donor, a patient with reactive monocytosis, and a CMML
+case, showing in the latter a proportion of CD14+/CD16 monocytes >94% (reproduced with permission from Selimoglu-Buet et al25) and (B) in a CMML patient
+before, during, and after occurrence of a chondritis inﬂammatory episode (reproduced with permission from Selimoglu-Buet et al32). CMML = chronic
+myelomonocytic leukemia.
+
+with a phenotypic continuum between JAK2-mutated CMML
+and classical MPN.34,53,54 A similar genotypic continuum exists
+between CMML and atypical CML with respect to SETBP1
+mutations.55 Although not AML-deﬁning stricto sensu, NPM1
+mutations in CMML tend to be associated with rapid progression
+to AML,45,56,57 suggesting that NPM1-mutated CMML is in fact
+very close to AML with monocytic differentiation (M4/5 AML).
+Conversely, the presence of FLT3 ITD/TKD, present in <5%
+CMML, does not necessarily herald transformation to AML, but
+may be important to know for therapeutic purposes with the
+recent advent of FLT3 inhibitors.58
+Molecular genetics can also be used to document the clonal
+origin of monocytosis and thus contribute to the deﬁnitive
+diagnosis of CMML in patients with uninformative cytogenetics.
+Identiﬁcation of somatic mutations may support the diagnosis of
+CMML if 2 or more somatic mutations are present, or at least one
+of them has high variant allele frequency (VAF), thereby reducing
+the possibility of “clonal hematopoiesis of indeterminate potential” (CHIP)59 occurring in the context of reactive monocytosis.
+Because dysplasia is often subtle or absent in CMML, it is
+important to emphasize the negative predictive value of normal
+ﬁndings by both cytogenetic and molecular analyses with a largeenough gene panel (Table 2) to help exclude a diagnosis of CMML.
+Mutational analysis of the 20 genes listed in Table 2 is best
+achieved by targeted Next Generation Sequencing (NGS) panels.
+
+Molecular genetics
+An average of 10 to 15 somatic mutations can be found in the
+coding regions of the genome in CMML patients.42 Compared to
+MDS and AML,43 the mutational spectrum of CMML is more
+homogeneous and sequencing of 20 genes can detect a clonal
+abnormality in > 90% of cases44,45 (Table 2). The prototypical
+molecular ﬁngerprint combines a mutation in a gene encoding an
+epigenetic regulator (mainly TET2 and ASXL1) with a mutation
+affecting the spliceosome machinery (SRSF2, less often SF3B1,
+ZRSR2) with or without a mutation in the RAS/MAPK signaling
+pathway (NRAS, KRAS, CBL, JAK2). In particular, the
+combination of TET2 and SRSF2 mutations is very frequently
+observed in CMML and was shown to be highly speciﬁc for
+myeloid neoplasm with monocytosis.46 Signaling mutations are
+more commonly seen in association with a proliferative
+phenotype.44,45,47–65 Although prototypical patterns of cooccurrence of mutations have been reported,44,45,48–50 the
+diagnostic46 or prognostic51 roles of mutation combinations in
+CMML have yet to be validated.
+According to the WHO 2016 criteria, molecular genetics is
+required to exclude other myeloid neoplasms including chronic
+myeloid leukemia (CML), the very rare myeloid/lymphoid
+neoplasms with eosinophilia (MLN-eo), and “classical” MPNs.
+1
+Of note, JAK2 mutations can be found in ∼5% CMML cases,52
+4
+
+(2018) 2:6
+
+www.hemaspherejournal.com
+
+a germline origin when they involve genes predisposing to
+myeloid neoplasms (eg, RUNX1), especially in patients diagnosed with CMML at an early age (younger than 50) and/or in
+those with a family history of myeloid neoplasm. In addition, the
+possibility of CHIP should be considered for cases with single
+gene mutations and low VAF, particularly when involving
+DNMT3A, TET2, or ASXL1.
+Genotype/phenotype correlations of recurrently mutated genes
+have been reported45,64,65 and the prognostic role of gene
+mutations interacts with that of clinical features.45,66 Nonsense
+and frameshift mutations of ASXL1 have been invariably
+associated with a poor prognosis.45,50,63,67–69 Other genes
+reported to be associated with an adverse prognosis are
+TET2,51,70,71SETBP1,50,72,73SRSF2,44,45RUNX1,44,45,50NRAS,45,47,50CBL,45,69 and EZH2.45,71,74 However, these published series must be interpreted with caution, because of the
+limited power and heterogeneous therapeutic interventions in
+these cohorts. In addition to genes frequently encountered in
+CMML, analysis of IDH2 and IDH1 (further to that of FLT3)
+may be useful for the rare CMML-2 cases harboring these
+mutations because of emerging inhibitors (eg, enasidenib and
+ivosidenib, respectively) for these abnormalities. The presence of
+an FLT3-ITD or an NPM1 mutation should in fact lead to
+reconsider the diagnosis of CMML, as M4/M5 AML can
+masquerade initially as CMML, and intensive chemotherapy
+could be considered. Despite emerging data in the context of
+allogeneic stem cell transplantation (SCT)75 or HMAs,76
+molecular genetics cannot be currently used as a biomarker
+for available therapies in CMML.
+
+Table 2
+Recommended minimal Next Generation Sequencing panel in
+CMML
+Gene
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+TET2
+ASXL1
+DNMT3A
+EZH2
+IDH1a
+IDH2a
+BCOR
+SRSF2
+U2AF1
+SF3B1
+ZRSR2
+CBL
+KRAS
+NRAS
+NF1
+JAK2
+RUNX1
+SETBP1
+NPM1b
+FLT3a,b
+
+Frequency, %
+
+Pathway
+
+29–61
+32–44
+2–12
+5–13
+1–2
+6–7
+6–7
+29–52
+4–10
+6–10
+4–8
+8–22
+7–16
+4–22
+6–7
+1–10
+8–23
+4–18
+1–3
+1–3
+
+Epigenetic modiﬁers
+
+Spliceosome
+
+Signaling
+
+Other
+
+Frequencies based on above-mentioned references.42–57
+CMML = chronic myelomonocytic leukemia.
+a
+Infrequent in CMML, but targetable.
+b
+Infrequent in CMML, but helpful to rule out M4/M5 acute myeloid leukemia.
+
+Studies carried out in MDS, which are likely relevant in CMML,
+indicate that peripheral blood is as reliable as bone marrow for
+mutational analysis.60 To date, there is no consensus on the
+requirement or type of germline controls, analysis pipeline and
+VAF cutoffs for the consideration of a pathogenic somatic variant
+by NGS in myeloid neoplasms. The NGS report should exclude
+polymorphisms or platform-speciﬁc sequencing artifacts. Of
+note, some platforms report low-level false positive ASXL1
+c.1934dupG (p.Gly646TrpfsX12) while others fail to detect it,
+but this frequent lesion (up to 20% of patients) represents a bona
+ﬁde genetic lesion in CMML.45 A recent study has suggested that
+this variant is a real mutation when present at a ≥VAF 15%.61
+More extensive gene panels may ﬁnd additional mutations, but
+their signiﬁcance is uncertain and thus these panels should still be
+considered mainly for research purposes.
+The NGS report should mention the VAF, nucleic acid and
+amino acid changes according to HGVS nomenclature62 of all
+likely pathogenic variants. The nature of the somatic variant
+can inﬂuence its prognostic relevance. In particular, missense
+mutations in ASXL1 do not seem to carry the same prognostic
+relevance as nonsense and frameshift mutations.45,63 Attention
+should be paid to variants with allele frequencies compatible with
+
+PANEL RECOMMENDATION. Analysis of 4 genes is
+mandatory for risk assessment according to accepted risk
+scoring systems (ASXL1, NRAS, RUNX1, and SETBP1;
+Table 3) in patients eligible for transplant. Analysis of a
+minimum of 20 genes (Table 2) is recommended for patients
+being considered for active treatments including transplant.
+It is suggested in patients only eligible for hydroxyurea (HY)
+and supportive care to inform prognosis and/or reveal
+actionable targets. The list includes IDH1, IDH2, NPM1,
+and FLT3 that are mutated in <5% CMML but have
+practical therapeutic implications (recommendation
+level D).
+
+Differential diagnosis and borderline diseases
+As mentioned above, WHO 2016 criteria include checking for the
+absence of BCR-ABL1 rearrangement (including atypical break-
+
+Table 3
+Recommended prognostic models
+Score
+Clinical features
+Morphology
+Cytogenetics
+Molecular features
+Risk groups
+Median overall survival, mo
+Reference
+
+GFM
+
+CPPS-mol
+
+Mayo molecular
+
+CPSS
+
+MDAPS
+
+Age
+WBC Hb Platelets
+No
+ASXL1
+3
+14–60
+
+RBC-TD∗
+Blasts % WBC
+Yes
+ASXL1 NRAS RUNX1 SETBP1
+4
+17–70
+
+No
+Monocytes IMC Hb platelets
+No
+ASXL1
+4
+16–97
+
+RBC-TD∗
+Blasts % WBC
+Yes
+No
+4
+5–72
+
+No
+Hb lymphocytes IMC blasts %
+Yes
+No
+4
+5–26
+
+45
+
+50
+
+65
+
+87
+
+91
+
+CPSS = CMML Prognostic Scoring System, GFM = Groupe Francophone des Myelodysplasies, IMC = immature myeloid cells, MDAPS = MD Anderson Prognostic Score, RBC-TD = red blood cell transfusion
+dependence, WBC = white blood cell.
+
+5
+
+R. Itzykson et al.
+
+Diagnosis and Treatment of Chronic Myelomonocytic Leukemias in Adults
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+transduction mutations such as in the RAS and CBL genes
+(Table 2).47 Organomegaly should be assessed at least clinically,
+and if splenomegaly is suspected, measured, for example, by
+ultrasound, to monitor spleen size and volume. Organomegaly is
+infrequent in patients with MD-CMML. A systematic search for
+the optimal deﬁnition of MP-CMML remains to be undertaken but
+reports from prognostication studies indicate that the 13  109/L
+remains relevant.45,87 Extramedullary leukemia, apart from
+splenomegaly and hepatomegaly, mainly includes speciﬁc serous
+effusions (pleural and less often pericardial or peritoneal) and
+speciﬁc cutaneous inﬁltration, all associated to worse prognosis.88
+
+points) to rapidly exclude CML, although CML very rarely
+presents with >10% monocytes in the WBC differential count,
+and generally has a higher percentage of circulating immature
+myeloid cells than CMML. Classical MPN can also include
+monocytosis, which typically does not show the abnormal
+distribution of monocyte subsets observed in CMML.27
+In the very rare cases with eosinophilia, FIP1L1-PDGFRA
+should be excluded by polymerase chain reaction or FISH.77 Other
+tyrosine kinase (TK) fusion genes that predict sensitivity to
+imatinib78–80 or other inhibitors81 are almost always associated
+with detectable cytogenetic rearrangements, whose ﬁnding direct
+further molecular investigations.77 The very rare patients positive
+for TK fusions should be reclassiﬁed as “Myeloid/lymphoid
+neoplasms with eosinophilia and rearrangement of PDGFRA,
+PDGFRB, or FGFR1, or with PCM1-JAK2” even if they otherwise
+fulﬁll the diagnostic criteria for CMML.1 Testing for KIT D816V
+mutation (and serum tryptase) helps to identify cases with systemic
+mastocytosis associated with CMML if morphological analysis
+suggests this association.82 Differentiating CMML from M4 AML
+can be challenging and requires expert pathologic and/or
+consensus review to accurately enumerate the promonocytes,
+which should be added to the total blast percentage.12 Presence of
+Auer rods or of an NPM1 mutation would favor diagnosis of M4
+AML and suggest treatment with classical intensive chemotherapy.
+Lastly, care must be taken to ensure that the monocyte count
+constitutes >10% of the total peripheral differential as
+proliferative cases of MDS/MPN-unclassiﬁable, chronic neutrophilic leukemia, and atypical CML (sometimes also typical CML)
+can present with clonal, sustained monocytosis of >1  109/L.
+
+PANEL RECOMMENDATION. CMML should be classiﬁed according to the WHO criteria, as revised in 2016,
+including MD/MP-CMML categorization (recommendation level D).
+
+Risk assessment
+Disease-related factors
+Risk assessment is a critical aspect of CMML management
+because the disease is very heterogeneous, and median OS of
+patients with CMML may range from over 50 months to <1
+year.63,65 However, the prognostication of CMML patients is
+challenging due to the large number of prognostic tools available
+in the literature, including 9 models with external validation,35,50,63,65,87–91 and the wide prediction range when applying
+several of these scores at the patient level. Most of these scores
+combine “MDS-type” factors (including cytopenias, marrow
+blast percentage, and karyotype), “MPN-type” factors (including
+splenomegaly and other extramedullary disease, WBC count, and
+presence of circulating immature cells), and, more recently,
+somatic mutations. Although not extensively validated, some risk
+stratiﬁcation can be achieved by determining the WHO subtype
+(CMML-0, CMML-1, and CMML-2).1,13 The FAB classiﬁcation
+can also be applied, as MD-CMML generally have a better
+survival compared with MP-CMML patients.92 Although the 9
+validated models all have slightly different variables and cutpoints incorporated, they generally include cytopenias (anemia,
+thrombocytopenia), leukocytosis (monocytosis), and circulating
+and/or marrow blasts. Complex karyotype and aberrations of
+chromosome 7, and, more controversially, trisomy 8, are
+associated with an adverse outcome.38,41 Regarding somatic
+mutations, ASXL1 mutations have consistently and independently been associated with shorter OS.45,50,65,69ASXL1 status is
+thus part of the GFM prognostic model.45 The number of
+mutations also worsens prognosis.45 Recently RUNX1, NRAS,
+and SETBP1 mutations were found to be independent adverse
+prognostic factors of unfavorable survival and incorporated into
+a molecular CMML Prognostic Scoring System (CPSS-mol).50 Of
+note, prognostic scores in CMML have been established in
+patients with a median age of at least 70 years, whose life
+expectancy is inﬂuenced not only by the hematological disease
+but also other causes. They should therefore be interpreted with
+caution in younger patients, who have a longer life expectancy,
+but in whom on the other hand CMML may induce a greater loss
+of survival years, potentially prompting more intensive treatment.93 Additional work is required to propose a consensus
+prognostic model for CMML and to overcome the limited
+predictive power of current models.89
+
+PANEL RECOMMENDATION. BCR-ABL1 rearrangement should be excluded in all cases. The very rare cases of
+monocytosis with eosinophilia should be tested for FIP1L1PDGFRA rearrangement and other very rare TKs fusion
+genes should be investigated if cytogenetic analysis indicates
+a relevant rearrangement. M4 AML is also important to
+rule out when CMML2 is suspected. Borderline cases must
+be analyzed with NGS (including NPM1 gene status, which
+must be urgently assessed when M4 AML is suspected) and
+ﬂow cytometry (recommendation level D).
+
+Diagnostic classiﬁcation
+Clinical examination, morphology, cytogenetics, and, whenever
+possible, ﬂow cytometry and molecular biology should be
+integrated to classify patients according to WHO 2016 categories.
+WHO classiﬁcation (Arber et al Blood 20161,9 includes CMML-0
+for cases with <2% blasts in PB and <5% blasts in BM; CMML-1
+for cases with 2% to 4% blasts in PB and/or 5% to 9% blasts in
+BM; and CMML-2 for cases with 5% to 19% blasts in PB, 10% to
+19% in BM, and/or when Auer rods are present (Table 1). This
+stratiﬁcation holds prognostic signiﬁcance.13
+The distinction between “dysplastic” CMML (MD-CMML)
+and “proliferative” CMML (MP-CMML) initially proposed by the
+French-American-British (FAB) classiﬁcation83 based on a WBC
+cutoff of 13  109/L) remains useful, as their clinical features differ
+(cytopenias vs organomegaly, high WBC, and constitutional
+symptoms), and consequently, their clinical management.84–86
+MD-CMML, however, often progresses to MP-CMML, and this
+progression is frequently concomitant with occurrence of signal
+6
+
+(2018) 2:6
+
+www.hemaspherejournal.com
+
+Monitoring patients and criteria for response
+to treatment
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+PANEL RECOMMENDATION. All patients should have
+a detailed risk stratiﬁcation assessment with any of the
+following CMML-speciﬁc models incorporating mutational
+analysis: (a) the GFM CMML model, (b) the CPSS-mol, or
+(c) the Mayo Molecular Model (Table 3). If mutational
+proﬁling is not available, we recommend any of the clinical
+CMML-speciﬁc scores including (1) CPSS or (2) MDAPS
+(recommendation level D).
+
+Most clinical studies performed in CMML patients have evaluated
+response according to the MDS International Working Group
+(IWG) 2000 and 2006 criteria.104,105 These criteria can accurately
+capture correction of bone marrow blast excess and cytopenias,
+but not changes in myeloproliferative features such as correction of
+hyperleukocytosis and monocytosis, reduction in spleen size, and/
+or regression of extramedullary disease. An international panel has
+proposed MDS/MPN response criteria that take myeloproliferative features in consideration.106 They also take into account
+myeloﬁbrosis,14 and disease-related symptoms via the MPN-SAF
+scoring system.107 Overall, the MDS/MPN-speciﬁc criteria have
+more stringent deﬁnitions of complete remission and progressive
+disease than the MDS IWG criteria. Though these criteria represent
+an improvement for CMML and have been validated in a small
+retrospective cohort,108 future prospective validation is warranted.
+The relevance of improvements in hyperleukocytosis and monocytosis on long-term outcome and/or quality of life, and the
+adequacy of the MPN-SAF scale for general symptoms assessment
+in CMML require detailed investigation. Further investigation of
+symptom assessment and quality of life tools are warranted in
+CMML. In clinical practice, we recommend monitoring patients
+with a CBC and differential, assessment of splenomegaly and
+extramedullary disease (serous effusions, skin lesions, etc.), and
+evaluation of general symptoms with a standardized questionnaire
+such as the MPN-SAF. If splenomegaly is present, repeated
+measures of spleen volume with the same morphological test are
+preferable by ultrasound, magnetic resonance imaging, or
+computed tomography scan (considering the risk of radiation
+exposure). Finally, a bone marrow examination with cytogenetic
+proﬁling should be performed if a change in the above evaluation is
+identiﬁed.39 There is currently no formal data to recommend a
+repeat mutational panel during follow-up.75 With respect to
+pivotal phase 3 clinical trials, we recommend as primary endpoints
+robust criteria such as OS, progression-free survival, or event-free
+survival and incorporation of the MDS/MPN criteria as secondary
+endpoints. Phase 2 clinical trials utilizing the MDS/MPN IWG
+criteria as the primary endpoint should be analyzed with caution,
+particularly when interpreting the proportion of patients whose
+response is improvement of myeloproliferative symptoms.
+
+Patient-related factors
+Besides clinically relevant parameters, different factors related
+both to individual general health status and to individual
+expectations may affect clinical outcome and should be
+considered for risk assessment and treatment allocation in
+patients with CMML. These include age, functional ability
+(performance status), comorbidities, physical reserves (frailty),
+nutritional status and cognition, and quality of life.
+Older age is an independent adverse prognostic factor in
+CMML,45,69,91,94 and has been associated with adverse
+outcome after treatment, including HMAs and allogeneic
+hematopoietic stem cell transplantation (HSCT). Because
+CMML is a malignancy typically occurring in elderly people
+(median age around 77 years)95 favorable inﬂuence of younger
+age for longer survival, together with good performance status
+and absence of major comorbidities, currently appears to be
+mainly related to the patient feasibility for an HSCT, which still
+represents the only potentially curative treatment option.93
+However, chronological age may be distinct from biological or
+functional age, and additional factors should be considered
+when evaluating the eligibility of patients to disease-modifying
+treatments. Geriatric assessment tools should be evaluated in
+CMML patients.96
+Measurement of individual performance status has been applied
+to patients with hematologic malignancy, including CMML, and
+used as a selection criterion to undergo intensive treatments or to
+enter clinical trials.97 A high prevalence of comorbidities has been
+reported in patients with MDS or MDS/MPN. Sorror et al
+developed the Hematopoietic Cell Transplantation Comorbidity
+Index as an instrument to assess pretransplantation comorbidities.98 This scoring system was validated in independent cohorts of
+patients with CMML and can be used in predicting posttransplantation outcomes and stratifying CMML patients.99–101
+Several comorbidity scores have been tested in the general MDS
+patient population. These include general measures, such as the
+Charlson comorbidity index or the Adult Comorbidity Evaluation27, and disease-speciﬁc measures, such as the MDS-Speciﬁc
+Comorbidity Index. Although none of these indices was validated
+in independent cohorts of CMML patients, general criteria issued
+for MDS may be adopted as translated evidence.102,103
+
+PANEL RECOMMENDATION. While response to treatment can be evaluated by IWG 2006 criteria in MDCMML, recently proposed ad hoc MDS/MPN criteria
+should be preferably adopted (recommendation level D).
+With respect to pivotal phase 3 clinical trials, we
+recommend robust primary endpoints such as OS,
+progression-free survival, or event-free survival, and
+incorporation of the MDS/MPN criteria as secondary
+endpoints (recommendation level D).
+
+PANEL RECOMMENDATION. Based on the available
+evidence, the Expert Panel agreed that the prognostic
+relevance of factors related to individual general health
+status may have important implications in the management
+of patients with CMML, and accounting for both diseaseand patient-related factors improves risk stratiﬁcation and
+clinical decision making (recommendation level D).
+
+Treatment
+After risk assessment, the patient’s eligibility for allogeneic SCT
+should ﬁrst be assessed (Figs. 2 and 3). Nontransplant treatment
+strategies discussed below are summarized in Figure 4.
+
+7
+
+R. Itzykson et al.
+
+Diagnosis and Treatment of Chronic Myelomonocytic Leukemias in Adults
+
+Lower-risk CMML*
+
+Poor performance
+Unfit@
+
+Good performance
+Fit@
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+Non-transplant strategies
+
+No poor-risk features**
+
+Poor-risk features**
+
+Figure 4
+
+Non-transplant strategies
+
+Figure 4
+
+Failure†
+
+Available donor
+Transplant strategies#
+
+Figure 2. Therapeutic algorithm for lower-risk CMML patients. ∗According to proposed CMML prognostic scores.45,50,65,87,91@ Indicates nonﬁt (patients
+with multiple comorbidities and/or poor performance) or ﬁt (patients with no comorbidities and good performance status). † Indicates failure of nontransplant
+strategies. Nontransplant interventions may include >1 line of nontransplant intervention. ∗∗ Indicates poor-risk features (deﬁned as poor-risk cytogenetics,
+persistent blast increase [>50% or with >15% BM blasts], life-threatening cytopenias [neutrophil counts, <0.3  109/L; platelet counts, <30  109/L], high red
+blood cell transfusion intensity ≥2 units per months for 6 months; poor-risk molecular features). # Indicates transplant strategies (all forms of hematopoietic stem cell
+transplantation, see text). BM = bone marrow, CMML = chronic myelomonocytic leukemia.
+
+presence of other extramedullary disease, typically cutaneous
+involvement109 or serous effusions. Finally, constitutional
+symptoms should be investigated in MP-CMML, and could also
+trigger therapeutic interventions.
+
+Watchful-waiting strategy
+Many CMML patients without (or with only mild asymptomatic)
+cytopenias or major signs of myeloproliferation may, like MDS,
+be observed without treatment. There are no demonstrated
+thresholds to start treatment for cytopenias. For anemia, as for
+MDS, Hb levels <10 g/dL are generally poorly tolerated by
+elderly patients and tend to trigger treatment onset. For
+thrombocytopenia, treatment is generally triggered when the
+platelet count falls below 30  109/L or in case of bleeding
+symptoms. There is no demonstrated WBC threshold to start
+treatment in case of myeloproliferation. Most physicians start
+therapy in case of major, symptomatic splenomegaly, or in the
+
+PANEL RECOMMENDATION. CMML patients without
+excess of marrow blasts and without (or with only mild
+asymptomatic) cytopenias or major signs of myeloproliferation may observed without treatment (recommendation
+level D).
+
+Figure 3. Therapeutic algorithm for higher-risk CMML patients. ∗According to proposed CMML prognostic scores. 45,50,65,87,91@ Indicates nonﬁt (patients
+with multiple comorbidities and/or poor performance) or ﬁt (patients with no comorbidities and good performance status). † Indicates failure of nontransplant
+strategies. Nontransplant interventions may include >1 line of nontransplant intervention. ∗∗ Indicates poor-risk features (deﬁned as poor-risk cytogenetics,
+persistent blast increase [>50% or with >15% BM blasts], life-threatening cytopenias [neutrophil counts, <0.3  109/L; platelet counts, <30  109/L], high red
+blood cell transfusion intensity ≥2 units per months for 6 months; poor-risk molecular features). # Indicates transplant strategies (all forms of hematopoietic stem cell
+transplantation, see text). CMML = chronic myelomonocytic leukemia.
+
+8
+
+(2018) 2:6
+
+www.hemaspherejournal.com
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+Figure 4. Treatment strategies in patients not candidates for transplant.
+
+Allogeneic stem cell transplantation
+
+(IC) is still not clear, considering the absence of randomized
+prospective trials. Two recent retrospective studies have
+demonstrated that pre-HSCT therapy with azacitidine (AZA)
+in MDS patients, including CMML, may allow for similar
+outcomes after HSCT compared to pretreatment with IC.115,116
+Nevertheless, as the rate of complete remissions is generally
+higher with IC compared to HMA,111 IC might be the best option
+in selected, medically ﬁt patients, with a high disease burden.
+Treatment with HMA before HSCT might be considered mainly
+for unﬁt and “comorbid” patients and as a “bridging strategy” to
+HSCT in those where no donor has been identiﬁed yet.117 HMA
+may also be considered as a preferable option in patients with
+mutated TET2 and wild type ASXL1 who appear to have a
+higher response rate to HMAs, including in CMML.76,118
+
+Currently available therapeutic agents can lead to survival
+prolongation but no cure of CMML. Therefore, allogeneic HSCT
+is increasingly used as a curative treatment option.110 Moreover,
+nonrelapse mortality after HSCT has decreased signiﬁcantly in
+more recently performed HSCT, including patients up to the age
+of 70 years.111 The main questions are which patients with
+CMML might beneﬁt from HSCT and when should transplant be
+recommended. Patient-related and disease-related factors should
+be considered. We refer to the recently published review on HSCT
+in MDS and CMML for the general patient-related factors,
+including age, performance status (functional ability), frailty
+(reduced physical ﬁtness or physical reserve), and comorbidities.112,113 Prognostic tools, including performance status (eg,
+Karnofsky score), and HSCT-speciﬁc comorbidity index should
+be considered as well.112,114 We agreed to use the CMML-speciﬁc
+scoring system (CPSS)87 for the recommendation of HSCT for all
+CMML patients, but IPSS-R may also be used for patients with
+MD-CMML. The relatively poor survival after HSCT in CMML
+(compared with MDS) suggests that new transplantation
+strategies must be developed for these patients, including posttransplant strategies to prevent relapse.
+
+Source of hematopoietic stem cells. G-CSF stimulated blood stem
+cells (PBSC) are preferred and predominantly used in current
+practice.110 PBSC are associated with a faster engraftment and a
+lower relapse rate through graft-versus-leukemia effect, caused
+by the higher number of T cells in the apheresis products.
+However, PBSCs are associated with higher incidence of chronic
+GvHD compared with bone marrow. According to a recent
+randomized study in patients with hematological malignancies
+(including MDS) undergoing bone marrow transplantation with
+unrelated donors, the rate of severe chronic GvHD was
+signiﬁcantly reduced compared with PBSCs.119 This approach
+might still be an option, especially in patients who are expected to
+be sensitive to GVHD-related morbidity. In the absence of a
+matched related or unrelated donor, alternative donors may be
+considered in the context of a clinical trial, including haploidentical donors that have emerged as an interesting option.120
+
+Remission induction therapy before allogeneic hematopoietic
+SCT. Lower tumor burden prior to HSCT minimizes the risk of
+post-HSCT relapse and improves disease-free survival. Large
+retrospective analyses have demonstrated improved outcomes for
+patients transplanted in complete remission compared to those
+with active disease at the time of HSCT,111 although these
+analyses are hampered by a certain selection bias for patients with
+chemo-sensitive disease and do not take into consideration
+patients who did not undergo HSCT because of therapy-related
+toxicity. Therefore, the value of prior induction chemotherapy
+
+Preparative regimen for allogeneic SCT. Myeloablative (MAC),
+for example, busulfan/cyclophosphamide containing or
+
+9
+
+R. Itzykson et al.
+
+Diagnosis and Treatment of Chronic Myelomonocytic Leukemias in Adults
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+WBC lower than 13  109/L. In Europe, only AZA is licensed in
+CMML and its labeling restricted to CMML-2 patients with
+WBC < 13  109/L on the basis of a phase 3 MDS trial where
+only 11 CMML patients were randomized.130
+Following these licenses, a number of retrospective series of 10
+to 150 patients have been reported with AZA and DAC.131–137
+Phase 2 trials have also explored prospectively the activity of
+HMAs in CMML in cohorts of 10 to 40 patients.127,138–144
+Overall, these series have reported a weighted mean of ∼50%
+overall and ∼25% complete response rates by MDS IWG criteria,
+and a median OS of ∼20 months. The proportion of MP-CMML
+in these trials was highly variable and no meta-analysis has been
+performed. Several studies indicate that MP-CMML still has
+shorter survival than MD-CMML when treated with
+HMAs,132,133 but there is no obvious trend correlating response
+to HMAs in CMML with the extent of myeloproliferation.134,137
+Indeed, retrospective and prospective data indicate that both
+AZA and DAC can reduce myeloproliferative features, including
+normalization of WBC, improvement of splenomegaly, and
+extramedullary skin lesions.108,131,138,145 Retrospective comparisons of patients treated with AZA versus DAC do not provide
+data to support the choice of one HMA over the other.76,134
+Grades 3 to 4 hematologic toxicity has been reported in 15% to
+55% of the patients, including up to 15% infections.137,139 These
+ﬁgures compare favorably with those seen in MDS.130 This could
+be due to lower toxicity notably the less frequent occurrence of
+neutropenia in patients with MP-CMML, although there is no
+data correlating myeloproliferative features and toxicity to
+HMAs in CMML.
+In patients eligible for HSCT, as mentioned above, the role of
+HMA prior to transplant is disputed, especially as CMML were
+often analyzed together with MDS.
+In MP-CMML patients ineligible for HSCT, a retrospective
+comparison suggests a survival beneﬁt of HMA over HY, and
+previous HY exposure seems to reduce the response rate to
+HMAs137 but this requires prospective conﬁrmation, especially
+with the ongoing DACOTA trial (NCT02214407, EudraCT:
+2014-000200-10), a European phase III trial randomizing
+frontline DAC versus HY in MP-CMML with adverse features
+(signiﬁcant cytopenias, high neutrophil count, blast excess or
+splenomegaly, deﬁned according to a previous randomized trial
+of HY in MP-CMML2).
+Biomarkers of HMA activity are scarce and few studies have
+speciﬁcally explored CMML cases. The impact of genomic,
+epigenomic, or transcriptomic features have yet to be validated
+and cannot yet guide routine practice.138,146–148 In a retrospective series of 174 patients, patients with TET2mut/ASXL1wt
+genotypes had the highest rates of complete and overall response,
+but with limited survival beneﬁt. Conversely, patients with
+RUNX1 or CBL mutations had shortened survival compared
+with other genotypes.76 The experience with novel HMAs such as
+oral AZA149 and guadecitabine150 is too limited in CMML to
+recommend their use outside of clinical trials. Half of patients
+with primary or secondary HMA failure transform to AML and
+overall, the prognosis of CMML after HMA failure is very poor,
+with a median survival of around 7 months. Data on a very small
+cohort of CMML patients suggest that there is no beneﬁt in
+switching from AZA to DAC after AZA failure.151
+In patients ineligible for transplant, AZA should be used
+according to its label in MD-CMML-2. Off-label use of AZA in
+patients with CMML-1 according to WHO 2016 with signiﬁcant
+cytopenias, notably thrombocytopenia, should be considered. In
+MP-CMML, HMAs should be envisaged in patients with a blast
+
+TBI-based, regimens are considered standard of care mainly in ﬁt
+CMML patients.112 Addition of ATG is recommended in case of
+matched unrelated donor and MAC according to a randomized
+study.121 The introduction of reduced intensity conditioning (RIC)
+has broadened the use of allogeneic SCT for CMML patients with
+advanced age and comorbidities through reduced tissue damage,
+toxicity, and the risk of acute GvHD. However, RIC is associated
+with less effective reduction of “CMML burden” resulting in an
+increased rate of relapse.122,123 A randomized study comparing
+RIC versus MAC in MDS and CMML showed similar outcome
+after both conditioning regimens.124,125
+
+PANEL RECOMMENDATION. HSCT is recommended
+for patients below the age 70 with a donor and no major
+contraindication to transplant who have higher-risk
+CMML according to CMML-speciﬁc prognostic scoring
+systems described above (Figs. 2 and 3). Transplant may be
+considered in selected lower-risk patients with poor
+prognostic factors that include severe cytopenias, several
+poor-risk somatic mutations (especially ASXL1, RUNX1,
+SETBP1, NRAS) (recommendation level B). Cytoreductive
+treatment before HSCT is generally advocated in CMML-2
+(level of evidence 2, recommendation level D).
+
+Remission induction chemotherapy
+There is a limited published dataset for intensive chemotherapy
+(IC) in patients with CMML. The main goal of IC is to reduce
+bone marrow blasts and aim for complete remission.105 CMML
+is a fundamentally chemoresistant disease which does not appear
+to be curable with IC alone. Single center series describe poor
+long-term outcomes irrespective of the IC regimen, despite
+achieving up to 40% CR rate. Remission duration is short, and
+relapse appears inevitable, even when regimens are intensiﬁed.126
+On the other hand, as mentioned above, IC is generally
+recommended before HSCT for “short-term control” in patients
+with an excess of marrow blasts (especially CMML-2), despite
+the absence of prospective trials clearly demonstrated the role of
+IC in this context. When considering intensive chemotherapy as a
+“bridge to transplant,” however, the beneﬁts should be weighed
+against the risks of complications (eg, infections) or organ
+damage that may delay or deﬁnitively impair HSCT. IC may also
+be considered in CMML-2 with severe cytopenias, rapidly
+evolving disease, especially when the differential diagnosis
+between CMML-2 and M4 AML appears difﬁcult, such as the
+presence of Auer rods and/or an NPM1 mutation.
+PANEL RECOMMENDATION. Intensive IC is not
+recommended in patients with CMML, except in CMML2 patients as a bridge to HSCT, or when the disease appears to
+be very close to M4 AML (presence of Auer rods, NPM1
+mutation; evidence level 3, recommendation level D).
+
+Hypomethylating agents
+The HMAs, AZA, and decitabine (DAC) have been approved in
+CMML in the United States based on pivotal MDS phase 3 trials
+including <20 CMML patients each.127–129 Most patients had
+10
+
+(2018) 2:6
+
+www.hemaspherejournal.com
+
+factors (low endogenous serum erythropoietin [EPO] level and
+low red blood cell [RBC] transfusion requirements), the only
+published series on the use of ESAs speciﬁcally in CMML is
+that of the Spanish and German MDS groups including 94
+CMML patients.152 Erythroid response (ER) was observed in
+64% of patients and RBC transfusion independence in 31%, in
+keeping with the results of ESAs in lower-risk MDS.153,154 The
+median duration of ER was 7 months, which seems shorter
+than responses obtained in MDS.153,154 CPSS and EPO levels
+were signiﬁcantly associated with ER in multivariate analysis.
+Considering only patients with CPSS low- or intermediate-1risk group, the absence of RBC transfusion dependence (RBCTD) and EPO level predicted ER. Achievement of ER correlated
+with a better survival.152 Challenging neutropenia is extremely
+infrequent in untreated CMML. Severe neutropenia in
+patients treated with cytoreductive drugs should be
+addressed by tapering and/or interrupting the drug. There is
+no data to support the safe use of G-CSF in CMML patients
+with HMA-induced neutropenia, although its administration
+could be considered in febrile patients not responding to
+antibiotics.
+
+excess (CMML-1/2) and cytopenias or signiﬁcant myeloproliferation, including extramedullary disease, until results of the
+ongoing DACOTA trial are available. In patients eligible for
+transplant, it is unclear when HMA should be used before
+transplant, especially compared with IC.
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+PANEL RECOMMENDATION. In patients ineligible for
+transplant, AZA should be considered according to its label
+in MD-CMML with more than 10% of blasts (evidence level
+2, recommendation level B). Use of AZA in patients with a
+blast excess >5% and signiﬁcant cytopenias or myeloproliferation should be considered, preferably within clinical trials
+(evidence level 3, recommendation level D). In patients
+eligible for transplant, it is unclear when HMA should be
+used before transplant, especially compared with IC.
+
+Low-dose chemotherapy
+Most MP-CMML patients with signiﬁcant leukocytosis or
+organomegaly are still treated with low-dose cytoreductive
+therapy, mainly HY. Despite its very limited disease-modifying
+activity, HY remains the reference of cytoreductive therapy used
+in this setting, notably following a randomized study that showed
+its superiority over oral etoposide in elderly patients with MPCMML and high-risk features. In that trial, low-dose HY (1 g/d)
+gave higher response rates and better survival than etoposide
+(150 mg/wk), with median OS of 20 and 9 months, respectively.2
+The decision to introduce HY therapy requires an assessment
+of the potential beneﬁt of controlling the white cell count (and
+perhaps the catabolic symptoms associated with this high count),
+versus the potential worsening of cytopenias, especially in
+patients with elevated but stable WBC. Development and
+validation of dedicated symptom scores would be instrumental
+in that aspect. HY should be tapered or withheld in case of onset
+or aggravation of transfusion dependency.
+Although it has no obvious impact on the abnormal clone(s)
+size,53 HY is still widely employed in proliferative CMML,
+especially before the use of HMA. As mentioned above, an
+ongoing European randomized study compares HY with DAC in
+MP-CMML with high-risk features (DACOTA trial,
+NCT02214407, EudraCT: 2014-000200-10), and its results
+are not yet available. Finally, therapy with HY does not seem to
+affect the outcome of patients who later undergo HSCT.
+
+PANEL RECOMMENDATION. Speciﬁc CMML scoring
+systems, RBC transfusion requirement, and serum EPO
+levels are adequate tools to select CMML patients with
+symptomatic anemia who may beneﬁt from treatment with
+ESA. A signiﬁcant ER to ESA is expected in anemic patients
+with lower risk per CMML scoring systems and a low
+endogenous serum EPO level (evidence level 2, recommendation level B).
+
+Red cell transfusion and iron chelation therapy
+Red cell transfusion. Registry data show that 35% CMML
+patients at diagnosis have a hemoglobin concentration <10 g/dL,
+with 20% meeting the “MDS” deﬁnition of RBC-TD.87
+Surveillance, Epidemiology and End Results (SEER) data
+demonstrate that 60% patients with CMML receive red cell
+transfusions.155 Red cell transfusion is indicated for the
+management of symptomatic anemia in CMML, either in the
+absence of suitable disease-modifying therapy or in conjunction
+with active therapeutic intervention. In general, guidelines for red
+cell transfusion in CMML reﬂect the recommendations for
+MDS,154 particularly for MD-CMML which often has a natural
+history that mirrors lower-risk subtypes of MDS. However, for
+MP-CMML, some speciﬁc features may inﬂuence red cell
+transfusion strategy including:
+
+PANEL RECOMMENDATION. HY is recommended in
+proliferative CMML, in the absence of major cytopenias or
+excess of marrow blasts (evidence level 2, recommendation
+level A). No single level of WBC count or spleen size can be
+recommended as being the optimal level to introduce
+treatment. The decision should be based on the patient’s
+symptoms and comorbidity.
+
+1. The catabolic symptoms associated with proliferative CMML
+are analogous to those of myeloproliferative disease. As such
+fatigue and weight loss may contribute to general malaise
+independently of the symptoms of anemia.
+2. Proliferative CMML may be associated with splenomegaly.
+Splenic pooling may necessitate larger volume red cell
+transfusion to achieve symptomatic beneﬁt at any given
+hemoglobin concentration.
+3. Cytoreductive therapy aimed at controlling myeloproliferation may worsen anemia thereby necessitating supportive red
+cell transfusion independent of the natural history of the
+disease-associated anemia.
+
+Other treatments including hematopoietic growth
+factors
+While erythropoietic stimulating factors (ESA) are generally the
+ﬁrst-line treatment of lower-risk MDS, with known prognostic
+11
+
+R. Itzykson et al.
+
+Diagnosis and Treatment of Chronic Myelomonocytic Leukemias in Adults
+
+All 3 of these features may render red cell transfusion less
+effective for symptomatic relief of anemia in the proliferative
+CMML subtype, but deﬁnitive data are lacking.
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+PANEL RECOMMENDATION. A short steroid course
+may be attempted in CMML when a peripheral immune
+component is suspected, notably patients with severe
+thrombocytopenia contrasting with the absence of anemia
+in the absence of an excess of marrow blasts (level of
+evidence 3, recommendation level D).
+
+PANEL RECOMMENDATION. Best practice currently
+individualizes hemoglobin thresholds based on a combination of patient comorbidities (cardiac, respiratory),
+symptoms at a given Hb concentration, observed
+symptomatic beneﬁt from a (series of) transfusion episodes
+and patient preference. (i) Hemoglobin <80 g/L is typically
+symptomatic and should be considered to trigger RBC
+transfusion, but no consistent single hemoglobin threshold
+can be recommended. (ii) No consistent single hemoglobin
+target value can be recommended. (iii) Transfusion
+frequency should reﬂect the duration of symptomatic
+beneﬁt between transfusion episodes. (iv) If transfusion
+frequency and number of units per transfusion episode
+is steadily increasing, consideration should be given to
+other causes of anemia (eg, hypersplenism, bleeding,
+hemolysis) or to disease progression (recommendation
+level D).
+
+Other and new drugs
+Few phase I/II trials are exploring novel agents selectively in
+CMML (or in MDS/MPN). These include drug classes such as
+oral TPO agonists (eltrombopag, NCT02323178), JAK2
+inhibitors (ruxolitinib, NCT01776723), farnesyltransferase
+inhibitors (tipifarnib, NCT02807272), histone deacetylase
+inhibitors (teﬁnostat, EudraCT 2015-002281-23), or the GMCSF cytokine (lenzilumab, NCT02546284). However, a broader
+range of drug classes are being explored in more advanced,
+registration trials designed for MDS and/or AML, but that can
+include CMML subsets. This is for instance the case for the
+second-generation HMA guadecitabine (NCT02907359). Because the molecular spectrum of CMML is closely related to that
+of other myeloid neoplasms, trials exploring IDH inhibitors or
+spliceosome inhibitors (H3B-8800, NCT02841540) may be
+open to CMML.
+
+Iron chelation therapy. There are no studies speciﬁcally assessing
+the role of iron chelation therapy (ICT). As such it seems
+reasonable to recommend the same options as for MDS, adapted
+for CMML.
+
+PANEL RECOMMENDATION. Inclusion of CMML
+patients in clinical trials is strongly encouraged at all stages
+of the disease. Academic, international CMML-speciﬁc
+conﬁrmatory trials of activity signals detected in early phase
+trials having only registered a minority of CMML patients
+should be encouraged (recommendation level D).
+
+PANEL RECOMMENDATION. ICT may be considered
+for red cell transfusion-dependent patients with CMML
+belonging to lower-risk categories of speciﬁc CMML
+scoring systems and a serum ferritin level higher than
+1000 ng/mL after approximately 25 units of red cell, in the
+absence of patient-related (non-MDS) factors anticipated to
+reduce life expectancy to <3 years (evidence level 3,
+recommendation level D).
+
+Conclusion
+Despite an increasing knowledge on the molecular and cellular
+features of CMML, the clinical management of these overlap
+MDS/MPN syndromes remains poorly codiﬁed. The present
+recommendations often rely on expert opinions, and/or extrapolations of MDS or MPN guidelines.
+The inclusion of patients in clinical trials is strongly
+encouraged to obtain the maximal information on safety and
+efﬁcacy of new treatments. The inclusion of patients in national
+and international registries is also encouraged to obtain data on
+the disease and on the implementation of treatment strategies in
+everyday clinical practice and to establish an optimal frame for
+biological and translational studies. The recently established
+international collaborative networks69,106,157 established in
+CMML will be instrumental in unifying the existing prognostication tools and in conducting CMML-speciﬁc clinical trials,
+to clarify the management strategy of CMML in the coming
+years.
+
+Management of thrombocytopenia
+Hypersplenism may contribute to thrombocytopenia in CMML
+patients with splenomegaly. Thrombocytopenia can also have a
+peripheral component in CMML, and this may be suspected
+notably when there is severe thrombocytopenia contrasting with
+the absence of anemia or excess of marrow blasts. Immune
+thrombocytopenia-like treatments, may be attempted in those
+cases, sometimes with success.156 Thus, a short steroid course
+may be envisaged in those cases. A trial of the thrombopoietin
+(TPO) agonist eltrombopag is ongoing in thrombocytopenic
+CMML-0
+patients
+(EudraCT
+2013-001779-19,
+NCT02323178). Use of TPO mimetics outside of clinical trials
+in CMML is not recommended. Otherwise, the recommendations for platelet transfusion should be per the guidelines for
+MDS.154
+
+12
+
+(2018) 2:6
+
+www.hemaspherejournal.com
+
+Acknowledgments
+
+19. Westers TM, Ireland R, Kern W, et al. Standardization of ﬂow
+cytometry in myelodysplastic syndromes: a report from an
+international consortium and the European LeukemiaNet Working
+Group. Leukemia. 2012;26:1730–1741.
+20. Porwit A, van de Loosdrecht AA, Bettelheim P, et al. Revisiting
+guidelines for integration of ﬂow cytometry results in the WHO
+classiﬁcation of myelodysplastic syndromes-proposal from the
+International/European LeukemiaNet Working Group for ﬂow
+cytometry in MDS. Leukemia. 2014;28:1793–1798.
+21. Westers TM, Cremers EM, Oelschlaegel U, et al. Immunophenotypic
+analysis of erythroid dysplasia in myelodysplastic syndromes. A
+report from the IMDSFlow Working Group. Haematologica.
+2017;102:308–319.
+22. Cremers EM, Westers TM, Alhan C, et al. Implementation of
+erythroid lineage analysis by ﬂow cytometry in diagnostic models for
+myelodysplastic syndromes. Haematologica. 2017;102:320–326.
+23. Alhan C, Westers TM, Cremers EM, et al. The myelodysplastic
+syndromes ﬂow cytometric score: a three-parameter prognostic
+ﬂow cytometric scoring system. Leukemia. 2016;30:658–665.
+24. Lacronique-Gazaille C, Chaury MP, Le Guyader A, et al. A simple
+method for detection of major phenotypic abnormalities in
+myelodysplastic syndromes: expression of CD56 in CMML.
+Haematologica. 2007;92:859–860.
+25. Selimoglu-Buet D, Wagner-Ballon O, Saada V, et al. Characteristic
+repartition of monocyte subsets as a diagnostic signature of chronic
+myelomonocytic leukemia. Blood. 2015;125:3618–3626.
+26. Talati C, Zhang L, Shaheen G, et al. Monocyte subset analysis
+accurately distinguishes CMML from MDS and is associated with a
+favorable MDS prognosis. Blood. 2017;129:1881–1883.
+27. Patnaik MM, Timm MM, Vallapureddy R, et al. Flow cytometry based
+monocyte subset analysis accurately distinguishes chronic myelomonocytic leukemia from myeloproliferative neoplasms with associated monocytosis. Blood Cancer J. 2017;7:e584.
+28. Tarﬁ S, Harrivel V, Dumezy F, et al. Multicentric validation of the
+“monocyte assay” for chronic myelomonocytic leukemia diagnosis
+by ﬂow cytometry. Blood. 2017;130 (suppl 1):4273.
+29. Ziegler-Heitbrock L, Ancuta P, Crowe S, et al. Nomenclature of
+monocytes and dendritic cells in blood. Blood. 2010;116:e74–e80.
+30. Wong KL, Tai JJ, Wong WC, et al. Gene expression proﬁling reveals
+the deﬁning features of the classical, intermediate, and nonclassical
+human monocyte subsets. Blood. 2011;118:e16–e31.
+31. Vazquez R, Roussel M, Badaoui B, et al. High sensitivity of the
+hematoﬂow solution for chronic myelomonocytic leukemia screening. Cytometry B Clin Cytom. 2018;94:658–661.
+32. Selimoglu-Buet D, Badaoui B, Benayoun E, et al. Accumulation of
+classical monocytes deﬁnes a subgroup of MDS that frequently
+evolves into CMML. Blood. 2017;130:832–835.
+33. Barraco D, Cerquozzi S, Gangat N, et al. Monocytosis in
+polycythemia vera: clinical and molecular correlates. Am J Hematol.
+2017;92:640–645.
+34. Elliott MA, Verstovsek S, Dingli D, et al. Monocytosis is an adverse
+prognostic factor for survival in younger patients with primary
+myeloﬁbrosis. Leuk Res. 2007;31:1503–1509.
+35. Onida F, Kantarjian HM, Smith TL, et al. Prognostic factors and
+scoring systems in chronic myelomonocytic leukemia: a retrospective analysis of 213 patients. Blood. 2002;99:840–849.
+36. Solé F, Espinet B, Sanz GF, et al. Incidence, characterization and
+prognostic signiﬁcance of chromosomal abnormalities in 640
+patients with primary myelodysplastic syndromes. Br J Haematol.
+2000;108:346–356.
+37. Germing U, Kundgen A, Gattermann N. Risk assessment in chronic
+myelomonocytic leukemia (CMML). Leuk Lymphoma. 2004;45:
+1311–1318.
+38. Such E, Cervera J, Costa D, et al. Cytogenetic risk stratiﬁcation in
+chronic myelomonocytic leukemia. Haematologica. 2011;96:
+375–383.
+39. Tang G, Fu B, Hu S, et al. Prognostic impact of acquisition of
+cytogenetic abnormalities during the course of chronic myelomonocytic leukemia. Am J Hematol. 2015;90:882–887.
+40. Tang G, Zhang L, Fu B, et al. Cytogenetic risk stratiﬁcation of 417
+patients with chronic myelomonocytic leukemia from a single
+institution. Am J Hematol. 2014;89:813–818.
+41. Wassie EA, Itzykson R, Lasho TL, et al. Molecular and prognostic
+correlates of cytogenetic abnormalities in chronic myelomonocytic
+leukemia: a Mayo Clinic-French Consortium Study. Am J Hematol.
+2014;89:1111–1115.
+
+All authors would like to thank Gabriela Rojková and European
+Hematology Association executive ofﬁce for administrative
+support.
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+References
+1. Arber DA, Orazi A, Hasserjian R, et al. The 2016 revision to the World
+Health Organization classiﬁcation of myeloid neoplasms and acute
+leukemia. Blood. 2016;127:2391–2405.
+2. Wattel E, Guerci A, Hecquet B, et al. A randomized trial of
+hydroxyurea versus VP16 in adult chronic myelomonocytic leukemia. Groupe Francais des Myelodysplasies and European CMML
+Group. Blood. 1996;88:2480–2487.
+3. Shi C, Pamer EG. Monocyte recruitment during infection and
+inﬂammation. Nat Rev Immunol. 2011;11:762–774.
+4. Hamilton JA. Rheumatoid arthritis: opposing actions of haemopoietic growth factors and slow-acting anti-rheumatic drugs.
+Lancet. 1993;342:536–539.
+5. Hilliard BA, Zizzo G, Ulas M, et al. Increased expression of Mer
+tyrosine kinase in circulating dendritic cells and monocytes of lupus
+patients: correlations with plasma interferon activity and steroid
+therapy. Arthritis Res Ther. 2014;16:R76.
+6. Brkic Z, Maria NI, van Helden-Meeuwsen CG, et al. Prevalence of
+interferon type I signature in CD14 monocytes of patients with
+Sjogren’s syndrome and association with disease activity and BAFF
+gene expression. Ann Rheum Dis. 2013;72:728–735.
+7. Peker D, Padron E, Horna P, et al. A close association of history of
+autoimmunity with chronic myelomonocytic leukemia (CMML) in
+contrast to chronic myelogenous leukemia (CML). Blood.
+2012;120:1712.
+8. Mekinian A, Grignano E, Braun T, et al. Systemic inﬂammatory
+and autoimmune manifestations associated with myelodysplastic
+syndromes and chronic myelomonocytic leukaemia: a French
+multicentre
+retrospective
+study.
+Rheumatology
+(Oxford).
+2016;55:291–300.
+9. Orazi A, Bennett JM, Germing U. Swerdlow SH, Campo E, Harris NL,
+et al. Chronic myelomonocytic leukemia. WHO Classiﬁcation of
+Tumours of Haematopoietic and Lymphoid Tissues. IARC Press,
+Lyon:2017.
+10. Xubo G, Xingguo L, Xianguo W, et al. The role of peripheral blood,
+bone marrow aspirate and especially bone marrow trephine biopsy
+in distinguishing atypical chronic myeloid leukemia from chronic
+granulocytic leukemia and chronic myelomonocytic leukemia. Eur J
+Haematol. 2009;83:292–301.
+11. Germing U, Strupp C, Giagounidis A, et al. Evaluation of dysplasia
+through detailed cytomorphology in 3156 patients from the
+Dusseldorf Registry on Myelodysplastic Syndromes. Leuk Res.
+2012;36:727–734.
+12. Goasguen JE, Bennett JM, Bain BJ, et al. Morphological evaluation
+of monocytes and their precursors. Haematologica. 2009;94:
+994–997.
+13. Schuler E, Schroeder M, Neukirchen J, et al. Reﬁned medullary blast
+and white blood cell count based classiﬁcation of chronic
+myelomonocytic leukemias. Leuk Res. 2014;38:1413–1419.
+14. Orazi A, Chiu R, O’Malley DP, et al. Chronic myelomonocytic
+leukemia: the role of bone marrow biopsy immunohistology. Mod
+Pathol. 2006;19:1536–1545.
+15. Ngo N-T, Lampert IA, Naresh KN. Bone marrow trephine
+morphology and immunohistochemical ﬁndings in chronic myelomonocytic leukaemia. Br J Haematol. 2008;141:771–781.
+16. Qubaja M, Marmey B, Le Tourneau A, et al. The detection of CD14
+and CD16 in parafﬁn-embedded bone marrow biopsies is useful for
+the diagnosis of chronic myelomonocytic leukemia. Virchows
+Archiv. 2009;454:411–419.
+17. Machherndl-Spandl S, Sega W, Bösmüller H, et al. Prognostic
+impact of blast cell counts in dysplastic bone marrow disorders
+(MDS and CMML I) with concomitant ﬁbrosis. Ann Hematol.
+2013;93:57–64.
+18. Thiele J, Orazi A, Kvasnicka HM, et al. European Bone Marrow
+Working Group trial on reproducibility of World Health Organization
+criteria to discriminate essential thrombocythemia from preﬁbrotic
+primary myeloﬁbrosis. Haematologica. 2012;97:360–365.
+
+13
+
+R. Itzykson et al.
+
+Diagnosis and Treatment of Chronic Myelomonocytic Leukemias in Adults
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+65. Patnaik MM, Padron E, Laborde RR, et al. Mayo prognostic model
+for WHO-deﬁned chronic myelomonocytic leukemia: ASXL1 and
+spliceosome component mutations and outcomes. Leukemia.
+2013;27:1504–1510.
+66. Cervera N, Itzykson R, Coppin E, et al. Gene mutations differently
+impact the prognosis of the myelodysplastic and myeloproliferative
+classes of chronic myelomonocytic leukemia. Am J Hematol.
+2014;89:604–609.
+67. Gelsi-Boyer V, Trouplin V, Roquain J, et al. ASXL1 mutation is
+associated with poor prognosis and acute transformation in chronic
+myelomonocytic leukaemia. Br J Haematol. 2010;151:365–375.
+68. Lin Y, Zheng Y, Wang ZC, et al. Prognostic signiﬁcance of ASXL1
+mutations in myelodysplastic syndromes and chronic myelomonocytic leukemia: a meta-analysis. Hematology. 2016;21:454–461.
+69. Padron E, Garcia-Manero G, Patnaik MM, et al. An international data
+set for CMML validates prognostic scoring systems and demonstrates a need for novel prognostication strategies. Blood Cancer J.
+2015;5:e333.
+70. Kosmider O, Gelsi-Boyer V, Ciudad M, et al. TET2 gene mutation is a
+frequent and adverse event in chronic myelomonocytic leukemia.
+Haematologica. 2009;94:1676–1681.
+71. Grossmann V, Kohlmann A, Eder C, et al. Molecular proﬁling of
+chronic myelomonocytic leukemia reveals diverse mutations in
+>80% of patients with TET2 and EZH2 being of high prognostic
+relevance. Leukemia. 2011;25:877–879.
+72. Laborde RR, Patnaik MM, Lasho TL, et al. SETBP1 mutations in 415
+patients with primary myeloﬁbrosis or chronic myelomonocytic
+leukemia: independent prognostic impact in CMML. Leukemia.
+2013;27:2100–2102.
+73. Damm F, Itzykson R, Kosmider O, et al. SETBP1 mutations in 658
+patients with myelodysplastic syndromes, chronic myelomonocytic
+leukemia and secondary acute myeloid leukemias. Leukemia.
+2013;27:1401–1403.
+74. Ernst T, Chase AJ, Score J, et al. Inactivating mutations of the
+histone methyltransferase gene EZH2 in myeloid disorders. Nat
+Genet. 2010;42:722–726.
+75. Yoshizato T, Nannya Y, Atsuta Y, et al. Impact of genetic alterations
+in stem-cell transplantation for myelodysplasia and secondary acute
+myeloid leukemia. Blood. 2017;129:2347–2358.
+76. Duchmann M, Yalniz FF, Sanna A, et al. Prognostic role of gene
+mutations in chronic myelomonocytic leukemia patients treated with
+hypomethylating agents. EBioMedicine. 2018;31:174–181.
+77. Butt NM, Lambert J, Ali S, et al. Guideline for the investigation and
+management of eosinophilia. Br J Haematol. 2017;176:553–572.
+78. Bell GC, Padron E. Detection of a PDGFRB fusion in refractory
+CMML without eosinophilia: a case for broad spectrum tumor
+proﬁling. Leuk Res Rep. 2015;4:70–71.
+79. Cheah CY, Burbury K, Apperley JF, et al. Patients with myeloid
+malignancies bearing PDGFRB fusion genes achieve durable longterm remissions with imatinib. Blood. 2014;123:3574–3577.
+80. Apperley JF, Gardembas M, Melo JV, et al. Response to imatinib
+mesylate in patients with chronic myeloproliferative diseases with
+rearrangements of the platelet-derived growth factor receptor beta.
+N Engl J Med. 2002;347:481–487.
+81. Schwaab J, Knut M, Haferlach C, et al. Limited duration of complete
+remission on ruxolitinib in myeloid neoplasms with PCM1-JAK2 and
+BCR-JAK2 fusion genes. Ann Hematol. 2014;94:233–238.
+82. Jawhar M, Schwaab J, Schnittger S, et al. Additional mutations in
+SRSF2, ASXL1 and/or RUNX1 identify a high-risk group of patients
+with KIT D816V+ advanced systemic mastocytosis. Leukemia.
+2015;30:136–143.
+83. Bennett JM, Catovsky D, Daniel MT, et al. The chronic myeloid
+leukaemias: guidelines for distinguishing chronic granulocytic,
+atypical chronic myeloid, and chronic myelomonocytic leukaemia.
+Proposals by the French-American-British Cooperative Leukaemia
+Group. Br J Haematol. 1994;87:746–754.
+84. Michaux JL, Martiat P. Chronic myelomonocytic leukaemia (CMML)
+—a myelodysplastic or myeloproliferative syndrome? Leuk Lymphoma. 1993;9:35–41.
+85. Voglova J, Chrobak L, Neuwirtova R, et al. Myelodysplastic and
+myeloproliferative type of chronic myelomonocytic leukemia—
+distinct subgroups or two stages of the same disease? Leuk Res.
+2001;25:493–499.
+86. Onida F, Iacobelli S, Garcia-Manero G, et al. A new clinically-based
+subclassiﬁcation proposal in CMML with signiﬁcant prognostic
+implications to overcome the MDS/MPN categorizing dilemma.
+Blood. 2016;128:4320.
+
+42. Merlevede J, Droin N, Qin T, et al. Mutation allele burden remains
+unchanged in chronic myelomonocytic leukaemia responding to
+hypomethylating agents. Nat Commun. 2016;7:10767.
+43. Ball M, List AF, Padron E. When clinical heterogeneity exceeds
+genetic heterogeneity: thinking outside the genomic box in chronic
+myelomonocytic leukemia. Blood. 2016;128:2381–2387.
+44. Meggendorfer M, Roller A, Haferlach T, et al. SRSF2 mutations in
+275 cases with chronic myelomonocytic leukemia (CMML). Blood.
+2012;120:3080–3088.
+45. Itzykson R, Kosmider O, Renneville A, et al. Prognostic score
+including gene mutations in chronic myelomonocytic leukemia.
+J Clin Oncol. 2013;31:2428–2436.
+46. Malcovati L, Papaemmanuil E, Ambaglio I, et al. Driver somatic
+mutations identify distinct disease entities within myeloid neoplasms
+with myelodysplasia. Blood. 2014;124:1513–1521.
+47. Ricci C, Fermo E, Corti S, et al. RAS mutations contribute to
+evolution of chronic myelomonocytic leukemia to the proliferative
+variant. Clin Cancer Res. 2010;16:2246–2256.
+48. Mason CC, Khorashad JS, Tantravahi SK, et al. Age-related
+mutations and chronic myelomonocytic leukemia. Leukemia.
+2016;30:906–913.
+49. Kohlmann A, Grossmann V, Klein HU, et al. Next-generation
+sequencing technology reveals a characteristic pattern of molecular
+mutations in 72.8% of chronic myelomonocytic leukemia by
+detecting frequent alterations in TET2, CBL, RAS, and RUNX1.
+J Clin Oncol. 2010;28:3858–3865.
+50. Elena C, Galli A, Such E, et al. Integrating clinical features and
+genetic lesions in the risk assessment of patients with chronic
+myelomonocytic leukemia. Blood. 2016;128:1408–1417.
+51. Patnaik MM, Lasho TL, Vijayvargiya P, et al. Prognostic interaction
+between ASXL1 and TET2 mutations in chronic myelomonocytic
+leukemia. Blood Cancer J. 2016;6:e385.
+52. Steensma DP, Dewald GW, Lasho TL, et al. The JAK2 V617F
+activating tyrosine kinase mutation is an infrequent event in both
+“atypical” myeloproliferative disorders and myelodysplastic syndromes. Blood. 2005;106:1207–1209.
+53. Itzykson R, Kosmider O, Renneville A, et al. Clonal architecture
+of chronic myelomonocytic leukemias. Blood. 2013;121:
+2186–2198.
+54. Beran M, Shen Y, Onida F, et al. Prognostic signiﬁcance of
+monocytosis in patients with myeloproliferative disorders. Leuk
+Lymphoma. 2006;47:417–423.
+55. Meggendorfer M, Jeromin S, Haferlach C, et al. The mutational
+landscape of 18 investigated genes clearly separates four subtypes
+of myelodysplastic/myeloproliferative neoplasms. Haematologica.
+2018;103:e192–e195.
+56. Peng J, Zuo Z, Fu B, et al. Chronic myelomonocytic leukemia
+with nucleophosmin (NPM1) mutation. Eur J Haematol. 2016;96:
+65–71.
+57. Ernst T, Chase A, Zoi K, et al. Transcription factor mutations in
+myelodysplastic/myeloproliferative neoplasms. Haematologica.
+2010;95:1473–1480.
+58. Daver N, Strati P, Jabbour E, et al. FLT3 mutations in myelodysplastic syndrome and chronic myelomonocytic leukemia. Am J
+Hematol. 2013;88:56–59.
+59. Steensma DP, Bejar R, Jaiswal S, et al. Clonal hematopoiesis of
+indeterminate potential and its distinction from myelodysplastic
+syndromes. Blood. 2015;126:9–16.
+60. Mohamedali AM, Alkhatabi H, Kulasekararaj A, et al. Utility of
+peripheral blood for cytogenetic and mutation analysis in myelodysplastic syndrome. Blood. 2013;122:567–570.
+61. Thomas M, Sukhai MA, Zhang T, et al. Integration of technical,
+bioinformatic, and variant assessment approaches in the validation
+of a targeted Next-Generation Sequencing panel for myeloid
+malignancies. Arch Pathol Lab Med. 2017;141:759–775.
+62. den Dunnen JT, Dalgleish R, Maglott DR, et al. HGVS recommendations for the description of sequence variants: 2016 update. Hum
+Mutat. 2016;37:564–569.
+63. Patnaik MM, Itzykson R, Lasho TL, et al. ASXL1 and SETBP1
+mutations and their prognostic contribution in chronic myelomonocytic leukemia: a two-center study of 466 patients. Leukemia.
+2014;28:2206–2212.
+64. Smith AE, Mohamedali AM, Kulasekararaj A, et al. Next-generation
+sequencing of the TET2 gene in 355 MDS and CMML patients
+reveals low-abundance mutant clones with early origins, but
+indicates no deﬁnite prognostic value. Blood. 2010;116:
+3923–3932.
+
+14
+
+(2018) 2:6
+
+www.hemaspherejournal.com
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+109. Vitte F, Fabiani B, Benet C, et al. Speciﬁc skin lesions in chronic
+myelomonocytic leukemia: a spectrum of myelomonocytic and
+dendritic cell proliferations: a study of 42 cases. Am J Surg Pathol.
+2012;36:1302–1316.
+110. Passweg JR, Baldomero H, Bregni M, et al. Hematopoietic SCT in
+Europe: data and trends in 2011. Bone Marrow Transplant.
+2013;48:1161–1167.
+111. Symeonidis A, van Biezen A, de Wreede L, et al. Achievement of
+complete remission predicts outcome of allogeneic haematopoietic
+stem cell transplantation in patients with chronic myelomonocytic
+leukaemia. A study of the Chronic Malignancies Working Party of the
+European Group for Blood and Marrow Trans. Br J Haematol.
+2015;171:239–246.
+112. de Witte T, Bowen D, Robin M, et al. Allogeneic hematopoietic stem
+cell transplantation for MDS and CMML: recommendations from an
+international expert panel. Blood. 2017;129:1753–1762.
+113. Kerbauy DM, Lesnikov V, Abbasi N, et al. NF-kappaB and FLIP in
+arsenic trioxide (ATO)-induced apoptosis in myelodysplastic
+syndromes (MDSs). Blood. 2005;106:3917–3925.
+114. Sorror ML, Storb RF, Sandmaier BM, et al. Comorbidity-age index: a
+clinical measure of biologic age before allogeneic hematopoietic cell
+transplantation. J Clin Oncol. 2014;32:3249–3256.
+115. Damaj G, Duhamel A, Robin M, et al. Impact of azacitidine before
+allogeneic stem-cell transplantation for myelodysplastic syndromes:
+a study by the Societe Francaise de Greffe de Moelle et de TherapieCellulaire and the Groupe-Francophone des Myelodysplasies. J Clin
+Oncol. 2012;30:4533–4540.
+116. Potter VT, Iacobelli S, van Biezen A, et al. Comparison of intensive
+chemotherapy and hypomethylating agents before allogeneic stem
+cell transplantation for advanced myelodysplastic syndromes: a
+study of the myelodysplastic syndrome subcommittee of the chronic
+malignancies working party of the European Society for Blood and
+Marrow Transplant Research. Biol Blood Marrow Transplant.
+2016;22:1615–1620.
+117. Robin M, Fenaux P. Hypomethylating agents as bridging therapy
+before allogeneic hematopoietic stem cell transplantation in patients
+with chronic myelomonocytic leukemia? Biol Blood Marrow
+Transplant. 2016;22:1–2.
+118. Bejar R, Lord A, Stevenson K, et al. TET2 mutations predict response
+to hypomethylating agents in myelodysplastic syndrome patients.
+Blood. 2014;124:2705–2712.
+119. Anasetti C, Logan BR, Lee SJ, et al. Peripheral-blood stem cells
+versus bone marrow from unrelated donors. N Engl J Med.
+2012;367:1487–1496.
+120. Passweg JR, Baldomero H, Bader P, et al. Use of haploidentical
+stem cell transplantation continues to increase: the 2015 European
+Society for Blood and Marrow Transplant activity survey report.
+Bone Marrow Transplant. 2017;52:811–817.
+121. Kroger N, Solano C, Wolschke C, et al. Antilymphocyte globulin for
+prevention of chronic graft-versus-host disease. N Engl J Med.
+2016;374:43–53.
+122. Martino R. Retrospective comparison of reduced-intensity conditioning and conventional high-dose conditioning for allogeneic
+hematopoietic stem cell transplantation using HLA-identical
+sibling donors in myelodysplastic syndromes. Blood. 2006;108:
+836–846.
+123. Lim Z, Brand R, Martino R, et al. Allogeneic hematopoietic stem-cell
+transplantation for patients 50 years or older with myelodysplastic
+syndromes or secondary acute myeloid leukemia. J Clin Oncol.
+2010;28:405–411.
+124. Scott B, Deeg HJ, Storer B, et al. Targeted busulfan and
+cyclophosphamide as compared to busulfan and TBI as
+preparative regimens for transplantation in patients with advanced
+MDS or transformation to AML. Leuk Lymphoma. 2004;45:
+2409–2418.
+125. Kroger N, Iacobelli S, Franke GN, et al. Dose-reduced versus
+standard conditioning followed by allogeneic stem-cell transplantation for patients with myelodysplastic syndrome: a prospective
+randomized phase III study of the EBMT (RICMAC trial). J Clin Oncol.
+2017;35:2157–2164.
+126. Beran M, Estey E, O’Brien S, et al. Topotecan and cytarabine is
+an active combination regimen in myelodysplastic syndromes
+and chronic myelomonocytic leukemia. J Clin Oncol. 1999;17:
+2819–2830.
+127. Wijermans PW, Ruter B, Baer MR, et al. Efﬁcacy of decitabine in the
+treatment of patients with chronic myelomonocytic leukemia
+(CMML). Leuk Res. 2008;32:587–591.
+
+87. Such E, Germing U, Malcovati L, et al. Development and validation of
+a prognostic scoring system for patients with chronic myelomonocytic leukemia. Blood. 2013;121:3005–3015.
+88. Worsley A, Oscier DG, Stevens J, et al. Prognostic features of
+chronic myelomonocytic leukaemia: a modiﬁed Bournemouth score
+gives the best prediction of survival. Br J Haematol. 1988;68:17–21.
+89. Greenberg PL, Tuechler H, Schanz J, et al. Revised international
+prognostic scoring system for myelodysplastic syndromes. Blood.
+2012;120:2454–2465.
+90. Greenberg P, Cox C, LeBeau MM, et al. International scoring system
+for evaluating prognosis in myelodysplastic syndromes. Blood.
+1997;89:2079–2088.
+91. Kantarjian H, O’Brien S, Ravandi F, et al. Proposal for a new risk
+model in myelodysplastic syndrome that accounts for events not
+considered in the original International Prognostic Scoring System.
+Cancer. 2008;113:1351–1361.
+92. Bennett JM, Catovsky D, Daniel MT, et al. Proposals for the
+classiﬁcation of the acute leukaemias. French-American-British
+(FAB) co-operative group. Br J Haematol. 1976;33:451–458.
+93. Patnaik MM, Wassie EA, Padron E, et al. Chronic myelomonocytic
+leukemia in younger patients: molecular and cytogenetic predictors
+of survival and treatment outcome. Blood Cancer J. 2015;5:e280.
+94. Sanz GF, Sanz MA, Vallespi T, et al. Two regression models and a
+scoring system for predicting survival and planning treatment in
+myelodysplastic syndromes: a multivariate analysis of prognostic
+factors in 370 patients. Blood. 1989;74:395–408.
+95. Roman E, Smith A, Appleton S, et al. Myeloid malignancies in the
+real-world: occurrence, progression and survival in the UK’s
+population-based Haematological Malignancy Research Network
+2004–15. Cancer Epidemiol. 2016;42:186–198.
+96. Abel GA, Klepin HD. Frailty and the management of hematologic
+malignancies. Blood. 2018;131:515–524.
+97. Liu HD, Ahn KW, Hu ZH, et al. Allogeneic hematopoietic cell
+transplantation for adult chronic myelomonocytic leukemia. Biol
+Blood Marrow Transplant. 2017;23:767–775.
+98. Sorror ML, Logan BR, Zhu X, et al. Prospective validation of the
+predictive power of the hematopoietic cell transplantation comorbidity
+index: a center for International Blood and Marrow Transplant
+Research Study. Biol Blood Marrow Transplant. 2015;21:1479–1487.
+99. Sharma P, Shinde SS, Damlaj M, et al. Allogeneic hematopoietic
+stem cell transplant in adult patients with myelodysplastic
+syndrome/myeloproliferative neoplasm (MDS/MPN) overlap syndromes. Leuk Lymphoma. 2016;58:872–881.
+100. Eissa H, Gooley TA, Sorror ML, et al. Allogeneic hematopoietic cell
+transplantation for chronic myelomonocytic leukemia: relapse-free
+survival is determined by karyotype and comorbidities. Biol Blood
+Marrow Transplant. 2011;17:908–915.
+101. Kerbauy DMB, Chyou F, Gooley T, et al. Allogeneic hematopoietic
+cell transplantation for chronic myelomonocytic leukemia. Biol
+Blood Marrow Transplant. 2005;11:713–720.
+102. Yucel OK, Saliba RM, Rondon G, et al. Cytogenetics and
+comorbidity predict outcomes in older myelodysplastic syndrome
+patients after allogeneic stem cell transplantation using reduced
+intensity conditioning. Cancer. 2017;123:2661–2670.
+103. Buckstein R, Wells RA, Zhu N, et al. Patient-related factors
+independently impact overall survival in patients with myelodysplastic syndromes: an MDS-CAN prospective study. Br J Haematol.
+2016;174:88–101.
+104. Cheson BD, Bennett JM, Kantarjian H, et al. Report of an
+international working group to standardize response criteria for
+myelodysplastic syndromes. Blood. 2000;96:3671–3674.
+105. Cheson BD, Greenberg PL, Bennett JM, et al. Clinical application and
+proposal for modiﬁcation of the International Working Group (IWG)
+response criteria in myelodysplasia. Blood. 2006;108:419–425.
+106. Savona MR, Malcovati L, Komrokji R, et al. An international
+consortium proposal of uniform response criteria for myelodysplastic/myeloproliferative neoplasms (MDS/MPN) in adults. Blood.
+2015;125:1857–1865.
+107. Emanuel RM, Dueck AC, Geyer HL, et al. Myeloproliferative
+neoplasm (MPN) symptom assessment form total symptom score:
+prospective international assessment of an abbreviated symptom
+burden scoring system among patients with MPNs. J Clin Oncol.
+2012;30:4098–4103.
+108. Duchmann M, Braun T, Micol JB, et al. Validation of response
+assessment according to international consortium for MDS/MPN
+criteria in chronic myelomonocytic leukemia treated with hypomethylating agents. Blood Cancer J. 2017;7:e562.
+
+15
+
+R. Itzykson et al.
+
+Diagnosis and Treatment of Chronic Myelomonocytic Leukemias in Adults
+
+Downloaded from http://journals.lww.com/hemasphere by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCy
+wCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws= on 05/28/2023
+
+128. Silverman LR, Demakos EP, Peterson BL, et al. Randomized
+controlled trial of azacitidine in patients with the myelodysplastic
+syndrome: a study of the cancer and leukemia group B. J Clin Oncol.
+2002;20:2429–2440.
+129. Kantarjian H, Oki Y, Garcia-Manero G, et al. Results of a randomized
+study of 3 schedules of low-dose decitabine in higher-risk
+myelodysplastic syndrome and chronic myelomonocytic leukemia.
+Blood. 2007;109:52–57.
+130. Fenaux P, Mufti GJ, Hellstrom-Lindberg E, et al. Efﬁcacy of
+azacitidine compared with that of conventional care regimens in
+the treatment of higher-risk myelodysplastic syndromes: a randomised, open-label, phase III study. Lancet Oncol. 2009;10:223–232.
+131. Aribi A, Borthakur G, Ravandi F, et al. Activity of decitabine, a
+hypomethylating agent, in chronic myelomonocytic leukemia.
+Cancer. 2007;109:713–717.
+132. Costa R, Abdulhaq H, Haq B, et al. Activity of azacitidine in chronic
+myelomonocytic leukemia. Cancer. 2011;117:2690–2696.
+133. Ades L, Sekeres MA, Wolfromm A, et al. Predictive factors of
+response and survival among chronic myelomonocytic leukemia
+patients treated with azacitidine. Leuk Res. 2013;37:609–613.
+134. Alfonso A, Montalban-Bravo G, Takahashi K, et al. Natural history of
+chronic myelomonocytic leukemia treated with hypomethylating
+agents. Am J Hematol. 2017;92:599–606.
+135. Tendas A, Cupelli L, Siniscalchi A, et al. Azacitidine in chronic
+myelomonocytic leukemia: an effective and manageable approach.
+Mediterr J Hematol Infect Dis. 2014;6:e2014020.
+136. Iastrebner M, Jang JH, Nucifora E, et al. Decitabine in myelodysplastic syndromes and chronic myelomonocytic leukemia: Argentinian/South Korean multi-institutional clinical experience. Leuk
+Lymphoma. 2010;51:2250–2257.
+137. Pleyer L, Germing U, Sperr WR, et al. Azacitidine in CMML:
+matched-pair analyses of daily-life patients reveal modest effects on
+clinical course and survival. Leuk Res. 2014;38:475–483.
+138. Braun T, Itzykson R, Renneville A, et al. Molecular predictors of
+response to decitabine in advanced chronic myelomonocytic
+leukemia: a phase II trial. Blood. 2011;118:3824–3831.
+139. Drummond MW, Pocock C, Boissinot M, et al. A multi-centre phase
+2 study of azacitidine in chronic myelomonocytic leukaemia.
+Leukemia. 2014;28:1570–1572.
+140. Tantravahi SK, Szankasi P, Khorashad JS, et al. A phase II study of
+the efﬁcacy, safety, and determinants of response to 5-azacitidine
+(Vidaza(R)) in patients with chronic myelomonocytic leukemia. Leuk
+Lymphoma. 2016;57:2441–2444.
+141. Fianchi L, Criscuolo M, Breccia M, et al. High rate of remissions in
+chronic myelomonocytic leukemia treated with 5-azacytidine:
+results of an Italian retrospective study. Leuk Lymphoma.
+2013;54:658–661.
+142. Thorpe M, Montalvao A, Pierdomenico F, et al. Treatment of chronic
+myelomonocytic leukemia with 5-Azacitidine: a case series and
+literature review. Leuk Res. 2012;36:1071–1073.
+143. Wong E, Seymour JF, Kenealy M, et al. Treatment of chronic
+myelomonocytic leukemia with azacitidine. Leuk Lymphoma.
+2013;54:878–880.
+
+144. Santini V, Allione B, Zini G, et al. A phase II, multicentre trial of
+decitabine in higher-risk chronic myelomonocytic leukemia. Leukemia. 2018;32:413–418.
+145. Subari S, Patnaik M, Alfakara D, et al. Hypomethylating agents
+are effective in shrinking splenomegaly in patients with
+chronic myelomonocytic leukemia. Leuk Lymphoma. 2016;57:
+1714–1715.
+146. Yi JH, Huh J, Kim HJ, et al. Genome-wide single-nucleotide
+polymorphism array-based karyotyping in myelodysplastic syndrome and chronic myelomonocytic leukemia and its impact on
+treatment outcomes following decitabine treatment. Ann Hematol.
+2013;92:459–469.
+147. Meldi K, Qin T, Buchi F, et al. Speciﬁc molecular signatures predict
+decitabine response in chronic myelomonocytic leukemia. J Clin
+Invest. 2015;125:1857–1872.
+148. Duchmann M, Braun T, Kosmider O, et al. A two-gene classiﬁer for
+chronic myelomonocytic leukemia (CMML) patients treated with
+hypomethylating agents (HMA): a report by the GFM. Blood.
+2015;126:2872.
+149. Garcia-Manero G, Gore SD, Cogle C, et al. Phase I study of oral
+azacitidine in myelodysplastic syndromes, chronic myelomonocytic
+leukemia, and acute myeloid leukemia. J Clin Oncol. 2011;29:
+2521–2527.
+150. Issa JP, Roboz G, Rizzieri D, et al. Safety and tolerability of
+guadecitabine (SGI-110) in patients with myelodysplastic syndrome and acute myeloid leukaemia: a multicentre, randomised,
+dose-escalation phase 1 study. Lancet Oncol. 2015;16:
+1099–1110.
+151. Harel S, Cherait A, Berthon C, et al. Outcome of patients with high
+risk myelodysplastic syndrome (MDS) and advanced chronic
+myelomonocytic leukemia (CMML) treated with decitabine after
+azacitidine failure. Leuk Res. 2015;39:501–504.
+152. Xicoy B, Germing U, Jimenez MJ, et al. Response to erythropoieticstimulating agents in patients with chronic myelomonocytic
+leukemia. Eur J Haematol. 2016;97:33–38.
+153. Hellstrom-Lindberg E, van de Loosdrecht A. Erythropoiesis
+stimulating agents and other growth factors in low-risk MDS. Best
+Pract Res Clin Haematol. 2013;26:401–410.
+154. Malcovati L, Hellstrom-Lindberg E, Bowen D, et al. Diagnosis and
+treatment of primary myelodysplastic syndromes in adults: recommendations from the European LeukemiaNet. Blood. 2013;122:
+2943–2964.
+155. Zandberg DP, Huang TY, Ke X, et al. Treatment and outcomes for
+chronic myelomonocytic leukemia compared to myelodysplastic
+syndromes in older adults. Haematologica. 2013;98:584–590.
+156. Hadjadj J, Michel M, Chauveheid MP, et al. Immune thrombocytopenia in chronic myelomonocytic leukemia. Eur J Haematol.
+2014;93:521–526.
+157. Mughal TI, Cross NC, Padron E, et al. An International MDS/MPN
+Working Group’s perspective and recommendations on molecular
+pathogenesis, diagnosis and clinical characterization of myelodysplastic/myeloproliferative neoplasms. Haematologica. 2015;100:
+1117–1130.
+
+16
+
+

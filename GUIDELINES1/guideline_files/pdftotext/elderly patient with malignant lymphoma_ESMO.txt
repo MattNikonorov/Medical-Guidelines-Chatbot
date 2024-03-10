@@ -1,0 +1,2297 @@
+Annals of Oncology 29: 544–562, 2018
+doi:10.1093/annonc/mdx413
+Published online 29 November 2017
+
+SPECIAL ARTICLE
+
+ESMO Consensus Conference on malignant
+lymphoma: general perspectives and
+recommendations for the clinical management
+of the elderly patient with malignant lymphoma
+C. Buske1*, M. Hutchings2, M. Ladetto3, V. Goede4, U. Mey5, P. Soubeyran6, M. Spina7, R. Stauder8,
+M. Trneny9, U. Wedding10, P. Fields11 & The ESMO Lymphoma Consensus Conference Panel Members†
+1
+
+Comprehensive Cancer Center Ulm and Department of Internal Medicine III, Institute of Experimental Cancer Research, University Hospital, Ulm, Germany;
+Department of Haematology, Rigshospitalet, Copenhagen, Denmark; 3Hematology Division, Azienda Ospedaliera Santi Antonio e Biagio e Cesare Arrigo,
+Alessandria, Italy; 4Department of Internal Medicine, University Hospital Cologne, Cologne, Germany; 5Department of Oncology and Haematology, Kantonsspital
+Graubünden, Chur, Switzerland; 6Department of Medical Oncology, Institut Bergonié, Comprehensive Cancer Centre, Bordeaux, France; 7Division of Medical
+Oncology A, National Cancer Institute, Aviano, Italy; 8Haematology and Oncology Department, Innsbruck Medical University, Innsbruck, Austria; 9Institute of
+Hematology and Blood Transfusion, Ist Department of Medicine, 1st Faculty of Medicine, Charles University General Hospital, Prague, Czech Republic;
+10
+Department of Palliative Care, University Hospital, Jena, Germany; 11Department of Haematology, Guys and St Thomas’ and King’s College Hospitals, London, UK
+2
+
+*Correspondence to: Prof. Christian Buske, ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+†
+
+See Appendix for members of the ESMO Lymphoma Consensus Conference.
+
+The European Society for Medical Oncology (ESMO) consensus conference on mature B cell lymphomas and chronic lymphocytic
+leukaemia (CLL) was held on 20 June 2015 in Lugano, Switzerland, and included a multidisciplinary panel of 25 leading experts. The
+aim of the conference was to develop recommendations on critical subjects difficult to consider in detail in the ESMO Clinical
+Practice Guidelines. The following areas were identified: (1) the elderly patient, (2) prognostic factors suitable for clinical use, and (3)
+the ‘ultra-high-risk’ group. Before the conference, the expert panel was divided into three working groups; each group focused on
+one of these areas in order to address clinically-relevant questions relating to that topic. All relevant scientific literature, as identified
+by the experts, was reviewed in advance. During the consensus conference, each working group developed recommendations to
+address each of the four questions assigned to their group. These recommendations were presented to the entire panel and a
+consensus was reached. This consensus, which was further developed in continuous post-meeting discussions, formed the basis of
+three manuscripts, each covering one of the three key areas identified. This manuscript presents the consensus recommendations
+regarding the clinical management of elderly patients diagnosed with malignant lymphoma. Four clinically-relevant topics
+identified by the panel were: 1) how to define patient fitness, 2) assessing quality of life, 3) diagnostic work-up and 4) clinical
+management of elderly patients with lymphoma. Each of these key topics is addressed in the context of five different lymphoma
+entities, namely: CLL, follicular lymphoma, mantle cell lymphoma, peripheral T-cell lymphoma and diffuse large B-cell lymphoma.
+Results, including a summary of evidence supporting each recommendation, are detailed in this manuscript.
+Key words: lymphoma, consensus, elderly patient, quality of life, diagnosis, treatment
+
+Introduction
+Western industrial countries, as well as developing countries, are
+facing dramatic demographic changes in the near future, with an
+increasing proportion of elderly persons in these societies. In 2015,
+18.9% of the population in the European Union were 65 years
+
+old; specifically, 4.4% were 70–74, 3.8% were 75–79 and 5.3%
+were 80 years old [1]. Moreover, by 2060, it is estimated that the
+proportion of people 65 years old will rise to 28% and the proportion who are 80 years old will rise to 12% [2]. Consequently, the
+
+C The Author 2017. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+V
+
+All rights reserved. For Permissions, please email: journals.permissions@oup.com.
+
+Special article
+
+Annals of Oncology
+number of elderly patients with haematological malignancies
+will rise continuously and dramatically since they are typical
+diseases of the elderly, with a median age at initial diagnosis
+of >70 years for the most common lymphoma subtypes, such as
+diffuse large B-cell lymphoma (DLBCL) or chronic lymphocytic
+leukaemia (CLL) [3, 4]. On the other hand, the number of
+treatment options has increased dramatically over the past
+years, ranging from best supportive care to haematopoietic
+stem cell transplantation. In more recent years, well-tolerated
+and effective cytostatic drugs as well as immuno-modulatory
+drugs, monoclonal antibodies and small molecules with favourable efficacy profiles have been developed. Based on the complexity of elderly patients with malignant lymphoma and the
+lack of evidence-based recommendations regarding treatment
+algorithms for these patients, the rational integration of this
+armamentarium of new drugs remains a challenge. This is particularly true given that decision making for elderly patients
+with lymphoma depends on aspects of the ageing process including comorbidities, malnutrition and/or impairments in functional
+capacities. As such, at this present time, evidence-based treatment
+algorithms and recommendations for elderly patients with lymphoma are rare. This is also due to the lack of integration of elderly patients into clinical trials. Indeed, clinical trials are typically limited
+to younger patients and those with an excellent performance status
+(PS) and a lack of, or only minor, comorbidities. A systematic review by Hamaker et al. [5] showed that only 5% of trials in haematological malignancies focus exclusively on elderly patients, and
+69% of trials excluded older patients based on their chronological age alone. Furthermore, end points that are particularly
+relevant for the elderly, such as improvement or maintenance
+of quality of life and functional capacities, are rarely considered
+within clinical trials [5].
+Treatment algorithms in a given elderly patient with lymphoma should be based on the individual risk and prognosis, with
+personalised treatment algorithms based on the integration of
+age-adjusted models including age-adjusted life expectancy and
+the evaluation of patient status by geriatric assessment [6, 7].
+Based on the huge and continuously increasing numbers of elderly patients with malignant lymphoma, and the lack of recommendations on their treatment so far, the European Society for
+Medical Oncology (ESMO) convened a panel of experts in order to
+develop consensus-based recommendations regarding the clinical
+management of elderly patients with malignant lymphoma.
+
+Methods
+A consensus panel, comprising a multidisciplinary panel of 25
+experts in the management of lymphoma, was convened by ESMO.
+Three consensus conference chairs (C. Buske, M. Ladetto, M.
+Hutchings) were also appointed. The consensus panel was divided
+into three working groups, each of which was assigned a specific
+subject area and a working group chair as follows:
+1. The elderly patient (Chair: C. Buske).
+2. Prognostic factors suitable for clinical use (Chair: M. Ladetto).
+3. The ‘ultra-high-risk’ group (Chair: M. Hutchings).
+The consensus conference was held on 20 June 2015 in Lugano,
+Switzerland. Before this consensus conference, clinically relevant
+questions were identified for each subject area.
+
+Volume 29 | Issue 3 | 2018
+
+A literature review was conducted by each working group before
+the consensus conference, with each group responsible for compiling a summary of relevant information required to develop recommendations relating to each of their questions at the conference.
+No systematic literature search was undertaken. During the conference, in parallel sessions, the three working groups discussed and
+agreed on recommendations relating to each of their assigned
+questions. The level of evidence and strength of each recommendation were also noted, which were defined based on the ‘Infectious
+Diseases Society of America-United States Public Health Service
+Grading System’, as shown in Table 1 [8]. Recommendations from
+each group were then presented to the entire panel of experts,
+where they were discussed and modified as required. Finally, a vote
+was conducted to determine the level of agreement amongst the expert panel for each of the recommendations. When necessary,
+more recent developments emerging after the consensus conference in Lugano in June 2015 were taken into account when finalising this consensus manuscript.
+For working group 1, four topics were identified for discussion
+in terms of their potential suitability to guide physicians in the
+management of elderly patients with lymphoma. As such, the
+following topics were considered:
+1.
+2.
+3.
+4.
+
+Assessing ﬁtness in elderly patients with lymphoma.
+Assessing ‘quality of life’ in elderly patients with lymphoma.
+Diagnostic work-up in elderly patients with lymphoma.
+Treatment of elderly patients with lymphoma.
+
+Table 1. Levels of evidence and grades of recommendation (adapted from
+the Infectious Diseases Society of America-United States Public Health
+Service Grading System [8])
+Levels of evidence
+I
+Evidence from at least one large randomised, controlled trial
+of good methodological quality (low potential for bias) or
+meta-analyses of well-conducted randomised trials without
+heterogeneity
+II
+Small randomised trials or large randomised trials with a suspicion
+of bias (lower methodological quality) or meta-analyses of such
+trials or of trials with demonstrated heterogeneity
+III
+Prospective cohort studies
+IV
+Retrospective cohort studies or case–control studies
+V
+Studies without control group, case reports, expert opinions
+Grades of recommendation
+A
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt,
+strongly recommended
+B
+Strong or moderate evidence for efﬁcacy but with a limited clinical beneﬁt, generally recommended
+C
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh
+the risk or the disadvantages (adverse events, costs,. . .),
+optional
+D
+Moderate evidence against efﬁcacy or for adverse outcome,
+generally not recommended
+E
+Strong evidence against efﬁcacy or for adverse outcome, never
+recommended
+By permission of the Infectious Diseases Society of America [8].
+
+doi:10.1093/annonc/mdx413 | 545
+
+Special article
+For topics 3 and 4, the following lymphoma entities were
+discussed: CLL, DLBCL, follicular lymphoma (FL), mantle cell
+lymphoma (MCL) and peripheral T-cell lymphoma (PTCL).
+Results from the section of the consensus conference dedicated to
+the above topics related to elderly patients with lymphoma, together
+with a summary of evidence supporting each recommendation,
+are detailed in this article. Topics 3 and 4 are presented together
+and subdivided according to the different lymphoma entities.
+A summary of these recommendations is included in Table 2.
+Importantly, these additional recommendations should be read in
+conjunction with the already-published ESMO Clinical Practice
+Guidelines (CPGs) for the diagnosis, treatment and follow-up of
+the aforementioned malignant lymphoma entities [9–13].
+
+Results
+1. Assessing fitness in elderly patients with
+malignant lymphoma
+The term ‘elderly’ patients is used frequently in the literature
+without clearly defining the criteria for ‘elderly’. Although
+numerical or chronological age itself is not a good tool to define
+fitness in patients, it is well accepted that age-related changes
+result in decreased fitness. Increasing age is associated with
+a higher prevalence of comorbidities, functional decline,
+cognitive impairment, depressive mood and dependence in
+activities of daily living (ADL). In addition, increasing age is
+associated with increasing rates of toxicity from treatment and
+treatment-related mortality. According to data of the DSHNHL
+(Deutsche Studiengruppe Hochmaligne Non-Hodgkin-Lymphome)
+in patients with DLBCL within clinical trials treated with
+cyclophosphamide/doxorubicin/vincristine/prednisone (CHOP)
+or CHOP-like protocols, the treatment-related mortality
+increased from 4% in those aged 50–64 years to 20% in those aged
+75–79 years when no antibacterial or antiviral prophylaxis was
+given [14].
+Age-related changes occur as a gradual process, but increase
+substantially in patients of 70 years and older. Therefore, the
+authors recommend using the term ‘elderly’ for all patients of
+70 years and older, in line with recommendations of the
+International Society of Geriatric Oncology (SIOG) and the
+European Organisation for Research and Treatment of Cancer
+(EORTC) [7, 15].
+Less aggressive treatment may reduce the chances of cure,
+prolongation of life and/or symptom control, whereas too aggressive treatment may result in treatment-related morbidity and
+mortality, and/or compromised quality of life. Thus, a cornerstone
+in the decision-making process is to judge fitness for treatment.
+However, this is not a well-defined term in haematology. In addition,
+willingness to accept impairment by toxicity will depend on the aim
+of treatment and the likelihood of reaching this aim. Thus, if the
+chance for cure, or more generally speaking the likelihood of benefit,
+is high, as is the case in DLBCL, the readiness to accept toxicity is
+high and vice versa. Consideration of fitness has to include: (i) the
+lymphoma, as it defines the potential aim of treatment; (ii) the
+treatment, as it defines the risk of toxicity; and (iii) the patient,
+as the individual characteristics also contribute to toxicity and
+
+546 | Buske et al.
+
+Annals of Oncology
+life expectancy. In addition, the patient’s aims in life and treatment preferences are essential. However, a cut-off at which the
+likelihood of harm means that a patient should be defined as
+unfit does not exist. Ziepert et al. [16] identified the following
+factors as contributing to haematological toxicity of CHOP-like
+protocols: low weight, female gender, poor Eastern Cooperative
+Oncology Group (ECOG) PS, high lactate dehydrogenase (LDH),
+initial cytopenia and grade 4 haematological toxicity during the
+first cycle. A geriatric assessment was not included in this trial.
+In addition, the association between objective toxicity [defined
+according to the National Cancer Institute Common Terminology
+Criteria (NCI-CTC)] and subjective toxicity (defined as toxicity
+compromising quality of life) was not well studied. Current
+projects address the topic of patient-reported toxicity [17].
+In the field of geriatric oncology, a number of trials have
+been conducted to evaluate the association between the results of
+geriatric assessment and patient outcomes. Some of them
+included lymphoma patients, but only a few trials were set up
+especially for elderly patients with malignant lymphoma. The
+only patient characteristics included in the analysis for prognostic
+variables in patients with DLBCL are therefore age and ECOG PS.
+Both are included in the new National Comprehensive Cancer
+Network International Prognostic Index (NCCN-IPI), with
+age of 75 years considered as the most important prognostic
+factor [18]. As patient characteristics determined via geriatric
+assessment are not included, it might be that numerical age is just
+a surrogate for other age-related changes, such as comorbidities,
+functional decline, cognitive impairment, depressive mood and
+dependence in ADL. Poor performance according to geriatric
+assessment, such as limitations in ADL, has demonstrated prognostic importance for survival and toxicity, and might change the
+treatment decision. It is also associated with poor health-related
+quality of life [19]. However, data to show that assessment-based
+care improves outcome are still missing.
+In a systematic review, Wildiers et al. [20] showed that the use
+of a geriatric assessment results in detection of impairment not
+identified in routine assessments (patient history or physical
+examination). Geriatric assessment was also able to predict severe
+treatment-related toxicity and overall survival (OS) in a variety of
+tumours and treatment settings, and so could help tailor the
+treatment choice and intensity in each individual patient [20].
+Currently, judgement of fitness of elderly patients with malignant
+lymphoma should include some form of a geriatric assessment
+[20]. The Task Force for Cancer in the Elderly of the EORTC
+recommends the use of the G8 questionnaire. It is a very simple
+screening tool, which includes seven mini nutritional assessment
+items and age (<80, 80–85, >85) for a total score ranging from 0
+(poor score) to 17 (good score). The task force recommended
+a cut-off value of 14 for an ‘impaired’ reference test score [21].
+In an exploratory analysis of a prospective cohort study of 1435
+assessable cancer patients accrued before treatment in 23 health-care
+facilities, an abnormal G8 score was an independent prognostic
+factor of 1-year survival. Importantly, the mean time to complete
+G8 questionnaire was about 5 min [22]. In a busy clinic, such a
+screening approach might be preferred [23, 24]. To quantify
+comorbidity, the Cumulative Illness Rating Scale for Geriatrics
+(CIRS-G) is one of the most widely available scores and has
+already been used to allocate patients with CLL to less intensive
+treatment protocols in a large prospective clinical trial [15, 21,
+
+Volume 29 | Issue 3 | 2018
+
+Special article
+
+Annals of Oncology
+Table 2. Summary of recommendations
+Guidelines statement
+1. Assessing ﬁtness in elderly patients with malignant lymphoma
+Recommendations:
+1.1 The panel suggests that geriatric assessment should be included in the diagnostic process of
+clinical trials in order to assess patient ﬁtness
+1.2 The panel suggests that a geriatric assessment is included in the diagnostic process to assess
+patient ﬁtness in routine clinical practise. In cases when geriatric assessment is not possible,
+geriatric screening (e.g. G-8) can be carried out
+2. Assessing quality of life in elderly patients with malignant lymphoma
+Recommendations:
+2.1 Quality of life should be considered as a prognostic indicator of survival
+2.2 Quality of life should be included as a major end point in clinical trials in the elderly, either alone
+(e.g. in the palliative setting) or in combination with a survival end point (as a co-primary or
+composite end point)
+2.3 Other PROs can be considered, including maintenance of functional capacity/dependence,
+either alone or in combination with survival end points. This type of end point is encouraged in
+clinical trials but methodological questions remain to be solved. Standardised instruments such
+as ADL and IADL are available and their use during treatment in clinical practice is encouraged
+3. Diagnostic work-up and treatment of elderly patients with CLL
+Recommendations:
+3.1 Similar methodology should be used in older compared with younger patients to diagnose
+and to stage CLL (i.e. history taking, physical examination, differential blood count, blood smear
+microscopy, ﬂow cytometry of blood)
+3.2 Older patients with CLL should to be screened for Del(17p) and/or TP53mut whenever
+treatment is planned
+3.3 Clinical judgement supported by geriatric assessments should be used to stratify older patients
+with CLL for ﬁtness and treatment goals (ﬁt versus unﬁt versus terminally ill)
+3.4 Only a small minority of carefully selected and very ﬁt older patients with untreated CLL not
+harbouring Del(17p) or TP53mut might be treated with full-dose FCR
+3.5 Fit older patients with untreated CLL not harbouring Del(17p) and TP53mut should be
+evaluated for alternative treatments such as BR or dose-attenuated FCR
+3.6 Vulnerable older patients with untreated CLL not harbouring Del(17p) or TP53mut should be
+treated with G-CLB, O-CLB or R-CLB
+3.7 Vulnerable older patients with untreated CLL not harbouring Del(17p) or TP53mut may be
+considered for alternative treatments such as BR or dose-attenuated FCR or ibrutinib
+3.8 Older patients with untreated CLL harbouring Del(17p) and/or TP53mut should be considered
+for treatment with ibrutinib
+3.9 Older patients with relapsed or refractory CLL should be considered for treatment with
+ibrutinib or idelalisib plus rituximab (irrespective of Del[17p] and TP53mut status)
+3.10 Older patients with relapsed or refractory CLL not harbouring Del(17p) or TP53mut could be
+evaluated for alternative treatments (e.g. CD20 antibody)
+3.11 Older patients with late relapse CLL not harbouring Del(17p) or TP53mut may be evaluated for
+re-administration of chemo-immunotherapy
+4. Diagnostic work-up and treatment of elderly patients with FL
+Recommendations:
+4.1 Elderly patients should be diagnosed based on lymph node histology whenever possible. The
+aim of staging is to discriminate between patients with limited disease and those with advanced
+stage disease. Any diagnostics that do not impact on treatment decisions should be avoided,
+particularly in terminally ill patients
+4.2 Asymptomatic elderly patients should undergo a watch and wait strategy
+4.3 Symptomatic patients with mild symptoms should be offered a chemotherapy-free approach
+such as rituximab single agent, if possible
+4.4 For patients with high tumour burden tolerating chemotherapy, a rituximab/chemotherapy regimen
+such as BR is recommended (with bendamustine dose reduction or fewer treatment cycles, if necessary. Be aware of bendamustine-associated infections; consider antibacterial/antiviral prophylaxis)
+4.5 For relapsed patients, rituximab/chemotherapy adjusted to the ﬁtness of the patient is also
+standard in the elderly. Rituximab maintenance is optional both ﬁrst line and in relapse.
+
+LoE
+
+GoR
+
+Consensus
+
+II
+
+B
+
+100% yes (23 voters)
+
+II
+
+B
+
+100% yes (23 voters)
+
+I
+II
+
+A
+B
+
+100% yes (23 voters)
+100% yes (23 voters)
+
+III
+
+C
+
+100% yes (23 voters)
+
+V
+
+B
+
+100% yes (23 voters)
+
+III
+
+B
+
+100% yes (23 voters)
+
+III
+
+B
+
+100% yes (23 voters)
+
+I
+
+B
+
+100% yes (23 voters)
+
+II
+
+B
+
+100% yes (23 voters)
+
+I
+
+A
+
+100% yes (23 voters)
+
+II
+
+B
+
+100% yes (23 voters)
+
+III
+
+B
+
+100% yes (23 voters)
+
+I
+
+A
+
+100% yes (23 voters)
+
+III
+
+C
+
+100% yes (23 voters)
+
+V
+
+B
+
+100% yes (23 voters)
+
+V
+
+A
+
+100% yes (23 voters)
+
+I
+III
+
+A
+B
+
+100% yes (23 voters)
+100% yes (23 voters)
+
+I
+
+A
+
+100% yes (23 voters)
+
+III
+
+B
+
+100% yes (23 voters)
+Continued
+
+Volume 29 | Issue 3 | 2018
+
+doi:10.1093/annonc/mdx413 | 547
+
+Special article
+
+Annals of Oncology
+
+Table 2. Continued
+Guidelines statement
+Idelalisib should be used with caution in relapsed patients not responding to rituximab/chemotherapy because of its toxicity proﬁle
+5. Diagnostic work-up and treatment of elderly patients with MCL
+Recommendations:
+5.1 Diagnostic work-up in elderly patients should generally not differ from patients of a younger
+age. Histological conﬁrmation by excisional lymph node biopsy or at least core biopsy is mandatory. Detection of cyclin D1 overexpression or chromosomal translocation t(11;14) is essential.
+Imaging should include at least a CT scan with iodine contrast of the neck, chest, abdomen and
+pelvis. The use of PET-CT imaging is considered optional for ﬁt elderly patients. BM aspirate and
+biopsy should be carried out in elderly ﬁt patients, whereas BM examination is not required in
+vulnerable or terminally ill patients.
+5.2 For elderly ﬁt patients, the following chemo-immunotherapeutic regimens are recommended
+as the preferred ﬁrst-line treatment options in routine clinical practice:
+1. R-CHOP followed by rituximab maintenance
+2. BR
+3. VR-CAP
+4. R-BAC
+5.3 For vulnerable elderly patients, dose-adapted chemo-immunotherapeutic regimens are considered appropriate. Options include dose-reduced BR, R-CVP or R-CLB
+5.4 For vulnerable patients with severe comorbidities, mild chemo-immunotherapeutic regimens
+like R-CLB, (dose-reduced) BR or PEP-C are considered appropriate
+5.5 While newer targeted drugs such as ibrutinib and lenalidomide might offer beneﬁts, particularly
+in vulnerable patients, no data are available from clinical trials for this subset of patients and
+therefore clear recommendations cannot be given. For relapsed or refractory disease, treatment
+should be adapted to the age and PS of the patient. Besides non-cross-resistant combination
+regimens, treatment options include:
+1. Ibrutinib
+2. Lenalidomide 6 rituximab
+3. Temsirolimus 6 rituximab
+4. Bortezomib
+6. Diagnostic work-up and treatment of elderly patients with PTCL
+Recommendations:
+6.1 The ﬁnal histological diagnosis requires full analysis and integration of the clinical context and
+expert haematopathological review
+6.2 Whenever possible, patients should be entered into clinical trials. First-line regimes for elderly
+patients should be based on a CHOP induction backbone
+6.3 Whenever possible, patients should be entered into clinical trials testing novel agents. However,
+for elderly relapsed patients considered unsuitable for clinical trials, treatment options include:
+1. Salvage chemotherapy with gemcitabine or platinum-containing agents
+2. Novel agents such as brentuximab vedotin monotherapy for patients with CD30þ T-cell
+lymphoma
+7. Diagnostic work-up and treatment of elderly patients with DLBCL
+Recommendations:
+7.1 For patients treated with curative intent, diagnosis should be carried out in an expert haematopathology laboratory with full diagnostic capabilities (immunophenotypic and molecular) and
+staging should be with PET-CT
+7.2 Cardiac assessment (LVEF) is required for patients treated with curative intent
+7.3 The IPI score should be calculated
+7.4 A CGA is recommended to guide treatment choice
+7.5 The aim of treatment in fully ﬁt patients who are <80 years old should be curative, with a fulldose anthracycline-based regimen preferred. R-CHOP is the recommended ﬁrst-line treatment
+choice
+7.6 For fully ﬁt patients who are >80 years old without comorbidities, dose-attenuated R-CHOP may
+be appropriate
+7.7 For relapsed ﬁt (no organ dysfunction, PS 0–1, no comorbidities), transplant-eligible patients,
+appropriate salvage treatment with R–DHAP, R-ESHAP, R-ICE or R-GDP is indicated. In the event
+of an adequate response, ASCT is recommended
+
+LoE
+
+GoR
+
+Consensus
+
+V
+
+A
+
+100% yes (23 voters)
+
+100% yes (23 voters)
+I
+I
+I
+V
+V
+
+A
+A
+A
+B
+B
+
+100% yes (23 voters)
+
+V
+
+B
+
+100% yes (23 voters)
+100% yes (23 voters)
+
+II
+II
+II
+V
+
+A
+B
+B
+B
+
+IV
+
+A
+
+100% yes (23 voters)
+
+III
+
+B
+
+100% yes (23 voters)
+100% yes (23 voters)
+
+IV
+III
+
+C
+B
+
+V
+
+A
+
+100% yes (23 voters)
+
+V
+I
+III
+I
+
+A
+A
+A
+A
+
+100% yes (23 voters)
+100% yes (23 voters)
+100% yes (23 voters)
+100% yes (23 voters)
+
+III
+
+B
+
+100% yes (23 voters)
+
+II
+
+A
+
+100% yes (23 voters)
+
+Continued
+
+548 | Buske et al.
+
+Volume 29 | Issue 3 | 2018
+
+Special article
+
+Annals of Oncology
+Table 2. Continued
+Guidelines statement
+
+LoE
+
+GoR
+
+Consensus
+
+7.8 For transplant-ineligible patients, dose attenuated R-DHAP, R-ESHAP, R-ICE, or less intense regimens such as R-Gem-Ox, are appropriate
+7.9 For transplant-ineligible patients, single-agent chemotherapies such as bendamustine or pixantrone may be considered
+
+III
+
+B
+
+100% yes (23 voters)
+
+I (pixantrone)
+II (bendamustine)
+
+C
+
+100% yes (23 voters)
+
+ADL, activities of daily living; ASCT, autologous stem cell transplantation; BAC, bendamustine/cytarabine; BM, bone marrow; BR, bendamustine/rituximab;
+CGA, comprehensive geriatric assessment; CHOP, cyclophosphamide/doxorubicin/vincristine/prednisone; CLB, chlorambucil; CLL, chronic lymphocytic
+leukaemia; CT, computed tomography; CVP, cyclophosphamide/vincristine/prednisone; DHAP, dexamethasone/high-dose cytarabine/cisplatin; DLBCL,
+diffuse large B-cell lymphoma; ESHAP, etoposide/methylprednisolone/cytarabine/cisplatin; FCR, ﬂudarabine/cyclophosphamide/rituximab; FL, follicular
+lymphoma; G, obinutuzumab; GDP, gemcitabine/dexamethasone/cisplatin; Gem-Ox, gemcitabine/oxaliplatin; GoR, grade of recommendation; IADL,
+instrumental activities of daily living; ICE, ifosfamide/carboplatin/etoposide; IPI, International Prognostic Index; LoE, level of evidence; LVEF, left ventricular
+ejection fraction; MCL, mantle cell lymphoma; O, ofatumumab; PEP-C, prednisone/etoposide/procarbazine/cyclophosphamide; PET, positron emission
+tomography; PRO, patient-reported outcome; PS, performance status; PTCL, peripheral T-cell lymphoma; R, rituximab; VR-CAP, bortezomib/rituximab/cyclophosphamide/doxorubicin/prednisone.
+
+25]. Thus, it is recommended that prospective clinical trials
+should include a geriatric and comorbidity score as an obligatory
+component of the diagnostic work-up. This will be an important
+first step to correlate toxicity and efficacy of a treatment with
+fitness in patients with lymphoma in controlled clinical trials.
+In the end, a precise definition of fitness based on scores of
+geriatric and/or comorbidity tests will be difficult to achieve,
+since prognosis and treatment-related toxicity differ from disease
+to disease, and as such, the criteria to define fit, vulnerable and
+terminally ill patients also varies. Different study groups have
+suggested different criteria, e.g. CLL, myelodysplastic syndrome,
+acute myeloid leukaemia and multiple myeloma [26–29]. To
+overcome this, we propose the following ESMO criteria, in which
+‘fitness’ is defined in the context of treatment feasibility with
+three different categories discriminating between ‘fit’, ‘vulnerable’ and ‘terminally ill’ patients: (i) for an elderly ‘fit’ patient, it
+would be anticipated that application of the standard treatment,
+including more dose intense approaches, would not be associated
+with a high risk of treatment-related or treatment-unrelated
+adverse events (AEs) compared with a young ‘fit’ patient; in
+contrast (ii) a ‘vulnerable’ patient would carry a high risk
+for treatment-related AEs or treatment-unrelated AEs when
+receiving standard treatment. Vulnerable patients would present
+a continuum, ranging from those who are just at the border of
+not being able to tolerate standard treatment to those who
+are close to being considered as terminally ill. Finally, (iii) the
+‘terminally ill’ patient is one with a short life expectancy (around
+three months only due to the lymphoma or competing lethal
+comorbidities), who will therefore not benefit from any antilymphoma treatment, but from best supportive care only [30]
+(Table 3).
+
+Methodological considerations.
+Broad availability: Geriatric screening is available in all clinic
+settings caring for patients with malignant lymphoma. Geriatric
+assessment is a multi-professional approach; some institutions
+will not have a geriatrician, but most of the work-up can be done
+by different professional groups within a therapeutic team.
+
+Volume 29 | Issue 3 | 2018
+
+Table 3. ESMO criteria to deﬁne ﬁtness of patients
+Category
+Fit patient
+
+Vulnerable
+patient
+
+Terminally
+ill patient
+
+Application of the standard treatment, including more
+dose-intense approaches, is not associated with an
+increased risk of treatment-related or treatmentunrelated AEs compared with a young ﬁt patient
+A high risk for treatment-related AEs or treatmentunrelated AEs when receiving standard treatment.
+Vulnerable patients present a continuum, ranging
+from those who are just at the border of not being
+able to tolerate standard treatment to those who
+are close to being considered as terminally ill
+Has a short life expectancy (around 3 months only,
+due to the lymphoma or competing lethal comorbidities) and will therefore not beneﬁt from any
+anti-lymphoma treatment, but only from best
+supportive care
+
+AE, adverse event; ESMO, European Society for Medical Oncology.
+
+Reproducibility and standardisation: Assessment instruments
+are validated, standardised and reproducible.
+Clarity of reporting system: In different countries, different scales
+[e.g. to assess ADL, or instrumental ADL (IADL), are available].
+Prognostic value. Poor performance according to geriatric
+assessment is associated with increased toxicity and shorter
+survival of elderly patients with malignant lymphoma.
+Panel recommendations for assessing patient fitness in clinical
+trials.
+Recommendation 1.1: The panel suggests that geriatric
+assessment should be included in the diagnostic process of
+clinical trials in order to assess patient fitness.
+
+doi:10.1093/annonc/mdx413 | 549
+
+Special article
+
+Annals of Oncology
+
+Level of evidence: II
+Strength of recommendation: B
+Consensus: 100% yes (23 voters)
+
+[42], and cut-offs for significant variations have been identified
+through a comparison with patients’ perceived changes [43].
+
+Panel recommendations for assessing patient fitness in routine
+clinical practice.
+Recommendation 1.2: The panel suggests that a geriatric
+assessment is included in the diagnostic process to assess patient
+fitness in routine clinical practise. In cases when geriatric
+assessment is not possible, geriatric screening (e.g. G-8) can be
+carried out.
+Level of evidence: II
+Strength of recommendation: B
+Consensus: 100% yes (23 voters)
+
+2. Assessing ‘quality of life’ in the elderly
+lymphoma patient
+In the management of haematological malignancies, the typical
+dilemma faced by haematologists when making treatment
+decisions is to determine the balance between efficacy and toxicity. However, in the elderly, another balance between quantity
+and quality of life should also be considered, although this is more
+difficult to assess since it is highly dependent on the individual
+patient’s views [31]. Indeed, quality of life and other patient-reported
+outcomes (PROs) are a routine part of treatment decision making,
+most strikingly for older patients, but unexpectedly are rarely
+included among major end points of clinical trials in the elderly. In
+a review of recent literature (2005–2011), among 87 randomised
+controlled trials conducted in patients with lymphomas, none
+considered quality of life as a primary end point and only 5%
+included it as a secondary end point [32]. This was also observed in
+a review of 1207 trials in haematological malignancies, with 8% of
+trials including quality of life as an end point; however, this paper
+also showed that this proportion rises to 31% in phase III trials and
+appears higher in the elderly (18% versus 7% in all other studies)
+[5]. Finally, there is strong evidence to show that quality of life may
+have prognostic value [33].
+Other approaches to PROs should also be considered, including
+Q-TWIST (quality-adjusted time without symptoms of disease or
+toxicity of treatment) which measures quality-adjusted survival
+with three possible consecutive health states (time with toxicity
+resulting from treatment, time without symptoms of
+disease or toxicity, time from progression/relapse to death) [7]
+and evaluation of functional capacity/independence according
+to time, either alone or in combination with survival end points
+[34, 35]. However, methodological difficulties with this approach
+are not always easy to solve.
+Methodological considerations.
+Broad availability: Multiple quality of life questionnaires are
+available but their metrics should be evaluated cautiously.
+Among others, including the MOS-SF36 [36–38], the EORTC
+QLQ-C30 is strongly validated in multiple languages [39], and its
+complement for the elderly, named QLQ-ELD14, is now available
+[40, 41].
+Reproducibility and standardisation: Recommendations have
+been provided for the use of EORTC QLQ-C30 in clinical trials
+
+550 | Buske et al.
+
+Clarity of reporting system: Quality of life reporting has been
+standardised [44].
+Panel recommendations for assessing quality of life in clinical
+trials.
+Recommendation 2.1: Quality of life should be considered as
+a prognostic indicator of survival [33].
+Level of evidence: I
+Strength of recommendation: A
+Consensus: 100% yes (23 voters)
+Recommendation 2.2: Quality of life should be included as a
+major end point in clinical trials in the elderly, either alone (e.g.
+in the palliative setting) or in combination with a survival end
+point (as a co-primary or composite end point) [7].
+Level of evidence: II
+Strength of recommendation: B
+Consensus: 100% yes (23 voters)
+Panel recommendations for assessing quality of life in routine
+clinical practice.
+Recommendation 2.3: Other PROs can be considered, including maintenance of functional capacity/dependence, either alone
+[7, 34, 35] or in combination with survival end points. This type
+of end point is encouraged in clinical trials but methodological
+questions remain to be solved. Standardised instruments such as
+ADL and IADL are available [45, 46] and their use during treatment in clinical practice is encouraged.
+Level of evidence: III
+Strength of recommendation: C
+Consensus: 100% yes (23 voters)
+
+3. Diagnostic work-up and treatment of elderly
+patients with CLL
+CLL is the most common leukaemia in Western countries. Most
+patients newly diagnosed with CLL are of advanced age. The
+median age at diagnosis is over 70 years, and almost one fifth of
+patients are 80 years old or older when CLL is diagnosed [3].
+Major comorbidities such as coronary heart disease, heart failure,
+peripheral artery disease, chronic obstructive lung disease or
+diabetes mellitus are present in approximately half of all patients
+newly diagnosed with CLL [47], but the prevalence of geriatric
+syndromes such as dementia, delirium, depression, falls, sarcopenia or frailty has not been specifically examined in older patients
+with CLL. There is growing evidence, however, that comorbidities and geriatric syndromes unfavourably impact on treatment
+feasibility and overall prognosis of such patients [48–51].
+Treatment differs substantially between young and elderly
+patients with CLL; for example, fludarabine/cyclophosphamide/
+rituximab (FCR) is still the standard first-line treatment in young
+fit patients without a TP53 deletion/mutation [9, 52].
+Diagnostic work-up of CLL in elderly patients. Procedures to
+diagnose and stage CLL are outlined by pre-existing guidelines
+[9, 53]. There are no data to suggest that methodology should
+
+Volume 29 | Issue 3 | 2018
+
+Annals of Oncology
+differ between younger and older patients. Diagnosis of CLL is
+made by history taking, physical examination, blood count including differential, blood smear microscopy and flow cytometry of the
+blood. Staging of CLL (i.e. Binet or Rai classification) requires a
+physical examination and blood count. Various studies have shown
+that the presence of a deletion of the short arm of chromosome
+17 [Del(17p)] and/or a mutation of the tumour suppressor gene
+p53 (TP53mut) is associated with poor response to conventional
+chemo-immunotherapy approaches and poor survival, independent of age. For proper choice of therapy, knowledge of Del(17p)
+and/or TP53mut status is therefore a prerequisite not just in
+younger but also in older patients.
+Older patients with CLL differ in fitness and thus there is no
+uniform benefit from a given treatment regimen. In a pragmatic
+approach, these patients can be categorised into three groups: (i) fit
+patients who appear fit for full-dose standard therapy (aiming
+for symptom-control, complete remission (CR) of the disease and
+prolongation of survival); (ii) vulnerable patients who appear unfit
+for full-dose standard therapy but eligible for alternative therapy
+plus geriatric interventions (aiming for symptom-control,
+long-term disease-control and eventually prolongation of
+survival); and (iii) terminally ill patients who appear ineligible
+for any anti-leukaemic therapy and who should therefore receive
+best supportive care (aiming for symptom palliation only). Clinical
+judgement is the current standard to assign individual patients
+to one of these categories. However, additional geriatric assessment,
+including a systematic scoring of comorbidity, function and
+autonomy, is able to unmask vulnerability that otherwise may
+remain undetected [20, 54].
+Panel recommendations for diagnostic work-up.
+Recommendation 3.1: Similar methodology should be used in
+older compared with younger patients to diagnose and to stage
+CLL (i.e. history taking, physical examination, differential blood
+count, blood smear microscopy, flow cytometry of blood).
+Level of evidence: V
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+Recommendation 3.2: Older patients with CLL should to be
+screened for Del(17p) and/or TP53mut whenever treatment is
+planned.
+Level of evidence: III
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+Recommendation 3.3: Clinical judgement supported by
+geriatric assessments should be used to stratify older patients
+with CLL for fitness and treatment goals (fit versus unfit versus
+terminally ill).
+Level of evidence: III
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+Treatment of CLL in elderly patients. Full-dose chemoimmunotherapy with FCR is the standard frontline treatment in
+younger patients with CLL [55]. With advancing age, however,
+the risk of FCR-related toxicity and treatment discontinuation
+generally increases [55–58]. Frontline chemo-immunotherapy
+
+Volume 29 | Issue 3 | 2018
+
+Special article
+with bendamustine/rituximab (BR) or dose-attenuated FCR
+appear less toxic than full-dose FCR and suggest preserved
+efficacy in fit older patients [58–61]. These regimens may
+therefore be considered as alternatives to full-dose FCR in this
+patient group. Combinations of chlorambucil with a monoclonal anti-CD20 antibody (obinutuzumab, G-CLB; ofatumumab,
+O-CLB; rituximab, R-CLB) have been demonstrated as feasible
+and beneficial in previously untreated vulnerable older patients
+with CLL [25, 62]. Chemo-immunotherapy with BR or doseattenuated FCR is also feasible and efficacious in these patients
+[63, 64]. Yet, evidence for such treatments in vulnerable older
+patients is lower than in fit older patients. Irrespective of being
+fit or vulnerable, older patients harbouring Del(17p) or TP53mut
+are candidates for frontline treatment with the kinase inhibitor
+ibrutinib [65]. Ibrutinib may also represent a suitable frontline
+treatment for older patients without Del(17p) or TP53mut
+[66]. However, studies comparing ibrutinib with chemoimmunotherapy are lacking and short follow-up currently
+precludes final conclusions regarding the benefits and risks
+(i.e. specific toxicities, drug interactions, non-adherence) of such
+treatment in older patients with CLL. With advancing age,
+however, treatment with the kinase inhibitors ibrutinib or
+idelalisib (the latter in combination with rituximab) have been
+shown to be safe and highly efficacious as salvage therapy for fit or
+vulnerable older patients with refractory or early relapsing CLL.
+Importantly, these treatments proved active in heavily pretreated patients without Del(17p) or TP53mut and also for patients
+with Del(17p) or TP53mut who have failed chemo-immunotherapy
+[67, 68]. For patients who have failed kinase inhibitor therapy, one
+treatment option is the pro-apoptotic drug venetoclax (ABT-199)
+[69]. Other salvage therapies are available (e.g. ofatumumab, steroids plus rituximab), but evidence in older patients with CLL is generally limited. Recapitulation of chemo-immunotherapy remains a
+therapeutic option in older patients with late relapse of CLL and
+lack of Del(17p) or TP53mut.
+Panel recommendations for treatment in routine clinical practice.
+Recommendation 3.4: Only a small minority of carefully
+selected and very fit older patients with untreated CLL not harbouring Del(17p) or TP53mut might be treated with full-dose FCR.
+Level of evidence: I
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+Recommendation 3.5: Fit older patients with untreated CLL
+not harbouring Del(17p) and TP53mut should be evaluated for
+alternative treatments such as BR or dose-attenuated FCR.
+Level of evidence: II
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+Recommendation 3.6: Vulnerable older patients with untreated CLL not harbouring Del(17p) or TP53mut should be
+treated with G-CLB, O-CLB or R-CLB.
+Level of evidence: I
+Strength of recommendation: A
+Consensus: 100% (23 voters)
+Recommendation 3.7: Vulnerable older patients with
+untreated CLL not harbouring Del(17p) or TP53mut may be
+
+doi:10.1093/annonc/mdx413 | 551
+
+Special article
+considered for alternative treatments such as BR or doseattenuated FCR or ibrutinib.
+Level of evidence: II
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+Recommendation 3.8: Older patients with untreated CLL
+harbouring Del(17p) and/or TP53mut should be considered for
+treatment with ibrutinib.
+Level of evidence: III
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+Recommendation 3.9: Older patients with relapsed or
+refractory CLL should be considered for treatment with ibrutinib
+or idelalisib plus rituximab (irrespective of Del[17p] and
+TP53mut status).
+Level of evidence: I
+Strength of recommendation: A
+Consensus: 100% (23 voters)
+Recommendation 3.10: Older patients with relapsed or
+refractory CLL not harbouring Del(17p) or TP53mut could be
+evaluated for alternative treatments (e.g. CD20 antibody).
+Level of evidence: III
+Strength of recommendation: C
+Consensus: 100% (23 voters)
+Recommendation 3.11: Older patients with late relapse
+CLL not harbouring Del(17p) or TP53mut may be evaluated for
+re-administration of chemo-immunotherapy.
+Level of evidence: V
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+
+4. Diagnostic work-up and treatment of elderly
+patients with FL
+
+Annals of Oncology
+thoroughness in elderly patients as in younger patients.
+Whenever possible, excisional lymph node biopsy or at least a
+core biopsy should be carried out in patients without easily
+accessible lymph nodes. Fine-needle aspirations should be
+avoided as they are insufficient for an appropriate diagnosis.
+Staging should be with a view to exclude localised disease since
+treatment differs between localised and advanced stages of FL.
+This implies that as soon as advanced stage disease is confirmed,
+staging procedures should be avoided which do not impact treatment decisions. Initial work-up normally includes a computed
+tomography (CT) scan of the neck, thorax, abdomen and pelvis,
+and a bone marrow (BM) aspirate and biopsy. However, in individual patients with palpable lymph nodes (e.g. of the neck or
+axilla), physical examination combined with an ultrasound of the
+abdomen may be sufficient. In terminally ill patients with
+confirmed advanced stage disease and normal peripheral blood
+(PB) cell counts, BM biopsy might be omitted. Positron emission
+tomography CT (PET-CT) scan is not recommended on a regular
+basis, but can be helpful to confirm localised disease in patients
+for whom local radiotherapy is an option. A complete blood
+count, routine blood chemistry including LDH, b2-microglobulin
+and uric acid, as well as screening tests for human immunodeficiency virus (HIV) and hepatitis B and C, are also recommended
+in elderly patients. Immunophenotyping of PB and BM cytology,
+and detection of BCL2 rearrangements by polymerase chain reaction assay, are not routinely recommended. Prognostication by the
+‘Follicular Lymphoma-specific International Prognostic Index’
+(FLIPI) or the revised FLIPI 2 (incorporating b2-microglobulin,
+diameter of largest lymph node, BM involvement and haemoglobin level) is recommended, whenever possible. There are no data
+demonstrating the need to adjust treatment according to the prognostic scores of these indices. Geriatric assessment has not been
+established specifically for FL patients, but has its value to assess
+fitness in older lymphoma patients as demonstrated for patients
+with CLL [49].
+
+FL occurs in the elderly with a median age of diagnosis of 61 years
+[70]. Registry data have shown that elderly non-Hodgkin’s
+lymphoma (NHL) patients, including those with FL, suffer from
+comorbidities with increasing age, with a prevalence of serious
+comorbidity in 43% and 61% for patients aged 60–69
+and >70 years old, respectively [71]. The vast majority of these
+elderly patients present at an advanced stage and are therefore in
+a palliative situation. Thus, the aim of treatment in this group is
+to control disease while maintaining the best quality of life
+possible. Following this approach, many patients with advanced
+stage FL achieve disease control with long-lasting disease-free
+intervals without compromising their quality of life. There are
+differences in management between young fit and elderly patients
+with comorbidities; for instance, in young fit patients with
+advanced-stage disease, six cycles of fully dosed (90 mg/m2)
+bendamustine in combination with rituximab are standard [11],
+whereas in elderly patients, a reduction in both the number
+of cycles and dose (e.g. four cycles, 70 mg/m2) is considered
+appropriate for many patients, as noted below.
+
+Panel recommendations for diagnostic work-up.
+Recommendation 4.1: Elderly patients should be diagnosed
+based on lymph node histology whenever possible. The aim of
+staging is to discriminate between patients with limited disease
+and those with advanced stage disease. Any diagnostics that do not
+impact on treatment decisions should be avoided, particularly in
+terminally ill patients.
+Level of evidence: V
+Strength of recommendation: A
+Consensus: 100% (23 voters)
+
+Diagnostic work-up of FL in elderly patients. Diagnostic work-up
+in advanced stage FL is defined in the ESMO guidelines [11]. In
+general, diagnostics should be carried out with the same
+
+Patients with mild symptoms: For elderly patients with mild
+symptoms and low tumour burden, it is recommended to avoid
+chemotherapy. Rituximab has anti-lymphoma activity and is a
+
+552 | Buske et al.
+
+Treatment of FL in elderly patients.
+Asymptomatic patients: For treatment-naı̈ve patients, as well
+as those in relapse, the ‘watch and wait’ strategy is standard in the
+management of elderly patients with FL.
+Symptomatic patients: If the elderly patient develops
+symptoms due to lymphoma progression, treatment should be
+initiated.
+
+Volume 29 | Issue 3 | 2018
+
+Annals of Oncology
+valid treatment option as single-agent induction (4 weekly,
+375 mg/m2) or single-agent induction followed by maintenance
+[72]. In relapse, dose reduced BR (50 or 70 mg/m2 bendamustine
+on day 1 and day 2 of 28-day cycles) or rituximab/cyclophosphamide/vincristine/prednisone (R-CVP) are treatment options.
+Another possibility is to adjust rituximab/chemotherapy to the
+fitness of the patient in order to limit the number of cycles to
+three or four. Idelalisib is appropriate for patients with relapsed
+FL who are no longer responding to rituximab/chemotherapy.
+However, although this is a chemotherapy-free approach, recent
+data demonstrated considerable toxicity, which included
+diarrhoea and opportunistic infections, and so this drug should
+be used with caution and Pneumocystis jiroveci pneumonia
+prophylaxis and cytomegalovirus monitoring [73].
+Patients with high tumour burden: For elderly patients with a
+high tumour burden according to the GELF (Groupe d’Etude des
+Lymphomes Folliculaires) criteria [74], more rapid lymphoma
+debulking is necessary. In this situation, BR and R-CVP are wellestablished and well-tolerated treatment options. However,
+BR was just recently associated with a higher rate of partly fatal
+infections, probably due to prolonged T-cell suppression.
+Therefore, bendamustine in combination with an anti-CD20
+antibody should be given with caution and anti-bacterial/antiviral prophylaxis should be considered. In elderly fit patients,
+rituximab plus CHOP (R-CHOP) is also an effective treatment
+regimen. Rituximab maintenance in first remission has
+been shown to prolong progression-free survival (PFS), but it is
+associated with toxicities such as neutropaenia and an increased
+rate of infections. Although these complications are manageable
+in the majority of patients, rituximab maintenance should be
+considered optional. In relapse with a long remission duration
+(>18–24 months), the initial rituximab/chemotherapy can be
+repeated. In cases with shorter remission duration, alternate
+R-chemotherapies (e.g. R-CVP after BR and vice versa) should
+be used. Rituximab maintenance is a well-established treatment
+option for relapsed patients and may also be considered for
+patients who did not receive rituximab maintenance as part of
+their first-line therapy. Idelalisib is a treatment option
+for patients who are no longer responding to rituximab/
+chemotherapy combinations, but should be used with the
+precautions mentioned above. Radio-immunotherapy has a
+different mode of action compared with all other mentioned
+treatment approaches as it exploits the high radiosensitivity
+of lymphomas. Ibritumomab tiuxetan combines anti-CD20
+targeting with the b-emitter Yttrium-90; it has shown high
+single-agent activity in relapsed FL and as consolidation therapy
+after first-line treatment of FL, which led to the approval of this
+agent in these two indications in Europe [75, 76].
+Elderly vulnerable patients: A particular challenge is the management of elderly vulnerable patients in need of treatment.
+Treatment options correspond to the treatment options
+mentioned above for patients with low tumour burden and
+comprise rituximab single agent with or without a shortened rituximab maintenance (e.g. four infusions every 2 months). Rituximab
+is approved for subcutaneous application if the patient tolerates the
+first intravenous application. Another treatment option for elderly
+vulnerable patients, avoiding intravenous applications, is R-CLB.
+
+Volume 29 | Issue 3 | 2018
+
+Special article
+Panel recommendations for treatment in routine clinical practice.
+Recommendation 4.2: Asymptomatic elderly patients should
+undergo a watch and wait strategy.
+Level of evidence: I
+Strength of recommendation: A
+Consensus: 100% (23 voters)
+Recommendation 4.3: Symptomatic patients with mild
+symptoms should be offered a chemotherapy-free approach such
+as rituximab single agent, if possible.
+Level of evidence: III
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+Recommendation 4.4: For patients with high tumour burden
+tolerating chemotherapy, a rituximab/chemotherapy regimen
+such as BR is recommended (with bendamustine dose reduction
+or fewer treatment cycles, if necessary. Be aware of bendamustineassociated infections; consider antibacterial/antiviral prophylaxis).
+Level of evidence: I
+Strength of recommendation: A
+Consensus: 100% (23 voters)
+Recommendation 4.5: For relapsed patients, rituximab/
+chemotherapy adjusted to the fitness of the patient is also
+standard in the elderly. Rituximab maintenance is optional both
+first line and in relapse. Idelalisib should be used with caution
+in relapsed patients not responding to rituximab/chemotherapy
+because of its toxicity profile.
+Level of evidence: III
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+
+5. Diagnostic work-up and treatment of elderly
+patients with MCL
+Treatment goals in elderly patients with MCL: cure versus disease
+control/palliation? Advanced MCL is generally considered an
+incurable disease. Nonetheless, even within the subgroup of older
+patients not eligible for intensive induction therapy and stem cell
+transplantation, treatment goals differ according to biological age,
+PS and comorbidities. A reasonable and commonly used approach
+is to stratify elderly patients into three categories: (i) elderly fit, (ii)
+elderly vulnerable and (iii) terminally ill individuals [77].
+The treatment goal for elderly fit patients is similar to that for
+younger patients [12] (i.e. to achieve long-term remissions).
+Therefore, achievement of a CR by intensive immune-chemotherapy
+is the therapeutic goal.
+For vulnerable patients with comorbidities, the aim of treatment is to control the disease. However, tolerability of standard
+treatment might be compromised by comorbidities and impaired
+organ function. Therefore, adaptation of treatment intensity is
+mandatory with the aim of balancing therapeutic efficacy
+and toxicity; thus, the therapeutic approach differs from those
+pursued in young fit patients [12].
+In contrast, symptom control while preserving quality of life is
+the main goal in terminally ill patients.
+How do treatment goals impact on our diagnostic work-up?
+Diagnostic work-up does not substantially differ in elderly
+
+doi:10.1093/annonc/mdx413 | 553
+
+Special article
+patients compared with patients of a younger age. As in younger
+patients, a reliable diagnosis is of major importance to distinguish
+MCL from other lymphoproliferative entities. Therefore, histological confirmation by excisional lymph node biopsy or at least
+core biopsy is mandatory. Fine-needle biopsy is considered
+inappropriate. In addition to immunophenotypic characterisation,
+detection of cyclin D1 overexpression or chromosomal translocation t(11;14) is essential to ensure an unequivocal diagnosis. In rare
+cyclin D1-negative cases, the use of SOX11 may help to identify at
+least some cyclin D1-negative MCL variants [12].
+A CT scan with iodine contrast of the neck, chest, abdomen
+and pelvis is mandatory for all patients. The newest consensus
+report of the International Conference on Malignant
+Lymphomas Imaging Working Group recommends the use
+of PET-CT for staging and remission assessment at the end of
+therapy in 18F-fluorodeoxyglucose (FDG)-avid lymphoma in
+clinical practice [78]. Therefore, PET-CT scanning is considered
+optional for fit elderly patients. (PET)-CT is particularly useful for
+the minority of patients with stage I–II disease who are candidates
+for localised radiotherapy to confirm early-stage disease and is
+recommended in the latest ESMO CPG [12]. For terminally ill
+patients, the use of PET-CT scanning is not recommended.
+BM aspirate and biopsy should be included in the diagnostic
+work-up of all elderly fit patients with MCL. In vulnerable
+patients, a BM examination is considered optional, whereas in
+terminally ill patients, it might be dispensable at least if the PB
+count is normal or only slightly altered.
+Panel recommendations for diagnostic work-up in routine clinical
+practice.
+Recommendation 5.1: Diagnostic work-up in elderly patients
+should generally not differ from patients of a younger age.
+Histological confirmation by excisional lymph node biopsy or
+at least core biopsy is mandatory. Detection of cyclin D1 overexpression or chromosomal translocation t(11;14) is essential.
+Imaging should include at least a CT scan with iodine contrast of
+the neck, chest, abdomen and pelvis. The use of PET-CT imaging
+is considered optional for fit elderly patients. BM aspirate and
+biopsy should be carried out in elderly fit patients, whereas BM
+examination is not required in vulnerable or terminally ill
+patients.
+Level of evidence: V
+Strength of recommendation: A
+Consensus: 100% yes (23 voters)
+Treatment of MCL in elderly patients. It is the strong belief of all
+authors that the best option for all elderly patients – either for
+first-line treatment or in relapse – is enrolment in a clinical trial.
+First-line treatment: Based on the results of a large phase III
+trial, R-CHOP chemo-immunotherapy followed by rituximab
+maintenance is considered a standard first-line option
+for elderly fit patients outside a clinical trial [79]. The use of rituximab/fludarabine/cyclophosphamide (R-FC) as first-line
+treatment is discouraged due to early failures and insufficient
+haematopoietic recovery. BR has been reported to be at least as
+effective as R-CHOP in two phase III trials and is considered an
+alternative induction regimen for older MCL patients [80, 81].
+Both trials did not include rituximab maintenance. In addition,
+
+554 | Buske et al.
+
+Annals of Oncology
+the bortezomib-containing induction regimen, bortezomib/rituximab/cyclophosphamide/doxorubicin/prednisone (VR-CAP),
+has been shown to be more effective than R-CHOP in patients
+with newly-diagnosed MCL in a large phase III trial, but this is
+at the cost of increased haematological toxicity [82]. The addition of dose-adapted high-dose cytarabine to BR (i.e. R-BAC)
+in elderly patients has shown excellent response and PFS rates in
+a phase II trial, but it is also associated with considerable
+haematological toxicity [83]. Preliminary results from a followup trial using a reduced cytarabine dose have recently been
+presented demonstrating reduced toxicity while preserving efficacy [84]. Therefore, this regimen might be considered in very
+fit older patients. Currently, a large randomised phase III trial
+comparing R-CHOP versus alternating R-CHOP and rituximab/cytarabine/dexamethasone (R-HAD) in older patients is
+open for accrual [85].
+For vulnerable patients with comorbidities and/or impaired organ
+function, dose-adapted chemo-immunotherapeutic regimens are
+appropriate. Options include dose-reduced BR, R-CVP or R-CLB.
+For vulnerable patients with more severe comorbidities, no
+standard of care exists. A number of less intensive therapies
+are available including R-CLB, (dose-reduced) BR or the oral
+metronomic combination of prednisone/etoposide/procarbazine/
+cyclophosphamide (PEP-C) [86–88]. Rituximab monotherapy is
+another option for elderly patients unable to tolerate chemotherapy. However, the objective response rate with single-agent
+rituximab is low (27%) and, in contrast to findings in FL, patients
+receiving prolonged treatment did not show an improved clinical
+response [89].
+Recently, chemotherapy-free regimens (e.g. lenalidomide
+plus rituximab) have shown promising results as a first-line
+regimen for MCL, with good tolerability [90]. In addition,
+high response rates and long-lasting remissions have been reported with the bruton tyrosine kinase inhibitor, ibrutinib,
+in relapsed or refractory MCL, with a favourable safety profile
+[91, 92]. It is tempting to speculate whether vulnerable patients
+may particularly benefit from these new drugs. Unfortunately,
+to-date no data are available from clinical trials for this subset
+of patients and therefore clear recommendations cannot be
+made.
+Relapsed/refractory disease: As with first-line treatment, the
+choice of second-line and subsequent treatment should be
+adapted to the age and PS of the patient with relapsed or refractory
+disease. After a long-lasting remission, repetition of the first-line
+treatment can be considered. Otherwise, in elderly fit patients,
+non-cross-resistant drugs and combination regimens should be
+preferred as salvage treatment. In subsequent relapse or in elderly
+vulnerable patients, monotherapies with targeted drugs
+(in particular ibrutinib [91, 93], lenalidomide 6 rituximab [94],
+temsirolimus 6 rituximab [95] or bortezomib [96]) as well as
+well-tolerated, dose-adapted chemotherapy combinations and
+palliative radiotherapy should be considered.
+Panel recommendations for treatment in routine clinical practice.
+Recommendation 5.2: For elderly fit patients, the following
+chemo-immunotherapeutic regimens are recommended as the
+preferred first-line treatment options in routine clinical
+practice:
+
+Volume 29 | Issue 3 | 2018
+
+Annals of Oncology
+1. R-CHOP followed by rituximab maintenance
+Level of evidence: I
+Strength of recommendation: A
+2. BR
+Level of evidence: I
+Strength of recommendation: A
+3. VR-CAP
+Level of evidence: I
+Strength of recommendation: A
+4. R-BAC
+Level of evidence: V
+Strength of recommendation: B
+Consensus: 100% yes (23 voters)
+Recommendation 5.3: For vulnerable elderly patients, doseadapted chemo-immunotherapeutic regimens are considered
+appropriate. Options include dose-reduced BR, R-CVP or R-CLB.
+Level of evidence: V
+Strength of recommendation: B
+Consensus: 100% yes (23 voters)
+Recommendation 5.4: For vulnerable patients with severe
+comorbidities, mild chemo-immunotherapeutic regimens like
+R-CLB, (dose-reduced) BR or PEP-C are considered appropriate.
+Level of evidence: V
+Strength of recommendation: B
+Consensus: 100% yes (23 voters)
+Recommendation 5.5: While newer targeted drugs like
+ibrutinib and lenalidomide might offer benefits, particularly in
+vulnerable patients, no data are available from clinical trials for
+this subset of patients and therefore clear recommendations
+cannot be given. For relapsed or refractory disease, treatment
+should be adapted to the age and PS of the patient. Besides
+non-cross-resistant combination regimens, treatment options
+include:
+1. Ibrutinib
+Level of evidence: II
+Strength of recommendation: A
+2. Lenalidomide 6 rituximab
+Level of evidence: II
+Strength of recommendation: B
+3. Temsirolimus 6 rituximab
+Level of evidence: II
+Strength of recommendation: B
+4. Bortezomib
+Level of evidence: V
+Strength of recommendation: B
+Consensus: 100% yes (23 voters)
+
+6. Diagnostic work-up and treatment of elderly
+patients with PTCL
+PTCL comprises a very heterogeneous group of diseases and the
+incidence rates of each subtype varies by geographical region. In
+Europe, the top three subtypes are PTCL not otherwise specified
+(34.3%), angioimmunoblastic (28.7%) and anaplastic large-cell
+lymphoma (ALCL) (15.8%) [97]; treatment recommendations in
+this article refer to these three subgroups, which are largely the
+most common forms and, importantly, are treated similarly in
+the elderly population. The median age of presentation of these
+
+Volume 29 | Issue 3 | 2018
+
+Special article
+diseases is typically over 60 years [97], the only exception being
+anaplastic lymphoma kinase (ALK)þ ALCL. Treatment goals for
+elderly patients with PTCL may be stratified according to fitness
+at presentation and thus often differ from treatment of young fit
+patients, for whom dose intensification and transplant play a
+major role [13]. In elderly fit patients, the aim of treatment is to
+induce a CR with induction therapy since attainment of a CR
+correlates with the best outcomes for PTCL [98]. For vulnerable
+patients, the aim of treatment is to control disease using
+treatment-adapted regimens according to end organ deficit and
+comorbid conditions. For terminally ill patients, it may be appropriate to offer palliative control to maintain a reasonable quality
+of life.
+Diagnostic work-up for elderly patients with PTCL. Due to the
+heterogeneity in disease subtypes of PTCL, histological confirmation by excision biopsy is mandatory, and in some circumstances,
+incisional core biopsy may be sufficient. The histological diagnosis
+of PTCL should be made according the World Health
+Organization (WHO) Classification 2008 [99] and requires an
+expert haematopathologist to gather the histological, immunophenotypical and molecular (if required in difficult cases) results and
+combine these with the clinical presenting features to categorise
+the final diagnosis. Recently, advances in our understanding of the
+biology of some specific subtypes have revealed unique hallmark
+identifications, such as expression of CD10, CXCL13 and
+programmed cell death ligand-1 (PD-L1), suggesting a follicular
+helper T-cell of origin [100, 101].
+The diagnostic work-up requires full staging investigations,
+including CT with iodine staging scans of the neck, chest, abdomen
+and pelvis. PET-CT scanning should be considered for elderly fit
+patients when curative intent is considered possible, since PET
+appears to be particularly useful for identifying extranodal disease
+such as in the gastrointestinal tract which is often observed in
+PTCL [102]. The recent consensus guidelines recommend PETCT for FDG-avid lymphomas which encompass the three most
+common PTCL subtypes [78]. BM examination should only be
+undertaken in those patients for whom the treatment approach
+is curative. For all patients where anthracycline therapy is being
+considered, a baseline electrocardiogram and left ventricular
+ejection fraction (LVEF) assessment are recommended.
+Panel recommendations for diagnostic work-up.
+Recommendation 6.1: The final histological diagnosis
+requires full analysis and integration of the clinical context and
+expert haematopathological review.
+Level of evidence: IV
+Grade of recommendation: A
+Consensus: 100% (23 voters)
+Treatment of elderly patients with PTCL. Unlike high-grade B-cell
+lymphomas, PTCL is characterised by a higher incidence of early
+relapse and refractory disease. Although several trials have
+addressed the need to optimise CHOP, this regimen still remains
+the first-line treatment of choice for elderly PTCL [103], although
+remissions may not be durable. In order to maintain dose
+intensity, all patients should receive growth factor support.
+Agents such as etoposide and alemtuzumab have been added to
+the CHOP-21 backbone, but were proven to be either too toxic
+
+doi:10.1093/annonc/mdx413 | 555
+
+Special article
+[104] or non-beneficial [105] for more elderly patients. New trials
+are urgently required to test less toxic agents either in addition to
+the CHOP backbone or as a maintenance strategy to prevent
+relapse, and the authors strongly recommend entering patients
+into clinical trials whenever possible. In the younger population,
+consolidation with autologous stem cell transplantation (ASCT)
+in patients achieving a CR has been shown to improve long-term
+outcomes [106]; however, the applicability of this approach,
+although desirable, is seldom achieved in the elderly population
+except for in the fittest patients. The assessment of elderly patients
+for suitability to a more intensive approach based on optimal
+organ function and the presence of comorbid disease is key to
+decision making. In these circumstances, dose attenuation of
+chemotherapy or entry into a clinical trial should be considered.
+To aid treatment decision making, the conventional
+International Prognostic Index (IPI) may be helpful in selecting
+high-risk patients for more intensive approaches if fit enough
+[97, 105, 107]. Although most patients with PTCL present
+with advanced disease, for patients who present with early stage
+disease, an attenuated chemotherapy schedule followed by local
+radiotherapy may be appropriate. For terminally ill patients,
+management should be with a view to preserving quality of life
+and symptomatic control.
+The occurrence of relapse or refractory disease in the elderly
+patient is associated with a very poor prognosis, and the
+subsequent treatment decision is dictated by patient fitness to
+receive a salvage regimen with gemcitabine or platinum-containing
+agents. In the rare instances when patients are considered fit
+enough, ASCT may be appropriate providing a satisfactory
+response is attained, ideally a CR. Patents unsuitable for
+this intensive approach should be offered novel agents when
+appropriate, such as brentuximab in ALCL [108] or other
+CD30þ T-cell lymphomas, or be entered into clinical trials
+testing novel agents.
+Panel recommendations for first-line treatment in routine clinical
+practice.
+Recommendation 6.2: Whenever possible, patients should be
+entered into clinical trials. First-line regimes for elderly patients
+should be based on a CHOP induction backbone.
+Level of evidence: III
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+Panel recommendations for salvage treatment in routine clinical
+practice.
+Recommendation 6.3: Whenever possible, patients should
+be entered into clinical trials testing novel agents. However, for
+elderly relapsed patients considered unsuitable for clinical trials,
+treatment options include:
+1. Salvage chemotherapy with gemcitabine or platinum-containing
+agents
+Level of evidence: IV
+Strength of recommendation: C
+2. Novel agents such as brentuximab monotherapy for patients
+with CD30þ T-cell lymphoma
+Level of evidence: III
+Strength of recommendation: B
+Consensus: 100% (23 voters)
+
+556 | Buske et al.
+
+Annals of Oncology
+7. Diagnostic work-up and treatment of
+elderly patients with DLBCL
+DLBCL is the most common subtype of NHL, with an incidence
+of 45 per 100 000 in persons aged 60–64 years, rising to 112 per
+100 000 in those of 80–84 years [109]. In contrast to the other
+lymphoma subtypes discussed so far, DLBCL is a curative disease.
+The treatment of elderly patients with DLBCL is unsatisfactory,
+with decreasing OS rates observed with increasing age [110, 111].
+Reasons for this are multifactorial and include an increased
+incidence of comorbid conditions, decreased physiological
+reserve and decreased functional capacity, all of which are associated with advancing age. Given this, in contrast to young
+fit patients, dose intense regimens are often not feasible in
+this elderly population [10]. Recent seminal publications
+have confirmed that R-CHOP is the gold standard in patients
+aged 60–80 years [112], but it should be noted that these studies
+did not include patients of >80 years. Optimal categorisation of
+elderly patients who are fit to receive curative regimens is
+required to ensure a consistent approach to decision making for
+the elderly patient diagnosed with DLBCL.
+Diagnostic work-up for elderly patients with DLBCL. The
+diagnosis of elderly patients with DLBCL who are fit for curative
+treatment should follow standard diagnostic guidelines used
+for younger patients [10]. This requires resource from a haematopathology laboratory with expertise in morphology and the
+ability to carry out immunophenotypic [immunohistochemistry
+(IHC) or fluorescence-activated cell sorting (FACS)] and molecular investigations, should they be required [level of evidence
+(LoE) V, grade of recommendation (GoR) A]. A minimum set of
+B-cell IHC markers should be carried out to include CD20,
+CD22, CD79a and CD10. A cell of origin phenotype may be
+obtained based on IHC, but it is not recommended to base
+clinical decisions on these results. Epstein–Barr virus (EBV)
+confirmation by EBER-1 staining is helpful to confirm a diagnosis of EBV-positive DLBCL. The concurrent IHC expression of
+both MyC and BCL-2 is associated with a poor prognosis [113].
+Patients should be carefully examined for evidence of comorbid illnesses, impaired PS and functional deficits. A comprehensive geriatric assessment (CGA) is desirable and recommended to
+aid categorisation into fit, vulnerable and terminally ill patients.
+Routine haematological and biochemical blood investigations,
+including LDH assessment, are required. Serology screening
+should be carried out for hepatitis B [hepatitis B core antibody
+(anti-HBc) and hepatitis B surface antigen (HBsAg)], hepatitis C
+and HIV status. Vitamin D level evaluation could be taken into
+consideration, since low levels may result in an inferior treatment
+outcome.
+Staging should be carried out according to the Ann Arbor
+classification [I, A]. PET-CT should be carried out in patients
+who are candidates for curative treatment. If the PET-CT demonstrates BM involvement, BM biopsy is not required. However, if
+the PET-CT fails to demonstrate this, in cases of early stage
+disease, a BM biopsy may be appropriate. Further imaging with
+magnetic resonance imaging is indicated if central nervous
+system disease is suspected, and a lumbar puncture may be carried out, if feasible, to detect leptomeningeal disease. All patients
+who are candidates for anthracycline-based treatment require
+
+Volume 29 | Issue 3 | 2018
+
+Annals of Oncology
+baseline LVEF estimation. Prognostic index scoring should be
+carried out, and the IPI should be calculated [I, A], but it should
+be recognised that this index allocates one point for an age of
+>60 years, but does not stratify the very elderly (>80 years). The
+recently devised NCCN-IPI, as well as other elderly prognostic
+indexes [114, 115], have refined their categorisation according to
+age, with higher weighting allocated according to advanced age
+[18]. This is important as newer trials focussing specifically
+on elderly patients will require more refined risk scoring to aid
+stratification to more intensive treatment approaches.
+Panel recommendations for diagnostic work-up.
+Recommendation 7.1: For patients treated with curative intent,
+diagnosis should be carried out in an expert haematopathology
+laboratory with full diagnostic capabilities (immunophenotypic
+and molecular) and staging should be with PET-CT.
+Level of evidence: V
+Strength of recommendation: A
+Consensus: 100% yes (23 voters)
+Recommendation 7.2: Cardiac assessment (LVEF) is required
+for patients treated with curative intent.
+Level of evidence: V
+Strength of recommendation: A
+Consensus: 100% yes (23 voters)
+Recommendation 7.3: The IPI score should be calculated.
+Level of evidence: I
+Strength of recommendation: A
+Consensus: 100% yes (23 voters)
+Panel recommendations for treatment in routine clinical practice.
+De novo disease: Six to eight cycles of R-CHOP-21 are a widely
+used standard treatment of elderly fit patients aged 60–80 years.
+However, there are no prospective data to show that six cycles of
+R-CHOP-21 are as effective as eight cycles.
+A large randomised phase III trial demonstrated equivalent
+efficacy and similar toxicity with eight cycles of R-CHOP-21 and
+eight cycles of R-CHOP-14 in treatment-naı̈ve elderly patients of
+this age group [116]. In the German RICOVER-60 trial, six cycles
+of R-CHOP-14 were superior to eight cycles of R-CHOP-14 in
+patients of the same age group [112]. Six cycles of R-CHOP-14
+has the advantage of a shorter duration of chemotherapy
+compared with eight cycles R-CHOP-21 (71 versus 149 days) and
+reduced exposure (only three quarters of the total chemotherapy
+dose). Thus, six cycles of R-CHOP-14 with eight doses of rituximab are an alternative treatment regimen for elderly patients
+who tolerate this dose dense regimen.
+All patients above 65 years should receive prophylactic
+granulocyte-colony stimulating factor since the highest incidence of
+treatment-related mortality occurs within the first two cycles [117].
+Emerging data in the fit very elderly (>80 years) patients with no
+existing comorbidities suggest that full-dose-intensity R-CHOP may
+be detrimental [118, 119], with reports suggesting inferior results in
+this age group. This is supported by the encouraging results for
+the >80-year-old group treated with the mini R-CHOP regimen,
+who achieved a 2-year OS rate of 59% with mini R-CHOP [120],
+and 2-year OS rate of 64.7% with ofatumumab and reduced-dose
+CHOP (OFA-mini-CHOP) [III, B] [121]. However, carefully
+selected patients could still receive full-dose CHOP.
+
+Volume 29 | Issue 3 | 2018
+
+Special article
+Regarding the group of vulnerable elderly patients with comorbidities, especially cardiac, which may contraindicate anthracycline use, substitution of doxorubicin by drugs such as
+gemcitabine, etoposide or a liposomal formulation of doxorubicin
+may be beneficial [III, C] [122, 123]. In cases where a high tumour
+load is evident, a steroid pre-phase is recommended to optimise
+PS and decrease the risk of tumour lysis syndrome [I, A]. The use
+of radiotherapy to sites of bulky disease (>7.5 cm) should also be
+considered, since a recent study has shown that it improves outcomes for elderly patients in this setting [II, C] [124].
+In clinical practice, it is often difficult to discriminate who
+should receive full-dose curative approaches. CGAs are helpful
+in the decision-making process regarding who should receive
+full-dose R-CHOP, and their use is recommended [III, C] [125,
+126]. Further prospective studies are required to test and optimise these strategies, preferably with time-efficient assessments
+to inform DLBCL risk stratification, both within the clinical trial
+setting and in routine clinical practice. Repletion with vitamin D
+is generally recommended in patients with vitamin D deficiency,
+as rituximab-mediated cellular cytotoxicity is reduced in vitamin
+D deficient patients [IV, B] [127].
+Further emerging reports regarding the mechanisms of treatment
+failure with chemo-immunotherapy have been described,
+with enhanced drug clearance of rituximab observed in elderly male
+patients [128]; however, there is currently insufficient evidence to
+modify rituximab dosage for these patient subgroups until further
+prospective data are available. For terminally ill patients, the goal
+of treatment is to achieve a response and control of symptoms in a
+palliative approach, and to maintain quality of life as much as
+possible.
+Relapsed DLBCL: For rare cases of patients who are <70 years
+old and fit enough to be considered for stem cell transplant, salvage
+treatments should be selected with the best chance of inducing
+remission, such as rituximab/dexamethasone/high-dose cytarabine/
+cisplatin (R-DHAP), rituximab/etoposide/methylprednisolone/
+cytarabine/cisplatin (R-ESHAP), rituximab/gemcitabine/dexamethasone/cisplatin (R-GDP) or rituximab/ifosfamide/carboplatin/
+etoposide (R-ICE) [129, 130]. If such patients cannot tolerate full
+doses, dose attenuation may be necessary. For patients who are
+transplant ineligible, salvage treatment may be offered with similar
+regimens as above, or other regimens which may be administered in
+the outpatient setting, such as rituximab/gemcitabine/oxaliplatin
+(R-Gem-Ox) [III, B] [131]. Other agents, such as bendamustine
+[132] and pixantrone [133], have been associated with some efficacy in these patients. Ideally, and if suitable, patients should be considered for clinical trials testing novel small molecules, novel
+immunotherapy approaches or maintenance strategies, as recently
+reported for lenalidomide [134]. For those patients with primary
+refractory disease, the outlook is very poor; however, consideration
+for clinical trials is an option for suitable patients.
+Panel recommendations for treatment in routine clinical practice.
+First-line treatment:
+Recommendation 7.4: A CGA is recommended to guide treatment choice.
+Level of evidence: III
+Strength of recommendation: A
+Consensus: 100% yes (23 voters)
+
+doi:10.1093/annonc/mdx413 | 557
+
+Special article
+Recommendation 7.5: The aim of treatment in fully fit
+patients who are <80 years old should be curative, with a fulldose anthracycline-based regimen preferred. R-CHOP is the
+recommended first-line treatment choice.
+Level of evidence: I
+Strength of recommendation: A
+Consensus: 100% yes (23 voters)
+Recommendation 7.6: For fully fit patients who are >80 years
+old without comorbidities, dose-attenuated R-CHOP may be
+appropriate.
+Level of evidence: III
+Strength of recommendation: B
+Consensus: 100% yes (23 voters)
+Treatment of relapsed patients:
+Recommendation 7.7: For relapsed fit (no organ dysfunction,
+PS 0–1, no comorbidities), transplant-eligible patients, appropriate salvage treatment with R-DHAP, R-ESHAP, R-ICE or R-GDP
+is indicated. In the event of an adequate response, ASCT is
+recommended.
+Level of evidence: II
+Strength of recommendation: A
+Consensus: 100% yes (23 voters)
+Recommendation 7.8: For transplant-ineligible patients, dose
+attenuated R-DHAP, R-ESHAP, R-ICE, or less intense regimens
+such as R-Gem-Ox, are appropriate.
+Level of evidence: III
+Strength of recommendation: B
+Consensus: 100% yes (23 voters)
+Recommendation 7.9: For transplant-ineligible patients,
+single-agent chemotherapies such as bendamustine or pixantrone
+may be considered.
+Level of evidence: I (pixantrone), II (bendamustine)
+Strength of recommendation: C
+Consensus: 100% yes (23 voters)
+
+Acknowledgements
+The authors thank Jennifer Lamarre, Claire Bramley, Matthew
+Wallace, Aude Galli and all ESMO staff for their support
+throughout the whole consensus process. Angela Corstorphine
+of Kstorfin Medical Communications Ltd provided medical
+writing support with the preparation of this manuscript. This
+support was funded by ESMO.
+
+Annals of Oncology
+academic trials from Celgene, Janssen, Mundipharma, Pfizer and
+Roche; speaker’s honoraria from Celgene, Janssen,
+Mundipharma, Pfizer and Roche. A.J.M.F.: advisory boards for
+Celgene, Gilead and Mundipharma; speaker honoraria from
+Italfarmaco, Mundipharma and Gilead; research support from
+Celgene, Roche, Mundipharma and Rhizen. G.G.: advisory
+boards for Roche, Janssen, Amgen, Novartis, GlaxoSmithKline,
+Karyopharm and Morphosys; speaker honoraria from Roche,
+Janssen, Gilead and GlaxoSmithKline. V.G.: speaker honoraria,
+advisory boards, consultancy and travel grants from Roche;
+speaker honoraria from Mundipharma, GlaxoSmithKline and
+Bristol-Myers Squibb. M.H.: speaker honoraria, advisory boards
+and consultancy from Takeda; advisory boards and consultancy
+from Janssen, Celgene and Roche/Genentech. M.L.: honoraria
+from Celgene, Janssen-Cilag, Roche, Amgen, Mundipharma and
+Teva; research contracts with Celgene, Pfizer, Mundipharma and
+Roche; research grants from Amgen, Roche and Takeda. S.L.G.:
+speaker honoraria, advisory boards, consultancy and travel grants
+from Roche, Janssen-Cilag and Celgene; research programme
+funding from Roche, Janssen and Servier. U.M.: honoraria for
+advisory board activities from Roche, Celgene, Amgen and
+Janssen-Cilag; research grants from Mundipharma and Celgene.
+P.dN.B.: speaker’s bureau/lectures for Roche and Bayer. M.P.:
+advisory boards for Celgene, Roche and Spectrum; research
+support from Amgen, Roche and Spectrum. N.S.: travel grants,
+advisory boards and research support from Roche; travel grants
+and advisory boards from Celgene; travel grants and honoraria for
+company symposia from Riemser Pharma and CTI Life Sciences.
+P.S.: advisory boards for Celgene and Teva; honoraria from
+Spectrum Pharmaceuticals and Pierre Fabre Oncology; travel
+grants from Hospira, Celgene and Teva. M.S.: speaker’s bureau
+and advisory boards for Teva, Mundipharma, Janssen-Cilag,
+Gilead, CTI BioPharma and Servier; research support, consultant,
+speaker’s bureau and advisory boards for Menarini; speaker’s bureau for Roche and Takeda. R.S.: research support from Celgene,
+Novartis and Teva; honoraria from Celgene, Novartis and Teva;
+scientific advisory board for Celgene. A.S.B.: consultancy fees from
+Takeda. M.T.: consultancy for Roche, Gilead, Janssen, Takeda and
+Celgene. J.W.: advisory boards for Roche, Celgene, Janssen-Cilag
+and Takeda; research grants from Roche, Celgene, Janssen-Cilag,
+Takeda, GlaxoSmithKline and Seattle Genetics. U.W.: speaker
+honoraria from Amgen, Novartis, Roche and Chugai. E.Z.:
+advisory honoraria and/or support for investigator-initiated studies (for the institution) from Celgene, Johnson and Johnson/
+Janssen, Gilead, Mundipharma, Roche and Bayer. All remaining
+authors have declared no conflicts of interest.
+
+Funding
+All costs relating to the consensus conference were covered from
+the ESMO central funds. There was no external funding of the
+event or manuscript production.
+
+References
+1.
+
+2.
+
+Disclosure
+C.B.: honoraria from Roche, Pfizer, Celgene, Pharmacyclics and
+Janssen; research grants from Roche and Janssen. M.D.: advisory
+boards for Bayer, Celgene, Gilead, Janssen and Pfizer; support for
+
+558 | Buske et al.
+
+3.
+
+Eurostat. News release: Nearly 27 million people aged 80 or over in the
+European Union 2016; http://ec.europa.eu/eurostat/documents/
+2995521/7672228/3-29092016-AP-EN.pdf/4b90f6bb-43c1-45ed-985bdfbe9564157a (25 November 2016, date last accessed).
+European Commission, The 2015 Ageing Report 2015; http://europa.
+eu/epc/sites/epc/files/docs/pages/ageing_report_2015_en.pdf (8 July
+2016, date last accessed).
+Howlader N, Noone AM, Krapcho M et al. SEER Cancer Statistics
+Review, 1975-2013, National Cancer Institute. Bethesda, MD, based on
+November 2015 SEER data submission 2016; https://seer.cancer.gov/
+csr/1975_2013/ (22 November 2016, date last accessed).
+
+Volume 29 | Issue 3 | 2018
+
+Annals of Oncology
+4.
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+Tirol Kliniken Tumor register Tyrol 2016; https://www.iet.at/page.cfm?
+vpath¼index (22 November 2016, date last accessed).
+Hamaker ME, Stauder R, van Munster BC. On-going clinical trials for
+elderly patients with a hematological malignancy: are we addressing the
+right end points? Ann Oncol 2014; 25: 675–681.
+Hurria A, Cirrincione CT, Muss HB et al. Implementing a geriatric assessment in cooperative group clinical cancer trials: CALGB 360401.
+J Clin Oncol 2011; 29: 1290–1296.
+Wildiers H, Mauer M, Pallis A et al. End points and trial design in geriatric oncology research: a joint European organisation for research and
+treatment of cancer–Alliance for Clinical Trials in Oncology–
+International Society Of Geriatric Oncology position article. J Clin
+Oncol 2013; 31: 3711–3718.
+Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001; 33: 139–144.
+Eichhorst B, Robak T, Montserrat E et al. Chronic lymphocytic leukaemia: ESMO Clinical Practice Guidelines for diagnosis, treatment and
+follow-up. Ann Oncol 2015; 26 (Suppl 5): v78–v84.
+Tilly H, Gomes da Silva M, Vitolo U et al. Diffuse large B-cell lymphoma (DLBCL): ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2015; 26 (Suppl 5): v116–v125.
+Dreyling M, Ghielmini M, Rule S et al. Newly diagnosed and relapsed follicular lymphoma: ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-up. Ann Oncol 2016; 27 (Suppl 5): v83–v90.
+Dreyling M, Campo E, Hermine O et al. Newly diagnosed and relapsed
+mantle cell lymphoma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2017; 28 (Suppl 4): iv62–iv71.
+d’Amore F, Gaulard P, Trümper L et al. Peripheral T-cell lymphomas:
+ESMO Clinical Practice Guidelines for diagnosis, treatment and followup. Ann Oncol 2015; 26 (Suppl 5): v108–v115.
+Murawski N, Pfreundschuh M, Zeynalova S et al. Optimization of rituximab for the treatment of DLBCL (I): dose-dense rituximab in the DENSER-CHOP-14 trial of the DSHNHL. Ann Oncol 2014; 25: 1800–1806.
+Pallis AG, Papamichael D, Audisio R et al. EORTC Elderly Task Force
+experts’ opinion for the treatment of colon cancer in older patients.
+Cancer Treat Rev 2010; 36: 83–90.
+Ziepert M, Schmits R, Trümper L et al. Prognostic factors for hematotoxicity of chemotherapy in aggressive non-Hodgkin’s lymphoma. Ann
+Oncol 2008; 19: 752–762.
+Reeve BB, Mitchell SA, Dueck AC et al. Recommended patient-reported
+core set of symptoms to measure in adult cancer treatment trials. J Natl
+Cancer Inst 2014; 106: pii: dju129.
+Zhou Z, Sehn LH, Rademaker AW et al. An enhanced International
+Prognostic Index (NCCN-IPI) for patients with diffuse large B-cell
+lymphoma treated in the rituximab era. Blood 2014; 123: 837–842.
+Wedding U, Pientka L, Höffken K. Quality-of-life in elderly patients
+with cancer: a short review. Eur J Cancer 2007; 43: 2203–2210.
+Wildiers H, Heeren P, Puts M et al. International Society of Geriatric
+Oncology consensus on geriatric assessment in older patients with cancer. J Clin Oncol 2014; 32: 2595–2603.
+Pallis AG, Ring A, Fortpied C et al. EORTC workshop on clinical trial
+methodology in older individuals with a diagnosis of solid tumors. Ann
+Oncol 2011; 22: 1922–1926.
+Soubeyran P, Bellera C, Goyard J et al. Screening for vulnerability in
+older cancer patients: the ONCODAGE Prospective Multicenter Cohort
+Study. PLoS One 2014; 9: e115060.
+Decoster L, Van Puyvelde K, Mohile S et al. Screening tools for multidimensional health problems warranting a geriatric assessment in older
+cancer patients: an update on SIOG recommendations. Ann Oncol
+2015; 26: 288–300.
+Bellera CA, Rainfray M, Mathoulin-Pélissier S et al. Screening older
+cancer patients: first evaluation of the G-8 geriatric screening tool. Ann
+Oncol 2012; 23: 2166–2172.
+Goede V, Fischer K, Busch R et al. Obinutuzumab plus chlorambucil in
+patients with CLL and coexisting conditions. N Engl J Med 2014; 370:
+1101–1110.
+
+Volume 29 | Issue 3 | 2018
+
+Special article
+26. Stauder R, Eichhorst B, Hamaker ME et al. Management of chronic
+lymphocytic leukemia (CLL) in the elderly: a position paper from an
+International Society of Geriatric Oncology (SIOG) Task Force. Ann
+Oncol 2017; 28: 218–227.
+27. Burgstaller S, Wiesinger P, Stauder R. Myelodysplastic syndromes in the
+elderly: treatment options and personalized management. Drugs Aging
+2015; 32: 891–905.
+28. Klepin HD, Rao AV, Pardee TS. Acute myeloid leukemia and myelodysplastic syndromes in older adults. J Clin Oncol 2014; 32: 2541–2552.
+29. Larocca A, Palumbo A. Optimizing treatment for elderly patients with
+newly diagnosed multiple myeloma: a personalized approach. J Clin
+Oncol 2016; 34: 3600–3604.
+30. Cherny NI, de Vries EG, Emanuel L et al. Words matter: distinguishing
+“personalized medicine” and “biologically personalized therapeutics”.
+J Natl Cancer Inst 2014; 106.
+31. Yellen SB, Cella DF, Leslie WT. Age and clinical decision making in oncology patients. J Natl Cancer Inst 1994; 86: 1766–1770.
+32. Bellera C, Praud D, Petit-Monéger A et al. Barriers to inclusion of
+older adults in randomised controlled clinical trials on NonHodgkin’s lymphoma: a systematic review. Cancer Treat Rev 2013; 39:
+812–817.
+33. Quinten C, Coens C, Mauer M et al. Baseline quality of life as a prognostic indicator of survival: a meta-analysis of individual patient data
+from EORTC clinical trials. Lancet Oncol 2009; 10: 865–871.
+34. Hoppe S, Rainfray M, Fonck M et al. Functional decline in older patients with cancer receiving first-line chemotherapy. J Clin Oncol 2013;
+31: 3877–3882.
+35. Brain EG, Mertens C, Girre V et al. Impact of liposomal doxorubicinbased adjuvant chemotherapy on autonomy in women over 70 with
+hormone-receptor-negative breast carcinoma: a French Geriatric
+Oncology Group (GERICO) phase II multicentre trial. Crit Rev Oncol
+Hematol 2011; 80: 160–170.
+36. Hays RD, Sherbourne CD, Mazel RM. The RAND 36-Item Health
+Survey 1.0. Health Econ 1993; 2: 217–227.
+37. Ware JE. Health Survey. Manual & Interpretation Guide. Boston, MA:
+The Health Institute, 1993.
+38. Aaronson NK, Acquadro C, Alonso J et al. International Quality of Life
+Assessment (IQOLA) project. Qual Life Res 1992; 1: 349–351.
+39. Aaronson NK, Ahmedzai S, Bergman B et al. The European
+Organization for Research and Treatment of Cancer QLQ-C30: a
+quality-of-life instrument for use in international clinical trials in oncology. J Natl Cancer Inst 1993; 85: 365–376.
+40. Johnson C, Fitzsimmons D, Gilbert J et al. Development of the
+European Organisation for Research and Treatment of Cancer quality
+of life questionnaire module for older people with cancer: the EORTC
+QLQ-ELD15. Eur J Cancer 2010; 46: 2242–2252.
+41. Wheelwright S, Darlington AS, Fitzsimmons D et al. International validation of the EORTC QLQ-ELD14 questionnaire for assessment of
+health-related quality of life elderly patients with cancer. Br J Cancer
+2013; 109: 852–858.
+42. Cocks K, King MT, Velikova G et al. Evidence-based guidelines for determination of sample size and interpretation of the European
+Organisation for the Research and Treatment of Cancer Quality of Life
+Questionnaire Core 30. J Clin Oncol 2011; 29: 89–96.
+43. Osoba D, Rodrigues G, Myles J et al. Interpreting the significance of
+changes in health-related quality-of-life scores. J Clin Oncol 1998; 16:
+139–144.
+44. Velikova G, Coens C, Efficace F et al. Health-related quality of life in
+EORTC clinical trials—30 years of progress from methodological developments to making a real impact on oncology practice. Eur J Cancer
+2012; 10 (Suppl): 141–149.
+45. Katz S, Ford AB, Moskowitz RW et al. Studies of illness in the aged. The
+index of ADL: a standardized measure of biological and psychosocial
+function. JAMA 1963; 185: 914–919.
+46. Lawton MP, Brody EM. Assessment of older people: self-maintaining
+and instrumental activities of daily living. Gerontologist 1969; 9:
+179–186.
+
+doi:10.1093/annonc/mdx413 | 559
+
+Special article
+47. Thurmes P, Call T, Slager S et al. Comorbid conditions and survival in
+unselected, newly diagnosed patients with chronic lymphocytic leukemia. Leuk Lymphoma 2008; 49: 49–56.
+48. Baumann T, Delgado J, Santacruz R et al. Chronic lymphocytic leukemia in the elderly: clinico-biological features, outcomes, and proposal
+of a prognostic model. Haematologica 2014; 99: 1599–1604.
+49. Goede V, Cramer P, Busch R et al. Interactions between comorbidity
+and treatment of chronic lymphocytic leukemia: results of German
+Chronic Lymphocytic Leukemia Study Group trials. Haematologica
+2014; 99: 1095–1100.
+50. Goede V, Bahlo J, Chataline V et al. Evaluation of geriatric assessment
+in patients with chronic lymphocytic leukemia: results of the CLL9 trial
+of the German CLL study group. Leuk Lymphoma 2016; 57: 789–796.
+51. Satram-Hoang S, Reyes C, Hoang KQ et al. Treatment practice in the
+elderly patient with chronic lymphocytic leukemia-analysis of the combined SEER and Medicare database. Ann Hematol 2014; 93: 1335–1344.
+52. ESMO Guidelines Committee. Appendix 4: Chronic lymphocytic leukaemia: eUpdate published online 27 June 2017 (www.esmo.org/
+Guidelines/Haematological-Malignancies). Ann Oncol 2017; 28 (Suppl
+4): iv149–iv152.
+53. Hallek M, Cheson BD, Catovsky D et al. Guidelines for the diagnosis
+and treatment of chronic lymphocytic leukemia: a report from the
+International Workshop on Chronic Lymphocytic Leukemia updating
+the National Cancer Institute-Working Group 1996 guidelines. Blood
+2008; 111: 5446–5456.
+54. Hamaker ME, Prins MC, Stauder R. The relevance of a geriatric assessment for elderly patients with a haematological malignancy--a systematic review. Leuk Res 2014; 38: 275–283.
+55. Hallek M, Fischer K, Fingerle-Rowson G et al. Addition of rituximab to
+fludarabine and cyclophosphamide in patients with chronic lymphocytic leukaemia: a randomised, open-label, phase 3 trial. Lancet 2010;
+376: 1164–1174.
+56. Keating MJ, O’Brien S, Albitar M et al. Early results of a chemoimmunotherapy regimen of fludarabine, cyclophosphamide, and rituximab as
+initial therapy for chronic lymphocytic leukemia. J Clin Oncol 2005; 23:
+4079–4088.
+57. Robak T, Dmoszynska A, Solal-Céligny P et al. Rituximab plus fludarabine and cyclophosphamide prolongs progression-free survival compared with fludarabine and cyclophosphamide alone in previously
+treated chronic lymphocytic leukemia. J Clin Oncol 2010; 28:
+1756–1765.
+58. Eichhorst B, Fink AM, Bahlo J et al. First-line chemoimmunotherapy
+with bendamustine and rituximab versus fludarabine, cyclophosphamide, and rituximab in patients with advanced chronic lymphocytic
+leukaemia (CLL10): an international, open-label, randomised, phase 3,
+non-inferiority trial. Lancet Oncol 2016; 17: 928–942.
+59. Fischer K, Cramer P, Busch R et al. Bendamustine in combination with
+rituximab for previously untreated patients with chronic lymphocytic
+leukemia: a multicenter phase II trial of the German Chronic
+Lymphocytic Leukemia Study Group. J Clin Oncol 2012; 30: 3209–3216.
+60. Mulligan SP, Gill D, Turner P et al. A randomised dose de-escalation
+study of oral fludarabine, 6oral cyclophosphamide and intravenous rituximab as first-line therapy of fit patients with chronic lymphocytic leukaemia (CLL) aged 65 years: final analysis of response and toxicity.
+Blood 2014; 124: 3325.
+61. Lew TE, Cheah CY, Carney DA et al. Dose-reduced fludarabine, cyclophosphamide and rituximab is well tolerated in older patients with
+chronic lymphocytic leukemia and has preserved therapeutic efficacy.
+Leuk Lymphoma 2016; 57: 1044–1053.
+62. Hillmen P, Robak T, Janssens A et al. Chlorambucil plus ofatumumab
+versus chlorambucil alone in previously untreated patients with chronic
+lymphocytic leukaemia (COMPLEMENT 1): a randomised, multicentre, open-label phase 3 trial. Lancet 2015; 385: 1873–1883.
+63. Smolej L, Brychtova Y, Doubek M et al. Low-dose FCR is a safe and effective treatment option for elderly/comorbid patients with chronic
+lymphocytic leukemia/small lymphocytic lymphoma. Updated results of
+project Q-Lite By Czech CLL Study Group. Blood 2014; 124: 4670.
+
+560 | Buske et al.
+
+Annals of Oncology
+64. Michallet A-S. Rituximab in combination with bendamustine or chlorambucil for the treatment of chronic lymphocytic leukaemia: primary
+results from the randomised phase IIIb MABLE study. In XVI
+International Workshop on Chronic Lymphocytic Leukaemia. Sydney,
+Australia: 2015.
+65. Farooqui MZ, Valdez J, Martyr S et al. Ibrutinib for previously untreated
+and relapsed or refractory chronic lymphocytic leukaemia with TP53 aberrations: a phase 2, single-arm trial. Lancet Oncol 2015; 16: 169–176.
+66. Burger JA, Tedeschi A, Barr PM et al. Ibrutinib as initial therapy for patients with chronic lymphocytic leukemia. N Engl J Med 2015; 373:
+2425–2437.
+67. Furman RR, Sharman JP, Coutre SE et al. Idelalisib and rituximab in
+relapsed chronic lymphocytic leukemia. N Engl J Med 2014; 370: 997–1007.
+68. Byrd JC, Brown JR, O’Brien S et al. Ibrutinib versus ofatumumab in
+previously treated chronic lymphoid leukemia. N Engl J Med 2014; 371:
+213–223.
+69. Stilgenbauer S, Eichhorst B, Schetelig J et al. Venetoclax in relapsed or
+refractory chronic lymphocytic leukaemia with 17p deletion: a multicentre, open-label, phase 2 study. Lancet Oncol 2016; 17: 768–778.
+70. Friedberg JW, Taylor MD, Cerhan JR et al. Follicular lymphoma in the
+United States: first report of the national LymphoCare study. J Clin
+Oncol 2009; 27: 1202–1208.
+71. van Spronsen DJ, Janssen-Heijnen ML, Breed WP, Coebergh JW.
+Prevalence of co-morbidity and its relationship to treatment among unselected patients with Hodgkin’s disease and non-Hodgkin’s lymphoma, 1993-1996. Ann Hematol 1999; 78: 315–319.
+72. Martinelli G, Schmitz SF, Utiger U et al. Long-term follow-up of patients with follicular lymphoma receiving single-agent rituximab at two
+different schedules in trial SAKK 35/98. J Clin Oncol 2010; 28:
+4480–4484.
+73. Miller BW, Przepiorka D, de Claro RA et al. FDA approval: idelalisib
+monotherapy for the treatment of patients with follicular lymphoma
+and small lymphocytic lymphoma. Clin Cancer Res 2015; 21:
+1525–1529.
+74. Brice P, Bastion Y, Lepage E et al. Comparison in low-tumor-burden
+follicular lymphomas between an initial no-treatment policy, prednimustine, or interferon alfa: a randomized study from the Groupe
+d’Etude des Lymphomes Folliculaires. Groupe d’Etude des Lymphomes
+de l’Adulte. J Clin Oncol 1997; 15: 1110–1117.
+75. Witzig TE, Gordon LI, Cabanillas F et al. Randomized controlled trial
+of yttrium-90-labeled ibritumomab tiuxetan radioimmunotherapy versus rituximab immunotherapy for patients with relapsed or refractory
+low-grade, follicular, or transformed B-cell non-Hodgkin’s lymphoma.
+J Clin Oncol 2002; 20: 2453–2463.
+76. Morschhauser F, Radford J, Van Hoof A et al. 90Yttrium-ibritumomab
+tiuxetan consolidation of first remission in advanced-stage follicular
+non-Hodgkin lymphoma: updated results after a median follow-up of
+7.3 years from the International, Randomized, Phase III First-Line
+Indolent trial. J Clin Oncol 2013; 31: 1977–1983.
+77. Dreyling M, Ferrero S. How to treat old MCL patients: one size fits it
+all? Blood 2014; 124: 1207–1208.
+78. Barrington SF, Mikhaeel NG, Kostakoglu L et al. Role of imaging in the
+staging and response assessment of lymphoma: consensus of the
+International Conference on Malignant Lymphomas Imaging Working
+Group. J Clin Oncol 2014; 32: 3048–3058.
+79. Kluin-Nelemans HC, Hoster E, Hermine O et al. Treatment of older patients with mantle-cell lymphoma. N Engl J Med 2012; 367: 520–531.
+80. Rummel MJ, Niederle N, Maschmeyer G et al. Bendamustine plus rituximab versus CHOP plus rituximab as first-line treatment for patients
+with indolent and mantle-cell lymphomas: an open-label, multicentre,
+randomised, phase 3 non-inferiority trial. Lancet 2013; 381: 1203–1210.
+81. Flinn IW, van der Jagt R, Kahl BS et al. Randomized trial of
+bendamustine-rituximab or R-CHOP/R-CVP in first-line treatment of
+indolent NHL or MCL: the BRIGHT study. Blood 2014; 123:
+2944–2952.
+82. Robak T, Huang H, Jin J et al. Bortezomib-based therapy for newly
+diagnosed mantle-cell lymphoma. N Engl J Med 2015; 372: 944–953.
+
+Volume 29 | Issue 3 | 2018
+
+Annals of Oncology
+83. Visco C, Finotto S, Zambello R et al. Combination of rituximab, bendamustine, and cytarabine for patients with mantle-cell non-Hodgkin
+lymphoma ineligible for intensive regimens or autologous transplantation. J Clin Oncol 2013; 31: 1442–1449.
+84. Visco C, Chiappella A, Nassi L et al. Rituximab, bendamustine, and
+low-dose cytarabine as induction therapy in elderly patients with mantle cell lymphoma: a multicentre, phase 2 trial from Fondazione Italiana
+Linfomi. Lancet Haematol 2017; 4: e15–e23.
+85. NCT01865110. R-CHOPþR-HAD vs R-CHOP followed by maintenance lenalidomide þ rituximab vs rituximab for older patients with
+MCL 2016; https://clinicaltrials.gov/ct2/show/NCT01865110?term¼
+NCT01865110&rank¼1 (22 November 2016, date last accessed).
+86. Bauwens D, Maerevoet M, Michaux L et al. Activity and safety of combined rituximab with chlorambucil in patients with mantle cell lymphoma. Br J Haematol 2005; 131: 338–340.
+87. Sachanas S, Pangalis GA, Vassilakopoulos TP et al. Combination of rituximab with chlorambucil as first line treatment in patients with mantle
+cell lymphoma: a highly effective regimen. Leuk Lymphoma 2011; 52:
+387–393.
+88. Coleman M, Ruan G, Elstrom RL et al. Metronomic therapy for refractory/relapsed lymphoma: the PEP-C low-dose oral combination
+chemotherapy regimen. Hematology 2012; 17 (Suppl 1): S90–S92.
+89. Ghielmini M, Schmitz SF, Cogliatti S et al. Effect of single-agent rituximab given at the standard schedule or as prolonged treatment in patients with mantle cell lymphoma: a study of the Swiss Group for
+Clinical Cancer Research (SAKK). J Clin Oncol 2005; 23: 705–711.
+90. Ruan J, Martin P, Shah B et al. Lenalidomide plus rituximab as initial
+treatment for mantle-cell lymphoma. N Engl J Med 2015; 373:
+1835–1844.
+91. Wang ML, Blum KA, Martin P et al. Long-term follow-up of MCL patients treated with single-agent ibrutinib: updated safety and efficacy results. Blood 2015; 126: 739–745.
+92. Wang ML, Rule S, Martin P et al. Targeting BTK with ibrutinib in
+relapsed or refractory mantle-cell lymphoma. N Engl J Med 2013; 369:
+507–516.
+93. Dreyling M, Jurczak W, Jerkeman M et al. Ibrutinib versus temsirolimus
+in patients with relapsed or refractory mantle-cell lymphoma: an international, randomised, open-label, phase 3 study. Lancet 2016; 387: 770–778.
+94. Wang M, Fayad L, Wagner-Bartak N et al. Lenalidomide in combination with rituximab for patients with relapsed or refractory mantle-cell
+lymphoma: a phase 1/2 clinical trial. Lancet Oncol 2012; 13: 716–723.
+95. Hess G, Herbrecht R, Romaguera J et al. Phase III study to evaluate temsirolimus compared with investigator’s choice therapy for the treatment
+of relapsed or refractory mantle cell lymphoma. J Clin Oncol 2009; 27:
+3822–3829.
+96. Fisher RI, Bernstein SH, Kahl BS et al. Multicenter phase II study of
+bortezomib in patients with relapsed or refractory mantle cell lymphoma. J Clin Oncol 2006; 24: 4867–4874.
+97. Vose J, Armitage J, Weisenburger D, International TCLP. International
+peripheral T-cell and natural killer/T-cell lymphoma study: pathology
+findings and clinical outcomes. J Clin Oncol 2008; 26: 4124–4130.
+98. Abramson JS, Feldman T, Kroll-Desrosiers AR et al. Peripheral T-cell
+lymphomas in a large US multicenter cohort: prognostication in the
+modern era including impact of frontline therapy. Ann Oncol 2014; 25:
+2211–2217.
+99. Campo E, Swerdlow SH, Harris NL et al. The 2008 WHO classification
+of lymphoid neoplasms and beyond: evolving concepts and practical
+applications. Blood 2011; 117: 5019–5032.
+100. Dupuis J, Boye K, Martin N et al. Expression of CXCL13 by neoplastic
+cells in angioimmunoblastic T-cell lymphoma (AITL): a new diagnostic
+marker providing evidence that AITL derives from follicular helper T
+cells. Am J Surg Pathol 2006; 30: 490–494.
+101. Rodrı́guez-Pinilla SM, Atienza L, Murillo C et al. Peripheral T-cell
+lymphoma with follicular T-cell markers. Am J Surg Pathol 2008; 32:
+1787–1799.
+102. Feeney J, Horwitz S, Gönen M, Schöder H. Characterization of T-cell
+lymphomas by FDG PET/CT. AJR Am J Roentgenol 2010; 195: 333–340.
+
+Volume 29 | Issue 3 | 2018
+
+Special article
+103. Weisenburger DD, Savage KJ, Harris NL et al. Peripheral T-cell lymphoma, not otherwise specified: a report of 340 cases from the
+International Peripheral T-cell Lymphoma Project. Blood 2011; 117:
+3402–3408.
+104. Kim JG, Sohn SK, Chae YS et al. Alemtuzumab plus CHOP as front-line
+chemotherapy for patients with peripheral T-cell lymphomas: a phase II
+study. Cancer Chemother Pharmacol 2007; 60: 129–134.
+105. Schmitz N, Trümper L, Ziepert M et al. Treatment and prognosis of
+mature T-cell and NK-cell lymphoma: an analysis of patients with
+T-cell lymphoma treated in studies of the German High-Grade NonHodgkin Lymphoma Study Group. Blood 2010; 116: 3418–3425.
+106. d’Amore F, Relander T, Lauritzsen GF et al. Up-front autologous stemcell transplantation in peripheral T-cell lymphoma: NLG-T-01. J Clin
+Oncol 2012; 30: 3093–3099.
+107. Suzumiya J, Ohshima K, Tamura K et al. The International Prognostic
+Index predicts outcome in aggressive adult T-cell leukemia/lymphoma:
+analysis of 126 patients from the International Peripheral T-Cell
+Lymphoma Project. Ann Oncol 2009; 20: 715–721.
+108. Pro B, Advani R, Brice P et al. Brentuximab vedotin (SGN-35) in patients with relapsed or refractory systemic anaplastic large-cell lymphoma: results of a phase II study. J Clin Oncol 2012; 30: 2190–2196.
+109. Yancik R, Ries LA. Cancer in older persons: an international issue in an
+aging world. Semin Oncol 2004; 31: 128–136.
+110. Lowry L, Smith P, Cunningham D, Linch DC. Factors affecting survival
+in patients aged 60 and over with diffuse large B cell lymphoma failing
+first-line therapy. J Geriatr Oncol 2013; 4: 134–140.
+111. Maartense E, Kluin-Nelemans HC, le Cessie S et al. Different age limits
+for elderly patients with indolent and aggressive non-Hodgkin lymphoma and the role of relative survival with increasing age. Cancer 2000;
+89: 2667–2676.
+112. Pfreundschuh M, Schubert J, Ziepert M et al. Six versus eight cycles of
+bi-weekly CHOP-14 with or without rituximab in elderly patients with
+aggressive CD20þ B-cell lymphomas: a randomised controlled trial
+(RICOVER-60). Lancet Oncol 2008; 9: 105–116.
+113. Johnson NA, Slack GW, Savage KJ et al. Concurrent expression of MYC
+and BCL2 in diffuse large B-cell lymphoma treated with rituximab plus
+cyclophosphamide, doxorubicin, vincristine, and prednisone. J Clin
+Oncol 2012; 30: 3452–3459.
+114. Advani RH, Chen H, Habermann TM et al. Comparison of conventional
+prognostic indices in patients older than 60 years with diffuse large B-cell
+lymphoma treated with R-CHOP in the US Intergroup Study (ECOG
+4494, CALGB 9793): consideration of age greater than 70 years in an elderly prognostic index (E-IPI). Br J Haematol 2010; 151: 143–151.
+115. Procházka V, Pytlı́k R, Janı́ková A et al. A new prognostic score for elderly patients with diffuse large B-cell lymphoma treated with R-CHOP:
+the prognostic role of blood monocyte and lymphocyte counts is absent.
+PLoS One 2014; 9: e102594.
+116. Delarue R, Tilly H, Mounier N et al. Dose-dense rituximab-CHOP
+compared with standard rituximab-CHOP in elderly patients with diffuse large B-cell lymphoma (the LNH03-6B study): a randomised phase
+3 trial. Lancet Oncol 2013; 14: 525–533.
+117. Olszewski AJ, Mantripragada KC, Castillo JJ. Risk factors for early death
+after rituximab-based immunochemotherapy in older patients with diffuse
+large B-cell lymphoma. J Natl Compr Canc Netw 2016; 14: 1121–1129.
+118. Eyre TA, Salisbury R, Eyre DW et al. Results of a large retrospective analysis of the effect of intended dose intensity of R-CHOP on outcome in
+a cohort of consecutive, unselected elderly patients with de novo diffuse
+large B cell lymphoma. Br J Haematol 2016; 173: 487–491.
+119. Carson KR, Riedell P, Lynch R et al. Comparative effectiveness of
+anthracycline-containing chemotherapy in United States veterans age 80 and
+older with diffuse large B-cell lymphoma. J Geriatr Oncol 2015; 6: 211–218.
+120. Peyrade F, Jardin F, Thieblemont C et al. Attenuated immunochemotherapy regimen (R-miniCHOP) in elderly patients older than 80 years
+with diffuse large B-cell lymphoma: a multicentre, single-arm, phase 2
+trial. Lancet Oncol 2011; 12: 460–468.
+121. Peyrade F, Bologna S, Delwail V et al. Combination of ofatumumab
+and reduced-dose CHOP for diffuse large B-cell lymphomas in patients
+
+doi:10.1093/annonc/mdx413 | 561
+
+Special article
+122.
+
+123.
+
+124.
+
+125.
+
+126.
+
+127.
+
+aged 80 years or older: an open-label, multicentre, single-arm, phase 2
+trial from the LYSA group. Lancet Haematol 2017; 4: e46–e55.
+Fields PA, Townsend W, Webb A et al. De novo treatment of diffuse
+large B-cell lymphoma with rituximab, cyclophosphamide, vincristine,
+gemcitabine, and prednisolone in patients with cardiac comorbidity: a
+United Kingdom National Cancer Research Institute trial. J Clin Oncol
+2014; 32: 282–287.
+Luminari S, Montanini A, Caballero D et al. Nonpegylated liposomal
+doxorubicin (MyocetTM) combination (R-COMP) chemotherapy in
+elderly patients with diffuse large B-cell lymphoma (DLBCL): results
+from the phase II EUR018 trial. Ann Oncol 2010; 21: 1492–1499.
+Held G, Murawski N, Ziepert M et al. Role of radiotherapy to bulky disease in elderly patients with aggressive B-cell lymphoma. J Clin Oncol
+2014; 32: 1112–1118.
+Morrison VA, Hamlin P, Soubeyran P et al. Diffuse large B-cell lymphoma in the elderly: impact of prognosis, comorbidities, geriatric assessment, and supportive care on clinical practice. An International Society
+of Geriatric Oncology (SIOG) expert position paper. J Geriatr Oncol
+2015; 6: 141–152.
+Spina M, Balzarotti M, Uziel L et al. Modulated chemotherapy according to modified comprehensive geriatric assessment in 100 consecutive
+elderly patients with diffuse large B-cell lymphoma. Oncologist 2012;
+17: 838–846.
+Bittenbring JT, Neumann F, Altmann B et al. Vitamin D deficiency impairs rituximab-mediated cellular cytotoxicity and outcome of patients
+with diffuse large B-cell lymphoma treated with but not without rituximab. J Clin Oncol 2014; 32: 3242–3248.
+
+Appendix
+ESMO Lymphoma Consensus Conference Panel
+Members
+Christian Buske, Comprehensive Cancer Center Ulm, Institute of
+Experimental Cancer Research, Department of Internal Medicine
+III, University Hospital, Ulm, Germany; Martin Dreyling,
+Medizinische Klinik III, Klinikum der Universität München/
+LMU, Munich, Germany; Andrés J.M. Ferreri, Unit of Lymphoid
+Malignancies, Department of Onco-Hematology, IRCCS San
+Raffaele Scientific Institute, Milan, Italy; Paul Fields, Department
+of Haematology, Guys and St Thomas’ and King’s College
+Hospitals, London, United Kingdom; Gianluca Gaidano,
+Division of Hematology, Department of Translational Medicine,
+Amedeo Avogadro University of Eastern Piedmont, Novara,
+Italy; Valentin Goede, Department of Internal Medicine,
+University Hospital Cologne, Germany; Martin Hutchings,
+Department of Hematology, Rigshospitalet, Copenhagen,
+Denmark; Marco Ladetto, Hematology Division, Azienda
+Ospedaliera Santi Antonio e Biagio e Cesare Arrigo, Alessandria,
+Italy; Steven Le Gouill, Centre Hospitalo-Universitaire de
+Nantes, UMR892 team 10, CIC Nantes, France; Stefano
+Luminari, Hematology, Arcispedale S. Maria Nuova, IRCCS
+Reggio Emilia, and Department of Diagnostic, Clinical and
+Public Health Medicine, University of Modena and Reggio
+Emilia, Modena, Italy; Ulrich Mey, Department of Oncology and
+Haematology, Kantonsspital Graubünden, Chur, Switzerland;
+
+562 | Buske et al.
+
+Annals of Oncology
+128. Pfreundschuh M, Müller C, Zeynalova S et al. Suboptimal dosing of rituximab in male and female patients with DLBCL. Blood 2014; 123: 640–646.
+129. Gisselbrecht C, Glass B, Mounier N et al. Salvage regimens with autologous transplantation for relapsed large B-cell lymphoma in the rituximab era. J Clin Oncol 2010; 28: 4184–4190.
+130. Crump M, Kuruvilla J, Couban S et al. Randomized comparison of
+gemcitabine, dexamethasone, and cisplatin versus dexamethasone,
+cytarabine, and cisplatin chemotherapy before autologous stem-cell
+transplantation for relapsed and refractory aggressive lymphomas:
+NCIC-CTG LY.12. J Clin Oncol 2014; 32: 3490–3496.
+131. Mounier N, El Gnaoui T, Tilly H et al. Rituximab plus gemcitabine and
+oxaliplatin in patients with refractory/relapsed diffuse large B-cell lymphoma who are not candidates for high-dose therapy. A phase II
+Lymphoma Study Association trial. Haematologica 2013; 98: 1726–1731.
+132. Arcari A, Chiappella A, Spina M et al. Safety and efficacy of rituximab
+plus bendamustine in relapsed or refractory diffuse large B-cell lymphoma patients: an Italian retrospective multicenter study. Leuk
+Lymphoma 2016; 57: 1823–1830.
+133. Pettengell R, Coiffier B, Narayanan G et al. Pixantrone dimaleate versus
+other chemotherapeutic agents as a single-agent salvage treatment in
+patients with relapsed or refractory aggressive non-Hodgkin lymphoma: a phase 3, multicentre, open-label, randomised trial. Lancet Oncol
+2012; 13: 696–706.
+134. Ferreri AJ, Sassone M, Zaja F et al. Lenalidomide maintenance in patients
+with relapsed diffuse large B-cell lymphoma who are not eligible for autologous stem cell transplantation: an open label, single-arm, multicentre phase
+2 trial. Lancet Haematol 2017; 4: e137–e146.
+
+Peter de Nully Brown, Department of Hematology,
+Rigshospitalet, Copenhagen, Denmark; Michael Pfreundschuh,
+Innere Medizin I, University Klinik des Saarlandes, Hamburg,
+Germany; Christiane Pott, Second Medical Department,
+University Hospital Schleswig-Holstein, Kiel, Germany; Norbert
+Schmitz, Department of Hematology, Oncology and Stem Cell
+Transplantation, Asklepios Klinik St. Georg, Hamburg,
+Germany; Pierre Soubeyran, Department of Medical Oncology,
+Institut Bergonié, Comprehensive Cancer Centre, Bordeaux,
+France; Michele Spina, Division of Medical Oncology A,
+National Cancer Institute, Aviano, Italy; Reinhard Stauder,
+Haematology and Oncology department, Innsbruck Medical
+University, Innsbruck, Austria; Anna Sureda Balari, Servei
+d’Hematologia, Institut Català d’Oncologia - Hospital Duran i
+Reynals, Barcelona, Spain; Marek Trneny , Institute of
+Hematology and Blood Transfusion, Ist Department of
+Medicine, 1st Faculty Medicine, Charles University, General
+Hospital, Prague, Czech Republic; Gustaaf van Imhoff, Section of
+Hematology, University of Groningen, Groningen, The
+Netherlands; Jan Walewski, Department of Lymphoid
+Malignancies, Maria Sklodowska-Curie Memorial Cancer Centre
+and Institute of Oncology, Warsaw, Poland; Ulrich Wedding,
+Department of Palliative Care, University Hospital, Jena,
+Germany; Alberto Zamò, Department of Diagnostics and Public
+Health, University of Verona, Verona, Italy; Emanuele Zucca,
+Lymphoma Unit, Oncology Institute of Southern Switzerland,
+Ospedale San Giovanni, Bellinzona, Switzerland.
+
+Volume 29 | Issue 3 | 2018
+
+

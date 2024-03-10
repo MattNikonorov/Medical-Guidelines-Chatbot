@@ -1,0 +1,1260 @@
+clinical practice guidelines
+
+Annals of Oncology 24 (Supplement 6): vi39–vi50, 2013
+doi:10.1093/annonc/mdt345
+Published online 1 September 2013
+
+Gestational trophoblastic disease: ESMO Clinical Practice
+Guidelines for diagnosis, treatment and follow-up†
+M. J. Seckl1, N. J. Sebire2, R. A. Fisher1, F. Golﬁer3, L. Massuger4 & C. Sessa5, on behalf of the
+ESMO Guidelines Working Group*
+1
+Department of Cancer Medicine; 2Department of Histopathology, Charing Cross Gestational Trophoblastic Disease Centre, Charing Cross Hospital Campus of Imperial
+College London, London, UK; 3Centre de Référence des Maladie Trophoblastiques, Hospices Civils de Lyon, Lyon, France; 4Department of Obstetrics and Gynaecology,
+Radboud University Nijmegen Medical Centre, Nijmegen, The Netherlands; 5Oncology Institute of Southern Switzerland, Ospedale San Giovanni, Bellinzona, Switzerland;
+
+These Clinical Practice Guidelines are endorsed by the Japanese Society of Medical Oncology (JSMO)
+incidence and epidemiology
+Box 1. hCG measurement
+HCG comprises an alpha subunit common to all
+glycoprotein hormones including lutenising hormone (LH)
+and thyroid-stimulating hormone (TSH) and a speciﬁc beta
+subunit. Consequently, assays to detect hCG use antibodies
+directed against the beta subunit. In pregnancy, this subunit
+is usually intact and becomes hyperglycosylated particularly
+during the ﬁrst trimester. In contrast, cancer-related beta
+hCG can exist in several different forms/fragments including
+nicked free beta, c-terminal peptide, hyperglycosylated and
+so it is essential that the hCG assay used to detect hCG in
+cancer patients can measure all forms of beta hCG equally
+well. There are currently many commercial hCG assays
+available that are very good for assessing hCG in pregnancy,
+but their ability to work well in cancer is less clear. Several
+reports indicate that some assays either fail to detect all the
+hCG isoforms/fragments or signiﬁcantly under or over-read
+certain isoforms. This can lead to false-negative results and
+there are also several assays that appear to have particular
+problems with false-positive results. Clinicians need to be
+aware of these potential problems and when hCG results do
+not ﬁt the clinical picture, they should measure the hCG on
+a different assay. When a false positive is suspected,
+assessment of the urine hCG can also be helpful as crossreactive molecules in the blood that cause false positives
+rarely get into the urine. Consequently, a positive urine hCG
+excludes a false-positive serum result. Further details on
+hCG assays and monitoring in GTN are available in ref. [1].
+
+diagnosis, genetics/molecular biology
+and pathology
+diagnosis
+
+*Correspondence to: ESMO Guidelines Working Group, ESMO Head Ofﬁce, Via
+L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Working Group: July 2013.
+
+CHMs and PHMs most commonly present with vaginal
+bleeding in the ﬁrst trimester of pregnancy. Previously reported
+features such as anaemia, uterine enlargement, pre-eclampsia,
+hyperemesis, hyperthyroidism and respiratory distress are now
+
+© The Author 2013. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+clinical practice
+guidelines
+
+Gestational trophoblastic disease (GTD) comprises a spectrum
+of disorders from the pre-malignant conditions of complete
+(CHM) and partial (PHM) hydatidiform moles through to the
+malignant invasive mole, choriocarcinoma (CC) and very rare
+placental site trophoblastic tumour/epithelioid trophoblastic
+tumour (PSTT/ETT). The malignant forms of the disease are
+also collectively known as gestational trophoblastic tumours or
+neoplasia (GTN). In the UK, all GTD cases are nationally
+registered, with central pathology review. The incidence is
+estimated at 1-3: 1000 pregnancies for CHM and 3: 1000
+pregnancies for PHM, respectively, with other western countries
+reporting similar data [1]. GTD appears to be more frequent in
+Asia than in North America or Europe. This may be because of
+discrepancies between hospital- and population-based data,
+availability of central pathological review or may reﬂect dietary
+and genetic inﬂuences. An increased risk of molar pregnancy is
+seen in the very young (<16 years), but is most associated with
+advanced maternal age (>45 years) [1]. Following a molar
+pregnancy, the risk of a further CHM or PHM increases to ∼1%.
+After two molar gestations, the risk of a third mole is 15%–20%
+and is not decreased by changing partners.
+The frequency of CC and PSTT is less clear, since these can
+arise after any type of pregnancy. CC develops after around
+1:50 000 deliveries, while recent data suggest that PSTT
+represents 0.2% of UK GTD cases [2]. GTN risk may also relate
+to hormonal factors since women with menarche after 12 years
+of age, light menstrual ﬂow and prior use of oral contraceptives
+are at increased risk. Additionally, the subsequent risk of
+malignancy following a hydatidiform mole (HM) has been
+linked in some but not all series to oral contraceptives, if started
+while the human chorionic gonadotrophin (hCG) is still
+elevated [1]. This hormone is essential for the diagnosis,
+management and subsequent surveillance of GTD and details
+regarding hCG and its measurement are provided in Box 1.
+
+clinical practice guidelines
+rare [3], reﬂecting the introduction of routine ultrasonography
+in early pregnancy. Characteristic sonographic ﬁndings for
+CHM in the second trimester, of a heterogeneous mass
+(‘snowstorm’), without foetal development and with thecalutein ovarian cysts, are not seen in the ﬁrst trimester, and
+ultrasonography is not diagnostically reliable [4]. Indeed, false
+positive and negative rates are high with ultrasound, especially
+for PHM, and histological examination is essential to achieve a
+correct diagnosis [4]. All products of conception from nonviable pregnancies must undergo histological examination
+regardless of ultrasound ﬁndings [5].
+The safest method of evacuation is suction dilation and
+curettage (D&C) under ultrasound control to ensure adequate
+emptying of uterine contents and to avoid uterine perforation
+[1]. A proportion of women who miscarry or who undergo
+medical terminations will have unsuspected molar pregnancies.
+As histological examination is not routinely requested, the
+diagnosis of GTN can be delayed resulting in signiﬁcantly
+greater morbidity [6]. Histological examination of every
+termination is impractical, and perhaps a simple measurement
+of the urine or serum hCG level 3–4 weeks post-treatment to
+ensure return to normal is indicated [6]. All women with a
+diagnosis of molar pregnancy require careful hCG monitoring
+to look for the recurrence of disease, suggesting malignant
+change indicated by a plateaued or rising hCG on three and two
+consecutive samples, respectively (see Box 1 for details about
+hCG testing) [1]. Re-biopsy to conﬁrm malignant change is not
+advised because of the risk of triggering life-threatening
+haemorrhage.
+The other malignant forms of GTD, CC and PSTT/ETT can
+be much more tricky to diagnose as the disease can develop
+months or many years after a prior pregnancy with protean
+presentations possible. Although change in menstruation is
+frequent, it does not always occur. It is therefore essential to
+measure the hCG in any woman of childbearing age who has
+unexplained metastatic disease. Biopsy of lesions without the
+ability to control bleeding is highly risky in this very vascular
+disease and is not essential before commencing chemotherapy.
+However, where complete excision is possible this can provide
+useful histological conﬁrmation of the diagnosis and material
+for genetic analysis (see below).
+
+genetics/molecular biology
+CHMs are usually diploid and androgenetic in origin, ∼80%
+resulting from duplication of the haploid genome of a single sperm
+while 20% arise by dispermic fertilisation of an ovum (Figure 1A
+and B). In either case maternal chromosomes are lost before, or
+shortly after, fertilisation. However, while nuclear DNA is
+entirely paternal in CHM, mitochondrial DNA remains
+maternal in origin [1].
+Recent evidence indicates that some patients with recurrent
+CHM have diploid biparental CHM (BiCHM) rather than the
+typical androgenetic CHM (AnCHM) (Figure 1C). In these
+cases, the molar phenotype is due to an autosomal recessive
+condition, familial recurrent HM (FRHM) that predisposes
+women to recurrent pregnancy loss, most usually CHM.
+Mutations in two genes have now been associated with this
+condition: NLRP7 and, more rarely, KHDC3L. While women
+
+vi | Seckl et al.
+
+Annals of Oncology
+
+with recurrent AnCHM are likely to have normal live births in
+subsequent pregnancies and beneﬁt from conventional in vitro
+fertilisation, women with FRHM are unlikely to achieve a
+normal pregnancy except through ovum donation from an
+unaffected individual [7].
+PHMs are almost always triploid, usually as a result of
+fertilisation of an apparently normal ovum by two sperm or
+occasionally a diploid sperm (Figure 1D). The existence of
+diploid PHM is unlikely, most reported cases representing
+misdiagnosed complete moles, hydropic abortions or twin
+pregnancies.
+While most molar pregnancies are diploid CHM or triploid
+PHM, numerical and structural abnormalities have been
+reported in both CHM and PHM. In addition, CHM, and
+occasionally PHM, can be associated with a twin pregnancy
+with a coexistent normal twin [8]. The continuance of such twin
+pregnancies results in healthy babies in ∼40% of cases, without
+an obvious increase in the risk of malignant change [8].
+Since post-molar GTN is treated on a clinical, rather than
+pathological, diagnosis tumour tissue is rarely available for
+genetic analysis. However, where tissue is available from GTN,
+the genotype will reﬂect that of the causative pregnancy, having
+both maternal and paternal chromosomes if the tumour
+originated in a term pregnancy, hydropic abortion or PHM but
+only paternal genes if the causative pregnancy was a CHM.
+Since the interval from the causative pregnancy to the time of
+GTN diagnosis carries prognostic information, genotyping can
+be helpful particularly in patients with multiple pregnancies [1].
+Genetics can also be important in the differential diagnosis
+between gestational and non-gestational tumours, such as lung
+and gastric cancers, that can occasionally present as CC, but will
+have a genotype reﬂecting that of the patient [9]. These nongestational CC often initially respond to GTN-based therapies,
+but their outcome is invariably poor, reﬂecting the originating
+tissue [1].
+
+pathology
+All forms of GTD are derived from components of the normal
+human placenta; HM plus CC, and PSTT/ETT, representing
+abnormal counterparts of the villous and extravillous
+(interstitial) trophoblast, respectively. Most CHM and PHM
+have distinctive morphological characteristics, but it is
+recommended that cases of suspected GTD be reported by
+specialist histopathologists. CHMs show a characteristic villous
+architecture, associated with abnormal trophoblast hyperplasia,
+stromal hypercellularity, stromal karyorrhectic debris and
+collapsed villous blood vessels (Figure 2A). In contrast, PHMs
+show patchy villous hydropic change with scattered abnormally
+shaped irregular villi with trophoblastic pseudoinclusions and
+patchy trophoblast hyperplasia (Figure 2B) [10]. The
+morphological distinction between non-molar miscarriage,
+especially when associated with chromosomal abnormality, and
+PHM can sometimes be difﬁcult, and ancillary techniques may
+be required including immunostaining with p57KIP2 (negative in
+CHM), ploidy analysis by in situ hybridisation or ﬂow
+cytometry or molecular genotyping. Genotyping can also be
+useful in the identiﬁcation of BiCHM, associated with FRHM,
+since most are pathologically indistinguishable from typical
+
+Volume 24 | Supplement 6 | October 2013
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Figure 1. Genetic origins of molar pregnancies. (A) Monospermic CHMs arise as a result of pre- or post-fertilisation loss of the maternal nuclear genome and
+duplication of the paternal genome. These androgenetic diploids are 46,XX, 46,YY conceptuses being presumed non-viable. (B) Dispermic CHMs arise as a
+result of two sperm fertilising an ovum from which the maternal nuclear genome is lost. These androgenetic diploid conceptuses may be 46,XX or 46,XY. (C)
+Biparental CHMs occur in females who are homozygous, or a compound heterozygote, for mutations in NLRP7 or KHDC3L. These biparental conceptuses are
+phenotypically CHM and may be 46,XX or 46,XY. (D) Dispermic PHMs arise as a result of fertilisation of a single ovum by two sperms. These diandric triploid
+conceptions may be 69,XXX, 69,XXY or 69,XYY.
+
+AnCHM [11]. Unfortunately, there are no histological or
+immunohistochemical features that reliably predict which
+patients will subsequently develop persistent GTD ( pGTD)/
+GTN, and hence all HMs require hCG surveillance.
+CC (Figure 2C) are malignant hCG-producing epithelial
+tumours with differentiation towards a villous trophoblast
+phenotype, usually demonstrating central necrosis and
+characteristic biphasic architecture recapitulating
+cytotrophoblast-like cells and multinucleate, pleomorphic
+
+Volume 24 | Supplement 6 | October 2013
+
+syncytiotrophoblast-like areas. Intraplacental CC are rare but
+probably represent the source of metastatic CC, which occur
+following apparently uncomplicated term pregnancies. PSTT
+(Figure 2D) is the malignant equivalent of extravillous
+interstitial implantation site-like trophoblast and forms uterine
+lesions with less haemorrhage and necrosis, and lower hCG
+levels, than CC. The histological features show locally
+inﬁltrating nests and sheets of monomorphic, interstitial-type
+trophoblast, with moderate pleomorphism and mitotic activity,
+
+doi:10.1093/annonc/mdt345 | vi
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Figure 2. Photomicrographs demonstrating the various histopathological forms of GTD. (A) Complete hydatidiform mole, (B) partial hydatidiform mole, (C)
+choriocarcinoma and (D) placental site trophoblastic tumour. All are characterised by abnormal forms of trophoblast proliferation, associated with dysmorphic
+chorionic villi in CHM and PHM, but no villi and abnormal trophoblast invasion in CC and PSTT. (Original magniﬁcations ×40, ×20, ×200 and ×100,
+respectively.)
+
+and expression of human placental lactogen (hPL) and other
+extravillous trophoblast markers. A speciﬁc variant of PSST with
+distinctive hyalinisation and a slightly different
+immunohistochemical proﬁle has been reported, ETT which is
+clinically thought to behave like PSTT [12].
+
+staging and risk assessment
+indications for treatment
+Following suction curretage of a PHM, patients should have
+anti-Rhesus D prophylaxis. After any HM, the onset of
+malignant change, referred to as pGTD or post-mole GTN, is
+nearly always indicated by a plateaued or rising hCG (Table 1).
+In the UK, this occurs after 15% and 0.5%–1% of CHM and
+PHM, respectively [1]. In other countries, these rates may be
+higher, possibly reﬂecting differences in hCG assays, hCG
+criteria for the diagnosis of GTN, lack of whole population
+demographics or, less likely, a genuine difference in disease
+biology. The precise hCG surveillance protocol varies by
+country, but principles are similar. In the UK, serum and urine
+hCG is measured two weekly until normal and then monthly in
+urine [1]. The durations of monitoring once the hCG is normal
+also vary between countries, reﬂecting uncertainty around the
+importance of a very low risk of disease recurrence once the
+hCG is normal. Women completing the UK scheme have an
+estimated 1:2000 chance of missed disease [13], but the risk is
+already very low with the ﬁrst normal hCG value even for CHM.
+The UK indications for commencing chemotherapy are listed in
+Table 1 and are broadly similar to those of the International
+Federation of Gynecology and Obstetrics (FIGO) [14]. The
+
+vi | Seckl et al.
+
+Table 1. UK indications for chemotherapy following the diagnosis of GTD
+Indications for chemotherapy
+Plateaued or rising hCG after evacuationa
+Heavy vaginal bleeding or evidence of gastrointestinal or intraperitoneal
+haemorrhage
+Histological evidence of choriocarcinoma
+Evidence of metastases in the brain, liver or gastrointestinal tract, or
+radiological opacities of >2 cm on chest X-ray
+Serum hCG of ≥20 000 IU/l >4 weeks after evacuation, because of the risk
+of uterine perforation
+Raised hCG 6 months after evacuation even if still falling (now omitted
+[15])
+a
+Plateaued or rising is deﬁned as four or more equivalent values of hCG
+over at least 3 weeks (days 1, 7, 14 and 21) and two consecutive rises in hCG
+of 10% or greater over at least 2 weeks (days 1, 7 and 14), respectively.
+
+commonest is a plateaued or rising hCG, but others include a
+tissue diagnosis of CC and spread to other organs. However, our
+UK experience indicates that the disease is also unlikely to
+spontaneously remit if the hCG is >20 000 IU/l 1 month after
+HM evacuation (also associated with an increased risk of uterine
+perforation) or there are lung or vaginal metastasis of >2 cm
+(smaller lesions may spontaneously regress) [1]. In addition, in
+the UK, chemotherapy is started to help stop heavy bleeding
+that requires transfusion even if the hCG is falling. Interestingly,
+recent data have overturned the previous UK and FIGO
+guidance that women who continue to have a falling hCG 6
+months after uterine evacuation automatically need
+chemotherapy. Indeed, the hCG spontaneously normalised in
+
+Volume 24 | Supplement 6 | October 2013
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Figure 3. Pelvic Doppler ultrasonography of persisting GTN following a HM. (A) Pre-chemotherapy. (B) Post-chemotherapy. (Reprinted from ref. [1],
+Copyright 2010, with permission from Elsevier.)
+
+Figure 4. Algorithm of imaging investigations for patients with GTN following a HM on hCG surveillance (left-hand panel) or after any other type of
+pregnancy (right-hand panel). USS, ultrasound scan; CT, computerised tomography; MRI, magnetic resonance imaging; PET, positron emission tomography;
+−ve, negative; +ve, positive; mets, metastases.
+
+all such individuals left on surveillance [15]. Thus, this
+indication for chemotherapy has now been removed from UK
+guidelines.
+
+staging investigations and treatment stratiﬁcation
+after a molar pregnancy
+Most patients developing GTN post-HM are detected early via
+hCG monitoring and so extensive investigation is rarely
+required. Information to determine therapy can be obtained
+from the clinical history, examination, measurement of serum
+hCG and a Doppler pelvic ultrasound to conﬁrm the absence of
+a pregnancy, to measure the uterine size/volume, spread of
+disease within the pelvis and its vascularity (Figure 3). The latter
+assessed by the Doppler pulsatility index is an independent
+prognostic factor for resistance to single-agent methotrexate
+
+Volume 24 | Supplement 6 | October 2013
+
+(MTX) therapy [16] and is now being evaluated in a prospective
+trial. Pulmonary metastases are most common, so a chest
+radiograph is essential [17]. Computed tomography (CT) of the
+chest is not required if the chest X-ray (CXR) ﬁndings are
+normal, since discovery of micrometastases, which may be seen
+in ∼40% of patients, does not inﬂuence outcome [18]. However,
+if lesions are noted on CXR, magnetic resonance imaging (MRI)
+of the brain and CT body are indicated (Figure 4) to exclude
+more widespread disease involving, for example, the brain or
+liver, which would signiﬁcantly alter management.
+FIGO reports data on GTN using prognostic scoring and
+anatomic staging systems (Table 2) [19]. Since 2002, all
+physicians treating GTN should use this system to enable the
+comparison of data. The prognostic score predicts the potential
+for developing resistance to single-drug chemotherapy with
+MTX or actinomycin D (ActD). A score of 0–6 and ≥7 indicates
+
+doi:10.1093/annonc/mdt345 | vi
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 2. FIGO 2000 scoring system for GTN
+Prognostic factor
+
+Score
+0
+
+1
+
+2
+
+4
+
+Age (years)
+Antecedent pregnancy (AP)
+Interval (end of AP to chemotherapy in months)
+hCG (IU/l)
+Number of metastases
+Site of metastases
+Largest tumour mass
+Prior chemotherapy
+
+<40
+Mole
+<4
+<103
+0
+Lung
+–
+–
+
+≥40
+Abortion
+4–6
+103–104
+1–4
+Spleen and kidney
+3–5 cm
+–
+
+–
+Term
+7–12
+104–105
+5–8
+GI tract
+>5 cm
+Single drug
+
+–
+–
+>12
+>105
+>8
+Brain and liver
+>2 drugs
+
+The total score for a patient is obtained by adding the individual scores for each prognostic factor. Low risk, 0–6; high risk, ≥7. PSTT should not be scored and
+instead requires staging. Stage I, disease conﬁned to the uterus; stage II, disease extending into the pelvis; stage III, disease spread to lungs and/or vagina; stage
+IV, all other metastatic sites including liver, kidney, spleen and brain. (Reprinted [19] Copyright 2002, with permission from Elsevier for the International
+Federation of Gynecology and Obstetrics.)
+
+a low and high risk of resistance, respectively. The latter has
+almost no chance of being cured with single-drug therapy and
+requires multi-agent treatment. The anatomical staging does not
+help with determining therapy, but provides additional
+information to help clinicians who compare results between
+centres. The variables that are assessed in the prognostic score
+include: (i) tumour volume (hCG level, size of metastases and
+number of metastases), (ii) site of involvement, (iii) prior
+chemotherapy resistance and (iv) duration of disease from
+antecedent pregnancy (Table 2) [19].
+
+staging investigations for CC and PSTT/ETT
+Women who present with an elevated hCG and suspected GTN
+(CC or PSTT/ETT) following a prior pregnancy require much
+more extensive staging investigations, which include a contrast
+enhanced CT of the chest and abdomen, MRI of the brain and
+pelvis, a Doppler ultrasound of the pelvis and may beneﬁt from
+a lumbar puncture to assess the cerebrospinal ﬂuid to serum
+hCG ratio. The latter if more than 1:60 suggests occult central
+nervous system disease [1]. In addition, where there is doubt
+over the clinical diagnosis, tissue should be obtained and genetic
+analysis undertaken to conﬁrm the gestational origin of the
+tumour through the presence of paternal genes. For CC, the
+FIGO scoring/staging system is the same as described above.
+However, PSTT/ETT has a discrete biological behaviour with
+less hCG production, slower growth, late metastasis and slightly
+less chemosensitivity. Consequently, the scoring system is not
+valid for PSTT/ETT, but FIGO staging is used to help adapt
+treatment intensity (see below). Some investigators have
+recently started using positron emission tomography (PET)/CT
+imaging, but experience is still quite limited. It appears that this
+imaging modality is more helpful in relapsed disease to identify
+sites for resection and, as with other cancers, is prone to both
+false-positive and false-negative results [1].
+
+management of low-risk disease
+About 95% of patients with HM who develop GTN are low risk
+(score 0–6). In women with stage I disease apparently conﬁned
+to the uterine cavity, the role of second D&C in reducing the
+
+vi | Seckl et al.
+
+need for chemotherapy remains controversial. UK results
+indicate that this procedure is only valuable if the hCG is <5000
+IU/l with disease in the cavity rather than myometrium. Indeed,
+the low efﬁcacy of a second D&C, small risks of introducing
+infection, causing haemorrhage and uterine perforation should
+be balanced against the almost 100% cure rate and relative safety
+of chemotherapy (reviewed in [1]). Sometimes patients with
+stage I GTN who have completed their families request
+hysterectomy, which, although possible, may not completely
+obviate the need for chemotherapy.
+Consequently, for nearly all low-risk GTN patients, singleagent chemotherapy with either MTX or ActD is the preferred
+treatment. A variety of regimens have been developed, which in
+non-randomised, mostly retrospective, studies demonstrate a
+50%–90% chance of inducing remission [20]. This variability
+reﬂects differences in dose, frequency and route of
+administration as well as criteria used to select patients for
+therapy [17]. Some investigators have argued that more intense
+therapies given daily over 5–8 days every 2 weeks are superior to
+treatments given once every 2 weeks [21]. Others have suggested
+that ActD is more likely to induce remission than MTX. The
+few randomised studies to address some of these issues [22]
+have been underpowered and compared regimens that are not
+frequently used internationally [20]. Consequently, a new larger
+international randomised trial has recently commenced
+comparing the more commonly used MTX regimens in Europe/
+many parts of the world (Table 3) and some centres elsewhere
+[MTX 0.4 mg/kg (maximum 25 mg) IV d1–5 every 2 weeks]
+[23] with ActD 1.25 mg/m2 IV every 2 weeks. Importantly,
+patients failing ﬁrst-line therapy, usually because of resistance,
+can be easily salvaged with second and occasionally third-line
+chemotherapy so that the overall survival (OS) is ∼100%
+[23–25]. As survival is so high, it seems sensible to start with
+the least toxic therapy ﬁrst to minimise the exposure of patients
+to more harmful treatments.
+The MTX with folinic acid rescue (MTX/FA) regimen
+developed at Charing Cross Hospital (Table 3) is effective, welltolerated and unlike ActD, does not induce hair loss, so MTX/
+FA has been widely adopted [24]. After a short stay in hospital
+to monitor for bleeding complications, most of the patients can
+be treated at home, with their general practitioner, or in their
+
+Volume 24 | Supplement 6 | October 2013
+
+clinical practice guidelines
+
+Annals of Oncology
+
+nearest hospital depending on local health service
+arrangements. About 2% of women suffer mouth ulcers, sore
+eyes or rarely pleuritic or peritoneal pains from serositis [24].
+During chemotherapy, the hCG should ideally be measured at
+least once per week, so that at least two samples with a plateau
+or rise are available to enable an early decision regarding the
+onset of resistance indicating a need for a change in therapy. In
+those developing resistance to MTX/FA, a switch to ActD or
+combination agent chemotherapy depending on whether the
+hCG was <300 or >300 IU/l, respectively, will cure nearly all
+remaining women [25]. Chemotherapy should be continued
+until the hCG is normal and then for a further 6 weeks
+(Figure 5). The latter helps to eliminate any residual tumour
+cells and to minimise the chances of relapse [26]. Indeed, nonrandomised data suggest that reducing the consolidation
+therapy by just one cycle doubles the risk of relapse [26]. In view
+of these data, the Dutch have recently moved from giving two to
+now using three consolidation cycles. Only 30% of patients
+scoring 5–6 can expect to be cured with low-risk therapy [1].
+Consequently, it would be helpful to reﬁne the FIGO scoring
+system, so that the 70% of women in this group who develop
+MTX/FA resistance could be identiﬁed initially for more
+intensive therapy. It is possible that the vascularity seen on
+Doppler ultrasound may help [16]. Moreover, recent data
+Table 3. Methotrexate and folinic acid chemotherapy regimen for low-risk
+patients
+Methotrexate (MTX)
+Calcium folinate
+(folinic acid)
+
+50 mg by intramuscular injection repeated every
+48 h for a total of four doses
+15 mg orally 30 h after each injection of MTX
+
+Courses repeated every 2 weeks, i.e. days 1, 15, 29, etc.
+
+indicate that women in this category with an hCG of >400 000
+IU/l are unlikely to be cured by MTX/FA and so multi-agent
+treatment should be given from the outset [27]. Other
+promising strategies to identify patients with drug resistance at
+an early time-point during initial therapy have employed
+normograms and hCG kinetic analyses [28, 29].
+
+management of high-risk GTN
+Patients scoring of ≥7 (Table 2) are at high risk of developing
+drug resistance and so are very unlikely to be cured with singleagent chemotherapy. Consequently, several different multiagent therapies have been developed including: MTX, FA and
+ActD (MFA); MTX, ActD, cyclophosphamide, doxorubicin,
+melphalan, hydroxyurea and vincristine (CHAMOCA); MTX,
+ActD and cyclophosphamide (MAC); etoposide, MTX and
+ActD (EMA) and others [30]. At Charing Cross Hospital, after
+many years of progressive experience, a regimen was developed
+consisting of EMA alternating weekly with cyclophosphamide
+and vincristine (CO; see Table 4). This has been widely adopted
+worldwide [30], because it is effective with predictable and easily
+managed short-term toxicity. Indeed, a retrospective
+comparison from the Korean GTD centre’s experience of MFA,
+MAC, CHAMOCA with EMA-CO demonstrated a remission
+rate of 63.3% (31 of 49), 67.5% (27 of 40), 76.2% (32 of 45) and
+90.6% (87 of 96), respectively [31]. The EMA/CO regimen
+requires one overnight stay every 2 weeks and causes reversible
+alopecia. It is myelosuppressive but granulocyte colony
+stimulating factor (G-CSF) support helps to maintain
+neutrophil count, treatment intensity and avoid neutropenic
+febrile episodes [1].
+Five-year OS of patients treated with this schedule has been
+reported to vary between 75% and 90% [31–33]. In the 272
+cases at Charing Cross Hospital treated between 1980 and 1994,
+
+Figure 5. HCG tumour marker treatment graph demonstrating a patient responding to low-risk chemotherapy. Following uterine evacuation of a CHM, the
+hCG remained plateaued indicating persisting GTD/GTN, so the patient was commenced on methotrexate and folinic acid (MTX/FA). Therapy was continued
+for 6 weeks after the hCG was normal (<5 IU/l) as indicated. (Reprinted from ref. [1], Copyright 2010, with permission from Elsevier.)
+
+Volume 24 | Supplement 6 | October 2013
+
+doi:10.1093/annonc/mdt345 | vi
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 4. EMA/CO chemotherapy regimen for high-risk patients
+
+Table 5. TP/TE schedule for relapsed GTN
+
+EMA
+Day 1
+Etoposide
+
+Regimen
+
+Actinomycin D
+Methotrexate
+Day 2
+Etoposide
+Actinomycin D
+Folinic acid rescue (starting
+24 h after commencing the
+methotrexate infusion)
+CO
+Day 8
+Vincristine
+Cyclophosphamide
+
+100 mg/m2 by i.v. infusion over
+30 min
+0.5 mg i.v. bolus
+300 mg/m2 by i.v. infusion over 12 h
+
+100 mg/m2 by i.v. infusion over
+30 min
+0.5 mg i.v. bolus
+15 mg i.v. or orally every 12 h for four
+doses
+
+1 mg/m2 i.v. bolus (maximum 2 mg)
+600 mg/m2 i.v. infusion over 30 min
+
+EMA alternates with CO every week. To avoid extended intervals between
+courses caused by myelosuppression, it may occasionally be necessary to
+reduce the EMA by omitting the day 2 doses of etoposide and actinomycin
+D. i.v., intravenous. (Reprinted from ref. [1], Copyright 2010, with
+permission from Elsevier.)
+
+OS was 86.2% [95% conﬁdence interval (CI) 81.9% to 90.5%]
+[32]. While these results were good, the presence of liver or
+brain metastases correlated with only 27% or 70% long-term
+survival, respectively, and was just 10% with both liver and brain
+metastases (reviewed in [1]). Most of the patients with adverse
+outcomes did not have a prior HM, were not registered for hCG
+follow-up and consequently presented with extensive disease.
+This was associated with death from haemorrhage or metabolic
+complications of overwhelming disease within 4 weeks of
+admission and/or before adequate chemotherapy could be
+given. If such patients are excluded, survival of patients with
+brain metastasis is similar to other patients [34]. The situation
+with liver metastasis may be similar; of 37 patients with liver
+metastasis treated between 1977 and 2005 at Charing Cross
+Hospital, OS had increased to ∼50% at 5 years but if early
+deaths were excluded, survival was nearly 70% [35]. In addition
+to disease extent, other factors associated with poor outcome
+include the type of, and duration from, the antecedent
+pregnancy and the prior use of chemotherapy (reviewed in [1]).
+To reduce early deaths in patients with very advanced disease,
+we have found that commencing chemotherapy gently with
+low-dose etoposide 100 mg/m2 and cisplatin 20 mg/m2 on days
+1 and 2 repeated weekly for 1–3 weeks has virtually eliminated
+this problem. Indeed, low-dose induction etoposide and
+cisplatin combined with genetic testing to exclude nongestational CC has helped to improve long-term OS data to over
+94% in high-risk patients [36]. Further details on the
+management and modiﬁcations of treatment required for these
+and other challenging clinical situations such as brain
+metastasis and pulmonary failure are beyond the scope of the
+present review, but are contained within the following
+references [34, 37].
+
+vi | Seckl et al.
+
+Day 1
+Dexamethasone
+Dexamethasone
+Cimetidine
+Chlorphenamine
+Paclitaxel
+Mannitol
+Cisplatin
+Post-hydration
+Day 15
+Dexamethasone
+Dexamethasone
+Cimetidine
+Chlorphenamine
+Paclitaxel
+Etoposide
+
+Schedule
+20 mg oral (12 h pre-paclitaxel)
+20 mg oral (6 h pre-paclitaxel)
+30 mg in 100 ml NS over 30 min i.v.
+10 mg bolus i.v.
+135 mg/m2 in 250 ml NS over 3 h i.v.
+10% in 500 ml over 1 h i.v.
+60 mg/m2 in 1 l NS over 3 h i.v.
+1 l NS + KCl 20 mmol + 1 g MgSO4 over 2 h i.v.
+20 mg oral (12 h pre-paclitaxel)
+20 mg oral (6 h pre-paclitaxel)
+30 mg in 100 ml NS over 30 min i.v.
+10 mg bolus i.v.
+135 mg/m2 in 250 ml NS over 3 h i.v.
+150 mg/m2 in 1 l NS over 1 h i.v.
+
+NS, normal saline; i.v., intravenous. (Reprinted from ref. [1], Copyright
+2010, with permission from Elsevier.)
+
+Similar to low-risk disease, therapy is continued for 6 weeks
+of normal hCG values or 8 weeks if poor prognostic features
+such as liver or brain metastases are present [1]. Patients are
+then re-imaged to document the post-treatment appearance for
+future comparison. Removal of residual masses is unnecessary
+as it does not reduce the risk of recurrence which is less than
+∼3% [1].
+
+management of drug-resistant disease
+About 20% of high-risk GTN patients will progress on or after
+primary chemotherapy, but these individuals still have an
+excellent outcome with ∼75%–80% still being salvaged [36].
+This is partly because relapse is detected early due to hCG
+monitoring so disease volume is small. Moreover, hCG
+monitoring enables the early detection of resistance during
+therapy, which could potentially be more rapidly detected
+through the use of normograms and kinetic models [28, 29, 38].
+In relapsed patients, ﬂuorine-18 ﬂuorodeoxyglucose-PET
+(FDG-PET) scanning may help identify the site of active disease
+to facilitate surgical resection and cure [39]. The T1/2 for hCG is
+≤48 h after surgery if all the disease has been removed [1].
+However, if surgery is not possible or the hCG falls
+inappropriately, several salvage regimens have been either
+created or adopted from the germ cell tumour setting [40]. At
+Charing Cross Hospital, we developed a regimen combining
+etoposide with cisplatin (EP) alternating weekly with EMA that
+omitted the second day of etoposide and ActD [41]. Survival
+rates are >80% but toxicity is signiﬁcant [41], and less toxic
+salvage therapies are required. Several cases of drug-resistant
+GTN have been reported to respond and/or be cured by
+paclitaxel-based single-agent or combination therapy [42–45],
+gemcitabine and capecitabine [46, 47]. Of these, an alternating
+two weekly doublet of paclitaxel/cisplatin and paclitaxel/
+etoposide (TP/TE; Table 5) appears from non-randomised data
+to be much better tolerated than EP/EMA and is effective in
+
+Volume 24 | Supplement 6 | October 2013
+
+Annals of Oncology
+
+patients with relapsed and/or refractory GTN [45]. In view of
+these results, the International Society of the Study of
+Trophoblastic Diseases (ISSTD) has recently proposed a
+randomised trial of TE/TP versus EP/EMA to determine the
+optimal therapy for patients relapsing after non-cisplatin/
+paclitaxel-based combination therapies such as EMA/CO.
+Another approach in patients with refractory disease involves
+high-dose chemotherapy with peripheral stem-cell
+transplantation. However, cures are not common [48], so
+improved patient selection may be required to achieve better
+outcomes from this approach.
+
+management of PSTT and ETT
+PSTT differs from CC, growing more slowly, metastasising later,
+involving lymph nodes more commonly and producing less
+hCG [1]. However, like CC, it can arise after any type of
+pregnancy, including PHM, [49] and usually presents with
+abnormal vaginal bleeding [2]. PSTT may be suspected if the
+hCG level is low for the volume of disease present on imaging
+combined with an elevated free beta form of hCG, but none of
+these features are diagnostic [50, 51]. Consequently histological
+conﬁrmation is essential.
+A recent large population-based series of PSTT comprised 62
+cases over 30 years, representing 0.2% of UK GTD cases, and
+examined prognostic features [2]. On univariate analysis, stage,
+hCG, mitotic index and a duration of >4 years from the
+preceding pregnancy were prognostic, but the FIGO score was
+unhelpful. Only the duration from the prior pregnancy
+remained predictive of survival on multivariate analysis with
+100% (13 of 13) dying and 98% (48 of 49) surviving for those
+≥48 and <48 months, respectively. This effect was not explained
+by differences in disease stage or hCG levels, but may reﬂect a
+biological switch in the tumours after this time [2].
+The management of PSTT differs from CC. Patients with
+metastatic disease require combination chemotherapy with, for
+example, EP/EMA continued for 8 weeks of normal hCG levels
+[2]. Unlike CC, residual masses are removed surgically, including
+the uterus, as this can harbour microscopic disease. This may
+cause difﬁculties in the management of stage I disease [52]. The
+safest option is hysterectomy with pelvic lymph node sampling
+and ovarian conservation unless there is a family history of
+ovarian cancer or the patient is post-menopausal. In the absence
+of sufﬁcient data regarding adjuvant therapy, we currently
+advocate 8 weeks of EP/EMA or TE/TP when there are poor risk
+factors such as disease presenting beyond 4 years of the antecedent
+pregnancy. Indeed, in the latter group, a case can be made for
+including high-dose chemotherapy. However, in younger
+nulliparous women, there is often a strong desire to preserve
+fertility particularly when there appears to be a focal abnormality
+in the uterus. While uterine-sparing surgery is possible [1],
+multifocal microscopic uterine disease can occur [52], which
+could compromise survival and careful counselling is required.
+Currently, it is thought that ETT behaves very similarly to
+PSTT but in reality, little data are available to be sure of this.
+PSTT and ETT are so rare that it is unlikely that their treatment
+will ever be fully optimised, so that the ISSTD has now launched
+an international PSTT/ETT database to pool cases [53].
+
+Volume 24 | Supplement 6 | October 2013
+
+clinical practice guidelines
+personalised medicine
+GTN is one of the rare examples of a group of related cancers
+where novel molecularly targeted agents have not been
+employed, as cure has been achieved through the use of
+conventional chemotherapeutic agents. This is because GTN are
+exquisitely sensitive to these drugs and the serial measurement
+of hCG, a highly sensitive biomarker of the disease [1], has
+enabled early recognition of resistance, so that second- and
+third-line therapies can be commenced before signiﬁcant
+tumour re-growth has occurred. Very rarely, multi-drugresistant disease develops that is not amenable to surgical
+resection or any other existing treatment, so it is unclear
+whether anything can be done in this case. Since GTN is very
+vascular it is plausible that vascular targeting agents such as
+bevacizumab might be active. The tumours can also overexpress epidermal growth factor receptor, leading to the
+question whether erlotinib or geﬁtinib could demonstrate
+efﬁcacy. Anecdotally, thus far, we have not seen any beneﬁt
+from these agents in several multi-drug-resistant patients. The
+potential for an anti-hCG targeted therapy has not been
+explored and could be of interest in women who have
+completed their families or have run out of other options.
+
+follow-up and long-term implications
+The risk of relapse after chemotherapy is ∼3% and most occur
+in the ﬁrst year of follow-up. Therefore, careful hCG monitoring
+is required and pregnancy should ideally be delayed until
+beyond this period. Any method of contraception can be used
+including the oral contraceptive pill, as long as there are no
+other contraindications to their use. In the UK, the hCG is
+monitored weekly for 6 weeks post-chemotherapy, and then in
+serum and urine two weekly until 6 months, before switching to
+just urine assessments, initially monthly, but eventually
+decreasing to just six monthly (Table 6). We continue this for
+life as we are currently uncertain when it is safe to stop
+monitoring and it enables us to collect long-term data
+concerning late effects of treatment including second cancers.
+Table 6. UK follow-up protocol of GTN patients who have been treated
+with chemotherapy
+Low-/high-risk post-chemotherapy
+patients, hCG concentration
+sampling
+Urine
+Blood
+Year 1
+Week 1–6 after chemotherapy
+Month 2–6
+Month 7–12
+Year 2
+Year 3
+Year 4
+Year 5
+After Year 5
+
+Weekly
+Two weekly
+Two weekly
+Four weekly
+Eight weekly
+Three monthly
+Four monthly
+Six monthly
+
+Weekly
+Two weekly
+–
+–
+–
+–
+–
+–
+
+Reprinted from ref. [1], Copyright 2010, with permission from Elsevier.
+
+doi:10.1093/annonc/mdt345 | vi
+
+clinical practice guidelines
+Fortunately, apart from EMA/CO bringing forward the
+menopause date by 3 years, fertility is not otherwise affected
+with 83% of women becoming pregnant after either MTX/FA or
+EMA/CO chemotherapy [1]. Moreover, there is no obvious
+increase in the incidence of congenital malformations. When a
+patient does become pregnant, it is important to conﬁrm by
+ultrasound and other appropriate means that the pregnancy is
+normal. Follow-up is then discontinued, but the hCG should be
+rechecked at 6 and 10 weeks after the pregnancy to ensure no
+recurrence or new disease.
+Late sequelae from chemotherapy have been remarkably rare.
+In 15 279 patient-years of follow-up, there was no signiﬁcant
+increase in the incidence of second tumours [54] following
+MTX therapy. In contrast, 26 patients receiving combination
+chemotherapy for GTN developed another cancer when the
+expected rate was only 16.45, a signiﬁcant difference [54]. Most
+of this risk appears to occur if combination chemotherapy is
+continued beyond 6 months. Interestingly, new data in over
+30 000 patient-years of follow-up now show that, for EMA/CO,
+there is no overall increased risk of second cancers with a slight
+but signiﬁcant excess of leukaemias but reduction in other
+cancers including breast cancer risk (data submitted). This
+emphasises the continued importance of long-term monitoring
+of our treated patient populations.
+
+summary of recommendations
+Recommendations are largely based on non-randomised
+retrospective cohort studies from single centres and/or national
+experiences where the level of evidence (LOE) is IV. However,
+because of the measurable large beneﬁt to patients, the grade of
+recommendation (GOR) is generally very high at A. LOE and
+GOR are given in brackets.
+
+• Management of GTN is optimised by the centralisation of
+care, pathology review and hCG monitoring [IV, A].
+
+• Women with singleton molar pregnancies should, in general,
+
+•
+•
+•
+
+•
+•
+
+have these terminated by suction D&C [IV, A]. Second D&C
+for recurrence does not usually prevent the subsequent need
+for chemotherapy and should only be attempted after
+discussion with a GTD reference centre [IV, A].
+Anti-D prophylaxis is recommended following suction D&C
+of PHM [IV, A].
+The FIGO scoring system should be used to determine the
+risk of GTN becoming resistant to single-agent
+chemotherapy, but is not of value in PSTT/ETT [IV, A].
+Patients with a FIGO score of 0–6 can be treated with either
+single-agent MTX with or without FA, or ActD [II–IV, A]. In
+most European centres, MTX/FA (Table 3) is preferred
+because it is less toxic than MTX alone or single-agent ActD,
+and all patients can expect to be cured even if ﬁrst-line
+therapy fails [II–IV, A]. A randomised trial comparing the
+most frequently used MTX/FA and ActD regimens is
+currently underway.
+Chemotherapy for low-risk disease should be continued for
+6 weeks of maintenance treatment after hCG normalisation
+[IV, A].
+Patients with a FIGO score of ≥7 should receive multi-agent
+chemotherapy and most centres now use EMA/CO (Table 4),
+
+vi | Seckl et al.
+
+Annals of Oncology
+
+•
+•
+
+•
+•
+
+•
+•
+
+as it is highly effective, simple to administer and relatively
+non-toxic [IV, A].
+Patients with high-risk disease should have maintenance
+therapy for 6 weeks extended to 8 weeks with poor prognostic
+features such as liver with or without brain metastasis [IV, A].
+Early deaths in ultrahigh-risk GTN can be reduced by
+induction of low-dose etoposide and cisplatin [IV, A]. Such
+patients may also beneﬁt from substitution of EMA/CO with
+EP/EMA [IV, A].
+Residual lung or uterine masses following chemotherapy for
+low-risk or high-risk diseases are not predictive of recurrence
+and do not require surgical excision [IV, A].
+High-risk failures can be frequently salvaged with further
+chemotherapy and most centres use either EP/EMA or TE/TP
+(Table 5) [IV, A]. A randomised trial comparing these
+regimens is being developed.
+Surgery alone can effectively salvage some patients with
+isolated foci of chemoresistant disease [IV, A].
+PSTT/ETT is managed according to its stage and risk factors
+for poor outcome, the most dominant of which is the interval
+from last known pregnancy. Hysterectomy with pelvic lymph
+node sampling is recommended for stage I disease presenting
+within 4 years of the last known pregnancy [IV, A]. Multiagent chemotherapy with, for example, EP/EMA is
+recommended for metastatic disease [IV, A]. Patients
+presenting beyond 4 years may beneﬁt from multi-agent and
+subsequent high-dose chemotherapy [IV, B].
+
+search strategy and selection criteria
+All authors performed a detailed review of published work and
+contributed to the writing, review and editing of the manuscript.
+MJS had access to all the data used to write the report and had
+ﬁnal responsibility for submission. All authors saw and
+approved the ﬁnal version. Our search strategy was formulated
+to identify any meta-analyses and previous systematic reviews in
+all aspects of GTD, in addition to all published cohort studies
+(and where appropriate, comparison groups) and case-control
+studies. We searched the Cochrane Library, Medline (via
+PubMed, Internet Grateful Med, OVID and Knowledgeﬁnder),
+with a combination of keywords including: ‘trophoblastic
+disease’, ‘GTD’, ‘GTN’, ‘choriocarcinoma’, ‘molar pregnancy’,
+‘hydatidiform mole’, ‘placental site trophoblastic tumor’,
+‘genetics’, ‘epidemiology’, ‘pathology’, ‘treatment’,
+‘chemotherapy’, ‘methotrexate’, ‘actinomycin D’,
+‘dactinomycin’, ‘cisplatin’, ‘paclitaxel’, ‘high-dose’,
+‘management’, ‘risk factors’, ‘hCG’, ‘imaging’, ‘ultrasound’,
+‘PET’, ‘CT’, ‘MRI’, ‘prognosis’, and ‘staging’. The reference lists
+and bibliographies of all previous publications were scanned to
+ﬁnd any publications not already identiﬁed by our electronic
+search strategy.
+
+note
+Levels of evidence and grades of recommendation have been
+applied using the system shown in Table 7. Statements without
+grading were considered justiﬁed standard clinical practice by
+the experts and the ESMO faculty.
+
+Volume 24 | Supplement 6 | October 2013
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Table 7. Levels of evidence and grades of recommendation (adapted from the Infectious Diseases Society of America-United States Public Health Service
+Grading Systema)
+Levels of evidence
+I
+II
+III
+IV
+V
+
+Evidence from at least one large randomised, controlled trial of good methodological quality (low potential for bias) or meta-analyses of well-conducted
+randomised trials without heterogeneity
+Small randomised trials or large randomised trials with a suspicion of bias (lower methodological quality) or meta-analyses of such trials or of trials with
+demonstrated heterogeneity
+Prospective cohort studies
+Retrospective cohort studies or case–control studies
+Studies without control group, case reports, experts opinions
+
+Grades of recommendation
+A
+B
+C
+D
+E
+
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt, strongly recommended
+Strong or moderate evidence for efﬁcacy but with a limited clinical beneﬁt, generally recommended
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh the risk or the disadvantages (adverse events, costs, …), optional
+Moderate evidence against efﬁcacy or for adverse outcome, generally not recommended
+Strong evidence against efﬁcacy or for adverse outcome, never recommended
+
+a
+
+Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis 2001;
+33: 139–144. By permission of the Infectious Diseases Society of America.
+
+acknowledgements
+MJS, NS and RAF wish to thank the Department of Health,
+National Commissioning Group and the Cancer Treatment and
+Research Trust for their continued support. MJS also
+acknowledges support from the Imperial College Experimental
+Cancer Medicine Centre and Biomedical Research Centre
+grants.
+
+conﬂict of interest
+The authors have declared no potential conﬂicts of interest.
+
+references
+1. Seckl MJ, Sebire NJ, Berkowitz RS. Gestational trophoblastic disease. Lancet
+2010; 376: 717–729.
+2. Schmid P, Nagai Y, Agarwal R et al. Prognostic markers and long-term outcome of
+placental-site trophoblastic tumours: a retrospective observational study. Lancet
+2009; 374: 48–55.
+3. Hou JL, Wan XR, Xiang Y et al. Changes of clinical features in hydatidiform mole:
+analysis of 113 cases. J Reprod Med 2008; 53: 629–633.
+4. Fowler DJ, Lindsay I, Seckl MJ, Sebire NJ. Histomorphometric features of
+hydatidiform moles in early pregnancy: relationship to detectability by ultrasound
+examination. Ultrasound Obstet Gynecol 2007; 29: 76–80.
+5. Hinshaw K, Fayyad A, Munjuluri P. The management of early pregnancy loss. In
+Green-top Guideline. London: Royal College of Obstetricians and Gynaecologists,
+2006.
+6. Seckl MJ, Gillmore R, Foskett M et al. Routine terminations of pregnancy-should
+we screen for gestational trophoblastic neoplasia. Lancet 2004; 364: 705–707.
+7. Fisher RA, Lavery SA, Carby A et al. What a difference an egg makes. Lancet
+2011; 378: 1974.
+8. Sebire NJ, Foskett M, Paradinas FJ et al. Outcome of twin pregnancies with
+complete hydatidiform mole and healthy co-twin. Lancet 2002; 359: 2165–2166.
+9. Fisher RA, Savage PM, MacDermott C et al. The impact of molecular genetic
+diagnosis on the management of women with hCG-producing malignancies.
+Gynecol Oncol 2007; 107: 413–419.
+10. Sebire NJ, Seckl MJ. Immunohistochemical staining for diagnosis and prognostic
+assessment of hydatidiform moles: current evidence and future directions.
+J Reprod Med 2010; 55: 236–246.
+
+Volume 24 | Supplement 6 | October 2013
+
+11. Sebire NJ, Savage PM, Seckl MJ, Fisher RA. Histopathological features of
+biparental complete hydatidiform moles in women with NLRP7 mutations. Placenta
+2013; 34: 50–56.
+12. Shih IM, Kurman RJ. Epithelioid trophoblastic tumor: a neoplasm distinct from
+choriocarcinoma and placental site trophoblastic tumor simulating carcinoma. Am
+J Surg Pathol 1998; 22: 1393–1403.
+13. Sebire NJ, Foskett M, Short D et al. Shortened duration of human chorionic
+gonadotrophin surveillance following complete or partial hydatidiform mole:
+evidence for revised protocol of a UK regional trophoblastic disease unit. BJOG
+2007; 114: 760–762.
+14. Kohorn EI. Negotiating a staging and risk factor scoring system for gestational
+trophoblastic neoplasia. A progress report. J Reprod Med 2002; 47: 445–450.
+15. Agarwal R, Teoh S, Short D et al. Chemotherapy and human chorionic
+gonadotropin concentrations 6 months after uterine evacuation of molar
+pregnancy: a retrospective cohort study. Lancet 2012; 379: 130–135.
+16. Agarwal R, Harding V, Short D et al. Uterine artery pulsatility index: a predictor of
+methotrexate resistance in gestational trophoblastic neoplasia. Br J Cancer 2012;
+106: 1089–1094.
+17. Berkowitz RS, Goldstein DP. Current management of gestational trophoblastic
+diseases. Gynecol Oncol 2009; 112: 654–662.
+18. Darby S, Jolley I, Pennington S, Hancock BW. Does chest CT matter in the staging
+of GTN? Gynecol Oncol 2009; 112: 155–160.
+19. FIGO Oncology Committee, FIGO staging for gestational trophoblastic neoplasia
+2000. International Journal of Gynecology & Obstetrics 77: 285–287.
+20. Alazzam M, Tidy J, Hancock BW et al. First line chemotherapy in low risk
+gestational trophoblastic neoplasia. Cochrane Database Syst Rev 2009 Jan 21; (1):
+CD007102.
+21. Kohorn EI. Is lack of response to single-agent chemotherapy in gestational
+trophoblastic disease associated with dose scheduling or chemotherapy
+resistance? Gynecol Oncol 2002; 85: 36–39.
+22. Osborne RJ, Filiaci V, Schink JC et al. Phase III trial of weekly methotrexate or
+pulsed dactinomycin for low-risk gestational trophoblastic neoplasia: a gynecologic
+oncology group study. J Clin Oncol 2011; 29: 825–831.
+23. Lurain JR, Chapman-Davis E, Hoekstra AV, Schink JC. Actinomycin D for
+methotrexate-failed low-risk gestational trophoblastic neoplasia. J Reprod Med
+2012; 57: 283–287.
+24. McNeish IA, Strickland S, Holden L et al. Low risk persistent gestational
+trophoblastic disease: outcome after initial treatment with low-dose methotrexate
+and folinic acid, 1992 to 2000. J Clin Oncol 2002; 20: 1838–1844.
+25. Sita-Lumsden A, Short D, Lindsay I et al. Treatment outcomes for 618 women
+with gestational trophoblastic tumours following a molar pregnancy at the Charing
+Cross Hospital, 2000–2009. Br J Cancer 2012; 107: 1810–1814.
+
+doi:10.1093/annonc/mdt345 | vi
+
+clinical practice guidelines
+26. Lybol C, Sweep FC, Harvey R et al. Relapse rates after two versus three
+consolidation courses of methotrexate in the treatment of low-risk gestational
+trophoblastic neoplasia. Gynecol Oncol 2012; 125: 576–579.
+27. McGrath S, Short D, Harvey R et al. The management and outcome of women with
+post-hydatidiform mole ‘low-risk’ gestational trophoblastic neoplasia, but hCG
+levels in excess of 100 000 IU l(-1). Br J Cancer 2010; 102: 810–814.
+28. van Trommel NE, Massuger LF, Schijf CP et al. Early identiﬁcation of resistance to
+ﬁrst-line single-agent methotrexate in patients with persistent trophoblastic
+disease. J Clin Oncol 2006; 24: 52–58.
+29. You B, Harvey R, Henin H et al. Early prediction of treatment resistance in low-risk
+gestational trophoblastic neoplasia using population kinetic modelling of hCG
+measurements. Br J Cancer 2013; 108: 1810–1816.
+30. Deng L, Yan X, Zhang J et al. Combination chemotherapy for high-risk gestational
+trophoblastic tumour. Cochrane Database Syst Rev 2009 April 15; (2): CD005196.
+31. Kim SJ, Bae SN, Kim JH et al. Effects of multiagent chemotherapy and
+independent risk factors in the treatment of high-risk GTT—25 years experiences
+of KRI-TRD. Int J Gynaecol Obstet 1998; 60 (Suppl 1): S85–S96.
+32. Bower M, Newlands ES, Holden L et al. EMA/CO for high-risk gestational
+trophoblastic tumours: results from a cohort of 272 patients. J Clin Oncol 1997;
+15: 2636–2643.
+33. Turan T, Karacay O, Tulunay G et al. Results with EMA/CO (etoposide,
+methotrexate, actinomycin D, cyclophosphamide, vincristine) chemotherapy in
+gestational trophoblastic neoplasia. Int J Gynecol Cancer 2006; 16: 1432–1438.
+34. Newlands ES, Holden L, Seckl MJ et al. Management of brain metastases in
+patients with high-risk gestational trophoblastic tumors. J Reprod Med 2002; 47:
+465–471.
+35. Ahamed E, Short D, North B et al. Survival of women with gestational trophoblastic
+neoplasia and liver metastases: is it improving? J Reprod Med 2012; 57: 262–269.
+36. Alifrangis C, Agarwal R, Short D et al. EMA/CO for high-risk gestational
+trophoblastic neoplasia: good outcomes with induction low-dose etoposidecisplatin and genetic analysis. J Clin Oncol 2013; 31: 280–286.
+37. Seckl MJ, Newlands ES. Investigation and treatment of patients with persistent
+gestational trophoblastic disease and gestational trophoblastic tumours/neoplasia
+in the United Kingdom. In: Hancock BW, Seckl MJ, Berkowitz RS, Cole LA (eds)
+Gestational Trophoblastic Disease, 3rd Edition, 2009; 335–365; ISSTD.org.
+ISSTD, London.
+38. Lybol C, Westerdijk K, Sweep FC et al. Human chorionic gonadotropin (hCG)
+regression normograms for patients with high-risk gestational trophoblastic
+neoplasia treated with EMA/CO (etoposide, methotrexate, actinomycin D,
+cyclophosphamide and vincristine) chemotherapy. Ann Oncol 2012; 23:
+2903–2906.
+39. Dhillon T, Palmieri C, Sebire NJ et al. Value of whole body 18FDG-PET to identify
+the active site of gestational trophoblastic neoplasia. J Reprod Med 2006; 51:
+879–887.
+
+vi | Seckl et al.
+
+Annals of Oncology
+40. Lurain JR, Nejad B. Secondary chemotherapy for high-risk gestational
+trophoblastic neoplasia. Gynecol Oncol 2005; 97: 618–623.
+41. Newlands ES, Mulholland PJ, Holden L et al. Etoposide and cisplatin/etoposide,
+methotrexate, and actinomycin D (EMA) chemotherapy for patients with high-risk
+gestational trophoblastic tumors refractory to EMA/cyclophosphamide and
+vincristine chemotherapy and patients presenting with metastatic placental site
+trophoblastic tumors. J Clin Oncol 2000; 18: 854–859.
+42. Jones WB, Schneider J, Shapiro F, Lewis JL, Jr. Treatment of resistant gestational
+choriocarcinoma with taxol: a report of two cases. Gynecol Oncol 1996; 61:
+126–130.
+43. Osborne R, Covens A, Mirchandani D, Gerulath A. Successful salvage of relapsed
+high-risk gestational trophoblastic neoplasia patients using a novel paclitaxelcontaining doublet. J Reprod Med 2004; 49: 655–661.
+44. Termrungruanglert W, Kudelka AP, Piamsomboon S et al. Remission of refractory
+gestational trophoblastic disease with high-dose paclitaxel. Anticancer Drugs
+1996; 7: 503–506.
+45. Wang J, Short D, Sebire NJ et al. Salvage chemotherapy of relapsed or high-risk
+gestational trophoblastic neoplasia (GTN) with paclitaxel/cisplatin alternating with
+paclitaxel/etoposide (TP/TE). Ann Oncol 2008; 19:
+1578–1583.
+46. Pandian Z, Seckl MJ, Smith R, Lees DA. Gestational choriocarcinoma: an unusual
+presentation with response to gemcitabine and surgery. BJOG 2004; 111:
+382–384.
+47. Bianconi M, Jankilevich G, Otero S et al. Successful salvage of a relapsed high
+risk gestational trophoblastic neoplasia patient using capecitabine. Gynecol Oncol
+2007; 106: 268–271.
+48. El-Helw LM, Seckl MJ, Haynes R et al. High-dose chemotherapy and peripheral
+blood stem cell support in refractory gestational trophoblastic neoplasia. Br J
+Cancer 2005; 93: 620–621.
+49. Palmieri C, Fisher RA, Sebire NJ et al. Placental site trophoblastic tumour arising
+from a partial hydatidiform mole. Lancet 2005; 366: 688.
+50. Cole LA, Khanlian SA, Muller CY et al. Gestational trophoblastic diseases: 3.
+Human chorionic gonadotropin-free beta-subunit, a reliable marker of placental
+site trophoblastic tumors. Gynecol Oncol 2006; 102: 160–164.
+51. Harvey RA, Pursglove HD, Schmid P et al. Human chorionic gonadotropin free
+beta-subunit measurement as a marker of placental site trophoblastic tumors. J
+Reprod Med 2008; 53: 643–648.
+52. Pfeffer PE, Sebire N, Lindsay I et al. Fertility-sparing partial hysterectomy for
+placental-site trophoblastic tumour. Lancet Oncol 2007; 8: 744–746.
+53. The ISSTD global Placental Site Trophoblastic Tumour database. International
+Society of the Study of Trophoblastic Diseases. https://pstt.shef.ac.uk.
+54. Rustin GJ, Newlands ES, Lutz JM et al. Combination but not single agent
+methotrexate chemotherapy for gestational trophoblastic tumours increases the
+incidence of second tumours. J Clin Oncol 1996; 14: 2769–2773.
+
+Volume 24 | Supplement 6 | October 2013
+
+

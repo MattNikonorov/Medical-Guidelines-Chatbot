@@ -1,0 +1,1621 @@
+SPECIAL ARTICLE
+
+Prostate cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment
+and follow-upy
+C. Parker1, E. Castro2, K. Fizazi3, A. Heidenreich4, P. Ost5, G. Procopio6, B. Tombal7 & S. Gillessen8,9,10, on behalf of the
+ESMO Guidelines Committee*
+1
+
+Royal Marsden Hospital, Sutton, UK; 2Department of Medical Oncology, Virgen de la Victoria University Hospital, Institute of Biomedical Research in Málaga, Malaga,
+Spain; 3Department of Cancer Medicine, Institut Gustave Roussy, University of Paris Saclay, Villejuif, France; 4Department of Urology, Uro-Oncology, Robot-Assisted and
+Specialized Urologic Surgery, University Hospital of Cologne, Cologne, Germany; 5Department of Radiation Oncology, Ghent University Hospital, Ghent, Belgium;
+6
+Department of Medical Oncology 1, Fondazione IRCCS Istituto Nazionale dei Tumori di Milano, Milan, Italy; 7Institut de Recherche Clinique, Université Catholique de
+Louvain, Brussels, Belgium; 8Oncology Institute of Southern Switzerland, Bellinzona; 9Faculty of Biomedical Sciences, USI, Lugano, Switzerland; 10Division of Cancer
+Medicine, University of Manchester, Manchester, UK
+
+Available online 25 June 2020
+
+Key words: chemotherapy, hormone therapy, prostate cancer, radiotherapy, surgery
+
+SCREENING AND EARLY DETECTION
+Subclinical prostate cancer is common in men >50 years.
+Population-based screening of men aged between 55 and
+69 years, using prostate-speciﬁc antigen (PSA) testing, has
+been evaluated.1 After a median follow-up of 16 years, the
+European screening trial demonstrated a 25% relative
+reduction in prostate cancer mortality. However, 570 men
+needed to be invited for screening and 18 patients needed
+to be treated to prevent one death from prostate cancer,
+and there was no effect on overall survival (OS).
+Risk-adapted early detection of prostate cancer using a
+baseline PSA has been evaluated in retrospective cohort
+studies. Men with a PSA >1 ng/ml at 40 years or >2 ng/ml
+at 60 years are at increased risk of prostate cancer metastasis or death from prostate cancer.2
+Recommendations
+ Population-based PSA screening of men for prostate cancer
+reduces prostate cancer mortality at the expense of overdiagnosis and overtreatment and is not recommended [I, C].
+ Early PSA testing (baseline PSA followed by risk-adapted
+follow-up) can be offered to men >50 years, men >45
+years with a family history of prostate cancer, AfricanAmericans >45 years and BRCA1/2 carriers >40 years
+[III, B].
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, 6900 Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+y
+Approved by the ESMO Guidelines Committee: February 2002, last update
+June 2020. This publication supersedes the previously published versiondAnn
+Oncol. 2015;26(suppl 5):v66-v77.
+0923-7534/© 2020 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+ Testing for prostate cancer in asymptomatic men
+should not be done in men with a life expectancy <10
+years [I, E].
+DIAGNOSIS AND PATHOLOGY
+The risk of clinically signiﬁcant prostate cancer is related to age,
+ethnicity, family history, PSA level, free/total PSA ratio and
+ﬁndings on digital rectal examination.3 Physicians are encouraged to use risk calculators incorporating these factors.4 Multiparametric magnetic resonance imaging (mpMRI) is recommended before prostate biopsy.5e7 Targeted transperineal
+biopsies, in comparison with systematic transrectal biopsies,
+result in an increased detection rate of clinically signiﬁcant
+prostate cancer, a decreased detection rate of clinically insigniﬁcant prostate cancer and fewer adverse events.5 When
+mpMRI is positive [i.e. Prostate ImagingeReporting and Data
+System (PI-RADS) 3], targeted  systematic biopsy should be
+done. When mpMRI is negative (i.e. PI-RADS 2), and clinical
+suspicion of prostate cancer is low, the biopsy can be omitted.
+Diagnostic work-up is shown in Figure 1.
+Recommendations
+ mpMRI should be carried out before prostate biopsy
+[I, B].
+ A prostate cancer risk calculator and/or mpMRI should
+be used to conﬁrm the indication for biopsy in men
+with elevated PSA [III, C].
+ Transperineal biopsies are recommended, rather than
+transrectal ultrasound-guided biopsies [III, B].
+ Each biopsy should be reported individually and evaluated using the International Society of Urological Pathology Consensus recommendations [II, B].8
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+1119
+
+C. Parker et al.
+
+Annals of Oncology
+
+Figure 1. Diagnostic work-up and staging for prostate cancer.
+CT, computed tomography; DRE, digital rectal examination; GS, Gleason score; mpMRI, multi-parametric magnetic resonance imaging; MRI, magnetic resonance imaging; PET, positron emission tomography; PSA, prostate-speciﬁc antigen; PSMA, prostate-speciﬁc membrane antigen.
+a
+In addition to PSA level and MRI results, the decision to biopsy or not should be made in light of DRE ﬁndings, ethnicity, age, comorbidities, free/total PSA, history of
+previous biopsy and patient values.
+
+STAGING AND RISK ASSESSMENT
+Staging and risk assessment are presented in supplementary
+Tables S1 and S2, available at Annals of Oncology online.
+Patients who are not suitable for treatment with curative
+intent, by virtue of poor general health, do not normally
+require staging investigations. Magnetic resonance imaging
+(MRI) provides T staging9 and can inform surgical technique
+1120
+
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+with respect to nerve-sparing and wide excision of areas of
+potential extra-prostatic extension. Men with low-risk disease [T1/2, Gleason score (GS) 6, PSA 10]10 do not
+require further imaging. Within the low-risk category, percentage of positive cores, length of core involvement, PSA
+density and a lower free/total PSA ratio are positively
+associated with risk of understaging.
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+C. Parker et al.
+
+Annals of Oncology
+
+Men with intermediate- or high-risk disease10 should
+have imaging for nodal or metastatic disease. Whole-body
+MRI, choline-positron emission tomography-computed tomography (PET-CT)11 and prostate-speciﬁc membrane antigen (PSMA)-PET-CT12,13 have better sensitivity and
+speciﬁcity than CT or bone scan but have not been shown to
+improve clinical outcomes. The evidence regarding PET and
+whole-body MRI in this setting is not adequate to make a
+recommendation concerning their use. Patients with localised disease on routine imaging should not be denied
+radical local treatment solely because metastatic lesions are
+identiﬁed on novel imaging techniques.
+
+Table 1. Stage-matched therapeutic strategies
+Localised disease Low risk
+
+Intermediate risk
+
+High risk
+
+Locally advanced
+disease
+
+M0 CRPC
+
+High risk
+
+Metastatic
+disease
+
+Hormone-naive
+
+Recommendations
+ Localised disease should be classiﬁed as low-, intermediate- or high-risk as a guide to prognosis and therapy [III,
+A].
+ Patients with intermediate-risk disease should be staged
+for metastases using MRI or CT (abdomen and pelvis)
+and bone scan [III, B].
+ Patients with high-risk disease should be staged for metastases using CT (chest, abdomen and pelvis) and bone
+scan [III, B].
+
+MANAGEMENT OF LOCAL/LOCOREGIONAL DISEASE
+There is no consensus regarding optimum management of
+localised disease (Table 1 and Figures 2 and 3). Patients
+should be informed of the beneﬁts and harms of the
+different options. Given the range of treatment options and
+their side-effects, men should be offered the opportunity to
+consult with both a urologist and a radiation oncologist.
+Men should be counselled that treatment of prostate cancer may cause sexual dysfunction, infertility, bowel and
+urinary problems.
+Watchful waiting with delayed hormone therapy for
+symptomatic progression is an option for men who are not
+suitable for, or unwilling to have, treatment with curative
+intent. Active surveillance is a strategy of close monitoring,
+typically using PSA, repeat biopsies and MRI, keeping
+curative treatment for those with evidence of disease progression. There is no good evidence comparing different
+methods of active surveillance.14
+Curative options include radical prostatectomy (RP),
+external beam radiotherapy (RT) and low-dose-rate
+brachytherapy. Two randomised, controlled trials (RCTs)
+have compared RP and watchful waiting.15,16 The Scandinavian Prostate Cancer Group (SPCG) Study 4 accrued 695
+men during the 1990s, at a time when PSA testing was not
+routinely carried out, and may not be applicable to screendetected cancers. After a mean follow-up of 29 years, the
+risk of death from prostate cancer was 20.4% and 31.6% in
+the RP and the watchful waiting groups, respectively. RP
+increased the rate of erectile dysfunction (80% versus 45%),
+and urinary leakage (49% versus 21%),15 but these rates
+may not be generalisable to high-volume surgical centres.
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+Castration-resistant
+(ﬁrst line)
+
+Second line or postdocetaxel
+
+Active surveillance
+Brachytherapy
+RP
+Radical RT
+RP
+Radical RT  neoadjuvant ADT
+Brachytherapy
+Active surveillance
+Long-term ADT + radical RT
+ neoadjuvant docetaxel
+RP + pelvic lymphadenectomy
+Neoadjuvant ADT + radical RT +
+adjuvant ADT
+ neoadjuvant docetaxel
+RP + pelvic lymphadenectomy
+ADT + apalutamide
+ADT + darolutamide
+ADT + enzalutamide
+ADT + abiraterone
+ADT + docetaxel
+ADT + enzalutamide
+ADT + apalutamide
+RT for low volume
+ADT alone for frail patients who
+cannot tolerate the above
+treatments
+Bone health agent
+Abiraterone
+Docetaxel
+Enzalutamide
+223
+Ra for patients unﬁt for
+above treatments (and
+bone-only metastases)
+Abiraterone
+Cabazitaxel
+Enzalutamide
+223
+Ra
+
+223
+Ra, radium-223; ADT, androgen deprivation therapy; M0 CRPC, non-metastatic
+castration-resistant prostate cancer; RP, radical prostatectomy; RT, radiotherapy.
+
+The PIVOT trial recruited 731 North American men between 1994 and 2002.16 They were more representative of
+men with PSA-detected cancer, but had a remarkably high
+rate of comorbidity. No signiﬁcant difference was seen in OS
+between RP and watchful waiting [hazard ratio (HR) 0.88;
+95% conﬁdence interval (CI) 0.71e1.08]. In the low-risk
+subgroup of 296 men, the risk of death from prostate
+cancer was <3% at 12 years, with no signiﬁcant beneﬁt for
+surgery. Indeed, the trend both in terms of prostate cancerspeciﬁc mortality (HR 1.48; 95% CI 0.42e0.54) and overall
+mortality (HR 1.15; 95% CI 0.80e1.66), favoured watchful
+waiting rather than surgery. However, the high overall
+mortality rate of w50% at 10 years illustrates the recruitment of men with signiﬁcant comorbidities.
+ProtecT is a prospective randomised clinical phase III trial
+comparing active therapy (RP or RT) versus active monitoring (repeat biopsy in men with a PSA rise of >50% from
+the baseline value).17 The trial recruited 1643 men with
+localised prostate cancer; after a median follow-up of 10
+years there was no statistically signiﬁcant difference in
+terms of cancer-speciﬁc survival, which was 99% in all three
+arms. However, there was a statistically signiﬁcant increase
+in the frequency of skeletal metastases and the need for
+androgen deprivation in the active monitoring arm.
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+1121
+
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+Annals of Oncology
+
+1122
+Volume 31
+-
+
+2020
+
+C. Parker et al.
+
+Issue 9
+
+Figure 2. Localised prostate cancer treatment algorithm.
+ADT, androgen deprivation therapy, EBRT, electron beam radiotherapy; HDR, high-dose rate; HIFU, high-intensity focused ultrasound; PC, prostate cancer; PSA, prostate-speciﬁc antigen; RP, radical prostatectomy: RT, radiotherapy.
+a
+Also suitable for localised/locally advanced disease if patient not suitable for (or unwilling to have) radical treatment.
+b
+For men with biochemical relapse and symptomatic local disease, proven metastases or a PSA doubling time of <3 months.
+
+C. Parker et al.
+
+Annals of Oncology
+
+Figure 3. High-risk localised and locally advanced prostate cancer treatment algorithm.
+ADT, androgen deprivation therapy; EBRT, electron beam radiotherapy; HDR, high-dose rate; HIFU, high-intensity focused ultrasound; PC, prostate cancer; PSA, prostatespeciﬁc antigen; RP, radical prostatectomy; RT, radiotherapy.
+a
+For men with biochemical relapse and symptomatic local disease, proven metastases or a PSA doubling time of <3 months.
+
+The case for adding radical local treatment for men with
+high-risk localised and locally advanced disease is based on
+two RCTs. The SPCG-7 trial included 875 men who received
+3 months of combined androgen blockade (CAB) followed
+by ﬂutamide monotherapy.18 They were randomised
+whether to receive radical RT to the prostate. It showed a
+beneﬁcial impact of radical RT in terms of cause-speciﬁc
+(11.9% versus 23.9%, P < 0.001), and overall mortality
+(29.6% versus 39.4%, P ¼ 0.004). The National Cancer
+Institute of Canada/Medical Research Council (NCIC/MRC)
+trial randomised high-risk patients to either lifelong
+androgen deprivation therapy (ADT) alone or to ADT plus
+RT. The addition of RT improved the 7-year survival from
+66% to 74% (P ¼ 0.003).19
+For patients receiving radical prostate RT, dose escalation
+using intensity-modulated RT or image-guided RT improves
+biochemical control with acceptable toxicity.20 Moderate
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+hypofractionation is non-inferior in terms of biochemical
+control, is more convenient and has acceptable toxicity.21
+Patients treated with RP for high-risk disease often
+require postoperative RT  ADT.
+Neoadjuvant and adjuvant hormone treatment
+The value of neoadjuvant and concurrent ADT, with RT, in men
+with high-risk localised and locally advanced disease, has been
+established by multiple randomised trials. For example, in the
+Trans Tasman Radiation Oncology Group (TROG) 96-01 trial,
+818 men with locally advanced prostate cancer were
+randomly assigned to RT alone, RT plus 3 months’ neoadjuvant and concurrent CAB or RT plus 6 months’ CAB.22
+Compared with RT alone, the use of 6 months’ hormone
+therapy signiﬁcantly improved overall mortality (HR 0.63; 95%
+CI 0.48e0.83). Similarly, the Radiation Therapy Oncology
+Group (RTOG) trial 8610, in 456 men with T2-4 disease, found
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+1123
+
+C. Parker et al.
+
+Annals of Oncology
+an improvement in 10-year prostate cancer-speciﬁc mortality
+(23% versus 36%; P ¼ 0.01) for the addition of 4 months’
+neoadjuvant and concurrent ADT.23
+Intermediate-risk localised prostate cancer has been
+subdivided into favourable and unfavourable categories.24
+Unfavourable intermediate-risk disease was deﬁned as any
+of primary Gleason pattern 4, percentage of positive biopsy
+cores 50% or 2 intermediate-risk factors (cT2b-c, GS 7,
+PSA 10e20). Patients with unfavourable intermediate-risk
+disease have a worse outcome than those with favourable
+intermediate-risk disease, and might be more likely to
+beneﬁt from neoadjuvant ADT.
+Adjuvant ADT, after RT, has been studied in multiple RCTs.
+The RTOG 92-02 trial randomised 1554 patients to receive
+either 4 months or 28 months of ADT in addition to RT.25 In
+an unplanned subgroup analysis, the addition of adjuvant
+ADT improved OS in those with a GS of 8e10 (81.0% versus
+70.7%, P ¼ 0.044). The European Organisation for Research
+and Treatment of Cancer (EORTC) 22961 trial randomised
+970 men with locally advanced disease to receive either 6
+months or 36 months of ADT in addition to radical RT.26 The
+5-year overall mortality for short-term and long-term suppression was 19.0% and 15.2%, respectively (HR 1.42; CI
+1.09e1.85).
+A recent RCT evaluated 18 versus 36 months’ adjuvant
+ADT in 630 men with high-risk prostate cancer.27 After a
+median follow-up of 9.4 years, the 5-year OS was 91% for
+the 36-months arm and 86% for the 18-months arm (P ¼
+0.07). While this was a relatively small trial, with a more
+favourable case mix than EORTC 22961, given the additional
+toxicity of longer-term ADT, 18 months of treatment may be
+preferred by some patients.
+No large RCTs are available for adjuvant treatment
+following RP for lymph node-positive disease. Based on the
+data of a large retrospective series including 2596 patients
+with pN1 disease, combined adjuvant RT and 2 years of ADT
+results in an improved 8-year cancer-speciﬁc mortality rate
+for men with two positive lymph nodes associated with
+pT3b/pT4 and/or positive surgical margins as compared
+with RT alone.28 However, the option of PSA-triggered
+follow-up and initiation of ADT at time of PSA rise was
+not included.
+Neoadjuvant docetaxel for M0 disease
+Six RCTs have tested early docetaxel-based chemotherapy
+(ChT) in high-risk localised disease. GETUG-12 compared
+standard of care (ADT for 3 years plus RT) with or without 4
+cycles of docetaxel-estramustine. The primary end point of
+relapse-free survival (RFS) was improved (HR 0.71; 95% CI
+0.54e0.94, P ¼ 0.017).29 A recent update with a median
+follow-up of 12 years showed that clinical RFS (cRFS;
+deﬁned as metastases, local relapse or death) was also
+improved with docetaxel (median cRFS 13.9 years versus
+12.5 years; HR 0.75; 95% CI 0.56e1.00; P ¼ 0.0491).30 RTOG
+0521 tested RT plus 2 years ADT with or without 6 cycles of
+docetaxel and reported a borderline improved RFS [HR 0.76;
+(95% CI 0.57e1.00); P ¼ 0.05]. OS did not reach signiﬁcance
+1124
+
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+by standard two-sided P value (one-sided P ¼ 0.03; HR 0.68;
+95% CI 0.44e1.03).31 A subset of men randomised in the
+STAMPEDE trial had high-risk localised disease (and/or
+pelvic enlarged lymph nodes) and RFS was improved in men
+randomised to receive docetaxel (HR 0.60; 95% CI 0.45e
+0.80; P ¼ 0.283  103).32 A meta-analysis of these three
+trials supported RFS improvement with docetaxel in men
+with high-risk localised disease (HR 0.70; 95% CI 0.61e0.81;
+P < 0.0001) but OS data were immature.33
+Since then, three other trials [SPCG-12, SPCG-13 and VA
+Cooperative Study Program (CSP) #553] have reported preliminary data in congresses with no signiﬁcant RFS
+beneﬁt.34e36 SPCG-13 may have included patients at insufﬁcient risk of relapse to derive any beneﬁt.34 SPCG-12 did not
+use ADT as part of the standard of care,35 and VA CSP #553
+had limited power (only 297 patients participated), although
+a trend favouring docetaxel was observed.36
+In men with high-risk localised prostate cancer, very longterm follow-up is needed to show survival differences:
+assuming cooperative groups are able to collect long-term
+data, this should be achieved around 2020e2025 for
+these trials. Based on the available data, offering docetaxelbased ChT may be a reasonable option for younger, ﬁt men
+with multiple risk factors for recurrence.
+Postoperative RT
+Postoperative RT following RP may be given as adjuvant RT
+(ART; undetectable postoperative PSA) or salvage RT (SRT;
+persistent or rising PSA). Three RCTs investigated ART
+compared with observation (EORTC 22911, SWOG 8794 and
+ARO 96-02).37 All showed improved biochemical control for
+ART, but no consistent OS beneﬁt was seen. More recent
+trials, RADICALS-RT, RAVES and GETUG-17, have compared
+ART with a policy of observation with early SRT given at the
+time of PSA failure. All three trials have been combined in
+the ARTISTIC meta-analysis that was presented at ESMO
+2019. The results show that ART has some harms (increased
+bladder and bowel morbidity), but no proven beneﬁt in
+terms of biochemical progression-free survival (PFS). Thus,
+observation with SRT in the event of PSA failure is the
+current standard after RP. SRT should be given early. Outcomes are more favourable if SRT is used when PSA is <0.5
+ng/ml.38
+Three trials have compared SRT versus SRT plus 6 months
+of ADT (GETUG-AFU 16, RTOG 0534) or plus 24 months of
+bicalutamide (RTOG 9601).39 RTOG 9601 showed a reduced
+rate of prostate cancer death (HR 0.77; 95% CI 0.59e0.99;
+P ¼ 0.04) and improved OS (HR 0.49; 95% CI 0.32e0.74;
+P < 0.001).39 Post hoc subgroup analysis indicated that men
+with a pre-SRT PSA above 0.7 ng/ml, GS 8-10 and positive
+margins had the largest beneﬁt from the addition of
+bicalutamide.39 The GETUG-AFU 16 trial showed an
+improvement in metastasis-free survival (HR 0.73; 95% CI
+0.54e0.98; P ¼ 0.034),40 but not OS.
+The SPPORT-trial, presented at the 2018 American Society for Radiation Oncology annual meeting,41 investigated
+the potential of pelvic nodal RT with 6 months of ADT as
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+C. Parker et al.
+
+Annals of Oncology
+
+compared with prostate bed-only RT or prostate bed RT plus
+6 months of ADT. The addition of pelvic RT improved
+freedom from failure, as well as an improvement in
+freedom from metastases for the comparison with prostate
+bed-only RT (HR 0.52; 95% CI 0.30e0.92; P ¼ 0.014). There
+were no OS differences observed between arms.
+
+Intermittent versus continuous ADT was studied in a
+randomised trial of 1386 patients with a PSA at relapse of
+>3.0 ng/ml >1 year after radical RT. Intermittent ADT had a
+more favourable toxicity proﬁle with no difference in OS
+(HR 1.02; 95% CI 0.86e1.21).51
+Recommendations
+
+Treatment of relapse after radical local treatment
+Re-staging. For patients with biochemically recurrent
+prostate cancer, PSMA-PET imaging is replacing conventional imaging, based on its superior sensitivity and speciﬁcity.42 Nevertheless, there are no trials indicating that the
+earlier detection of recurrence and subsequent change in
+management improves outcomes. The study of modern
+imaging methods has focused on their diagnostic performance, not their effect on care pathways.42
+Local salvage therapy. The natural history of PSA recurrence
+following primary treatment43 is long, and life expectancy
+should be taken into account when considering local
+treatment options. Molecular imaging studies have indicated that up to 50% of men experience a local recurrence
+in case of a PSA rise.42 mpMRI is useful in the detection of
+local recurrence and can guide targeted biopsies. In case
+of a biopsy-conﬁrmed local recurrence and the absence of
+metastases, several local treatment options are available,
+such as salvage RP, high-intensity focused ultrasound, cryoablation or brachytherapy. Taken together, these treatments typically give only temporary biochemical control in
+most patients with important morbidity.44 None of these
+options have been compared head-to-head.
+Metastasis-directed therapy. Earlier visualisation of recurrence makes it technically possible to selectively ablate
+metastases. Hypothetically, this would slow down progression and improve survival.45 Most evidence in this setting
+comes from retrospective case series.46 More recently, two
+randomised phase II trials have been published.47,48 The
+STOMP trial showed an improved biochemical progression
+and time to palliative ADT with metastasis-directed therapy
+compared with observation and deferred ADT.48 In the
+SABR-COMET trial, different solid tumour types were
+included, of which 16% were prostate cancer. This trial
+showed improved OS for additional stereotactic body RT
+(SBRT) to standard of care.48 Both trials have paved the way
+for larger conﬁrmatory phase III trials, but should not be
+considered as conclusive evidence to offer metastasisdirected therapy.
+Systemic therapy. Two randomised trials, TOAD and ELAAT,
+have compared early versus deferred ADT for men with a
+PSA failure after local therapy.49 The reasons to start ADT
+were development of symptoms or metastases on conventional imaging or PSA doubling time decreasing to 6
+months. Pooled analysis found no survival beneﬁt with early
+ADT (HR 0.75; 95% CI 0.40e1.41; P ¼ 0.37).50 Early ADT had
+an adverse effect on quality of life (QoL), speciﬁcally in
+terms of sexual activity and hot ﬂushes.49
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+ Watchful waiting with delayed ADT for symptomatic
+progression is an option for men who are not suitable
+for, or unwilling to have, radical treatment [I, A].
+ Active surveillance is recommended for men with
+low-risk disease [II, A].
+ RP or RT (external beam or brachytherapy) is an option
+for men with low-risk disease not suitable for active surveillance [III, B].
+ RP or RT (external beam or brachytherapy) is recommended for men with intermediate-risk disease [I, B].
+ Primary ADT alone is not recommended as standard
+initial treatment for non-metastatic disease [I, D].
+ External beam RT plus ADT is recommended for men
+with high-risk or locally advanced prostate cancer [I, B].
+ RP plus pelvic lymphadenectomy is an option for
+selected men with high-risk disease [III, B].
+ Men receiving radical RT for intermediate-risk disease
+should have short-course ADT for 4e6 months [I, A].
+ Men receiving radical RT for high-risk disease should
+have long-course ADT (18e36 months) [I, A].
+ Neoadjuvant docetaxel ChT may be offered before RT for
+young, ﬁt men with very high-risk localised prostate cancer [I, C].
+ Following RP, patients should have their serum PSA level
+monitored, with salvage RT recommended in the event
+of PSA failure [III, B].
+ Adjuvant postoperative RT after RP is not routinely recommended [I, B].
+ Salvage RT should start early (e.g. PSA <0.5 ng/ml) [III,
+B]. Concomitant ADT for 6 months or bicalutamide 150
+mg daily for 2 years may be offered to men having
+salvage RT [I, B].
+ Men having SRT to the prostate bed may be offered pelvic nodal RT [I, C].
+ Men with biochemical relapse after radical RT who may
+be candidates for local salvage or metastasis-directed
+treatment should undergo imaging with PET-CT [III, B].
+ Early ADT alone is not recommended for men with
+biochemical relapse unless they have a rapid PSA
+doubling time, symptomatic local disease or proven metastases [II, D].
+ Men starting ADT for biochemical relapse, in the absence
+of metastatic disease, should be offered intermittent
+rather than continuous treatment [I, B].
+
+METASTATIC HORMONE-NAIVE PROSTATE CANCER
+Treatment recommendations for metastatic hormone-naive
+prostate cancer (mHNPC) are shown in Figure 4. Addition of
+abiraterone, apalutamide, enzalutamide or docetaxel to
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+1125
+
+C. Parker et al.
+
+Annals of Oncology
+
+Figure 4. Metastatic prostate cancer treatment algorithm.
+ADT, androgen deprivation therapy, PC, prostate cancer; RT, radiotherapy.
+
+ADT improves OS in mHNPC. Most of the relevant trials,
+discussed below, largely included men with de novo metastatic disease, and caution should be used when extrapolating the results to men who relapsed with metastases
+after previous local treatment.
+The beneﬁt of docetaxel for mHNPC was established by
+two phase III trials, CHAARTED52 and STAMPEDE.32 The
+CHAARTED study randomised 790 patients to receive ADT
+alone or in combination with docetaxel 75 mg/m2 every 21
+days for 6 cycles. Docetaxel improved OS (HR 0.72; 95% CI
+0.59e0.89). The STAMPEDE study is a multi-arm, multistage phase III study designed to test whether the addition
+of various treatments to ADT improves OS. It includes patients with both M0 and M1 disease. Patients were randomised to ADT alone (n ¼ 1184) or in combination with
+docetaxel 75 mg/m2 every 21 days with prednisone 10 mg
+daily for 6 cycles (n ¼ 592). The addition of docetaxel in M1
+patients signiﬁcantly improved OS compared with ADT
+alone (HR 0.76; 95% CI 0.62e0.92). The OS beneﬁt for
+docetaxel was similar when combined with zoledronic acid
+(HR 0.79; 95% CI 0.66e0.96). A third study, GETUG-AFU
+1553 randomised 385 mHNPC patients to receive ADT or
+ADT plus docetaxel 75 mg/m2 every 21 days for 9 cycles.
+Patients in the ChT arm had improved PSA PFS and radiographic PFS (rPFS), but these did not translate into a beneﬁt
+in OS (HR 1.01; 95% CI 0.75e1.36). Subgroup analysis of the
+CHAARTED study showed more pronounced beneﬁt in patients with high-volume disease (HR 0.63; 95% CI 0.50e
+0.79),54 deﬁned as the presence of four or more bone
+metastases with one or more beyond vertebral bodies and
+1126
+
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+pelvis, visceral metastasis or both. However, meta-analysis
+of CHAARTED, STAMPEDE and GETUG-AFU 15 have
+conﬁrmed the improvement in OS with the addition of
+docetaxel to ADT regardless of disease volume (HR 0.77;
+95% CI 0.68e0.87).33,55
+The addition of abiraterone to ADT has demonstrated
+improved OS compared with ADT alone in two phase III
+trials, LATITUDE56 and STAMPEDE.57 Both studies randomised participants to ADT alone or in combination with
+abiraterone 1000 mg plus prednisone 5 mg daily until disease progression. LATITUDE randomised 1199 patients with
+high-risk metastatic prostate cancer, deﬁned as the presence of at least two of the following: GS 8, three or more
+bone metastases or visceral metastases. The addition of
+abiraterone to ADT resulted in a signiﬁcant improvement in
+OS (HR 0.62; 95% CI 0.51e0.76).56 Updated data after
+crossover and 2-year additional follow-up conﬁrmed this
+(HR 0.66; 95% CI 0.56e0.78).58 A similar beneﬁt in survival
+was observed in the STAMPEDE trial for the M1 subgroup
+(HR 0.63; 95% CI 0.52e0.76).57 LATITUDE enrolled only
+patients with de novo metastatic prostate cancer, and only
+5% of patients included in STAMPEDE were relapsing M1.
+Therefore, the beneﬁt of adding abiraterone to ADT in the
+latter group of patients is uncertain.
+The phase III trial TITAN demonstrated that addition of
+apalutamide to ADT improves OS in mHNPC.59 The study
+randomised 1052 participants to ADT alone or in combination with apalutamide 240 mg per day. A total of 16% of
+patients had received treatment of localised disease and
+were enrolled at M1 relapse. Only 11% of patients had
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+C. Parker et al.
+
+Annals of Oncology
+
+received early docetaxel. Most patients had high-volume
+disease (63%). The addition of apalutamide improved OS
+(HR 0.67; 95% CI 0.51e0.89; P ¼ 0.005) with no signiﬁcant
+differences according to disease volume. Given the limited
+number of patients that received apalutamide after docetaxel, the beneﬁt of this strategy remains unclear.
+The beneﬁt of adding enzalutamide to ADT for the
+treatment of mHNPC patients has been established by two
+phase III studies, ARCHES60 and ENZAMET.61 ARCHES
+randomised 1150 mHNPC patients to ADT plus enzalutamide 160 mg daily or ADT plus placebo. Participants were
+stratiﬁed by disease volume and prior docetaxel therapy. At
+the interim analysis, the primary end point was met, as
+enzalutamide signiﬁcantly improved rPFS (HR 0.39; 95% CI
+0.30e0.50; P < 0.001). The rPFS beneﬁt was consistent
+across all prespeciﬁed subgroups, including disease volume
+and prior docetaxel ChT. At the time of this interim analysis, data on OS were immature. The second phase III study,
+ENZAMET,61 randomised 1125 men with mHNPC to either
+ADT plus other non-steroidal anti-androgens, including
+bicalutamide, nilutamide or ﬂutamide, versus ADT plus
+enzalutamide. Enzalutamide resulted in a signiﬁcant
+improvement in OS (HR 0.67; 95% CI 0.52e0.86). This is the
+ﬁrst study to examine the use of an androgen receptor (AR)
+signalling inhibitor with or without concurrent docetaxel;
+45% of patients were planned to receive docetaxel.
+The HR for OS was 0.53 (95% CI 0.37e0.75) for those who
+were not planned to receive docetaxel, and 0.90 (95% CI
+0.62e1.31) for those who were planned to receive
+docetaxel.
+Docetaxel plus ADT and abiraterone plus ADT have been
+compared in an opportunistic randomised analysis from the
+STAMPEDE trial, suggesting similar outcomes in the M1
+subgroup.62 On the other hand, indirect Bayesian comparisons have suggested that the survival and QoL beneﬁt
+provided by abiraterone may be greater than that seen with
+docetaxel.63 Since no biomarkers have been identiﬁed to
+select one therapy over another, the decision to use abiraterone, apalutamide, enzalutamide or docetaxel should be
+individualised taking into consideration the cost, access to
+treatment, toxicity proﬁles, duration of treatment, comorbidities and patient preferences.
+Two randomised trials, HORRAD64 and STAMPEDE,65 have
+compared lifelong ADT alone or in combination with RT to
+the primary tumour for mHNPC. The HORRAD trial randomised 446 patients to receive ADT alone or in combination
+with RT to the primary (70 Gy in 35 fractions for 7 weeks or
+57.76 Gy in 19 fractions for 6 weeks). RT improved time to
+PSA progression (HR 0.78; 95% CI 0.63e0.97), but not OS
+(HR 0.90; 95% CI 0.70e1.14).64 The STAMPEDE trial allowed
+docetaxel in both arms in addition to ADT. RT to the primary
+was then commenced within 3e4 weeks after the last
+docetaxel dose (55 Gy in 20 fractions over 4 weeks or 36 Gy
+in six fractions over 6 weeks). RT improved failure-free
+survival (HR 0.76; 95% CI 0.68e0.84; P < 0.0001) but not
+OS (HR 0.92; 95% CI 0.80e1.06). The prespeciﬁed lowvolume subgroup, deﬁned according to the CHAARTED
+criteria, had a signiﬁcant beneﬁt in both failure-free survival
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+(HR 0.59; 95% CI 0.49e0.72) and OS (HR 0.68; 95% CI 0.52e
+0.90).
+Management of bone health and prevention of cancer
+treatment-induced bone loss (CTIBL) is an important part of
+the treatment of men with prostate cancer under hormonal
+treatment. Prevention of CTIBL is covered by separate
+ESMO guidelines.66
+Recommendations
+ ADT is recommended as ﬁrst-line treatment of mHNPC in
+combination with abiraterone/prednisone [ESMOMagnitude of Clinical Beneﬁt Scale (ESMO-MCBS) v1.1
+score: 4] or apalutamide [ESMO-MCBS v1.1 score: 4] or
+docetaxel [ESMO-MCBS v1.1 score: 4] or enzalutamide
+[ESMO-MCBS v1.1 score: 4] [I, A].
+ RT to the primary tumour combined with the systemic
+treatment is recommended for patients with lowvolume mHNPC [I, A].
+ ADT alone is recommended as ﬁrst-line systemic treatment of mHNPC in men who are unﬁt for abiraterone,
+apalutamide, enzalutamide and docetaxel [III, A].
+ For men starting on ADT, management to prevent CTIBL
+is recommended.66
+
+NON-METASTATIC CASTRATION-RESISTANT PROSTATE
+CANCER
+Castration-resistant prostate cancer (CRPC) is deﬁned as
+disease progression during ADT, with serum testosterone at
+castrate levels.67 The absence of metastases (M0) on
+traditional imaging (bone scintigraphy and CT scan) has
+been used to identify M0 CRPC disease.67 This disease
+setting exists because of the use of early, long-term ADT for
+men with non-metastatic prostate cancer. If ADT is delayed
+in men with biochemical failure after radical treatment until
+the site of recurrence is detected, M0 CRPC will be unusual
+because men will typically only develop castration-resistant
+disease after the detection of metastases.
+Apalutamide signiﬁcantly increased median metastasisfree survival (40.5 months versus 16.2 months, HR 0.28;
+95% CI 0.23e0.35) and time to symptomatic progression
+(HR 0.45; 95% CI 0.32e0.63) as compared with placebo in a
+multicentre, randomised, placebo-controlled, phase III trial
+(SPARTAN) conducted in 1207 men with high-risk M0 CRPC
+(baseline PSA >2.0 ng/ml and a PSA doubling time of 10
+months). Data on OS are still immature (HR 0.70; 95% CI
+0.47e1.04). The most frequent side-effects observed in the
+experimental arm were rash, hypertension, fracture, hypothyroidism and mental-impairment disorder.68
+Enzalutamide was evaluated in patients with high-risk M0
+CRPC (PROSPER trial). In 1401 patients, enzalutamide was
+superior to placebo with regard to the primary end point of
+median metastasis-free survival (36.6 months versus 14.7
+months, HR 0.29; 95% CI 0.24e0.35), and the key secondary
+end points of median time to PSA progression (37.2 versus
+3.9 months; HR 0.07; 95% CI 0.05e0.08) and time to subsequent antineoplastic therapy (39.6 versus 17.7 months;
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+1127
+
+C. Parker et al.
+
+Annals of Oncology
+HR 0.21; 95% CI 0.17e0.26). Data on OS are still immature.
+Side-effects most commonly reported in the enzalutamide
+group were fatigue, hypertension, adverse cardiovascular
+events and mental-impairment disorders.69
+Darolutamide was evaluated in the ARAMIS trial, a multicentre, randomised, double-blind, placebo-controlled,
+phase III trial involving 1509 men with high-risk M0 CRPC
+and a PSA doubling time of 10 months. Darolutamide
+signiﬁcantly increased the median metastasis-free survival
+compared with placebo (median 40.4 months versus 18.4
+months; HR 0.41; 95% CI 0.34e0.50). Data on OS are
+immature. Grade 3 or 4 adverse events were reported in
+19.5% versus 24.7% of patients receiving placebo and darolutamide, respectively.70
+Recommendation
+ Apalutamide [ESMO-MCBS v1.1 score: 3], darolutamide
+[ESMO-MCBS v1.1 score: 3] or enzalutamide [ESMOMCBS v1.1 score: 3] should be considered as options
+for men with M0 (on bone scan and CT) CRPC and a
+high risk of disease progression [I, B].
+
+METASTATIC CRPC
+For men with metastatic CRPC (mCRPC), both bicalutamide
+and low-dose corticosteroids show a beneﬁt in terms of PSA
+and symptomatic responses, but no randomised trials have
+demonstrated a beneﬁt in OS.71,72
+The combination of abiraterone acetate and prednisone
+was compared with placebo plus prednisone in the COUAA-302 trial73 in >1000 men with ChT-naive, asymptomatic or mildly symptomatic mCRPC. Abiraterone signiﬁcantly
+improved OS (HR 0.79; 95% CI 0.66e0.95). The main speciﬁc
+side-effects were hypokalaemia, hypertension, oedema and
+cardiac events. Low-dose abiraterone taken with food
+appeared to have similar activity to standard dose abiraterone under fasting conditions74; however, this has not
+been tested in phase III trials.
+In the same setting, 1717 patients were treated with
+enzalutamide or placebo in the PREVAIL trial.75 Enzalutamide was superior to placebo in terms of OS (HR 0.71; 95%
+CI 0.60e0.84), with fatigue/asthenia and hypertension as
+the most common adverse events.
+The role of ChT in mCRPC was established in two phase III
+randomised trials. In the TAX-327 trial, in a population of
+1006 patients with mCRPC, docetaxel (75 mg/m2 3-weekly)
+combined with prednisone signiﬁcantly increased OS as
+compared with mitoxantrone plus prednisone (HR 0.76;
+95% CI 0.62e0.94).76 Similarly, the SWOG-9916 trial
+showed that the combination of docetaxel (60 mg/m2 3weekly), estramustine and prednisone was superior to
+mitoxantrone plus prednisone in prolonging OS (HR 0.8;
+95% CI 0.67e0.97). In both studies, docetaxel increased the
+risk of myelosuppression, febrile neutropaenia, fatigue, alopecia, diarrhoea, neuropathy and peripheral oedema.77
+The ALSYMPCA trial showed that the treatment with
+radium-223 (223Ra), a bone-targeted alpha-emitter,
+1128
+
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+signiﬁcantly increased OS (HR 0.70; 95% CI 0.55e0.83) and
+time to ﬁrst symptomatic skeletal event (HR 0.66; 95% CI
+0.52e0.83) compared with placebo in 926 patients with
+progressive bone-predominant, symptomatic mCRPC.78 Sideeffects of 223Ra include thrombocytopaenia (3% G3) and
+diarrhoea (2% G3). Based on this trial, 223Ra was rated at the
+highest level of the ESMO-MCBS [ESMO-MCBS v1.1 score:
+5].79 However, the ERA-223 trial showed an increased incidence of fractures (28.6% versus 11.4%) among patients
+receiving 223Ra in combination with abiraterone acetate plus
+prednisone compared with patients receiving placebo in
+combination with abiraterone acetate plus prednisone.80 The
+Pharmacovigilance Risk Assessment Committee of the European Medicines Agency has restricted the use of 223Ra to
+patients who have received at least two lines of systemic
+treatment of CRPC (abiraterone/enzalutamide and docetaxel) or who are ineligible to receive these therapies.81 The
+administration of 223Ra in association with abiraterone acetate and prednisone/prednisolone is not permitted.
+In the post-docetaxel setting, cabazitaxel improved OS
+(HR 0.70; 95% CI 0.59e0.83) compared with mitoxantrone
+in 755 patients (TROPIC trial).82 The treatment was associated with increased myelosuppression, including febrile
+neutropaenia and diarrhoea. Similarly, abiraterone plus
+prednisone, tested against placebo plus prednisone in the
+COU-301 study83 improved OS (HR 0.74; 95% CI 0.64e0.86).
+Enzalutamide was tested against placebo in the postdocetaxel setting in the AFFIRM trial, and also improved
+OS (HR 0.63; 95% CI 0.53e0.75).84
+The optimal sequence or combination of all these agents
+is largely unknown. There is strong evidence suggesting
+cross-resistance between abiraterone and enzalutamide. A
+second AR inhibitor (abiraterone for those with prior
+enzalutamide and vice versa) had only modest activity.85
+The CARD trial compared cabazitaxel versus a second AR
+inhibitor. The median OS was 13.6 months with cabazitaxel
+and 11.0 months with the second androgen-signallingtargeted inhibitor (HR 0.64; 95% CI, 0.46e0.89;
+P ¼ 0.008). In the control arm, the response rate and the
+duration of response to a second AR inhibitor were poor.86
+In daily practice, sequencing decisions will be made in
+light of the distribution, extent and pace of disease,
+comorbidities, previous treatments (ChT or new hormone
+agents), patient preferences and drug availability.
+Recommendations
+ Abiraterone or enzalutamide [ESMO-MCBS v1.1 scores:
+4] is recommended for asymptomatic/mildly symptomatic men with ChT-naive mCRPC [I, A].
+ Docetaxel [ESMO-MCBS v1.1 score: 4] is recommended
+for men with mCRPC [I, A].
+ In patients with mCRPC in the post-docetaxel setting,
+abiraterone [ESMO-MCBS v1.1 score: 4], enzalutamide
+[ESMO-MCBS v1.1 score: 4] and cabazitaxel [ESMOMCBS v1.1 score: 3] are recommended options [I, A].
+ In patients with bone metastases from CRPC at risk for
+clinically signiﬁcant skeletal-related events (SREs), a
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+C. Parker et al.
+
+Annals of Oncology
+
+bisphosphonate or denosumab is recommended (see
+section on palliative care) [I, B].
+ 223Ra [ESMO-MCBS v1.1 score: 5] is recommended for
+men with bone-predominant, symptomatic mCRPC
+without visceral metastases [I, B].
+ 223Ra is not recommended in combination with abiraterone and prednisolone [I, E].
+ The use of a second AR inhibitor (abiraterone after enzalutamide or vice versa) is not recommended [II, D].
+
+PRECISION MEDICINE
+Various tissue-based molecular assays provide prognostic information, additional to conventional clinicopathological parameters, regarding outcomes of conservative management
+and the likelihood of relapse following treatment of the primary.87,88 Assessment of their clinical utility would require
+long-term prospective studies, and cost-effectiveness analyses.
+AR splice variant 7 (AR-V7) detected in circulating tumour
+cells is prognostic in CRPC.89 AR-V7-positive patients are less
+likely to respond to abiraterone and enzalutamide than AR-V7negative patients,90 while AR-V7 status does not seem to affect
+the response to taxanes.84 Prevalence of AR-V7 is low before
+treatment but increases with subsequent therapy lines.84 Thus,
+it would be of little use to investigate AR-V7 status in the
+treatment-naive setting. Switching from one AR signalling inhibitor to another after disease progression is rarely effective,
+and a therapy with a different mechanism of action (i.e. taxane)
+would be preferable. Therefore, AR-V7 is of limited value for
+therapy selection and cannot be recommended.
+Actionable targets are identiﬁed in the majority of
+advanced prostate tumours.91 Approximately 20% of metastatic prostate cancers harbour aberrations in genes involved
+in DNA damage and repair (DDR) and BRCA2 is the most
+commonly altered.91 A substantial proportion of these aberrations are also present in the germline.91 Prostate tumours
+related to germline BRCA2 mutations often have GS 8,
+nodal and distant metastases at diagnosis, but these genetic
+variants cannot be excluded in patients without such clinicopathological features.92 Germline mutations in BRCA2 have
+been associated with poor clinical outcomes across different
+disease states92 while the prognostic implications of inheritable mutations in other DDR genes are less well established.
+Importantly, 30% of metastatic prostate cancer patients
+found to carry a germline DDR mutation did not have a previous family history of cancer.93 Due to the prevalence of
+germline DDR in advanced prostate cancer (12%e16%),92
+these patients should be offered germline screening regardless of tumour features at diagnosis or family history of
+cancer. Men with localised prostate cancer should also be
+considered for germline testing if at least two close blood
+relatives on the same side of the family have been diagnosed
+with tumours linked to hereditary cancer predisposition
+syndromes (including breast, ovarian, prostate, pancreatic,
+melanoma, sarcoma, adrenocortical, brain, colorectal,
+endometrial, gastric, thyroid and kidney cancers).94 The
+germline origin of pathogenic mutations affecting cancer-risk
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+genes identiﬁed by tumour sequencing should also be
+investigated.95 There is limited evidence to guide prostate
+cancer management based on germline status, but early
+identiﬁcation of mutation carriers may contribute to the
+prevention and early diagnosis of tumours in relatives.
+Some germline and somatic mutations in genes involved in
+the homologous recombination pathway, including BRCA2,
+are potential predictors of response to platinum-based ChT
+and poly(adenosine diphosphate-ribose) polymerase (PARP)
+inhibitors.96 Tumours with germline and somatic mismatch
+repair defects are likely to respond to pembrolizumab.97,98
+The PROFOUND trial tested olaparib versus a second AR
+axis inhibitor in patients with mCRPC with alterations in any
+of 15 genes with a role in DDR whose disease had progressed
+on prior new hormonal agent therapy. In 245 patients who
+had at least one alteration in BRCA1, BRCA2 or ATM, olaparib
+improved rPFS [HR 0.34 (0.25e0.47)] and OS [HR 0.64 (0.43e
+0.97)].99 In the control arm, the response rate and the
+duration of response to a second AR axis inhibitor was poor.
+Recommendations
+ Tissue-based molecular assays may be used in conjunction with clinicopathological factors for treatment decision making in localised prostate cancer [IV, C].
+ Germline testing for BRCA2 and other DDR genes associated with cancer predisposition syndromes is recommended in patients with a family history of cancer and
+should be considered in all patients with metastatic prostate cancer [III, B].
+ Consider tumour testing for homologous recombination
+genes and mismatch repair defects (or microsatellite
+instability) in patients with mCRPC [II, B].
+ Patients with pathogenic mutations in cancer-risk genes
+identiﬁed through tumour testing should be referred for
+germline testing and genetic counselling [IV, A].
+ Olaparib can be considered after new hormonal agents
+for patients with mCRPC with alteration in BRCA1 or
+BRCA2 [I, B].
+
+PALLIATIVE CARE
+Fractionated versus single-fraction RT for bone pain has
+been compared in multiple randomised trials. Singlefraction treatment provides similar pain relief.100 A recent
+non-inferiority phase II trial indicated that the singlefraction dose of 14e16 Gy using SBRT results in a better
+pain response than multifraction RT.101 Multifraction RT is
+commonly used for bone metastatic disease associated with
+complications such as nerve root compression from soft
+tissue extension.
+Zoledronic acid, a bisphosphonate, was shown to prolong
+time to ﬁrst SREs, namely fracture, spinal cord compression,
+surgery or RT for bone pain or a change in anticancer
+treatment of bone pain.102 However, there was no difference in disease progression, OS or QoL. Adverse effects
+included anaemia, fever, myalgia and osteonecrosis of the
+jaw (ONJ). Denosumab, a receptor activator of nuclear
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+1129
+
+C. Parker et al.
+
+Annals of Oncology
+factor kappa-b ligand inhibitor, has been compared with
+zoledronic acid.103 Denosumab was superior with respect to
+time to ﬁrst SRE (HR 0.82; 95% CI 0.71e0.95, P ¼ 0.0002),
+but was associated with an increased risk of hypocalcaemia
+(13% versus 6%) and a trend towards higher incidence of
+ONJ (2.3% versus 1.3%). There was no difference in OS.
+The management of mCRPC has changed markedly since
+the trials of zoledronic acid and denosumab were done.
+Abiraterone, enzalutamide, corticosteroids and 223Ra all increase the risk of fragility fractures but reduce the risk of other
+SREs. These changes have heightened awareness of the
+importance of bone health (see below) in men on ADT. If the
+bone health recommendations are followed, the added value
+of zoledronic acid or denosumab for SRE prevention is unclear.
+Spinal cord compression is a devastating complication of
+metastatic prostate cancer and early detection is critical for
+successful management. A systematic review found that
+spinal cord compression is a common ﬁnding, even in
+asymptomatic patients with metastatic prostate cancer and
+spinal metastases.50
+Beta-emitting, bone-seeking radionuclides such as
+strontium-89 and samarium-153 hydroxyethylidene
+diphosphonate (89Sr-HEDP and 153Sm-HEDP) have proven
+symptomatic beneﬁts in the treatment of mCRPC. However,
+their use is limited by myelotoxicity and they have largely
+been superseded by 223Ra.
+
+Lifestyle measures (weight-bearing exercise, stopping
+smoking, two or fewer units of alcohol daily and adequate
+calcium intake and vitamin D status) help to maintain bone
+health. Treatment with an oral bisphosphonate, such as
+alendronic acid, reduces the incidence of fractures.105
+Alendronic acid should be taken after an overnight fast, at
+least 30 min before food, drink or other medicines. Whole
+tablets should be swallowed with a glass of water. Patients
+should remain upright for 30 min. If an oral bisphosphonate
+is not tolerated, zoledronic acid every 12 months or denosumab every 6 months are appropriate alternatives.
+
+Recommendations
+ Lifestyle measures to maintain bone health are recommended for men on ADT: weight-bearing exercise, stopping smoking, two or fewer units alcohol daily, adequate
+calcium intake and vitamin D status (reach and maintain
+reference vitamin D levels) [IV, B].
+ Men starting long-term ADT should:
+B either be offered an oral bisphosphonate [I, B].
+B or be monitored with DEXA scanning and then treated
+according to the ESMO guidelines for CTIBL66 [IV, B].
+
+METHODOLOGY
+Recommendations
+ A single fraction of external beam RT is recommended
+for palliation of painful, uncomplicated bone metastasis
+[I, A].
+ In patients with bone metastases from CRPC at risk for
+clinically signiﬁcant SREs, a bisphosphonate or denosumab is recommended [I, B].
+ MRI of the spine to detect subclinical cord compression
+is recommended in men with CRPC with vertebral metastases [III, B].
+ Urgent MRI of the spine to detect cord compression is
+very strongly recommended in men with CRPC with
+vertebral metastases and neurological symptoms [III, A].
+
+FOLLOW-UP AND LONG-TERM IMPLICATIONS
+ADT may cause hot ﬂushes, lethargy, mood changes, osteoporosis, insulin resistance and muscle loss. Because survival in mCRPC has improved substantially, men are living
+longer on ADT. Taken together with the adverse effects on
+bone health of abiraterone, enzalutamide, steroids and
+223
+Ra, bone health in men with prostate cancer is an
+increasingly important issue. The FRAX® (Fracture Risk
+Assessment Tool) score to estimate the risk of fragility
+fracture is not directly applicable to such men because it
+does not include a correction speciﬁcally for use of ADT. The
+risk of fragility fracture in men on long-term ADT exceeds
+accepted intervention thresholds. Even before starting ADT,
+a large proportion of men diagnosed with prostate cancer
+have osteopaenia or osteoporosis.104
+1130
+
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+These Clinical Practice Guidelines were developed in
+accordance with the ESMO standard operating procedures
+for Clinical Practice Guidelines development (http://www.
+esmo.org/Guidelines/ESMO-Guidelines-Methodology). The
+relevant literature has been selected by the expert authors.
+An ESMO-MCBS table with ESMO-MCBS scores is included
+in supplementary Table S3, available at Annals of Oncology
+online. ESMO-MCBS v1.179 was used to calculate scores for
+new therapies/indications approved by the EMA since 1
+January 2016 (https://www.esmo.org/Guidelines/ESMOMCBS). The scores have been calculated by the ESMOMCBS Working Group and validated by the ESMO Guidelines Committee. Levels of evidence and grades of recommendation have been applied using the system shown in
+supplementary Table S4, available at Annals of Oncology
+online.106 Statements without grading were considered
+justiﬁed standard clinical practice by the experts and the
+ESMO Faculty. This manuscript has been subjected to an
+anonymous peer review process.
+ACKNOWLEDGEMENTS
+The ESMO Guidelines Committee would like to thank the
+ESMO Faculty and other experts who provided critical reviews of these ESMO Clinical Practice Guidelines.
+
+FUNDING
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+C. Parker et al.
+
+Annals of Oncology
+
+DISCLOSURE
+CP has reported honoraria from Bayer, Janssen and
+Advanced Accelerator Applications (AAA) and research
+grants from Bayer; EC has reported honoraria from Astellas,
+AstraZeneca, Bayer, Janssen and Pﬁzer and research grants
+from AstraZeneca, Bayer and Janssen; KF has reported
+participation to advisory boards/honoraria for Astellas, AAA,
+Bayer, Clovis, Curevac, Incyte, Janssen, Merck Sharp &
+Dohme, Orion, Sanoﬁ; AH has reported paid consultancy for
+Amgen, Astellas, Ferring, Ipsen, Jansen, Pﬁzer, Sanoﬁ,
+Takeda and has received research grants from Astellas and
+Sanoﬁ; PO has reported institutional honoraria from Janssen, Bayer, Ferring Pharmaceuticals for consultancy and
+research grants from Merck and Varian; GP has reported
+advisory boards/honoraria from AstraZeneca, Bayer, BristolMyers Squibb, Ipsen, Janssen, Merck Sharp & Dohme,
+Novartis and Pﬁzer; BT has reported paid consultancy for
+Amgen, Bayer, Astellas, Ferring Pharmaceuticals, Janssen,
+Sanoﬁ-Genzyme, Steba and that he is an investigator for
+Bayer, Astellas, Ferring Pharmaceuticals, Myovant Sciences,
+Janssen, Sanoﬁ-Genzyme and Steba; SG has reported advisory role (including independent data monitoring committees) and speakers bureau for AAA International, Active
+Biotech AB, Amgen, Astellas Pharma, Bayer, Bristol-Myers
+Squibb, CellSearch, Clovis, CureVac, Dendreon, ESSA
+Pharma, Ferring, Innocrin Pharmaceuticals, Janssen Cilag,
+MaxiVAX, Millenium, Nectar, Novartis, Orion, Pﬁzer, ProteoMediX, Roche, Sanoﬁ, and has reported being the coinventor for a method for biomarker discovery (on patent
+application WO 2009138392 A1, granted in China, Europe,
+Japan and the USA).
+REFERENCES
+1. Schroder FH, Hugosson J, Roobol MJ, et al. Screening and prostate
+cancer mortality: results of the European Randomised Study of
+Screening for Prostate Cancer (ERSPC) at 13 years of follow-up.
+Lancet. 2014;384:2027e2035.
+2. Vickers AJ, Ulmert D, Sjoberg DD, et al. Strategy for detection of
+prostate cancer based on relation between prostate speciﬁc antigen
+at age 40-55 and long term risk of metastasis: case-control study.
+BMJ. 2013;346:f2023.
+3. Thompson IM, Ankerst DP, Chi C, et al. Assessing prostate cancer risk:
+results from the Prostate Cancer Prevention Trial. J Natl Cancer Inst.
+2006;98:529e534.
+4. Nam RK, Toi A, Klotz LH, et al. Assessing individual risk for prostate
+cancer. J Clin Oncol. 2007;25:3582e3588.
+5. Kasivisvanathan V, Rannikko AS, Borghi M, et al. MRI-targeted or
+standard biopsy for prostate-cancer diagnosis. N Engl J Med.
+2018;378:1767e1777.
+6. Rouviere O, Puech P, Renard-Penna R, et al. Use of prostate systematic and targeted biopsy on the basis of multiparametric MRI in
+biopsy-naive patients (MRI-FIRST): a prospective, multicentre, paired
+diagnostic study. Lancet Oncol. 2019;20:100e109.
+7. Ahmed HU, El-Shater Bosaily A, Brown LC, et al. Diagnostic accuracy of
+multi-parametric MRI and TRUS biopsy in prostate cancer (PROMIS): a
+paired validating conﬁrmatory study. Lancet. 2017;389:815e822.
+8. Epstein JI, Egevad L, Amin MB, et al. The 2014 International Society of
+Urological Pathology (ISUP) Consensus Conference on Gleason grading
+of prostatic carcinoma: deﬁnition of grading patterns and proposal for
+a new grading system. Am J Surg Pathol. 2016;40:244e252.
+
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+9. Amin MB, Greene FL, Edge SB, et al. The Eighth Edition AJCC Cancer
+Staging Manual: continuing to build a bridge from a population-based
+to a more “personalized” approach to cancer staging. CA Cancer J
+Clin. 2017;67:93e99.
+10. D’Amico AV, Whittington R, Malkowicz SB, et al. Biochemical outcome
+after radical prostatectomy, external beam radiation therapy, or
+interstitial radiation therapy for clinically localized prostate cancer.
+JAMA. 1998;280:969e974.
+11. von Eyben FE, Kairemo K. Meta-analysis of (11)C-choline and (18)Fcholine PET/CT for management of patients with prostate cancer.
+Nucl Med Commun. 2014;35:221e230.
+12. Hofman MS, Lawrentschuk N, Francis RJ, et al. Prostate-speciﬁc
+membrane antigen PET-CT in patients with high-risk prostate cancer
+before curative-intent surgery or radiotherapy (proPSMA): a prospective, randomised, multicentre study. Lancet. 2020;395:1208e
+1216.
+13. Corﬁeld J, Perera M, Bolton D, Lawrentschuk N. (68)Ga-prostate
+speciﬁc membrane antigen (PSMA) positron emission tomography
+(PET) for primary staging of high-risk prostate cancer: a systematic
+review. World J Urol. 2018;36:519e527.
+14. Bruinsma SM, Bangma CH, Carroll PR, et al. Active surveillance for
+prostate cancer: a narrative review of clinical guidelines. Nat Rev
+Urol. 2016;13:151e167.
+15. Bill-Axelson A, Holmberg L, Garmo H, et al. Radical prostatectomy or
+watchful waiting in prostate cancer - 29-year follow-up. N Engl J Med.
+2018;379:2319e2329.
+16. Wilt TJ, Brawer MK, Jones KM, et al. Radical prostatectomy versus
+observation for localized prostate cancer. N Engl J Med. 2012;367:
+203e213.
+17. Hamdy FC, Donovan JL, Lane JA, et al. 10-year outcomes after
+monitoring, surgery, or radiotherapy for localized prostate cancer.
+N Engl J Med. 2016;375:1415e1424.
+18. Widmark A, Klepp O, Solberg A, et al. Endocrine treatment, with or
+without radiotherapy, in locally advanced prostate cancer (SPCG-7/
+SFUO-3): an open randomised phase III trial. Lancet. 2009;373:301e
+308.
+19. Warde P, Mason M, Ding K, et al. Combined androgen deprivation
+therapy and radiation therapy for locally advanced prostate cancer: a
+randomised, phase 3 trial. Lancet. 2011;378:2104e2111.
+20. Michalski JM, Moughan J, Purdy J, et al. Effect of standard vs doseescalated radiation therapy for patients with intermediate-risk prostate cancer: The NRG Oncology RTOG 0126 randomized clinical trial.
+JAMA Oncol. 2018;4:e180039.
+21. Dearnaley D, Syndikus I, Sumo G, et al. Conventional versus hypofractionated high-dose intensity-modulated radiotherapy for prostate
+cancer: preliminary safety results from the CHHiP randomised
+controlled trial. Lancet Oncol. 2012;13:43e54.
+22. Incrocci L, Wortel RC, Alemayehu WG, et al. Hypofractionated versus
+conventionally fractionated radiotherapy for patients with localised
+prostate cancer (HYPRO): ﬁnal efﬁcacy results from a randomised,
+multicentre, open-label, phase 3 trial. Lancet Oncol. 2016;17:1061e
+1069.
+23. Roach 3rd M, Bae K, Speight J, et al. Short-term neoadjuvant
+androgen deprivation therapy and external-beam radiotherapy for
+locally advanced prostate cancer: long-term results of RTOG 8610.
+J Clin Oncol. 2008;26:585e591.
+24. Zumsteg ZS, Spratt DE, Pei I, et al. A new risk classiﬁcation system for
+therapeutic decision making with intermediate-risk prostate cancer
+patients undergoing dose-escalated external-beam radiation therapy.
+Eur Urol. 2013;64:895e902.
+25. Hanks GE, Pajak TF, Porter A, et al. Phase III trial of long-term adjuvant androgen deprivation after neoadjuvant hormonal cytoreduction and radiotherapy in locally advanced carcinoma of the
+prostate: the Radiation Therapy Oncology Group Protocol 92-02.
+J Clin Oncol. 2003;21:3972e3978.
+26. Bolla M, de Reijke TM, Van Tienhoven G, et al. Duration of androgen
+suppression in the treatment of prostate cancer. N Engl J Med.
+2009;360:2516e2527.
+
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+1131
+
+C. Parker et al.
+
+Annals of Oncology
+27. Nabid A, Carrier N, Martin AG, et al. Duration of androgen deprivation therapy in high-risk prostate cancer: a randomized phase III trial.
+Eur Urol. 2018;74:432e441.
+28. Abdollah F, Karnes RJ, Suardi N, et al. Impact of adjuvant radiotherapy on survival of patients with node-positive prostate cancer.
+J Clin Oncol. 2014;32:3939e3947.
+29. Fizazi K, Faivre L, Lesaunier F, et al. Androgen deprivation therapy
+plus docetaxel and estramustine versus androgen deprivation therapy
+alone for high-risk localised prostate cancer (GETUG 12): a phase 3
+randomised controlled trial. Lancet Oncol. 2015;16:787e794.
+30. Fizazi KFL, Lesaunier F, Delva R, et al. Updated results of GETUG-12, a
+phase 3 trial of docetaxel-based chemotherapy in high-risk localized
+prostate cancer, with a 12-year follow-up. Ann Oncol. 2018;29(Suppl
+8): abstr. 791O.
+31. Sandler HHC, Rosenthal SA, Sarthor O, et al. A phase III protocol of
+androgen suppression (AS) and 3DCRT/IMRT versus AS and 3DCRT/
+IMRT followed by chemotherapy (CT) with docetaxel and prednisone
+for localized, high-risk prostate cancer. J Clin Oncol. 2015;33:LBA5002.
+32. James ND, Sydes MR, Clarke NW, et al. Addition of docetaxel, zoledronic acid, or both to ﬁrst-line long-term hormone therapy in
+prostate cancer (STAMPEDE): survival results from an adaptive,
+multiarm, multistage, platform randomised controlled trial. Lancet.
+2016;387:1163e1177.
+33. Vale CL, Burdett S, Rydzewska LHM, et al. Addition of docetaxel or
+bisphosphonates to standard of care in men with localised or metastatic, hormone-sensitive prostate cancer: a systematic review and
+meta-analyses of aggregate data. Lancet Oncol. 2016;17:243e256.
+34. Ahlgren G, Flodgren P, Tammela TIJ, et al. A randomized phase III trial
+between adjuvant docetaxel and surveillance after radical prostatectomy for high risk prostate cancer. J Clin Oncol. 2016;34:5001.
+35. Kellokumpu-Lehtinen, P-LI, Hjälm-Eriksson M, Astrom L, et al. A
+randomized phase III trial between adjuvant docetaxel and surveillance after radical radiotherapy for intermediate and high risk prostate cancer: Results of SPCG-13 trial. J Clin Oncol. 2018;36:5000.
+36. Lin D, Garzotto M, Aronson W, et al. VA CSP#553 chemotherapy after
+prostatectomy (cap) for high risk prostate carcinoma: a phase III
+randomized study. J Urol. 2016;195:e1071.
+37. Wiegel T, Bottke D, Steiner U, et al. Phase III postoperative adjuvant
+radiotherapy after radical prostatectomy compared with radical
+prostatectomy alone in pT3 prostate cancer with postoperative undetectable prostate-speciﬁc antigen: ARO 96-02/AUO AP 09/95. J Clin
+Oncol. 2009;27:2924e2930.
+38. Van den Broeck T, van den Bergh RCN, Arﬁ N, et al. Prognostic value
+of biochemical recurrence following treatment with curative intent
+for prostate cancer: a systematic review. Eur Urol. 2019;75:967e987.
+39. Shipley WU, Seiferheld W, Lukka HR, et al. Radiation with or without
+antiandrogen therapy in recurrent prostate cancer. N Engl J Med.
+2017;376:417e428.
+40. Carrie C, Magné N, Burban-Provost P, et al. Interest of short hormonotherapy (HT) associated with radiotherapy (RT) as salvage
+treatment for metastatic free survival (MFS) after radical prostatectomy (RP): Update at 9 years of the GETUG-AFU 16 phase III randomized trial (NCT00423475). J Clin Oncol. 2019;37:5001.
+41. Pollack A, Karrison TG, Balogh AG, et al. Short term androgen
+deprivation therapy without or with pelvic lymph node treatment
+added to prostate bed only salvage radiotherapy: the NRG
+Oncology/RTOG 0534 SPPORT trial. Int J Radiat Oncol Biol Phys.
+2018;102:1605.
+42. Perera M, Papa N, Roberts M, et al. Gallium-68 prostate-speciﬁc
+membrane antigen positron emission tomography in advanced
+prostate cancer-updated diagnostic utility, sensitivity, speciﬁcity, and
+distribution of prostate-speciﬁc membrane antigen-avid lesions: a
+systematic review and meta-analysis. Eur Urol. 2020;77:403e417.
+43. Zumsteg ZS, Spratt DE, Romesser PB, et al. The natural history and
+predictors of outcome following biochemical relapse in the dose
+escalation era for prostate cancer patients undergoing deﬁnitive
+external beam radiotherapy. Eur Urol. 2015;67:1009e1016.
+44. Philippou Y, Parker RA, Volanis D, Gnanapragasam VJ. Comparative
+oncologic and toxicity outcomes of salvage radical prostatectomy
+
+1132
+
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+45.
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+60.
+
+61.
+
+62.
+
+63.
+
+versus nonsurgical therapies for radiorecurrent prostate cancer: a
+meta-regression analysis. Eur Urol Focus. 2016;2:158e171.
+Weichselbaum RR, Hellman S. Oligometastases revisited. Nat Rev Clin
+Oncol. 2011;8:378e382.
+Kothari G, Ost P, Cheung P, et al. Trends in management of oligometastatic hormone-sensitive prostate cancer. Curr Oncol Rep.
+2019;21:43.
+Ost P, Reynders D, Decaestecker K, et al. Surveillance or metastasisdirected therapy for oligometastatic prostate cancer recurrence: a
+prospective, randomized, multicenter phase II trial. J Clin Oncol.
+2018;36:446e453.
+Palma DA, Olson R, Harrow S, et al. Stereotactic ablative radiotherapy
+versus standard of care palliative treatment in patients with oligometastatic cancers (SABR-COMET): a randomised, phase 2, open-label
+trial. Lancet. 2019;393:2051e2058.
+Duchesne GM, Woo HH, Bassett JK, et al. Timing of
+androgen-deprivation therapy in patients with prostate cancer with a
+rising PSA (TROG 03.06 and VCOG PR 01-03 [TOAD]): a randomised,
+multicentre, non-blinded, phase 3 trial. Lancet Oncol. 2016;17:727e
+737.
+Loblaw DA, Perry J, Chambers A, Laperriere NJ. Systematic review of
+the diagnosis and management of malignant extradural spinal cord
+compression: the Cancer Care Ontario Practice Guidelines Initiative’s
+Neuro-Oncology Disease Site Group. J Clin Oncol. 2005;23:2028e
+2037.
+Crook JM, O’Callaghan CJ, Duncan G, et al. Intermittent androgen
+suppression for rising PSA level after radiotherapy. N Engl J Med.
+2012;367:895e903.
+Sweeney CJ, Chen YH, Carducci M, et al. Chemohormonal therapy in
+metastatic hormone-sensitive prostate cancer. N Engl J Med.
+2015;373:737e746.
+Gravis G, Fizazi K, Joly F, et al. Androgen-deprivation therapy alone or
+with docetaxel in non-castrate metastatic prostate cancer (GETUGAFU 15): a randomised, open-label, phase 3 trial. Lancet Oncol.
+2013;14:149e158.
+Kyriakopoulos CE, Chen YH, Carducci MA, et al. Chemohormonal
+therapy in metastatic hormone-sensitive prostate cancer: long-term
+survival analysis of the randomized phase III E3805 CHAARTED trial.
+J Clin Oncol. 2018;36:1080e1087.
+Tucci M, Bertaglia V, Vignani F, et al. Addition of docetaxel to
+androgen deprivation therapy for patients with hormone-sensitive
+metastatic prostate cancer: a systematic review and meta-analysis.
+Eur Urol. 2016;69:563e573.
+Fizazi K, Tran N, Fein L, et al. Abiraterone plus prednisone in metastatic, castration-sensitive prostate cancer. N Engl J Med. 2017;377:
+352e360.
+James ND, de Bono JS, Spears MR, et al. Abiraterone for prostate
+cancer not previously treated with hormone therapy. N Engl J Med.
+2017;377:338e351.
+Fizazi K, Tran N, Fein L, et al. Abiraterone acetate plus prednisone in
+patients with newly diagnosed high-risk metastatic castrationsensitive prostate cancer (LATITUDE): ﬁnal overall survival analysis
+of a randomised, double-blind, phase 3 trial. Lancet Oncol. 2019;20:
+686e700.
+Chi KN, Agarwal N, Bjartell A, et al. Apalutamide for metastatic,
+castration-sensitive prostate cancer. N Engl J Med. 2019;381:13e24.
+Armstrong AJ, Szmulewitz RZ, Petrylak DP, et al. ARCHES: a randomized, phase III study of androgen deprivation therapy with
+enzalutamide or placebo in men with metastatic hormone-sensitive
+prostate cancer. J Clin Oncol. 2019;37:2974e2986.
+Davis ID, Martin AJ, Stockler MR, et al. Enzalutamide with standard
+ﬁrst-line therapy in metastatic prostate cancer. N Engl J Med.
+2019;381:121e131.
+Vale CL, Fisher D, White IR, et al. What is the optimal systemic
+treatment of men with metastatic, hormone-naive prostate cancer? A
+STOPCAP systematic review and network meta-analysis. Ann Oncol.
+2018;29:1249e1257.
+Feyerabend S, Saad F, Li T, et al. Survival beneﬁt, disease progression
+and quality-of-life outcomes of abiraterone acetate plus prednisone
+
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+C. Parker et al.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+79.
+80.
+
+81.
+
+82.
+
+Annals of Oncology
+
+versus docetaxel in metastatic hormone-sensitive prostate cancer: a
+network meta-analysis. Eur J Cancer. 2018;103:78e87.
+Boeve LMS, Hulshof M, Vis AN, et al. Effect on survival of androgen
+deprivation therapy alone compared to androgen deprivation therapy
+combined with concurrent radiation therapy to the prostate in patients with primary bone metastatic prostate cancer in a prospective
+randomised clinical trial: data from the HORRAD trial. Eur Urol.
+2019;75:410e418.
+Parker CC, James ND, Brawley CD, et al. Radiotherapy to the primary
+tumour for newly diagnosed, metastatic prostate cancer (STAMPEDE):
+a randomised controlled phase 3 trial. Lancet. 2018;392:2353e2366.
+Coleman R, Hadji P, Body JJ, et al. Bone health in cancer patients: ESMO
+Clinical Practice Guidelines. Ann Oncol. 2020. https://doi.org/10.1016/
+j.annonc.2020.07.019.
+Cornford P, Bellmunt J, Bolla M, et al. EAU-ESTRO-SIOG Guidelines on
+Prostate Cancer. Part II: treatment of relapsing, metastatic, and
+castration-resistant prostate cancer. Eur Urol. 2017;71:630e642.
+Smith MR, Saad F, Chowdhury S, et al. Apalutamide treatment and
+metastasis-free survival in prostate cancer. N Engl J Med. 2018;378:
+1408e1418.
+Hussain M, Fizazi K, Saad F, et al. Enzalutamide in men with nonmetastatic, castration-resistant prostate cancer. N Engl J Med.
+2018;378:2465e2474.
+Fizazi K, Shore N, Tammela TL, et al. Darolutamide in nonmetastatic,
+castration-resistant prostate cancer. N Engl J Med. 2019;380:1235e
+1246.
+Storlie JA, Buckner JC, Wiseman GA, et al. Prostate speciﬁc antigen
+levels and clinical response to low dose dexamethasone for hormonerefractory metastatic prostate carcinoma. Cancer. 1995;76:96e100.
+Venkitaraman R, Lorente D, Murthy V, et al. A randomised phase 2
+trial of dexamethasone versus prednisolone in castration-resistant
+prostate cancer. Eur Urol. 2015;67:673e679.
+Ryan CJ, Smith MR, Fizazi K, et al. Abiraterone acetate plus prednisone versus placebo plus prednisone in chemotherapy-naive men
+with metastatic castration-resistant prostate cancer (COU-AA-302):
+ﬁnal overall survival analysis of a randomised, double-blind, placebocontrolled phase 3 study. Lancet Oncol. 2015;16:152e160.
+Szmulewitz RZ, Peer CJ, Ibraheem A, et al. Prospective international
+randomized phase ii study of low-dose abiraterone with food versus
+standard dose abiraterone in castration-resistant prostate cancer.
+J Clin Oncol. 2018;36:1389e1395.
+Beer TM, Armstrong AJ, Rathkopf DE, et al. Enzalutamide in metastatic prostate cancer before chemotherapy. N Engl J Med. 2014;371:
+424e433.
+Tannock IF, de Wit R, Berry WR, et al. Docetaxel plus prednisone or
+mitoxantrone plus prednisone for advanced prostate cancer. N Engl J
+Med. 2004;351:1502e1512.
+Petrylak DP, Tangen CM, Hussain MH, et al. Docetaxel and estramustine compared with mitoxantrone and prednisone for advanced
+refractory prostate cancer. N Engl J Med. 2004;351:1513e1520.
+Parker C, Nilsson S, Heinrich D, et al. Alpha emitter radium-223 and
+survival in metastatic prostate cancer. N Engl J Med. 2013;369:213e223.
+Cherny NI, Dafni U, Bogaerts J, et al. ESMO-Magnitude of Clinical
+Beneﬁt Scale version 1.1. Ann Oncol. 2017;28:2340e2366.
+Smith M, Parker C, Saad F, et al. Addition of radium-223 to abiraterone acetate and prednisone or prednisolone in patients with
+castration-resistant prostate cancer and bone metastases (ERA 223):
+a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet
+Oncol. 2019;20:408e419.
+EMA restricts use of prostate cancer medicine Xoﬁgo. 2018. Available
+at https://www.ema.europa.eu/en/documents/referral/xoﬁgo-article20-procedure-ema-restricts-use-prostate-cancer-medicine-xoﬁgo_en-0.
+pdf. Accessed July 10, 2020.
+de Bono JS, Oudard S, Ozguroglu M, et al. Prednisone plus cabazitaxel
+or mitoxantrone for metastatic castration-resistant prostate cancer
+progressing after docetaxel treatment: a randomised open-label trial.
+Lancet. 2010;376:1147e1154.
+
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+83. de Bono JS, Logothetis CJ, Molina A, et al. Abiraterone and increased
+survival in metastatic prostate cancer. N Engl J Med. 2011;364:1995e
+2005.
+84. Scher HI, Fizazi K, Saad F, et al. Increased survival with enzalutamide
+in prostate cancer after chemotherapy. N Engl J Med. 2012;367:
+1187e1197.
+85. Khalaf DJ, Annala M, Taavitsainen S, et al. Optimal sequencing of
+enzalutamide and abiraterone acetate plus prednisone in metastatic
+castration-resistant prostate cancer: a multicentre, randomised,
+open-label, phase 2, crossover trial. Lancet Oncol. 2019;20:1730e
+1739.
+86. de Wit R, de Bono J, Sternberg CN, et al. Cabazitaxel versus abiraterone or enzalutamide in metastatic prostate cancer. N Engl J Med.
+2019;381:2506e2518.
+87. Cuzick J, Swanson GP, Fisher G, et al. Prognostic value of an RNA
+expression signature derived from cell cycle proliferation genes in
+patients with prostate cancer: a retrospective study. Lancet Oncol.
+2011;12:245e255.
+88. Zhao SG, Chang SL, Spratt DE, et al. Development and validation of a
+24-gene predictor of response to postoperative radiotherapy in
+prostate cancer: a matched, retrospective analysis. Lancet Oncol.
+2016;17:1612e1620.
+89. Antonarakis ES, Lu C, Wang H, et al. AR-V7 and resistance to enzalutamide and abiraterone in prostate cancer. N Engl J Med. 2014;371:
+1028e1038.
+90. Armstrong AJ, Halabi S, Luo J, et al. Prospective multicenter validation
+of androgen receptor splice variant 7 and hormone therapy resistance in high-risk castration-resistant prostate cancer: the PROPHECY
+study. J Clin Oncol. 2019;37:1120e1129.
+91. Robinson D, Van Allen EM, Wu YM, et al. Integrative clinical genomics
+of advanced prostate cancer. Cell. 2015;161:1215e1228.
+92. Castro E, Goh C, Olmos D, et al. Germline BRCA mutations are
+associated with higher risk of nodal involvement, distant metastasis,
+and poor survival outcomes in prostate cancer. J Clin Oncol. 2013;31:
+1748e1757.
+93. Pritchard CC, Mateo J, Walsh MF, et al. Inherited DNA-repair gene
+mutations in men with metastatic prostate cancer. N Engl J Med.
+2016;375:443e453.
+94. Giri VN, Knudsen KE, Kelly WK, et al. Role of genetic testing for
+inherited prostate cancer risk: Philadelphia Prostate Cancer
+Consensus Conference 2017. J Clin Oncol. 2018;36:414e424.
+95. Mandelker D, Donoghue MTA, Talukdar S, et al. Germline-focused
+analysis of tumour-only sequencing: recommendations from the
+ESMO Precision Medicine Working Group. Ann Oncol. 2019;30:1221e
+1231.
+96. Mateo J, Carreira S, Sandhu S, et al. DNA-repair defects and olaparib
+in metastatic prostate cancer. N Engl J Med. 2015;373:1697e1708.
+97. Le DT, Durham JN, Smith KN, et al. Mismatch repair deﬁciency predicts response of solid tumors to PD-1 blockade. Science. 2017;357:
+409e413.
+98. Abida W, Cheng ML, Armenia J, et al. Analysis of the prevalence of
+microsatellite instability in prostate cancer and response to immune
+checkpoint blockade. JAMA Oncol. 2019;5:471e478.
+99. de Bono J, Mateo J, Fizazi K, et al. Olaparib for metastatic castrationresistant prostate cancer. N Engl J Med. 2020;382:2091e2102.
+100. Chow E, Harris K, Fan G, et al. Palliative radiotherapy trials for bone
+metastases: a systematic review. J Clin Oncol. 2007;25:1423e1436.
+101. Nguyen QN, Chun SG, Chow E, et al. Single-fraction stereotactic vs
+conventional multifraction radiotherapy for pain relief in patients
+with predominantly nonspine bone metastases: a randomized phase
+2 trial. JAMA Oncol. 2019;5:872e878.
+102. Saad F, Gleason DM, Murray R, et al. Long-term efﬁcacy of zoledronic
+acid for the prevention of skeletal complications in patients with
+metastatic hormone-refractory prostate cancer. J Natl Cancer Inst.
+2004;96:879e882.
+103. Fizazi K, Carducci M, Smith M, et al. Denosumab versus zoledronic
+acid for treatment of bone metastases in men with castration-
+
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+1133
+
+C. Parker et al.
+
+Annals of Oncology
+resistant prostate cancer: a randomised, double-blind study. Lancet.
+2011;377:813e822.
+104. Bultijnck R, Van de Caveye I, Rammant E, et al. Clinical pathway improves implementation of evidence-based strategies for the management of androgen deprivation therapy-induced side effects in
+men with prostate cancer. BJU Int. 2018;121:610e618.
+105. Liberman UA, Weiss SR, Broll J, et al. Effect of oral alendronate
+on bone mineral density and the incidence of fractures in
+
+1134
+
+https://doi.org/10.1016/j.annonc.2020.06.011
+
+postmenopausal osteoporosis. The Alendronate Phase III Osteoporosis Treatment Study Group. N Engl J Med. 1995;333:1437e
+1443.
+106. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis. 2001;33:139e144 (Adapted from: Gross PA, Barrett TL,
+Dellinger EP, et al. Purpose of quality standards for infectious diseases. Clin Infect Dis. 1994;18:421).
+
+Volume 31
+
+-
+
+Issue 9
+
+-
+
+2020
+
+

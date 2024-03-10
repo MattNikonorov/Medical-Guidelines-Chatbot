@@ -1,0 +1,2884 @@
+SPECIAL ARTICLE
+
+Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis,
+treatment and follow-up5
+A. Cervantes1,2, R. Adam3, S. Roselló1,2, D. Arnold4, N. Normanno5, J. Taïeb6,7, J. Seligmann8, T. De Baere9,10,11,
+P. Osterlund12,13, T. Yoshino14 & E. Martinelli15, on behalf of the ESMO Guidelines Committee*
+1
+
+Department of Medical Oncology, INCLIVA Biomedical Research Institute, University of Valencia, Valencia; 2CIBERONC, Instituto de Salud Carlos III, Madrid, Spain;
+AP-HP Hôpital Paul Brousse, Université Paris-Saclay, ER “Chronothérapie, Cancers, Transplantation”, Villejuif, France; 4Department of Oncology and Hematology,
+Asklepios Tumourzentrum Hamburg, AK Altona, Hamburg, Germany; 5Cell Biology and Biotherapy Unit, Istituto Nazionale Tumouri, ‘Fondazione G. Pascale’dIRCCS,
+Naples, Italy; 6Department of Gastroenterology and GI Oncology, Georges Pompidou European Hospital, Assitance Publique-Hôpitaux de Paris AP-HP Paris Centre,
+Paris; 7Paris Cancer Institute SIRIC CARPEM, Centre de Recherche des Cordeliers, Université Paris-Cité, Paris, France; 8Leeds Institute of Medical Research at St James’s,
+University of Leeds, Leeds, UK; 9Department of Interventional Radiology, Gustave Roussy, Villejuif; 10University of Paris-Saclay, UFR Médecine Le Kremlin-Bicêtre, Le
+Kremlin-Bicêtre; 11Centre d’Investigation Clinique BIOTHERIS, INSERM CIC1428, Villejuif, France; 12Tampere University Hospitals and University, Tampere, Finland;
+13
+Tema Cancer/GI-oncology, Karolinska Comprehensive Cancer Centre, Karolinska Institute, Solna, Sweden; 14Department of Gastroenterology and Gastrointestinal
+Oncology, National Cancer Center Hospital East, Kashiwa, Japan; 15Department of Precision Medicine, Oncology Unit, Università della Campania “L. Vanvitelli”, Naples,
+Italy
+3
+
+Available online 25 October 2022
+
+Key words: metastatic colorectal cancer, Clinical Practice Guidelines, diagnosis, treatment, follow-up
+
+INCIDENCE AND EPIDEMIOLOGY
+Colorectal cancer (CRC) is the third most common cancer
+worldwide, with 1.1 million new cases per year, and is the
+second leading cause of cancer death.1 CRC occurs more
+frequently in middle- to high-income countries with an
+eightfold variation in incidence across the world. This rise
+may be associated with known risk factors, including
+alcohol intake, tobacco use, obesity, sedentariness and
+dietary patterns (diets low in fruits, vegetables and unreﬁned plant food, and high in red meat, processed foods and
+fat).1,2
+In Europe in 2018, CRC accounted for the second highest
+number of cancer deaths. However, mortality has declined
+since 2012.2 In middle- to high-income countries this reﬂects screening and early detection programmes, better
+therapeutic approaches (systemic therapies, biomarkerguided integration of biologicals, resection of metastases
+and local ablative therapies), allowing more patients the
+opportunity of prolonged disease control, and even cure.
+Approximately 15%-30% of patients present with metastases, and 20%-50% of patients with initially localised
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5
+Note: Approved by the ESMO Guidelines Committee: April 2002, last update November 2002. This publication supersedes the previously published
+versiondAnn Oncol. 2014;25(suppl 3):iii1-iii9.
+0923-7534/© 2022 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+10
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+disease will develop metastases. The most common location
+of metastases being liver, then lung, peritoneum and distant
+lymph nodes.
+This European Society for Medical Oncology (ESMO)
+Guideline describes improvements in diagnosis, staging
+and treatment of metastatic CRC (mCRC) patients, which
+have contributed to the current ‘state-of-the-art’ treatment approaches, and provides guidance for the
+comprehensive management of patients with mCRC.
+DIAGNOSIS, PATHOLOGY AND MOLECULAR BIOLOGY
+A clinical or biological suspicion of mCRC should always be
+conﬁrmed by adequate radiological imaging and histology
+of the primary tumour or metastases before the administration of any therapy.
+Tissue handling procedures should be optimised to allow
+biomarker testing. Fixation with 10% neutral buffered
+formalin (4% formaldehyde) for no less than 6 h and no
+more than 48 h is recommended. The primary pathologist
+should review all available tumour specimens and enrich
+samples by macro-dissection to maximise tumour cell content (>20%) before DNA extraction.
+Supplementary Table S1, available at https://doi.org/10.
+1016/j.annonc.2022.10.003, describes biomarkers and molecular targets for precision medicines and corresponding
+ESMO Scale for Clinical Actionability of molecular Targets
+(ESCAT) scores. Testing for mismatch repair (MMR) status
+and KRAS, NRAS exon 2, 3 and 4 as well as BRAF mutations
+is recommended in all patients at the time of mCRC
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+diagnosis, due to its relevance in selecting ﬁrst-line therapy.
+This can be carried out on either the primary tumour or any
+metastatic site, with a suggested turnaround of 10 days.
+As these mutations are negative predictive factors for the
+use of anti-epidermal growth factor receptor (EGFR)
+monoclonal antibodies (mAbs), RAS testing is mandatory
+before this treatment is initiated.3-5 Laboratories providing
+RAS testing should demonstrate successful participation in a
+relevant external quality assessment scheme. In situations
+where adequate tissue is not available, exclusion of a RAS
+mutation status can be conducted by analysing plasmaderived cell-free DNA.6-8
+BRAF V600E mutation is a strong negative prognostic
+factor in mCRC. BRAF mutation status should be assessed
+simultaneously with RAS testing for prognostication. Additionally, treatment with cetuximabeencorafenib has shown
+better response, progression-free survival (PFS) and overall
+survival (OS) than treatment with irinotecanecetuximab in
+BRAF V600E-mutant mCRC in second- and third-line treatment.9 Non-V600E class III BRAF mutations are not associated with a worse prognosis, while the role of class II
+mutations remains unclear.10
+Deﬁcient mismatch repair (dMMR)/microsatellite instability (MSI) testing in mCRC can assist clinicians with genetic
+counselling, including for identiﬁcation of Lynch syndrome,
+and should be done to select patients for immune checkpoint
+inhibition (ICI) as part of the initial molecular work-up.11-13
+Identiﬁcation of human epidermal growth factor receptor
+2 (HER2) ampliﬁcation by immunohistochemistry (IHC) or
+FISH is recommended in RAS wild-type (wt) patients to
+detect those who may beneﬁt from HER2 blockade.14 For
+practical reasons, this could be done with the initial molecular tests, but anti-HER2 inhibition is only recommended
+in second and further lines. Therefore, the HER2 ampliﬁcation will only inﬂuence a treatment plan after at least ﬁrstline progression.
+Testing of other biomarkers including ALK and ROS1 gene
+fusions, mutations of PIK3CA and HER2 activating mutations
+is not (yet) recommended outside clinical trials. NTRK fusions are extremely uncommon in mCRC with an incidence
+of <0.5%; however, testing is recommended when feasible.
+Screening for NTRK fusions can be carried out by IHC,
+followed by conﬁrmation with next generation sequencing.
+Most NTRK-rearranged tumours are located in the right
+colon and are frequently MSI-high (MSI-H). NTRK testing
+could be done at any time but will only inﬂuence treatment
+decisions after progression on at least two lines of
+treatment. In the rare event of an NTRK fusion detected
+after a comprehensive genomic analysis, including RNA,
+treatment with larotrectinib or entrectinib is recommended.15-18
+As ﬂuoropyrimidines [e.g. 5-ﬂuorouracil (5-FU) and
+capecitabine] are utilised in most mCRC patients, testing for
+dihydropyrimidine dehydrogenase (DPD) deﬁciency should
+be conducted before initiating these drugs; please refer to
+the ESMO Clinical Practice Guideline (CPG) on localised
+colon cancer for further guidance.19 For triﬂuridinee
+tipiracil, DPD testing is not required.
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+Recommendations
+ For biomarker testing, ﬁxation with 10% neutral buffered formalin (4% formaldehyde) for no less than 6 h
+and no more than 48 h is recommended [V, A].
+ The primary pathologist should review all available
+tumour specimens and enrich samples by macrodissection to maximise tumour cell content (>20%)
+before DNA extraction [IV, A].
+ Testing for MMR status and KRAS, NRAS exon 2, 3 and 4
+and BRAF mutations is recommended in all patients at
+the time of mCRC diagnosis [I, A].
+ RAS testing is mandatory before treatment with antiEGFR mAbs and can be carried out on either the primary
+tumour or other metastatic sites [III, A].
+ BRAF mutation status should be assessed simultaneously with the evaluation of RAS, for prognostic
+assessment [I, B] and for the option of treatment with
+cetuximabeencorafenib [I, A].
+ dMMR/MSI testing in mCRC can assist in genetic
+counselling for Lynch syndrome [II, B].
+ dMMR/MSI status is also recommended as the initial
+molecular work-up in metastatic disease for its predictive value for the use of ICIs [I, A].
+ Identiﬁcation of HER2 ampliﬁcation by IHC or FISH is
+recommended in RAS-wt patients to detect those who
+may beneﬁt from HER2 blockade [III, B].
+ Testing of other biomarkers including ALK and ROS1 gene
+fusions, mutations of PIK3CA and HER2 activating mutations is not recommended outside clinical trials [IV, D].
+ In the rare event that an NTRK fusion is detected by IHC
+and/or comprehensive genomic analysis, treatment with
+larotrectinib or entrectinib is recommended [III, A].
+ Testing for DPD deﬁciency has to be conducted before
+initiating 5-FU-based chemotherapy (ChT) [III, A].
+
+STAGING AND RISK ASSESSMENT
+After diagnosis of mCRC, apart from a complete medical
+history and physical examination, a complete blood count
+and biochemical laboratory testing should be carried out,
+including carcinoembryonic antigen (CEA) and, optionally,
+carbohydrate antigen (CA 19-9) levels.
+Staging is carried out primarily with imaging techniques,
+usually contrast-enhanced computed tomography (CT) of
+the thorax, abdomen and pelvis. Valuable additions are
+abdominopelvic ultrasonography, preferably with speciﬁc
+contrast enhancers, or magnetic resonance imaging (MRI).
+MRI is the preferred choice in case of colorectal liver metastases (CRLMs) amenable to local treatment (LT), to
+accurately deﬁne the number and location of metastases.20
+The same radiological technique should be used at baseline
+and for response assessment after therapy. An [18F]2-ﬂuoro2-deoxy-D-glucoseepositron emission tomography (FDGe
+PET) scan can be useful, particularly in patients with
+increased tumour markers without evidence of metastatic
+disease, or to deﬁne the extent of metastatic disease on
+potentially resectable metastases.
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+11
+
+A. Cervantes et al.
+
+Annals of Oncology
+At mCRC diagnosis different risk factors should be
+considered. Patients with a higher Eastern Cooperative
+Oncology Group performance status (PS) have worse
+prognosis, which can be due to advanced disease stage at
+diagnosis and/or because they are unﬁt for active
+treatment.21
+Proximal colon tumours located before the splenic ﬂexure
+have different embryological origins and patterns of molecular characteristics compared with distal tumours.22
+Proximal tumours are more frequently mucinous, associated with an inﬂammatory response, with dMMR/MSI-H
+and hypermutated, with a higher frequency of KRAS and
+BRAF mutations.23 In contrast, distal colon tumours more
+frequently have chromosomal alterations, ampliﬁcation of
+EGFR and HER2 genes and aberrant EGFR signalling. In
+mCRC, patients with proximal colon tumours have a worse
+prognosis, independently of the applied treatments.
+Resection of the primary tumour is sometimes necessary
+because of obstructive symptoms or bleeding; however,
+when asymptomatic it is not recommended in unresectable
+metastatic disease. Although data from retrospective
+studies recommend resection of the primary tumour,24-26
+randomised trials speciﬁcally addressing this could not
+conﬁrm survival advantage in patients with synchronous
+unresectable metastases.27,28
+The role of multidisciplinary teams and tumour boards in
+the assessment of mCRC patients
+Improved clinical outcomes are seen when treatment approaches for individual mCRC patients are discussed within
+a multidisciplinary team (MDT) of experts who meet regularly to review mCRC cases.29 The core MDT should include
+representation from medical oncology, pathology, diagnostic radiology, radiation oncology, colorectal and hepatobiliary surgery, gastroenterology and stomatherapy
+(Supplementary Table S2, available at https://doi.org/10.
+1016/j.annonc.2022.10.003). Further expertise may be
+required from surgeons with peritoneal metastasis expertise, thoracic surgeons, interventional radiologists and nuclear medicine specialists. If not available in a local MDT, an
+established referral route should exist with a specialised
+cancer centre (virtual MDTs) to ensure equity of access to
+optimal care.30
+The MDT has an ongoing role throughout the mCRC
+patient pathway, initially to review the diagnostic work-up
+to deﬁne whether or not a patient has clearly resectable
+or unresectable metastatic disease and to consider management of the primary tumour.31,32 Patients deﬁned as
+initially unresectable could have a second reassessment of
+resectability, preferably within 2-3 months of starting
+therapy, as proposed by an expert consensus.33
+Conversely, when disease is deemed ‘never to be resectable’, subsequent discussions may be managed by the
+treating medical oncologist and patient regarding pros
+and cons of various approaches and sequences, based on
+the perceived aims.
+12
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+Recommendations
+ Staging is carried out primarily with imaging techniques,
+such as a contrast-enhanced CT of the thorax, abdomen
+and pelvis [IV, A].
+ A liver MRI is recommended to characterise non-typical
+liver lesions on CT scans or when liver metastases
+seem resectable or potentially resectable [IV, A].
+ An FDGePET scan can be useful, particularly in patients
+with increased tumour markers without evidence of metastatic disease, or to deﬁne the extent of metastatic disease on potentially resectable metastases [IV, B].
+ Resection of an asymptomatic primary tumour in patients with unresectable metastatic disease cannot be
+recommended as standard of care [I, D].
+MANAGEMENT OF RESECTABLE/POTENTIALLY RESECTABLE
+DISEASE
+Treatment of potentially resectable mCRC
+Surgical resection of R0-resectable (resectable, leaving no
+tumour at the margin) CRLMs is a potentially curative
+treatment, with reported 5-year survival rates of 20%-45%.
+The criteria for R0-resectability of CRLMs depend on technical and oncological (prognostic) criteria and on the
+experience of the MDT.
+Technically, resectability is not limited by number, size or
+bilobar metastatic involvement, if tumours may be resected
+leaving sufﬁcient remnant organ (e.g. 30% remnant liver).
+Other ablative techniques, such as thermal ablation (TA) or
+stereotactic body radiotherapy (SBRT), may be added to
+surgery to achieve a complete treatment or provide an
+alternative to resection if inoperable due to frailty or poor
+anatomical location for resection.
+‘Oncological’ criteria concern prognostic factors that
+impact disease-free survival (DFS) or the likelihood of cure.
+Characteristics including onset of metastatic disease (synchronous versus metachronous), clinical aggressiveness of
+the tumour as well as concomitant extrahepatic disease
+could lead to the recommendation of a neoadjuvant strategy instead of upfront surgery to get ‘the proof of time’ for
+a well-controlled disease and are seen as relevant factors.
+Indeed, up to 55%-80% of patients will experience relapse
+following metastatic resection, the majority occurring in the
+resected organ. Biological determinants including RAS, BRAF
+or dMMR/MSI mutational status may also inﬂuence treatment strategy. Despite the recognised poor prognosis in
+some cohorts, patients with BRAF-mutant mCRC who underwent R0 resection of all metastatic lesions had comparable outcomes to their BRAF-wt counterparts. Despite
+limited evidence, the exclusion of these patients from a
+potentially curative approach does not seem justiﬁed.
+With very favourable prognostic criteria and a good
+technical resectability, perioperative systemic treatment
+may not be needed. Conversely, unfavourable criteria
+mandate the use of ‘best systemic treatment’ options. In
+patients with an unclear prognostic situation, systemic
+
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+treatment should be initiated to gain more prognostic insights by observation. The use of perioperative leucovorin
+(LV)e5-FUeoxaliplatin (FOLFOX) ChT, 3 months pre- and
+post-operatively in patients with technically ‘easy-to-resect’
+resectable CRLMs but with negative prognostic factors, has
+been positively proven and can be considered as a standard
+of care in this circumstance (EORTC 40983 trial).34,35
+Most patients have metastatic disease that is not initially
+suitable for potentially curative resection. It is, however,
+important to select patients with resectable metastases and
+those with initially unresectable disease in whom resection
+may be possible after a major response with systemic
+therapy. The aim of treatment here should be to convert
+initially unresectable disease to resectable. Median survival
+rates after resection are two- to threefold higher than in
+patients treated with systemic therapy alone, with a potential of cure.32
+Resection of lung metastases offers 25%-35% 5-year
+survival rates in carefully selected patients. Resection of
+lung metastases in conjunction with resection of CRLMs has
+also shown survival beneﬁt.34,36
+In selected patients with limited peritoneal metastasis,
+complete cytoreductive surgery and hyperthermic intraperitoneal ChT (HIPEC) may provide prolonged survival
+when carried out in experienced high-volume centres (in
+view of the relatively high morbidity associated with the
+procedure).37-39 This observation, however, has not been
+conﬁrmed in randomised, phase III trials and therefore
+cannot be recommended as standard of care. A recent
+phase III trial (PRODIGE 7) has failed to show the added
+value of an oxaliplatin-based HIPEC on cytoreductive surgery. Indeed, the PRODIGE 7 trial reported the absence of
+an OS beneﬁt after adding HIPEC to cytoreductive surgery
+and more frequent post-operative late complications with
+this combination, in patients with colorectal peritoneal
+metastases.40 There are ongoing trials to see if other HIPEC
+regimens (using mitomycin and different HIPEC procedures)
+may possibly lead to better outcomes.
+Ovariectomy, lymphadenectomy and resection of
+selected other single metastases have also shown survival
+beneﬁt in patient series.32
+Primarily technically R0-resectable CRLMs. In patients with
+‘favourable’ oncological criteria (e.g. metachronous lesions,
+fewer metastases, unilobar disease, no extrahepatic disease), upfront resection should be done. The only phase III
+trial (dedicated to CRLMs) conducted in this situation
+showed a beneﬁt in DFS but a non-signiﬁcant improvement
+in OS if perioperative treatment with FOLFOX is
+administered.34,41
+In patients with ‘unfavourable’ oncological criteria (synchronous lesions, more than three metastases, bilobar disease, limited extrahepatic disease) and ‘favourable surgical’
+criteria (e.g. no vascular inﬁltration), perioperative ChT,
+preferably with any ﬂuoropyrimidine and oxaliplatin, should
+be proposed.
+Attention should be paid to the presence of small metastases (10-15 mm), which may disappear while on
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+systemic therapy, with the risk of being missed during surgery while still active in terms of presence of tumour cells.
+In this situation, neoadjuvant ChT should not exceed 2
+months if indicated; upfront surgery or other interventional
+approaches such as a percutaneous destruction should also
+be discussed with the MDT. For patients in whom the metastases have disappeared on standard imaging, microscopic disease is often still present and an MDT discussion
+of the optimal strategy is required.
+Post-operative ChT can be delivered, but the randomised
+evidence to support this is scarce and therefore it cannot be
+considered as standard of care. Fluoropyrimidineeoxaliplatin-based ChT for 6 months after resection of metastases
+may improve outcomes unless patients failed a prior adjuvant treatment (oxaliplatin-based) for stage II or III disease
+within 12 months. Targeted agents are not recommended
+during perioperative therapy in patients with upfront
+resectable metastases.35,42 Perioperative or post-operative
+adjuvant treatment strategy decisions may be inﬂuenced
+by ‘biology of the disease’, the timing of onset of metastases
+(synchronous versus metachronous), technical criteria for
+resectability (or ablation) and/or the number and size of
+metastases.
+For patients who relapse within 6 months after
+oxaliplatin-based adjuvant therapy (potentially resistant to
+this treatment and often with a persistent sensitive neuropathy), an MDT discussion of the optimal individual
+strategy is required. If a preoperative strategy is chosen,
+treatment selection should reﬂect this situation and the
+‘best available systemic treatment’ should be used.
+Potentially resectable metastatic disease, conversion
+therapy. The addition of a targeted agent to a cytotoxic
+doublet or triplet is the most effective treatment in mCRC.
+For efﬁcacy assessment, overall response rate (ORR) seems
+to be the best parameter in direct and cross-trial
+comparisons.
+Anti-EGFR mAbs in RAS-wt patients with left-sided primary tumours are more effective than bevacizumab-based
+combinations.43,44
+According to cross-trial comparisons, LVe5-FUeoxaliplatineirinotecan (FOLFOXIRI) with and without bevacizumab
+also resulted in high ORRs.45-47
+In patients with RAS-mutant disease, a cytotoxic triplete
+bevacizumab and, to a lesser extent, a cytotoxic doublete
+bevacizumab are considered the best choice in patients
+who may tolerate this intensive approach.
+Resection of the metastases should be carried out 3-4
+weeks from the previous administration of ChT alone or
+ChTeanti-EGFR mAbs, or at least 5 weeks after ChTe
+bevacizumab (if bevacizumab has not been omitted from
+the last cycle). It should be carried out as soon as the
+metastases, as a result of size reduction, are technically
+resectable, since unnecessarily prolonged administration of
+ChT may lead to increased liver toxicity and thus, higher
+post-operative morbidity.36
+Surgery following systemic treatment could be more
+challenging than for initially resectable patients. Speciﬁc
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+13
+
+A. Cervantes et al.
+
+Annals of Oncology
+techniques, such as portal embolisation, resection combined
+with radiofrequency ablation (RFA)/microwave ablation
+(MWA) or two-stage hepatectomy, may be applied further.
+Also, patients unresponsive to ﬁrst-line ChT should not be
+denied liver resection since the outcome of resected patients
+after second-line ChT could also be favourable. This approach
+needs frequent assessment of response to indicate surgery at
+the right moment. Intra-arterial ChT could be an option in
+such patients, to both recover a response and to achieve liver
+resection.48,49 The management of these patients requires a
+particular dedication and expertise within the team.50,51
+After surgery, re-uptake of the previous systemic treatmentdwith the same regimendcan be considered, speciﬁcally if pathological response has occurred, but there is
+no evidence from randomised studies to support this
+approach. Generally, the total treatment duration should
+not exceed 6 months. New approaches, such as intraarterial post-operative adjuvant treatments, are currently
+under investigation in randomised studies.52
+LTs in management of patients with oligometastatic
+disease
+Management of oligometastatic disease. The deﬁnition of
+oligometastatic disease (OMD) is important as treatment
+strategies should be based on the possibility of achieving
+eradication of all metastases and/or a ‘no evidence of disease’ (NED) status, either initially or after systemic therapy.
+Generally, a traditional clinical deﬁnition of OMD is:
+ One to ﬁve metastatic lesions, occasionally more if complete eradication is possible
+ Up to two metastatic sites
+ Controlled primary tumour (optionally resected)
+ All metastatic sites must be safely treatable by LT
+OMD status has therefore been established by radiological appearances and clinical judgment. Currently, biological
+factors do not contribute to this deﬁnition, but this may
+change considering, for example, molecular subtypes with
+speciﬁc prognostic background and/or treatment implications. Notably, OMD status can occur in multiple clinical
+scenarios in the continuum of care, e.g. during different
+treatment lines. Therefore, careful and continuous reassessment is recommended.
+Consideration should be given to relevant factors in the
+OMD setting:
+ Disease-related factors, e.g. size, number and localisation
+of metastatic sites, status of primary tumour, previous
+treatment-free intervals, previous treatments and their
+respective outcome, overall prognosis
+ Surgery and other LT-related factors, e.g. technical ability
+to treat and/or to achieve a locally complete eradication.
+This must be discussed versus potential toxicity and the
+invasiveness of the technique and the alternatives
+(mostly, continuation or initiation of systemic treatment)
+ Patient-related factors, e.g. PS, frailty and comorbidity,
+ﬁtness for systemic treatment and LT, individual treatment goals and preferences
+14
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+Assessment for LT of OMD must include an optimal imaging strategy before LT: generally, a contrast-enhanced CT
+scan, with MRI, ultrasound, PET and others. Specialist MDT
+input and thorough patient assessment and counselling are
+warranted.
+The selection of the best LT for OMD differs according to:
+ The size, number and localisation of the metastases
+ The expected likelihood of complete eradication
+ The invasiveness of the chosen technique
+ The local expertise with regard to the use of a particular
+LT method
+ Consideration of patient frailty, life expectancy and
+preferences
+The integration of LT into the therapeutic continuum of
+care can be:
+ As a deﬁnitive eradication in limited disease. Usually, surgery will be used for this goal, but a nonsurgical LT only if
+tumour characteristics (e.g. localisation) and/or patient
+factors would limit the surgical approach.
+ As a replacement for surgery; mostly in prognostically
+unclear situations or after response to systemic treatment in more widespread disease.
+ As a primary or metastasis-speciﬁc treatment to halt
+further dissemination. This could delay (or even eliminate) the need for systemic treatment. This can be
+used as an initial treatment for slowly progressing
+tumours.
+ As a consolidative treatment, following systemic therapy
+to delay or pause further treatment.
+OMD should be considered a speciﬁc situation in mCRC
+treatment. OMD management will, generally, in most cases
+start with induction ChT treatment, with response (or at
+least disease stabilisation) being a strong predictor for a
+favourable prognosis, justifying the enhanced local control
+by LT. However, in favourable prognostic situations with
+limited metastatic spread, upfront LT (without preceding
+systemic therapy) is a standard of care. LT is an option in
+oligo-progressive disease (i.e. very limited recurrence/nonresponse in a patient receiving systemic treatment). Such
+OMD could be construed as a result of intra-tumour heterogeneity. The aim of LT here is to eliminate the cell clones
+no longer responding to treatment and to enable the
+continuation of the systemic therapy.
+Intent of treatment and choice of LT
+Curative treatment approaches. A complete eradication
+of tumour can be obtained using surgical R0 resection and/
+or A0 ablation (evidence of ablation margins and NED at
+follow-up imaging). For patients with OMD conﬁned to a
+single organ (most frequently liver or lung), or a few organs
+or sites (pre-dominantly visceral metastases, e.g. liver and
+lung), a potentially curative approach exists. In this setting,
+long-term survival or even cure can be attained in 20%-45%
+of patients who undergo complete R0 resection or complete A0 TA of their metastases.53-55
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+In the absence of randomised trials comparing surgical
+with nonsurgical disease management, surgery has
+remained the standard treatment approach for patients
+with resectable OMD. However, TA and radiotherapy achieve high rates of complete tumour eradication of small
+metastases and can be seen as alternatives if a widely
+invasive surgical approach is required.55-58
+Patients with liver and lung metastases have a better
+prognosis than those with other metastatic disease locations. For example, as limited lung metastases are associated with slower growth and prolonged survival, a ‘watch
+and wait’ strategy with regular surveillance imaging may
+also be appropriate.59,60 The data showing different outcomes depending on the site(s) of OMD are likely to reﬂect
+molecular differences. Selection of the best ‘situationadapted’ treatment strategy should consider all of these
+factors as part of an MDT treatment decision before the
+start of systemic treatment and at the time of best
+response.
+Use of LT with non-curative intent. For patients with
+more extensive disease, the value of an LT may contribute
+to long-term survival or a prolonged PFS, but is rarely
+curative.61 Here, LT is part of a multimodal therapy
+approach to provide well-controlled sites of metastases
+with optional discontinuation of systemic therapy, with the
+goal of long-term disease control and potentially improved
+OS. For example, the reported median ChT-free survival
+after TA of lung metastases from CRC was 12.2 months in
+the overall population and 20.9 months in lung-only metastases patients.62
+Modalities for LT in OMD. Modalities for LT are summarised in Figure 1. Management of OMD is outlined in
+Supplementary Figure S1, available at https://doi.org/10.
+1016/j.annonc.2022.10.003.
+
+Surgery. Treatment should aim to achieve complete
+resection of all tumour masses, using surgical resection
+and/or nonsurgical interventions.
+For patients with resectable OMD conﬁned to a single
+organ (most frequently liver or lung) and/or a few organs
+(and even localised peritoneal spread), surgery remains the
+standard and best (potentially) curative treatment
+approach. Operative resection of metastases must be seen
+in the context of prognostic information and technical
+limitations.
+Local ablation techniques. Thermal ablation. TA such as
+RFA has a limitation inherent to size range of maximum 2-3
+cm.63 Safety margin of ablation is a strong predictor of
+complete eradication.55,64 In the randomised phase II
+CLOCC trial (ChT plus RFA  surgical resection versus ChT
+alone, for patients with a median of four CRLMs), an
+improvement in PFS and in OS was reported.65
+Data on the use of TA in combination with liver resection
+in an effort to obtain NED demonstrate improved perioperative outcomes without compromising long-term survival
+compared with bilateral resection.36,66 Data on TAs other
+than RFA are limited, but outcome appears similar between
+RFA and MWA, with ablative margins predictive for complete eradication of the targeted disease with both technologies, and a possible better control of perivascular
+tumours with MWA.55
+A meta-analysis supports surgery to provide better local
+control and longer OS for CRLMs.67 Reported differences
+were due to limitations of TA technologies, operator
+experience and insufﬁcient safety margins applied, or subject to possible patient selection bias. TA applied to patients
+who previously beneﬁtted from surgery improves liverspeciﬁc PFS,65 leading to the utilisation of RFA as a valid
+treatment option for recurrent disease after surgical
+
+Local treatment for mCRC
+
+Local ablation treatment
+
+Radiofrequency
+ablationa [II, B]
+
+Surgery
+
+Intra-arterial therapies
+
+SBRT [III, B]
+
+TARE/SIRT [III, B]
+
+HAIC [III, B]
+
+TACE [III, B]
+
+Figure 1. Local treatment of CRC metastases. Purple: general categories or stratiﬁcation; red: surgery; dark green: radiotherapy; blue: systemic anticancer therapy;
+white: other aspects of management.
+CRC, colorectal cancer; CRLM, colorectal liver metastasis; HAIC, hepatic arterial infusion chemotherapy; mCRC, metastatic colorectal cancer; OMD, oligometastatic
+disease; SBRT, stereotactic body radiotherapy; SIRT, selective internal radiotherapy; TA, thermal ablation; TACE, transarterial chemoembolisation; TARE, transarterial
+radioembolisation.
+a
+In patients with unresectable CRLMs only, or OMD in the liver,TA can be considered for small metastases [III, B]. In patients with lung-only metastases or OMD including lung
+lesions, TA may be considered along with resection, according to tumour size, number, location, the extent of lung parenchyma loss, comorbidity or other factors [III, B].
+
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+15
+
+A. Cervantes et al.
+
+Annals of Oncology
+resection in small CRLMs.68-71 Randomised clinical trials are
+ongoing to accurately assess surgery versus TA in CRLMs
+(COLLISION study).
+TA techniques also have proven efﬁcacy in the ablation of
+lung metastases: local control rates of 88%-94% at 1 year and
+77%-90% at 3 years have been reported.54,56,72,73 Similarly,
+margins and volume of ablation are more predictive of
+complete tumour eradication than type of TA used.74 Mortality and major complication rates may be as low as 1%.75 A
+systematic review concluded that a ﬁrm conclusion could
+not be drawn with regard to the use of surgery or RFA.76
+SBRT. High conformal hypo-fractionated SBRT of metastases has been reported with a large range of local control
+rates of 31%-90% after 2 years, including 80% for liver and
+lung metastases, but also for lymph nodes.57,58 The risk of
+failure correlates with tumour size as well as biologically
+effective dose and motion management both for lung and
+CRLMs.77-79 Across several series, no grade 3 events were
+recorded. SBRT is considered an effective and safe ablative
+treatment, but with no large prospective study available.
+Therefore, with the beneﬁt of short treatment time, lack of
+a need for recovery and favourable overall toxicity proﬁle,
+SBRT is a treatment option, although it is yet unclear which
+patients beneﬁt most. The OLIVER trial (NCT03296839) aims
+to evaluate the impact of SBRT versus ChT alone, while
+another randomised trial aims to compare MWA and SBRT
+for inoperable CRLMs (NCT02820194).
+Intra-arterial
+therapies.
+Transarterial
+chemoembolisation. The data on transarterial chemoembolisation
+(TACE) for CRLMs are mostly related to the use of
+irinotecan-based drug-eluting microspheres (DEBIRI),
+including two randomised studies. Despite signiﬁcant limitations in design and analysis of both, DEBIRI compared
+with LVe5-FUeirinotecan (FOLFIRI) resulted in statistically
+signiﬁcant improved OS and PFS,80 whereas FOLFOXebevacizumabeDEBIRI (FOLFOXeDEBIRI) reported improved
+response rate (RR), downsizing to resection and PFS
+compared with FOLFOXebevacizumab.81 In the neoadjuvant setting, DEBIRI is reported as safe and feasible,
+yielding pathological major or complete response in >77%
+of targeted lesions.82 A review of DEBIRI data, including 850
+patients reported ORR of 56.2% and median PFS and OS of
+8.1 and 16.8 months, respectively.83 In the chemorefractory setting, a new microspheres/irinotecan formulation demonstrated an ORR of 83% and median OS (mOS) of
+14 months.84
+Transarterial radioembolisation/selective internal radiation therapy. Transarterial radioembolisation (TARE)/
+selective internal radiation therapy (SIRT) typically involves
+a single delivery of a radionuclide [yttrium (Y)-90, or holmium-166],85,86 connected to either resin or glass particles,
+or bio-resorbable poly (L-lactic acid) microspheres as a delivery platform into the hepatic artery with the therapeutic
+effect essentially limited to irradiation.
+For patients with liver-limited metastases failing the
+available chemotherapeutic options, TARE with Y-90 resin
+16
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+microspheres has prolonged time to tumour progression
+and time to liver progression, in a small, randomised
+study.87
+However, aggregated data of >1000 patients treated
+within three randomised studies failed to show a beneﬁt in
+OS,88 when TARE was added to the ﬁrst cycle of an
+investigator-determined ‘best systemic treatment’. A randomised phase III study of TARE with resin microspheres failed
+to show an overall PFS (as primary endpoint) beneﬁt, whilst a
+signiﬁcantly better ‘liver-speciﬁc-PFS’ was documented.89 In
+this trial, 45% of patients had the primary tumour in place and
+40% had extrahepatic disease, suggesting that TARE may be
+most beneﬁcial in patients with liver-limited or liverpredominant disease. Another potential subgroup with a
+distinct beneﬁt is patients with right-sided primary
+tumour.88,90
+A recent further phase III trial compared second-line ChT
+alone with second-line ChT plus transarterial Y-90 glass
+microspheres in 428 patients with liver-dominant or liveronly disease (EPOCH trial). A signiﬁcant improvement in
+PFS (as primary endpoint) was documented and ORRs were
+21.1% and 34.0% for ChT alone and ChT plus TARE,
+respectively. A subgroup analysis suggested PFS beneﬁt may
+be more dominant in patients with fewer than three lesions, resected primary tumour, lower tumour burden, left
+primary tumour location (PTL) and a KRAS mutation.
+Hepatic arterial infusion ChT. Hepatic arterial infusion
+ChT (HAIC) is carried out through intra-arterial ports or
+pumps placed surgically or percutaneously.91 The most
+commonly used drugs are ﬂoxuridine (FUDR) and
+oxaliplatin, infused through ports. The European experience
+is mostly linked with intra-arterial oxaliplatin over 2 h and
+systemic 5-FUeLV delivered over 48 h. HAIC with oxaliplatin
+demonstrated 62% ORR in heavily pre-treated patients with
+more than ninefold higher complete pathological response
+than systemic therapy.92,93 The phase II OPTILIV study with
+HAIC with irinotecaneoxaliplatine5-FU combined with
+intravenous (i.v.) cetuximab met its primary endpoint of
+conversion to R0-R1 (microscopic tumour at the margin)
+hepatectomy in 29.7% of 64 RAS-wt pre-treated patients
+bearing a median of 10 CRLMs involving six segments of the
+liver.49
+Recommendations
+Treatment of potentially resectable mCRC
+ In patients with resectable metastases and with favourable prognostic criteria and a good surgical approach,
+perioperative systemic treatment may not be needed
+[III, B].
+ In patients with resectable metastases, the use of perioperative oxaliplatin-based ChT is recommended where
+the prognostic situation is unclear [II, B].
+ Anti-EGFR mAbs in left-sided RAS-wt patients should be
+used as conversion therapy, when complete resection is
+the aim [II, A].
+ In patients with right-sided and RAS-mutant disease,
+FOLFOXIRIebevacizumab and, to a lesser extent, a
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+cytotoxic doubletebevacizumab should be considered
+the best choice depending on patients’ ability to tolerate
+triplet ChT [II, A].
+ Patients unresponsive to ﬁrst-line ChT should not be denied resection or ablation of metastases since the
+outcome of resected patients after second-line treatment could be also favourable. Intra-arterial ChT could
+be an option in such patients, not only to recover a
+response but also to achieve liver resection [III, C].
+ In case of a peritoneal metastasis only, complete cytoreductive surgery should be carried out [II, A]. The addition
+of HIPEC can be considered as an experimental procedure,
+still to be validated in clinical trials. Therefore, its use
+cannot be recommended outside of this setting [II, D].
+Intent and choice of local treatment
+ Treatment approaches for all patients with mCRC should
+be discussed within an MDT of experts (especially in LT)
+who meet regularly to review OMD cases [V, A].
+ LT can be used as a primary or metastasis-speciﬁc treatment to halt further dissemination, and/or following systemic therapy as a consolidation treatment, to delay or
+pause further treatment [III, C].
+ Frequent radiological re-evaluations of the potential
+applicability of surgery or other LT techniques should
+be carried out, generally every 8-12 weeks [IV, A].
+Local ablation treatment
+ In patients with unresectable CRLMs only, or OMD in
+the liver, TA can be considered for small metastases
+[III, B].
+ TA is a valid treatment option for recurrent disease after
+surgical resection for small CRLMs [II, B].
+ In patients with lung-only metastases or OMD including
+lung lesions, TA may be considered along with resection,
+according to tumour size, number, location, the extent
+of lung parenchyma loss, comorbidity or other factors
+[III, B].
+ SBRT is a treatment option, although it is yet unclear
+which patients beneﬁt most [III, B].
+Intra-arterial therapies
+ TACE, TARE/SIRT and HAIC may be also considered as
+treatment options with non-curative intent [III, B].
+ SIRT, HAIC and chemoembolisation of CRLMs in earlier
+treatment lines may be interesting as ‘consolidation
+treatment’ but should be limited to clinical trials [V, D].
+MANAGEMENT OF ADVANCED AND METASTATIC DISEASE
+WITHOUT POTENTIAL CONVERSION
+An MDT discussion would be advisable to decide the best
+treatment approach for each individual patient, taking into
+consideration several factors that were established in the
+2016 ESMO Consensus guideline (see Supplementary
+Table S3, available at https://doi.org/10.1016/j.annonc.
+2022.10.003), such as clinical presentation (impending
+symptoms at diagnosis, PTL), histology and molecular
+biology of the tumour, the patient characteristics (age, PS,
+comorbidities, socioeconomic factors), the goal of
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+treatment and treatment-related issues [toxicity, quality of
+life (QoL), etc.].94 When considering the best treatment
+option for patients with mCRC, all of the above-mentioned
+factors and medical history must be taken into
+consideration.
+Frail patients will not tolerate combination therapies with
+potential side-effects. In these patients, the main treatment
+goal is maintaining QoL and improving symptoms. These
+patients could instead receive lower toxicity therapies, such
+as ﬂuoropyrimidine as monotherapy or combined with
+bevacizumab, or anti-EGFR mAbs in left-sided RAS-wt tumours. The 2016 ESMO consensus guideline established
+that the initial consideration for treatment stratiﬁcation was
+whether patients were ‘ﬁt’ or ‘unﬁt’.94
+Age alone is not a contraindication of combined therapy,
+for a patient with good ﬁtness, organ function and without
+signiﬁcant comorbidities. A complete geriatric assessment
+to consider all the factors that can affect treatment tolerance and compliance is advisable.95,96
+Tumour characteristics are critical, for both prognosis
+and predicted response to the available treatments. The
+tumour burden, location of the metastases (involving one
+or more organs) and the primary tumour, or impending
+symptoms related to the primary tumour (haemorrhage
+or intestinal obstruction), will guide the treatment
+strategy.
+The PTL and mutational status of the tumour is key to
+decide the best treatment approach, as described above.
+The location of the primary tumour proximal to the splenic
+ﬂexure also has prognostic implications, with a shorter
+survival related both to the nature of the tumour, metastatic sites, and to a poor response to treatment with ChT
+and mAbs. It must be stressed that those right colon tumours, in general, beneﬁt less in terms of PFS and OS from
+treatment with anti-EGFR mAbs, compared with tumours
+located distal to the splenic ﬂexure.22 Nevertheless, RRs are
+similar for both tumour locations.
+The historical ESMO classiﬁcation of patients in four
+groups according to the treatment goals has evolved (see
+Supplementary Table S4, available at https://doi.org/10.
+1016/j.annonc.2022.10.003).97 Treatment goals for ﬁt patients differ according to different scenarios (see
+Supplementary Table S5, available at https://doi.org/10.
+1016/j.annonc.2022.10.003): (i) cure, generally achieved
+through surgery, in those cases of OMD localised to liver,
+lung and other solitary organs, (ii) to achieve a good
+response and downstaging with ChT, allowing treatment
+with curative intent in initially unresectable disease and (iii)
+improving tumour-related symptoms, delaying progression
+and prolonging survival in metastatic disease not amenable
+to deﬁnitive surgical treatment or LTs despite response and
+all while maintaining QoL. In the third group of patients, the
+continuum of care concept demonstrates that sequencing
+of all the different treatment options results in prolonged
+disease control and improved survival.98 Liver transplantation is emerging as an experimental option for patients with CRLMs but results of randomised studies are still
+pending.
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+17
+
+A. Cervantes et al.
+
+Annals of Oncology
+First-line treatment
+Proposed ﬁrst-line treatment strategies are shown in
+Figure 2.
+Cytotoxic agents. 5-FU is the backbone of mCRC treatment.
+Most ﬁrst- and second-line clinical trials have explored
+different combinations based on ﬂuoropyrimidines, both i.v.
+5-FU (as bolus or as continuous infusion, with a different
+toxicity proﬁle) or oral capecitabine; these are considered
+equivalent.99,100 S-1 (tegafuregimeracileoteracil) is an
+alternative ﬂuoropyrimidine when i.v. 5-FU or capecitabinebased ChT cannot be used due to cardiotoxicity and/or
+hand-foot syndrome.101
+The addition of oxaliplatin and/or irinotecan to a ﬂuoropyrimidine improves RR and survival.102,103 Both doublets, FOLFOX and FOLFIRI, are considered to be equally
+
+effective and the selection in the ﬁrst-line can be guided by
+their different toxicity proﬁles and the biological added to
+enhance efﬁcacy. Capecitabine is more frequently combined
+with oxaliplatin (CAPOX) and less frequently with irinotecan
+(CAPIRI) because CAPIRI has a more toxic proﬁle than
+FOLFIRI.104 A dose-modiﬁed CAPIRI schedule showed a
+more favourable toxicity proﬁle.105 The triplet FOLFOXIRI
+has improved RRs and survival compared with FOLFIRI, but
+side-effects limit its applicability to selected ﬁt patients
+without signiﬁcant comorbidities.45
+Several trials have explored delivering treatment with
+ﬂuoropyrimidines, oxaliplatin and irinotecan either
+sequentially or in combination in ﬁrst or later lines of
+treatment, showing that both strategies achieved
+similar OS.106-108 This observation conﬁrmed that ﬁrstline treatment with a ﬂuoropyrimidine, as a single
+
+Stage IV unresectable mCRC: first-line therapy
+
+Comorbidities and
+metastatic disease not
+amenable to curative
+treatment
+
+Frail and elderly patients
+
+Fluoropyrimidine±
+bevacizumaba [I, B]
+
+Fluoropyrimidine±
+bevacizumaba [I, B]
+
+RAS-wt and BRAF-wt
+
+LEFT COLON
+ChT doublet–
+anti-EGFRa,b,d,e [I, A]
+
+RAS-wt:
+ChT–anti-EGFRa,b [I, A]
+or
+Anti-EGFR alonec [IV, C]
+
+RIGHT COLON
+Preferred:
+ChT doublet±
+bevacizumaba,b,d,f,g
+[II, B] or
+ChT triplet±
+bevacizumaba,b,d,g,h [I, B]
+
+RAS-mut
+
+BRAF-mut
+
+dMMR/MSI-H
+
+ChT doublet±
+bevacizumaba,b,d,f,g
+or
+ChT triplet±
+bevacizumaba,b,f,g,h [I, B]
+
+LEFT COLON
+ChT doublet±
+bevacizumaba,b,d,f,g [I, B]
+
+Pembrolizumab
+[I, A; MCBS 4i;
+ESCAT I-Aj]
+
+RIGHT COLON
+ChT doublet±
+bevacizumaba,d,g or triplet±
+bevacizumaba,g,h [II, B]
+
+Only if tumour shrinkage
+is the aim:
+ChT doublet–
+anti-EGFRa,b,d,e [I, C]
+
+Non-progression
+
+Maintenance therapy:
+see Figure 3
+
+PD
+
+PD
+
+Second-line therapy:
+see Figure 4
+
+PD
+
+Third-line therapy and
+beyond: see Figure 5
+
+Figure 2. Management of stage IV unresectable mCRC in ﬁrst-line therapy. Purple: general categories or stratiﬁcation; blue: systemic anticancer therapy; white:
+other aspects of management.
+5-FU, 5-ﬂuorouracil; ChT, chemotherapy; dMMR, deﬁcient mismatch repair; EGFR, epidermal growth factor receptor; EMA, European Medicines Agency; ESCAT, ESMO
+Scale for Clinical Actionability of Molecular Targets; FDA, Food and Drug Administration; FOLFIRI, leucovorine5-ﬂuorouracileirinotecan; FOLFOX, leucovorine5-ﬂuorouracileoxaliplatin; FOLFOXIRI, leucovorine5-ﬂuorouracileoxaliplatineirinotecan; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; mCRC, metastatic colorectal
+cancer; MSI-H, microsatellite instability-high; mut, mutant; PD, progressive disease; PS, performance status; S-1, tegafuregimeracileoteracil; wt, wild-type.
+a
+In patients presenting with cardiotoxicity and/or hand-foot syndrome on 5-FU or capecitabine-based ChT, S-1 may be used as an alternative [III, B].
+b
+Additional details on treatments and drug combinations can be found under the section ‘Management of advanced and metastatic disease without potential conversion’ (subsections ‘First-line treatment’ and ‘Second-line treatment’).
+c
+In frail or elderly patients unable to tolerate ChT whose tumours are left-sided and RAS-wt.
+d
+FOLFIRIecetuximab ESMO-MCBS v1.1 score: 4; FOLFOX4epanitumumab ESMO-MCBS v1.1 score: 4; mFOLFOX6epanitumumab ESMO-MCBS v1.1 score: 3.i
+e
+FOLFOX4epanitumumab ESMO-MCBS v1.1 score: 4; modiﬁed FOLFOX6epanitumumab ESMO-MCBS v1.1 score: 3; for FOLFIRIecetuximab ESMO-MCBS v1.1 score: 4.i
+f
+In a very selected population.
+g
+CAPOXe or FOLFOX4ebevacizumab ESMO-MCBS v1.1 score: 1.i
+h
+A triplet with FOLFOXIRI plus bevacizumab is an option for selected patients with good PS and without comorbidities [I, B; ESMO-MCBS v1.1 score: 2].i
+i
+ESMO-MCBS v1.1165 was used to calculate scores for therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS Working
+Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).
+j
+ESCAT scores apply to genomic alterations only. These scores have been deﬁned by the guideline authors and validated by the ESMO Translational Research and
+Precision Medicine Working Group.164 See Supplementary Table S1, available at https://doi.org/10.1016/j.annonc.2022.10.003, for more information on ESCAT scores.
+
+18
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+agent, is a reasonable option, particularly in frail
+patients.
+Biological targeted agents. Several targeted agents against
+EGFR (cetuximab and panitumumab) or against the vascular
+endothelial growth factor (VEGF) pathway (bevacizumab
+and ramucirumab, or the protein aﬂibercept) have
+demonstrated improved outcomes when combined with
+ChT, or as a monotherapy in the case of anti-EGFR mAbs.
+Anti-EGFR. Two different anti-EGFR mAbs have demonstrated activity in mCRC as monotherapy or combined with
+ChT. Cetuximab is a chimeric anti-EGFR mAb, which has
+demonstrated effectiveness in different lines of treatment,
+as has panitumumab, a humanised anti-EGFR mAb.109,110
+Both treatments can produce characteristic skin toxicity,
+which must be properly managed with antibiotics and
+topical corticosteroids.111
+The presence of RAS mutations is associated with resistance to anti-EGFR mAbs and knowing the expanded RAS
+mutational status is mandatory for use of both cetuximab
+and panitumumab, avoiding anti-EGFR mAb treatment
+when a RAS mutation is conﬁrmed.112,113
+In the ﬁrst-line setting, FOLFIRIecetuximab was studied in a
+non-selected population of mCRC patients.114 A retrospective
+analysis demonstrated that only those patients without KRAS
+exon 2 mutations had a signiﬁcantly reduced risk of disease
+progression, improved OS and increased RR, compared with
+those who received FOLFIRI alone, and a RAS expanded analysis conﬁrmed the beneﬁt in RR and survival.115
+A combination of FOLFOX with or without panitumumab
+was similarly studied in an initially non-selected population
+of mCRC, although analysis of the mutational status was
+completed in >90% of the patients. In the KRAS-wt
+population, a statistically signiﬁcant improvement in PFS
+and OS was observed with FOLFOX4epanitumumab.116 An
+expanded RAS analysis, including mutations in KRAS exons
+2, 3 and 4, NRAS exons 2, 3 and 4 and BRAF V600E, also
+conﬁrmed the efﬁcacy of FOLFOXepanitumumab in the
+RAS-wt population.112
+Cetuximabeoxaliplatin in the ﬁrst-line setting was also
+explored, showing a better RR and a trend toward an
+improvement in PFS and OS in the RAS-wt population in a
+randomised phase II study and better ORR, PFS and OS in a
+Chinese phase III study.113,117
+When a CAPOX combination was explored in addition to
+cetuximab in the COIN trial, no signiﬁcant beneﬁt in terms
+of PFS or OS was observed, with the exception of an
+increased RR in the RAS-wt population treated with cetuximab.118 Moreover, the addition of cetuximab to
+capecitabine-based therapy resulted in more diarrhoea and
+skin toxicity, leading to a dose reduction/discontinuation of
+the ChT schedule and a reduced exposure to ﬂuoropyrimidines. Combination with anti-EGFR mAbecapecitabinebased ChT is not recommended. FLOX (LVebolus 5-FUe
+oxaliplatin)ecetuximab also failed to show any beneﬁt.
+Therefore, anti-EGFRebolus 5-FU-based ChT is not
+recommended.119
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+Tumour location is an important factor when deciding the
+use of anti-EGFR mAbs in RAS-wt tumours. As mentioned
+previously, the beneﬁt of anti-EGFR mAbs is very relevant in
+left-sided tumours, with a signiﬁcant increase in RR and
+relevant prolongation of PFS and OS.22 In right-sided
+tumours no beneﬁt is observed for PFS and OS by the
+addition of cetuximab or panitumumab, except an increase
+in RRs. For this reason, a doublet or a triplet with
+bevacizumab is the preferred option for patients with
+right-sided tumours independently of the RAS mutational
+status. Only in right-sided RAS-wt tumours, in which a good
+response is needed, i.e. for conversion therapy, a doublet
+with an anti-EGFR mAb can be selected. In frail or elderly
+patients, unable to tolerate ChT, whose tumours are
+left-sided and RAS-wt, monotherapy with anti-EGFR mAbs
+may be an option.120 Combination of anti-EGFR mAb with
+ChT cannot be recommended in BRAF-mutant tumours.
+Anti-VEGF. In the ﬁrst-line setting of mCRC, the only antiangiogenic that has shown better outcomes in combination
+with ChT is bevacizumab, a selective VEGF-A inhibitor. This
+antiangiogenic has characteristic class-related side-effects
+including increase in blood pressure and proteinuria and,
+less frequently, arterial thrombosis, and an increased risk of
+bleeding, intestinal perforation and wound healing delay,
+which can be decreased with proper patient selection.
+There are currently no biomarkers to identify which patients
+may beneﬁt more from this treatment.
+The addition of bevacizumab to capecitabine increased
+PFS compared with capecitabine monotherapy and this
+beneﬁt on PFS was conﬁrmed in patients 70 years old in
+the AVEX phase III trial.121,122 No signiﬁcant differences in
+OS were observed.
+The addition of bevacizumab to an irinotecanebolus 5FUeLV (IFL) showed an improvement in OS, PFS and RR,
+compared with IFLeplacebo.123 In the NO16966 phase III trial,
+a 2  2 factorial design compared any ﬂuoropyrimidinee
+oxaliplatin combination (CAPOX or FOLFOX4) with or
+without bevacizumab or placebo, showing an improvement in
+outcome, limited to PFS.124
+The TRICOLORE phase III trial compared mFOLFOX6 or
+CAPOX and bevacizumab with irinotecaneS-1 (IRIS)ebevacizumab,125 concluding that IRISebevacizumab is noninferior to mFOLFOX6e or CAPOXebevacizumab with
+respect to PFS, with comparable OS.126
+Anti-EGFR or anti-VEGF strategy in RAS-wt mCRC patients.
+To address which targeted therapy would offer the greatest
+beneﬁt when combined with ChT in the ﬁrst-line setting,
+the FIRE-3 trial compared FOLFIRIebevacizumab with
+FOLFIRIecetuximab, in KRAS (exon 2)-wt mCRC. No differences in the primary endpoint of ORR or in PFS were
+observed. However, an OS improvement was observed with
+cetuximab. A post hoc analysis showed a signiﬁcant proportion of patients achieved a better objective response,
+early tumour shrinkage and median depth of response in
+the extended RAS-wt population receiving FOLFIRIe
+cetuximab.43
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+19
+
+A. Cervantes et al.
+
+Annals of Oncology
+A combined analysis of the FIRE-3 and CRYSTAL trials
+conﬁrmed the beneﬁt in OS on left-sided tumours treated
+with FOLFIRIecetuximab.127
+The CALGB/SWOG 80405 trial also compared cetuximab
+with bevacizumab, in combination with an investigator’s
+choice ChT doublet (FOLFOX or FOLFIRI), in KRAS (exon 2)wt mCRC. No differences in the primary endpoint of OS
+were observed between the study arms, suggesting that
+both treatment strategies were equally effective in the ﬁrstline setting on KRAS-wt mCRC. The expanded RAS analyses
+showed no differences in OS or PFS but an increased RR
+with cetuximab.44
+A subsequent exploratory retrospective analysis of
+CALGB/SWOG 80405 trial examined the impact of PTL. Patients with left-sided KRAS-wt tumours treated with cetuximab had an increased OS and PFS; conversely, patients
+with right-sided tumours treated with bevacizumab had an
+increased OS, conﬁrming the limited beneﬁt of anti-EGFR
+therapies on right-sided tumours.128
+An exploratory phase II trial compared mFOLFOX6 with
+panitumumab versus bevacizumab in patients with KRAS
+exon 2-wt mCRC.129 The ﬁnal results conﬁrmed a beneﬁt in
+PFS in the extended RAS-wt population treated with
+FOLFOXepanitumumab, with no signiﬁcant differences in
+OS.129 A phase III randomised trial (PARADIGM) comparing
+both options resulted in a signiﬁcant beneﬁt in OS for the
+FOLFOXepanitumumab arm in left-sided tumours, as well as
+the whole population. The mOS was >36 months, conﬁrming
+the beneﬁt of this therapy in the ﬁrst-line setting, although
+most of the beneﬁt is driven by left-sided tumours.130
+Combining anti-VEGF plus anti-EGFR mAbs is not superior
+to ChTeanti-VEGF alone in terms of PFS, OS and RR.
+Furthermore, it increases grade 3 and 4 adverse event rates,
+and is therefore not recommended.131
+Triplets. The strategy of combining the three active ChT
+agents 5-FU, oxaliplatin and irinotecan (FOLFOXIRI) has
+been explored in mCRC, with the main purpose of
+improving tumour shrinkage (shown by RR), thus allowing a
+complete resection of metastases, but increasing potential
+toxicities.107,132 A phase III trial showed increased RRs and
+greater R0 resection rates of metastases with the triplet
+among patients with CRLMs only (36% versus 12%).
+Moreover, PFS and OS were both signiﬁcantly improved
+with FOLFOXIRI. These ﬁndings were not conﬁrmed in a
+similar Greek phase III trial, which included PS2 patients.132
+The addition to bevacizumab in both arms of the TRIBE
+phase III trial conﬁrmed the higher efﬁcacy of triple ChT
+backbone, with an improvement in PFS (median: 12.1
+months in the tripletebevacizumab group and 9.7 months
+with FOLFIRIebevacizumab) and in the ORR (65% versus
+53%).46 Updated results conﬁrmed a beneﬁt in mOS.133
+Within molecular subtypes, the largest mOS was 37.1
+months in the RAS and BRAF V600E-wt subgroup, while the
+BRAF-mutated group had the shortest survival with 13.4
+months. Since no prospective trial has included comparison
+with an arm with FOLFOXIRI without bevacizumab, the
+contribution of bevacizumab is considered uncertain.
+20
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+The TRIBE2 phase III study compared an upfront triplet
+(FOLFOXIRI) followed by a planned maintenance plus the
+reintroduction of the same regimen after disease progression, versus a sequence of mFOLFOX6 and FOLFIRI doublets,
+each of the ChT regimens in combination with bevacizumab.
+This approach favoured the triplet/maintenance/reintroduction strategy over sequential use for PFS2 (the interval
+between randomisation and the date of second progression). No interaction was observed between treatment effect and RAS and BRAF V600E mutational status as shown
+by the post hoc subgroup analyses of the TRIBE trial.134
+Triplets including FOLFOXIRI should not be used in patients >75 years old, with PS2 or in patients with signiﬁcant
+comorbidities. No phase III evidence supports the use of
+anti-EGFR mAbs in combination with triplets, as shown in
+the TRIPLETE trial,135 despite the initial beneﬁt in ORR in
+the VOLFI phase II trial.136
+First-line therapy in dMMR/MSI-H disease. The activity of
+anti-programmed cell death protein 1 (PD-1) blockade
+immunotherapy has been demonstrated on mCRC patients
+with dMMR/MSI-H status. Phase II trials of nivolumab and
+pembrolizumab, PD-1 ICIs, in dMMR/MSI-H mCRC patients
+demonstrated beneﬁt in this small patient subgroup.137,138
+In a pivotal phase III trial, 307 previously untreated
+dMMR/MSI-H mCRC patients were randomised to receive
+pembrolizumab (administered until progression or up to a
+maximum of 2 years) or standard therapy (ChT plus targeted
+agents, according to investigator’s choice). Pembrolizumab
+demonstrated improvement in the primary endpoint of
+PFS.12 Although no signiﬁcant differences in OS were
+observed, this may be due to the high percentage of
+crossover in the ChT arm (60% of patients progressing
+received an ICI). Treatment-related adverse events of grade
+3 occurred less frequently with pembrolizumab (22%),
+compared with the ChT arm (66%). The QoL analysis also
+favoured the use of pembrolizumab.139
+Maintenance therapy
+The concept of maintenance treatment has signiﬁcance for
+patients with disease not amenable for surgery or LT (see
+Figure 3). This describes de-escalation of treatment intensity,
+resulting in improved side-effects and QoL, without relevantly
+compromising therapeutic efﬁcacy and disease control. This
+concept evolved from the need to limit the cumulative dose
+of oxaliplatin cycles, with accumulative neurotoxicity; at that
+point, the question arose of whether to maintain the
+remainder or some of the drugs, or completely stop therapy.
+Patient discussion is essential, explaining the beneﬁts and
+risks of a maintenance approach.
+Studies of maintenance strategies with continuation of
+ﬂuoropyrimidines after induction ChT, or a complete ChT-free
+interval, showed contradictory results. In the MRC COIN trial,
+a combination of continuous oxaliplatineﬂuoropyrimidine
+was compared with the same treatment followed by a ChTfree interval until progressive disease.118,134 This trial failed
+to show non-inferiority of the intermittent ChT approach. The
+OPTIMOX1 trial suggested that a maintenance strategy with
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+Stage IV unresectable mCRC: maintenance therapy
+
+Previous therapy
+(first line; see Figure 2)
+
+Oxaliplatin-based ChT–bevacizumab
+
+Oxaliplatin-based ChT–anti-EGFR
+
+Non-progression after
+>4 months treatment
+
+Non-progression
+
+Fluoropyrimidine–
+bevacizumaba [I, B]
+
+Fluoropyrimidine–anti-EGFRa [II, B]
+
+FOLFIRI
+
+Continue irinotecan full therapy until
+progressive diseaseb [V, B]
+
+PD
+
+Reintroduction of induction therapy,
+if initially successful [III, B]
+
+PD
+
+Second-line therapy: see Figure 4
+
+Figure 3. Management of stage IV unresectable mCRC with maintenance therapy. Purple: general categories or stratiﬁcation; blue: systemic anticancer therapy;
+white: other aspects of management.
+5-FU, ﬂuorouracil; ChT, chemotherapy; EGFR, epidermal growth factor receptor; FOLFIRI, leucovorine5-ﬂuorouracileirinotecan, mCRC, metastatic colorectal cancer; PD,
+progressive disease; S-1, tegafuregimeracileoteracil.
+a
+In patients presenting with cardiotoxicity and/or hand-foot syndrome on 5-FU or capecitabine-based ChT, S-1 may be used as an alternative [III, B].
+b
+Due to the lack of a cumulative toxicity of FOLFIRI.
+
+ﬂuoropyrimidines could be considered after induction ChT
+with FOLFOX. However, the OPTIMOX2 trial explored short
+induction FOLFOX7, followed by a maintenance strategy with
+5-FUeLV or a ChT-free interval, conﬁrming the negative
+impact of the ChT-free interval on the median duration of
+disease control and survival.140
+The role of biologicals in maintenance strategies was
+tested. Bevacizumab maintenance was explored after ﬁrstline induction ChTebevacizumab in the SAKK 41/06 and
+PRODIGE 9 phase III trials showing no differences in disease
+control duration, concluding that single-agent bevacizumab
+has no meaningful therapeutic value.141,142 In the CAIRO3
+study, maintenance treatment with capecitabinee
+bevacizumab was compared with a complete break,
+showing an improvement in the primary endpoint of PFS2.143
+In the AIO 0207 trial, after ﬁrst-line induction with oxaliplatinbased ChTebevacizumab, patients were randomly assigned
+to either maintenance with ﬂuoropyrimidinesebevacizumab,
+bevacizumab alone or observation. The primary endpoint was
+to show non-inferiority for time to strategy failure with
+bevacizumab alone compared with ﬂuoropyrimidineebevacizumab.144 Its results support ﬂuoropyrimidinee
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+bevacizumab as the preferable option. There are no phase
+III data to support maintenance treatment with anti-EGFR
+mAbs, although two phase II randomised trials have shown
+that maintenance with 5-FUeanti-EGFR is better than 5-FU
+or anti-EGFR alone.145,146
+Second-line treatment
+The beneﬁt of delivering second-line treatment to ﬁt patients with no signiﬁcant comorbidities has been demonstrated in multiple trials. Proposed treatment strategies in
+the second line are shown in Figure 4. The ChT backbone
+depends mainly on the ﬁrst-line treatment received. With
+ﬁrst-line oxaliplatin-based therapy, second-line treatment
+with irinotecan with ﬂuoropyrimidine or monotherapy
+would be advisable. Conversely, those treated with ﬁrst-line
+irinotecan-based could receive oxaliplatin-based treatment
+(FOLFOX or CAPOX) in second line if no contraindications.
+Anti-EGFR. The anti-EGFR mAbs cetuximab and panitumumab have demonstrated activity in the second-line (or
+later-line) treatment of mCRC in RAS-wt tumours, as single
+agents and in combination with ChT. The EPIC phase III trial
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+21
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+Stage IV unresectable mCRC: second-line therapy
+
+Previous therapy
+(first line: see Figure 2;
+maintenance: see Figure 3)
+
+Oxaliplatin-based ChT
+
+Irinotecan-based ChT
+
+Irinotecan–
+fluoropyrimidine-based
+ChT alone
+
+Any type of therapy
+
+PD
+PD
+
+FOLFIRI–bevacizumab
+[I, A]
+
+Irinotecan-based
+combination or
+monotherapy [II, A]
+
+Oxaliplatin–based ChT a,c
+[II, A]
+
+PD
+
+PD
+
+FOLFOX–bevacizumaba,d
+[I, A]
+
+Antiangiogenic–ChT a,e
+[I, A]
+
+Alternative:
+FOLFIRI–aflibercept
+or
+FOLFIRI–ramucirumaba
+[I, A; MCBS 1b]
+
+Molecular alteration
+
+RAS-wt Anti-EGFR naive
+
+BRAF V600E-mut
+
+dMMR/MSI-H
+
+PD
+
+PD
+
+PD
+
+LEFT COLON
+FOLFIRI or irinotecan with cetuximab or
+panitumumaba [II, C]
+
+Encorafenib–cetuximab
+[I, A; MCBS 4b;
+ESCAT I-A f]
+
+Ipilimumab–nivolumabg
+[III, B; MCBS 3b]
+
+RIGHT COLON
+Anti-angiogenic with ChT a [II, B]
+
+Figure 4. Management of stage IV unresectable mCRC in the second line. Purple: general categories or stratiﬁcation; blue: systemic anticancer therapy; white: other
+aspects of management.
+5-FU, ﬂuorouracil; CAPOX, capecitabineeoxaliplatin; ChT, chemotherapy; dMMR, deﬁcient mismatch repair; EMA, European Medicines Agency; ESCAT, ESMO Scale for
+Clinical Actionability of Molecular Targets; FDA, Food and Drug Administration; FOLFIRI, leucovorine5-ﬂuorouracileirinotecan; FOLFOX, leucovorine5-ﬂuorouracile
+oxaliplatin; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; mCRC, metastatic colorectal cancer; MSI-H, microsatellite instability-high; mut, mutant; PD, progressive
+disease; PTL, primary tumour location; S-1, tegafuregimeracileoteracil; wt, wild-type.
+a
+In patients presenting with cardiotoxicity and/or hand-foot syndrome on 5-FU or capecitabine-based ChT, S-1 may be used as an alternative [III, B].
+b
+ESMO-MCBS v1.1165 was used to calculate scores for therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS Working
+Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).
+c
+FOLFOX or CAPOX, if no contraindications.
+d
+Bevacizumab can be combined with ChT doublet (a ﬂuoropyrimidine with oxaliplatin or irinotecan, depending on the ﬁrst-line ChT backbone delivered) [I, A; ESMOMCBS v1.1 score: 1].
+e
+With or without previous ﬁrst-line treatment with bevacizumab and independently of RAS mutational status and the PTL.
+f
+ESCAT scores apply to genomic alterations only. These scores have been deﬁned by the guideline authors and validated by the ESMO Translational Research and
+Precision Medicine Working Group.164 See Supplementary Table S1, available at https://doi.org/10.1016/j.annonc.2022.10.003, for more information on ESCAT scores.
+g
+Indicated for immunotherapy-naive patients.
+
+explored second-line treatment with irinotecan, with or
+without cetuximab, in patients refractory to ﬁrst-line oxaliplatineﬂuoropyrimidine-based treatment.147 While OS
+was not increased, almost half of the control arm received
+cetuximab post-progression and this addition of cetuximab
+improved PFS and RR.147
+Second-line FOLFIRI with or without panitumumab was
+tested in a phase III trial.148 In KRAS-wt patients, panitumumab signiﬁcantly improved RR and PFS with a nonsigniﬁcant trend toward longer OS.
+Anti-VEGF. In patients previously treated with irinotecane
+ﬂuoropyrimidine-based ChT alone, a combination of
+22
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+FOLFOXebevacizumab demonstrated improved OS and PFS
+in a phase III trial in comparison with FOLFOX4.149
+In patients previously treated with bevacizumab (in the
+ﬁrst-line setting), maintaining bevacizumab in combination
+with second-line ChT (oxaliplatin or irinotecan-based,
+switching depending on the ﬁrst-line treatment delivered)
+demonstrated improvement in the primary endpoint of
+OS.150
+Aﬂibercept is a recombinant fusion protein that
+blocks the activity of VEGF-A and B, as well as placental
+growth factor, by acting as a high-afﬁnity ligand trap.
+The VELOUR phase III trial reported improvement in OS
+and PFS with aﬂibercept in combination with FOLFIRI, in
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+mCRC patients previously treated with oxaliplatin,
+including the subgroup of patients previously treated
+with bevacizumab.151
+The RAISE phase III trial tested ramucirumab, a human
+mAb that targets the extracellular domain of VEGF receptor
+2, in combination with FOLFIRI in mCRC patients with disease progression during or after ﬁrst-line therapy with
+bevacizumabeoxaliplatineﬂuoropyrimidines.152 A beneﬁt
+in both OS and PFS was observed.
+Each of these antiangiogenics in combination with ChT
+has demonstrated improved OS in the second-line treatment of mCRC, irrespective of the ﬁrst-line treatment. In
+case of RAS-mutated tumours with a rapid progression
+while on bevacizumab ﬁrst-line treatment, second-line
+therapy with ChT combined with aﬂibercept or ramucirumab could be considered, as those trials included patients
+with a rapid progression while on ﬁrst-line treatment with
+bevacizumab.
+In RAS-wt patients treated upfront with bevacizumab,
+second-line treatment with antiangiogenics or anti-EGFR
+mAbs combined with ChT are good options. Treatment
+with anti-EGFR mAbs can increase the RR, although the
+beneﬁt is more extensive in left-sided tumours. In rightsided tumours a combination with ChT and an anti-VEGF
+could be a better option. The side-effects proﬁle should
+also be considered in this decision. In dMMR/MSI-H tumours progressing after ﬁrst-line ChT, the European Medicines Agency (EMA) approved the use of ipilimumabe
+nivolumab.153
+BRAF V600E-mutated mCRC. As described, the presence of
+BRAF mutations is associated with a poor prognosis in
+mCRC, and current therapies have demonstrated less
+effectiveness in these patients. New strategies blocking
+the BRAF signalling pathway have shown preliminary activity.154,155 A phase III study in BRAF-mutant patients
+progressing after ﬁrst- or second-line treatment tested the
+combination of encorafenib (an oral BRAF V600E inhibitor), with binimetinib and cetuximab.156 Patients were
+randomly assigned (1 : 1 : 1) to receive encorafenibe
+cetuximab with or without binimetinib (doublet or
+triplet) versus ChT (FOLFIRI or irinotecan) plus cetuximab.
+OS was signiﬁcantly superior in the experimental arms,
+either doublet or triplet, compared with standard of care.
+The mOS was 9.3 months in the experimental arms and
+5.9 months in the control group. A conﬁrmed signiﬁcantly
+better ORR was reported as 26.8% in the triplet arm,
+19.5% in the doublet, versus 1.8% in the control group.
+The QoL was not deteriorated in the experimental arm
+and grade 3 adverse events reported were higher in the
+standard arm (61%) compared with the doublet (50%) or
+triplet treatment (58%). This study led to the approval of
+encorafenibecetuximab for BRAF V600E pre-treated
+mCRC; further studies are ongoing to test this combination in early phases of metastatic disease. Patients with
+BRAF-mutant tumours and MSI-H status, who are
+receiving ﬁrst-line immunotherapy, could also beneﬁt from
+encorafenibecetuximab upon progression.
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+Third- and further-line treatment
+Proposed treatment strategies for third and further lines are
+shown in Figure 5.
+Reintroduction of the initial induction therapy can be
+considered after second-line therapy, in patients who did
+not progress during the course of ﬁrst-line ChT.
+Anti-EGFRs. Both cetuximab and panitumumab as single
+agents have demonstrated activity in mCRC after previous
+treatment with standard ChT. In comparison with best
+supportive care (BSC), cetuximab monotherapy improved
+OS and PFS, whilst preserving QoL with less deterioration in
+physical function and global health status scores.110 Panitumumab was also compared with BSC in mCRC patients
+who had been previously treated with standard ChT,
+showing an increase in PFS and ORR. No difference in OS
+was observed, probably due to crossover.109 This beneﬁt in
+PFS as well as in OS was observed only in the KRAS-wt
+population for both cetuximab and panitumumab.3,4 In
+RAS-wt patients not previously treated with anti-EGFR
+mAbs, in the third or further lines, a combination of
+irinotecanecetuximab was superior to cetuximab monotherapy in ORR and PFS, but not in OS. Therefore, a combination of irinotecanecetuximab can be used in this
+setting.157 Similarly, rechallenge with anti-EGFR mAbs has
+shown initial good outcomes in RAS-wt patients according
+to liquid biopsy testing in small non-randomised
+studies.158,159
+Regorafenib. Regorafenib is an oral multikinase inhibitor that
+demonstrated activity in refractory mCRC in a phase III
+placebo-controlled trial, showing an increase in mOS and PFS
+over BSC.160 Another phase III trial conﬁrmed a beneﬁt on OS
+with regorafenib in comparison with placebo. The most
+common grade 3 adverse events were hand-foot syndrome,
+hypertension, fatigue, diarrhoea, hyperbilirubinaemia,
+increased liver enzymes and rash.161 This treatment could be
+a possibility in ﬁt patients with refractory disease after
+standard ChT with 5-FUeirinotecaneoxaliplatin, with or
+without anti-VEGF therapies or anti-EGFR mAbs.
+Triﬂuridineetipiracil (TAS-102). TAS-102 is an oral agent
+that combines triﬂuridine, a thymidine-based nucleoside
+analogue, with tipiracil hydrochloride, a novel thymidine
+phosphorylase inhibitor that improves the bioavailability of
+triﬂuridine. TAS-102 has demonstrated improved PFS and
+OS in refractory mCRC in a phase III trial.162 The most
+frequently observed adverse events are neutropaenia and
+leukopaenia and, much less frequently, febrile neutropaenia. A similar phase III trial conﬁrmed a longer mOS
+and a lower risk of death for those patients treated with
+TAS-102 compared with placebo.163
+HER2-positive mCRC. Ampliﬁcation of HER2 is a rare condition in mCRC. Therapies with HER2 blockade have shown
+signiﬁcant antitumour activity: a dual blockade of HER2 with
+a combination of trastuzumab, an anti-HER2 mAb and the
+tyrosine kinase inhibitor lapatinib, in a population of patients with KRAS exon 2-wt and HER2-positive mCRC
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+23
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+Stage IV unresectable mCRC: third-line and beyond
+
+PD
+
+RAS-wt and BRAF-wt
+
+RAS-mut
+
+BRAF V600E-mut
+
+PD
+
+PD
+
+PD
+
+Single agent anti-EGFR mAbc
+[I, A; panitumumab MCBS 3d]
+or
+Irinotecan–cetuximabc [II, B]
+
+Regorafenib
+[I, A; MCBS 1d]
+or
+Trifluridine–tipiracil
+[I, A; MCBS 3d]
+
+Encorafenib–cetuximabe
+[I, A; MCBS 4d; ESCAT I-Ab]
+
+HER2-positive
+
+Anti-HER2 drugsa
+[III, C; ESCAT II-Bb]
+
+Figure 5. Management of stage IV unresectable mCRC in third-line therapy and beyond. Purple: general categories or stratiﬁcation; blue: systemic anticancer
+therapy; white: other aspects of management.
+EGFR, epidermal growth factor receptor; EMA, European Medicines Agency; ESCAT, ESMO Scale for Clinical Actionability of Molecular Targets; FDA, Food and Drug
+Administration; HER2, human epidermal growth factor receptor 2; mAb, monoclonal antibody; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; mCRC, metastatic
+colorectal cancer; mut, mutant; PD, progressive disease; wt, wild-type.
+a
+For a summary of recommended anti-HER2 regimens for mCRC see Supplementary Table S6, available at https://doi.org/10.1016/j.annonc.2022.10.003.
+b
+ESCAT scores apply to genomic alterations only. These scores have been deﬁned by the guideline authors and validated by the ESMO Translational Research and
+Precision Medicine Working Group.164 See Supplementary Table S1, available at https://doi.org/10.1016/j.annonc.2022.10.003, for more information on ESCAT scores.
+c
+In RAS-wt patients not previously treated with anti-EGFR monoclonal antibodies.
+d
+ESMO-MCBS v1.1165 was used to calculate scores for therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS Working
+Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).
+e
+Treatment for BRAF-mut patients if not used in the second line.
+
+refractory to standard of care, led to an ORR (partial or
+complete) of 30%, and disease stability in an additional 44%
+of patients.14 A summary of HER2 blockade studies is provided in Supplementary Table S6, available at https://doi.
+org/10.1016/j.annonc.2022.10.003.
+
+
+
+Recommendations
+First-line therapy
+ Determining the RAS mutational status on a tumour biopsy [I, A] (or through a liquid biopsy in case no tumour
+sample is available [II, B]) is mandatory to guide the best
+treatment decision.
+ Delivering a biological therapy in combination with ChT
+in the ﬁrst-line setting is recommended, unless contraindicated [I, A].
+ In the majority of patients, ﬁrst-line treatment will
+consist of a doublet of ChT (FOLFOX, FOLFIRI, CAPOX)
+that can be combined with an anti-VEGF or anti-EGFR
+mAb [I, B; for FOLFIRIecetuximab ESMO-Magnitude of
+Clinical Beneﬁt Scale (ESMO-MCBS) v1.1 score: 4;
+FOLFOX4epanitumumab ESMO-MCBS v1.1 score: 4;
+modiﬁed FOLFOX6epanitumumab ESMO-MCBS v1.1
+score: 3].
+ In RAS-wt and BRAF-wt left-sided tumours, doublet ChT
+plus an anti-EGFR mAb is the preferred option [I, A]. Due
+24
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+
+
+
+
+
+
+
+
+to increased side-effects and lack of efﬁcacy, combination with cetuximabecapecitabine or bolus 5-FU-based
+ChT is not recommended [I, E].
+In RAS-wt right-sided tumours, ChT  bevacizumab is the
+preferred option [II, B]; although in cases in which a
+higher response is needed for conversion therapy, a
+doublet with cetuximab or panitumumab can be used
+[II, C].
+Anti-EGFR mAbs can be combined with the doublets
+FOLFOX or FOLFIRI [I, A; FOLFOX4epanitumumab
+ESMO-MCBS v1.1 score: 4; modiﬁed FOLFOX6epanitumumab ESMO-MCBS v1.1 score: 3; for FOLFIRIecetuximab ESMO-MCBS v1.1 score: 4].
+Bevacizumab can be combined with single ﬂuoropyrimidines, irinotecan or oxaliplatin-based doublet of ChT
+(FOLFOX, CAPOX, FOLFIRI) or triplets (FOLOXIRI) [I, B].
+Combining anti-VEGF plus anti-EGFR mAbs is not recommended [I, E].
+A triplet with FOLFOXIRI plus bevacizumab could also be
+an option for selective patients with good PS and
+without comorbidities [I, B; ESMO-MCBS v1.1 score: 2].
+Triplets including FOLFOXIRI should not be used in patients >75 years old, with PS2 or in patients with significant comorbidities [IV, E].
+In selected cases, when downstaging is the objective or
+in right-sided colon cancer with BRAF V600E mutations,
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+
+
+
+
+
+
+
+Annals of Oncology
+
+a triplet (FOLFOXIRI), which can be combined with bevacizumab, should be considered, but a doublet plus bevacizumab could provide similar outcomes [II, B].
+Triplets with FOLFOXIRI and anti-EGFR mAbs are not recommended [I, D].
+In patients with comorbidities, older age or with metastatic disease not amenable to a curative treatment
+strategy and no signiﬁcant disease-related symptoms,
+monotherapy with a ﬂuoropyrimidine  bevacizumab
+can be used [I, B]. In frail or elderly patients unable to
+tolerate ChT, whose tumours are left-sided and RAS-wt,
+monotherapy with anti-EGFR mAbs can be considered
+[IV, C].
+In patients presenting with cardiotoxicity and/or handfoot syndrome on 5-FU or capecitabine-based ChT, S-1
+may be used as an alternative [III, B].
+Patients should receive all available treatments during
+the course of the disease [I, B].
+In dMMR/MSI-H mCRC patients, the ICI pembrolizumab
+has demonstrated beneﬁt over standard ChT and targeted agents, in the ﬁrst-line setting and it is recommended as standard of care [I, A; ESMO-MCBS v1.1 score: 4;
+ESCAT: I-A].
+
+Maintenance therapy
+ After ﬁrst-line therapy with ChT based on oxaliplatine
+bevacizumab, maintenance therapy with a ﬂuoropyrimidine and bevacizumab could be considered in nonprogressive patients after at least 4 months of treatment
+[I, B].
+ After ﬁrst-line therapy with ChT based on oxaliplatin plus
+anti-EGFR mAbs, maintenance therapy with a ﬂuoropyrimidine plus anti-EGFR mAbs could be considered in nonprogressive patients [II, B].
+ When FOLFIRI is used in ﬁrst-line treatment, due to the
+lack of a cumulative toxicity, we should continue irinotecan full therapy until progressive disease [V, B].
+ Reintroduction of an initial successful induction therapy
+should be done after progressive disease while on maintenance therapy [III, B].
+Second-line treatment
+ In patients treated with ﬁrst-line oxaliplatin-based therapy, second-line treatment with irinotecan-based or
+monotherapy is recommended. On the contrary, those
+patients treated with irinotecan-based in ﬁrst line could
+receive an oxaliplatin-based treatment (FOLFOX or
+CAPOX) in second line if no contraindications [II, A].
+ In RAS-wt patients not previously treated with an antiEGFR mAb, treatment with ChT (FOLFIRI or irinotecan)
+and cetuximab or panitumumab could be considered
+for left-sided colon tumours [II, C]. For right-sided
+tumours, second-line therapy with an anti-angiogenic
+combined with ChT is recommended [II, B].
+ In patients previously treated with irinotecaneﬂuoropyrimidine-based ChT alone, a combination of FOLFOXe
+bevacizumab is recommended [I, A].
+
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+ A second-line treatment with an antiangiogenic combined with ChT, regardless of whether the ﬁrst-line treatment included bevacizumab or not, should be used,
+independently of the RAS mutational status and the
+PTL [I, A].
+ Bevacizumab can be combined with a ﬂuoropyrimidinedoublet with oxaliplatin or irinotecan, depending on
+the ﬁrst-line ChT backbone delivered [I, A; ESMO-MCBS
+v1.1 score: 1].
+ Aﬂibercept or ramucirumab in combination with FOLFIRI
+could be used as an alternative to bevacizumab with
+FOLFIRI in patients progressing on ﬁrst-line treatment
+with oxaliplatin-based ChT [I, A; ESMO-MCBS v1.1
+score: 1].
+ For BRAF V600E-mutated, pre-treated mCRC patients,
+encorafenibecetuximab is recommended as the best option in second line [I, A; ESMO-MCBS v1.1 score: 4;
+ESCAT: I-A].
+ For dMMR/MSI-H tumours progressing after ﬁrst-line
+ChT, ipilimumabenivolumab is recommended [III, B;
+ESMO-MCBS v1.1 score 3].
+Third- and further-line treatment
+ Reintroduction of the initial induction therapy can be
+considered after second-line therapy, as long as the patient did not progress during the induction course of
+ﬁrst-line ChT [III, B].
+ Regorafenib is recommended in patients pre-treated
+with ﬂuoropyrimidines, oxaliplatin, irinotecan and biologics, if available, or in earlier lines of therapy following
+oxaliplatin and irinotecan regimen failure, depending on
+local approvals [I, A, ESMO-MCBS v1.1 score: 1].
+ Triﬂuridineetipiracil is recommended in patients pretreated with ﬂuoropyrimidines, oxaliplatin, irinotecan
+and biologics, if available, or in earlier lines of therapy
+following oxaliplatin and irinotecan regimen failure,
+depending on local approvals [I, A; ESMO-MCBS v1.1
+score: 3].
+ For BRAF V600E-mutated, pre-treated mCRC patients,
+encorafenibecetuximab is recommended as the best option in third line [I, A; ESMO-MCBS v1.1 score: 4; ESCAT:
+I-A].
+ In RAS-wt and BRAF-wt patients not previously treated
+with EGFR antibodies, cetuximab and panitumumab
+are recommended as single agents [I, A; panitumumab
+ESMO-MCBS v1.1 score: 3].
+ In irinotecan-refractory patients, cetuximabeirinotecan
+is recommended over cetuximab alone [II, B].
+ Administering an alternative anti-EGFR antibody, if a patient is refractory to one of the other anti-EGFR antibodies, is not recommended [I, E].
+ In patients maintaining RAS-wt status, rechallenge with
+anti-EGFR mAbs may be an option in selected patients
+[III, C].
+ In HER2-positive patients with mCRC, treatment with
+HER2 dual blockade is optionally recommended, especially in RAS-wt tumours [III, C; ESCAT: II-B].
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+25
+
+A. Cervantes et al.
+
+Annals of Oncology
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND
+SURVIVORSHIP
+The survivorship goals include physical evaluation and
+management of the long-term toxicities related to surgery, LTs, ChT, targeted agents or immunotherapy. If the
+patient is receiving an active treatment, radiological
+evaluation should be carried out every 8-12 weeks,
+including (in most cases) CT scan or MRI, as well as the
+measurement of CEA levels. Patients with a radically
+resected metastatic disease with potential for cure may
+initially merit more intense monitoring with radiological
+assessment with CT (or MRI) and measurement of CEA
+levels every 3 months during the ﬁrst 2 years and every
+6 months thereafter.19
+Recommendations
+ For patients receiving active treatment, radiological
+evaluation should be carried out every 8-12 weeks,
+including (in most cases) CT scan or MRI, as well as the
+measurement of CEA levels [IV, B].
+ Patients with a radically resected metastatic disease with
+potential for cure merit more intense monitoring initially
+with radiological assessment with CT (or MRI) and measurement of CEA levels every 3 months during the ﬁrst 2
+years and every 6 months thereafter [I, A].
+METHODOLOGY
+This CPG was developed in accordance with the ESMO
+standard operating procedures for CPG development
+(https://www.esmo.org/Guidelines/ESMO-Guidelines-Meth
+odology). The relevant literature has been selected by the
+expert authors. A table of ESCAT scores is included in
+Supplementary Table S1, available at https://doi.org/10.
+1016/j.annonc.2022.10.003. ESCAT scores have been
+deﬁned by the authors and validated by the ESMO Translational Research and Precision Medicine Working Group.164
+A table of ESMO-MCBS scores is included in Supplementary
+Table S7, available at https://doi.org/10.1016/j.annonc.
+2022.10.003. ESMO-MCBS v1.1165 was used to calculate
+scores for new therapies/indications approved by the EMA
+or the Food and Drug Administration (FDA) (https://www.
+esmo.org/Guidelines/ESMO-MCBS). The scores have been
+calculated by the ESMO-MCBS Working Group and validated by the ESMO Guidelines Committee. The FDA/EMA or
+other regulatory body approval status of new therapies/
+indications is reported at the time of writing this CPG.
+Levels of evidence and grades of recommendation have
+been applied using the system shown in Supplementary
+Table S8, available at https://doi.org/10.1016/j.annonc.
+2022.10.003.166,167 Statements without grading were
+considered justiﬁed standard clinical practice by the authors. For future updates to this CPG, including eUpdates
+and Living Guidelines, please see the ESMO Guidelines
+website: https://www.esmo.org/guidelines/guidelines-bytopic/gastrointestinal-cancers/metastatic-colorectal-cancer.
+
+26
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+ACKNOWLEDGEMENTS
+Manuscript editing support was provided by Claire Bramley,
+Catherine Evans and Richard Lutz (ESMO Guidelines staff).
+Nathan Cherny, Chair of the ESMO-MCBS Working Group,
+Urania Dafni and Giota Zygoura of Frontier Science Foundation Hellas provided review and validation of the ESMOMCBS scores. Nicola Latino (ESMO Scientiﬁc Affairs staff)
+provided coordination and support of the ESMO-MCBS
+scores and Angela Corstorphine of Kstorﬁn Medical Communications Ltd. provided medical writing and editing
+support in the preparation of the ESMO-MCBS table; this
+support was funded by ESMO. Dr Benedikt Westphalen and
+Dr Noelia Tarazona (members of the ESMO Translational
+Research and Precision Medicine Working Group) and Dr
+Svetlana Jezdic (ESMO Medical Affairs Advisor) provided
+validation support for ESCAT scores.
+FUNDING
+No external funding has been received for the preparation
+of this guideline. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURE
+AC reports fees paid to his institution as an invited speaker
+from Amgen, Foundation Medicine, Merck Serono and
+Roche; fees paid to his institution for advisory board
+membership from Amgen, AnHeart Therapeutics, Merck
+Serono, Roche and Transgene; personal fees for editorial
+roles as Associate Editor for Annals of Oncology and ESMO
+Open and as Editor for Cancer Treatment Reviews; institutional funding as principal investigator (PI) from Actuate
+Therapeutic, Adaptimmune, Amcure, Amgen, Astellas,
+AstraZeneca, Bayer, BeiGene, Bristol Myers Squibb (BMS),
+FibroGen, Genentech, Lilly, MedImmune, Merck Serono,
+Merck Sharp & Dohme (MSD), Natera, Novartis, Servier,
+Sierra Oncology and Takeda; he reports a non-remunerated
+role as General and Scientiﬁc Director of INCLIVA Biomedical Research Institute. RA reports personal fees as an
+invited speaker from Merck Serono and Sanoﬁ. SR reports
+personal fees as an invited speaker from Amgen, MSD and
+Servier; personal fees for advisory board membership from
+Amgen, Servier and Sirtex; institutional funding as a local PI
+from Ability Pharmaceuticals, Astellas, G1 Therapeutics,
+Hutchinson, Menarini, Mirati, Novartis, Pﬁzer, Pierre Fabre,
+Roche and Seagen. DA reports personal fees as an invited
+speaker from Amgen, AstraZeneca, Boston Scientiﬁc, BMS,
+Ipsen, Merck Serono, MSD, Pierre Fabre, Roche, Samsung
+Bioepis, Sanoﬁ (Genzyme), Servier and Terumo; personal
+fees as an invited speaker and continued medical education
+(CME) provider from ACE Oncology, Aptitude Health, Art
+Tempi Media, Clinical Care Options, From Research to
+Practice, Imedex, MedAhead (Austria), PRMA Consulting,
+Streamitup (Germany), Tactic MD LLC, WebMD Health Corp;
+personal fees for advisory board membership from AstraZeneca, Boston Scientiﬁc, BMS, CRA International, Ketchum,
+MSD, Pierre Fabre, Samsung Bioepis, Sanoﬁ (Genzyme) and
+
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+Terumo; personal fees for advisory board membership, CME
+provider and App producer from onkowissen; personal fees
+for editorial roles as an Associate Editor for Annals of
+Oncology, ESMO Open and Clinical Colorectal Cancer;
+institutional funding from AbbVie and as a local PI from
+BMS and Pierre Fabre, as a coordinating PI from OncoLytics
+and as a Steering Committee member from Roche;
+he reports fees paid to his institution as Chair of the
+Data Safety Monitoring Board from Sanoﬁ (Genzyme);
+non-remunerated activities as a project lead with OncoLytics, member of the American Society of Clinical Oncology
+(ASCO), the Deutsche Gesellschaft für Hämatologie und
+Medizinische Onkologie (DGHO), European School of
+Oncology (ESO) and a leadership role and Steering Committee membership with the Arbeitsgemeinschaft Internistische Onkologie in der Deutschen Krebsgesellschaft
+(AIO) and European Organisation for Research and Treatment of Cancer (EORTC) gastrointestinal group. NN reports
+personal fees as an invited speaker from Eli Lilly, Illumina,
+Merck, MSD and Thermo Fisher; personal fees for advisory
+board membership from Amgen, AstraZeneca, Bayer, Biocartis, Incyte, Novartis and Roche; institutional funding from
+AstraZeneca, Biocartis, Blueprint, Illumina, Incyte, Merck,
+Qiagen, Roche and Thermo Fisher; and non-remunerated
+activities as President of International Quality Network of
+Pathology (IQN Path) and President of the Società Italiana di
+Cancerologia (SIC). JT reports personal fees as an invited
+speaker and for advisory board membership from Amgen,
+BMS, Merck, MSD, Novartis, Pierre Fabre, Roche and Servier; non-remunerated activities as Chair of the Aide et
+Recherche en Cancérologie Digestive (ARCAD) Foundation
+pancreas research group, president of the scientiﬁc committee for the ARCAD foundation and as member of the
+administrative council, scientiﬁc committee, executive
+board responsible for international relationships/partnerships for the Federation Francophone de Cancerologie
+Digestive (FFCD) in the PRODIGE Intergroup for the FFCD. JS
+reports personal fees as an invited speaker from Merck
+Serono, Pierre Fabre and Servier; personal fees for advisory
+board membership from Pierre Fabre, Ventana and Zentalis;
+personal fees for consultancy and review of guidelines from
+Roche Diagnostics; personal fees for CME activities from GI
+Connect; personal fees for expert testimony from Seagen;
+personal fees for travel expenses from BMS and Servier;
+institutional funding from Pierre Fabre. TDB reports personal fees as an invited speaker from Boston Scientiﬁc and
+GE Healthcare; personal fees for advisory board membership from Guerbet, Quantum Surgical and Terumo; institutional funding from Quantum Surgical and Terumo. PO
+reports personal fees as an invited speaker from BMS Eisai,
+Fresenius Kabi, Nordic Drugs, Novartis, Nutricia, Roche and
+Servier; personal feels for advisory board membership from
+Amgen, AstraZeneca, Bayer, Daiichi Sankyo (in collaboration
+with AstraZeneca), Eisai, Incyte, Merck, MSD, Pierre Fabre,
+Roche, Sanoﬁ and Sobi; and personal fees for expert testimony for the Finnish Medicines Agency from BMS; she reports institutional funding for research grants from Amgen
+and Servier; as a local PI from Incyte and as a coordinating
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+PI from Pﬁzer and Roche; she reports non-remunerated
+activities as a member of the Colores patient advocacy
+group and as a Board Member of the Finnish Cancer Society. TY reports personal fees as an invited speaker from
+Bayer, Chugai, Merck Biopharma, MSD and Ono; institutional funding from Amgen, Boehringer Ingelheim, Chugai,
+Daiichi Sankyo, Genomedia, MSD, Ono, Sysmex and Taiho
+and as a local PI from Chugai, Daiichi Sankyo, Ono, Pﬁzer
+and Sanoﬁ. EM reports personal fees as an invited speaker
+from Bayer, ESMO, Incyte, Merck S.p.A., Merck Serono,
+Pierre Fabre, Roche and Servier; personal fees for writing
+engagements from AstraZeneca, Incyte, MSD, Pierre Fabre,
+Roche and Servier; personal fees for advisory board membership from Amgen, Incyte, MSD, Pierre Fabre, Roche and
+Servier.
+REFERENCES
+1. Sung H, Ferlay J, Siegel RL, et al. Global cancer statistics 2020:
+GLOBOCAN estimates of incidence and mortality worldwide for
+36 cancers in 185 countries. CA Cancer J Clin. 2021;71(3):209249.
+2. Malvezzi M, Carioli G, Bertuccio P, et al. European cancer mortality
+predictions for the year 2018 with focus on colorectal cancer. Ann
+Oncol. 2018;29(4):1016-1022.
+3. Amado RG, Wolf M, Peeters M, et al. Wild-type KRAS is required for
+panitumumab efﬁcacy in patients with metastatic colorectal cancer.
+J Clin Oncol. 2008;26(10):1626-1634.
+4. Karapetis CS, Khambata-Ford S, Jonker DJ, et al. K-ras mutations and
+beneﬁt from cetuximab in advanced colorectal cancer. N Engl J Med.
+2008;359(17):1757-1765.
+5. Douillard JY, Siena S, Cassidy J, et al. Randomised, phase III trial of
+panitumumab with infusional ﬂuorouracil, leucovorin, and oxaliplatin
+(FOLFOX4) versus FOLFOX4 alone as ﬁrst-line treatment in patients
+with previously untreated metastatic colorectal cancer: the PRIME
+study. J Clin Oncol. 2010;28(31):4697-4705.
+6. Normanno N, Esposito Abate R, Lambiase M, et al. RAS testing of
+liquid biopsy correlates with the outcome of metastatic colorectal
+cancer patients treated with ﬁrst-line FOLFIRI plus cetuximab in the
+CAPRI-GOIM trial. Ann Oncol. 2018;29(1):112-118.
+7. Maurel J, Alonso V, Escudero P, et al. Clinical impact of circulating
+tumour RAS and BRAF mutation dynamics in patients with metastatic
+colorectal cancer treated with ﬁrst-line chemotherapy plus antiepidermal growth factor receptor therapy. JCO Precis Oncol. 2019;3:
+1-16.
+8. Bachet JB, Bouche O, Taieb J, et al. RAS mutation analysis in circulating tumour DNA from patients with metastatic colorectal cancer:
+the AGEO RASANC prospective multicenter study. Ann Oncol.
+2018;29(5):1211-1219.
+9. Kopetz S, Grothey A, Yaeger R, et al. Encorafenib, binimetinib, and
+cetuximab in BRAF V600E-mutated colorectal cancer. N Engl J Med.
+2019;381(17):1632-1643.
+10. Schirripa M, Biason P, Lonardi S, et al. Class 1, 2, and 3 BRAF-mutated
+metastatic colorectal cancer: a detailed clinical, pathologic, and molecular characterization. Clin Cancer Res. 2019;25(13):3954-3961.
+11. Le DT, Uram JN, Wang H, et al. PD-1 blockade in tumours with
+mismatch-repair deﬁciency. N Engl J Med. 2015;372(26):2509-2520.
+12. André T, Shiu K-K, Kim TW, et al. Pembrolizumab in microsatelliteinstabilityehigh advanced colorectal cancer. N Engl J Med.
+2020;383(23):2207-2218.
+13. Stjepanovic N, Moreira L, Carneiro F, et al. Hereditary gastrointestinal
+cancers: ESMO Clinical Practice Guidelines for diagnosis, treatment
+and follow-up. Ann Oncol. 2019;30(10):1558-1571.
+14. Sartore-Bianchi A, Trusolino L, Martino C, et al. Dual-targeted therapy
+with trastuzumab and lapatinib in treatment-refractory, KRAS codon
+12/13 wild-type, HER2-positive metastatic colorectal cancer
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+27
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+28
+
+(HERACLES): a proof-of-concept, multicentre, open-label, phase 2
+trial. Lancet Oncol. 2016;17(6):738-746.
+Pietrantonio F, Di Nicolantonio F, Schrock AB, et al. ALK, ROS1, and
+NTRK rearrangements in metastatic colorectal cancer. J Natl Cancer
+Inst. 2017;109(12). https://doi.org/10.1093/jnci/djx089.
+Marchiò C, Scaltriti M, Ladanyi M, et al. ESMO recommendations on
+the standard methods to detect NTRK fusions in daily practice and
+clinical research. Ann Oncol. 2019;30(9):1417-1427.
+Hong DS, DuBois SG, Kummar S, et al. Larotrectinib in patients with
+TRK fusion-positive solid tumours: a pooled analysis of three phase 1/
+2 clinical trials. Lancet Oncol. 2020;21(4):531-540.
+Doebele RC, Drilon A, Paz-Ares L, et al. Entrectinib in patients with
+advanced or metastatic NTRK fusion-positive solid tumours: integrated analysis of three phase 1-2 trials. Lancet Oncol. 2020;21(2):
+271-282.
+Argilés G, Tabernero J, Labianca R, et al. Localised colon cancer: ESMO
+Clinical Practice Guidelines for diagnosis, treatment and follow-up.
+Ann Oncol. 2020;31(10):1291-1305.
+Niekel MC, Bipat S, Stoker J. Diagnostic imaging of colorectal liver
+metastases with CT, MR imaging, FDG PET, and/or FDG PET/CT: a
+meta-analysis of prospective studies including patients who have
+not previously undergone treatment. Radiology. 2010;257(3):674684.
+Duffy MJ, Lamerz R, Haglund C, et al. Tumour markers in colorectal
+cancer, gastric cancer and gastrointestinal stromal cancers: European
+group on tumour markers 2014 guidelines update. Int J Cancer.
+2014;134(11):2513-2522.
+Arnold D, Lueza B, Douillard JY, et al. Prognostic and predictive value
+of primary tumour side in patients with RAS wild-type metastatic
+colorectal cancer treated with chemotherapy and EGFR directed antibodies in six randomised trials. Ann Oncol. 2017;28(8):1713-1729.
+Dienstmann R, Vermeulen L, Guinney J, et al. Consensus molecular
+subtypes and the evolution of precision medicine in colorectal cancer.
+Nat Rev Cancer. 2017;17(2):79-92.
+Xu H, Xia Z, Jia X, et al. Primary tumour resection is associated with
+improved survival in stage IV colorectal cancer: an instrumental
+variable analysis. Sci Rep. 2015;5:16516.
+Yi C, Li J, Tang F, et al. Is primary tumour excision and speciﬁc metastases sites resection associated with improved survival in stage Ⅳ
+colorectal cancer? Results from SEER database analysis. Am Surg.
+2020;86(5):499-507.
+Faron M, Pignon JP, Malka D, et al. Is primary tumour resection
+associated with survival improvement in patients with colorectal
+cancer and unresectable synchronous metastases? A pooled analysis
+of individual data from four randomised trials. Eur J Cancer.
+2015;51(2):166-176.
+Kanemitsu Y, Shitara K, Mizusawa J, et al. Primary tumour resection
+plus chemotherapy versus chemotherapy alone for colorectal cancer
+patients with asymptomatic, synchronous unresectable metastases
+(JCOG1007; iPACS): a randomised clinical trial. J Clin Oncol.
+2021;39(10):1098-1107.
+Rahbari NN, Biondo S, Feißt M, et al. Randomised clinical trial on
+resection of the primary tumour versus no resection prior to systemic
+therapy in patients with colon cancer and synchronous unresectable
+metastases. J Clin Oncol. 2022;40(17_suppl):LBA3507.
+Prades J, Borras JM. Shifting sands: adapting the multidisciplinary
+team model to technological and organizational innovations in cancer
+care. Future Oncol. 2014;10(13):1995-1998.
+Beets G, Sebag-Monteﬁore D, Andritsch E, et al. ECCO essential requirements for quality cancer care: colorectal cancer. A critical review.
+Crit Rev Oncol Hematol. 2017;110:81-93.
+Shah S, Arora S, Atkin G, et al. Decision-making in colorectal cancer
+tumour board meetings: results of a prospective observational
+assessment. Surg Endosc. 2014;28(10):2783-2788.
+Osterlund P, Salminen T, Soveri LM, et al. Repeated centralized
+multidisciplinary team assessment of resectability, clinical behavior,
+and outcomes in 1086 Finnish metastatic colorectal cancer patients
+(RAXO): a nationwide prospective intervention study. Lancet Reg
+Health Eur. 2021;3:100049.
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+33. Adam R, De Gramont A, Figueras J, et al. The oncosurgery approach
+to managing liver metastases from colorectal cancer: a multidisciplinary international consensus. Oncologist. 2012;17(10):1225-1239.
+34. Nordlinger B, Sorbye H, Glimelius B, et al. Perioperative chemotherapy with FOLFOX4 and surgery versus surgery alone for resectable liver metastases from colorectal cancer (EORTC Intergroup trial
+40983): a randomised controlled trial. Lancet. 2008;371(9617):10071016.
+35. Primrose J, Falk S, Finch-Jones M, et al. Systemic chemotherapy with
+or without cetuximab in patients with resectable colorectal liver
+metastasis: the New EPOC randomised controlled trial. Lancet Oncol.
+2014;15(6):601-611.
+36. Adam R, de Gramont A, Figueras J, et al. Managing synchronous liver
+metastases from colorectal cancer: a multidisciplinary international
+consensus. Cancer Treat Rev. 2015;41(9):729-741.
+37. Cao C, Yan TD, Black D, et al. A systematic review and meta-analysis
+of cytoreductive surgery with perioperative intraperitoneal chemotherapy for peritoneal carcinomatosis of colorectal origin. Ann Surg
+Oncol. 2009;16(8):2152-2165.
+38. Cotte E, Passot G, Mohamed F, et al. Management of peritoneal
+carcinomatosis from colorectal cancer: current state of practice.
+Cancer J. 2009;15(3):243-248.
+39. Elias D, Lefevre JH, Chevalier J, et al. Complete cytoreductive surgery
+plus intraperitoneal chemohyperthermia with oxaliplatin for peritoneal
+carcinomatosis of colorectal origin. J Clin Oncol. 2009;27(5):681-685.
+40. Quenet F, Elias D, Roca L, et al. Cytoreductive surgery plus hyperthermic intraperitoneal chemotherapy versus cytoreductive surgery
+alone for colorectal peritoneal metastases (PRODIGE 7): a multicentre, randomised, open-label, phase 3 trial. Lancet Oncol.
+2021;22(2):256-266.
+41. Nordlinger B, Sorbye H, Glimelius B, et al. Perioperative FOLFOX4
+chemotherapy and surgery versus surgery alone for resectable liver
+metastases from colorectal cancer (EORTC 40983): long-term results
+of a randomised, controlled, phase 3 trial. Lancet Oncol. 2013;14(12):
+1208-1215.
+42. Bridgewater JA, Pugh SA, Maishman T, et al. Systemic chemotherapy
+with or without cetuximab in patients with resectable colorectal
+liver metastasis (New EPOC): long-term results of a multicentre,
+randomised, controlled, phase 3 trial. Lancet Oncol. 2020;21(3):398411.
+43. Stintzing S, Modest DP, Rossius L, et al. FOLFIRI plus cetuximab versus
+FOLFIRI plus bevacizumab for metastatic colorectal cancer (FIRE-3): a
+post-hoc analysis of tumour dynamics in the ﬁnal RAS wild-type
+subgroup of this randomised open-label phase 3 trial. Lancet Oncol.
+2016;17(10):1426-1434.
+44. Lenz H, Niedzwiecki D, Innocenti F, et al. Calgb/Swog 80405: phase III trial
+of irinotecan/5-FU/leucovorin (FOLFIRI) or oxaliplatin/5-FU/leucovorin
+(mFOLFOX6) with bevacizumab (BV) or cetuximab (CET) for patients (Pts)
+with expanded Ras analyses untreated metastatic adenocarcinoma of
+the colon or rectum (MCRC). Ann Oncol. 2014;25(4):v1.
+45. Falcone A, Ricci S, Brunetti I, et al. Phase III trial of infusional ﬂuorouracil, leucovorin, oxaliplatin, and irinotecan (FOLFOXIRI) compared
+with infusional ﬂuorouracil, leucovorin, and irinotecan (FOLFIRI) as
+ﬁrst-line treatment for metastatic colorectal cancer: the Gruppo
+Oncologico Nord Ovest. J Clin Oncol. 2007;25(13):1670-1676.
+46. Loupakis F, Cremolini C, Masi G, et al. Initial therapy with FOLFOXIRI
+and bevacizumab for metastatic colorectal cancer. N Engl J Med.
+2014;371(17):1609-1618.
+47. Gruenberger T, Bridgewater J, Chau I, et al. Bevacizumab plus
+mFOLFOX-6 or FOLFOXIRI in patients with initially unresectable liver
+metastases from colorectal cancer: the OLIVIA multinational randomised phase II trial. Ann Oncol. 2015;26(4):702-708.
+48. Ducreux M, Ychou M, Laplanche A, et al. Hepatic arterial oxaliplatin
+infusion plus intravenous chemotherapy in colorectal cancer with
+inoperable hepatic metastases: a trial of the gastrointestinal group of
+the Fédération Nationale des Centres de Lutte Contre le Cancer. J Clin
+Oncol. 2005;23(22):4881-4887.
+49. Lévi FA, Boige V, Hebbar M, et al. Conversion to resection of liver
+metastases from colorectal cancer with hepatic artery infusion of
+
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+Annals of Oncology
+
+combined chemotherapy and systemic cetuximab in multicenter trial
+OPTILIV. Ann Oncol. 2016;27(2):267-274.
+Jones RP, Vauthey JN, Adam R, et al. Effect of specialist decisionmaking on treatment strategies for colorectal liver metastases. Br J
+Surg. 2012;99(9):1263-1269.
+Modest DP, Denecke T, Pratschke J, et al. Surgical treatment options
+following chemotherapy plus cetuximab or bevacizumab in metastatic colorectal cancer-central evaluation of FIRE-3. Eur J Cancer.
+2018;88:77-86.
+Goéré D, Pignon JP, Gelli M, et al. Postoperative hepatic arterial
+chemotherapy in high-risk patients as adjuvant treatment after
+resection of colorectal liver metastases - a randomised phase II/III
+trial - PACHA-01 (NCT02494973). BMC Cancer. 2018;18(1):787.
+Wong SL, Mangu PB, Choti MA, et al. American Society of Clinical
+Oncology 2009 clinical evidence review on radiofrequency ablation of
+hepatic metastases from colorectal cancer. J Clin Oncol. 2010;28(3):
+493-508.
+de Baère T, Aupérin A, Deschamps F, et al. Radiofrequency ablation is
+a valid treatment option for lung metastases: experience in 566 patients with 1037 metastases. Ann Oncol. 2015;26(5):987-991.
+Shady W, Petre EN, Do KG, et al. Percutaneous microwave versus
+radiofrequency ablation of colorectal liver metastases: ablation with
+clear margins (A0) provides the best local tumour control. J Vasc
+Interv Radiol. 2018;29(2):268-275.e1.
+de Baere T, Tselikas L, Woodrum D, et al. Evaluating cryoablation of
+metastatic lung tumours in patientsdsafety and efﬁcacy: the ECLIPSE
+trialdinterim analysis at 1 year. J Thorac Oncol. 2015;10(10):1468-1474.
+Kobiela J, Spychalski P, Marvaso G, et al. Ablative stereotactic radiotherapy for oligometastatic colorectal cancer: systematic review. Crit
+Rev Oncol Hematol. 2018;129:91-101.
+Tree AC, Khoo VS, Eeles RA, et al. Stereotactic body radiotherapy for
+oligometastases. Lancet Oncol. 2013;14(1):e28-e37.
+Khattak MA, Martin HL, Beeke C, et al. Survival differences in patients
+with metastatic colorectal cancer and with single site metastatic
+disease at initial presentation: results from South Australian Clinical
+Registry for Advanced Colorectal Cancer. Clin Colorectal Cancer.
+2012;11(4):247-254.
+Price TJ, Townsend AR, Beeke C, et al. “Watchful waiting” for metastatic colorectal cancer, antediluvian or an option to be considered
+again? Asia Pac J Clin Oncol. 2012;8(1):10-13.
+Weiser MR, Jarnagin WR, Saltz LB. Colorectal cancer patients with
+oligometastatic liver disease: what is the optimal approach? Oncology
+(Williston Park). 2013;27(11):1074-1078.
+Fonck M, Perez JT, Catena V, et al. Pulmonary thermal ablation enables long chemotherapy-free survival in metastatic colorectal cancer
+patients. Cardiovasc Intervent Radiol. 2018;41(11):1727-1734.
+Tanis E, Nordlinger B, Mauer M, et al. Local recurrence rates after
+radiofrequency ablation or resection of colorectal liver metastases.
+Analysis of the European Organisation for Research and Treatment of
+Cancer #40004 and #40983. Eur J Cancer. 2014;50(5):912-919.
+Shady W, Petre EN, Gonen M, et al. Percutaneous radiofrequency
+ablation of colorectal cancer liver metastases: factors affecting outcomes–a 10-year experience at a single center. Radiology.
+2016;278(2):601-611.
+Ruers T, Van Coevorden F, Punt CJA, et al. Local treatment of unresectable colorectal liver metastases: results of a randomised phase II
+trial. J Natl Cancer Inst. 2017;109(9):djx015.
+Evrard S, Poston G, Kissmeyer-Nielsen P, et al. Combined ablation and
+resection (CARe) as an effective parenchymal sparing treatment for
+extensive colorectal liver metastases. PLoS One. 2014;9(12):e114404.
+van Amerongen MJ, Jenniskens SFM, van den Boezem PB, et al.
+Radiofrequency ablation compared to surgical resection for curative
+treatment of patients with colorectal liver metastases e a metaanalysis. HPB (Oxford). 2017;19(9):749-756.
+Shady W, Petre EN, Vakiani E, et al. Kras mutation is a marker of worse
+oncologic outcomes after percutaneous radiofrequency ablation of
+colorectal liver metastases. Oncotarget. 2017;8(39):66117-66127.
+Elias D, De Baere T, Smayra T, et al. Percutaneous radiofrequency
+thermoablation as an alternative to surgery for treatment of liver
+
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+tumour recurrence after hepatectomy. Br J Surg. 2002;89(6):752756.
+Sofocleous CT, Petre EN, Gonen M, et al. CT-guided radiofrequency
+ablation as a salvage treatment of colorectal cancer hepatic metastases developing after hepatectomy. J Vasc Interv Radiol. 2011;22(6):
+755-761.
+Gu Y, Huang Z, Gu H, et al. Does the site of the primary affect outcomes when ablating colorectal liver metastases with radiofrequency
+ablation? Cardiovasc Intervent Radiol. 2018;41(6):912-919.
+Gillams A, Khan Z, Osborn P, et al. Survival after radiofrequency
+ablation in 122 patients with inoperable colorectal lung metastases.
+Cardiovasc Intervent Radiol. 2012;36(3):724-730.
+Kurilova I, Gonzalez-Aguirre A, Beets-Tan RG, et al. Microwave ablation in the management of colorectal cancer pulmonary metastases.
+Cardiovasc Intervent Radiol. 2018;41(10):1530-1544.
+Najaﬁ A, de Baere T, Purenne E, et al. Risk factors for local tumour
+progression after RFA of pulmonary metastases: a matched casecontrol study. Eur Radiol. 2021;31(7):5361-5369.
+Kashima M, Yamakado K, Takaki H, et al. Complications after 1000
+lung radiofrequency ablation sessions in 420 patients: a single center’s experiences. AJR Am J Roentgenol. 2011;197(4):W576-W580.
+Schlijper RCJ, Grutters JPC, Houben R, et al. What to choose as radical
+local treatment for lung metastases from colo-rectal cancer: surgery
+or radiofrequency ablation? Cancer Treat Rev. 2014;40(1):60-67.
+Ahmed KA, Caudell JJ, El-Haddad G, et al. Radiosensitivity differences
+between liver metastases based on primary histology suggest implications for clinical outcomes after stereotactic body radiation therapy. Int J Radiat Oncol Biol Phys. 2016;95(5):1399-1404.
+Binkley MS, Trakul N, Jacobs LR, et al. Colorectal histology is associated with an increased risk of local failure in lung metastases treated
+with stereotactic ablative radiation therapy. Int J Radiat Oncol Biol
+Phys. 2015;92(5):1044-1052.
+Oh D, Ahn YC, Seo JM, et al. Potentially curative stereotactic body
+radiation therapy (SBRT) for single or oligometastasis to the lung.
+Acta Oncol. 2012;51(5):596-602.
+Fiorentini G, Aliberti C, Tilli M, et al. Intra-arterial infusion of
+irinotecan-loaded drug-eluting beads (DEBIRI) versus intravenous
+therapy (FOLFIRI) for hepatic metastases from colorectal cancer: ﬁnal
+results of a phase III study. Anticancer Res. 2012;32(4):1387-1395.
+Martin RCG, Scoggins CR, Schreeder M, et al. Randomised controlled
+trial of irinotecan drug-eluting beads with simultaneous FOLFOX and
+bevacizumab for patients with unresectable colorectal liver-limited
+metastasis. Cancer. 2015;121(20):3649-3658.
+Jones RP, Malik HZ, Fenwick SW, et al. PARAGON II e a single arm
+multicentre phase II study of neoadjuvant therapy using irinotecan
+bead in patients with resectable liver metastases from colorectal
+cancer. Eur J Surg Oncol. 2016;42(12):1866-1872.
+Akinwande O, Dendy M, Ludwig JM, et al. Hepatic intra-arterial injection of irinotecan drug eluting beads (DEBIRI) for patients with
+unresectable colorectal liver metastases: a systematic review. Surg
+Oncol. 2017;26(3):268-275.
+Fiorentini G, Carandina R, Sarti D, et al. Polyethylene glycol microspheres
+loaded with irinotecan for arterially directed embolic therapy of metastatic liver cancer. World J Gastrointest Oncol. 2017;9(9):379-384.
+Prince JF, van den Bosch MAAJ, Nijsen JFW, et al. Efﬁcacy of radioembolisation with 166Ho-microspheres in salvage patients with liver
+metastases: a phase 2 study. J Nucl Med. 2017;59(4):582-588.
+Smits MLJ, Nijsen JFW, van den Bosch MAAJ, et al. Holmium-166
+radioembolisation in patients with unresectable, chemorefractory
+liver metastases (HEPAR trial): a phase 1, dose-escalation study.
+Lancet Oncol. 2012;13(10):1025-1034.
+Hendlisz A, Eynde MVd, Peeters M, et al. Phase III trial comparing
+protracted intravenous ﬂuorouracil infusion alone or with yttrium-90
+resin microspheres radioembolisation for liver-limited metastatic
+colorectal cancer refractory to standard chemotherapy. J Clin Oncol.
+2010;28(23):3687-3694.
+Wasan HS, Gibbs P, Sharma NK, et al. First-line selective internal
+radiotherapy plus chemotherapy versus chemotherapy alone in patients with liver metastases from colorectal cancer (FOXFIRE,
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+29
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+89.
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+97.
+
+98.
+
+99.
+
+100.
+
+101.
+
+102.
+
+103.
+
+104.
+
+105.
+
+30
+
+SIRFLOX, and FOXFIRE-Global): a combined analysis of three multicentre, randomised, phase 3 trials. Lancet Oncol. 2017;18(9):11591171.
+van Hazel GA, Heinemann V, Sharma NK, et al. SIRFLOX: randomised
+phase III trial comparing ﬁrst-line mFOLFOX6 (plus or minus bevacizumab) versus mFOLFOX6 (plus or minus bevacizumab) plus selective internal radiation therapy in patients with metastatic
+colorectal cancer. J Clin Oncol. 2016;34(15):1723-1731.
+Gibbs P, Heinemann V, Sharma NK, et al. Effect of primary tumour
+side on survival outcomes in untreated patients with metastatic
+colorectal cancer when selective internal radiation therapy is added
+to chemotherapy: combined analysis of two randomised controlled
+studies. Clin Colorectal Cancer. 2018;17(4):e617-e629.
+Deschamps F, Elias D, Goere D, et al. Intra-arterial hepatic chemotherapy: a comparison of percutaneous versus surgical implantation
+of port-catheters. Cardiovasc Intervent Radiol. 2010;34(5):973-979.
+Boige V, Malka D, Elias D, et al. Hepatic arterial infusion of oxaliplatin
+and intravenous LV5FU2 in unresectable liver metastases from
+colorectal cancer after systemic chemotherapy failure. Ann Surg
+Oncol. 2007;15(1):219-226.
+Allard MA, Sebagh M, Baillie G, et al. Comparison of complete
+pathologic response and hepatic injuries between hepatic arterial
+infusion and systemic administration of oxaliplatin in patients with
+colorectal liver metastases. Ann Surg Oncol. 2014;22(6):1925-1932.
+Van Cutsem E, Cervantes A, Adam R, et al. ESMO consensus guidelines for the management of patients with metastatic colorectal
+cancer. Ann Oncol. 2016;27(8):1386-1422.
+Papamichael D, Audisio RA, Glimelius B, et al. Treatment of colorectal
+cancer in older patients: International Society of Geriatric Oncology
+(SIOG) consensus recommendations 2013. Ann Oncol. 2015;26(3):
+463-476.
+Papamichael D, Aapro M. Geriatric factors and outcomes in metastatic colorectal cancer. Eur J Cancer. 2017;74:96-97.
+Van Cutsem E, Cervantes A, Nordlinger B, et al. Metastatic colorectal
+cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment
+and follow-up. Ann Oncol. 2014;25:iii1-iii9.
+Schmoll HJ, Van Cutsem E, Stein A, et al. ESMO Consensus Guidelines
+for management of patients with colon and rectal cancer. A
+personalized approach to clinical decision making. Ann Oncol.
+2012;23(10):2479-2516.
+Cassidy J, Clarke S, Díaz-Rubio E, et al. Randomised phase III study of
+capecitabine plus oxaliplatin compared with ﬂuorouracil/folinic acid
+plus oxaliplatin as ﬁrst-line therapy for metastatic colorectal cancer.
+J Clin Oncol. 2008;26(12):2006-2012.
+Van Cutsem E, Hoff PM, Harper P, et al. Oral capecitabine vs intravenous 5-ﬂuorouracil and leucovorin: integrated efﬁcacy data and
+novel analyses from two large, randomised, phase III trials. Br J
+Cancer. 2004;90(6):1190-1197.
+Osterlund P, Kinos S, Pfeiffer P, et al. Continuation of ﬂuoropyrimidine
+treatment with S-1 after cardiotoxicity on capecitabine- or 5ﬂuorouracil-based therapy in patients with solid tumours: a multicentre retrospective observational cohort study. ESMO Open.
+2022;7(3):100427.
+de Gramont A, Figer A, Seymour M, et al. Leucovorin and ﬂuorouracil
+with or without oxaliplatin as ﬁrst-line treatment in advanced colorectal cancer. J Clin Oncol. 2000;18(16):2938-2947.
+Douillard JY, Cunningham D, Roth AD, et al. Irinotecan combined with
+ﬂuorouracil compared with ﬂuorouracil alone as ﬁrst-line treatment
+for metastatic colorectal cancer: a multicentre randomised trial.
+Lancet. 2000;355(9209):1041-1047.
+Fuchs CS, Marshall J, Mitchell E, et al. Randomised, controlled trial of
+irinotecan plus infusional, bolus, or oral ﬂuoropyrimidines in ﬁrst-line
+treatment of metastatic colorectal cancer: results from the BICC-C
+study. J Clin Oncol. 2007;25(30):4779-4786.
+Schmiegel W, Reinacher-Schick A, Arnold D, et al. Capecitabine/irinotecan or capecitabine/oxaliplatin in combination with bevacizumab
+is effective and safe as ﬁrst-line therapy for metastatic colorectal
+cancer: a randomised phase II study of the AIO colorectal study
+group. Ann Oncol. 2013;24(6):1580-1587.
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+106. Seymour MT, Maughan TS, Ledermann JA, et al. Different strategies of
+sequential and combination chemotherapy for patients with poor
+prognosis advanced colorectal cancer (MRC FOCUS): a randomised
+controlled trial. Lancet. 2007;370(9582):143-152.
+107. Koopman M, Antonini NF, Douma J, et al. Sequential versus combination chemotherapy with capecitabine, irinotecan, and oxaliplatin in
+advanced colorectal cancer (CAIRO): a phase III randomised
+controlled trial. Lancet. 2007;370(9582):135-142.
+108. Grothey A, Sargent D, Goldberg RM, et al. Survival of patients with
+advanced colorectal cancer improves with the availability of
+ﬂuorouracil-leucovorin, irinotecan, and oxaliplatin in the course of
+treatment. J Clin Oncol. 2004;22(7):1209-1214.
+109. Van Cutsem E, Peeters M, Siena S, et al. Open-label phase III trial of
+panitumumab plus best supportive care compared with best supportive care alone in patients with chemotherapy-refractory metastatic colorectal cancer. J Clin Oncol. 2007;25(13):1658-1664.
+110. Jonker DJ, O’Callaghan CJ, Karapetis CS, et al. Cetuximab for the
+treatment of colorectal cancer. N Engl J Med. 2007;357(20):2040-2048.
+111. Lacouture ME, Sibaud V, Gerber PA, et al. Prevention and management of dermatological toxicities related to anticancer agents: ESMO
+Clinical Practice Guidelines. Ann Oncol. 2021;32(2):157-170.
+112. Douillard JY, Oliner KS, Siena S, et al. Panitumumab-FOLFOX4 treatment and RAS mutations in colorectal cancer. N Engl J Med.
+2013;369(11):1023-1034.
+113. Bokemeyer C, Köhne CH, Ciardiello F, et al. FOLFOX4 plus cetuximab
+treatment and RAS mutations in colorectal cancer. Eur J Cancer.
+2015;51(10):1243-1252.
+114. Van Cutsem E, Köhne C-H, Hitre E, et al. Cetuximab and chemotherapy as initial treatment for metastatic colorectal cancer. N Engl J
+Med. 2009;360(14):1408-1417.
+115. Van Cutsem E, Lenz H-J, Köhne C-H, et al. Fluorouracil, leucovorin, and
+irinotecan plus cetuximab treatment and RAS mutations in colorectal
+cancer. J Clin Oncol. 2015;33(7):692-700.
+116. Douillard JY, Siena S, Cassidy J, et al. Final results from PRIME:
+randomised phase III study of panitumumab with FOLFOX4 for ﬁrstline treatment of metastatic colorectal cancer. Ann Oncol.
+2014;25(7):1346-1355.
+117. Qin S, Li J, Wang L, et al. Efﬁcacy and tolerability of ﬁrst-line cetuximab plus leucovorin, ﬂuorouracil, and oxaliplatin (FOLFOX-4) versus
+FOLFOX-4 in patients with RAS wild-type metastatic colorectal cancer:
+the open-label, randomised, phase III TAILOR trial. J Clin Oncol.
+2018;36(30):3031-3039.
+118. Maughan TS, Adams RA, Smith CG, et al. Addition of cetuximab to
+oxaliplatin-based ﬁrst-line combination chemotherapy for treatment
+of advanced colorectal cancer: results of the randomised phase 3
+MRC COIN trial. Lancet. 2011;377(9783):2103-2114.
+119. Guren TK, Thomsen M, Kure EH, et al. Cetuximab in treatment of
+metastatic colorectal cancer: ﬁnal survival analyses and extended RAS
+data from the NORDIC-VII study. Br J Cancer. 2017;116(10):12711278.
+120. Pietrantonio F, Cremolini C, Aprile G, et al. Single-agent panitumumab
+in frail elderly patients with advanced RAS and BRAF wild-type
+colorectal cancer: challenging drug label to light up new hope.
+Oncologist. 2015;20(11):1261-1265.
+121. Tebbutt NC, Wilson K, Gebski VJ, et al. Capecitabine, bevacizumab,
+and mitomycin in ﬁrst-line treatment of metastatic colorectal cancer:
+results of the Australasian gastrointestinal trials group randomised
+phase III MAX study. J Clin Oncol. 2010;28(19):3191-3198.
+122. Cunningham D, Lang I, Marcuello E, et al. Bevacizumab plus capecitabine versus capecitabine alone in elderly patients with previously
+untreated metastatic colorectal cancer (AVEX): an open-label, randomised phase 3 trial. Lancet Oncol. 2013;14(11):1077-1085.
+123. Hurwitz H, Fehrenbacher L, Novotny W, et al. Bevacizumab plus irinotecan, ﬂuorouracil, and leucovorin for metastatic colorectal cancer.
+N Engl J Med. 2004;350(23):2335-2342.
+124. Saltz LB, Clarke S, Díaz-Rubio E, et al. Bevacizumab in combination
+with oxaliplatin-based chemotherapy as ﬁrst-line therapy in metastatic colorectal cancer: a randomized phase III study. J Clin Oncol.
+2008;26(12):2013-2019.
+
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+125. Yamada Y, Denda T, Gamoh M, et al. S-1 and irinotecan plus bevacizumab versus mFOLFOX6 or CapeOX plus bevacizumab as ﬁrst-line
+treatment in patients with metastatic colorectal cancer (TRICOLORE):
+a randomised, open-label, phase III, noninferiority trial. Ann Oncol.
+2018;29(3):624-631.
+126. Denda T, Takashima A, Gamoh M, et al. Combination therapy of
+bevacizumab with either S-1 and irinotecan or mFOLFOX6/CapeOX as
+ﬁrst-line treatment of metastatic colorectal cancer (TRICOLORE):
+exploratory analysis of RAS status and primary tumour location in a
+randomised, open-label, phase III, non-inferiority trial. Eur J Cancer.
+2021;154:296-306.
+127. Tejpar S, Stintzing S, Ciardiello F, et al. Prognostic and predictive
+relevance of primary tumour location in patients with RAS wild-type
+metastatic colorectal cancer: retrospective analyses of the CRYSTAL
+and FIRE-3 trials. JAMA Oncol. 2017;3(2):194-201.
+128. Venook AP, Niedzwiecki D, Innocenti F, et al. Impact of primary (1o)
+tumour location on overall survival (OS) and progression-free survival
+(PFS) in patients (pts) with metastatic colorectal cancer (mCRC):
+analysis of CALGB/SWOG 80405 (Alliance). J Clin Oncol.
+2016;34(15_suppl):3504.
+129. Rivera F, Karthaus M, Hecht JR, et al. Final analysis of the randomised
+PEAK trial: overall survival and tumour responses during ﬁrst-line
+treatment with mFOLFOX6 plus either panitumumab or bevacizumab in patients with metastatic colorectal carcinoma. Int J
+Colorectal Dis. 2017;32(8):1179-1190.
+130. Yoshino T, Uetake H, Tsuchihara K, et al. PARADIGM study: a multicenter, randomised, phase III study of mFOLFOX6 plus panitumumab
+or bevacizumab as ﬁrst-line treatment in patients with RAS (KRAS/
+NRAS) wild-type metastatic colorectal cancer. J Clin Oncol.
+2021;39(3_suppl):85.
+131. Tol J, Koopman M, Cats A, et al. Chemotherapy, bevacizumab, and
+cetuximab in metastatic colorectal cancer. N Engl J Med. 2009;360(6):
+563-572.
+132. Souglakos J, Androulakis N, Syrigos K, et al. FOLFOXIRI (folinic acid, 5ﬂuorouracil, oxaliplatin and irinotecan) vs FOLFIRI (folinic acid, 5ﬂuorouracil and irinotecan) as ﬁrst-line treatment in metastatic
+colorectal cancer (MCC): a multicentre randomised phase III trial from
+the Hellenic Oncology Research Group (HORG). Br J Cancer.
+2006;94(6):798-805.
+133. Cremolini C, Loupakis F, Antoniotti C, et al. FOLFOXIRI plus bevacizumab versus FOLFIRI plus bevacizumab as ﬁrst-line treatment of
+patients with metastatic colorectal cancer: updated overall survival
+and molecular subgroup analyses of the open-label, phase 3 TRIBE
+study. Lancet Oncol. 2015;16(13):1306-1315.
+134. Cremolini C, Antoniotti C, Rossini D, et al. Upfront FOLFOXIRI plus
+bevacizumab and reintroduction after progression versus mFOLFOX6
+plus bevacizumab followed by FOLFIRI plus bevacizumab in the
+treatment of patients with metastatic colorectal cancer (TRIBE2): a
+multicentre, open-label, phase 3, randomised, controlled trial. Lancet
+Oncol. 2020;21(4):497-507.
+135. Rossini D, Antoniotti C, Lonardi S, et al. Upfront modiﬁed ﬂuorouracil,
+leucovorin, oxaliplatin, and irinotecan plus panitumumab versus
+ﬂuorouracil, leucovorin, and oxaliplatin plus panitumumab for patients with RAS/BRAF wild-type metastatic colorectal cancer: the
+phase III TRIPLETE study by GONO. J Clin Oncol. 2022:JCO2200839.
+https://doi.org/10.1200/JCO.22.00839.
+136. Modest DP, Martens UM, Riera-Knorrenschild J, et al. FOLFOXIRI plus
+panitumumab as ﬁrst-line treatment of RAS wild-type metastatic
+colorectal cancer: the randomised, open-label, phase II VOLFI study
+(AIO KRK0109). J Clin Oncol. 2019;37(35):3401-3411.
+137. Le DT, Durham JN, Smith KN, et al. Mismatch repair deﬁciency predicts response of solid tumours to PD-1 blockade. Science.
+2017;357(6349):409-413.
+138. Overman MJ, McDermott R, Leach JL, et al. Nivolumab in patients
+with metastatic DNA mismatch repair-deﬁcient or microsatellite
+instability-high colorectal cancer (CheckMate 142): an open-label,
+multicentre, phase 2 study. Lancet Oncol. 2017;18(9):1182-1191.
+139. Diaz LA, Jr, Shiu KK, Kim TW, et al. Pembrolizumab versus chemotherapy for microsatellite instability-high or mismatch repair-deﬁcient
+
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+140.
+
+141.
+
+142.
+
+143.
+
+144.
+
+145.
+
+146.
+
+147.
+
+148.
+
+149.
+
+150.
+
+151.
+
+152.
+
+153.
+
+154.
+
+155.
+
+metastatic colorectal cancer (KEYNOTE-177): ﬁnal analysis of a
+randomised, open-label, phase 3 study. Lancet Oncol. 2022;23(5):659670.
+Chibaudel B, Maindrault-Goebel F, Lledo G, et al. Can chemotherapy
+be discontinued in unresectable metastatic colorectal cancer? The
+GERCOR OPTIMOX2 study. J Clin Oncol. 2009;27(34):5727-5733.
+Koeberle D, Betticher DC, von Moos R, et al. Bevacizumab continuation versus no continuation after ﬁrst-line chemotherapy plus bevacizumab in patients with metastatic colorectal cancer: a randomised
+phase III non-inferiority trial (SAKK 41/06). Ann Oncol. 2015;26(4):
+709-714.
+Aparicio T, Ghiringhelli F, Boige V, et al. Bevacizumab maintenance
+versus no maintenance during chemotherapy-free intervals in metastatic colorectal cancer: a randomised phase III trial (PRODIGE 9).
+J Clin Oncol. 2018;36(7):674-681.
+Simkens LHJ, van Tinteren H, May A, et al. Maintenance treatment
+with capecitabine and bevacizumab in metastatic colorectal cancer
+(CAIRO3): a phase 3 randomised controlled trial of the Dutch Colorectal Cancer Group. Lancet. 2015;385(9980):1843-1852.
+Hegewisch-Becker S, Graeven U, Lerchenmüller CA, et al. Maintenance strategies after ﬁrst-line oxaliplatin plus ﬂuoropyrimidine plus
+bevacizumab for patients with metastatic colorectal cancer (AIO
+0207): a randomised, non-inferiority, open-label, phase 3 trial. Lancet
+Oncol. 2015;16(13):1355-1369.
+Pietrantonio F, Morano F, Corallo S, et al. Maintenance therapy
+with panitumumab alone vs panitumumab plus ﬂuorouracilleucovorin in patients with RAS wild-type metastatic colorectal
+cancer: a phase 2 randomised clinical trial. JAMA Oncol. 2019;5(9):
+1268-1275.
+Modest DP, Karthaus M, Fruehauf S, et al. Panitumumab plus ﬂuorouracil and folinic acid versus ﬂuorouracil and folinic acid alone as
+maintenance therapy in RAS wild-type metastatic colorectal cancer:
+the randomised PANAMA trial (AIO KRK 0212). J Clin Oncol.
+2022;40(1):72-82.
+Sobrero AF, Maurel J, Fehrenbacher L, et al. EPIC: phase III trial of
+cetuximab plus irinotecan after ﬂuoropyrimidine and oxaliplatin failure in patients with metastatic colorectal cancer. J Clin Oncol.
+2008;26(14):2311-2319.
+Peeters M, Oliner KS, Price TJ, et al. Analysis of KRAS/NRAS mutations
+in a phase III study of panitumumab with FOLFIRI compared with
+FOLFIRI alone as second-line treatment for metastatic colorectal
+cancer. Clin Cancer Res. 2015;21(24):5469-5479.
+Giantonio BJ, Catalano PJ, Meropol NJ, et al. Bevacizumab in combination with oxaliplatin, ﬂuorouracil, and leucovorin (FOLFOX4) for
+previously treated metastatic colorectal cancer: results from the
+Eastern Cooperative Oncology Group Study E3200. J Clin Oncol.
+2007;25(12):1539-1544.
+Bennouna J, Sastre J, Arnold D, et al. Continuation of bevacizumab
+after ﬁrst progression in metastatic colorectal cancer (ML18147): a
+randomised phase 3 trial. Lancet Oncol. 2013;14(1):29-37.
+Van Cutsem E, Tabernero J, Lakomy R, et al. Addition of aﬂibercept to
+ﬂuorouracil, leucovorin, and irinotecan improves survival in a phase III
+randomised trial in patients with metastatic colorectal cancer previously treated with an oxaliplatin-based regimen. J Clin Oncol.
+2012;30(28):3499-3506.
+Tabernero J, Yoshino T, Cohn AL, et al. Ramucirumab versus placebo in
+combination with second-line FOLFIRI in patients with metastatic
+colorectal carcinoma that progressed during or after ﬁrst-line therapy
+with bevacizumab, oxaliplatin, and a ﬂuoropyrimidine (RAISE): a
+randomised, double-blind, multicentre, phase 3 study. Lancet Oncol.
+2015;16(5):499-508.
+Yervoy Summary of Product Characteristics. Bristol-Myers Squibb. Available at https://www.ema.europa.eu/en/documents/product-informati
+on/yervoy-epar-product-information_en.pdf. Accessed August 2, 2022.
+Corcoran RB, Atreya CE, Falchook GS, et al. Combined BRAF and MEK
+inhibition with dabrafenib and trametinib in BRAF V600-mutant
+colorectal cancer. J Clin Oncol. 2015;33(34):4023-4031.
+Hong DS, Morris VK, Fu S, et al. Phase 1B study of vemurafenib in
+combination with irinotecan and cetuximab in patients with BRAF-
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+31
+
+A. Cervantes et al.
+
+Annals of Oncology
+
+156.
+
+157.
+
+158.
+
+159.
+
+160.
+
+32
+
+mutated advanced cancers and metastatic colorectal cancer. J Clin
+Oncol. 2014;32(15_suppl). 3516-3516.
+Tabernero J, Grothey A, Van Cutsem E, et al. Encorafenib plus
+cetuximab as a new standard of care for previously treated BRAF
+V600E-mutant metastatic colorectal cancer: updated survival results
+and subgroup analyses from the BEACON study. J Clin Oncol.
+2021;39(4):273-284.
+Cunningham D, Humblet Y, Siena S, et al. Cetuximab monotherapy
+and cetuximab plus irinotecan in irinotecan-refractory metastatic
+colorectal cancer. N Engl J Med. 2004;351(4):337-345.
+Cremolini C, Rossini D, Dell’Aquila E, et al. Rechallenge for
+patients with RAS and BRAF wild-type metastatic colorectal
+cancer with acquired resistance to ﬁrst-line cetuximab and irinotecan: a phase 2 single-arm clinical trial. JAMA Oncol.
+2019;5(3):343-350.
+Martinelli E, Martini G, Famiglietti V, et al. Cetuximab rechallenge
+plus avelumab in pretreated patients with RAS wild-type metastatic
+colorectal cancer: the phase 2 single-arm clinical CAVE trial. JAMA
+Oncol. 2021;7(10):1529-1535.
+Grothey A, Cutsem EV, Sobrero A, et al. Regorafenib monotherapy for
+previously treated metastatic colorectal cancer (CORRECT): an international, multicentre, randomised, placebo-controlled, phase 3 trial.
+Lancet. 2013;381(9863):303-312.
+
+https://doi.org/10.1016/j.annonc.2022.10.003
+
+161. Li J, Qin S, Xu R, et al. Regorafenib plus best supportive care versus placebo plus best supportive care in Asian patients with previously treated
+metastatic colorectal cancer (CONCUR): a randomised, double-blind,
+placebo-controlled, phase 3 trial. Lancet Oncol. 2015;16(6):619-629.
+162. Mayer RJ, Van Cutsem E, Falcone A, et al. Randomised trial of TAS-102
+for refractory metastatic colorectal cancer. N Engl J Med.
+2015;372(20):1909-1919.
+163. Xu J, Kim TW, Shen L, et al. Results of a randomised, double-blind,
+placebo-controlled, phase III trial of triﬂuridine/tipiracil (TAS-102)
+monotherapy in Asian patients with previously treated metastatic
+colorectal cancer: the TERRA study. J Clin Oncol. 2018;36(4):350-358.
+164. Mateo J, Chakravarty D, Dienstmann R, et al. A framework to rank
+genomic alterations as targets for cancer precision medicine: the
+ESMO Scale for Clinical Actionability of molecular Targets (ESCAT).
+Ann Oncol. 2018;29(9):1895-1902.
+165. Cherny NI, Dafni U, Bogaerts J, et al. ESMO-magnitude of clinical
+beneﬁt scale version 1.1. Ann Oncol. 2017;28(10):2340-2366.
+166. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis. 2001;33(2):139-144.
+167. Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards
+for infectious diseases. Infectious Diseases Society of America. Clin
+Infect Dis. 1994;18(3):421.
+
+Volume 34
+
+-
+
+Issue 1
+
+-
+
+2023
+
+

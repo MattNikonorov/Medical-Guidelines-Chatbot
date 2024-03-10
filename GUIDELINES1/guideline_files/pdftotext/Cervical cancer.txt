@@ -1,0 +1,1316 @@
+Annals of Oncology 28 (Supplement 4): iv72–iv83, 2017
+doi:10.1093/annonc/mdx220
+
+CLINICAL PRACTICE GUIDELINES
+
+Cervical cancer: ESMO Clinical Practice Guidelines for
+diagnosis, treatment and follow-up†
+C. Marth1, F. Landoni2, S. Mahner3, M. McCormack4, A. Gonzalez-Martin5 & N. Colombo2, on behalf of the
+ESMO Guidelines Committee*
+1
+Department of Obstetrics and Gynecology, Medical University Innsbruck, Innsbruck, Austria; 2Department of Gynecologic Oncology, European Institute of
+Oncology, Milan, Italy; 3Department of Gynecology and Obstetrics, University of Munich, Munich, Germany; 4Department of Oncology, University College Hospital,
+London, UK; 5Medical Oncology Department, MD Anderson Cancer Center, Madrid, Spain
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Committee: January 2008, last update May 2017. This publication supersedes the previously published version—Ann Oncol 2012;
+23(Suppl 7): vii27–vii32.
+
+Incidence and epidemiology
+Cervical cancer is the second most commonly diagnosed cancer
+and the third leading cause of cancer death among females in less
+developed countries. There were an estimated 527 600 new cervical cancer cases and 265 700 deaths worldwide in 2012 [1].
+Nearly 90% of cervical cancer deaths occurred in developing parts
+of the world. The large geographic variation in cervical cancer
+rates reflects differences in the availability of screening (which
+allows for the detection and removal of precancerous lesions) and
+in human papillomavirus (HPV) infection prevalence.
+However, cervical cancer still represents a major public health
+problem even in developed countries: more than 58 000 new cases
+of cervical cancer are diagnosed and  24 000 patients die in
+Europe every year [2]. Five-year relative survival for European
+women diagnosed with cervical cancer in 2000–2007 was 62%,
+ranging from 57% in Eastern Europe to 67% in Northern
+Europe. Survival was particularly low (< 55%) in Bulgaria, Latvia
+and Poland and highest in Norway (71%) [3]. Survival decreased
+with advancing age at diagnosis, from 81% for 15–44-year olds to
+34% for women  75 years. Survival increased significantly from
+61% in 1999–2001 to 65% in 2005–2007. FIGO stage is one of the
+most important prognostic factors.
+The most significant cause of cervical cancer is persistent papillomavirus infection. HPV is detected in 99% of cervical tumours,
+particularly the oncogenic subtypes such as HPV 16 and 18.
+To date, three HPV vaccines are licensed and available: the bivalent HPV virus-like particle vaccine (2vHPV), the quadrivalent
+HPV virus-like particle vaccine (4vHPV) and nine-valent HPV
+virus-like particle vaccine (9vHPV). All 3 vaccines provide protection against HPV 16 and 18. 4vHPV also includes HPV 6 and
+11 which cause 90% of genital warts. Furthermore, 9vHPV covers
+
+5 more oncogenic HPV viruses (HPV 31, 33, 45, 52 and 58) in
+addition to the types already included in 4vHPV, which cause an
+additional 15% of HPV-related cancers in women and 4% of
+those in men [4]. Both the 2vHPV and 4vHPV have significant
+cross-protective activity against other oncogenic viruses. All three
+are efficacious against related infection and cervical, vaginal, vulvar and anal dysplasia [5–7].
+Post-licensure reports from countries with established HPV
+vaccination programs indicate that HPV vaccination has a beneficial effect at the population level as early as 3 years after the
+introduction of an HPV vaccination programme, including decreases in the incidence of high-grade cervical abnormalities, the
+prevalence of vaccine HPV types and the incidence of genital
+warts [8, 9]. Prophylactic administration of HPV vaccine can effectively prevent infection and disease associated with the vaccine
+HPV types. The effect of vaccination on the burden of cancer remains to be determined but, according to surrogate markers, it is
+expected to prevent > 70% of cervical cancers.
+For many years, the Papanicolaou (Pap) test has been the
+standard method for cervical cancer screening, reducing the incidence by 60%–90% and the death rate by 90%. However, the
+limitations of this cytology-based test are the sensitivity ( 50%)
+and significant proportion of inadequate specimens. More recently, an HPV test has been introduced as a screening tool as
+HPV deoxyribonucleic acid (DNA) is present in almost all cervical cancers and it has demonstrated higher sensitivity for highgrade cervical intraepithelial neoplasia (CIN2þ) than that
+achieved by cytology in several studies. A pooled analysis of four
+randomised controlled trials of HPV-based cervical screening
+versus conventional cytology showed that HPV-based cervical
+screening provides 60%–70% greater protection against invasive
+
+C The Author 2017. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+V
+
+All rights reserved. For Permissions, please email: journals.permissions@oup.com.
+
+Annals of Oncology
+cancer compared with cytology-based screening [10]. Findings
+support HPV-based screening with triage at prolonged intervals, starting at age 30 years. Especially in a vaccinated population when dysplastic lesions will be less frequent, screening
+with Pap tests will be more difficult. Pap cytology has significant limitations. It is based on the subjective interpretation of
+morphological alterations present in cervical samples that must
+be collected with proper attention to sampling cells of the
+transformation zone. Also, the highly repetitive nature of the
+work of screening many smears leads to fatigue, which invariably causes errors in interpretation.
+Therefore, primary prevention of cervical cancer is now possible via immunisation with highly efficacious HPV vaccines [II,
+A] and secondary prevention has gained impetus with the advent
+of sensitive HPV DNA testing to improve traditional Pap cytology screening programmes [II, A].
+
+Diagnosis and pathology/molecular biology
+Abnormal cervical cytology or a positive high-risk HPV test
+should lead to colposcopy and biopsy or excisional procedures
+such as loop electrosurgical excision and conisation. Early cervical cancer is often asymptomatic, while locally advanced disease
+could cause symptoms including abnormal vaginal bleeding (also
+after coitus), discharge, pelvic pain and dyspareunia. Gross appearance is variable. Carcinomas can be exophytic, growing out
+of the surface, or endophytic with stromal infiltration with minimal surface growth. Some early cancers are not easily detected
+and even deeply invasive tumours may be somewhat deceptive on
+gross examination. If examination is difficult or there is uncertainty about vaginal/parametrial involvement, examination
+should preferably be done under anaesthesia by an interdisciplinary team including a gynaecological oncologist and a radiation
+oncologist.
+The World Health Organization (WHO) recognises three categories of epithelial tumours of the cervix: squamous, glandular
+(adenocarcinoma) and other epithelial tumours including
+adenosquamous carcinoma, neuroendocrine tumours and undifferentiated carcinoma (Table 1). Squamous cell carcinomas account for  70%–80% of cervical cancers and adenocarcinomas
+for 20%–25%.
+
+Squamous cell carcinoma
+Squamous carcinomas are composed of cells that are recognisably
+squamous but vary in either growth pattern or cytological
+morphology. Originally, they were graded using Broders’ grading
+system; subsequently, they were classified into keratinising, nonkeratinising and small-cell squamous carcinomas. In the more recent WHO classification, the term small-cell carcinoma was
+reserved for tumours of neuroendocrine type. Keratinising squamous cell carcinomas are characterised by the presence of keratin
+pearls. Mitoses are not frequent. Non-keratinising squamous cell
+carcinomas do not form keratin pearls by definition, but may
+show individual cell keratinisation. Clear-cell changes can be
+prominent in some tumours and should not be misinterpreted as
+clear-cell carcinoma.
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+Table 1. WHO histological classiﬁcation of tumours of the uterine cervix
+Epithelial tumours
+1. Squamous tumours and precursors
+Squamous cell carcinoma, not otherwise speciﬁed
+Keratinising
+Non-keratinising
+Basaloid
+Verrucous
+Warty
+Papillary
+Lymphoepithelioma-like
+Squamotransitional
+Early invasive (microinvasive) squamous cell carcinoma
+Squamous intraepithelial neoplasia
+Cervical intraepithelial neoplasia (CIN) 3/
+squamous cell carcinoma in situ
+Benign squamous cell lesions
+Condyloma acuminatum
+Squamous papilloma
+Fibroepithelial polyp
+2. Glandular tumours and precursors
+Adenocarcinoma
+Mucinous adenocarcinoma
+Endocervical
+Intestinal
+Signet-ring cell
+Minimal deviation
+Villoglandular
+Endometrioid adenocarcinoma
+Clear cell adenocarcinoma
+Serous adenocarcinoma
+Mesonephric adenocarcinoma
+Early invasive adenocarcinoma
+Adenocarcinoma in situ
+Glandular dysplasia
+Benign glandular lesions
+Müllerian papilloma
+Endocervical polyp
+3. Other epithelial tumours
+Adenosquamous carcinoma
+Glassy cell carcinoma variant
+Adenoid cystic carcinoma
+Adenoid basal carcinoma
+Neuroendocrine tumours
+Carcinoid
+Atypical carcinoid
+Small cell carcinoma
+Large cell neuroendocrine carcinoma
+Undifferentiated carcinoma
+
+8070/3
+8071/3
+8072/3
+8083/3
+8051/3
+8051/3
+8052/3
+8082/3
+8120/3
+8076/3
+8077/2
+8070/2
+
+8052/0
+
+8140/3
+8480/3
+8482/3
+8144/3
+8490/3
+8480/3
+8262/3
+8380/3
+8310/3
+8441/3
+9110/3
+8140/3
+8140/2
+
+8560/3
+8015/3
+8200/3
+8098/3
+8240/3
+8249/3
+8041/3
+8013/3
+8020/3
+
+Mesenchymal tumours and tumour-like conditions
+Mixed epithelial and mesenchymal tumours
+Melanocytic tumours
+Miscellaneous tumours
+Lymphoid and haematopoetic tumours
+Secondary tumours
+Morphology code of the International Classiﬁcation of Diseases for
+Oncology (ICD-O) {921} and the Systematized Nomenclature of
+Medicine (http://snomed.org).
+WHO, World Health Organization.
+
+doi:10.1093/annonc/mdx220 | iv73
+
+Clinical Practice Guidelines
+Adenocarcinoma
+The arrangement of the invasive glands is highly variable and
+some tumours are in part or extensively papillary. About 80% of
+adenocarcinomas of the cervix are of endocervical or usual type;
+unlike normal endocervical mucinous epithelium, tumour cells
+are not obviously mucinous and show a rather characteristic appearance having eosinophilic cytoplasm. The most common type
+is the mucinous type which comprises endocervical, intestinal
+and gastric subtypes. The great majority of endocervical-type
+adenocarcinomas are architecturally well differentiated, but they
+are cytologically grade 2 or 3. Only a subset of papillary or villoglandular adenocarcinoma is considered well differentiated for
+their good prognosis when in pure form; tumours with an underlying component of conventional adenocarcinoma behave as
+adenocarcinomas of the usual type. Unlike cervical squamous cell
+carcinomas, differential diagnosis of early invasive adenocarcinoma from adenocarcinoma in situ showing somewhat complex
+architecture can be difficult. In mucinous adenocarcinoma
+mucin-rich cells predominate; some show gastric-type features
+and some are of the minimal deviation type (or adenoma
+malignum). Rare tumours are mixed adenosquamous carcinomas and include the so-called glassy cell carcinoma. The other
+rarer types of cervical adenocarcinoma include clear-cell carcinoma and mesonephric adenocarcinoma.
+
+Other cervical carcinoma
+Neuroendocrine tumours include carcinoids, atypical carcinoids
+and neuroendocrine carcinomas. Diagnosis is histological and
+can be confirmed by neuroendocrine markers.
+
+Pathogenesis—molecular biology
+HPV has been recognised as the most important aetiological factor in cervical cancer. HPV 16/18 account for at least two-thirds
+of cervical carcinomas in all continents; HPV 31, 33, 35, 45, 52
+and 58 are the next most common types of cancers globally.
+HPV vaccines have a great impact on cervical cancer and HPVassociated cancers in males and females, thus leading to an annual reduction of 90% of cervical cancer, 85% of vaginal cancer HPV correlates, 87% of vulvar cancer HPV correlates, 92% of anal cancer HPV
+correlates and 85% of penile cancer HPV correlates [11–13].
+Squamous cell carcinomas and their precursor, intraepithelial
+squamous lesions, are related to HPV infection in almost all cases
+and the presence of HPV 16 DNA is associated with poor prognosis.
+Adenocarcinomas encompass a heterogeneous group of tumours.
+Endocervical adenocarcinoma of usual type and its precursor, the
+adenocarcinoma in situ, have been shown to be positive for HPV in
+nearly 90% and 100% of cases, respectively. HPV 18 is more common in adenocarcinomas and adenosquamous carcinomas than in
+squamous cell carcinomas. Unlike endocervical adenocarcinoma of
+usual type, the other rarer types including clear-cell and mesonephric adenocarcinoma seem to be unrelated to HPV.
+
+Staging and risk assessment
+Cervical tumours are staged using the Féderation Internationale
+de Gynécologie et d’Obstétrique (FIGO) and the Union for
+
+iv74 | Marth et al.
+
+Annals of Oncology
+International Cancer Control (UICC) TNM staging classifications
+(8th edition) shown in Table 2. Cervical cancer is the only gynaecological cancer that is clinically staged based on tumour size, vaginal
+or parametrial involvement, bladder/rectum extension and distant
+metastases. It requires examination under anaesthesia, radiological
+imaging such as chest X-ray and intravenous pyelogram. These
+have been widely replaced by more timely diagnostic tools. Other
+imaging studies are used routinely to more accurately define the
+extent of disease and to allow tailoring of treatment, but do not
+affect the clinical stage. Computed tomography (CT) can detect
+pathological lymph nodes, while magnetic resonance imaging
+(MRI) can determine tumour size, degree of stromal penetrations,
+parametrial involvement, vaginal extension and corpus extension
+with high accuracy [14]. More recently, positron emission tomography (PET) has been seen to have the potential to accurately delineate the extent of disease, particularly in lymph nodes that are
+not macroscopically enlarged and in distant sites, with high sensitivity and specificity. In early-stage disease, PET/CT has a sensitivity of 53%–73% and specificity of 90%–97% for the detection of
+lymph node involvement, while in more advanced stages the sensitivity for detecting the involvement of para-aortic nodes increases
+to 75% with 95% specificity [15]. The need for pretreatment
+surgical para-aortic lymph node assessment in locally advanced
+cervical cancer (LACC) is still a matter of debate [16].
+Tumour risk assessment includes tumour size, stage, depth of tumour invasion, lymph node status, lymphovascular space invasion
+(LVSI) and histological subtype. Lymph node status and number of
+lymph nodes involved are the most important prognostic factors.
+In stages IB–IIA, the 5-year survival rates without lymph node metastasis and with lymph node metastasis are 88%–95% and 51%–
+78%, respectively [17].
+Controversy exists as to whether histological type is an independent prognostic factor for survival. Although some studies
+have shown no differences in survival between adenocarcinoma
+and squamous cell carcinoma, the majority have shown that
+adenocarcinoma carries a worse prognosis with 10%–20% differences in 5-year overall survival (OS) rates.
+Cervical small-cell neuroendocrine carcinoma is a rare disease,
+accounting for only up to 2% of all invasive cervical cancers but
+has a particular propensity to spread distantly, which is similar to
+small-cell carcinoma of the lung. As a result, patients can present
+with systemic symptoms such as weight loss. In addition, patients
+may present with a paraneoplastic syndrome such as the syndrome of inappropriate antidiuretic hormone secretion
+(SIADH), Cushing syndrome, hypercalcaemia or a neurological
+disorder. The most commonly involved organs include the liver,
+adrenals, bone, bone marrow and the brain.
+
+Management of local/locoregional disease
+(Figure 1)
+Primary treatment
+Surgery. Surgical therapy in cervical cancer is adapted to the stage
+of disease according to FIGO and TNM classification (Table 2).
+Microinvasive cervical cancer (stage IA1) without LVSI can be
+managed with conisation or simple trachelectomy to preserve
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 2. The staging of cervical tumours is by the Féderation Internationale de Gynécologie et d’Obstétrique (FIGO) and TNM classiﬁcation (Union for
+International Cancer Control) [61]
+TNM clinical classification
+TNM categories
+
+FIGO stages
+
+T – Primary Tumour
+TX
+T0
+Tis
+T1
+T1ab,c
+
+I
+IA
+
+T1a1
+T1a2
+
+IA1
+IA2
+
+T1b
+T1b1
+T1b2
+T2
+T2a
+T2a1
+T2a2
+T2b
+T3
+
+IB
+IB1
+IB2
+II
+IIA
+IIA1
+IIA2
+IIB
+III
+
+T3a
+T3b
+T4
+
+IIIA
+IIIB
+IVA
+
+N – Regional Lymph Nodesf
+NX
+N0
+N1
+M – Distant Metastasisf
+M0
+M1
+
+Definition
+
+Primary tumour cannot be assessed
+No evidence of primary tumour
+Carcinoma in situ (preinvasive carcinoma)
+Tumour conﬁned to the cervixa
+Invasive carcinoma diagnosed only by microscopy. Stromal invasion with a maximal depth of
+5.0 mm measured from the base of the epithelium and a horizontal spread of 7.0 mm or lessd
+Measured stromal invasion 3.0 mm or less in depth and 7.0 mm or less in horizontal spread
+Measured stromal invasion more than 3.0 mm and not more than 5.0 mm with a horizontal
+spread of 7.0 mm or lessd
+Clinically visible lesion conﬁned to the cervix or microscopic lesion greater than T1a/IA2
+Clinically visible lesion 4.0 cm or less in greatest dimension
+Clinically visible lesion more than 4.0 cm in greatest dimension
+Tumour invades beyond uterus but not to pelvic wall or to lower third of vagina
+Tumour without parametrial invasion
+Clinically visible lesion 4.0 cm or less in greatest dimension
+Clinically visible lesion more than 4.0 cm in greatest dimension
+Tumour with parametrial invasion
+Tumour involves lower third of vagina, or extends to pelvic wall, or causes hydronephrosis or
+non-functioning kidney
+Tumour involves lower third of vagina
+Tumour extends to pelvic wall, or causes hydronephrosis or non-functioning kidney
+Tumour invades mucosa of the bladder or rectum, or extends beyond true pelvise
+Regional lymph nodes cannot be assessed
+No regional lymph node metastasis
+Regional lymph node metastasis
+No distant metastasis
+Distant metastasis (includes inguinal lymph nodes and intraperitoneal disease). It excludes
+metastasis to vagina, pelvic serosa, and adnexa
+
+a
+
+Extension to corpus uteri should be disregarded.
+The depth of invasion should be taken from the base of the epithelium, either surface or glandular, from which it originates. The depth of invasion is
+deﬁned as the measurement of the tumour from the epithelial–stromal junction of the adjacent most superﬁcial papillae to the deepest point of invasion. Vascular space involvement, venous or lymphatic, does not affect classiﬁcation.
+c
+All macroscopically visible lesions even with superﬁcial invasion are T1b/IB.
+d
+Vascular space involvement, venous or lymphatic, does not affect classiﬁcation.
+e
+Bullous oedema is not sufﬁcient to classify a tumour as T4.
+f
+No FIGO equivalent.
+TNM, tumour, node and metastasis.
+Reprinted from [61] with permission from John Wiley & Sons, Inc.
+b
+
+fertility [I, B] [18]. Simple hysterectomy can be offered if the
+patient does not wish to preserve fertility. In stage IA1 with LVSI,
+surgical assessment of pelvic lymph nodes should be discussed
+with the patient, including the sentinel lymph node (SLN, see
+below).
+In patients with FIGO stage IA2, IB and IIA, radical hysterectomy with bilateral lymph node dissection (with or without SLN)
+is standard treatment, if the patient does not wish to preserve fertility [I, B]. This can be carried out either by laparotomy or laparoscopy (which can be robotically assisted). The minimally
+
+Volume 28 | Supplement 4 | August 2017
+
+invasive approach is gaining increasing relevance and is standard
+in most centres, since it appears to offer similar oncological safety
+with favourable surgical morbidity [19].
+Sentinel lymph node dissection in cervical cancer. SLN dissection (SLND) is standard in the treatment of breast cancer as
+well as vulvar cancer and increasing evidence also suggests an
+important role for SLND in cervical cancer. While the evidence
+is still evolving and guideline recommendations are not yet
+clearly defined, it should be considered in FIGO stage I
+
+doi:10.1093/annonc/mdx220 | iv75
+
+Colposcopy / Biopsy
+
+CIN2 / CIN3
+
+Invasive cervical cancer
+
+Conisation
+
+Early disease
+
+FIGO IA1
+
+No LVSI: simple hysterectomy
+Frozen section: conisation
+only if negative margins
+
+FIGO IA2
+
+FIGO IB2 + IIA
+
+Radical hysterectomy
+Simple hysterectomy
+Trachelectomy +
+PLND ± PALND
+SLN
+
+Radical hysterectomy +
+PLND ± PALND
+SLN
+Frozen section: trachelectomy
+CRT
+
+Adjuvant treatment
+depending on
+risk factors
+
+Adjuvant treatment
+depending on
+risk factors
+
+Metastatic disease
+
+FIGO IB2 / IIB / IIIB
+
+FIGO IVA
+
+FIGO IVB
+
+CRT
+Tailoring of radiation
+according to surgical
+staging or PET-CT
+
+Chemotherapy
+(C)RT
+Pelvic exenteration
+
+Chemotherapy
++ bevacizumab
+RT
+
+Neoadjuvant chemotherapy
+followed by surgery
+or RT
+
+Figure 1. Treatment algorithm for cervical cancer.
+CIN, cervical intraepithelial neoplasia; CRT, chemoradiotherapy; FIGO, Féderation Internationale de Gynécologie et d’Obstétrique; HPV, human papillomavirus; LVSI, lymphovascular space invasion; PALND, para-aortic lymph node dissection; Pap, Papanicolaou; PET-CT, positron emission tomography/computed tomography; PLND, pelvic lymph node dissection; RT, radiotherapy;
+SLN, sentinel lymph node.
+
+Annals of Oncology
+
+Volume 28 | Supplement 4 | August 2017
+
+With LVSI: simple
+hysterectomy + PLND ±
+PALND
+Trachelectomy
+
+Locally advanced disease
+
+Clinical Practice Guidelines
+
+iv76 | Marth et al.
+
+Positive Pap – smear / HPV – high risk positive / suspected cervix
+
+Annals of Oncology
+patients with tumours of  4 cm. Some evidence suggests that
+the detection rate is highest if the tumour is < 2 cm. Tracer is
+injected directly into the cervix, and blue dye, technetium
+radiocolloid or fluorescent indocyanine green is used. SLND
+should be done only in centres with enough expertise
+and training. Sentinel nodes should be detected on both sides
+[II, B] [20].
+Surgical therapy of the uterus. Since radiotherapy (RT) and
+surgery are equally effective in early stages, surgery should only be
+considered in patients with earlier stages (up to FIGO IIA) without risk factors necessitating adjuvant therapy, which results in a
+multimodal therapy without improvement of survival but
+increased toxicity [I, A].
+It is important to note that the currently established radical hysterectomy with extensive parametrial resection most likely constitutes overtreatment in many patients, especially those with small
+and locally restricted tumours. Large randomised studies such as
+the SHAPE study are currently enrolling patients to compare simple
+hysterectomy with radical hysterectomy in this population [21].
+Neoadjuvant chemotherapy to surgery. The rationale for the use
+of neoadjuvant chemotherapy (NACT) includes: (i) reduction of
+the primary tumour size, allowing operability; (ii) eradication of
+micrometastatic disease; and (iii) potential increase in tumour
+vascularisation and reduction of the number of hypoxic cells [22–24].
+In a meta-analysis, NACT followed by radical surgery showed a
+highly significant 35% reduction in the risk of death compared with
+RT alone [hazard ratio (HR) ¼ 0.65; P ¼ 0.0004], with an absolute
+improvement of 14% in survival at 5 years, increasing from 50% to
+64% [25]. The analysis included data from 872 patients with LACC
+enrolled in five different trials. The largest trial included in a second
+meta-analysis, enrolled 441 FIGO stage IB2–III cervical cancer patients and compared platinum-based NACT followed by radical
+surgery with conventional RT. The main criticism of this study is
+related to the suboptimal RT administration; almost 27% of patients did not receive intracavitary RT; 11% of patients received less
+than 60 Gy of external pelvic beam radiation total dose at point A
+and the median total dose delivered was 70 Gy, while the optimal
+treatment is considered to be 80–90 Gy at point A.
+Moreover, in all of these studies, the control arm, RT alone
+without concomitant chemotherapy, does not represent the current standard of care for LACC. In addition, the RT total dose
+and the median time of RT administration were sometimes
+suboptimal.
+There are two randomised phase III trials that have explored the
+role of NACT followed by surgery versus chemoradiotherapy (CRT),
+but the results are not yet available (EORTC Protocol 55994 and
+NCT00193739) [26, 27].
+Moreover, a recent meta-analysis comparing NACT followed
+by surgery versus surgery alone confirmed that patients treated
+with NACT had higher local control [odds ratio (OR) ¼ 0.67;
+95% confidence interval (CI): 0.45–0.99; P ¼ 0.04)] [28].
+Exploratory analysis of pathological response showed a significant decrease in adverse pathological findings with NACT
+(OR ¼ 0.54; P < 0.0001 for lymph node status; OR ¼ 0.58;
+P ¼ 0.002 for parametrial infiltration). However, a significant
+percentage of patients will not have surgery because of treatment
+toxicity or insufficient response.
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+These results indicate that NACT may offer a benefit over surgery alone in cervical cancer patients (borderline LACC, nodes
+positive, parametrial invasion at MRI), reducing the need for adjuvant RT [I, C].
+Chemoradiotherapy in locally advanced cervical cancer. CRT has
+been the standard of care for patients with bulky IB2–IVA disease
+for almost two decades. The near simultaneous publication of five
+randomised trials, three in LACC, collectively demonstrating an
+improvement in both disease-free survival (DFS) and OS with concomitant chemotherapy and RT over standard RT/hydroxyurea
+(endorsed by the National Cancer Institute) changed clinical practice worldwide [I, A] [29–33]. However, concerns were raised
+about the applicability of the results in view of patient selection,
+protracted overall treatment time, the lack of a RT-only control
+arm and the poor outcome in the control group. An individual patient data meta-analysis was undertaken to address these issues
+[34]. The authors identified 18 randomised trials with an RT-only
+control arm from 11 countries with the subsequent analysis limited
+to 13 trials. The analysis confirmed the benefit of CRT but with a
+smaller effect. The HR for OS and DFS was 0.81 and 0.78, respectively, which translates into an absolute improvement of 6% and
+8% in OS and DFS, respectively. The estimated absolute survival
+benefit for CRT compared with RT alone was 10% for those with
+FIGO stage I/II disease, compared with 3% for those with FIGO
+stage III/IVa. The most commonly used regimen is weekly cisplatin
+40 mg/m2, although the meta-analysis also reported significant
+benefits with non-platinum agents [I, A] [34].
+More recently, colleagues in Mexico reported on a large
+randomised phase III trial comparing standard CRT with a more
+intensive concomitant approach with gemcitabine/cisplatin followed by an additional two cycles of adjuvant chemotherapy
+[35]. Yet, despite a reported 9% improvement in progressionfree survival (PFS) at 3 years with treatment intensification, this
+approach has not been widely adopted amid concerns about toxicity [II, C]. Meanwhile two international trials of additional
+chemotherapy delivered either before (INTERLACE) or after
+CRT (OUTBACK) are ongoing and will hopefully answer the
+question as to whether this approach will improve OS further.
+Technical advances in imaging and in RT planning have facilitated a move towards increased precision in brachytherapy practice. This approach has been championed by groups in Austria,
+Denmark and France with the dual aim of improving outcome
+through dose escalation while reducing the toxicity to the surrounding normal tissues [36]. A recently published multicentre cohort study (RetroEMBRACE) demonstrated excellent local control
+rates of 93% and 79% for patients with FIGO stage IIB and IIIB
+disease, respectively, at 3 years [37]. However, the 5-year actuarial
+OS was 65% and, while this is better than historical controls, it remains to be seen whether this truly represents an improvement in
+survival over standard CRT with lower RT doses. With a median
+follow up of 43 months, the actuarial 5-year G3–G5 morbidity was
+5%, 7% and 5% to the bladder, gastrointestinal tract and vagina,
+respectively, confirming that the improved local control was
+achieved with a low risk of morbidity [I, B]. Given the rarity of
+small-cell neuroendocrine carcinoma, there are limited data to
+guide treatment of this type of cervical cancer. Most clinicians
+favour: the use of combined modality therapy (surgery followed by
+chemotherapy or combined CRT) for limited-stage potentially
+
+doi:10.1093/annonc/mdx220 | iv77
+
+Clinical Practice Guidelines
+resectable disease; definitive CRT for locoregionally advanced
+unresectable but non-metastatic disease; and palliative chemotherapy alone for those with metastatic disease, using chemotherapy
+regimens that are typically used for small-cell lung cancer.
+Neoadjuvant chemotherapy and radiotherapy. The concept of
+delivering chemotherapy before RT (neoadjuvant or induction
+chemotherapy) has been explored in clinical trials with conflicting
+results. An individual patient data meta-analysis was undertaken
+of 18 randomised trials involving over 2000 patients [38].
+Heterogeneity in trial design precluded a unified analysis.
+However, the authors identified cycle length and platinum dose intensity as important factors in determining the impact of NACT
+on outcome. The trials that delivered short-cycle chemotherapy
+( 14 days) gave a pooled HR of 0.83, equivalent to an improvement of 7% in 5-year survival. In contrast, the trials with longer
+chemotherapy cycles (> 14 days) gave a pooled HR of 1.25, equivalent to an absolute detriment in survival of 8% at 5 years.
+Accelerated repopulation of resistant cancer cells during prolonged
+intervals (up to 6 weeks in some studies) between NACT and RT
+may account for the detrimental effect seen in some studies. The
+ongoing INTERLACE trial, which is randomising patients with
+LACC between standard CRT alone and 6 weeks of induction
+chemotherapy followed immediately in week 7 by standard CRT,
+seeks to address some of these issues by studying the use of a dosedense schedule, incorporating a taxane and eliminating the interval
+between induction chemotherapy and RT.
+Lymph node staging and radiotherapy. In patients with LACC,
+RT treatment planning relies on accurate staging information.
+Pelvic MRI and clinical examination is essential to determine the
+local extent of the tumour for both external beam RT and brachytherapy planning. Information on para-aortic nodal status is also
+essential for treatment planning, particularly in determining the
+superior extent of the external beam RT portal. FIGO staging
+does not take account of the nodal status and this is one of the
+weaknesses of this system. Surgical series suggest that the incidence of para-aortic nodal involvement increases with stage from
+about 5% in patients with stage I disease to 25% in those with
+stage III disease [39].
+There is much debate concerning the best way to assess the
+para-aortic nodes. In some parts of the world, PET/CT is routinely used for staging while elsewhere there is a reliance on surgical exploration of the para-aortic region. It is hoped that the
+ongoing randomised trials will address this issue further [40].
+This is particularly important in the light of the findings from a
+multicentre, randomised trial demonstrating an excellent outcome in patients with negative PET scans and metastasis  5 mm
+detected histologically after surgical removal and subsequently
+treated with extended-field CRT [41].
+
+Adjuvant treatment
+Women with risk factors on the pathology specimen should receive adjuvant therapy following hysterectomy (Table 3). Two
+classes of risk are defined: intermediate- and high-risk patients.
+However, intermediate-risk factors such as LVSI, large tumour size
+and deep stromal invasion (DSI) do not significantly increase the
+
+iv78 | Marth et al.
+
+Annals of Oncology
+Table 3. Necessary histopathological parameters for assessment of
+cervical cancer
+Histopathological evaluation
+Dimensions of the tumour
+Stromal invasion/depth of the wall involved
+Tumour differentiation
+Lymphovascular space invasion
+Status of resection margins
+Status of parametria and vaginal cuff
+Number and status of lymph nodes
+
+recurrence rate alone but, when combined, the risk of recurrence is
+increased to 15%–20%, similar to that of high-risk factors.
+Intermediate-risk disease. A Gynecologic Oncology Group
+(GOG) trial that randomly assigned 277 women to receive pelvic
+RT (without chemotherapy) or no further treatment demonstrated a benefit for postoperative RT in women with the following features: deep cervical stromal invasion (to the middle or
+one-third depth), LVSI and large tumour size (> 4 cm). With a
+median follow-up of 10 years, a significant benefit has been
+shown for PFS (HR 0.54), but not for OS (HR 0.7; P ¼ 0.07) [42].
+High-risk disease. Women with one or more negative prognostic
+factors such as positive or close surgical margins, positive lymph
+nodes or microscopic parametrial involvement are considered to
+be at high risk of relapse. In this setting of patients, adjuvant CRT
+is indicated based on a clinical trial that randomly assigned 268
+women IA2, IB and IIA to adjuvant RT with or without chemotherapy (cisplatin–5-fluorouracil) for four courses [33]. The use
+of chemotherapy was associated with a substantially better 4-year
+OS (81% versus 71%) and PFS (80% versus 63%) and the outcome was better for patients who completed three to four cycles
+of chemotherapy [I, A].
+Cervical cancer patients with intermediate-risk disease do not
+need further adjuvant therapy [II, B], whereas adjuvant CRT is
+recommended in high-risk patients [I, A].
+
+Management of advanced/metastatic
+disease (Figure 1)
+Metastatic or recurrent cervical cancer is usually a symptomatic
+and devastating situation for the patient. Palliative chemotherapy
+with the aim of relieving symptoms and improving quality of life
+is indicated if the patient has a performance status (PS)  2 and
+no formal contraindications. Cisplatin 50 mg/m2 every 3 weeks
+was, for two decades, the standard of care. However, the global efficacy was disappointing due to a low response rate (20%), short
+median PFS (2.8–3.2 months) and OS (6.2–8.0 months).
+Cisplatin-based doublets with topotecan or paclitaxel have
+demonstrated superiority to cisplatin monotherapy in terms of
+response rate and PFS [43, 44]. Cisplatin combined with topotecan showed superior OS compared with cisplatin alone. Both trials also demonstrated that the response rate was clearly inferior in
+patients previously exposed to CRT. In addition, retrospective
+pooled analysis suggested that black race, pelvic location rather
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+than non-pelvic, PS 1 or 2 and first relapse within 1 year of diagnosis may also be poor prognostic factors associated with lower
+response [45].
+The three-drug combination of paclitaxel–ifosfamide–cisplatin
+(TIP) has shown promising responses (overall response rate 62%,
+with complete response 26%) and is regarded as an active regimen
+with acceptable toxicity in advanced/relapsed cervical cancer [46].
+A large randomised phase III trial (GOG-204) comparing four
+different cisplatin-based doublets with paclitaxel, topotecan, gemcitabine or vinorelbine was unable to demonstrate the superiority
+of any regimen. Nevertheless, paclitaxel–cisplatin showed the highest response rate (29%), median PFS (5.8 months) and median OS
+(12.8 months) and was considered the preferred regimen based on
+the balance between efficacy and toxicity profile [II, B] [47].
+Tumour angiogenesis plays a significant role in the progression
+of cervical cancer and has been associated with a poor prognosis.
+Bevacizumab prevents tumour angiogenesis by blocking vascular
+endothelial growth factor and was shown to be active in a phase II
+study (GOG-227C) in recurrent cervical cancer [48]. Based on
+this observation, the GOG-240 study explored the addition of
+bevacizumab to chemotherapy in a randomised phase III trial
+with a 2 2 factorial design in which OS was the primary endpoint. Patients with primary stage IVB or recurrent/persistent,
+good PS (0 or 1) and measurable disease were randomised to
+paclitaxel–cisplatin or paclitaxel–topotecan, both with or without bevacizumab. Two main conclusions were obtained from this
+study: first, the median OS is significantly prolonged by the addition of bevacizumab (16.8 versus 13.3 months; HR 0.765; 95%
+CI: 0.62–0.95; P ¼ 0.0068) and second, non-platinum doublet is
+not superior to cisplatin–paclitaxel, even in the population previously treated with cisplatin. Patients treated with bevacizumab
+had a higher risk of grade  2 hypertension (25% versus 1.8%),
+grade  3 venous thromboembolic events (8.2% versus 1.8%)
+and grade  2 fistula (8.6% versus 1%), and these side-effects
+must be carefully monitored during treatment [49].
+The combination of paclitaxel and carboplatin could be considered an alternative for patients that are not candidates for cisplatin. Although a Japanese randomised clinical trial which
+compared the two regimens showed a similar efficacy, the combination with cisplatin was superior to carboplatin in patients
+without previous exposure to cisplatin [50]. The combination of
+carboplatin/paclitaxel/bevacizumab is being studied in a multicentre, single-arm, interventional trial (CECILIA), to evaluate
+the safety and efficacy of the combination in recurrent and/or
+metastatic cervical cancer (NCT02467907).
+Paclitaxel and cisplatin combined with bevacizumab is considered the preferred first-line regimen in metastatic or recurrent
+cervical cancer based on the balance between efficacy and toxicity
+profile [I, A].
+In patients progressing following first-line therapy, different
+cytostatic agents, including vinorelbine, topotecan, gemcitabine
+or nanoparticle albumin-bound paclitaxel have been evaluated
+(Table 4). However, response rates are low and duration of responses is short. Therefore, no recommendation can be given
+about the most effective second-line treatment (Table 4).
+Some patients develop small lung metastases only, which do
+not rapidly progress and can be managed with stereotactic RT
+and/or a watchful waiting policy, frequently delaying systemic
+chemotherapy for a significant period of time.
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+Table 4. Second-line therapy for metastatic cervical cancer
+Agent
+
+N
+
+CR1PR
+(%)
+
+PFS
+(months)
+
+Bevacizumab [48]
+Topotecan [62, 63]
+Vinorelbine [64]
+Gemcitabine [65]
+Albumin-bound paclitaxel [66]
+Docetaxel [67]
+Pemetrexed [68, 69]
+Irinotecan [70]
+Sunitinib [71]
+Erlotinib [72]
+Lapatinib [73]
+Pazopanib [73]
+Pegylated liposomal
+doxorubicin [74]
+
+46
+94
+44
+22
+35
+23
+72
+42
+19
+28
+78
+74
+27
+
+11
+13-19
+14
+5
+29
+9
+14-15
+21
+0
+0
+5
+9
+11
+
+3.4
+2.1-2.4
+2.1
+5.0
+3.8
+2.5-3.1
+4.5
+3.5
+1.9
+4.2
+4.5
+3.2
+
+OS
+(months)
+7.3
+6.4-6.6
+6.5
+9.4
+7.0
+7.4-8.8
+6.4
+5.0
+9.7
+12.7
+8.9
+
+CR, complete response; OS, overall survival; PFS, progression-free survival; PR, partial response.
+
+RT can play an important role in patients with recurrent disease, in the case of oligometastatic disease and for patients with
+only nodal metastasis in the pelvic, periaortic and/or supraclavicular regions, as high-dose RT often leads to long-term disease
+control and a prolonged progression-free interval. Short-course
+palliative RT is used to treat symptoms from distant metastases.
+
+Local recurrence of cervical cancer following
+radical surgery
+The therapeutic options for patients who relapse in the pelvis following primary surgery are either radical RT or pelvic exenteration. The reported survival rates range from 6% to 77%; patients
+with central recurrences have better prognoses than those with
+pelvic side wall recurrence. Patients with central recurrences had
+a 10-year survival rate of 77%, for those with no palpable tumour,
+and a 10-year survival rate of 48% if the recurrence was < 3 cm;
+there were no long-term survivors among patients with bulky
+(> 3 cm) central recurrence in one series. The major prognostic
+factors associated with survival following salvage radiation in
+patients with recurrent pelvic disease include disease-free interval, site of recurrence (i.e. central versus pelvic side wall), and
+size. Higher doses of RT can be delivered with brachytherapy and
+increase the likelihood of local control for patients with small volume central recurrences. Patients with large volume central or
+pelvic side wall recurrences have poor prognoses, and efforts
+should be made to detect pelvic recurrences early to increase the
+chance of long-term survival [51].
+
+Fertility sparing
+More than 40% of women with early cervical cancer are affected
+during reproductive age and wish to remain fertile. Thus, many
+patients demand a more conservative policy for managing these
+lesions in order to increase the chance of having an uneventful
+pregnancy in the future.
+
+doi:10.1093/annonc/mdx220 | iv79
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 5. Summary of recommendations
+Incidence and epidemiology
+ Primary prevention of cervical cancer is now possible via immunisation with highly efﬁcacious HPV vaccines [II, A] and secondary prevention has gained
+impetus with the advent of sensitive HPV DNA testing to improve traditional Pap cytology screening programs [II, A].
+Staging and risk assessment
+ Tumour risk assessment includes tumour size, stage, depth of tumour invasion, lymph node status, LVSI and histological subtype. Lymph node status and
+number of lymph nodes involved are the most important prognostic factors.
+Management of local/locoregional disease
+Surgery
+
+ Surgical therapy in cervical cancer is adapted to the stage of disease according to FIGO and TNM classiﬁcation (see Table 2).
+ Microinvasive cervical cancer (stage IA1) without LVSI can be managed with conisation or simple trachelectomy to preserve fertility [I, B]. Simple hysterectomy can be offered if the patient does not wish to preserve fertility.
+ In stage IA1 with LVSI, surgical assessment of pelvic lymph nodes should be discussed with the patient, including the SLN.
+ In patients with FIGO stage IA2, IB and IIA, radical hysterectomy with bilateral lymph node dissection (with or without SLN) is standard treatment, if the
+patient does not wish to preserve fertility [I, B].
+ Increasing evidence suggests an important role for SLND in cervical cancer. Sentinel nodes should be detected on both sides [II, B].
+ Surgery should only be considered in patients with earlier stages of cervical cancer (up to FIGO IIA) without risk factors necessitating adjuvant therapy,
+which results in a multimodal therapy without improvement of survival but increased toxicity [I, A].
+ Study results indicate that NACT may offer a beneﬁt over surgery alone in cervical cancer patients, reducing the need for adjuvant RT [I, C].
+Chemoradiotherapy in locally advanced cervical cancer
+
+ CRT has been the standard of care for patients with bulky IB2–IVA disease for almost two decades, demonstrating an improvement in both DFS and OS
+with concomitant chemotherapy and RT over standard RT/hydroxyurea [I, A].
+ The most commonly used regimen is weekly cisplatin 40 mg/m2, although the meta-analysis also reported signiﬁcant beneﬁts with non-platinum agents
+[I, A].
+Adjuvant treatment
+
+ Women with intermediate- and high-risk factors on the pathology specimen should receive adjuvant therapy following hysterectomy (see Table 3).
+ Cervical cancer patients with intermediate-risk disease do not need further adjuvant therapy [II, B], whereas adjuvant CRT is recommended in high-risk
+patients [I, A].
+Management of advanced/metastatic disease
+ Palliative chemotherapy with the aim of relieving symptoms and improving quality of life is indicated if the patient has a PS < 2 and no formal
+contraindications.
+ Cisplatin-based doublets with topotecan or paclitaxel have demonstrated superiority to cisplatin monotherapy in terms of response rate and PFS.
+ Paclitaxel and cisplatin combined with bevacizumab is considered the preferred ﬁrst-line regimen in metastatic or recurrent cervical cancer based on the
+balance between efﬁcacy and toxicity proﬁle [I, A].
+ The combination of paclitaxel and carboplatin could be considered an alternative for patients that are not candidates for cisplatin.
+ For FIGO Stage IA1 patients, conisation is recommended as a ﬁrst diagnostic and curative step for microscopic tumours in the presence of negative margins and the absence of clinical contraindications to surgery. PLND is recommended for patients with LVSI, who have an increased risk of lymph node involvement. Sentinel node biopsy or trachelectomy [II, B] should be considered in some patients.
+ For FIGO Stage IA2 patients wishing to preserve fertility, cone biopsy or radical trachelectomy with PLND is the standard procedure.
+ Scientiﬁc evidence shows that trachelectomy with pelvic lymphadenectomy is the most appropriate surgical treatment of fertility sparing in patients
+with tumours measuring  2 cm in diameter (FIGO Stage IB1 < 2 cm) [II, B]. For tumours > 2 cm, NACT followed by conisation or trachelectomy may
+also be a valid choice.
+Follow-up, long-term implications and survivorship
+ Follow-up visits with a complete physical examination including a pelvic–rectal exam and a patient history should be conducted by a physician experienced in the surveillance of cancer patients.
+ CT or PET/CT scan should be carried out as clinically indicated. A reasonable follow-up schedule involves follow-up visits every 3–6 months in the ﬁrst
+2 years and every 6–12 months in years 3–5.
+ Patients should return to annual population-based general physical and pelvic examinations after 5 years of recurrence-free follow-up [III, C].
+CRT, chemoradiotherapy; CT, computed tomography; DFS, disease-free survival; DNA, deoxyribonucleic acid; FIGO, Féderation Internationale de
+Gynécologie et d’Obstétrique; HPV, human papillomavirus; LVSI, lymphovascular space invasion; NACT, neoadjuvant chemotherapy; OS, overall survival; Pap, Papanicolaou; PET/CT, positron emission tomography/computed tomography; PFS, progression-free survival; PLND, pelvic lymph node
+dissection; PS, performance status; RT, radiotherapy; SLN, sentinel lymph node; SLND, sentinel lymph node dissection; TNM, tumour, node and
+metastasis.
+
+FIGO stage IA1
+According to most international guidelines, the first diagnostic
+and curative step for microscopic tumours is conisation [52]. In
+
+iv80 | Marth et al.
+
+the presence of negative margins and the absence of clinical
+contraindications to surgery, the cone biopsy may represent definitive treatment. For patients with LVSI, who have an increased
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+Table 6. Levels of evidence and grades of recommendation (adapted from
+the Infectious Diseases Society of America-United States Public Health
+Service Grading Systema)
+Levels of evidence
+I
+Evidence from at least one large randomised, controlled trial of
+good methodological quality (low potential for bias) or metaanalyses of well-conducted randomised trials without
+heterogeneity
+II
+Small randomised trials or large randomised trials with a suspicion
+of bias (lower methodological quality) or meta-analyses of such
+trials or of trials with demonstrated heterogeneity
+III
+Prospective cohort studies
+IV
+Retrospective cohort studies or case–control studies
+V
+Studies without control group, case reports, experts opinions
+Grades of recommendation
+A
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt,
+strongly recommended
+B
+Strong or moderate evidence for efﬁcacy but with a limited clinical beneﬁt, generally recommended
+C
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh
+the risk or the disadvantages (adverse events, costs, . . . ).,
+optional
+D
+Moderate evidence against efﬁcacy or for adverse outcome, generally not recommended
+E
+Strong evidence against efﬁcacy or for adverse outcome, never
+recommended
+a
+
+By permission of the Infectious Diseases Society of America [75].
+
+risk of lymph node involvement, pelvic lymph node dissection
+(PLND) is recommended [52]. Sentinel node biopsy should be
+considered. Moreover, for these patients, some authors suggest
+trachelectomy, a surgical procedure in which the uterine cervix
+and adjacent tissues are removed [II, B].
+
+FIGO stage IA2
+For patients wishing to preserve fertility, cone biopsy or radical
+trachelectomy with PLND is the standard procedure [53].
+Sentinel node biopsy is under validation but may be considered
+[II, B].
+
+FIGO stage IB1 < 2 cm
+Scientific evidence shows that trachelectomy with pelvic lymphadenectomy is the most appropriate surgical treatment of fertility
+sparing in patients with these tumours. Tumours > 2 cm are
+clearly associated with a higher risk of recurrence (3% for lesions  2 cm versus 17% for lesions > 2 cm); thus, international
+guidelines stress that this procedure is valid mostly for tumours
+measuring  2 cm in diameter [II, B] [54, 55].
+Currently, as documented by most international guidelines, radical trachelectomy is considered a standard fertility-sparing procedure in patients with early cervical cancer and tumours < 2 cm.
+However, the low incidence of parametrial involvement reported in
+patients with tumours < 2 cm and no nodal disease or LVSI suggest
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+that less radical treatment may be a valid choice for fertility sparing
+also in these lesions (lower morbidity, higher pregnancy rate).
+Some studies have reported in the absence of residual disease in
+trachelectomy specimens in the range of 60%–65%, questioning
+the need for radical surgery in patients with low-risk tumours [56].
+Finally, some authors have suggested conisation with/without
+NACT in this tumour setting as well [II, C] [55, 57–60].
+
+FIGO stage IB > 2 cm
+For tumours > 2 cm, NACT followed by conisation or trachelectomy may also be a valid choice, but downstaging by NACT in
+IB1 and IB2 cervical cancer before fertility-sparing surgery is still
+an experimental procedure [I, C].
+
+Personalised medicine
+In this disease setting, more research is needed to identify molecular
+markers which could lead to advances in personalised medicine.
+
+Follow-up, long-term implications and
+survivorship
+No definitive agreement exists on the best post-treatment surveillance of cervical cancer. At a minimum, follow-up visits with a
+complete physical examination, including a pelvic–rectal exam
+and a patient history, should be conducted by a physician experienced in the surveillance of cancer patients. There is little evidence
+to suggest that vaginal vault cytology adds significantly to the clinical exam in detecting early disease recurrence. Routine use of various other radiological or biological follow-up investigations in
+asymptomatic patients is not advocated, because the role of those
+investigations has yet to be evaluated in a definitive manner. CT or
+PET/CT scan should be carried out as clinically indicated. A reasonable follow-up schedule involves follow-up visits every 3–6 months
+in the first 2 years and every 6–12 months in years 3–5. Patients
+should return to annual population-based general physical and pelvic examinations after 5 years of recurrence-free follow-up [III, C].
+
+Methodology
+These Clinical Practice Guidelines were developed in accordance
+with the ESMO standard operating procedures for Clinical Practice
+Guidelines development http://www.esmo.org/Guidelines/ESMOGuidelines-Methodology. The relevant literature has been selected
+by the expert authors. A summary of recommendations is shown in
+Table 5. Levels of evidence and grades of recommendation have
+been applied using the system shown in Table 6. Statements without
+grading were considered justified standard clinical practice by the
+experts and the ESMO Faculty. This manuscript has been subjected
+to an anonymous peer review process.
+
+Disclosure
+CM and MMC have reported honoraria and participation at
+advisory boards for Roche; SM has reported consulting for
+
+doi:10.1093/annonc/mdx220 | iv81
+
+Clinical Practice Guidelines
+Roche, Clovis, Sensor Kinesis, MEDAC, AstraZeneca and has
+received grants from Roche, Pharmamar, Tesaro, MEDAC,
+AstraZeneca and honoraria from Roche, Pharmamar, Clovis,
+Tesaro, Sensor Kinesis, MEDAC and AstraZeneca; AGM has
+received honoraria from Roche, AstraZeneca and PharmaMar;
+NC is a member of Roche speakers’ bureau; FL has reported no
+conflict of interest.
+
+References
+1. Torre LA, Bray F, Siegel RL et al. Global cancer statistics, 2012. CA
+Cancer J Clin 2015; 65: 87–108.
+2. International Agency for Research on Cancer, EUCAN. http://eco.iarc.fr/
+eucan (29 April 2017, date last accessed).
+3. Sant M, Chirlaque Lopez MD, Agresti R et al. Survival of women with
+cancers of breast and genital organs in Europe 1999–2007: results of the
+EUROCARE-5 study. Eur J Cancer 2015; 51: 2191–2205.
+4. Petrosky E, Bocchini JA Jr, Hairi S et al. Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of
+the Advisory Committee on Immunization Practices. MMWR Morb
+Mortal Wkly Rep 2015; 64: 300–304.
+5. FUTURE II Study Group. Quadrivalent vaccine against human papillomavirus to prevent high grade cervical lesion. N Engl J Med 2007; 356:
+1915–1927.
+6. Paavonen J, Naud P, Salmer
+on J et al. Efficacy of human papillomavirus
+(HPV) 16/18 AS04-adjuvanted vaccine against cervical infection and precancer
+caused by oncogenic HPV types (PATRICIA): final analysis of a double-blind,
+randomised study in young women. Lancet 2009; 374: 301–314.
+7. Joura EA, Giuliano AR, Iversen OE et al. A 9-valent HPV vaccine against
+infection and intraepithelial neoplasia in women. N Engl J Med 2015;
+372: 711–723.
+8. Markowitz LE, Liu G, Hariri S et al. Prevalence of HPV after introduction of the vaccination program in the United States. Pediatrics 2016;
+137: e20151968.
+9. Ali H, Donovan B, Wand H et al. Genital warts in young Australians five
+years into national human papillomavirus vaccination programme: national surveillance data. BMJ 2013; 346: f2032.
+10. Ronco G, Dillner J, Elfström KM et al. Efficacy of HPV-based screening
+for prevention of invasive cervical cancer: follow-up of four European
+randomised controlled trials. Lancet 2014; 383: 524–532.
+11. Serrano B, de Sanjosé S, Tous S et al. Human papillomavirus genotype
+attribution for HPVs 6, 11, 16, 18, 31, 33, 45, 52 and 58 in female anogenital lesions. Eur J Cancer 2015; 51: 1732–1741.
+12. Alemany L, Cubilla A, Halec G et al. Role of human papillomavirus in
+penile carcinomas worldwide. Eur Urol 2016; 69: 953–961.
+13. Alemany L, Saunier M, Alvarado-Cabrero I et al. Human papillomavirus
+DNA prevalence and type distribution in anal carcinomas worldwide. Int
+J Cancer 2015; 136: 98–107.
+14. Wagenaar HC, Trimos JB, Postema S et al. Tumor diameter and volume
+assessed by magnetic resonance imaging in the prediction of outcome for
+invasive cervical cancer. Gynecol Oncol 2001; 82: 474–482.
+15. Patel CN, Nazir SA, Khan Z et al. 18F-FDG PET/CT of cervical carcinoma. AJR Am J Roentgenol 2011; 196: 1225–1233.
+16. Brockbank E, Kokka F, Bryant A et al. Pre-treatment surgical para-aortic
+lymph node assessment in locally advanced cervical cancer. Cochrane
+Database Syst Rev 2011; 4: CD008217.
+17. Kim SM, Choi HS, Byun JS. Overall 5-year survival rate and prognostic
+factors in patients with stage IB and IIA cervical cancer treated by radical
+hysterectomy and pelvic lymph node dissection. Int J Gynecol Cancer
+2000; 10: 305–312.
+18. Dittrich R, Lotz L, Hackl J et al. Fertilit€atserhalt bei Krebserkrankungen.
+Frauenarzt 2014; 55: 240–246.
+19. Geetha P, Nair MK. Laparoscopic, robotic and open method of radical
+hysterectomy for cervical cancer: a systematic review. J Min Access Surg
+2012; 8: 67–73.
+
+iv82 | Marth et al.
+
+Annals of Oncology
+20. Diab Y. Sentinel lymph nodes mapping in cervical cancer a comprehensive review. Int J Gynecol Cancer 2017; 27: 154–158.
+21. Canadian Cancer Trials Group. Radical versus simple hysterectomy and
+pelvic node dissection in patients with low-risk early stage cervical cancer
+(SHAPE). https://clinicaltrials.gov/ct2/show/NCT01658930 (29 April
+2017, date last accessed).
+22. Benedetti-Panici P, Greggi S, Scambia G et al. Long-term survival following neoadjuvant chemotherapy and radical surgery in locally advanced
+cervical cancer. Eur J Cancer 1998; 34: 341–346.
+23. Sardi JE, di Paola GR, Cachau A et al. A possible new trend in the management of the carcinoma of the cervix uteri. Gynecol Oncol 1986; 25:
+139–149.
+24. Paladini D, Raspagliesi F, Fontanelli R, Ntousias V. Radical surgery after
+induction chemotherapy in locally advanced cervical cancer. A Feasibility
+Study. Int J Gynecol Cancer 1995; 5: 296–300.
+25. Neoadjuvant Chemotherapy for Locally Advanced Cervical Cancer
+Meta-analysis Collaboration. Neoadjuvant chemotherapy for locally
+advanced cervical cancer: a systematic review and meta-analysis of individual patient data from 21 randomised trials. Eur J Cancer 2003; 39:
+2470–2486.
+26. European Organisation for Research and Treatment of Cancer – EORTC.
+Chemotherapy followed by surgery vs radiotherapy plus chemotherapy in
+patients with stage Ib or II cervical cancer. EORTC Protocol 55994. https://
+clinicaltrials.gov/ct2/show/NCT00039338 (29 April 2017, date last accessed).
+27. Gupta S. Neoadjuvant chemotherapy followed by surgery versus concurrent chemoradiation in carcinoma of the cervix (NACTcervix).
+NCT00193739.
+https://clinicaltrials.gov/ct2/show/NCT00193739
+NCT00193739 https://clinicaltrials.gov/ct2/show/NCT00193739 (29
+April 2017, date last accessed).
+28. Rydzewska L, Tierney J, Vale CL, Symonds PR. Neoadjuvant chemotherapy plus surgery versus surgery for cervical cancer. Cochrane Database
+Syst Rev 2012; 12: CD007406.
+29. Whitney CW, Sause W, Bundy BN et al. Randomized comparison of fluorouracil plus cisplatin versus hydroxyurea as an adjunct to radiation
+therapy in stage IIB–IVA carcinoma of the cervix with negative paraaortic lymph nodes: a Gynecologic Oncology Group and Southwest
+Oncology Group study. J Clin Oncol 1999; 17: 1339–1348.
+30. Rose PG, Bundy BN, Watkins EB et al. Concurrent cisplatin-based radiotherapy and chemotherapy for locally advanced cervical cancer. N Engl J
+Med 1999; 340: 1144–1153.
+31. Morris M, Eifel PJ, Lu J et al. Pelvic radiation with concurrent chemotherapy compared with pelvic and para-aortic radiation for high-risk cervical cancer. N Engl J Med 1999; 340: 1137–1143.
+32. Keys HM, Bundy BN, Stehman FB et al. Cisplatin, radiation, and adjuvant
+hysterectomy compared with radiation and adjuvant hysterectomy for
+bulky stage IB cervical carcinoma. N Engl J Med 1999; 340: 1154–1161.
+33. Peters WA, 3rd, Liu PY, Barrett RJ, 2nd et al. Concurrent chemotherapy
+and pelvic radiation therapy compared with pelvic radiation therapy
+alone as adjuvant therapy after radical surgery in high-risk early-stage
+cancer of the cervix. J Clin Oncol 2000; 18: 1606–1613.
+34. Chemoradiotherapy
+for
+Cervical
+Cancer
+Meta-Analysis
+Collaboration. Reducing uncertainties about the effects of chemoradiotherapy for cervical cancer: a systematic review and meta-analysis
+of individual patient data from 18 randomized trials. J Clin Oncol
+2008; 26: 5802–5812.
+35. Due~
+nas-Gonzalez A, Zarba JJ, Patel F et al. Phase III, open-label,
+randomized study comparing concurrent gemcitabine plus cisplatin and
+radiation followed by adjuvant gemcitabine and cisplatin versus concurrent cisplatin and radiation in patients with stage IIB to IVA carcinoma
+of the cervix. J Clin Oncol 2011; 29: 1678–1685.
+36. Tanderup K, Lindegaard JC, Kirisits C et al. Image guided adaptive
+brachytherapy in cervix cancer: a new paradigm changing clinical practice and outcome. Radiother Oncol 2016; 120: 365–369.
+37. Sturdza A, Pötter R, Fokdal LU et al. Image guided brachytherapy in locally advanced cervical cancer: improved pelvic control and survival in
+RetroEMBRACE, a multicenter cohort study. Radiother Oncol 2016;
+120: 428–433.
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+38. Neoadjuvant Chemotherapy for Cervical Cancer Meta-analysis Collaboration
+(NACCCMA). Neoadjuvant chemotherapy for locally advanced cervix cancer. Cochrane Database Syst Rev 2004; 2: CD001774.
+39. Berman ML, Keys H, Creasman W et al. Survival and patterns of
+recurrence in cervical cancer metastatic to periaortic lymph nodes
+(a Gynecologic Oncology Group study). Gynecol Oncol 1984; 19: 8–16.
+40. Indonesia University. 10 vs 14 Days Triple Therapy: H. pylori Infection
+Eradication. NCT01566240. https://clinicaltrials.gov/ct2/show/ (29 April
+2017, date last accessed).
+41. Gouy S, Morice P, Narducci F et al. Prospective multicenter study evaluating the survival of patients with locally advanced cervical cancer
+undergoing laparoscopic para-aortic lymphadenectomy before chemoradiotherapy in the era of positron emission tomography imaging. J Clin
+Oncol 2013; 31: 3026–3033.
+42. Rotman M, Sedlis A, Piedmonte MR et al. A phase III randomized trial
+of postoperative pelvic irradiation in Stage IB cervical carcinoma with
+poor prognostic features: follow-up of a Gynecologic Oncology Group
+study. Int J Radiat Oncol Biol Phys 2006; 65: 169–176.
+43. Moore DH, Blessing JA, McQuellon RP et al. Phase III study of cisplatin
+with or without paclitaxel in stage IVB, recurrent, or persistent squamous
+cell carcinoma of the cervix: a Gynecologic Oncology Group Study.
+J Clin Oncol 2004; 22: 3113–3119.
+44. Long HJ 3rd, Bundy BN, Grendys EC Jr et al. Randomized phase III
+trial of cisplatin with or without topotecan in carcinoma of the uterine
+cervix: a Gynecologic Oncology Group Study. J Clin Oncol 2005; 23:
+4626–4633.
+45. Moore DH, Tian C, Monk BJ et al. Prognostic factors for response to
+cisplatin-based chemotherapy in advanced cervical carcinoma: a
+Gynecologic Oncology Group Study. Gynecol Oncol 2010; 116: 44–49.
+46. Kosmas C, Mylonakis N, Tsakonas G et al. Evaluation of the paclitaxel–
+ifosfamide–cisplatin (TIP) combination in relapsed and/or metastatic
+cervical cancer. Br J Cancer 2009; 101: 1059–1065.
+47. Monk BJ, Sill MW, McMeekin DS et al. Phase III trial of four cisplatincontaining doublet combinations in stage IVB, recurrent, or persistent
+cervical carcinoma: a Gynecologic Oncology Group study. J Clin Oncol
+2009; 27: 4649–4655.
+48. Monk BJ, Sill MW, Burger RA et al. Phase II trial of bevacizumab in the
+treatment of persistent or recurrent squamous cell carcinoma of the cervix:
+a Gynecologic Oncology Group study. J Clin Oncol 2009; 27: 1069–1074.
+49. Tewari KS, Sill MW, Long HJ 3rd et al. Improved survival with bevacizumab in advanced cervical cancer. N Engl J Med 2014; 370: 734–743.
+50. Kitagawa R, Katsumata N, Shibata T et al. Paclitaxel plus carboplatin versus
+paclitaxel plus cisplatin in metastatic or recurrent cervical cancer: the openlabel randomized phase III trial JCOG0505. J Clin Oncol 2015; 33: 2129–2135.
+51. Friedlander M, Grogan M; U.S. Preventative Services Task Force.
+Guidelines for the treatment of recurrent and metastatic cervical cancer.
+Oncologist 2002; 7: 342–347.
+52. Yoneda JY, Braganca JF, Sarian LO et al. Surgical treatment of microinvasive cervical cancer: analysis of pathologic features with implications
+on radicality. Int J Gynecol Cancer 2015; 25: 694–698.
+53. NCCN Guidelines for treatment of cervical cancer. https://www.nccn.
+org/professionals/physician_gls/pdf/cervical.pdf (15 May 2017, date last
+accessed).
+54. Lanowska M, Mangler M, Spek A et al. Radical vaginal trachelectomy
+(RVT) combined with laparoscopic lymphadenectomy: prospective
+study of 225 patients with early-stage cervical cancer. Int J Gynecol
+Cancer 2011; 21: 1458–1464.
+55. Landoni F, Parma G, Peiretti M et al. Chemo-conization in early cervical
+cancer. Gynecol Oncol 2007; 107(Suppl 1): S125–S126.
+56. Plante M, Gregoire J, Renaud MC et al. Simple vaginal trachelectomy in
+early-stage low-risk cervical cancer: a pilot study of 16 cases and review
+of the literature. Int J Gynecol Cancer 2013; 23: 916–922.
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+57. Maneo A, Sideri M, Scambia G et al. Simple conization and lymphadenectomy for the conservative treatment of stage IB1 cervical cancer. An
+Italian experience. Gynecol Oncol 2011; 123: 557–560.
+58. Fagotti A, Gagliardi ML, Moruzzi C et al. Excisional cone as fertilitysparing treatment in early-stage cervical cancer. Fertil Steril 2011; 95:
+1109–1112.
+59. Fanfani F, Landoni F, Gagliardi ML et al. Sexual and reproductive outcomes
+in early stage cervical cancer patients after excisional cone as a fertilitysparing surgery: an Italian experience. J Reprod Infertil 2014; 15: 29–34.
+60. Choi MC, Jung SG, Park H et al. Photodynamic therapy for management
+of cervical intraepithelial neoplasia II and III in young patients and obstetric outcomes. Lasers Surg Med 2013; 45: 564–572.
+61. James D, Brierley JD, Gospodarowicz MK et al. (eds). TNM Classification of
+Malignant Tumours, 8th edition. Oxford, UK: John Wiley & Sons, Inc. 2016.
+62. Bookman MA, Blessing JA, Hanjani P et al. Topotecan in squamous cell
+carcinoma of the cervix: a phase II study of the Gynecologic Oncology
+Group. Gynecol Oncol 2000; 77: 446–449.
+63. Muderspach LI, Blessing JA, Levenback C, Moore JL Jr. A phase II study
+of topotecan in patients with squamous cell carcinoma of the cervix: a
+Gynecologic Oncology Group study. Gynecol Oncol 2001; 81: 213–215.
+64. Muggia FM. Relevance of chemotherapy dose and schedule to outcomes
+in ovarian cancer. Semin Oncol 2004; 31(6 Suppl 15): 19–24.
+65. Schilder RJ, Blessing J, Cohn DE. Evaluation of gemcitabine in previously
+treated patients with non-squamous cell carcinoma of the cervix: a phase
+II study of the Gynecologic Oncology Group. Gynecol Oncol 2005; 96:
+103–107.
+66. Alberts DS, Blessing JA, Landrum LM et al. Phase II trial of nabpaclitaxel in the treatment of recurrent or persistent advanced cervix
+cancer: a Gynecologic Oncology Group study. Gynecol Oncol 2012;
+127: 451–455.
+67. Garcia AA, Blessing JA, Vaccarello L et al. Phase II clinical trial of docetaxel in refractory squamous cell carcinoma of the cervix: a Gynecologic
+Oncology Group Study. Am J Clin Oncol 2007; 30: 428–431.
+68. Miller DS, Blessing JA, Krasner CN et al. Phase II evaluation of pemetrexed in the treatment of recurrent or persistent platinum-resistant
+ovarian or primary peritoneal carcinoma: a study of the Gynecologic
+Oncology Group. J Clin Oncol 2009; 27: 2686–2691.
+69. Lorusso D, Ferrandina G, Pignata S et al. Evaluation of pemetrexed
+(Alimta, LY231514) as second-line chemotherapy in persistent or recurrent
+carcinoma of the cervix: the CERVIX 1 study of the MITO (Multicentre
+Italian Trials in Ovarian Cancer and Gynecologic Malignancies) Group.
+Ann Oncol 2010; 21: 61–66.
+70. Verschraegen CF, Levy T, Kudelka AP et al. Phase II study of irinotecan
+in prior chemotherapy-treated squamous cell carcinoma of the cervix. J
+Clin Oncol 1997; 15: 625–631.
+71. Mackay HJ, Tinker A, Winquist E et al. A phase II study of sunitinib in
+patients with locally advanced or metastatic cervical carcinoma: NCIC
+CTG Trial IND.184. Gynecol Oncol 2010; 116: 163–167.
+72. Schilder RJ, Sill MW, Lee YC, Mannel R. A phase II trial of erlotinib in
+recurrent squamous cell carcinoma of the cervix: a Gynecologic
+Oncology Group Study. Int J Gynecol Cancer 2009; 19: 929–933.
+73. Monk BJ, Mas Lopez L, Zarba JJ et al. Phase II, open-label study of pazopanib or lapatinib monotherapy compared with pazopanib plus lapatinib
+combination therapy in patients with advanced and recurrent cervical
+cancer. J Clin Oncol 2010; 28: 3562–3569.
+74. Rose PG, Blessing JA, Lele S et al. Evaluation of pegylated liposomal doxorubicin (Doxil) as second-line chemotherapy of squamous cell carcinoma of the cervix: a phase II study of the Gynecologic Oncology Group.
+Gynecol Oncol 2006; 102: 210–213.
+75. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001; 33: 139–144.
+
+doi:10.1093/annonc/mdx220 | iv83
+
+

@@ -1,0 +1,3225 @@
+Annals of Oncology 30: 1856–1883, 2019
+doi:10.1093/annonc/mdz400
+Published online 24 September 2019
+
+SPECIAL ARTICLE
+
+Thyroid cancer: ESMO Clinical Practice Guidelines for
+diagnosis, treatment and follow-up†
+S. Filetti1, C. Durante1, D. Hartl2,3, S. Leboulleux3,4, L. D. Locati5, K. Newbold6, M. G. Papotti7 & A. Berruti8,
+on behalf of the ESMO Guidelines Committee*
+1
+
+Department of Translational and Precision Medicine, Sapienza University of Rome, Rome, Italy; 2Department of Head and Neck Oncology, Gustave Roussy, Villejuif;
+Université Paris Saclay, Villejuif; 4Department of Nuclear Medicine and Endocrine Oncology, Gustave Roussy, Villejuif, France; 5Head and Neck Medical Oncology
+Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy; 6Head and Neck Unit, The Royal Marsden NHS Foundation Trust, London, UK; 7Department of
+Pathology, University of Turin, Turin; 8Department of Medical and Surgical Specialties, Radiological Sciences and Public Health, Medical Oncology Unit, University of
+Brescia, ASST Spedali Civili, Brescia, Italy
+3
+
+Key words: papillary thyroid cancer, follicular thyroid cancer, anaplastic thyroid cancer, medullary thyroid cancer,
+management
+
+Introduction
+The aim of clinical practice guidelines is to provide physicians
+with the best available evidence on particular issues and recommendations for the best standards of care. They help health professionals weigh the benefits and the risks of available diagnostic
+or therapeutic options. Randomised clinical trial (RCT) data on
+the management of thyroid cancer (TC) are relatively scarce, and
+the quality of available evidence is suboptimal. Retrospective
+analyses of treatment efficacy frequently show favourable outcomes, but it is difficult to discern the extent to which these
+results are due to the natural history of the disease. The number
+of cases retrospectively analysed is not an index of the quality of
+the data or the absence of biases. Consequently, large, wellplanned RCTs managed within a network of coordinated centres
+are urgently needed.
+The main goals of any cancer treatment are to improve overall
+survival (OS) and quality of life (QoL). Persistent disease in lowrisk TC patients is often associated with prolonged survival. The
+indolent behaviour of the tumours in these individuals—the vast
+majority of the patients seen by clinicians—argues for the use of
+less aggressive diagnostic and therapeutic approaches than those
+reserved for higher-risk patients. Therefore, clinical practice
+guidelines are also intended to provide oncologists with costeffective strategies that will minimise the risks associated with
+overtreatment.
+
+Incidence and epidemiology
+The last three decades have witnessed steady, worldwide increases
+in the incidence of TC [1, 2]. Figures from the European Network
+of Cancer Registries show estimated incidence rates among
+females in 2012 that were approximately threefold higher than
+those for males (9.3 and 3.1 cases per 100 000 person-years, respectively) [1]. Rates vary widely from country to country, with
+the highest figures (per 100 000 person-years) reported in
+Lithuania (15.5), Italy (13.5), Austria (12.4), Croatia (11.4) and
+Luxembourg (11.1). Estimated TC-related mortality rates, by
+contrast, are low (0.7 and 0.5 cases per 100 000 person-years for
+women and men, respectively) with considerably less regional
+and temporal variation [3].
+The rising incidence rates are almost entirely due to the
+increased diagnosis of differentiated thyroid cancers (DTCs) and
+papillary thyroid cancers (PTCs) in particular. Incidence rates for
+follicular (FTC), anaplastic (ATC) and medullary (MTC) thyroid
+cancers have remained relatively stable over the past 30 years. The
+expanding use of imaging techniques, biopsy procedures [e.g.
+fine-needle aspiration (FNA)] and medical surveillance, along
+with improved access to healthcare, has facilitated the detection
+of small, subclinical PTCs [4]. The resulting overdiagnosis has invariably been accompanied by overtreatment [5]. According to
+the United States Preventive Services Task Force, the risks associated with TC screening in asymptomatic adults are likely to
+
+C The Author(s) 2019. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+V
+
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+Special article
+
+Annals of Oncology
+outweigh its potential benefits [6]. Support is also growing for
+more conservative, risk-tailored strategies for TC management
+(including watchful waiting) [7–10].
+
+DTC and poorly differentiated TC
+
+should be reserved for follicular cancers with neoplastic emboli
+involving <4 or 4 blood vessels, respectively.
+The diagnostic criteria for poorly differentiated carcinomas remain controversial. A consensus conference in 2006 yielded the
+Turin proposal [18], which restricts this diagnosis to invasive
+tumours with a solid/trabecular/insular growth pattern plus at
+least one of the following:
+•
+
+Diagnosis and pathology/molecular biology
+The diagnostic work-up of DTCs (including poorly differentiated
+forms) comprises pre- and postoperative pathological and molecular assessments. Preoperative FNA for cytology is not
+required for nodules measuring 1 cm. Decisions to aspirate
+larger nodules should be guided by lesion size and sonographic
+appearance [8]. Cytology findings are classified into diagnostic
+categories associated with different risks of malignancy [11].
+Most malignant thyroid tumours can be identified cytologically.
+Notable exceptions are FTCs and the newly defined ‘non-invasive
+follicular thyroid neoplasm with papillary-like nuclear features’
+(NIFTP), which are usually classified as indeterminate in the various thyroid cytology reporting schemes [12]. FNA-based diagnosis of poorly differentiated carcinoma is also challenging unless
+there is obviously increased mitotic activity and/or necrosis. FNA
+diagnosis can be facilitated by assessment of malignancy markers
+(including proteins commonly overexpressed in tumours, e.g.
+HBME1 or galectin-3) and molecular alterations specifically associated with malignancy (e.g. BRAF mutations, RET fusions, other
+novel gene alterations). Specifically designed gene panels are reportedly useful for identifying malignancy when cytology samples are morphologically indeterminate [13].
+Resected DTCs are histologically classified according to the
+World Health Organization (WHO) criteria (updated in 2017—
+Table 1). Based on clinical evidence of their low-grade behaviour
+during long-term follow-up, encapsulated non-invasive follicular
+PTC variants are now referred to as NIFTPs. They account for up
+to 20% of cases in Europe [14]. Elimination of the term ‘carcinoma’ from the definition of this PTC variant underscores its excellent prognosis: NIFTP is associated with no reports of cancerrelated deaths and an estimated risk of recurrence of <1%. This
+new entity shows partial overlap with the group of tumours
+defined in Europe as ‘well-differentiated tumours of uncertain
+malignant potential’ [15]. Diagnosis of NIFTP requires a scrupulous pathological examination of the follicular-pattern nodule to
+confidently exclude the presence of capsular invasion (even
+microscopic) and papillary formations. RAS but not BRAF mutations characterise NIFTPs. Correct identification of NIFTPs
+should reduce the unnecessary use of radical surgical procedures
+and the needless administration of radioactive iodine (RAI) after
+a completion thyroidectomy. NIFTP follow-up strategies should
+mimic those of very-low risk carcinomas (see following sections).
+There are numerous other PTC variants, including some that are
+particularly aggressive and associated with higher tumour stages
+and lymph node metastases at diagnosis. The best-known of these
+are the tall cell, columnar, hobnail and solid variants [16, 17].
+The WHO currently recommends reporting FTCs as ‘minimally invasive’ when capsular penetration is present without vascular
+involvement (a condition associated with an extremely good
+prognosis). The terms ‘angioinvasive’ and ‘widely invasive’
+
+Volume 30 | Issue 12 | 2019
+
+•
+•
+
+mitotic index 3 per 10 high-power ﬁelds;
+necrosis;
+convoluted nuclei (slightly smaller and darker than those typically seen in PTC, with irregular contours).
+
+This definition delimits a category of TCs that behave aggressively while maintaining some degree of functional differentiation [e.g. thyroglobulin (Tg) production].
+Hürthle cell carcinomas are no longer classified as ‘follicular
+tumours’, which are generally much less aggressive and less likely
+to present with lymph node metastases [16]. Hürthle cell carcinomas associated with extensive vascular and/or capsular invasion
+should be managed like other high-risk carcinomas (see following
+sections). ‘Pure’ Hürthle cell carcinomas (i.e., those with a
+Hürthle-cell component exceeding 75%) also present molecular
+abnormalities that distinguish them from conventional follicular
+carcinomas. As for oncocytic PTCs and oncocytic variants of
+poorly differentiated carcinomas, they are no more aggressive
+than their conventional counterparts.
+Molecular profiling has distinguished two major classes of PTCs
+characterised by BRAF-predominant and RAS-predominant molecular signatures (Table 1) [19]. BRAF V600E mutations are frequently reported in a subgroup of PTCs with more aggressive
+clinicopathological behaviours, but the need for routine BRAF genotyping of PTCs has not been established. The fatal forms of nonATC are generally PTC variants harbouring BRAF or RAS
+mutations plus other genomic alterations (e.g. mutations involving
+the TERT promoter, TP53, POLE, PI3K/AKT/mTOR pathway
+effectors, SWI/SNF subunits and/or histone methyltransferases),
+some of which are potential therapeutic targets [20]. The molecular
+profiles of follicular and Hürthle cell carcinomas are less welldefined. Work is underway to define the genomic and transcriptomic profiles of poorly differentiated and anaplastic TCs [21, 22].
+
+Staging and risk assessment
+Mortality risk. The Union for International Cancer Control
+(UICC) tumour, node, metastasis (TNM) classification of malignant tumours stages lesions based on their mortality risks. The
+eighth edition [23] introduced important changes for thyroid
+tumours, including the downstaging of extrathyroidal extension
+that is not macroscopically evident (pT3b) (Table 2). Primaries
+with extrathyroidal spread that is exclusively microscopic are
+now staged solely on the basis of tumour size as pT1, pT2 or
+pT3a. TNM staging requires a complete review of prognostically
+relevant morphological and immune-phenotypic parameters
+[20]. A checklist containing these parameters can be included in
+the final pathology report [IV, A] to supply details on the extent
+of invasion (capsular versus vascular, including number of
+affected vessels), tumour size and architecture, presence of necrosis, proliferative activity, etc. [10].
+
+doi:10.1093/annonc/mdz400 | 1857
+
+Special article
+
+Annals of Oncology
+
+Table 1. WHO classiﬁcation for differentiated follicular-derived thyroid carcinomas: morphological parameters and molecular markers
+Tumour type
+
+Morphology
+
+Molecular markers
+
+NIFTP
+Papillary carcinoma
+Classical
+Follicular variant
+
+Encapsulated, clear nuclei, no papillae
+
+RAS, BRAF K601E
+
+Papillae and clear nuclei
+Follicles and clear nuclei
+
+BRAF V600E, RET/PTC fus, NTRK fus, ALK fus, 1q amp
+BRAF K601E, RAS, PAX8/PPARc, EIF1AX, THADA fus,
+22q del
+BRAF V600E, 1q amp, TERT promoter, TP53, PIK3CA,
+CTNNB1
+RAS, PAX8/PPARc, PTEN, PIK3CA, TSHR, TERT promoter,
+CNA
+RAS, EIF1AX, PTEN, TP53, CNA, mtDNA
+
+Tall, columnar, solid, hobnail variants Special structural and cell features
+Follicular carcinoma
+Hürthle cell carcinoma
+Poorly differentiated carcinoma
+
+Capsular invasion (MI), vascular invasion >4 blood
+vessels (angioinvasive), extrathyroidal invasion (WI)
+Capsular invasion (MI), vascular invasion >4 blood
+vessels (WI)
+Invasion, mitoses >3, necrosis, convoluted nuclei
+
+RAS, TERT promoter, TP53, PIK3CA, PTEN, CTNNB1, AKT1,
+EIF1AX, ALK fus, histone methyltransferases, SWI/SNF
+chromatin remodelling complex
+
+amp, ampliﬁcation; CNA, copy number alteration; del, deletion; fus, fusion; MI, minimally invasive; NIFTP, non-invasive follicular thyroid neoplasm with papillary-like nuclear features; SWI/SNF, switch/sucrose non-fermentable; WHO, World Health Organization; WI, widely invasive.
+
+Risk of persistent or recurrent disease. Table 3 summarises the
+system developed in 2015 by the American Thyroid Association
+(ATA) to estimate the risk of persistent or recurrent TC based on
+data available shortly after treatment of the primary cancer
+[8, 24–26]. These criteria have now been revised and refined
+based on emerging evidence. The likelihood of persistent/recurrent disease after an apparently complete resection depends on
+several factors. The overall estimated risk of recurrence ranges
+from <1% to 55% and is classified as low (5%), intermediate
+(6%–20%) or high (>20%). A high-quality pathology report is
+crucial for proper risk stratification.
+The initial risk class assignment is revised during follow-up to
+reflect the evolution of the disease and responses to treatments
+(dynamic risk stratification) [IV, A] [27–30]. Treatment
+responses are defined as excellent, biochemical incomplete, structural incomplete or indeterminate based on imaging findings >
+[mainly neck ultrasound (US)] and serum Tg and anti-Tg antibody (TgAb) levels (see Table 4) [8].
+
+Primary tumour management
+Surgery. Primary tumour management will be determined by the
+results of the preoperative risk assessment (Figure 1). Active US
+surveillance of the thyroid and neck lymph nodes (every 6–
+12 months) can be proposed for unifocal papillary microcarcinomas (10 mm) with no evidence of extracapsular extension or
+lymph node metastases [III, B] [31]. In these cases, the only
+known predictor of significant tumour growth (3 mm) or the
+onset of lymph node metastasis is age (10-year estimated risks:
+36% in patients <30 years old, 14% in those aged 30–50, 6% in
+patients 50–60 years old) [32].
+For other TCs, total thyroidectomy is still considered the standard surgical treatment. Two large database studies on surgical management strategies found that, for selected low-risk tumours (T1a–
+T1b–T2, N0), lobectomy alone does not reduce OS [IV, B] [33,
+
+1858 | Filetti et al.
+
+34], but it may be associated with a slightly higher local recurrence
+[8]. However, even large database studies are subject to biases. In
+risk-benefit analyses, it is important to recall that total thyroidectomy can cause recurrent laryngeal nerve injury (2.5%, bilateral in
+rare cases) and temporary or permanent hypoparathyroidism
+(8.1%) [35]. The risk (even when done by high-volume surgeons)
+is almost twice that of lobectomy alone, and postoperative complications are generally more likely with low-volume surgeons [36].
+The use of prophylactic central neck dissection for low-risk
+tumours (T1b–T2, N0) varies from centre to centre [IV, C]
+[37–39]. Evidence of its effect on recurrence-free survival is conflicting, and there is no high-level evidence for or against its usefulness for low-risk tumours. Studies supporting prophylactic
+neck dissection for low-risk tumours have shown moderate
+reductions in central neck recurrence (5%–10%) but no improvement in OS. Prophylactic neck dissection does allow more
+complete staging of neck nodes, including identification of
+micrometastases not visible on preoperative US, and this information can be used to refine the prognosis and guide subsequent
+treatment and follow-up. Risks, however, include temporary
+hypoparathyroidism and overdiagnosis and overtreatment of
+subclinical micrometastases. The potential benefits of prophylactic neck dissection for low-risk tumours are now being evaluated
+in an RCT (NCT03570021—ESTIMABL3). For more invasive
+tumours (T3–T4), prophylactic neck dissection may improve regional control [IV, C] [40].
+RAI therapy. RAI is administered after total thyroidectomy for
+several reasons:
+•
+
+•
+
+to eliminate the normal thyroid remnant, thereby ensuring
+undetectable serum Tg levels (in the absence of neoplastic tissue), which facilitate follow-up (remnant ablation);
+to irradiate presumed foci of neoplastic cells, thereby reducing the recurrence risk (adjuvant therapy); and/or
+
+Volume 30 | Issue 12 | 2019
+
+Annals of Oncology
+
+Special article
+
+Table 2. Thyroid gland UICC TNM 8 staging system [23]
+TNMa
+T—primary tumour1
+TX
+Primary tumour cannot be assessed
+T0
+No evidence of primary tumour
+T1
+Tumour 2 cm or less in greatest dimension, limited to the thyroid
+T1a
+Tumour 1cm in greatest dimension, limited to the thyroid
+T1b
+Tumour >1 cm but 2 cm in greatest dimension, limited to the thyroid
+T2
+Tumour >2 cm but 4 cm in greatest dimension, limited to the thyroid
+T32
+Tumour >4 cm in greatest dimension, limited to the thyroid or with gross extrathyroidal extension invading only strap muscles
+(sternohyoid, sternothyroid or omohyoid muscles)
+T3a3
+Tumour >4 cm in greatest dimension, limited to the thyroid
+T3b4
+Tumour of any size with gross extrathyroidal extension invading strap muscles (sternohyoid, sternothyroid or omohyoid muscles)
+T4a
+Tumour extends beyond the thyroid capsule and invades any of the following: subcutaneous soft tissues, larynx, trachea, oesophagus,
+recurrent laryngeal nerve
+T4b
+Tumour invades prevertebral fascia or encasing the carotid artery or mediastinal vessels from a tumour of any size
+N—regional lymph nodes
+NX
+Regional lymph nodes cannot be assessed
+N0
+No evidence of locoregional lymph node metastasis
+N1
+Regional lymph node metastasis
+Metastasis to level VI (pretracheal, paratracheal and prelaryngeal/Delphian lymph nodes) or upper/superior mediastinum
+N1a5
+N1b
+Metastasis in other unilateral, bilateral or contralateral cervical compartments (levels I, II, III, IV or V) or retropharyngeal
+M—distant metastasis
+M0
+No distant metastasis
+M
+Distant metastasis
+Stage—papillary or follicularb <55 years6
+I
+Any T
+Any N
+M0
+II
+Any T
+Any N
+M1
+Stage—papillary or follicularb > 55 years6
+T1a/b
+N0/NX
+M0
+I
+T2
+N0/NX
+M0
+T1a/b
+N1a/b
+M0
+II7
+T2
+N1a/b
+M0
+T3a/b
+Any N
+M0
+III
+T4a
+Any N
+M0
+IVa
+T4b
+Any N
+M0
+IVb
+Any T
+Any N
+M1
+Stage—medullary
+Stage I
+T1a, T1b
+N0
+M0
+Stage II
+T2, T3
+N0
+M0
+Stage III
+T1–T3
+N1a
+M0
+Stage IVA T1–T3
+N1b
+M0
+T4a
+Any N
+M0
+Stage IVB T4b
+Any N
+M0
+Stage IVC Any T
+Any N
+M1
+Stage—anaplastic
+Stage IVA T1, T2, T3a
+N0
+M0
+Stage IVB T1, T2, T3a
+N1a
+M0
+Stage IVB T3b, T4a, T4b
+N0, N1a
+M0
+Stage IVC Any T
+Any N
+M1
+The pT and pN categories correspond to the T and N categories.
+pN0 histological examination of a selective neck dissection specimen will ordinarily include 6 or more lymph nodes. If the lymph nodes are negative, but the
+number ordinarily examined is not met, classify as pN0.
+The eighth edition of the UICC TNM staging system introduced several changes compared with the seventh edition. The main changes are noted with superscript numbers and are described in detail as following:
+1
+Any T is accepted for ATC, in the previous edition, ATCs were only staged as T4a (limited to the thyroid) or T4b (extended beyond thyroid capsule).
+2
+Minor extrathyroidal extension was removed from the deﬁnition of T3 disease.
+3,4
+Two new categories, T3a and T3b, were introduced.
+5
+N1a was expanded to include the upper mediastinum (previously included in the N1b category).
+6
+The age cut-off at diagnosis used for staging was increased from 45 to 55 years.
+7
+In patients with papillary, follicular, Hürthle cell and poorly differentiated carcinomas, the T3, N1a and N1b categories were downstaged from stages III–IVa to stage II.
+a
+Including papillary, follicular, Hürthle cell, poorly differentiated, anaplastic and medullary carcinomas.
+b
+Including papillary, follicular, Hürthle cell and poorly differentiated carcinomas.
+ATC, anaplastic thyroid cancer; pN, pathological node; pT, pathological tumour; TNM, tumour, node, metastasis; UICC, Union for International Cancer Control.
+Adapted from [23] with permission from John Wiley & Sons, Inc.
+
+Volume 30 | Issue 12 | 2019
+
+doi:10.1093/annonc/mdz400 | 1859
+
+Special article
+
+Annals of Oncology
+
+Table 3. Risk stratiﬁcation system for the prediction of persistent or recurrent disease in DTC patientsa
+Level of risk [ERR]
+
+Histology
+
+Definition
+
+ERR
+
+Low (5%)
+
+NIFTP
+
+Non-invasive follicular thyroid neoplasm with papillary-like nuclear features, formerly
+referred to as ‘non-invasive encapsulated follicular-variant PTC’
+With all of the following:
+• No macroscopic tumour-tissue remnants after resection
+• No locoregional invasion or local metastases
+• Clinical N0 or pathological N1 disease (<5 micrometastases, each measuring <0.2 cmb)
+• No distant metastases
+• No RAI-avid metastatic foci outside the thyroid bed on ﬁrst post-treatment whole-body
+RAI scan (if 131I is given)
+• No vascular invasion
+• Non-aggressive histologyc
+BRAF V600E-mutated PTCs can be assigned to the low-risk category only if the tumour is
+<1 cm
+Intrathyroidal, well-differentiated FTC with capsular invasion and minimal (<4 foci) or no
+vascular invasion
+
+<1%
+
+PTC
+
+FTCe
+Intermediate (6%–20%)
+
+PTC
+
+1%–6%d
+
+2%–3%
+
+With at least one of the following:
+• Microscopic invasion of perithyroidal soft tissues
+• Tumour-related symptoms
+• Intrathyroidal tumour measuring <4 cm, BRAF V600E-mutated (if known)
+• Aggressive histologyc
+• Vascular invasion
+• Multifocal papillary microcarcinoma with ETE and known BRAF V600E mutation
+• Clinical N1 or pathological N1 disease (>5 involved lymph nodes, each measuring <3
+
+3%–8%
+9%
+10%
+15%
+15%–30%
+20%
+20%
+
+cm)
+• RAI-avid metastatic foci in the neck on the ﬁrst post-treatment whole-body RAI scan
+
+FTCe
+
+High (>20%)
+
+PTC
+
+With at least one of the following:
+• Clinical N1 or pathological N1 disease (>5 involved lymph nodes, each measuring <3
+cm)
+• RAI-avid metastatic foci in the neck on the ﬁrst post-treatment whole-body RAI scan
+
+20%
+–
+
+With at least one of the following:
+• Gross ETE (macroscopic invasion of perithyroidal soft tissues)
+• Pathological N1 disease: one or more nodal metastases measuring >3 cm
+
+• Distant metastases
+
+30%–40%
+30%
+40%
+>40%
+Virtually 100%
+100%
+100%
+
+With at least one of the following:
+• Widely invasive or extensive vascular invasion (>4 foci)
+• Postoperative serum Tg suggestive of distant metastases
+• Incomplete tumour resection
+• Distant metastases
+
+30%–55%
+Virtually 100%
+100%
+100%
+
+• Extranodal extension
+• Concomitant BRAF V600E and TERT mutationsf
+• Postoperative serum Tg suggestive of distant metastases
+• Incomplete tumour resection
+
+FTCe
+
+–
+
+a
+
+Based on the 2015 ATA risk stratiﬁcation staging system [8].
+All tumour sizes refer to largest diameter.
+c
+Aggressive histologies: tall cell, hobnail variant, columnar cell carcinoma, squamous differentiation, diffuse sclerosing variant, solid/trabecular variant.
+d
+If the tumour is >4 cm, the ERR increases to 8%–10%, but the tumour is nevertheless classiﬁed as low-risk.
+e
+Formerly considered a type of FTC, Hürthle cell carcinoma has distinct clinical, biological and genetic features [24] that justify its recognition as a distinct
+type of DTC by the WHO [16]. Some authors consider it a more aggressive form of DTC. When associated with extensive vascular and/or capsular invasion,
+the recurrence risk should be classiﬁed as high. For minimally invasive Hürthle cell carcinoma, robust data are lacking on the true risk of recurrence.
+f
+The BRAF V600E mutation is associated with aggressive histologic features, lymph node metastases and ETE, but its relative contribution to the risk of recurrence is not well-deﬁned. Co-existing BRAF V600E and TERT mutations act synergically to increase the risk of recurrence [25, 26].
+131
+I, iodine-131; ATA, American Thyroid Association; DTC, differentiated thyroid cancer; ERR, estimated risk of recurrence; ETE, extrathyroidal extension; FTC,
+follicular thyroid cancer; NIFTP, non-invasive follicular thyroid neoplasm with papillary-like nuclear features; PTC, papillary thyroid cancer; RAI, radioactive
+iodine; Tg, thyroglobulin; WHO, World Health Organization.
+b
+
+1860 | Filetti et al.
+
+Volume 30 | Issue 12 | 2019
+
+Special article
+
+Annals of Oncology
+Table 4. Response to treatment categories in DTC patientsa
+Responses to
+treatment
+
+Treatments
+TT1RRA
+
+TT alone
+
+Lobectomy
+
+Excellent
+
+Negative imaging
+and
+Undetectable TgAb
+and
+Tg <0.2 ng/ml or stimTg <1 ng/ml
+
+Negative imaging
+and
+Undetectable TgAb
+and
+Tg <0.2 ng/ml
+
+Negative imaging
+and
+Undetectable TgAb
+and
+Stable Tg levels
+
+Biochemical incomplete Negative imaging
+and
+Tg 1 ng/ml or stimTg 10 ng/ml or rising
+TgAb levels
+
+Negative imaging
+Negative imaging
+and
+and
+Tg >5 ng/ml or rising Tg values with simi- Rising Tg values with similar TSH levels or
+lar TSH levels or rising TgAb levels
+rising TgAb levels
+
+Structural incomplete
+
+Imaging evidence of disease
+(regardless of Tg or TgAb levels)
+
+Imaging evidence of disease
+(regardless of Tg or TgAb levels)
+
+Indeterminate
+
+Nonspeciﬁc imaging ﬁndings
+Nonspeciﬁc imaging ﬁndings
+or
+or
+Faint uptake in thyroid bed on RAI scanning Tg 0.2–5 ng/ml or TgAb levels stable or
+declining in the absence of structural
+or
+or functional disease
+Tg 0.2–1 ng/ml or stimTg 1–10 ng/ml or
+TgAb stable or declining in patient with no
+imaging evidence of disease
+
+Imaging evidence of disease
+(regardless of Tg or TgAb levels)
+Nonspeciﬁc imaging ﬁndings
+
+a
+
+Modiﬁed from the 2015 ATA ongoing risk stratiﬁcation (response to therapy) system [8].
+ATA, American Thyroid Association; DTC, differentiated thyroid cancer; RAI, radioactive iodine; RRA, radioactive iodine remnant ablation; stimTg, TSH-stimulated serum thyroglobulin; Tg, thyroglobulin; TgAb, anti-serum thyroglobulin antibody; TSH, thyroid-stimulating hormone; TT, total thyroidectomy.
+
+•
+
+to treat persistent or recurrent disease (treatment of known
+disease) [8].
+
+In all three cases, RAI administration must be followed by an
+iodine-131 (131I) whole-body scan (WBS) to stage the disease
+and document the 131I avidity of any structural lesion. The estimated level of risk for persistent/recurrent disease will determine whether and how much RAI is given. Low activities are
+usually given for remnant ablation (30 mCi, 1.1 GBq); high
+activities (100 mCi, 3.7 GBq) are used for treatment purposes. To optimise isotope uptake, RAI should be given after
+thyroid-stimulating hormone (TSH) stimulation, which can be
+achieved by withdrawing levothyroxine for 4–5 weeks, ideally
+until serum TSH levels reach 30 mIU/ml. Alternatively, recombinant human TSH (rhTSH) can be given (two daily injections of 0.9 mg of rhTSH followed by RAI on day 3). The
+resulting TSH level is not usually measured (unless doubts arise
+as to whether the injections have been properly administered).
+Levothyroxine withdrawal is preferred if distant metastases are
+present. The use of rhTSH is associated with superior shortterm QoL [41].
+As shown in Figure 2, practice guidelines unanimously recommend treatment with high RAI activities (100 mCi, 3.7 GBq)
+for patients with high risk of recurrence [IV, A] [7–10, 42]. RAI
+administration is not recommended for certain low-risk patients
+[i.e. those with a small (1 cm) intrathyroidal DTC and no evidence of locoregional metastases] [II, E] [43]. The term ‘very
+low-risk’ is often applied to these patients in the literature [7, 44].
+
+Volume 30 | Issue 12 | 2019
+
+There is less consensus regarding other low-risk DTC patients
+[IV, C] (see Table 3). In 2015, the ATA guidelines advised against
+the systematic use of RAI in the latter group [8]. However, the
+European Association of Nuclear Medicine (EANM) has not
+endorsed this recommendation [45], mainly because prospective
+RCT data showing that surveillance is non-inferior to RAI administration are lacking. The ATA, the EANM, the Society of
+Nuclear Medicine and Molecular Imaging (SNMMI) and the
+European Thyroid Association (ETA) have recently published a
+joint statement acknowledging the absence of high-quality evidence either for or against the postoperative use of 131I in lowrisk patients [46]. They conclude that decisions should be taken
+on an individual basis, depending on tumour features (e.g. risk of
+recurrence) (see Table 3), patient-related factors (e.g. comorbidities, motivation, emotional concerns), health-care setting (e.g.
+availability and quality of thyroid surgeons, US, RAI imaging, Tg
+assays) and the local management team’s preferences. Lastly, the
+expected benefits of a given RAI dose should outweigh the risks
+associated with its administration, which include adverse events
+(AEs) and diminished QoL [43]. The usefulness of 131I therapy in
+low-risk TC patients is now being assessed in two large RCTs
+(NCT01837745—ESTIMABL2, NCT01398085—IoN). Two
+other RCTs (ESTIMABL1 and HiLo) conducted in low-risk DTC
+populations showed that, if RAI is given in these cases, low activities (30 mCi, 1.1 GBq) following rhTSH and high activities
+(100 mCi, 3.7 GBq) following levothyroxine withdrawal are
+equally likely to produce successful ablation [I, A] [47, 48]. This
+equivalence is also evident at the level of recurrence-free survival,
+
+doi:10.1093/annonc/mdz400 | 1861
+
+1862 | Filetti et al.
+Lobectomy
+[IV, B]
+
+Posterior or
+adjacent to
+trachea
+
+TT ±
+prophylactic
+CNDb [IV, C]
+
+Radiation
+exposure in
+childhood or
+adolescence
+Family history
+of thyroid
+cancer
+Aggressive
+features on
+cytology
+Multifocality
+Suspected ETE
+(minimal)
+
+Lobectomy
+[IV, B]
+
+No radiation
+exposure in
+childhood or
+adolescence
+No family
+history of
+thyroid cancer
+Not posterior
+(recurrent
+nerve or
+oesophagus) or
+adjacent to the
+trachea
+No aggressive
+features on
+cytology
+Unifocality
+No ETE (micro or
+macroscopic)
+on US
+TT
+± extended to
+strap muscles
+± prophylactic
+CNDb [IV, C]
+
+T3a, T3b
+
+Final pathology:
+>40 mm, R1, ETE
+N1
+Vascular invasion
+Aggressive histotype
+
+TT ±
+prophylactic
+CNDb [IV, C]
+
+Radiation
+exposure in
+childhood or
+adolescence
+Family history
+of thyroid
+cancer
+Aggressive
+features on
+cytology
+Multifocality
+Suspected ETE
+(minimal)
+
+T1b, T2
+
+TT
+± extended
+resectionc
+± prophylactic
+CNDb [IV, C]
+
+T4a
+
+No surgery
+Consider EBRT
+[IV, C]
+
+T4b
+
+TT ±
+bilateral
+therapeutic
+CNDb [IV, A]
+
+DTC – cN1a
+
+TT ±
+bilateral
+CND [IV, B] ±
+therapeutic
+compartmentoriented LNDb
+[IV, A]
+
+DTC – cN1b
+
+Figure 1. Recommendations for surgical management of DTC patients.
+a
+Active surveillance may be the preferred option in older patients, at high surgical risk. Informed consent must be obtained for all subjects opting for an active surveillance programme.
+b
+Patients requiring neck dissection should be referred to high-volume specialised surgeons.
+c
+As determined by preoperative contrast-enhanced CT or MRI and/or endoscopy, R0/R1 resection is preferable with preservation of function.
+CND, central neck dissection; CT, computed tomography; DTC, differentiated thyroid cancer; EBRT, external beam radiotherapy; ETE, extrathyroidal extension; LND, lateral neck dissection;
+MRI, magnetic resonance imaging; N0, no evidence of locoregional lymph node metastasis; N1, regional lymph node metastasis; R0, no residual tumour; R1, microscopic residual tumour; TT,
+total thyroidectomy; US, ultrasound.
+
+Active
+surveillancea
+[III, B]
+
+No radiation
+exposure in
+childhood or
+adolescence
+No family
+history of
+thyroid cancer
+Not posterior
+(recurrent
+nerve or
+oesophagus) or
+adjacent to the
+trachea
+No aggressive
+features on
+cytology
+Unifocality
+No ETE (micro or
+macroscopic)
+on US
+
+T1a
+
+DTC – N0b
+
+Special article
+Annals of Oncology
+
+Volume 30 | Issue 12 | 2019
+
+Special article
+
+Annals of Oncology
+DTC
+after TT ± neck dissection
+
+Therapeutic
+Residual disease (incomplete surgery, M1)
+
+Adjuvant
+No known residual disease
+
+Low risk
+
+Intermediate risk
+
+pT1a, N0/NX
+
+Other low risks
+
+No RAI
+[II, E]
+
+RAI (optional)
+[IV, C]
+If given, favour
+30 mCi/rhTSH
+[I, A]
+
+RAI [IV, A]
+100 to 200 mCi,
+withdrawal [IV, A]
+
+High risk
+
+RAI-refractory diseasea
+1. Absence of initial RAI uptake in metastases
+2. Absence of RAI uptake in metastases after treatment with RAI
+3. Presence of RAI uptake in some metastases, but absence in others
+4. RECIST progressionb despite RAI uptake in all metastases
+
+RAI (in general)
+[IV, B]
+If given, 30 to 100 mCi,
+rhTSH or withdrawal
+[I, A]
+
+RAI
+[IV, A]
+≥ 100 mCi,
+rhTSH or withdrawal
+[IV, A]
+
+Yes
+
+No
+
+No RAI
+[IV, A]
+
+RAIc
+[IV, A]
+
+Figure 2. Recommendations for RAI administration in DTC patients.
+a
+Other criteria, but controversial: high FDG uptake, aggressive histology, persistence of disease after several RAI treatment courses.
+b
+An increase of 20% in the sum of target lesions or the appearance of new lesions.
+c
+Repeat RAI administrations every 6–12 months as long as RAI uptake is present. Carry out cross-sectional imaging between RAI administrations to insure RAI efﬁcacy. Repeating RAI administrations after a cumulative activity of 600 mCi should be given on a per-patient basis.
+DTC, differentiated thyroid cancer; FDG, ﬂuorodeoxyglucose; M1, distant metastasis; N0, no evidence of locoregional lymph node metastasis;
+NX, regional lymph nodes cannot be assessed; RAI, radioactive iodine; RECIST, Response Evaluation Criteria in Solid Tumours; rhTSH, recombinant human thyroid stimulating hormone; TT, total thyroidectomy.
+
+as demonstrated by long-term follow-up data from the
+ESTIMABL1 and HiLo trials [49, 50]. RAI adjuvant therapy can
+be considered for intermediate-risk patients. Decisions on RAI
+dosage and TSH stimulation modalities are based on case
+features—surgical, clinical and pathological (particularly the extent of lymph node involvement and the aggressiveness of the
+pathological subtype) [IV, B] [43]. If given, low to high activities
+(30 mCi, 1.1 GBq to 100 mCi, 3.7 GBq) are recommended. In
+these patients, the ATA recommends individualised decision
+making [8].
+
+Follow-up, long-term implications and survivorship
+Follow-up tools and schedules (Figure 3) vary according to the
+tumour histotype, initial treatment, initial risk of persistent/recurrent disease (Table 3) and responses to treatment (Table 4).
+Serum Tg assays and neck US are the mainstays of DTC followup [51]. Patient management can be improved when health professionals collaborate as members of a multidisciplinary team.
+Serum Tg. Serum Tg is a sensitive marker for the presence of thyrocytes, but it cannot discriminate between normal and
+
+Volume 30 | Issue 12 | 2019
+
+malignant cells. Undetectable levels thus have high negative predictive values, but detectable values can be false-positives. To
+minimise variability, Tg levels should ideally be measured with
+the same assay [52]. Concomitant assessment of serum TgAb is
+mandatory, as these antibodies can interfere with Tg assays, causing false-negative or, less commonly, false-positive results [53].
+Serum Tg can be assayed under basal conditions (i.e. during levothyroxine treatment) or after endogenous (levothyroxine withdrawal) or exogenous (rhTSH injection) TSH stimulation. In
+patients treated with total thyroidectomy plus RAI remnant ablation, stimulated serum Tg levels <1 ng/ml are highly predictive of
+an excellent response to therapy, and subsequent stimulated Tg
+assays are unnecessary [54]. High-sensitivity (<0.2 ng/ml) assays
+of basal Tg levels can also be used to verify the absence of disease
+(excellent response) [II, B] [55]. If negative imaging findings are
+accompanied by detectable Tg levels, the treatment response is
+classified as indeterminate or biochemical incomplete (Table 4).
+In this case, the positive predictive value increases with the serum
+Tg level or, if serial measurements are available, with levels that
+increase over time. Almost 60% of patients who have total thyroidectomy without postoperative RAI administration will have
+basal serum Tg levels 0.2 ng/ml [56, 57], which indicates an
+
+doi:10.1093/annonc/mdz400 | 1863
+
+Special article
+
+Annals of Oncology
+Postoperative DTC
+
+Estimate risk
+of recurrence
+
+Treat
+
+Assess treatment
+response
+(after 6-18 months)
+
+Classify treatment
+response
+
+Plan
+management
+
+Low
+
+Intermediate
+
+High
+
+Lobectomy
+
+TT
+
+TT
+
+TT and RRA
+
+TT and RAI
+
+Neck US
+Optional: ON-LT4-Tg
+and TgAba
+
+Neck US
+ON-LT4-Tg and
+TgAba
+
+Neck US
+ON-LT4-Tg and
+TgAba
+
+Neck US
+Tg or rhTSH/Tg and
+TgAbf
+
+Neck US
+Tg or rhTSH/Tg and
+TgAbf
+
+Excellent
+Incomplete (biochemical)
+Indeterminate
+
+TSH 0.5–2 μIU/ml
+[IV, B]b
+Serum Tg and TgAb
+q 12–24 months
+Repeat neck US
+depending on Tg/
+TgAb valuesc [IV, A]
+
+Incomplete (structural)
+
+Treat
+
+TSH <0.1 μIU/ml
+[III, B]
+Serum Tg and TgAb
+q 3–6 monthsd
+Repeat neck US/
+imaging q 3–6
+monthse [IV, B]
+
+Excellent
+
+TSH 0.5–2 μIU/ml
+[IV, B]
+Serum Tg and TgAb
+q 12–24 months
+Optional: repeat neck
+US after 3–5 years
+[IV, A]
+
+Incomplete (biochemical)
+Indeterminate
+
+TSH 0.1–0.5 μIU/ml
+[IV, B]
+Serum Tg, TgAb
+and neck US
+q 6–12 months
+FDG–PET (or
+RxWBS)g if rising
+Tg or TgAbs trend
+[IV, B]
+
+Excellent
+
+TSH 0.5–2 μIU/ml
+[IV, B]
+Serum Tg and TgAb
+q 6–12 months
+Optional: repeat neck
+US q 6–12 months
+[IV, B]
+
+Incomplete (structural)
+
+Treat
+
+TSH <0.1 μIU/ml
+[III, B]
+Serum Tg and TgAb
+q 3–6 monthsd
+Repeat neck US/
+imaging q 3–6
+monthse [IV, B]
+
+Figure 3. Recommendations for postoperative management of DTC patients.
+a
+Isolated measurements of serum Tg cannot be reliably interpreted in the presence of normal thyroid tissue. The trend over time of basal Tg
+should be used in patients with residual thyroid tissue and might also be used in case of lobectomy. Rising Tg is highly suspicious for persistent/recurrent disease, and the same may be true for rising TgAb levels.
+b
+Highly sensitive (<0.2 ng/ml) assays of basal Tg can be used in lieu of TSH-stimulated Tg to verify the absence of disease.
+c
+In patients with serum TSH level of 0.5–2 mIU/ml after lobectomy, levothyroxine replacement therapy is not mandatory.
+d
+In patients with excellent response to therapy, repeat neck US may be avoided.
+e
+Short serum Tg doubling time (<1 year) is associated with poor outcome in DTC patients [72] and should prompt imaging staging.
+f
+Short tumour growth doubling time (<1 year) may guide the choice of starting a treatment [95].
+g
+If FDG is normal, WBS can be carried out after the administration of a therapeutic activity.
+DTC, differentiated thyroid cancer; FDG, ﬂuorodeoxyglucose; FDG–PET, [18F]2-ﬂuoro-2-deoxy-D-glucose—positron emission tomography;
+ON-LT4-Tg, thyroglobulin measurement on levothyroxine; q x months, every x months; RAI, radioactive iodine; rhTSH, recombinant human
+thyroid stimulating hormone; RRA, radioiodine remnant ablation; RxWBS, therapeutic whole-body iodine-131 scan; Tg, thyroglobulin; TgAb,
+serum thyroglobulin antibody; TSH, thyroid stimulating hormone; TT, total thyroidectomy; US, ultrasound; WBS, whole-body scan.
+
+absence of disease (i.e. an excellent response to therapy). When
+serum Tg levels are detectable, serial measurements of Tg should
+be obtained on levothyroxine treatment [IV, B] [56, 57]. A similar approach might be used following lobectomy [IV, C] [28].
+Increasing Tg levels are highly suspicious for persistent/recurrent
+DTC, and the same may be true for rising TgAb levels.
+
+Neck US. Neck US is the most effective tool for detecting structural disease in the neck, particularly when remnants of normal
+thyroid tissue are present. Combined with the results of FNA cytology [58] and serum Tg assays, neck US findings can achieve an
+accuracy of nearly 100% [59]. The shortcomings of US include
+substantial operator dependency [60], a high frequency of non-
+
+1864 | Filetti et al.
+
+specific findings [61] and the possibility of unsatisfactory visualisation of deep structures and those acoustically shadowed by
+bone or air. The latter sites are better explored with crosssectional imaging modalities (see below). Abnormal US findings
+can be classified as indeterminate or truly suspicious (Table 5)
+[62, 63]. Unlike PTC, FTC metastasis is typically haematogenous
+and rarely involves the locoregional lymph nodes, so neck US in
+these cases serves mainly to exclude residual/recurrent thyroidbed disease.
+
+Other imaging studies. Other imaging studies should be ordered
+if locoregional and/or distant metastases are known to be present
+[IV, A] or suspected (based, for example, on rising serum Tg or
+
+Volume 30 | Issue 12 | 2019
+
+Special article
+
+Annals of Oncology
+Table 5. Classiﬁcation of neck ultrasound ﬁndingsa
+Thyroid bed
+Normal ﬁndings
+Triangular area that is uniformly
+hyperechoic versus surrounding
+muscle tissue
+
+Indeterminate ﬁndings
+Lesions displaying hypoechogenicity alone
+Suspicious ﬁndings
+Increased vascularisation
+Microcalciﬁcations
+Cystic changes
+Irregular margins
+Taller-than-wide in transverse
+plane
+a
+
+Neck lymph nodes
+
+Elongated shape
+Hilum visible on grey-scale
+examination
+Absent or hilar vascularisation on
+colour Doppler
+Absence of hilum
+Rounded shape
+Microcalciﬁcations
+Cysts
+Peripheral vascularisation on
+colour Doppler
+Solid thyroid-tissue-like
+appearance
+
+Adapted from [63].
+
+TgAb levels in the absence of sonographically identifiable neck
+disease or in patients with intermediate-to-high risks of persistent/recurrent disease, irrespective of the neck US findings)
+[IV, B] [8].
+A WBS can be carried out after the administration of diagnostic
+or therapeutic doses of RAI. Because its sensitivity is low (27%–
+55%), diagnostic WBS is not indicated during follow-up [IV, A]
+[64]. Uptake is highly specific (91%–100%) for the presence of
+thyroid tissue, but false-positive results are possible. In these cases,
+single-photon emission computed tomography or computed
+tomography (CT) offers better anatomic resolution [64].
+[18F]2-fluoro-2-deoxy-D-glucose—positron emission tomography (FDG–PET) combined with CT is useful for assessing the
+extent of disease and defining the prognosis [65, 66]. Its sensitivity is around 94%, and specificity is between 80% and 84%.
+FDG–PET is more sensitive than therapeutic WBS for detecting
+persistent disease in patients with negative cross-sectional imaging studies, serum Tg levels >10 ng/dl, and/or aggressive histotypes (e.g. aggressive PTC, poorly differentiated TC, widely
+invasive follicular carcinoma) [67]. FDG uptake is associated
+with a worse prognosis and refractoriness to RAI treatment [68,
+69], but it is not a reliable predictor of tumour growth [70].
+FDG–PET is the first-line isotopic imaging technique for patients
+with RAI-refractory disease.
+Cross-sectional imaging modalities should be chosen on
+the basis of the anatomic region to be explored. CT is best for
+neck and chest imaging. Contrast enhancement is used for
+studies of the neck and mediastinal lymph nodes but not
+for the lungs. All forms of RAI treatment should be deferred
+for at least 6 weeks after administration of any iodinated contrast medium. Contrast-enhanced magnetic resonance imaging (MRI) is appropriate for exploring the neck, liver,
+bones and brain [64]. MRI of the neck is subject to
+
+Volume 30 | Issue 12 | 2019
+
+substantial image degradation due to respiratory motion,
+and a CT scan is often a better alternative. Suspected
+aerodigestive-tract involvement should always be assessed
+endoscopically.
+Follow-up strategies. All patients with DTC should have neck US
+and serum Tg and TgAb assays 6–18 months after primary
+treatment (surgery 6 RAI therapy). The subsequent follow-up
+schedule will depend on the initially estimated risk of persistent/
+recurrent disease and responses to therapy (Figure 3).
+PTC patients at low risk for recurrence who have no evidence
+of structural disease at the first follow-up visit can be monitored
+with periodic (12–24 months) Tg and TgAb assessments. Repeat
+neck US scans can be carried out as needed, depending on serum
+Tg and TgAb levels [71]. The same schedule can be adopted for
+intermediate-risk PTC patients with excellent responses to treatment [IV, A] [27, 30, 44]. TSH levels should be maintained in the
+low-normal range (0.5–2 mIU/ml) [IV, B] [8]. The follow-up
+protocol for minimally invasive FTCs is often the same one used
+for low-risk PTCs, although the evidence supporting such an approach is insufficient [V, C] [24].
+Low- or intermediate-risk PTC patients with a biochemical incomplete or indeterminate response to treatment should have
+serum Tg and TgAb assays and a neck US every 6–12 months.
+Rising Tg or TgAb levels warrant further imaging studies [72].
+Mild TSH suppression should be considered (0.1–0.5 mIU/ml) in
+patients at intermediate risk of recurrence [IV, B] [8].
+In patients with high-risk PTCs, poorly differentiated TCs or
+widely invasive FTCs, serum Tg and TgAb levels should be
+assessed every 6–12 months if the response to therapy is excellent
+or biochemical indeterminate/incomplete. Cross-sectional or
+functional imaging studies should be repeated if detectable Tg
+levels persist [IV, B] [27, 30]. For patients whose recurrence risk
+is initially classified as high, a more in-depth imaging work-up
+may be advisable even if serum Tg levels remain or become undetectable, as the absence of the circulating Tg may simply reflect
+the dedifferentiation of any residual tumour tissue that might be
+present [8]. Serum TSH levels should be suppressed in all patients
+with biochemical incomplete or indeterminate responses to treatment (0.1–0.5 mIU/ml) [IV, B] [8]. Patients with structural incomplete responses can be placed on active surveillance or
+referred for local or systemic treatments.
+
+Management of advanced/metastatic disease
+Distant metastases occur in fewer than 10% of patients with
+DTC. Half are present when the tumour is first discovered; the
+others are found later, sometimes decades after initial treatment.
+Metastases are observed most frequently in patients with aggressive histological subtypes (e.g. tall-cell, hobnail, solid, diffuse
+sclerosing and columnar-cell variants): vascular invasion, large
+primary tumours, macroscopic extrathyroidal extension, bulky
+locoregional nodal disease [8]. The most common sites are lungs
+and bones (involved in 49% and 25% of all cases, respectively),
+and in 15% of cases, both are affected [73]. Bone metastases are
+more common in FTC than in PTC (55.5% versus 31.5%, respectively). Spinal (34.6%) and pelvic (25.5%) bones are the
+most frequently involved, followed by those of the chest (18.3%),
+extremities (10.2%), shoulder girdle (5.4%) and the
+
+doi:10.1093/annonc/mdz400 | 1865
+
+Special article
+craniomaxillofacial bones (5.4%) [74]. Brain, liver and skin involvement is less common. The overall mortality rates 5 and
+10 years after diagnosis of distant metastases are 65% and 75%,
+respectively [75].
+Distant metastases are usually diagnosed because of clinical
+symptoms or suspicious imaging/laboratory findings (abnormal
+uptake on a post-ablation WBS, or a positive finding on an FDG–
+PET-CT scan or a cross-sectional study prompted by elevated Tg
+levels in patients whose post-ablation WBS is negative).
+RAI therapy. Patients with distant metastases should receive 100–
+200 mCi (3.7–7.4 GBq) of 131I after TSH stimulation [IV, A] [73].
+The latter can be achieved with levothyroxine withdrawal or, if
+withdrawal is clinically contraindicated or the patients has hypopituitarism, with injections of rhTSH (Figure 2). One-third of
+patients have lesions that are not RAI-avid and are considered
+RAI-refractory [IV, A] (Figure 2) [73, 76]. If the distant metastases are RAI-avid, 131I is administered every 6 months for 2 years
+and less frequently thereafter. Between treatments, suppressive
+doses of levothyroxine are given to maintain serum TSH levels
+below 0.1 mIU/ml (unless there are specific contraindications)
+[III, B] [77–79]. Data from some prospective cohort studies suggest that disease progression, recurrence and death rates are
+reduced in patients undergoing TSH suppression for structurally
+identifiable disease [77, 79], but it is still unclear how much suppression is appropriate [78]. Between treatments, efficacy should
+be verified with periodic cross-sectional imaging studies.
+Compared with repeated administrations of standard doses of
+RAI (100 mCi or 3.7 GBq), use of higher, dosimetrically determined activities appears to offer no benefits in terms of OS [80].
+When distant metastases lose their ability to concentrate RAI or
+structural progression occurs within 6–12 months after RAI administration, the disease is considered RAI-refractory [IV, A]
+(Figure 2) [73, 76]. A cure is unlikely if lesions persist after administration of a cumulative dose of 600 mCi 131I, and decisions
+on whether to continue RAI therapy will be based on tumour
+burden, RAI-uptake intensity and responses to previous RAI
+administrations [73].
+Overall, one out of three patients with distant metastases will
+be cured with RAI and have a near-normal life expectancy [73].
+These are usually young individuals with well-differentiated TC
+and small non-FDG-avid metastatic lesions. The other patients
+will at some point be classified as RAI-refractory; the prognosis in
+these cases will vary, depending mainly on the tumour burden
+and growth rate. Overall, their 5-year survival is <50%. RAI refractoriness, however, remains uncommon, with an estimated incidence of 4–5 cases per million population. Drugs for reinducing or increasing RAI uptake by the tumours are currently
+under investigation. The selective kinase inhibitors dabrafenib
+[81], vemurafenib [82] and selumetinib [83] can reportedly restore RAI uptake and tumour responses in selected patients, especially in those with small tumour burden and low progression
+rate. Several trials are underway to validate these preliminary data
+(NCT03244956, NCT02456701, NCT02145143, NCT02152995,
+NCT03363347), but thus far, none of the three drugs has been
+approved for this indication.
+Locoregional therapy. Several locoregional approaches can be
+used to treat TC. The data and indications discussed below,
+
+1866 | Filetti et al.
+
+Annals of Oncology
+however, are based mainly on studies of other solid tumours.
+Specific recommendations are lacking for DTC or MTC patients;
+therefore, the indications for locoregional treatments of these
+tumours will be discussed together. ATC patients will be discussed separately, as their poor prognosis is a major factor in all
+treatment decisions.
+Bone metastases: The relatively long survival perspective places
+TC patients with bone metastases at high risk of skeletal-related
+events (SREs), i.e. pathological fractures, spinal cord compression, need for radiation (for pain or impending fracture) or surgery and hypercalcaemia. Up to 37% of TC patients experience
+SREs, and they are associated with poorer prognoses [84, 85].
+There is a strong rationale and some clinical data supporting
+the roles for bone resorption inhibitors (bisphosphonates or
+denosumab) [V, B], external beam radiotherapy (EBRT) or other
+locoregional treatments in reducing SREs [86]. Bisphosphonates
+and denosumab have each been shown to decrease SRE rates and
+bone pain associated with breast, prostate and lung cancers.
+Inhibition of bone resorption should be considered in TC
+patients with multiple bone metastases. Treatment can be administered every 4 weeks (bisphosphonates and denosumab) or every
+3 months (bisphosphonates). The optimal duration of treatment
+is unknown, but in other more thoroughly studied tumours (e.g.
+breast, prostate, lung), a minimum of 2 years is recommended.
+Adequate calcium and vitamin D levels should be maintained
+during treatment. The most significant AE of these drugs is jaw
+osteonecrosis, and the risk is increased in patients receiving
+antiangiogenic therapy [87]. A baseline dental evaluation is
+thus mandatory before starting treatment with bone resorption
+inhibitors, and regular checkups are recommended during
+treatment.
+If the bone metastases are RAI-avid, RAI therapy may control
+the disease for some time and alleviate or delay symptoms, but it
+is unlikely to eliminate these lesions. Locoregional treatments
+may allow longer progression-free intervals and even cures in
+patients with targetable, oligometastatic bone disease. Surgery
+followed by EBRT is associated with the best outcomes, at least
+for limb lesions [88]. If surgery is not feasible, bone lesions associated with pain or a high fracture risk should be treated with fractionated (20 Gy in five fractions or 30 Gy in 10 fractions) or
+single-fraction (8 Gy) EBRT and/or with interventional radiology
+techniques, including cementoplasty and thermal ablation [89].
+For spinal cord compression in a patient whose life expectancy
+exceeds 6 months, longer fractionation schedules (e.g. 30 Gy in 10
+fractions over 2 weeks) are recommended. If the life expectancy is
+6 months, a single fraction of 8 or 20 Gy in five fractions should
+be used to minimise hospitalisation [II, B] [90].
+Percutaneous vertebroplasty can reduce the pain and deformity associated with vertebral body fractures. The efficacy of this
+innovative approach has not been directly compared with surgery
+and should only be done in high-volume centres to minimise the
+risk of complications (e.g. cement leakage outside the bone).
+There is limited evidence that other conservative techniques
+[radiofrequency ablation (RFA), cryotherapy] are effective for
+treating TC-related bone lesions [V, B] [91].
+Palliative EBRT alleviates pain and neurological complications.
+Pain relief is often achieved 48–72 h after treatment, although it
+may take up to 1 month.
+
+Volume 30 | Issue 12 | 2019
+
+Special article
+
+Annals of Oncology
+RAI-refractory, advanced/metastatic DTC
+
+Asymptomatic
+
+Stable diseasea
+
+Active surveillance
+[IV, B]
+Cross-sectional imaging
+at 3 months; if stable
+disease, repeat
+imaging at 6 months
+Periodic serum Tg and
+TgAb levelsc
+Optional: FDG–PET-CTc
+
+Symptomatic
+
+Progressive diseaseb
+
+Single lesion
+
+Multiple lesions
+
+Single lesion
+
+Multiple lesions
+
+Locoregional therapy
+[IV, B]
+
+Systemic therapy:
+Lenvatinib [I, A; MCBS 3]d
+Sorafenib [I, A; MCBS 2]d
+
+Locoregional therapy
+[IV, B]
+
+Locoregional therapy to palliate symptoms
+[IV, B]
+Systemic therapy for disease control:
+Lenvatinib [I, A; MCBS 3]d
+Sorafenib [I, A; MCBS 2]d
+
+Figure 4. Recommendations for management of RAI-refractory, advanced/metastatic DTC patients.
+a
+A large tumour burden may warrant either a locoregional or systemic therapy.
+b
+As assessed by the RECIST v1.1 [94].
+c
+The trend overtime of serum Tg or TgAb levels and the uptake at FDG–PET may predict disease progression and outcome.
+d
+ESMO-MCBS v1.1 score for new therapy/indication approved by the EMA since 1 January 2016. The score has been calculated by the ESMOMCBS Working Group and validated by the ESMO Guidelines Committee.
+DTC, differentiated thyroid cancer; EMA, European Medicines Agency; ESMO-MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; FDG–PET,
+[18F]2-ﬂuoro-2-deoxy-D-glucose—positron emission tomography; FDG–PET-CT, [18F]2-ﬂuoro-2-deoxy-D-glucose—positron emission tomography–computed tomography; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; RAI, radioactive iodine; RECIST, Response Evaluation
+Criteria in Solid Tumours; Tg, thyroglobulin; TgAb, serum thyroglobulin antibody.
+
+Lung metastases: The lung is a common site of TC metastasis.
+The lesions are usually multiple, bilateral, of varying size (from a
+few millimetres to 1 cm) and asymptomatic. Metastasectomy is
+not the standard approach for these lesions, but it may be considered for oligometastasis in patients with good performance status
+(PS) [V, C]. RFA is also a possibility for solitary lesions or those
+causing a specific symptom due to their volume and location [V,
+C]. RFA is considered for lesions <2–3 cm in patients not eligible
+for surgery or those requiring an extensive resection [92].
+Liver metastases: Liver metastases are rare in DTC but more
+common in MTC. Liver involvement usually presents with multiple lesions, but if true solitary lesions are detected, they may be
+candidates for local ablation. In MTC patients with a dominant
+lesion that is growing more rapidly than the background disease, local ablation (e.g. RFA) may be useful for controlling
+symptoms, systemic ones in particular, such as diarrhoea. The
+outcome of RFA will depend on the size of the lesion (optimally
+<30 mm), its location (at least 3 mm from all vessels) and its
+visibility on US. Direct comparisons of surgery and RFA are
+lacking. In general, individuals who are ineligible for surgery are
+
+Volume 30 | Issue 12 | 2019
+
+not the best candidates for percutaneous ablation. If both surgery and RFA are contraindicated, hepatic intra-arterial embolisation with drug-eluting beads might be an option: it has been
+used in other solid tumours [93] but its efficacy in TC has not
+been validated.
+Invasion of upper aerodigestive tract: Invasion of the upper
+aerodigestive tract should always be excluded in TC patients with
+locoregional disease. Suspicious symptoms include haemoptysis
+and dysphagia. Contrast-enhanced CT and/or MRI are helpful
+for exploring suspicious cases, although endoscopy is more definitive. In selected cases (e.g. bleeding, exophytic lesions), local
+treatment (e.g. laser excision) is advisable before starting antiangiogenic multikinase inhibitor (MKI) therapy.
+Systemic therapy and personalised medicine. TSH suppression
+(serum level <0.1 lIU/ml) is recommended for all TC patients
+with persistent structural disease in the absence of specific contraindications [III, B] [77]. Not all patients with RAI-refractory disease require systemic MKI therapy immediately. The treatment
+strategy should be based on multiple factors, including
+
+doi:10.1093/annonc/mdz400 | 1867
+
+Special article
+
+Annals of Oncology
+
+Table 6. Phase II trials with antiangiogenic agents in RAI-refractory DTC
+Name of the drug
+
+Author, year [reference]
+
+Patients (N)
+
+Response rate (%)
+
+Median PFS (months)
+
+Axitinib
+Axitinib
+Cabozantiniba
+Cabozantinib
+Motesanib
+Nintedaniba
+Pazopanib
+Sunitinib
+Vandetanib
+
+Cohen EE, 2008 [102]
+Locati LD, 2014 [103]
+Cabanillas ME, 2017 [104]
+Brose MS, 2018 [105]
+Sherman SI, 2008 [106]
+Schlumberger M, 2018 [107]
+Bible KC, 2010 [108]
+Carr LL, 2010 [109]
+Leboulleux S, 2012 [110]
+
+45
+52
+25
+35
+93
+70
+37
+28
+145
+
+30
+35
+40
+54
+14
+0
+49
+31
+<5
+
+18
+16
+12.7
+Not reached yet
+9
+3.71
+12
+13
+11
+
+a
+
+Second-line therapy.
+DTC, differentiated thyroid cancer; PFS, progression-free survival; RAI, radioactive iodine.
+
+symptoms, tumour burden, the Eastern Cooperative Oncology
+Group (ECOG) PS, lesion characteristics (e.g. paratracheal location or other features likely to cause symptoms) and disease progression [defined using Response Evaluation Criteria in Solid
+Tumours (RECIST) v1.1 as a 20% increase in the sum of target
+lesions or the appearance of new lesion] [94] (Figure 4).
+Importantly, decisions on whether or not to use MKIs must always be based on patient preference after a careful discussion
+with the managing physician of the expected benefits and risks
+associated with specific drugs. Temporal trends in the levels of
+serum tumour markers (e.g. Tg doubling time) can be used to
+support and help decision making [95]. Importantly, however,
+an increase in serum Tg levels in the absence of radiologically evident disease progression should not be used to select patients
+requiring systemic therapy. A complete cross-sectional imaging
+assessment of the extent of the disease is mandatory for any treatment decisions. RECIST v1.1 are used to define target lesions and
+measure responses to systemic treatment [94]. The imaging assessment should be repeated every 3–12 weeks during treatment.
+Reductions in serum Tg are expected in responders, but clinical
+decisions cannot be based on this parameter alone.
+First-line systemic therapy: Lenvatinib and sorafenib should be
+considered the standard first-line systemic therapy for RAIrefractory DTC [I, A; ESMO-Magnitude of Clinical Benefit Scale
+(ESMO-MCBS) v1.1 scores: 3 for lenvatinib, 2 for sorafenib].
+Lenvatinib and sorafenib have been approved by the European
+Medicines Agency (EMA) and the United States Food and Drug
+Administration (FDA) for progressive, metastatic, RAIrefractory DTC. Both drugs have been investigated in two large,
+randomised phase III trials (sorafenib in DECISION [96], lenvatinib in SELECT [97]). Head-to-head comparisons of the two
+agents have not been undertaken. They cannot be compared
+based on their performances in the RCTs cited above, which differed substantially in terms of enrolment criteria. Unlike the
+DECISION population, participants in SELECT underwent mandatory assessment of radiological disease progression at entry by
+an independent committee, and pre-treated patients were not
+excluded. In addition, progression-free survival (PFS) in the placebo arm of SELECT was shorter than that of DECISION, which
+
+1868 | Filetti et al.
+
+also suggests that the SELECT trial population may have had
+more advanced or more active disease than that of the
+DECISION study.
+In the DECISION trial, 417 patients were randomised (1 : 1)
+to treatment with sorafenib (400 mg twice daily) or placebo,
+with crossover permitted at disease progression [96]. The study
+demonstrated that sorafenib significantly prolongs PFS [median PFS (mPFS) 10.8 versus 5.8 months with placebo, hazard
+ratio (HR) 0.59, 95% confidence interval (CI) 0.45–0.76,
+P ¼ 0.001]. Objective responses (all partial) occurred in 12% of
+the sorafenib group and 0.5% of placebo-treated patients
+(P < 0.0001). The median response duration was 10.2 months
+(95% CI 7.4–16.6). Stable disease lasting 6 months (post hoc
+analysis) was observed more frequently with sorafenib (82/196
+patients, 41.8% versus 67/202 patients, 33.2% in the placebo
+group). Disease control (partial response or disease stability
+lasting 6 months; post hoc analysis) was achieved in 106/196
+patients (54.1%) treated with sorafenib and 33.8% (68/201
+patients) of those receiving placebo (P < 0.0001). Most patients
+(71.4%) receiving placebo crossed over to sorafenib, and 20.3%
+of patients in sorafenib arm and 8.6% of patients in placebo
+arm received additional therapies. OS was similar in the two
+arms (HR 0.80, 95% CI 0.54–1.19, P ¼ 0.14), and the median
+OS (mOS) had not been reached at the data cut-off (31 August
+2012). The median durations of treatment were 10.6 months
+(interquartile range 5.3–15.7) with sorafenib and 6.5 months
+(3.3–12.9) with placebo.
+In the SELECT trial, 392 patients were randomised 2 : 1 to receive lenvatinib or placebo [97]. The study met the primary aim,
+demonstrating that lenvatinib significantly prolonged PFS compared with placebo, as first-line therapy (mPFS 18.3 versus
+3.6 months in the placebo arm, HR 0.21, 99% CI 0.14–0.31,
+P < 0.001) and in pre-treated patients (mPFS 15.1 months). The
+6-month PFS rates were 77.5% (lenvatinib group) and 25.4%
+(placebo group). Responses to lenvatinib (complete in four cases)
+were observed in 64.8% patients (compared with 1.5% in the placebo group) (OR 28.87, 95% CI 12.46–66.86, P < 0.001).
+Responses occurred rapidly (median time to objective response:
+2 months, 95% CI 1.9–3.5). The drug’s activity varied with the
+site of disease, with lung and lymph node lesions responding very
+
+Volume 30 | Issue 12 | 2019
+
+Special article
+
+Annals of Oncology
+well, and liver and bone metastases less so [98]. mOS rates in the
+two arms were not significantly different (HR 0.73, 95% CI 0.50–
+1.07, P ¼ 0.10), but subgroup analysis revealed significantly
+improved OS in patients >65 years treated with lenvatinib (HR
+0.53, 95% CI 0.31–0.91, P ¼ 0.020). In this trial, TC appeared to be
+more aggressive in older people, as reflected by the mOS
+of 18.4 months (95% CI 13.3–20.3) reached in placebo-treated
+patients >65 years compared with that in younger subjects, which
+had not been reached when the results were published [99].
+The optimal sequence of MKIs in RAI-refractory DTC cannot
+be determined based on currently available evidence. Previous
+MKI therapy is not a contraindication for subsequent use of
+these drugs, but data on second-line efficacy are scarce [II, C].
+MKIs should be continued until the disease progresses, unacceptable toxicities occur or the patient asks to stop treatment.
+In the presence of single-site progression, locoregional treatment
+(e.g. EBRT, embolisation, percutaneous treatment modalities)
+can be done for local control, without discontinuing MKIs [V,
+C]. Data on real life experiences with lenvatinib in DTC patients
+are now available and as expected, the drug’s efficacy was not as
+good as that observed in highly selected RCT populations [100,
+101]. Other antiangiogenic agents have been tested as first-line
+therapy in phase II trials, with widely varying response rates
+(Table 6) [102–110]. None of these agents has been approved yet
+for RAI-resistant DTC. MKIs with specific targets [e.g. BRAF,
+tropomyosin receptor kinase (TRK)] have also been used.
+Vemurafenib has reportedly displayed activity against BRAF
+V600E TCs in both MKI-naive [overall response rate (ORR)
+38.5%, 95% CI 20.2–59.4] and pre-treated patients (ORR 27.3%,
+95% CI 10.7–50.2) [81, 111]. Larotrectinib has been recently
+approved by the FDA and the EMA for all paediatric and adult
+cancers expressing the TRK gene fusion protein. Partial
+responses were observed in all five TC patients treated with this
+drug in a recently reported phase I/II trial [112]. There is a biological rationale for treating advanced TCs with antiangiogenetic
+agents plus immune checkpoint inhibitors [113], and an RCT is
+currently underway to assess the activity of lenvatinib plus pembrolizumab in this setting (NCT02973997).
+
+treatment interruptions (137/207 patients, 66.2%), dose reductions (133 patients, 64.3%) or drug withdrawals (39 patients,
+18.8%).
+In SELECT, at least one side-effect also occurred in all
+lenvatinib-treated patients [114], the most common being hypertension, diarrhoea, fatigue, proteinuria, rash and hand–foot syndrome. Treatment interruptions (82.4% of patients) and dose
+reductions (67.8%) led to a mean daily lenvatinib dose of 17.2 mg
+[97]. AEs generally occurred during the first few weeks of treatment and decreased rapidly after treatment is interrupted. A trial
+comparing lenvatinib starting doses of 24 versus 18 mg is currently recruiting (NCT02657369). More selective agents such as larotrectinib for TRK fusion-positive cancers and highly selective
+RET inhibitors (e.g. LOXO 292, BLU 667) have better toxicity
+profiles. Off-target side-effects are uncommon with these drugs,
+and toxicities are mild and manageable, mostly of grades 1 and 2
+[112, 115].
+Physicians, patients and caregivers should be aware of these
+AEs. Caught early, they can be effectively managed, but prevention, when feasible, is always advisable [116]. The aim should be
+to manage the side-effects successfully without resorting to dose
+or treatment schedule adjustments, which can have detrimental
+effects on treatment efficacy. A post hoc analysis of the impact of
+dose interruption on lenvatinib efficacy in SELECT trial participants revealed that longer interruptions and lower mean dose
+intensities may diminish the potential benefit conferred by the
+drug [117]. As MKIs may cause fatal harm when administered to
+a pregnant woman and may result in reduced fertility in both
+sexes, fertility preservation approaches should be discussed before treatment starts [118].
+
+AEs of MKIs: AEs occurred in 98.6% of patients receiving sorafenib during the DECISION trial [96]: hand–foot syndrome,
+diarrhoea, alopaecia, rash or desquamation, fatigue, weight loss
+and hypertension were the most common. Serum TSH levels
+exceeding 0.5 mIU/ml were observed in 33.3% patients (69/207)
+in the sorafenib arm. TSH increases are a recognised AE of sorafenib and other MKIs, and levels should be checked monthly to ensure that suppression is maintained.
+Serious AEs were documented in 37.2% (77/207) of the
+sorafenib-treated participants. Nine developed a second malignancy: squamous-cell skin cancer in seven cases (one patient also
+had melanoma), acute myeloid leukaemia and bladder cancer in
+the remaining two cases. Skin cancer is a consequence of sorafenib’s paradoxical activation of mitogen-activated protein kinase
+signalling in keratinocytes harbouring mutated or activated RAS.
+In clinical practice, skin cancer can be resected surgically with
+curative intent and sorafenib continued, but monitoring and
+early intervention for skin lesions is essential. The high rate of
+AEs inevitably diminishes treatment compliance. In DECISION,
+where the mean daily dose was 651 mg, AEs frequently led to
+
+Diagnosis and pathology/molecular biology
+
+Volume 30 | Issue 12 | 2019
+
+Conventional cytotoxic therapy: The results of chemotherapy
+(ChT) administration (e.g. doxorubicin) in RAI-refractory DTC
+are disappointing; therefore, it is not recommended unless MKI
+therapy is contraindicated.
+
+ATC
+
+ATCs are very rare tumours that usually present at an advanced
+stage, display extremely aggressive behaviour, and are associated
+with a very poor prognosis. They are morphologically heterogeneous and must be distinguished from other neck tumours,
+including squamous carcinoma of the larynx, sarcomas and lymphomas. Preoperative biopsy assessment includes diagnostic
+immunomarkers that can differentiate ATC from large cell
+lymphoma or pleomorphic sarcoma. The molecular profile of
+ATC includes mutations of the TERT promoter (associated with
+BRAF or RAS mutations) and TP53 [21, 22], as well as targetable
+abnormalities (e.g. NTRK and ALK rearrangements).
+
+Staging and risk assessment
+In the eighth edition of the UICC TNM staging system [23], diagnosis of ATC is no longer associated with pT4 stage by default.
+Cases treated with resection are staged like other TC histotypes,
+based on tumour size and extension (Table 2).
+
+doi:10.1093/annonc/mdz400 | 1869
+
+Special article
+
+Annals of Oncology
+ATC
+
+Conﬁrm diagnosis with histopathologya [V, A]
+
+Fully stage urgentlyb with cross-sectional imaging
+FDG–PET-CT useful for M1 disease [IV, A]
+
+Fibreoptic analysis of airway and vocal cord function
+± endoscopic review of oesophageal invasion [IV, A]
+
+Discussion in a multidisciplinary tumour board including palliative care [V, A]
+
+Unresectable/M1 disease
+
+Resectable (R0/R1) with minimal morbidityc
+
+TT ± neck dissection [IV, A]
+
+Mutated
+
+Wild-type
+
+If R0/R1 and M0,
+consider postoperative EBRT ± ChTd
+as soon as possible post-surgerye [IV, A]
+Dabrafenib + trametinib
+[V, B]
+
+Best supportive
+care [V, B]
+
+Palliative EBRT
+[V, B]
+
+Clinical trials or palliative
+ChTg [V, B]
+
+Figure 5. Recommendations for management of ATC patients.
+a
+With at least a core biopsy. Cytology is not sufﬁcient to exclude differential diagnoses such as lymphoma, medullary or poorly differentiated
+TC.
+b
+Staging must not delay deﬁnitive treatment.
+c
+Laryngectomy not appropriate. Elective tracheostomy should be avoided.
+d
+Concomitant ChT should be offered in patients who have good PS.
+e
+Preferably within 3 weeks of surgery. IMRT is the recommended approach.
+f
+A next-generation sequencing analysis targeting cancer-associated genes is the preferred approach if available.
+g
+In the presence of druggable mutations (other than BRAF V600E), a targeted therapy may be advocated. In the absence of druggable mutations, immunotherapy is an alternative approach. Ideally, these approaches should be tested within the context of a clinical trial. Palliative
+ChT may be proposed in the absence of other therapeutic approaches.
+ATC, anaplastic thyroid cancer; ChT, chemotherapy; EBRT, external beam radiotherapy; FDG–PET-CT, [18F]2-ﬂuoro-2-deoxy-D-glucose—positron emission tomography–computed tomography; IMRT, intensity-modulated radiotherapy; M0, no distant metastasis; M1, distant metastasis; PS, performance status; R0, no residual tumour; R1, microscopic residual tumour; TC, thyroid cancer; TT, total thyroidectomy.
+
+ATCs are considered one of the most aggressive solid tumours
+in humans. The median survival after the initial diagnosis is
+4 months and only one out of five patients survives more than
+12 months (1-year survival rates: 10%–20%). Long-term survival
+has been reported, but the estimated rate at 10 years is <5%. The
+dismal prognosis stems from the fact that over 40% of the
+patients present at diagnosis with large primary tumours (mean
+
+1870 | Filetti et al.
+
+size: 6 cm), gross extrathyroidal extension and locoregional and
+distant metastases, which make complete resection unlikely
+[119]. A thorough imaging work-up should be carried out soon
+after the diagnosis. The FDG–PET-CT scan is the most sensitive
+tool for documenting the extent of disease. Scans should be
+repeated at all stages of treatment [120].
+
+Volume 30 | Issue 12 | 2019
+
+Annals of Oncology
+Management of local/locoregional disease
+Surgery. ATC is rarely amenable to complete resection (Figure 5).
+Total thyroidectomy with bilateral central neck dissection may be
+carried out in those very rare cases of localised ATC in M0
+patients. Extensive resection with total laryngectomy, oesophagectomy and/or resection of the great vessels has been reported in
+highly selected cases in specialised centres, but postoperative
+mortality and morbidity are high and there is no high-level evidence to indicate that this approach improves survival. The prognosis is also unaffected by incomplete palliative resection (R2) or
+‘debulking’, which is not generally recommended [IV, E] [121].
+Tracheostomy may be needed to alleviate symptoms in patients
+with moderately progressive disease, but the impact of tracheostomy on QoL must be considered. Given the technical complexity, the procedure is generally done under general anaesthesia. An
+experienced team of surgeons and anaesthesiologists is essential,
+as is a complete preoperative cross-sectional imaging assessment
+of the trachea and tumour.
+Radiotherapy. Optimal outcomes in terms of survival and local
+disease control in ATC require complete or near-complete [no
+residual tumour (R0) or microscopic residual tumour (R1)] resection followed by high-dose EBRT, with or without concomitant ChT [V, A] [122, 123]. However, this multimodal approach
+can strongly impact QoL and should be reserved for carefully
+selected patients to ensure clinical benefit. Timely discussion
+within a multidisciplinary team setting is strongly recommended
+[V, A] (Figure 5).
+Analysis of 1200 ATC cases in a large national database [121]
+revealed significantly better outcomes when multimodality
+therapy included radical surgery (HR 0.35, 95% CI 0.28–0.43,
+P < 0.0001 versus no surgery or palliative surgery), 40 Gy of
+EBRT (HR 0.46, 95% CI 0.38–0.56, P < 0.0001 versus no ERBT
+or <40 Gy EBRT) and ChT of any type (HR 0.63, 95% CI 0.52–
+0.76, P < 0.0001 versus no ChT). Outcomes also varied with
+UICC stage. For stage IVA disease, the benefit from additional
+therapies was nonsignificant. For stage IVB disease, however,
+radical surgery followed by both EBRT and ChT significantly
+improved cause-specific survival compared with radical surgery alone or with EBRT (HR 0.45, 95% CI 0.25–0.81,
+P ¼ 0.0083).
+A meta-analysis of 17 retrospective studies including 1147
+patients looked at the impact of postoperative radiotherapy
+(PORT) after radical ATC resection and found that it significantly reduced the risk of death as compared with radical resection
+alone (HR 0.556, 95% CI 0.419–0.737, P < 0.001) [124].
+Exploratory analyses demonstrated that PORT might also confer
+a survival benefit in patients with stage IVA (HR 0.364,
+P ¼ 0.012) or IVB (HR 0.460, P ¼ 0.059) disease but not for stage
+IVC. For best outcomes, PORT must be delivered as soon as possible after surgery [IV, A], but the patient must have recovered
+from surgery sufficiently to be able to lie flat and tolerate
+immobilisation.
+Because of the improved dose distribution and the ability to reduce toxicity, intensity-modulated radiotherapy (RT) is the recommended approach [IV, C] [125]. There is some evidence of a
+dose–response relation. Outcomes in ATC are improved with
+doses exceeding 45–50 Gy [126, 127]. An analysis of the United
+
+Volume 30 | Issue 12 | 2019
+
+Special article
+States National Cancer Database showed maximal benefits with
+doses >60 Gy [128]. Evidence that hyperfractionated accelerated
+RT (i.e. delivery of two or more fractions per day over a shorter
+treatment time) improved survival over that obtained with conventional fractionation is insufficient, whereas it was clearly associated with increased toxicity [129–131].
+For stage IVA or IVB disease, concomitant ChT (usually with
+doxorubicin or a platinum agent) has been used. Most of the data
+reported on this approach came from single-institution series
+and the clinical benefits reported have been variable. It has been
+shown that concomitant taxane therapy has radio-sensitising
+effects [132].
+Palliative EBRT: In patients with unresectable disease, EBRT
+has a role in symptom control [V, C] [133]. The aim is usually to reduce the rate of growth of the neck mass and thereby the pressure
+symptoms. Fractionation schedules vary according to the individual
+patient (most commonly from 20 Gy in five fractions to 30 Gy in 10
+fractions). These fractionation regimens allow simple beam
+arrangements such as parallel opposed or simple three-dimensional
+conformal techniques, so that RT can be started as soon as possible.
+
+Management of advanced/metastatic disease
+Systemic therapy and personalised medicine. Novel systemic
+therapies are urgently needed to improve the generally poor outcomes associated with ATC. Clinical trial enrolment should
+therefore be encouraged for patients with good clinical PS [V, B].
+For patients ineligible for systemic treatments or clinical trials,
+best supportive care should be discussed (Figure 5) [133].
+To date, cytotoxic ChT has been the primary treatment for
+metastatic disease, but it is associated with very low response rates
+and significant toxicities [133]. Recommended regimens consist
+of single-agent therapy with paclitaxel or doxorubicin or combined treatments (e.g. carboplatin/paclitaxel, docetaxel/doxorubicin) administered weekly or every 3–4 weeks [134–136]. No
+data are available to guide decisions on second-line therapy
+[133]. Chemoradiotherapy can be considered for local control of
+unresectable stage IVB disease, ideally with weekly administration of radio-sensitising ChT (see above).
+Several novel approaches (targeted therapy, immunotherapy) are being studied, alone or in combination, to improve
+the poor response rates achieved with current strategies. The efficacy of lenvatinib in ATC is controversial. In 2015, the
+drug was approved by the Japanese regulatory agency for treatment of TCs, including ATC, based on data from a single-arm,
+open-label, phase II study conducted on a population of 51
+patients [137], 17 of whom had ATC. The primary aim was to
+establish the drug’s safety in this setting. The ATC patients had
+an mPFS of 7.4 months (95% CI 1.7–12.9), an mOS of
+10.6 months (95% CI 3.8–19.8) and an objective response rate
+of 24%. These findings prompted an international, multicentre, phase II trial, but the trial was stopped early due to futility (NCT02657369).
+Molecular profiling studies have begun to elucidate the molecular drivers and the multistep dedifferentiation associated
+with ATC tumourigenesis [21, 22]. Early mutation of BRAF and
+RAS has been reported in 25% and 28% of the cases, respectively
+[138]. In a phase II, open-label basket trial, patients with BRAF
+
+doi:10.1093/annonc/mdz400 | 1871
+
+Special article
+
+Annals of Oncology
+MTCa
+
+Ctn <20 pg/ml
+
+Ctn 20–50 pg/ml
+
+Ctn 50–200 pg/ml
+
+Ctn 200–500 pg/ml
+
+Ctn >500 pg/ml
+
+TTb
+[IV, B]
+
+TT ± bilateral CND
+[IV, B]
+
+TT + bilateral CND
++ ipsilateral LND (at least IIA-III-IV)
+[IV, B]
+
+TT + bilateral CND
++ bilateral LND (at least IIA-III-IV)
+[IV, B]
+
+Work-up
+for distant metastases
+
+M0
+
+M1
+
+TT + bilateral CND
++ bilateral LND (at least IIA-III-IV)
+[IV, B]
+
+Neck surgery based on
+disease progression
+and symptomsc
+[V, C]
+
+Figure 6. Recommendations for surgical management of MTC patients.
+a
+Preoperative neck US is recommended for all patients: (i) US-negative patients: elective neck dissection based on Ctn levels; (ii) US-positive
+patients: bilateral CND plus therapeutic neck dissection of involved levels plus contralateral LND if serum Ctn >200 pg/ml.
+b
+If MTC is discovered after lobectomy, consider completion thyroidectomy unless postoperative serum Ctn is undetectable, neck US normal
+and no germline RET mutation is found.
+c
+In patients with distant metastases (M1), decision for surgery may be based on tumour burden in the neck as compared with tumour burden outside the neck.
+CND, central neck dissection; Ctn, calcitonin; LND, lateral neck dissection; M0, no distant metastasis; M1, distant metastasis; MTC, medullary
+thyroid cancer; TT, total thyroidectomy; US, ultrasound.
+
+V600E-positive malignancies (including 16 with ATC) were
+treated with the BRAF inhibitor dabrafenib (150 mg twice daily)
+plus the MEK inhibitor trametinib (2 mg once daily). The ORR
+was 69% (11/16; 95% CI 41%–89%), and the treatment was well
+tolerated [139]. In May 2018, this combination received FDA
+approval for the treatment of locally advanced or metastatic
+ATC with the BRAF V600E mutation. If available, this should be
+the first-line therapy for advanced BRAF V600E ATC patients
+[V, B]. Other rare mutations and genetic aberrations may also
+prove to be druggable, such as ALK translocations [21, 22].
+Extended molecular profiling of ATCs should be strongly
+encouraged as it may reveal promising possibilities for targeted
+therapies.
+In the presence of non-druggable mutations, targeting the tumour microenvironment or common cancer signalling pathways
+is an alternative approach. ATC immunoprofiling has revealed
+high numbers of tumour-infiltrating lymphocytes in the tumour
+and tumour cell expression of programmed death ligand 1 (PDL1) [138]. Immunotherapy with antibodies targeting programmed cell death 1 (PD-1) receptor or PD-L1 has produced
+impressive results in many malignancies, but few data are available on their use in ATC. The anti-PD-1 monoclonal antibody
+spartalizumab was tested in 41 heavily pre-treated patients with
+advanced ATC, and responses were observed in 19.5%, opening
+the road to the use of immunotherapy in ATC [140].
+Inclusion of targeted therapy, immunotherapy, ChT and/or
+RT, administered in combination or sequentially, in
+
+1872 | Filetti et al.
+
+multidisciplinary ATC management regimens may improve patient outcomes (NCT03181100).
+
+MTC
+Diagnosis and pathology/molecular biology
+MTC is morphologically heterogeneous and can mimic virtually
+all other primary thyroid tumours. Demonstration of calcitonin
+(Ctn) expression is mandatory for the diagnosis. Rare primary
+Ctn-negative neuroendocrine carcinomas of the thyroid exist
+and must be distinguished from metastases from neuroendocrine neoplasms of the lung. In these cases, carcinoembryonic
+antigen (CEA) determination can be useful, being the only neck
+tumour expressing this marker. The preoperative diagnosis
+can also be challenging in the absence of a consistent
+immunophenotype.
+RET and RAS proto-oncogene mutations are detected in
+90% of MTCs and are considered the predominant drivers of
+these tumours [141]. RET mutations occur sporadically, as somatic events, or can be inherited as germline events associated with
+familial MTC or the multiple endocrine neoplasia syndromes
+type 2A and 2B (MEN2A and MEN2B). A quarter of MTCs occur
+as part of an inherited syndrome, and germline RET mutations
+are present in up to 10% of the patients presenting with apparently sporadic MTCs. All patients with MTC should thus be offered
+
+Volume 30 | Issue 12 | 2019
+
+Special article
+
+Annals of Oncology
+Postoperative MTC
+
+Postoperative assessment (30–60 days after surgery):
+Serum Ctn and CEA
+Neck US
+Other imaging modalitiesa: depending on the stage and
+serum Ctn and CEA levels
+
+Excellent response
+Ctn and CEA undetectable or within normal rangeb
+No structural evidence of disease
+
+Biochemical incomplete response
+Detectable Ctn and abnormal CEA
+No structural evidence of disease
+
+Serum Ctn every 6 months for 1 year, then
+annually [IV, A]
+Repeat neck US depending on Ctn levels (abnormal
+values should prompt imaging studies) [IV, A]
+
+Serum Ctn and CEA every 3 to 6 months to
+determine doubling timesc [IV, A]
+Neck US every 6 to 12 months depending on
+Ctn and CEA doubling timesc [IV, B]
+Other imaging modalitiesa depending on Ctnd
+and CEA levels and their doubling timesc [IV, B]
+
+Structural incomplete response
+Structural evidence of disease (regardless Ctn and CEA levels)
+
+Stable diseasee
+
+Active surveillance
+[IV, B]
+Cross-sectional imaging
+at 3 months; if stable
+disease, repeat imaging
+at 6 months
+Ctn and CEA
+doubling timesc
+
+Progressivee, symptomatic disease
+
+Single lesion
+
+Multiple lesions
+
+Locoregional therapy
+[IV, B]
+
+Systemic therapy:
+Cabozantinib [I, A]
+Vandetanib [I, A; MCBS 2]f
+
+Figure 7. Recommendations for postoperative management of MTC patients.
+a
+Multimodality imaging should be used to identify and to follow locoregional and/or distant metastases (see ‘Follow-up, long-term implications and survivorship’ section).
+b
+Based on own institution cut-off.
+c
+Serum Ctn and CEA doubling times are efﬁcient tools for predicting tumour progression. Doubling times shorter than 24 months are associated with progressive disease [149].
+d
+Clinically relevant disease sites are rarely detected in patients with Ctn levels <150 pg/ml.
+e
+Stable or progressive disease according to RECIST 1.1 [94]. In patients with stable disease, a large tumour burden may warrant either a
+locoregional or systemic therapy.
+f
+ESMO-MCBS v1.1 score for new therapy/indication approved by the EMA since 1 January 2016. The score has been calculated by the ESMOMCBS Working Group and validated by the ESMO Guidelines Committee.
+CEA, carcinoembryonic antigen; Ctn, calcitonin; EMA, European Medicines Agency; ESMO-MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale;
+MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; MTC, medullary thyroid cancer; RECIST, Response Evaluation Criteria in Solid Tumours; US,
+ultrasound.
+
+genetic counselling and be screened for germline RET mutations
+[IV, A] [142, 143]. Strong genotype–phenotype associations
+affecting age at onset (most MTCs occur either in childhood or
+early adulthood) and tumour aggressiveness have been reported
+for specific germline RET mutations. MTCs harbouring somatic
+RET mutations are also commonly associated with more aggressive behaviour than that of their wild-type RET counterparts. The
+vast majority (91.4%) of sporadic MTCs with distant metastases
+harbour such mutations, in most cases RET M918T (93.8%)
+[144]. There is currently no evidence supporting the value of routine screening of MTC patients for somatic RET mutations.
+However, if treatment of advanced MTCs with selective RET
+inhibitors is planned, RET testing for somatic mutations is
+needed to individualise therapy [III, C].
+
+Staging and risk assessment
+The UICC system is recommended for staging all MTC patients,
+based on its utility in predicting disease-specific mortality [IV, A]
+
+Volume 30 | Issue 12 | 2019
+
+[23]. The eighth edition of this system has introduced some important changes in the criteria used for staging thyroid tumours,
+including MTCs. Extrathyroidal extension, for example, is now
+important only when it is macroscopically evident (pT3b) [23].
+In the absence of gross extracapsular extension, the primary will
+be staged solely on the basis of its size (pT1, pT2 or pT3a)
+(Table 2).
+Ctn and CEA are valuable diagnostic, prognostic and predictive markers for use with MTC. Their serum concentrations are
+directly related to the C-cell mass [145, 146]. Preoperative Ctn
+levels correlate strongly with tumour diameter and postoperative
+Ctn levels. They can also provide useful preoperative information
+on the extent of the disease. An analysis of 300 consecutive cases
+of MTC treated with total thyroidectomy and compartmentoriented lymph node dissections found that preoperative serum
+Ctn levels <20 pg/ml (normal reference range: <10 pg/ml) were
+associated with almost no risk of nodal metastases [147]. Basal
+serum Ctn levels exceeding 20 pg/ml were associated with nodal
+
+doi:10.1093/annonc/mdz400 | 1873
+
+Special article
+metastases to the ipsilateral compartments of the neck (central
+and lateral); higher levels were associated with increasingly extensive locoregional spread (levels >50 pg/ml: nodes of the contralateral central compartment of the neck; levels >200 pg/ml:
+nodes of the contralateral lateral compartment; levels >500 pg/
+ml: upper mediastinal nodes). Serum Ctn levels exceeding
+500 pg/ml suggest distant metastatic disease and should be
+explored with additional whole-body imaging procedures.
+Serum Ctn should be measured 60–90 days after thyroidectomy.
+Patients whose postoperative basal serum Ctn level is normal
+(<10 pg/ml) are considered ‘biochemically cured’ and have a 10year survival rate of 97.7%. However, 3% of patients with normal
+basal serum Ctn levels following thyroidectomy experience biochemical recurrence within 7.5 years [143]. CEA is not a specific
+biomarker for MTC, and serum assays are not informative for the
+early diagnosis of MTC. However, they are useful for monitoring
+the progression of clinically evident MTCs [IV, B] [148–150].
+Doubling times for postoperative serum Ctn and CEA levels
+(defined as the interval of time in which the tumour markers levels have doubled) are established prognostic markers in MTC
+[IV, B] [148–150]. They are currently considered the best available predictors of tumour behaviour, recurrence and cancerrelated death. A Ctn doubling time exceeding 6 months is associated with 5- and 10-year survival rates of 92% and 37%, respectively; shorter doubling times predict markedly worse survival
+(25% and 8% at 5 and 10 years, respectively) [148]. In patients
+with poorly differentiated and aggressive MTCs, Ctn values may
+actually decrease over time, whereas CEA levels increase [151].
+Details on the use of Ctn and CEA doubling times are available
+below in the ‘Follow-up, long-term implications and survivorship’ section.
+
+Management of local/locoregional disease
+Surgery. Preoperative screening for pheochromocytoma and
+hyperparathyroidism is highly recommended for all patients with
+MTC (except in those already known to have MEN2B) [IV, A]
+[142, 143]. Neck US should be carried out to identify regional
+metastases; if sonographic (or clinical) findings are suspicious,
+contrast-enhanced CT of the neck and chest is indicated. Workup for distant metastases, including chest CT, liver and axial bone
+MRI and 6-fluoro-(18F)-L-dihydroxyphenylalanine (FDOPA)PET scan (if available), should be done if serum Ctn levels exceed
+500 pg/ml or clinical findings are suspicious. Neck dissection,
+when needed, should be done by surgeons with substantial experience in TC surgery. The initial approach will depend on preoperative serum Ctn levels and neck imaging findings (Figure 6)
+[IV, B]. The guidelines in the algorithm are based on retrospective cohort studies [147, 152]. The grade B recommendation is
+based on the clinical benefits of elective neck dissection in
+patients with serum Ctn levels <500 pg/ml, for whom surgery
+may be curative.
+For carriers of germline mutations, the recommended age for
+prophylactic total thyroidectomy depends on the type of mutation. Individuals with germline M918T mutations should undergo total thyroidectomy within the first year of life. For those with
+a C634F or A883F mutation (also considered high risk), surgery
+can be postponed until age 5 unless Ctn levels increase. Those
+with other mutations should be monitored from age 5 on with
+
+1874 | Filetti et al.
+
+Annals of Oncology
+Ctn assays and neck US, and surgery should be done if Ctn levels
+increase or if the parents request it [143].
+
+Follow-up, long-term implications and survivorship
+Ctn and CEA monitoring should both be included in the early
+and long-term postoperative staging work-ups [IV, B] [150].
+Serial measurements allow the calculation of doubling times,
+which provide useful information as described above. Currently
+available data indicate that Ctn doubling times should be based
+on at least four consecutive measurements, preferably obtained
+over a 2-year period [IV, C] [142, 143]. All measurements must
+be made by the same laboratory using the same assay. The ATA
+provides an online calculator for rapid determination of doubling
+times from user-supplied series of serum Ctn or serum CEA levels
+[153]. Figure 7 summarises MTC management strategies guided
+by Ctn and CEA levels and doubling times. Clinically relevant disease sites are rarely detected in patients with Ctn levels <150 pg/
+ml, but the likelihood of structural disease increases as Ctn and
+CEA levels rise.
+Multiple imaging modalities should be used to identify locoregional and/or distant metastases [IV, B] [142, 143]. Contrastenhanced whole-body (brain, neck, thorax, abdomen and pelvis)
+CT with ultra-thin reconstructions is sensitive and specific
+enough to allow one to estimate the burden of systemic disease
+and to assess and identify target lesions. Target and non-target
+lesions to assess are measured using RECIST v1.1 [94]. Contrastenhanced MRI is more sensitive in identifying liver lesions, which
+can be misdiagnosed on CT or US as benign cystic lesions. US is
+useful for assessing neck lymph node involvement, although, as
+mentioned before, it sometimes provides inadequate visualisation of deep structures and those acoustically shadowed by bone
+or air. For these structures, CT and MRI are more sensitive, provide greater morphological detail, and are recommended when
+surgical interventions, EBRT or other locoregional ablative
+approaches are being planned. MRI is recommended for identifying or excluding brain metastases. Bone scans in MTC patients
+are high in sensitivity but low in specificity. Whole-body
+bone MRI without contrast medium offers higher specificity,
+particularly for osteoblastic lesions. Contrast enhancement is
+recommended when extraosseous extension or compression
+of the spinal cord or other neurological structures is suspected.
+Endoscopic exploration of the upper digestive tract and
+airways is mandatory whenever there is a high suspicion of
+infiltration.
+As indolent tumours, MTCs generally display low avidity for
+FDG, so FDG–PET–CT is not recommended for their staging,
+but it can be useful for assessing advanced disease characterised
+by dedifferentiation and rapid progression [151]. FDOPA–PET
+has high sensitivity and specificity in MTC [154, 155] and it can
+reveal unidentified metastases or small lesions, but cost and availability issues make it unsuitable. Gallium-68 (68Ga) somatostatin
+analogue PET–CT is relatively insensitive and is not useful for
+staging, but it does reflect expression of somatostatin receptors,
+which is useful information when the feasibility of radionuclide
+therapy is being explored [156].
+
+Volume 30 | Issue 12 | 2019
+
+Annals of Oncology
+
+Special article
+
+Table 7. Summary of recommendations
+Diagnosis and pathology/molecular biology
+• For all TCs, pathological diagnoses should be made according the 2017 WHO classiﬁcation [IV, A]
+• All patients with MTC should be offered genetic counselling and screened for germline RET mutations [IV, A]
+Staging and risk assessment
+• The UICC TNM staging system (eighth edition) provides an estimated mortality risk. All prognostically relevant morphological parameters should be
+reviewed and described in the ﬁnal pathology report [IV, A]
+• The initial estimate of the risk of persistent/recurrent disease should be revised during follow-up to reﬂect the evolution of the disease and responses to
+treatments [IV, A]
+• Doubling times for postoperative serum Ctn and CEA levels are established prognostic markers in MTC [IV, B]
+Primary tumour management
+DTC
+Surgery
+• Active US surveillance of the thyroid and neck lymph node (every 6–12 months) can be proposed for unifocal papillary microcarcinomas (10 mm)
+with no evidence of extracapsular extension or lymph node metastases [III, B]
+• Lobectomy (instead of total thyroidectomy) may be proposed for selected low-risk (T1a–T1b–T2, N0) tumours [IV, B]
+• The use of prophylactic central neck dissection for low-risk tumours (T1b–T2, N0) varies from centre to centre [IV, C]. It may improve regional control for
+more invasive tumours (T3–T4) [IV, C]
+RAI therapy
+• RAI administration is not recommended for small (1 cm) intrathyroidal DTC with no evidence of locoregional metastases (classiﬁed as low-risk cases)
+[II, E]. There is less consensus regarding other low-risk DTCs [IV, C]: if RAI is given, low activities (30 mCi, 1.1 GBq) following rhTSH administration are recommended [I, A]
+• RAI therapy may be considered in intermediate-risk patients (30mCi, 1.1GBq to 100 mCi, 3.7 GBq; rhTSH administration or levothyroxine withdrawal)
+[IV, B]; decisions on RAI dosage and TSH stimulation modalities are based on case features
+• Treatment with high RAI activities (100 mCi, 3.7 GBq; rhTSH administration or levothyroxine withdrawal) is recommended for patients at high risks of
+recurrence [IV, A]
+ATC
+Surgery
+• ATC is rarely amenable to complete resection. Incomplete palliative resection (R2) or ‘debulking‘ does not affect prognosis and is not recommended
+[IV, E]
+Radiotherapy
+• Optimal outcomes in terms of survival and local disease control in ATC require complete or near-complete (R0 or R1) resection followed by high-dose
+EBRT, with or without concomitant ChT [V, A]
+• For best outcomes, PORT must be delivered as soon as possible after surgery [IV, A]. IMRT is the recommended approach [IV, C]
+• Timely discussion by a multidisciplinary team is strongly recommended [V, A]
+MTC
+Surgery
+• The initial surgical approach depends on preoperative serum Ctn levels and neck imaging ﬁndings [IV, B]
+Follow-up, long-term implications and survivorship
+DTC
+• High-sensitivity (<0.2 ng/ml) assays of basal Tg can be used in lieu of TSH-stimulated Tg testing to verify the absence of disease (excellent response)
+[II, B]
+• Serial measurements of basal Tg should be obtained in patients on levothyroxine treatment with residual thyroid tissue (i.e. those treated with total thyroidectomy and RAI remnant ablation that proved incomplete or with total thyroidectomy alone) [IV, B]. A similar approach might be used following lobectomy [IV, C]
+• Neck US is the most effective tool for detecting structural disease in the neck, particularly when residual thyroid tissue is present
+• Other imaging studies are indicated if locoregional and/or distant metastases are suspected [IV, B], or in patients with known metastases [IV, A]
+• The follow-up protocol for minimally invasive FTCs is often the same one used for low-risk PTCs, although the evidence supporting such an approach is
+insufﬁcient [V, C]
+• TSH levels should be maintained in the low-normal range (0.5–2 lIU/ml) in all patients with excellent response to treatment and in low-risk patients
+with biochemical incomplete or indeterminate responses to treatment [IV, B]
+• Mild TSH suppression should be considered (0.1–0.5 lIU/ml) in patients at intermediate to high risk of recurrence with biochemical incomplete or indeterminate responses to treatment [IV, B]
+MTC
+• Ctn and CEA monitoring should both be included in the early and long-term postoperative staging work-ups [IV, B]
+• Multiple imaging modalities should be used to identify locoregional and/or distant metastases [IV, B]
+Continued
+
+Volume 30 | Issue 12 | 2019
+
+doi:10.1093/annonc/mdz400 | 1875
+
+Special article
+
+Annals of Oncology
+
+Table 7. Continued.
+Management of advanced/metastatic disease
+DTC
+Radioactive iodine therapy
+• Patients with distant metastases should receive 100–200 mCi (3.7–7.4 GBq) of 131I after TSH stimulation [IV, A]
+• Non-RAI-avid lesions and those that lose their ability to concentrate RAI or progress despite RAI avidity should be considered RAI-refractory [IV, A]
+• Between treatments, suppressive doses of levothyroxine are given to maintain serum TSH levels <0.1 lIU/ml (unless there are speciﬁc contraindications)
+[III, B]
+Locoregional therapy
+• Single lesions that are symptomatic or progressive may be eligible for locoregional treatments (e.g. palliative surgery, EBRT, percutaneous therapies)
+• Bone resorption inhibitors (bisphosphonates and denosumab) can be used alone or combined with locoregional treatments in the management of thyroid cancer-related bone metastases [V, B]
+• There is limited evidence that conservative techniques (RFA, cryotherapy) are effective for treating TC-related bone lesions [V, B]
+• Metastasectomy is not the standard approach for lung metastases but it may be considered for oligometastasis in patients with good PS [V, C]
+• RFA is a possibility for solitary lung lesions or those causing a speciﬁc symptom due to their volume and location [V, C]
+• Invasion of the upper aerodigestive tract should always be excluded in TC patients with locoregional disease
+Systemic therapy and personalised medicine
+• TSH suppression (serum level <0.1 lIU/mL) is recommended for all TC patients with persistent structural disease in the absence of speciﬁc contraindications [III, B]
+• Decisions on whether or not to use MKIs must always be based on patient preference after a careful discussion with the managing physician of the
+expected beneﬁts and risks associated with speciﬁc drugs
+• Lenvatinib and sorafenib should be considered the standard ﬁrst-line systemic therapy for RAI-refractory DTC [I, A; ESMO-MCBS v1.1 scores: 3 for lenvatinib, 2 for sorafenib]
+ATC
+Systemic therapy and personalised medicine
+• Clinical trial enrolment should be encouraged for patients with good clinical PS [V, B]
+• Patients with BRAF V600E-positive malignancies should be treated with the BRAF inhibitor dabrafenib (150 mg twice daily) plus the MEK inhibitor trametinib (2 mg once daily) if they are available [V, B]
+MTC
+Systemic therapy and personalised medicine
+• Cabozantinib [I, A] and vandetanib [I, A; ESMO-MCBS v1.1 score: 2] are the ﬁrst-line systemic therapy for patients with progressive, metastatic MTC
+• In patients with RETM918T or RAS-mutant MTCs, cabozantinib offers signiﬁcant PFS and OS advantages over wild-type MTCs [II, C]
+• There is little evidence to support the use of either ChT or radionuclide therapy in patients with MTC, although either might be considered when
+MKIs are contraindicated
+131
+
+I, iodine-131; ATC, anaplastic thyroid cancer; CEA, carcinoembryonic antigen; ChT, chemotherapy; Ctn, calcitonin; DTC, differentiated thyroid cancer;
+EBRT, external beam radiotherapy; ESMO-MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; FTC, follicular thyroid cancer; IMRT, intensity-modulated radiotherapy; MKI, multikinase inhibitor; MTC, medullary thyroid cancer; OS, overall survival; PFS, progression-free survival; PORT, postoperative radiotherapy; PS,
+performance status; PTC, papillary thyroid cancer; R0, no residual tumour; R1, microscopic residual tumour; R2, macroscopic residual tumour; RAI, radioactive iodine; RFA, radiofrequency ablation; rhTSH, recombinant human thyroid-stimulating hormone; TC, thyroid cancer; Tg, thyroglobulin; TNM, tumour,
+node, metastasis; TSH, thyroid-stimulating hormone; UICC, Union for International Cancer Control; US, ultrasound; WHO, World Health Organisation.
+
+Management of advanced/metastatic disease
+Distant metastases are present at diagnosis in roughly 10% of all
+MTC patients, but higher rate (19%–38%) are encountered during follow-up [157]. Disease behaviour varies widely—indolent
+in some cases, rapidly progressive in others—and can be reliably
+predicted by Ctn and CEA doubling times. Advanced MTCs are
+invariably associated with the secretion of a variety of peptides
+(e.g. prostaglandins, kinins, vasoactive intestinal peptide, serotonin, histaminase), which can cause unpleasant symptoms such
+as flushing and diarrhoea. Management of these symptoms
+should be the first goal of treatment.
+The systemic therapies currently approved for MTC have not
+been shown to improve OS, so evidence-based guidance is lacking
+on when to start these drugs and how patients with indolent
+
+1876 | Filetti et al.
+
+disease should be followed. Decisions are based mainly on clinicians’ experience. Multidisciplinary input (e.g. from surgeons,
+endocrinologists, nuclear medicine physicians, medical and radiation oncologists, pain therapists and palliative care specialists) is
+strongly recommended to ensure optimal care for these patients.
+Active treatment (e.g. locoregional or systemic MKI administration) should be considered in the presence of symptoms, lesions
+close to vital structures, high-tumour burdens or disease progression (as defined by RECIST v1.1) [94].
+Systemic therapy and personalised medicine.
+First-line systemic therapy: Cabozantinib [I, A] and vandetanib
+[I, A; ESMO-MCBS v1.1 score: 2] are the first-line systemic treatments for progressive metastatic MTC. Their EMA and FDA
+
+Volume 30 | Issue 12 | 2019
+
+Disease setting
+
+Volume 30 | Issue 12 | 2019
+
+Unresectable locally advanced
+or metastatic hereditary or
+sporadic medullary thyroid
+cancer
+
+Radioactive iodine-refractory,
+locally advanced or metastatic differentiated thyroid
+cancer
+
+Vandetanib in patients with
+locally advanced or metastatic medullary thyroid cancer: a randomised, doubleblind phase III trial (ZETA)
+[158]
+Phase III
+NCT00410761
+
+Sorafenib in radioactive iodine-refractory, locally
+advanced or metastatic differentiated thyroid cancer: a
+randomised, double-blind,
+phase III trial (DECISION)
+[96]
+Phase III
+NCT00984282
+
+Lenvatinib versus placebo in
+radioiodine-refractory thyroid cancer (SELECT) [97]
+Phase III
+NCT01321554
+
+Trial
+
+PFS gain: 11.2 months
+(reported estimate)
+OS immature, not signiﬁcant
+
+PFS gain: 5.0 months
+OS immature, not signiﬁcant
+
+Placebo mPFS:
+5.8 months
+
+Placebo mPFS:
+19.3 months
+
+PFS gain: 14.7 months
+OS immature, not signiﬁcant
+
+Absolute survival gain
+
+Placebo mPFS:
+3.6 months
+
+Control
+
+PFS: HR 0.46 (0.31–
+0.69)
+
+PFS: HR 0.59 (0.45–
+0.76)
+
+PFS: HR 0.21 (0.16–
+0.28)
+
+HR (95% CI)
+
+Increased toxicity
+
+Increased toxicity
+
+QoL/Toxicity
+
+2 (Form 2b)
+
+2 (Form 2b)
+
+3c (Form 2b)
+
+ESMO-MCBS
+scoreb
+
+b
+
+EMA approvals since January 2016.
+ESMO-MCBS version 1.1 [165]. The scores have been calculated by the ESMO-MCBS Working Group and validated by the ESMO Guidelines Committee.
+c
+Substantial toxicity was reported but this was not captured by the current ESMO-MCBS toxicity penalty criteria and, consequently, toxicity adjustment could not be applied.
+CI, conﬁdence interval; EGFR, epidermal growth factor receptor; EMA, European Medicines Agency; ESMO-MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; HR, hazard ratio; MKI, multikinase inhibitor; mPFS, median progression-free survival; OS, overall survival; PDGFR, platelet-derived growth factor receptor; PFS, progression-free survival; QoL, quality of life; VEGFR, vascular endothelial growth factor receptor.
+
+a
+
+Medullary thyroid cancer
+Vandetanib (MKI targeting
+RET, VEGFR2 and EGFR)
+
+Sorafenib (MKI targeting
+VEGFR, PDGFR and Raf
+family kinases)
+
+Differentiated thyroid cancer
+Lenvatinib (MKI targeting
+Progressive thyroid cancer
+VEGFR1, VEGFR2 and
+that was refractory to iodVEGFR3)
+ine-131
+
+Therapy
+
+Table 8. ESMO-MCBS table for new therapies/indications in thyroid cancera
+
+Annals of Oncology
+
+Special article
+
+doi:10.1093/annonc/mdz400 | 1877
+
+Special article
+Table 9. Levels of evidence and grades of recommendation (adapted from
+the Infectious Diseases Society of America–United States Public Health
+Service Grading Systema)
+Levels of evidence
+I
+Evidence from at least one large randomised, controlled trial of
+good methodological quality (low potential for bias) or metaanalyses of well-conducted randomised trials without
+heterogeneity
+II
+Small randomised trials or large randomised trials with a suspicion
+of bias (lower methodological quality) or meta-analyses of such
+trials or of trials with demonstrated heterogeneity
+III
+Prospective cohort studies
+IV
+Retrospective cohort studies or case–control studies
+V
+Studies without control group, case reports, experts opinions
+Grades of recommendation
+A
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt,
+strongly recommended
+B
+Strong or moderate evidence for efﬁcacy but with a limited clinical beneﬁt, generally recommended
+C
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh
+the risk or the disadvantages (adverse events, costs, etc.) optional
+D
+Moderate evidence against efﬁcacy or for adverse outcome, generally not recommended
+E
+Strong evidence against efﬁcacy or for adverse outcome, never
+recommended
+a
+
+By permission of the Infectious Diseases Society of America [166].
+
+approval for these cases was based on their documented ability to
+improve PFS [158, 159]. Both drugs inhibit RET kinase activity
+to some extent, and this was the major reason they were originally
+proposed for treating MTC patients. However, their antitumour
+effect is mainly due to their strong inhibition of key angiogenic
+pathway components, including vascular endothelial growth factor receptor type 2 (VEGFR2).
+The ZETA trial compared vandetanib (300 mg daily) with placebo (2 : 1) in 331 patients with symptomatic and/or metastatic
+MTC [158]. Radiological evidence of disease progression was not
+an enrolment requirement, and placebo-to-vandetanib crossover
+was allowed if disease progression occurred. The predicted mPFS
+in the vandetanib arm was significantly longer than that observed
+in the placebo group (30.5 versus 19.3 months; HR 0.46, 95% CI
+0.31–0.69, P < 0.001). The ORR was also higher in the vandetanib
+arm (45% versus 13% for placebo, OR 5.48, 95% CI 2.99–10.79,
+P < 0.001), and all but one of the responses in the placebo arm
+were recorded after crossover to vandetanib. Radiological
+responses were accompanied by significant biochemical
+responses (reductions in Ctn and CEA levels in 69% and 52% of
+cases, respectively). Vandetanib exhibited activity independently
+of the tumour’s RET status, previous treatment, metastasis
+site(s), disease progression status and tumour burden. When the
+ZETA data were first published, no survival advantage was
+reported for patients managed with vandetanib and no updates
+have been published since then. In a phase I/II trial of vandetanib
+in children with MTC (two courses at 100 mg/day, then 150 mg/
+day), partial responses were seen in 47% patients, and the AE profile resembled that observed in adults [160].
+
+1878 | Filetti et al.
+
+Annals of Oncology
+In the EXAM trial, cabozantinib (140 mg daily) was tested
+against placebo (2 : 1) in 330 patients with metastatic MTC [159].
+The main inclusion criterion was disease progression within the
+14 months preceding study entry. Prior therapy, including MKIs,
+was allowed, and crossover was not permitted. Compared with
+placebo, cabozantinib was associated with a significantly longer
+mPFS (11.2 versus 4.0 months, HR 0.28, 95% CI, 0.19–0.40,
+P < 0.001) and a higher rate of responses (all partial) (28% versus
+0%, median duration 14.7 months). Efficacy was observed across
+all subgroups, regardless of age, tumour location, tumour burden, progression rate, prior kinase inhibitor treatment (in 20% of
+patients) or RET/RAS mutation status. mOS rates were similar in
+the two arms (26.6 versus 21.1 months, HR 0.85, 95% CI 0.64–
+1.12, P ¼ 0.024), but in the subgroup with RETM918T-positive
+MTCs, cabozantinib was associated with significantly longer survival (44.3 versus 18.9 months with placebo, HR 0.60, 95% CI
+0.38–0.94, P ¼ 0.03). PFS was consistent with OS in the
+RETM918T-positive cases (HR 0.15, 95% CI 0.08–0.28,
+P < 0.0001) [161].
+Although the ZETA and EXAM trials both focused on patients
+with advanced and/or metastatic disease, their designs and inclusion criteria were different. The markedly longer mPFS in the placebo arm of the ZETA trial—19.3 months [158] versus 4 months
+in EXAM [159]—suggests population differences. Indeed, unlike
+ZETA participants, those enrolled in EXAM had to meet RECIST
+criteria for disease progression and were thus likely to have more
+advanced disease. The results of the two trials are therefore not
+comparable, and there is no clear evidence supporting vandetanib
+over cabozantinib as first-line treatment. Both are active in firstand second-line regimens, both prolonged PFS compared with
+placebo and both displayed RET/RAS status-independent efficacy. The choice of which drug to use as first-line treatment may
+be based on potential toxicity in each patient (see below).
+However, cabozantinib, in a subgroup analysis, demonstrated a
+significant advantage in PFS and OS in patients with RETM918T
+or RAS-mutant MTCs [II, C] [161]. As noted for lenvatinib, recently released real world data on the efficacy of vandetanib in
+MTC patients are somewhat less encouraging than those generated in the highly selected population of RCTs [162].
+Other anti-angiogenic MKIs (e.g. sorafenib, motesanib, pazopanib, sunitinib, lenvatinib) have already undergone phase II
+testing in advanced MTC patients. The most interesting results
+regarded sunitinib and lenvatinib, which were associated with
+response rates of 50% and 36%, respectively [157]. Thus far,
+however, no MKIs have been approved for second-line use. A
+randomised trial assessing the efficacy of nintedanib as secondline MKI therapy was prematurely closed due to flat enrolment
+(NCT01788982). The more selective RET inhibitors (e.g.
+LOXO-292-NCT03157128, BLU-667-NCT03037385) appear
+promising and are now under investigation. The RETsuppressing activity of these drugs is essential to their antitumour effects in MTC, whereas their anti-angiogenic activity is
+negligible.
+Management of side-effects: AEs are very common during MKI
+therapy, and their management is critical for optimising these
+compounds’ therapeutic ratios. In the ZETA trial, 35% of the
+patients in the vandetanib arm required dose reductions and 12%
+discontinued treatment due to toxicity [158]. The most common
+
+Volume 30 | Issue 12 | 2019
+
+Special article
+
+Annals of Oncology
+AEs (reported in >30% of patients receiving vandetanib) were
+diarrhoea, rash, nausea and hypertension. Corrected QT interval
+(QTc) prolongation was a severe, unexpected side-effect in 8% of
+cases. Attempts to reduce the rate of grade 2 or higher AEs with
+an active support programme (including patient contact/visit
+every 2 weeks and supportive agents such as sunscreen and loperamide) have been unsuccessful [163]. AEs were also common
+in the EXAM trial, with grade 3 or 4 AEs in 69% of patients
+receiving cabozantinib. The most common were diarrhoea
+(15.9%), hand–foot syndrome (12.6%) and fatigue (9.3%). Preexisting disease-related diarrhoea can be worsened by MKI therapy (as a drug-related AE) or improved as a direct effect of the
+drug’s activity. Increased TSH levels were reported in 57% of the
+cabozantinib-treated patients. TSH levels should be monitored
+continuously during treatment, as these patients are generally on
+hormone-replacement therapy if they have undergone total thyroidectomy. Levels should be kept within the normal range: TSH
+suppression produces no benefits in patients with MTC (unlike
+those with DTC). AEs associated with VEGF-pathway inhibition
+(e.g. hypertension, haemorrhage, fistula formation, gastrointestinal perforation) occurred more frequently among
+cabozantinib-treated patients than in those treated with placebo.
+In the EXAM trial, 79% of patients in the cabozantinib arm
+had dose reductions, 65% interrupted treatment due to AEs, and
+16% stopped treatment because of toxicities. Randomised trials
+are underway to assess the activities of lower, potentially less
+toxic doses of vandetanib (150 versus 300 mg, NCT01496313)
+and cabozantinib (140 mg capsules versus 60 mg pills,
+NCT01896479).
+The preliminary results comparing the effects of the two doses
+of vandetanib in patients with advanced MTC have been posted
+on ClinicalTrials.gov and showed that the starting dose of 150 mg
+is equally effective as the high 300 mg dose in term of ORR.
+Interruption of treatment and dose reductions are the most
+common means for managing AEs. Most decrease in intensity
+after a few days of withdrawal, but vandetanib AEs may be more
+persistent, given the drug’s 19-day half-life. However, frequent
+interruptions might reduce the efficacy of MKIs and/or trigger
+certain escape mechanisms. Most AEs (e.g. hypertension, diarrhoea) are well known and preventable. Useful guidelines for preventing and managing treatment-related AEs in these complex
+cases have been published by several societies. As for fertility preservation, the same measures taken for DTC patients are valid for
+those with MTC.
+Conventional systemic ChT and radionuclide therapy:
+Systemically administered ChT has historically yielded poor
+results in MTC. The available data have been generated by retrospective analyses of small, single-institution cases series. The
+most active drugs have been doxorubicin alone or combined with
+cisplatin, which achieved a response in around 20% at best, or as
+a combination with 5-fluorouracil and dacarbazine which did
+not result in much greater responses [157].
+Radionuclide therapy is an option in selected cases [III, C]. The
+activity of yttrium-90–DOTA-[D-Phe1-Tyr3]-octreotide (90YDOTATOC) was tested in a phase II trial including 31 patients
+with metastatic MTC and increasing Ctn levels. Post-treatment
+decreases in Ctn levels (the primary endpoint) occurred in 29%
+of the patients treated, and survival benefits were also observed in
+
+Volume 30 | Issue 12 | 2019
+
+the responders [164]. RCTs have not been carried out to compare
+the efficacies of radionuclide and MKI therapies. Ideally, this
+comparison should be done within a clinical trial setting. In short,
+there is little evidence to support the use of either ChT or radionuclide therapy in patients with MTC, although either might be
+considered when MKIs are contraindicated.
+
+Methodology
+These Clinical Practice Guidelines were developed in accordance
+with the ESMO standard operating procedures for Clinical
+Practice Guidelines development, http://www.esmo.org/
+Guidelines/ESMO-Guidelines-Methodology. The relevant literature has been selected by the expert authors. A summary of recommendations is provided in Table 7. An ESMO-MCBS table
+with MCBS scores is included in Table 8. ESMO-MCBS v1.1 was
+used to calculate scores for new therapies/indications approved
+by the EMA since 1 January 2016. [165]. Levels of evidence and
+grades of recommendation have been applied using the system
+shown in Table 9 [166]. Statements without grading were considered justified standard clinical practice by the experts and the
+ESMO faculty. This manuscript has been subjected to an anonymous peer-review process.
+
+Acknowledgements
+The ESMO Guidelines Committee would like to thank the
+ESMO Faculty and other experts who provided critical reviews
+of these ESMO Clinical Practice Guidelines.
+
+Funding
+No external funding has been received for the preparation of
+these guidelines. Production costs have been covered by ESMO
+from central funds.
+
+Disclosure
+CD has reported advisory boards for EISAI; SL has reported advisory boards for EISAI, Bayer, AstraZeneca, Sanofi Genzyme;
+LDL has reported advisory boards for EISAI and consulting activity for IPSEN; all remaining authors have declared no conflicts of interest.
+
+References
+1.
+
+2.
+3.
+
+4.
+
+European Network of Cancer Registries Factsheets. https://www.encr.
+eu/sites/default/files/factsheets/ENCR_Factsheet_Thyroid_2017.pdf (12
+June 2019, date last accessed).
+Kitahara CM, Sosa JA. The changing incidence of thyroid cancer. Nat
+Rev Endocrinol 2016; 12(11): 646–653.
+Dal Maso L, Tavilla A, Pacini F et al. Survival of 86,690 patients with
+thyroid cancer: a population-based study in 29 European countries
+from EUROCARE-5. Eur J Cancer 2017; 77: 140–152.
+Vaccarella S, Franceschi S, Bray F et al. Worldwide thyroid-cancer epidemic? The increasing impact of overdiagnosis. N Engl J Med 2016;
+375(7): 614–617.
+
+doi:10.1093/annonc/mdz400 | 1879
+
+Special article
+5.
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+12.
+
+13.
+
+14.
+
+15.
+16.
+17.
+
+18.
+
+19.
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+Ahn HS, Welch HG. South Korea’s thyroid-cancer “epidemic”–turning
+the tide. N Engl J Med 2015; 373(24): 2389–2390.
+Bibbins-Domingo K, Grossman DC, Curry SJ et al. Screening for thyroid cancer: US Preventive Services Task Force Recommendation
+Statement. JAMA 2017; 317: 1882–1887.
+Pacini F, Schlumberger M, Dralle H et al. European consensus for the
+management of patients with differentiated thyroid carcinoma of the
+follicular epithelium. Eur J Endocrinol 2006; 154(6): 787–803.
+Haugen BR, Alexander EK, Bible KC et al. 2015 American Thyroid
+Association management guidelines for adult patients with thyroid
+nodules and differentiated thyroid cancer: the American Thyroid
+Association Guidelines Task Force on Thyroid Nodules and
+Differentiated Thyroid Cancer. Thyroid 2016; 26(1): 1–133.
+Mitchell AL, Gandhi A, Scott-Coombes D, Perros P. Management of
+thyroid cancer: United Kingdom National Multidisciplinary
+Guidelines. J Laryngol Otol 2016; 130(S2): S150–S160.
+Pacini F, Basolo F, Bellantone R et al. Italian consensus on diagnosis
+and treatment of differentiated thyroid cancer: joint statements of six
+Italian societies. J Endocrinol Invest 2018; 41(7): 849–876.
+Cibas ES, Ali SZ, NTFSotS C. The Bethesda system for reporting thyroid
+cytopathology. Am J Clin Pathol 2009; 132(5): 658–665.
+Maletta F, Massa F, Torregrossa L et al. Cytological features of
+“noninvasive follicular thyroid neoplasm with papillary-like nuclear
+features” and their correlation with tumor histology. Hum Pathol 2016;
+54: 134–142.
+Nikiforova MN, Mercurio S, Wald AI et al. Analytical performance of
+the ThyroSeq v3 genomic classifier for cancer diagnosis in thyroid nodules. Cancer 2018; 124(8): 1682–1690.
+Nikiforov YE, Seethala RR, Tallini G et al. Nomenclature revision for
+encapsulated follicular variant of papillary thyroid carcinoma: a paradigm shift to reduce overtreatment of indolent tumors. JAMA Oncol
+2016; 2(8): 1023–1029.
+Williams ED. Guest editorial: two proposals regarding the terminology
+of thyroid tumors. Int J Surg Pathol 2000; 8(3): 181–183.
+Lloyd RV, Osamura RY, Klöppel G, Rosai J (Eds). WHO Classification
+of Tumors of Endocrine Organs. Lyon: IARC Press 2017.
+Asioli S, Erickson LA, Sebo TJ et al. Papillary thyroid carcinoma with
+prominent hobnail features: a new aggressive variant of moderately differentiated papillary carcinoma. A clinicopathologic, immunohistochemical, and molecular study of eight cases. Am J Surg Pathol 2010;
+34(1): 44–52.
+Volante M, Collini P, Nikiforov YE et al. Poorly differentiated thyroid
+carcinoma: the Turin proposal for the use of uniform diagnostic criteria
+and an algorithmic diagnostic approach. Am J Surg Pathol 2007; 31(8):
+1256–1264.
+Cancer Genome Atlas Research Network. Integrated genomic characterization of papillary thyroid carcinoma. Cell 2014; 159: 676–690.
+Ibrahimpasic T, Xu B, Landa I et al. Genomic alterations in fatal forms
+of non-anaplastic thyroid cancer: identification of MED12 and RBM10
+as novel thyroid cancer genes associated with tumor virulence. Clin
+Cancer Res 2017; 23(19): 5970–5980.
+Landa I, Ibrahimpasic T, Boucai L et al. Genomic and transcriptomic
+hallmarks of poorly differentiated and anaplastic thyroid cancers. J Clin
+Invest 2016; 126(3): 1052–1066.
+Pozdeyev N, Gay LM, Sokol ES et al. Genetic analysis of 779 advanced
+differentiated and anaplastic thyroid cancers. Clin Cancer Res 2018;
+24(13): 3059–3068.
+Brierley JD, Gospodarowicz MK, Wittekind C. UICC TNM
+Classification of Malignant Tumours, 8th edition. Oxford: John Wiley
+& Sons Inc. 2016.
+Grani G, Lamartina L, Durante C et al. Follicular thyroid cancer
+and Hurthle cell carcinoma: challenges in diagnosis, treatment,
+and clinical management. Lancet Diabetes Endocrinol 2018; 6:
+500–514.
+Moon S, Song YS, Kim YA et al. Effects of coexistent BRAF(V600E) and
+TERT promoter mutations on poor clinical outcomes in papillary thyroid cancer: a meta-analysis. Thyroid 2017; 27(5): 651–660.
+
+1880 | Filetti et al.
+
+Annals of Oncology
+26. Vuong HG, Altibi AMA, Duong UNP, Hassell L. Prognostic implication
+of BRAF and TERT promoter mutation combination in papillary thyroid carcinoma-a meta-analysis. Clin Endocrinol (Oxf) 2017; 87(5):
+411–417.
+27. Castagna MG, Maino F, Cipri C et al. Delayed risk stratification, to include the response to initial treatment (surgery and radioiodine ablation), has better outcome predictivity in differentiated thyroid cancer
+patients. Eur J Endocrinol 2011; 165(3): 441–446.
+28. Momesso DP, Vaisman F, Yang SP et al. Dynamic risk stratification in
+patients with differentiated thyroid cancer treated without radioactive
+iodine. J Clin Endocrinol Metab 2016; 101(7): 2692–2700.
+29. Park S, Kim WG, Song E et al. Dynamic risk stratification for predicting recurrence in patients with differentiated thyroid cancer treated without
+radioactive iodine remnant ablation therapy. Thyroid 2017; 27(4): 524–530.
+30. Tuttle RM, Tala H, Shah J et al. Estimating risk of recurrence in differentiated thyroid cancer after total thyroidectomy and radioactive iodine
+remnant ablation: using response to therapy variables to modify the initial risk estimates predicted by the new American Thyroid Association
+staging system. Thyroid 2010; 20(12): 1341–1349.
+31. Ito Y, Miyauchi A, Oda H. Low-risk papillary microcarcinoma of the
+thyroid: a review of active surveillance trials. Eur J Surg Oncol 2018;
+44(3): 307–315.
+32. Miyauchi A, Kudo T, Ito Y et al. Estimation of the lifetime probability
+of disease progression of papillary microcarcinoma of the thyroid during active surveillance. Surgery 2018; 163(1): 48–52.
+33. Adam MA, Pura J, Gu L et al. Extent of surgery for papillary thyroid
+cancer is not associated with survival: an analysis of 61,775 patients.
+Ann Surg 2014; 260(4): 601–605; discussion 605–607.
+34. Bilimoria KY, Bentrem DJ, Ko CY et al. Extent of surgery affects survival
+for papillary thyroid cancer. Ann Surg 2007; 246: 375–381; discussion
+381–374.
+35. Randolph GW, Shin JJ, Grillo HC et al. The surgical management of
+goiter: Part II. Surgical treatment and results. Laryngoscope 2011;
+121(1): 68–76.
+36. Hauch A, Al-Qurayshi Z, Randolph G, Kandil E. Total thyroidectomy is
+associated with increased risk of complications for low- and highvolume surgeons. Ann Surg Oncol 2014; 21(12): 3844–3852.
+37. Zhao WJ, Luo H, Zhou YM et al. Evaluating the effectiveness of prophylactic central neck dissection with total thyroidectomy for cN0 papillary
+thyroid carcinoma: an updated meta-analysis. Eur J Surg Oncol 2017;
+43(11): 1989–2000.
+38. Hughes DT, Rosen JE, Evans DB et al. Prophylactic central compartment neck dissection in papillary thyroid cancer and effect on locoregional recurrence. Ann Surg Oncol 2018; 25(9): 2526.
+39. Chen L, Wu YH, Lee CH et al. Prophylactic central neck dissection for
+papillary thyroid carcinoma with clinically uninvolved central neck
+lymph nodes: a systematic review and meta-analysis. World J Surg
+2018; 42(9): 2846.
+40. Barczynski M, Konturek A, Stopa M, Nowak W. Prophylactic central
+neck dissection for papillary thyroid cancer. Br J Surg 2013; 100:
+410–418.
+41. Pacini F, Ladenson PW, Schlumberger M et al. Radioiodine ablation of
+thyroid remnants after preparation with recombinant human thyrotropin in differentiated thyroid carcinoma: results of an international,
+randomized, controlled study. J Clin Endocrinol Metab 2006; 91(3):
+926–932.
+42. Luster M, Clarke SE, Dietlein M et al. Guidelines for radioiodine therapy of differentiated thyroid cancer. Eur J Nucl Med Mol Imaging 2008;
+35(10): 1941–1959.
+43. Lamartina L, Durante C, Filetti S, Cooper DS. Low-risk differentiated
+thyroid cancer and radioiodine remnant ablation: a systematic review
+of the literature. J Clin Endocrinol Metab 2015; 100(5): 1748–1761.
+44. Durante C, Attard M, Torlontano M et al. Identification and optimal
+postsurgical follow-up of patients with very low-risk papillary thyroid
+microcarcinomas. J Clin Endocrinol Metab 2010; 95(11): 4882–4888.
+45. Verburg FA, Aktolun C, Chiti A et al. Why the European Association of
+Nuclear Medicine has declined to endorse the 2015 American Thyroid
+
+Volume 30 | Issue 12 | 2019
+
+Annals of Oncology
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+Association management guidelines for adult patients with thyroid
+nodules and differentiated thyroid cancer. Eur J Nucl Med Mol Imaging
+2016; 43(6): 1001–1005.
+Tuttle RM, Ahuja S, Avram AM et al. Controversies, consensus, and collaboration in the use of (131)I therapy in differentiated thyroid cancer:
+a joint statement from the American Thyroid Association, the
+European Association of Nuclear Medicine, the Society of Nuclear
+Medicine and Molecular Imaging, and the European Thyroid
+Association. Thyroid 2019; 29: 461–470.
+Schlumberger M, Catargi B, Borget I et al. Strategies of radioiodine ablation in patients with low-risk thyroid cancer. N Engl J Med 2012;
+366(18): 1663–1673.
+Mallick U, Harmer C, Yap B et al. Ablation with low-dose radioiodine
+and thyrotropin alfa in thyroid cancer. N Engl J Med 2012; 366(18):
+1674–1685.
+Schlumberger M, Leboulleux S, Catargi B et al. Outcome after ablation
+in patients with low-risk thyroid cancer (ESTIMABL1): 5-year followup results of a randomised, phase 3, equivalence trial. Lancet Diabetes
+Endocrinol 2018; 6(8): 618–626.
+Dehbi HM, Mallick U, Wadsley J et al. Recurrence after low-dose radioiodine ablation and recombinant human thyroid-stimulating hormone
+for differentiated thyroid cancer (HiLo): long-term results of an openlabel, non-inferiority randomised controlled trial. Lancet Diabetes
+Endocrinol 2019; 7(1): 44–51.
+Lamartina L, Grani G, Durante C, Filetti S. Recent advances in managing differentiated thyroid cancer. F1000Res 2018; 7: 86.
+Giovanella L, Clark PM, Chiovato L et al. Thyroglobulin measurement
+using highly sensitive assays in patients with differentiated thyroid
+cancer: a clinical position paper. Eur J Endocrinol 2014; 171(2):
+R33–R46.
+Spencer CA. Clinical review: clinical utility of thyroglobulin antibody
+(TgAb) measurements for patients with differentiated thyroid cancers
+(DTC). J Clin Endocrinol Metab 2011; 96(12): 3615–3627.
+Crocetti U, Durante C, Attard M et al. Predictive value of recombinant
+human TSH stimulation and neck ultrasonography in differentiated
+thyroid cancer patients. Thyroid 2008; 18(10): 1049–1053.
+Brassard M, Borget I, Edet-Sanson A et al. Long-term follow-up of
+patients with papillary and follicular thyroid cancer: a prospective study
+on 715 patients. J Clin Endocrinol Metab 2011; 96(5): 1352–1359.
+Durante C, Montesano T, Attard M et al. Long-term surveillance of
+papillary thyroid cancer patients who do not undergo postoperative
+radioiodine remnant ablation: is there a role for serum thyroglobulin
+measurement? J Clin Endocrinol Metab 2012; 97(8): 2748–2753.
+Angell TE, Spencer CA, Rubino BD et al. In search of an unstimulated
+thyroglobulin baseline value in low-risk papillary thyroid carcinoma
+patients not receiving radioactive iodine ablation. Thyroid 2014; 24(7):
+1127–1133.
+Grani G, Fumarola A. Thyroglobulin in lymph node fine-needle aspiration washout: a systematic review and meta-analysis of diagnostic accuracy. J Clin Endocrinol Metab 2014; 99: 1970–1982.
+Torlontano M, Attard M, Crocetti U et al. Follow-up of low risk
+patients with papillary thyroid cancer: role of neck ultrasonography in
+detecting lymph node metastases. J Clin Endocrinol Metab 2004; 89(7):
+3402–3407.
+Grani G, Lamartina L, Cantisani V et al. Interobserver agreement of
+various thyroid imaging reporting and data systems. Endocr Connect
+2018; 7(1): 1–7.
+Lamartina L, Grani G, Biffoni M et al. Risk stratification of neck lesions
+detected sonographically during the follow-up of differentiated thyroid
+cancer. J Clin Endocrinol Metab 2016; 101: 3036–3044.
+Leboulleux S, Girard E, Rose M et al. Ultrasound criteria of malignancy
+for cervical lymph nodes in patients followed up for differentiated thyroid cancer. J Clin Endocrinol Metab 2007; 92(9): 3590–3594.
+Leenhardt L, Erdogan MF, Hegedus L et al. 2013 European Thyroid
+Association guidelines for cervical ultrasound scan and ultrasoundguided techniques in the postoperative management of patients with
+thyroid cancer. Eur Thyroid J 2013; 2(3): 147–159.
+
+Volume 30 | Issue 12 | 2019
+
+Special article
+64. Lamartina L, Deandreis D, Durante C, Filetti S. ENDOCRINE
+TUMOURS: imaging in the follow-up of differentiated thyroid cancer:
+current evidence and future perspectives for a risk-adapted approach.
+Eur J Endocrinol 2016; 175(5): R185–R202.
+65. Leboulleux S, Schroeder PR, Schlumberger M, Ladenson PW. The role
+of PET in follow-up of patients treated for differentiated epithelial thyroid cancers. Nat Rev Endocrinol 2007; 3(2): 112–121.
+66. Robbins RJ, Wan Q, Grewal RK et al. Real-time prognosis for metastatic
+thyroid carcinoma based on 2-[18F]fluoro-2-deoxy-D-glucose-positron emission tomography scanning. J Clin Endocrinol Metab 2006;
+91(2): 498–505.
+67. Nascimento C, Borget I, Al Ghuzlan A et al. Postoperative fluorine-18fluorodeoxyglucose positron emission tomography/computed tomography: an important imaging modality in patients with aggressive
+histology of differentiated thyroid cancer. Thyroid 2015; 25(4): 437–444.
+68. Deandreis D, Al Ghuzlan A, Leboulleux S et al. Do histological, immunohistochemical, and metabolic (radioiodine and fluorodeoxyglucose
+uptakes) patterns of metastatic thyroid cancer correlate with patient
+outcome? Endocr Relat Cancer 2011; 18(1): 159–169.
+69. Robbins RJ, Larson SM. The value of positron emission tomography
+(PET) in the management of patients with thyroid cancer. Best Pract
+Res Clin Endocrinol Metab 2008; 22(6): 1047–1059.
+70. Terroir M, Borget I, Bidault F et al. The intensity of 18FDG uptake does
+not predict tumor growth in patients with metastatic differentiated thyroid cancer. Eur J Nucl Med Mol Imaging 2017; 44(4): 638–646.
+71. Grani G, Ramundo V, Falcone R et al. Thyroid cancer patients with no
+evidence of disease: the need for repeat neck ultrasound. J Clin
+Endocrinol Metab 2019; 104(11): 4981–4989.
+72. Miyauchi A, Kudo T, Miya A et al. Prognostic impact of serum thyroglobulin doubling-time under thyrotropin suppression in patients with
+papillary thyroid carcinoma who underwent total thyroidectomy.
+Thyroid 2011; 21(7): 707–716.
+73. Durante C, Haddy N, Baudin E et al. Long-term outcome of 444
+patients with distant metastases from papillary and follicular thyroid
+carcinoma: benefits and limits of radioiodine therapy. J Clin Endocrinol
+Metab 2006; 91(8): 2892–2899.
+74. Osorio M, Moubayed SP, Su H, Urken ML. Systematic review of site
+distribution of bone metastases in differentiated thyroid cancer. Head
+Neck 2017; 39(4): 812–818.
+75. Ruegemer JJ, Hay ID, Bergstralh EJ et al. Distant metastases in differentiated thyroid carcinoma: a multivariate analysis of prognostic variables.
+J Clin Endocrinol Metab 1988; 67(3): 501–508.
+76. Schlumberger M, Brose M, Elisei R et al. Definition and management of
+radioactive iodine-refractory differentiated thyroid cancer. Lancet
+Diabetes Endocrinol 2014; 2: 356–358.
+77. McGriff NJ, Csako G, Gourgiotis L et al. Effects of thyroid hormone
+suppression therapy on adverse clinical outcomes in thyroid cancer.
+Ann Med 2002; 34(7): 554–564.
+78. Sugitani I, Fujimoto Y. Does postoperative thyrotropin suppression therapy truly decrease recurrence in papillary thyroid carcinoma? A randomized controlled trial. J Clin Endocrinol Metab 2010; 95(10): 4576–4583.
+79. Carhill AA, Litofsky DR, Ross DS et al. Long-term outcomes following
+therapy in differentiated thyroid carcinoma: NTCTCS registry analysis
+1987-2012. J Clin Endocrinol Metab 2015; 100(9): 3270–3279.
+80. Deandreis D, Rubino C, Tala H et al. Comparison of empiric versus
+whole-body/-blood clearance dosimetry-based approach to radioactive
+iodine treatment in patients with metastases from differentiated thyroid
+cancer. J Nucl Med 2017; 58(5): 717–722.
+81. Falchook GS, Millward M, Hong D et al. BRAF inhibitor dabrafenib in
+patients with metastatic BRAF-mutant thyroid cancer. Thyroid 2015;
+25(1): 71–77.
+82. Dunn LA, Sherman EJ, Baxi SS et al. Vemurafenib redifferentiation of
+BRAF mutant, RAI-refractory thyroid cancers. J Clin Endocrinol Metab
+2019; 104(5): 1417–1428.
+83. Ho AL, Grewal RK, Leboeuf R et al. Selumetinib-enhanced radioiodine
+uptake in advanced thyroid cancer. N Engl J Med 2013; 368(7):
+623–632.
+
+doi:10.1093/annonc/mdz400 | 1881
+
+Special article
+84. Mazziotti G, Formenti AM, Panarotto MB et al. Real-life management
+and outcome of thyroid carcinoma-related bone metastases: results from
+a nationwide multicenter experience. Endocrine 2018; 59(1): 90–101.
+85. Choksi P, Papaleontiou M, Guo C et al. Skeletal complications and
+mortality in thyroid cancer: a population-based study. J Clin
+Endocrinol Metab 2017; 102(4): 1254–1260.
+86. Wexler JA. Approach to the thyroid cancer patient with bone metastases. J Clin Endocrinol Metab 2011; 96(8): 2296–2307.
+87. Hamadeh IS, Ngwa BA, Gong Y. Drug induced osteonecrosis of the jaw.
+Cancer Treat Rev 2015; 41(5): 455–464.
+88. Drost L, Ganesh V, Wan BA et al. Efficacy of postoperative radiation
+treatment for bone metastases in the extremities. Radiother Oncol 2017;
+124(1): 45–48.
+89. Deschamps F, Farouil G, de Baere T. Percutaneous ablation of bone
+tumors. Diagn Interv Imaging 2014; 95(7–8): 659–663.
+90. George R, Jeba J, Ramkumar G et al. Interventions for the treatment of
+metastatic extradural spinal cord compression in adults. Cochrane
+Database Syst Rev 2015; (9): CD006716.
+91. Deschamps F, de Baere T, Hakime A et al. Percutaneous osteosynthesis
+in the pelvis in cancer patients. Eur Radiol 2016; 26(6): 1631–1639.
+92. de Baere T, Tselikas L, Pearson E et al. Interventional oncology for liver
+and lung metastases from colorectal cancer: the current state of the art.
+Diagn Interv Imaging 2015; 96(6): 647–654.
+93. Venkatanarasimha N, Gogna A, Tong KTA et al. Radioembolisation of
+hepatocellular carcinoma: a primer. Clin Radiol 2017; 72(12):
+1002–1013.
+94. Eisenhauer EA, Therasse P, Bogaerts J et al. New response evaluation
+criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J
+Cancer 2009; 45(2): 228–247.
+95. Sabra MM, Sherman EJ, Tuttle RM. Tumor volume doubling time of
+pulmonary metastases predicts overall survival and can guide the initiation of multikinase inhibitor therapy in patients with metastatic, follicular cell-derived thyroid carcinoma. Cancer 2017; 123(15):
+2955–2964.
+96. Brose MS, Nutting CM, Jarzab B et al. Sorafenib in radioactive iodinerefractory, locally advanced or metastatic differentiated thyroid cancer:
+a randomised, double-blind, phase 3 trial. Lancet 2014; 384(9940):
+319–328.
+97. Schlumberger M, Tahara M, Wirth LJ et al. Lenvatinib versus placebo
+in radioiodine-refractory thyroid cancer. N Engl J Med 2015; 372(7):
+621–630.
+98. Robinson B, Schlumberger M, Wirth LJ et al. Characterization of tumor
+size changes over time from the phase 3 study of lenvatinib in thyroid
+cancer. J Clin Endocrinol Metab 2016; 101(11): 4103–4109.
+99. Brose MS, Worden FP, Newbold KL et al. Effect of age on the efficacy
+and safety of lenvatinib in radioiodine-refractory differentiated thyroid
+cancer in the phase III SELECT trial. J Clin Oncol 2017; 35(23):
+2692–2699.
+100. Berdelou A, Borget I, Godbert Y et al. Lenvatinib for the treatment of
+radioiodine-refractory thyroid cancer in real-life practice. Thyroid
+2018; 28(1): 72–78.
+101. Balmelli C, Railic N, Siano M et al. Lenvatinib in advanced radioiodinerefractory thyroid cancer—a retrospective analysis of the Swiss
+Lenvatinib Named Patient Program. J Cancer 2018; 9(2): 250–255.
+102. Cohen EE, Rosen LS, Vokes EE et al. Axitinib is an active treatment for
+all histologic subtypes of advanced thyroid cancer: results from a phase
+II study. J Clin Oncol 2008; 26(29): 4708–4713.
+103. Locati LD, Licitra L, Agate L et al. Treatment of advanced thyroid cancer
+with axitinib: phase 2 study with pharmacokinetic/pharmacodynamic
+and quality-of-life assessments. Cancer 2014; 120(17): 2694–2703.
+104. Cabanillas ME, de Souza JA, Geyer S et al. Cabozantinib as salvage therapy for patients with tyrosine kinase inhibitor-refractory differentiated
+thyroid cancer: results of a multicenter phase II international thyroid
+oncology group trial. J Clin Oncol 2017; 35(29): 3315–3321.
+105. Brose MS, Shenoy S, Bhat N et al. A phase 2 trial of cabozantinib for the
+treatment of radioiodine-refractory differentiated thyroid carcinoma in
+the first-line setting. Int J Radiat Oncol Biol Phys 2018; 100(5): 1311.
+
+1882 | Filetti et al.
+
+Annals of Oncology
+106. Sherman SI, Wirth LJ, Droz JP et al. Motesanib diphosphate in progressive differentiated thyroid cancer. N Engl J Med 2008; 359(1): 31–42.
+107. Schlumberger M, Newbold K, Hasan B et al. A randomized doubled
+blind phase II study exploring the safety and efficacy of nintedanib
+(BIBF1120) as second line therapy for patients (pts) with differentiated
+thyroid carcinoma (DTC) progressing after first line therapy: EORTC
+1209. J Clin Oncol 2018; 36(Suppl): abstr 6021.
+108. Bible KC, Suman VJ, Molina JR et al. Efficacy of pazopanib in progressive, radioiodine-refractory, metastatic differentiated thyroid cancers:
+results of a phase 2 consortium study. Lancet Oncol 2010; 11(10):
+962–972.
+109. Carr LL, Mankoff DA, Goulart BH et al. Phase II study of daily sunitinib
+in FDG-PET-positive, iodine-refractory differentiated thyroid cancer
+and metastatic medullary carcinoma of the thyroid with functional
+imaging correlation. Clin Cancer Res 2010; 16(21): 5260–5268.
+110. Leboulleux S, Bastholt L, Krause T et al. Vandetanib in locally advanced
+or metastatic differentiated thyroid cancer: a randomised, double-blind,
+phase 2 trial. Lancet Oncol 2012; 13(9): 897–905.
+111. Brose MS, Cabanillas ME, Cohen EEW et al. Vemurafenib in patients
+with BRAFV600E-positive metastatic or unresectable papillary thyroid
+cancer refractory to radioactive iodine: a non-randomised, multicentre,
+open-label, phase 2 trial. Lancet Oncol 2016; 17(9): 1272–1282.
+112. Drilon A, Laetsch TW, Kummar S et al. Efficacy of larotrectinib in TRK
+fusion-positive cancers in adults and children. N Engl J Med 2018;
+378(8): 731–739.
+113. French JD, Bible K, Spitzweg C et al. Leveraging the immune system to
+treat advanced thyroid cancers. Lancet Diabetes Endocrinol 2017; 5(6):
+469–481.
+114. Haddad RI, Schlumberger M, Wirth LJ et al. Incidence and timing of
+common adverse events in Lenvatinib-treated patients from the
+SELECT trial and their association with survival outcomes. Endocrine
+2017; 56(1): 121–128.
+115. Subbiah V, Velcheti V, Tuch BB et al. Selective RET kinase inhibition
+for patients with RET-altered cancers. Ann Oncol 2018; 29(8):
+1869–1876.
+116. Capdevila J, Newbold K, Licitra L et al. Optimisation of treatment with
+lenvatinib in radioactive iodine-refractory differentiated thyroid cancer.
+Cancer Treat Rev 2018; 69: 164–176.
+117. Tahara M, Brose MS, Wirth LJ et al. Impact of dose interruption on the
+efficacy of lenvatinib in a phase 3 study in patients with radioiodinerefractory differentiated thyroid cancer. Eur J Cancer 2019; 106: 61–68.
+118. Oktay K, Harvey BE, Partridge AH et al. Fertility preservation in
+patients with cancer: ASCO clinical practice guideline update. J Clin
+Oncol 2018; 36(19): 1994–2001.
+119. Nagaiah G, Hossain A, Mooney CJ et al. Anaplastic thyroid cancer: a
+review of epidemiology, pathogenesis, and treatment. J Oncol 2011;
+2011: 1.
+120. Bogsrud TV, Karantanis D, Nathan MA et al. 18F-FDG PET in the management of patients with anaplastic thyroid carcinoma. Thyroid 2008;
+18(7): 713–719.
+121. Sugitani I, Onoda N, Ito KI, Suzuki S. Management of anaplastic thyroid carcinoma: the fruits from the ATC research consortium of Japan.
+J Nippon Med Sch 2018; 85(1): 18–27.
+122. Baek SK, Lee MC, Hah JH et al. Role of surgery in the management of
+anaplastic thyroid carcinoma: Korean nationwide multicenter study of
+329 patients with anaplastic thyroid carcinoma, 2000 to 2012. Head
+Neck 2017; 39(1): 133–139.
+123. Ito K, Hanamura T, Murayama K et al. Multimodality therapeutic outcomes in anaplastic thyroid carcinoma: improved survival in subgroups
+of patients with localized primary tumors. Head Neck 2012; 34(2):
+230–237.
+124. Kwon J, Kim BH, Jung HW et al. The prognostic impacts of postoperative radiotherapy in the patients with resected anaplastic thyroid carcinoma: a systematic review and meta-analysis. Eur J Cancer 2016; 59:
+34–45.
+125. Bhatia A, Rao A, Ang KK et al. Anaplastic thyroid cancer: clinical outcomes with conformal radiotherapy. Head Neck 2010; 32: 829–836.
+
+Volume 30 | Issue 12 | 2019
+
+Annals of Oncology
+126. Sherman EJ, Lim SH, Ho AL et al. Concurrent doxorubicin and
+radiotherapy for anaplastic thyroid cancer: a critical re-evaluation
+including uniform pathologic review. Radiother Oncol 2011; 101(3):
+425–430.
+127. Mohebati A, Dilorenzo M, Palmer F et al. Anaplastic thyroid carcinoma: a 25-year single-institution experience. Ann Surg Oncol 2014;
+21(5): 1665–1670.
+128. Pezzi TA, Mohamed ASR, Sheu T et al. Radiation therapy dose is associated with improved survival for unresected anaplastic thyroid carcinoma: outcomes from the National Cancer Data Base. Cancer 2017;
+123(9): 1653–1661.
+129. De Crevoisier R, Baudin E, Bachelot A et al. Combined treatment of
+anaplastic thyroid carcinoma with surgery, chemotherapy, and hyperfractionated accelerated external radiotherapy. Int J Radiat Oncol Biol
+Phys 2004; 60(4): 1137–1143.
+130. Wang Y, Tsang R, Asa S et al. Clinical outcome of anaplastic thyroid
+carcinoma treated with radiotherapy of once- and twice-daily fractionation regimens. Cancer 2006; 107(8): 1786–1792.
+131. Dandekar P, Harmer C, Barbachano Y et al. Hyperfractionated
+Accelerated Radiotherapy (HART) for anaplastic thyroid carcinoma:
+toxicity and survival analysis. Int J Radiat Oncol Biol Phys 2009; 74(2):
+518–521.
+132. Foote RL, Molina JR, Kasperbauer JL et al. Enhanced survival in
+locoregionally confined anaplastic thyroid carcinoma: a single-institution
+experience using aggressive multimodal therapy. Thyroid 2011; 21(1):
+25–30.
+133. Smallridge RC, Ain KB, Asa SL et al. American Thyroid Association
+guidelines for management of patients with anaplastic thyroid cancer.
+Thyroid 2012; 22(11): 1104–1139.
+134. Shimaoka K, Schoenfeld DA, DeWys WD et al. A randomized trial of
+doxorubicin versus doxorubicin plus cisplatin in patients with
+advanced thyroid carcinoma. Cancer 1985; 56(9): 2155–2160.
+135. Ain KB, Egorin MJ, DeSimone PA. Treatment of anaplastic thyroid carcinoma with paclitaxel: phase 2 trial using ninety-six-hour infusion.
+Collaborative Anaplastic Thyroid Cancer Health Intervention Trials
+(CATCHIT) Group. Thyroid 2000; 10(7): 587–594.
+136. Sosa JA, Elisei R, Jarzab B et al. Randomized safety and efficacy study of
+fosbretabulin with paclitaxel/carboplatin against anaplastic thyroid carcinoma. Thyroid 2014; 24(2): 232–240.
+137. Tahara M, Kiyota N, Yamazaki T et al. Lenvatinib for anaplastic thyroid
+cancer. Front Oncol 2017; 7: 25.
+138. Cabanillas ME, Zafereo M, Williams MD et al. Recent advances and
+emerging therapies in anaplastic thyroid carcinoma [version 1; referees:
+3 approved]. F1000Res 2018; 7: 87.
+139. Subbiah V, Kreitman RJ, Wainberg ZA et al. Dabrafenib and trametinib
+treatment in patients with locally advanced or metastatic BRAF V600mutant anaplastic thyroid cancer. J Clin Oncol 2018; 36(1): 7–13.
+140. Wirth LJ, Eigendorff E, Capdevila J et al. Phase I/II study of spartalizumab (PDR001), an anti-PD1 mAb, in patients with anaplastic thyroid
+cancer. J Clin Oncol 2018; 36(Suppl 15): 6024.
+141. Agrawal N, Jiao Y, Sausen M et al. Exomic sequencing of medullary thyroid cancer reveals dominant and mutually exclusive oncogenic mutations in RET and RAS. J Clin Endocrinol Metab 2013; 98(2):
+E364–E369.
+142. Elisei R, Alevizaki M, Conte-Devolx B et al. 2012 European Thyroid
+Association guidelines for genetic testing and its clinical consequences
+in medullary thyroid cancer. Eur Thyroid J 2013; 1; 216–231.
+143. Wells SA, Asa SL, Dralle H et al. Revised American Thyroid Association
+guidelines for the management of medullary thyroid carcinoma.
+Thyroid 2015; 25(6): 567–610.
+144. Romei C, Casella F, Tacito A et al. New insights in the molecular signature of advanced medullary thyroid cancer: evidence of a bad outcome
+of cases with double. J Med Genet 2016; 53(11): 729–734.
+145. Costante G, Meringolo D, Durante C et al. Predictive value of serum
+calcitonin levels for preoperative diagnosis of medullary thyroid carcinoma in a cohort of 5817 consecutive patients with thyroid nodules.
+J Clin Endocrinol Metab 2007; 92(2): 450–455.
+
+Volume 30 | Issue 12 | 2019
+
+Special article
+146. Costante G, Durante C, Francis Z et al. Determination of calcitonin levels in C-cell disease: clinical interest and potential pitfalls. Nat Rev
+Endocrinol 2009; 5(1): 35–44.
+147. Machens A, Dralle H. Biomarker-based risk stratification for previously
+untreated medullary thyroid cancer. J Clin Endocrinol Metab 2010;
+95(6): 2655–2663.
+148. Barbet J, Campion L, Kraeber-Bodéré F et al. Prognostic impact of
+serum calcitonin and carcinoembryonic antigen doubling-times in
+patients with medullary thyroid carcinoma. J Clin Endocrinol Metab
+2005; 90(11): 6077–6084.
+149. Laure Giraudet A, Al Ghulzan A, Aupérin A et al. Progression of medullary thyroid carcinoma: assessment with calcitonin and carcinoembryonic antigen doubling times. Eur J Endocrinol 2008; 158(2): 239–246.
+150. Meijer JA, le Cessie S, van den Hout WB et al. Calcitonin and carcinoembryonic antigen doubling times as prognostic factors in medullary
+thyroid carcinoma: a structured meta-analysis. Clin Endocrinol (Oxf)
+2010; 72(4): 534–542.
+151. Hadoux J, Pacini F, Tuttle RM, Schlumberger M. Management of advanced
+medullary thyroid cancer. Lancet Diabetes Endocrinol 2016; 4: 64–71.
+152. Moley JF, DeBenedetti MK. Patterns of nodal metastases in palpable
+medullary thyroid carcinoma: recommendations for extent of node dissection. Ann Surg 1999; 229(6): 880–887; discussion 887–888.
+153. Calcitonin A. Carcinoembryonic Antigen Doubling Time Calculator;
+https://www.thyroid.org/professionals/calculators/thyroid-cancer-car
+cinoma/ (12 June 2019, date last accessed).
+154. Treglia G, Rufini V, Salvatori M et al. PET imaging in recurrent medullary thyroid carcinoma. Int J Mol Imaging 2012; 2012: 1.
+155. Romero-Lluch AR, Cuenca-Cuenca JI, Guerrero-Vázquez R et al.
+Diagnostic utility of PET/CT with 18F-DOPA and 18F-FDG in persistent
+or recurrent medullary thyroid carcinoma: the importance of calcitonin
+and carcinoembryonic antigen cutoff. Eur J Nucl Med Mol Imaging
+2017; 44(12): 2004–2013.
+156. Bodei L, Handkiewicz-Junak D, Grana C et al. Receptor radionuclide
+therapy with 90Y-DOTATOC in patients with medullary thyroid carcinomas. Cancer Biother Radiopharm 2004; 19(1): 65–71.
+157. Hadoux J, Schlumberger M. Chemotherapy and tyrosine-kinase inhibitors for medullary thyroid cancer. Best Pract Res Clin Endocrinol
+Metab 2017; 31(3): 335–347.
+158. Wells SA Jr, Robinson BG, Gagel RF et al. Vandetanib in patients with
+locally advanced or metastatic medullary thyroid cancer: a randomized,
+double-blind phase III trial. J Clin Oncol 2012; 30(2): 134–141.
+159. Elisei R, Schlumberger MJ, Müller SP et al. Cabozantinib in progressive
+medullary thyroid cancer. J Clin Oncol 2013; 31(29): 3639–3646.
+160. Fox E, Widemann BC, Chuk MK et al. Vandetanib in children and adolescents with multiple endocrine neoplasia type 2B associated medullary
+thyroid carcinoma. Clin Cancer Res 2013; 19(15): 4239–4248.
+161. Schlumberger M, Elisei R, Müller S et al. Overall survival analysis of
+EXAM, a phase III trial of cabozantinib in patients with radiographically progressive medullary thyroid carcinoma. Ann Oncol 2017; 28(11):
+2813–2819.
+162. Trimboli P, Castellana M, Virili C et al. Efficacy of vandetanib in treating locally advanced or metastatic medullary thyroid carcinoma according to RECIST criteria: a systematic review and meta-analysis. Front
+Endocrinol (Lausanne) 2018; 9: 224.
+163. Bastholt L, Kreissl MC, Führer D et al. Effect of an outreach programme
+on vandetanib safety in medullary thyroid cancer. Eur Thyroid J 2016;
+5(3): 187–194.
+164. Iten F, Muller B, Schindler C et al. [(90)Yttrium-DOTA]-TOC response
+is associated with survival benefit in iodine-refractory thyroid cancer:
+long-term results of a phase 2 clinical trial. Cancer 2009; 115(10):
+2052–2062.
+165. Cherny NI, Dafni U, Bogaerts J et al. ESMO-Magnitude of
+Clinical Benefit Scale version 1.1. Ann Oncol 2017; 28(10):
+2340–2366.
+166. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001; 33(2): 139–144.
+
+doi:10.1093/annonc/mdz400 | 1883
+
+

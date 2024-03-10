@@ -1,0 +1,1646 @@
+SPECIAL ARTICLE
+
+Localised colon cancer: ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-upy
+G. Argilés1, J. Tabernero2, R. Labianca3, D. Hochhauser4, R. Salazar5, T. Iveson6, P. Laurent-Puig7,8,9, P. Quirke10, T. Yoshino11,
+J. Taieb7,8,9,12, E. Martinelli13 & D. Arnold14, on behalf of the ESMO Guidelines Committee*
+1
+
+Department of Medical Oncology, Vall d’Hebron University Hospital and Institute of Oncology (VHIO), Universitat Autònoma de Barcelona; 2Department of Medical
+Oncology, Vall d’Hebron University Hospital and Institute of Oncology (VHIO), UVic-UCC, IOB-Quiron, Barcelona, Spain; 3Department Oncology, Ospedale Papa
+Giovanni XXIII, Bergamo, Italy; 4UCL Cancer Institute, London, UK; 5Department of Medical Oncology, Catalan Institute of Oncology, Oncobell Program (IDIBELL),
+CIBERONC, Hospitalet de Llobregat, Barcelona, Spain; 6University Hospital Southampton, NHS Foundation Trust, Southampton, UK; 7Assitance Publique-Hôpitaux de
+Paris AP-HP Paris Centre, Paris; 8Paris Cancer Institute CARPEM, Centre de Recherche des Cordeliers, Paris Sorbonne University, Paris University, Paris; 9INSERM, CNRS,
+Paris, France; 10Pathology and Data Analytics, School of Medicine, University of Leeds, Leeds, UK; 11National Cancer Centre Hospital East, Kashiwa, Japan;
+12
+Department of Gastroenterology and GI Oncology, Georges Pompidou European Hospital, Paris Descartes University, Paris, France; 13Università degli Studi della
+Campania Luigi Vanvitelli, Department of Precision Medicine, Naples, Italy; 14Asklepios Tumorzentrum Hamburg, AK Altona, Hamburg, Germany
+
+Available online 20 July 2020
+
+Key words: localised colon, Clinical Practice Guidelines, diagnosis, treatment and follow-up
+
+INTRODUCTION
+Incidence and epidemiology
+Colorectal cancer (CRC) is the third most common tumour in
+men and the second in women, accounting for 10% of all
+tumour types worldwide. Incidence is 25% higher in males
+and differs greatly between countries. With more than
+600 000 deaths estimated each year, CRC is the fourth most
+common cancer-related cause of death globally.1,2 The
+growing incidence in some countries reﬂects a modiﬁcation
+in lifestyle and its consequences related with ‘Westernisation’ such as obesity, physical inactivity, alcohol consumption, high red meat intake and cigarette smoking.3 Some
+data suggest a putative role in colon cancer carcinogenesis
+for factors that cause imbalances in gut microbiota.4,5
+The mortality rate in the European Union is 15e20 out of
+100 000 in males and 9e14 out of 100 000 in females and
+has decreased over time, particularly in females. In affected
+European individuals, 5-year survival ranges from 28.5% to
+57% in men and from 30.9% to 60% in women, with a
+pooled estimation in 23 countries of 46.8% in men and
+48.4% in women.6
+The risk of developing colon cancer depends on factors
+which can be classiﬁed into lifestyle or behavioural
+
+characteristics and genetically determined factors.
+Screening tests are modulated according to the individual
+probability of developing CRC.7e9 Age is considered the
+major unchangeable risk factor for sporadic colon cancer:
+nearly 70% of patients are >65 years of age and this disease
+is rare before the age of 40 years, even though data
+from Western registries show an increased incidence in the
+40e44-year age group.10
+Individuals with any of the following are considered at
+high risk of colon cancer and must be actively screened and
+in case of inherited syndromes, also referred for genetic
+counselling (see ESMO guidelines for hereditary gastrointestinal cancer11):
+ a medical history of adenoma, colon cancer, inﬂammatory bowel disease (Crohn’s disease and ulcerative
+colitis);
+ signiﬁcant family history of CRC or adenoma;
+ an inherited cancer syndrome (2%e5% of all CRC), such
+as familial adenomatous polyposis coli and its variants
+(1%), Lynch-associated syndromes (hereditary nonpolyposis colon cancer) (2%e4%), Turcot, Peutze
+Jeghers and MUTYH-associated polyposis syndrome.
+SCREENING PRINCIPLES
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, 6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+y
+Approved by the ESMO Guidelines Committee: April 2002, last update May
+2020. This publication supersedes the previously published versiondAnn Oncol.
+2013;24(suppl 6):vi64-vi72.
+0923-7534/© 2020 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+CRC arises following progression of normal mucosa to an
+invasive tumour, passing through different intermediate
+stages of premalignant and invasive malignant lesions; this
+stepwise process facilitates cancer prevention and early
+diagnosis when the tumour is still at an early stage and
+curable, through screening programmes. For average-risk
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+1291
+
+G. Argilés et al.
+
+Annals of Oncology
+populations, European and American evidence-based
+guidelines for quality assurance in CRC screening12,13
+should be followed.
+Recommendations
+Colonoscopic tests
+ Colonoscopic techniques, despite being invasive, have
+the advantage of being both diagnostic and therapeutic.
+ A complete colonoscopy is the recommended method
+for CRC screening in average-risk men and women based
+on higher sensitivity and speciﬁcity when compared with
+other tests14 [II, B]. The optimal age range for testing is
+50e74 years [V, C] with an optimal repetition interval
+for a negative test of 10 years [III, C].
+ Flexible sigmoidoscopy (FS) carried out every 5e10 years
+may be an alternative for those who refuse colonoscopy
+[II, B]. The combination of this method with a yearly
+faecal occult blood test (FOBT) (see below) is recommended to reduce the risk of a right colon tumour [III, B].
+ Other invasive tests including capsule colonoscopy are
+not recommended for screening [IV].
+Non-invasive tests
+ Non-colonoscopic tests are recommended in averagerisk men and women from the age of 50 not already
+taking part in colonoscopic screening programmes. The
+optimal frequency of testing is every year and no later
+than every three years [I, B]. A colonoscopy must be
+carried out at the earliest convenience when the test
+results are positive [I, A].
+ Among the available tests, faecal immunochemical
+testing (FIT) appears to be superior to high-resolution
+guaiac FOBT with respect to the detection rate and positive predictive value for adenomas and cancer [III].
+Other novel methods including DNA-based or tests using
+other markers (e.g. M2-PK) lack formal comparisons of
+their performance, and integration with other assays
+needs to be monitored.
+Screening for high-risk populations is covered in the
+ESMO guidelines for hereditary gastrointestinal cancer.11
+DIAGNOSIS
+Symptoms and signs
+Colon cancer arises from the mucosa of the bowel, growing
+both into the lumen and the bowel wall, and/or spreading
+to adjacent organs. Symptoms are associated with relatively
+large tumours and/or advanced disease stages and may not
+be speciﬁc for colon cancer. Alterations in bowel habit,
+general or localised abdominal pain, weight loss without
+other speciﬁc causes, weakness, iron deﬁciency and
+anaemia are the most common symptoms and depend on
+the location and stage of the primary tumour.15,16 Colon
+cancer can occur with multiple or synchronous lesions
+1292
+
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+(3.6%)17 with identical or different histological patterns and
+stages of development. Metachronous primary tumours
+arise in up to 3% of cases during the 5 years after surgery,
+and the incidence increases up to 9% after several decades
+in long-term survivors, justifying long-term surveillance of
+the colon in patients who have already experienced colon
+cancer.18
+Diagnostic work-up
+A complete work-up should be carried out to achieve an
+accurate histological diagnosis of the primary tumour,
+assess the baseline characteristics of the patient and
+determine the extent of the disease (see Table 1).
+Diagnosis of the primary tumour. In the absence of a bowel
+obstruction or massive haemorrhage, which may constitute
+indications of an urgent tumour resection, a total colonoscopy is recommended for diagnostic conﬁrmation of colon
+cancer [I, A]. There are many advantages of endoscopy
+including determination and marking of the exact tumour
+location and biopsy of the lesion and detection and removal
+of (further) synchronous precancerous or cancerous lesions.
+Combining the limited left-sided colonoscopy with
+computed tomography (CT), colonoscopy is an alternative if
+full colonoscopy is not feasible [I, A].19 In cases where
+complete colonic exploration cannot be carried out before
+surgery, a complete colonoscopy should be carried out
+within 3e6 months [IV, B].
+Assessment of patient baseline status and characteristics.
+After colonic tumour diagnosis, clinical examination and
+laboratory tests must be carried out to provide a correct
+assessment of patient status and characteristics before
+deciding the deﬁnitive treatment approach [II, A].
+Besides a comprehensive physical examination20 [IV],
+blood tests including complete blood count, coagulation,
+liver and kidney functions tests as well as albumin can
+
+Table 1. Diagnostic work-up for localised CRC
+Local assessment
+
+LoE, GoR
+
+Complete colonoscopy
+Imaging work-up
+CT scan:
+ Lung
+ Abdominal
+ Pelvic
+CT colonography (when complete colonoscopy is not
+feasible)
+MRI abdominal (to clarify ambiguous lesions or deﬁne
+pT4b)
+Laboratory work-up
+Complete blood count
+Coagulation
+Liver function panel
+Kidney function panel
+Albumin
+CEA
+
+I, A
+
+V
+I, B
+I, B
+I, A
+II, A
+
+II, A
+II, A
+II, A
+II, A
+III, A
+III, A
+
+CEA, carcinoembryonic antigen; CRC, colorectal cancer; CT, computed tomography;
+GoR, grade of recommendation; LoE, level of evidence; MRI, magnetic resonance
+imaging.
+
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+G. Argilés et al.
+
+Annals of Oncology
+
+provide relevant clinical information regarding the patient’s
+baseline conditions and the existence of cancer-related
+complications [II, A].
+In addition, serum levels of carcinoembryonic antigen
+(CEA), although not sufﬁcient for colon cancer diagnosis
+themselves in the absence of a conﬁrmatory tumour biopsy
+(because of low speciﬁcity and sensitivity), should be evaluated before surgery and monitored during the follow-up
+period to help the early detection of metastatic disease
+[III, A].21e23 In addition, CEA level determination after colon
+cancer diagnosis is of particular importance since baseline
+levels add information in deﬁning prognosis; a postoperative serum CEA level >5 ng/ml (or even >2.35) suggests a worse outcome.21
+Assessment of distant tumour extension. Preoperative
+assessment of tumour extension is required to determine
+whether the patient should be referred for primary tumour
+resection or, in the presence of unresectable distant metastases, systemic therapy. Approximately 20% of newly
+diagnosed colon cancers have synchronous metastases, the
+most frequently involved organ being the liver (17%),
+followed by peritoneum (5%), lung (5%) and lymph nodes
+(3%).24
+CT of the thoracic, abdominal and pelvic cavities with
+intravenous (i.v.) contrast administration is the preferred
+radiological method for the evaluation of the presence of
+distant metastases of CRC [II, B]. This test allows evaluation
+of locoregional tumour extension and its complications (e.g.
+obstruction, perforation, ﬁstula, abscess).25 Nevertheless,
+CT scanning may fail to detect peritoneal metastases, where
+sensitivity is relatively poor and depends on implant localisation and size.26,27
+Contrast-enhanced magnetic resonance imaging (MRI)
+permits better deﬁnition of the soft tissues. It constitutes
+the reference test when it is necessary to evaluate the
+relationship of locally advanced tumours with surrounding
+structures or in deﬁning ambiguous liver lesions previously
+detected by CT scan [II, A].28 Likewise, MRI can substitute
+for CT scanning in patients with iodine-contrast allergies or
+chronic renal insufﬁciency where the glomerular ﬁltration
+rate is <30 ml/min [II, A].29e31
+Fluorodeoxyglucose positron emission tomography (FDGPET), with or without integrated CT (positron emission tomography/CT), does not add signiﬁcant information to the
+CT scans on preoperative staging of CRC and is not recommended for routine use in staging of localised CRC
+beyond assisting in interpretation of ambiguous ﬁndings [II,
+A].32,33
+
+ When not carried out before or during the surgical procedure, a complete colonoscopy should be carried out
+within 3e6 months following tumour resection [IV, B].
+ Comprehensive physical examination and laboratory
+tests including full blood counts, biochemistry and serum
+CEA levels must be carried out before decisions on the
+deﬁnitive treatment approach [III, A].
+ CT of the thoracic, abdominal and pelvic cavities with i.v.
+contrast administration is the preferred radiological
+method for the evaluation of the extent of CRC [II, B].
+ Contrast-enhanced MRI constitutes the reference test for
+evaluation of the relationship of locally advanced
+tumours with surrounding structures or in deﬁning
+ambiguous liver lesions [II, A].
+
+MANAGEMENT OF LOCALISED COLONIC TUMOURS
+Treatment of adenocarcinomas presenting in adenomas
+Complete en bloc endoscopic resection should be carried
+out whenever the morphological structure of the polyp
+permits.34 Endoscopic resection is sufﬁcient for hyperplastic
+or adenomatous polyps and non-invasive (pTis, i.e. intraepithelial or intramucosal) adenocarcinomas35 (see
+Figure 1). For (pT1) invasive carcinomas, the management is
+determined by the polyp morphology and the presence of
+histological features associated with adverse outcome36:
+ lymphatic or venous invasion;
+ grade 3 differentiation;
+ signiﬁcant (grade >1) tumour budding.37
+For a pedunculated polyp with a pT1 carcinoma conﬁned
+to the head, neck and stalk (Haggitt 1e3) endoscopic
+resection with proper follow-up is enough even with the
+presence of submucosal invasion, provided that no other
+unfavourable factors are present [IV, B].38 However, the
+presence of any unfavourable factor in a sessile or ﬂat polyp
+(Paris classiﬁcation) with a pT1 carcinoma mandates surgical
+resection in patients with average operative risk [IV, B].39
+The goal of surgical resection is complete lesion resection,
+including lymph node removal for optimal risk assessment
+[IV, B]. In contrast, ﬁnding positive resection margins (<1
+mm) constitutes only a risk for local recurrence and can be
+managed by excision repetition or local surveillance.39
+When surgery is not possible due to signiﬁcant comorbidities, surveillance colonoscopy within 6 months after
+polyp removal is recommended, as well as close oncological
+follow-up including CT scan to detect lymph node
+recurrences [IV, B].38,39
+
+Recommendations
+Management of locally inﬁltrative colon cancers
+ In the absence of indications for urgent tumour resection, a total colonoscopy is recommended for diagnostic
+conﬁrmation of colon cancer and to rule out synchronous tumours. Combining the limited left-sided colonoscopy with CT colonoscopy is an alternative if full
+colonoscopy is not possible [I, A].
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+Inﬁltrative colon cancers cannot be resected by colonoscopy
+and require surgery, with the goal of wide resection of the
+involved bowel segment and its lymphatic drainage [I, A].
+The extent of the colonic resection is determined by the
+blood supply and distribution of regional lymph nodes. The
+resection should include a segment of colon of at least 5 cm
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+1293
+
+G. Argilés et al.
+
+Annals of Oncology
+
+Figure 1. Diagnostic algorithm for localised colon cancer.
+
+on either side of the tumour, but wider margins are often
+included due to the mandatory ligation of the arterial blood
+supply [IV, B]. En bloc colonic and mesentery resection is
+recommended in order to clearly deﬁne stage II versus stage
+III and to identify and eradicate potential lymph node metastases; at least 12 lymph nodes should be resected when
+feasible [IV, B].40 Likewise, en bloc resection of adjacent
+organ-invaded portions must be carried out in case of
+pT4b41 [I, B].
+During the procedure, a complete assessment of the
+peritoneal cavity and ovaries should be carried out to
+investigate for possible metastasis41 [I, C]. (See ESMO
+guidelines for metastatic colorectal cancer for the
+management of patients with removed metastases42).
+Laparoscopic colectomy can be safely carried out for
+colon cancer when technical expertise is available in the
+absence of contraindications in view of reduced morbidity,
+improved tolerance and similar oncological outcomes
+[I, C].43,44
+Obstructive CRCs can be treated in one or two stages.
+Two-stage procedures can include colostomy followed by
+colonic resection or, in the case of bowel perforation,
+Hartmann’s procedure followed by colostomy closure and
+anastomosis. One-stage procedures are preferred when
+carried out by experienced teams; subtotal colectomy and
+1294
+
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+ileorectal anastomosis or segmental resection after intraoperative colonic lavage are alternatives in selected cases
+[III]. Colonic stenting45,46 can be used in expert centres as a
+bridge to elective surgery, especially in patients with higher
+rates of postoperative complication after emergency
+surgery [>70 years old and/or American Society of Anesthesiologists (ASA) >II] [II].
+
+Recommendations
+ En bloc endoscopic resection of the polyp is sufﬁcient for
+non-invasive (pTis, i.e. intraepithelial or intramucosal)
+adenocarcinomas [IV, B].
+ The presence of invasive carcinoma (pT1) in a polyp
+requires a thorough review with the pathologist and
+surgeon. High-risk features mandating surgical resection
+with lymphadenectomy include lymphatic or venous
+invasion, grade 3 differentiation, signiﬁcant (grade >1)
+and tumour budding [IV, B].
+ Laparoscopic colectomy can be safely carried out for
+colon cancer when technical expertise is available in
+the absence of contraindications, in view of reduced
+morbidity, improved tolerance and similar oncological
+outcomes [I, C].
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+G. Argilés et al.
+
+Annals of Oncology
+
+ Obstructive CRCs can be treated in one- or two-stage
+procedures, as indicated [III, B].
+
+Assessment of recurrence risk and expected beneﬁts from
+adjuvant therapy
+
+PATHOLOGICAL REPORT
+Pathological reporting should be carried out at the time of
+surgery to precisely deﬁne nodal spread of disease and
+extension of the tumour through the bowel wall and on to
+adjacent structures, as well as to assess biopsies when a
+suspicion of liver or peritoneal metastases has been identiﬁed
+by the surgeon. The standard assessment should include47:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+morphological description of the specimen;
+surgical procedure carried out;
+deﬁnition of tumour site and size;
+presence or absence of macroscopic tumour perforation;
+histological type and grade;
+extension of tumour into the bowel wall and adjacent
+organs (T stage);
+distance of cancer from resected margins (proximal,
+distal and radial);
+presence or absence of tumour deposits;
+lymphovascular and/or perineural invasion;
+presence of tumour budding37;
+site and number of removed regional lymph nodes and
+their possible inﬁltration by cancer cells (N stage);
+involvement of other organs (e.g. peritoneum) if submitted either removed or biopsied (M stage);
+mismatch repair (MMR)/microsatellite instability (MSI)
+status of the tumour.
+
+The pathological stage must be reported according to the
+Union for International Cancer Control (UICC) tumour, node,
+metastasis (TNM) classiﬁcation, 8th edition48 (see
+supplementary Table S1, available at https://doi.org/10.1
+016/j.annonc.2020.06.022).
+Recommendation
+ A standard surgical/pathological report should include
+specimen description and surgical procedure, tumour
+site and size, macroscopic tumour perforation, histological type and grade, extension into the bowel wall and
+adjacent organs, distance of cancer from resected margins (proximal, distal and radial), presence or absence
+of tumour deposits, lymphovascular and/or perineural
+invasion, tumour budding, site and number of removed
+and involved regional lymph nodes, MMR/MSI status
+and involvement of other organs [IV, A].
+
+RISK ASSESSMENT
+Deﬁnitive decisions regarding adjuvant treatment indication
+can only be made after discussing in detail the risk/beneﬁt
+ratios of available options with the patient. To this end, the
+risk of tumour recurrence must be integrated with expected
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+beneﬁts and complications from the given adjuvant treatment (see Figure 2).
+
+2020
+
+The assessment of risk of recurrence is important in
+deciding when to recommend systemic adjuvant treatment
+with the aim of reducing risk of relapse and death. The risk
+of relapse after colon cancer resection is estimated by
+integrating the clinicopathological features of the tumour
+with the molecular marker MMR/MSI status.49
+TNM staging remains the most relevant histological
+criteria for risk assessment after surgery of colon cancer.
+Reported 5-year survival rates after surgical resection alone
+are 99% for stage I, 68%e83% for stage II and 45%e65% for
+stage III disease.48
+In addition, for intermediate stage II, further parameters
+need consideration to reﬁne the evaluation of risk given the
+observed variability on prognosis [II]49:
+Major prognostic parameters for stage II risk assessment
+[II]48e50:
+ Lymph nodes sampling <12;
+ pT4 stage including perforation;
+Minor prognostic parameters for stage II risk assessment49 [II]:
+
+
+
+
+
+
+
+High grade tumour;
+Vascular invasion;
+Lymphatic invasion;
+Perineural invasion;
+Tumour presentation with obstruction;
+High preoperative CEA levels.
+
+In general, it has been established that adjuvant systemic
+therapy decreases the risk of death by an absolute 3%e5%
+in high-risk stage II colon cancer with single-agent 5ﬂuorouracil (5-FU) and by 10%e15% in stage III disease
+with ﬂuoropyrimidines alone, with a further 4%e5%
+improvement with oxaliplatin-containing combinations
+[I, A].
+MSI/MMR status is the most validated prognostic
+molecular marker used in deciding adjuvant therapy next
+to clinical prognostic factors.
+Deﬁcient DNA MMR status can be identiﬁed by immunohistochemistry detecting loss of MMR protein expression
+(MLH1, MSH2, MSH6 or PMS2) or by polymerase chain
+reaction (PCR) assays of MSI status (microsatellite mutations). Determining MSI/MMR status in localised colon
+cancer patients has two objectives: to characterise the
+prognosis and prediction of adjuvant beneﬁt and determine
+potential genetic predisposition.
+MSI/MMR status determination is important to rule out
+Lynch syndrome. The presence of MSH2 and/or MSH6 loss
+by IHC indicates suspicion of Lynch syndrome, while MLH1
+and PMS2 loss needs to be investigated further by determining BRAF mutation or hypermethylation of the
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+1295
+
+G. Argilés et al.
+
+Annals of Oncology
+
+Figure 2. Factors to guide adjuvant decision making.
+
+promoter region of hMLH1. The identiﬁcation of either of
+these alterations suggests with high probability the presence of an MLH1 gene somatic acquired alteration rather
+than Lynch syndrome.11 Besides its implications for Lynch
+syndrome diagnosis, MSI/MMR status deﬁnes, in localised
+colon cancer, a subgroup of patients with a better prognosis
+and less expected beneﬁt from chemotherapy.51e55 In
+particular, MSI/MMR may be useful to identify a small
+(10%e15%) subset of stage II patients who are at a very low
+risk of recurrence and in whom the beneﬁts of ﬂuoropyrimidines have not been demonstrated and thus adjuvant
+chemotherapy should not be indicated [I, A].51e55
+Nomograms have been developed as tools to standardise
+decision making in the adjuvant setting; however, their use
+is not widely implemented.56
+Assessment of risk of complications from adjuvant
+treatment
+Administration of an adjuvant treatment should only be
+done by experienced sites, with a good knowledge of
+side-effects and (necessary) dose reduction schedules.
+Despite the proven beneﬁt for patients with stage III and II
+disease, the (relative) counterindications have to be
+considered: e.g. Eastern Cooperative Oncology Group
+(ECOG) performance status >2, uncontrolled infection,
+severe liver and renal dysfunction and heart failure [New
+York Heart Association (NYHA) III and IV]. Furthermore,
+other life-prognosis determining comorbidities have to be
+taken into account.
+Dihydropyrimidine dehydrogenase (DPD) is the main
+enzyme involved in ﬂuoropyrimidine metabolism. Approximately 3%e5% of patients have deﬁciencies of DPD function due to genetic polymorphisms leading to increased
+ﬂuoropyrimidine toxicity, that can be lethal.57 Based on the
+recommendation of the Pharmacovigilance Risk Assessment
+Committee (PRAC) of the European Medicines Agency
+1296
+
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+(EMA) dated 13 March 2020, testing for DPD insufﬁciency
+should be conducted before initiating ﬂuoropyrimidinebased chemotherapy [III, A]. There are two main ways to
+assess DPD functionality: through genotyping the DPYD
+gene or through phenotyping DPD function.
+Genotyping identiﬁes pathologic polymorphisms in the
+DPYD gene, mainly DPYD*2A, c.1679T>G, c.2846A>T or
+c.1236G>A.56 In the presence of a heterozygous polymorphism, the ﬂuoropyrimidine dose should be reduced by
+50%, while with homozygous polymorphisms, ﬂuoropyrimidines should not be used due to the high risk of complications [III, A], according to a Dutch cohort observational
+trial.57 Phenotyping allows assessment of DPD functionality
+by measuring the uracilemia in blood.58e61 For levels >16
+ng/ml, the dose should be reduced by 50% and for levels
+>150 ng/ml, ﬂuoropyrimidines are contraidicated [III, A].57
+In this situation, raltitrexed may be an option for those
+patients with high risk of recurrence [V].62
+Age is another criterion for risk assessment in the adjuvant
+setting although it remains controversial. Analyses from a
+Canadian database (N ¼ 2801) in Ontario indicate that patients in stage III disease between the age of 70 and 79 years
+received adjuvant treatment in 68% and for patients >80
+years in 24%.63 In this retrospective analysis, all age groups
+beneﬁted about the same level. However, the indication for
+an adjuvant treatment had to be associated with the Charlson
+Comorbidity Index, ensuring that only ‘ﬁt’ elderly patients
+receive an adjuvant treatment. However, all generalisations
+from clinical randomised trials are difﬁcult to do, since patients >75 years are underrepresented and/or excluded.
+On the other hand, the addition of oxaliplatin to any
+ﬂuoropyrimidine should be used with caution in this population.63,64 A pooled analysis from 4 randomised trials,
+NSABP-C08, XELOXA, X-ACT and AVANT, has shown that in
+all age groups, treatment with oxaliplatin can be considered, if clinically indicated.65 The hazard ratio (HR) for
+overall survival (OS) with oxaliplatin was 0.78 for patients of
+70 years or older; however, younger patients experienced a
+greater beneﬁt (HR 0.62) and had a signiﬁcantly lower rate
+of toxicity. Similar data were demonstrated in the NO16968
+trial (XELOX versus bolus 5FU/FA: HR for OS in patients
+70 years or older: 0.91 (0.66e1.26) versus 0.80 at younger
+patients).64 A similar existing but reduced beneﬁt also
+occurred in the analysis of the ACCENT database.66
+Use of personalised medicine in localised colon cancer/
+biomarkers for risk assessment
+Besides MSI status, other genetic markers, e.g. RAS and
+BRAF mutations are not recommended for the routine
+assessment of risk of recurrence in non-metastatic patients,
+based on their lack of utility in the adjuvant decision-making
+process.67 However, other biomarkers such as gene signatures, Immunoscore and postoperative circulating tumour
+DNA (ctDNA) have demonstrated some beneﬁt in determining the risk of recurrence and can be considered in
+addition to pathological features and MSI status to further
+tailor the adjuvant decision making in difﬁcult cases.68e71
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+G. Argilés et al.
+
+Annals of Oncology
+
+Gene signatures have emerged as potential candidates
+for prognostic stratiﬁcation in locoregional disease. At the
+time of writing, only Oncotype DX68 and GeneFx Colon69
+have been validated in multivariate analysis of independent prospective randomised cohorts of stage II colon
+cancer with formalin-ﬁxed parafﬁn-embedded (FFPE)
+tumour samples. Although routine clinical utility is not
+warranted due to lack of predictive value for chemotherapy
+beneﬁt and the small prognostic differentiation margins
+between high, intermediate and low scores, their use might
+be considered in complementing clinicopathological information on intermediate-risk stage II scenarios: i.e. to treat
+T3 N0 classiﬁed as high risk by the signature, or for avoiding
+chemotherapy in T4 N0 classiﬁed as low risk by the signature [II, C].
+Immunoscore has been recently validated in a large
+prospective cohort of >2500 patients TNM stage IeIII.70
+Immunoscore was a strong predictor for time to recurrence, OS and disease-free survival (DFS) (all P < 0.0001),
+independently of patient age, sex, MSI and other existing
+prognostic factors. Immunoscore had the highest relative
+contribution to the risk of all clinical parameters, including
+the UICC TNM classiﬁcation system.70 Therefore, Immunoscore could help reﬁne the prognosis of early colon cancer
+patients in conjunction with the TNM scoring [III, C].
+However, its role in predicting chemotherapy beneﬁt is
+uncertain and ﬁrm evidence of its prognostic role in a stageII-only dataset is currently lacking.
+Finally, ctDNA monitoring, also known as liquid biopsy, is a
+promising tool under investigation to identify patients with
+high risk of recurrence after primary tumour resection.
+Indeed, ctDNA detection after stage II colon cancer resection
+has been demonstrated to provide direct evidence of residual disease and to identify patients at very high risk of
+recurrence.71 The results of ongoing trials investigating the
+role of ctDNA as a tool to stratify patient’s risk of relapse and
+to determine allocation to different adjuvant therapeutic
+strategies must be awaited before this is accepted in routine
+practice. The CIRCULATE-IDEA and de Circulatie-Europa collaborations seek to pool the data coming from the main
+national trials exploring ctDNA follow-up in the adjuvant
+setting. The results of this initiative will probably set the ﬁnal
+role of ctDNA in the adjuvant decision-making process.
+Recommendations
+ Adjuvant therapy options should be fully discussed with
+the patient, taking into consideration tumour risk of
+recurrence, expected beneﬁt from chemotherapy and
+risk of complications.
+ The risk of relapse after a colon cancer resection should
+be assessed by integrating the TNM staging, MMR/MSI
+status and number of lymph nodes sampled (12)
+[III, A].
+ Other additional clinicopathological features such as the
+histological subtype and grading, lymphatic or venous or
+perineural invasion, lymphoid inﬂammatory response,
+involvement of resection margins and serum CEA should
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+
+
+
+
+
+
+
+
+
+be taken into consideration for reﬁning the risk assessment on stage II tumours [III, A].
+Patient age alone has no predictive value for or against
+the indication to an adjuvant treatment and must be
+considered in the context of (potential) beneﬁt, underlying risk for relapse, life expectancy in relation to (biological) age and comorbidities. However, it can be
+generalised that beneﬁts of treatment with both, ﬂuoropyrimidines alone and plus/minus oxaliplatin, seem to be
+more limited with a higher likelihood for toxicity in older
+patients.
+MSI/MMR status is the only validated molecular marker
+used in adjuvant decision making and should be determined in stage II CRC. In stage III, usage of MMR status
+is limited to detect and identify Lynch syndrome [IV, A].
+DPD genotyping or phenotyping is strongly recommended before initiating ﬂuoropyrimidine-based adjuvant
+therapy according to regulatory bodies [III, A].
+Gene expression signatures are not recommended for
+routine practice due to lack of predictive value for
+chemotherapy beneﬁt; however, clinicians and patients
+may consider their use to complement clinicopathological information in intermediate-risk stage II scenarios
+although their role in predicting chemotherapy beneﬁt
+is uncertain [II, C].
+Immunoscore could be considered to reﬁne the prognosis of early colon cancer patients used in conjunction
+with the TNM scoring and thus adjust the chemotherapy
+decision-making process in stage II and even in low-risk
+stage III patients [III, C], although its role in predicting
+chemotherapy beneﬁt is uncertain.
+
+TREATMENT OPTIONS
+Stage III disease
+The current standard of care for adjuvant therapy in stage III
+colon cancer is a combination of ﬂuoropyrimidine and
+oxaliplatin. The beneﬁt of these combinations over ﬂuoropyrimidine monotherapy, the prior standard of care, has
+been demonstrated in three landmark trials: MOSAIC,
+NSABP C-07 and XELOXA. All showed signiﬁcant improvement in DFS compared with ﬂuoropyrimidine as single
+agent.72e74 The MOSAIC study used an infusional
+ﬂuoropyrimidine regimen in both arms [leucovorin/5ﬂuorouracil (LV5FU2) and leucovorin/5-ﬂuorouracil/oxaliplatin (FOLFOX)], the NSABP C-07 study used a bolus
+ﬂuoropyrimidine regimen in both arms [Roswell Park
+and leucovorin/5-ﬂuorouracil/irinotecan/oxaliplatin (FLOX)],
+whereas the XELOXA study used a bolus ﬂuoropyrimidine
+regimen (Mayo Clinic or Roswell Park) compared with
+capecitabine plus oxaliplatin (CAPOX). The MOSAIC and
+NSABP C-07 studies included both stage II and stage III
+colon cancer, while the XELOXA study included only stage III
+colon cancer.
+Although the chemotherapy regimens in the three
+studies were different, the addition of oxaliplatin resulted
+in a similar reduction in risk of recurrence in all three
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+1297
+
+G. Argilés et al.
+
+Annals of Oncology
+studies (23% in MOSAIC and 20% in NSABP C-07 and
+XELOXA). With longer follow-up, all three trials showed
+improved OS from the addition of oxaliplatin with a risk
+reduction of death of 16% in MOSAIC, 12% in NSABP C-07
+and 17% in XELOXA.65,72,75 However, a signiﬁcant
+improvement in OS was only shown to be signiﬁcant for
+stage III colon cancer.
+FOLFOX and CAPOX remain the current standard of care.
+As the FLOX regimen results in increased incidence of
+diarrhoea compared with FOLFOX or CAPOX, FLOX is not
+currently recommended in clinical practice; in addition,
+irinotecan, cetuximab and bevacizumab have not demonstrated clinical activity in the localised setting and therefore
+they should never be used as adjuvant treatment in this
+setting [I, E].76e80
+IDEA collaboration, choice of regiment and treatment
+duration of adjuvant treatment. The major cumulative
+toxicity from a ﬂuoropyrimidine/oxaliplatin doublet is sensory peripheral neuropathy. Worldwide, there have been six
+studies investigating whether 3 months of adjuvant
+chemotherapy is non-inferior to 6 months of treatment,
+with the aim of thereby diminishing the incidence of neuropathy and healthcare costs. These six trials have been
+examined prospectively by an international collaboration
+and published as the IDEA study.81 In this pooled analysis,
+12 834 patients with stage III colon cancer were randomised
+to receive either 3 months or 6 months of a ﬂuoropyrimidine/oxaliplatin doublet (either FOLFOX or CAPOX);
+the choice of regimen was mainly the clinician’s choice and
+not randomised. The 3-year DFS rates were similar (overall:
+74.6% and 75.5% for 3 months and 6 months, respectively)
+but the pre-deﬁned non-inferiority margin, accepting a 12%
+decrease as the upper limit of inferiority to be ruled out,
+was not conﬁrmed in the overall study population [HR 1.07;
+95% conﬁdence interval (CI) 1.00e1.15].
+However, sensory peripheral neuropathy grade 2 or
+worse was signiﬁcantly reduced from 34% with 6 months of
+treatment to 11% with 3 months of treatment.
+In the IDEA study, the treatment duration depends on the
+choice of regimen. For patients receiving CAPOX, 3 months
+treatment was non-inferior with 3-year DFS of 75.9% and
+74.8% for 3 and 6 months, respectively, whereas for FOLFOX, 3 months treatment was inferior with 3-year DFS of
+73.6% and 76.0% for 3 and 6 months, respectively. Therefore, non-inferiority of the shorter regimen was seen for
+CAPOX (HR 0.95; 95% CI 0.85e1.06) but not for FOLFOX
+(HR 1.16; 95% CI 1.06e1.26).
+Thus, both CAPOX for 3 months and FOLFOX for 6 months
+can be recommended as adjuvant chemotherapy regimens
+for stage III colon cancer [I, A]. It is important to mention
+that CAPOX and FOLFOX assignment in the IDEA trials
+was not randomised, precluding any formal comparison
+between the two regimens.
+CAPOX mitigates the need for central venous access and
+decreased neurotoxicity rates if 3 months is adequate but is
+associated with more diarrhoea and hand-foot syndrome
+than FOLFOX; thus, it may be relatively contraindicated if a
+1298
+
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+patient has an ileostomy and in cases of renal insufﬁciency.
+FOLFOX has higher reported neutropaenia rates. Immediate
+oxaliplatin cessation following occurrence of grade >1
+neuropathy is recommended in all cases (whatever the
+regimen and treatment duration) to avoid long-lasting
+symptomatic neurotoxicity that will impair the patient’s
+quality of life.
+Deﬁnition of risk groups in stage III. The IDEA study also
+conducted an exploratory analysis based on risk subgroups. In the lower-risk subgroup (deﬁned as patients
+with T1, T2 or T3 with N1 disease), 3 months of adjuvant
+therapy appeared to be sufﬁcient, when CAPOX was
+chosen [II, B]. In the higher-risk group (patients with T4 or
+N2 or both), 6 months of treatment may be necessary,
+especially when FOLFOX is the chosen regimen, but also
+with CAPOX, which missed the non-inferiority margin on
+this subgroup [II, B].
+However, the panel believes that the establishment of
+stage III risk subgroups should be used with caution, since
+this was a post-hoc analysis on the IDEA collaboration: T4
+versus T1e3 and N2 versus N1 subgroups analyses were
+pre-speciﬁed in the protocol but their combination in highversus low-risk subgroups was not, and moreover, its
+interaction test was not signiﬁcant (P ¼ 0.11). Thus, the
+panel agrees that the established high- versus low-risk
+subgroups in stage III based on IDEA should have level of
+evidence [V] (see Figure 3 for adjuvant treatment recommendations in stage III).
+Stage II disease
+As already discussed, there are major and minor clinicopathological factors that impact on the risk of relapse on
+stage II colon cancer. The presence of major factors
+including pT4 stage or <12 lymph nodes assessed confers
+increased risk of recurrence, while the presence of other
+additional risk factors is less signiﬁcantly associated with
+risk of relapse.48e50 While follow-up is an option for low-risk
+stage II patients, chemotherapy is recommended for intermediate- and high-risk patients [I, B].
+Although the de Gramont is the only regimen that has
+demonstrated efﬁcacy in the setting [I, B], capecitabine is an
+option, especially with contraindications for insertion of a
+central line [V]. It is also felt by the panel members that
+patients with high risk, patients with pT4 and/or <12 lymph
+nodes or accumulation of several intermediate risk factors,
+might be considered for the addition of oxaliplatin therapy
+based on a trend to an increased beneﬁt, although this did
+not achieve statistical signiﬁcance in the stage II high-risk
+subgroup analysis of the MOSAIC trial [I, B].72 For this
+high-risk population, the IDEA trial explored the optimal
+duration of the oxaliplatin-based adjuvant treatment,
+ﬁnding identical results to those reported for stage III patients, a non-proven non-inferiority for 3 months of treatment and there was a proven non-inferiority of CAPOX and
+inferiority of FOLFOX for 3 months when compared with
+6 months of FOLFOX,82 with all the limitations of these post
+hoc analyses as stated before. The presence of MSI/MMR in
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+G. Argilés et al.
+
+Annals of Oncology
+
+Figure 3. Recommendations for adjuvant treatment of stage III colon cancer.
+CAPOX, capecitabine plus oxaliplatin; FOLFOX, leucovorin/ﬂuorouracil/oxaliplatin; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; MSI, microsatellite instability;
+MSS, microsatellite stability.
+
+localised disease confers better prognosis and less beneﬁt
+to adjuvant therapy so chemotherapy should be indicated
+with caution and always in combination with oxaliplatin51e55
+(see Figure 4 for integration of clinicopathological and
+molecular factors with therapeutic recommendations).
+Lifestyle factors are likely to have an important impact on
+survival following adjuvant chemotherapy in either stage II
+or III patients, as reported for physical activity and nut
+consumption.83,84 In addition, aspirin reduces the risk of
+polyp formation and may also improve survival after adjuvant chemotherapy in PI3K-mutated colon cancer patients
+(approximately 20% of all patients).85 The ADD-ASPIRIN and
+ASPIK randomised studies are aiming to answer this question deﬁnitively.
+Timing of adjuvant chemotherapy
+Delay between surgery and the beginning of adjuvant
+chemotherapy is a matter of debate. In view of the evidence, it is important to commence adjuvant chemotherapy
+as soon as possible after surgery and ideally not later than 8
+weeks [II, B]. A meta-analysis of 14 studies showed that a
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+delay of >8 weeks in starting adjuvant chemotherapy is
+associated with a higher relative risk of death (HR 1.20; 95%
+CI 1.15e1.26, P ¼ 0.001).86 This observation has been
+conﬁrmed by other groups.87,88 However, population-based
+studies have shown that adjuvant chemotherapy might still
+provide some beneﬁt, even with delays up to 5e6
+months,89,90 but it seems that the beneﬁt of adjuvant
+chemotherapy is minimal or completely lost if treatment is
+started >6 months after surgery.
+Recommendations
+ Combinations of ﬂuoropyrimidines, either 5-FU or capecitabine, and oxaliplatin constitute the bases for stage III
+colon cancer adjuvant treatment [I, A; European Society
+for Medical Oncology-Magnitude of Clinical Beneﬁt Scale
+(ESMO-MCBS) v.1.1 score: B].
+ The length of oxaliplatin-based adjuvant treatment of
+stage III colon cancer based on the IDEA data may be
+tailored to 3 or 6 months for CAPOX [I, A] or 6 months
+for FOLFOX [I, A] also taking into consideration
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+1299
+
+G. Argilés et al.
+
+Annals of Oncology
+
+Figure 4. Recommendations for adjuvant treatment of stage II colon cancer.
+CAPOX, capecitabine plus oxaliplatin; CEA, carcinoembryonic antigen; FOLFOX, leucovorin/ﬂuorouracil/oxaliplatin; MSI, microsatellite instability; MSS, microsatellite
+stability.
+a
+For pT4 MSI: pT4 is a major risk factor but adjuvant chemotherapy beneﬁt in the presence of MSI is uncertain.
+
+pathological risk characteristics, patient comorbidity and
+risk assessment.
+ Further adaptation of the treatment according to risk
+subgroups: 3 months for CAPOX (T1e3 N1 disease), 6
+months for CAPOX (T4 or N2 disease) or 6 months for
+FOLFOX (T1e3 N1 or T4 or N2 disease) based on IDEA
+collaboration should be made with caution, since this
+was based on a post-hoc analysis, non-signiﬁcant for
+interaction [V].
+ For patients not ﬁt for or not tolerating oxaliplatin, either
+capecitabine or LV5FU2 (de Gramont) infusion is acceptable adjuvant regimens for a 6-month duration [I, A].
+1300
+
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+ For patients with low-risk stage II colon cancer, follow-up
+is recommended [I, A].
+ For patients with intermediate risk (non-MMR/MSI þ any
+risk factor except pT4 or <12 lymph nodes assessed), 6
+months of ﬂuoropyrimidines should be recommended
+[I, B].
+ Patients with high-risk stage II (pT4 or <12 lymph nodes
+or multiple intermediate risk factors, regardless of MSI)
+may be considered for the addition of oxaliplatin [I, C].
+ Patients with high-risk stage II colon cancer may be
+considered for 3 months of CAPOX, as the IDEA-pooled
+analysis showed non-inferiority of 3 months of CAPOX
+
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+G. Argilés et al.
+
+Annals of Oncology
+
+and inferiority of 3 months of FOLFOX when compared
+with 6 months of FOLFOX, with all the limitations of
+post-hoc analyses [II, B].
+ It is important to start adjuvant chemotherapy as soon as
+possible after surgery and ideally not later than 8 weeks
+[I, A].
+FOLLOW-UP AND LONG-TERM IMPLICATIONS
+Follow-up
+Overall, between 30% and 50% of all patients treated for
+localised colon cancer will eventually relapse and die of the
+disease.91,92 The main goal of follow-up protocols is detecting
+relapse on an early basis, thereby maximising patient survival in
+the metastatic setting. Systematic reviews have shown disparate results regarding the use of intensive follow-up as a tool to
+increase OS.93,94 However, it has been shown that there is an
+advance in the detection of recurrences [II, B] with intensive
+follow-up.94 Detection of isolated local recurrences was
+increased in the intensive group (15% compared with 9%, with
+risk ratio 1.61 and P ¼ 0.011), along with a small, nonsigniﬁcant increase in the detection of hepatic metastases.94
+However, heterogeneity of the studies included in these
+meta-analyses does not allow precise assessment of algorithms
+for optimal surveillance in clinical practice. Only trials including
+clinical assessment, CEA testing and/or liver imaging achieved
+signiﬁcant improvements in survival, though all studies
+considering liver imaging also included blood CEA monitoring.95
+On one hand, CT scan including optimal liver assessment
+has been shown to be more sensitive than ultrasonography
+(0.67 compared with 0.43) for liver relapse follow-up and, in
+addition, can detect chest recurrences. On the other hand,
+liver MRI may be an alternative when a CT scan has shown
+confusing liver lesions.96
+
+Regarding the timing and duration of follow-up, protocols need to be sensitive to the patterns of relapse of
+colon cancer. Among recurring patients, 80% of relapses
+occur during the ﬁrst 3 years and an additional 15% between the 3rd and 5th year, which supports a more
+intensive follow-up during the ﬁrst 3 years and a stop after
+5 years.91,96
+In addition to CEA testing and CT scans, colonoscopies
+should also be included in the follow-up since metachronous primary cancer can be detected with an incidence of
+0.7% within the ﬁrst 2 years after curative surgery.97 However, there is no indication for intensive endoscopic followup. If a colon without tumour or adenoma is observed 1
+year after resection, colonoscopy should be carried out after 3e5 years97 (see Figure 5 for colon cancer follow-up
+after curative resection).
+
+Long-term implications/survivorship care plans
+CRC survivors represent the third largest group of long-term
+cancer survivors in Western countries, w11% of this population. For this group, additional post-therapeutic followup interventions have demonstrated to improve patient
+outcomes.98 In this setting, the primary practitioner should
+have a signiﬁcant role in collaborating with the oncological
+teams.99,100
+Major elements in survivorship care are as follows:
+ Prevention of recurrent and new cancer (classic end
+point of follow-up).
+ Intervention for cancer sequelae and their treatment
+(rehabilitation).
+ Assessment of medical and psychological late effects
+(modern end point of follow-up).
+
+Figure 5. Recommendations for follow-up after curative resection.
+CEA, carcinoembryonic antigen; CT, computed tomography; mCRC, metastatic colorectal cancer.
+
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+1301
+
+G. Argilés et al.
+
+Annals of Oncology
+ Health promotion (lifestyle promotion, comorbidity
+prevention, etc.).
+Most long-term survivors of CRC report good quality of
+life following treatment, but several problems are still
+observed.101 A signiﬁcant proportion of patients have
+persistent bowel dysfunction. It is important to refer for
+dietary counselling and suggest use of over-the-counter
+medications (e.g. ﬁbre laxatives, stool softeners, antidiarrheals). Colostomies and ileostomies represent also a
+source of physiological distress and disturbances at the level
+of social functioning. Patients should be encouraged to take
+part in ostomy management programmes and psychological
+distress management programmes must be recommended
+in case of discomfort with their body changes.
+Colon cancer survivors experience higher rates of sexual
+distress and psychological depression.101 Assessment of
+distress should be considered, but evidence on the effectiveness of psychosocial interventions among survivors of
+CRC is limited. Patients should be encouraged to maintain a
+healthy lifestyle including exercise, quitting smoking,
+avoidance of excessive alcohol intake and adoption of a
+healthy diet rich in vegetables, fruit and berries adapted to
+the remaining gastrointestinal function.102
+
+used to calculate scores for new therapies/indications
+approved by the EMA since 1 January 2016 (https://www.
+esmo.org/Guidelines/ESMO-MCBS). The scores have been
+calculated by the ESMO-MCBS Working Group and
+validated by the ESMO Guidelines Committee. Levels of
+evidence and grades of recommendation have been applied
+using the system shown in supplementary Table S3, available at https://doi.org/10.1016/j.annonc.2020.06.022.104
+Statements without grading were considered justiﬁed
+standard clinical practice by the experts and the ESMO
+Faculty. This manuscript has been subjected to an anonymous peer review process.
+ACKNOWLEDGEMENTS
+The ESMO Guidelines Committee would like to thank the
+ESMO Faculty and other experts who provided critical reviews of these ESMO Clinical Practice Guidelines.
+FUNDING
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds (no grant number).
+DISCLOSURE
+
+Recommendations
+
+ Intensive follow-up allows earlier detection of relapses in
+patients at risk [II, B].
+ History and physical examination and CEA level determination are advised every 3e6 months for 3 years and
+every 6e12 months at years 4 and 5 after surgery [II, B].
+ Colonoscopy must be carried out at year 1 and every
+3e5 years thereafter, looking for metachronous adenomas and cancers [III, B].
+ CT scan of chest and abdomen every 6e12 months for the
+ﬁrst 3 years can be considered in patients who are at higher
+risk of recurrence according to the TNM classiﬁcation [II, B].
+ Other laboratory and radiological examinations are of
+unproven beneﬁt and must be restricted to patients
+with suspicious symptoms [V, C].
+ Long-term follow-up, rehabilitation and survivorship care
+programmes should be implemented, aiming at detection of recurrent or new cancers, assessment and management of late and psychosocial effects and
+implementation of health promotion measures [III, A].
+METHODOLOGY
+These Clinical Practice Guidelines were developed in
+accordance with the ESMO standard operating procedures
+for Clinical Practice Guidelines development (http://www.
+esmo.org/Guidelines/ESMO-Guidelines-Methodology). The
+relevant literature has been selected by the expert authors.
+An ESMO-MCBS table with ESMO-MCBS scores is included
+in supplementary Table S2, available at https://doi.org/10.
+1016/j.annonc.2020.06.022.103 ESMO-MCBS v.1.1 was
+1302
+
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+GA has reported that he has acted as a consultant or
+speaker for Amgen, Roche, Merck, Sanoﬁ, Servier, Merck
+Sharp & Dohme and Bayer. JTab has reported consultancy
+or speaker roles for Amgen, Roche, Merck, Celgene, Lilly,
+Sanoﬁ, Sirtex, Pierre Fabre, Merck Sharp & Dohme and
+Servier. TI has reported honoraria for advisory boards from
+Amgen, Bayer, Bristol-Myers Squibb, Celgene, Pierre-Fabre,
+Roche and Servier. DH has received research funding from
+Merck Serono. JTai has reported personal ﬁnancial interest
+from scientiﬁc consultancy roles for Array Biopharma,
+AstraZeneca, Bayer, BeiGene, Boehringer Ingelheim, Chugai, Genentech, Inc., Genmab A/S, Halozyme, Imugene
+Limited, Inﬂection Biosciences Limited, Ipsen, Kura
+Oncology, Lilly, Merck Sharp & Dohme, Menarini, Merck
+Serono, Merrimack, Merus, Molecular Partners, Novartis,
+Peptomyc, Pﬁzer, Pharmacyclics, ProteoDesign SL, Rafael
+Pharmaceuticals, F. Hoffmann-La Roche Ltd, Sanoﬁ, SeaGen, Seattle Genetics, Servier, Symphogen, Taiho, VCN
+Biosciences, Biocartis, Foundation Medicine, HalioDX SAS
+and Roche Diagnostics and institutional ﬁnancial support
+for clinical trials or contracted research for Agendia BV,
+Amgen SA, Debiopharm International SA, Janssen-Cilag SA,
+Mologen AG, Novartis Farmaceutica SA, PharmaMar, Roche
+Farma SA, Laboratorios Servier SL and Symphogen A/S. RL
+has reported leadership role for GISCAD. RS has reported
+advisory board/speaker for Pﬁzer, Novartis, Amgen, Merck
+and Merck Sharpe & Dohme, advisory board for VCNBiosciences, Agendia, Guardant Health, Roche Diagnostics, Ferrer, Ipsen, Roche Pharma and Lilly, speaker
+role for AstraZeneca and Celgene, leadership role for and
+stocks from Sace Medhealth, grants/research support from
+Roche Diagnostics, Novartis Farmaceutica, VCN Biosciences, Merck KGaA, Roche Farma and Mologen. PLP has
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+G. Argilés et al.
+
+Annals of Oncology
+
+reported advisory board/speaker for Amgen, AstraZeneca,
+Biocartis, Boehringer Ingelheim, Merck, Merck Sharp &
+Dohme, Bristol-Myers Squibb, Roche and Sanoﬁ. PQ has
+received research funding from Roche, Amgen, Halio,
+Intragen, Genomic Health, GeneFirst, Adlai Nordlyte and
+Leica and acted as a consultant or speaker for Roche, Bayer,
+Amgen and Merck Serono and is a National Institute for
+Health Senior Investigator. TY has reported research funding from Novartis Pharma KK, Merck Sharp & Dohme KK,
+Sumitomo Dainippon Pharma Co., Ltd, Chugai Pharmaceutical Co., Ltd, Sanoﬁ KK, Daiichi Sankyo Co., Ltd, Parexel
+International Inc., ONO Pharmaceutical Co., Ltd and GlaxoSmithKline KK. EM has received honoraria for lecture and
+advisory boards from Roche, Amgen, Servier, Astra Zeneca,
+Bayer, Merck-Serono, Pierre Fabre and Sanoﬁ, grant support from AIRC and speaker support from ESMO. DA has
+acted as a consultant or speaker for Amgen, AstraZeneca,
+Bayer, Bristol-Myers Squibb, Roche, Merck Serono, Sanoﬁ,
+Pierre Fabre, Merck Sharp & Dohme, Boston Scientiﬁc,
+Terumo and Servier.
+REFERENCES
+1. Arnold M, Sierra MS, Laversanne M, et al. Global patterns and trends
+in colorectal cancer incidence and mortality. Gut. 2017;66:683-691.
+2. Allemani C, Weir HK, Carreira H, et al. Global surveillance of cancer
+survival 1995-2009: analysis of individual data for 25,676,887 patients from 279 population-based registries in 67 countries
+(CONCORD-2). Lancet. 2015;385:977-1010.
+3. Kerr J, Anderson C, Lippman SM. Physical activity, sedentary behaviour, diet, and cancer: an update and emerging new evidence. Lancet
+Oncol. 2017;18:e457-e471.
+4. Bullman S, Pedamallu CS, Sicinska E, et al. Analysis of fusobacterium
+persistence and antibiotic response in colorectal cancer. Science.
+2017;358:1443-1448.
+5. Pleguezuelos-Manzano C, Puschhof J, Rosendahl Huber A, et al.
+Mutational signature in colorectal cancer caused by genotoxic pks(þ)
+E. coli. Nature. 2020;580:269-273.
+6. Torre LA, Siegel RL, Ward EM, Jemal A. Global cancer incidence and
+mortality rates and trendsean update. Cancer Epidemiol Biomarkers
+Prev. 2016;25:16-27.
+7. Lauby-Secretan B, Vilahur N, Bianchini F, et al. The IARC perspective
+on colorectal cancer screening. N Engl J Med. 2018;378:1734-1740.
+8. Ryan NAJ, Morris J, Green K, et al. Association of mismatch repair
+mutation with age at cancer onset in Lynch syndrome: implications
+for stratiﬁed surveillance strategies. JAMA Oncol. 2017;3:1702-1706.
+9. Inadomi JM. Screening for colorectal neoplasia. N Engl J Med.
+2017;376:149-156.
+10. Davis DM, Marcet JE, Frattini JC, et al. Is it time to lower the recommended screening age for colorectal cancer? J Am Coll Surg.
+2011;213:352-361.
+11. Stjepanovic N, Moreira L, Carneiro F, et al. Hereditary gastrointestinal
+cancers: ESMO Clinical Practice Guidelines for diagnosis, treatment
+and follow-up. Ann Oncol. 2019;30:1558-1571.
+12. Atkin WS, Valori R, Kuipers EJ, et al. European guidelines for quality
+assurance in colorectal cancer screening and diagnosis. First edition e
+colonoscopic surveillance following adenoma removal. Endoscopy.
+2012;44:E151-E163.
+13. Lin JS, Piper MA, Perdue LA, et al. Screening for colorectal cancer:
+updated evidence report and systematic review for the US preventive
+services task force. JAMA. 2016;315:2576-2594.
+14. Bretthauer M, Kaminski MF, Løberg M, et al. Population-based
+colonoscopy screening for colorectal cancer: a randomized clinical
+trial population-based colonoscopy screening for colorectal cancer.
+JAMA Intern Med. 2016;176:894-902.
+
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+15. McDermott FT, Hughes ESR, Pihl E, et al. Prognosis in relation to
+symptom duration in colon cancer. Br J Surg. 1981;68:846-849.
+16. Ford AC, Veldhuyzen van Zanten SJ, Rodgers CC, et al. Diagnostic
+utility of alarm features for colorectal cancer: systematic review and
+meta-analysis. Gut. 2008;57:1545-1553.
+17. Lam A, Carmichael R, Buettner PG, et al. Clinicopathological signiﬁcance of synchronous carcinoma in colorectal cancer. Am J Surg.
+2011;202:39-44.
+18. Fajobi O, Yiu C, Sen-Gupta SB, Boulos PB. Metachronous colorectal
+cancers. Br J Surg. 1998;85:897-901.
+19. Halligan S, Wooldrage K, Dadswell E, et al. Computed tomographic
+colonography versus barium enema for diagnosis of colorectal cancer
+or large polyps in symptomatic patients (SIGGAR): a multicentre
+randomised trial. Lancet. 2013;381:1185-1193.
+20. Hamilton W, Round A, Sharp D, Peters TJ. Clinical features of colorectal cancer before diagnosis: a population-based case-control study.
+Br J Cancer. 2005;93:399-405.
+21. Konishi T, Shimada Y, Hsu M, et al. Association of preoperative and
+postoperative serum carcinoembryonic antigen and colon cancer
+outcome. JAMA Oncol. 2018;4(3):309-315.
+22. Duffy MJ, van Dalen A, Haglund C, et al. Clinical utility of biochemical
+markers in colorectal cancer: European Group on Tumour Markers
+(EGTM) guidelines. Eur J Cancer. 2003;39:718-727.
+23. Locker GY, Hamilton S, Harris J, et al. ASCO 2006 update of recommendations for the use of tumor markers in gastrointestinal cancer.
+J Clin Oncol. 2006;24:531305327.
+24. van der Geest LG, Lam-Boer J, Koopman M, et al. Nationwide trends
+in incidence, treatment and survival of colorectal cancer patients with
+synchronous metastases. Clin Exp Metastasis. 2015;32:457-465.
+25. Horton KM, Abrams RA, Fishman EK. Spiral CT of colon cancer: imaging
+features and role in management. Radiographics. 2000;20:419-430.
+26. Nerad E, Lahaye MJ, Maas M, et al. Diagnostic accuracy of CT for local
+staging of colon cancer: a systematic review and meta-analysis. AJR
+Am J Roentgenol. 2016;207:984-995.
+27. Koh JL, Yan TD, Glenn D, Morris DL. Evaluation of preoperative computed
+tomography in estimating peritoneal cancer index in colorectal peritoneal carcinomatosis. Ann Surg Oncol. 2009;16:327-333.
+28. Sahani DV, Bajwa MA, Andrabi Y, et al. Current status of imaging and
+emerging techniques to evaluate liver metastases from colorectal
+carcinoma. Ann Surg. 2014;259:861-872.
+29. ACR Committee on Drugs and Contrast Media. Manual on Contrast
+Media Version 10.3. American College of Radiology; 2018. Available
+at https://www.acr.org/-/media/ACR/Files/Clinical-Resources/Contra
+st_Media.pdf. Accessed March 4, 2020.
+30. van der Molen AJ, Reimer P, Dekkers IA, et al. Post-contrast acute
+kidney injury e Part 1: deﬁnition, clinical features, incidence, role of
+contrast medium and risk factors: Recommendations for updated
+ESUR Contrast Medium Safety Committee guidelines. Eur Radiol.
+2018;28:2845-2855.
+31. van der Molen AJ, Reimer P, Dekkers IA, et al. Post-contrast acute
+kidney injury. Part 2: risk stratiﬁcation, role of hydration and other
+prophylactic measures, patients taking metformin and chronic dialysis
+patients: recommendations for updated ESUR Contrast Medium
+Safety Committee guidelines. Eur Radiol. 2018;28:2856-2869.
+32. Furukawa H, Ikuma H, Seki A, et al. Positron emission tomography
+scanning is not superior to whole body multidetector helical
+computed tomography in the preoperative staging of colorectal
+cancer. Gut. 2006;55:1007-1011.
+33. Niekel MC, Bipat S, Stoker J. Diagnostic imaging of colorectal liver
+metastases with CT, MR imaging, FDG PET and/or FDG PET/CT: a
+meta-analysis of prospective studies including patients who have not
+previously undergone treatment. Radiology. 2010;257:674-684.
+34. Ferlitsch M, Moss A, Hassan C, et al. Colorectal polypectomy
+and endoscopic mucosal resection (EMR): European Society of
+Gastrointestinal Endoscopy (ESGE) clinical guideline. Endoscopy.
+2017;49:270-297.
+35. Aarons CB, Shanmugan S, Bleier JI. Management of malignant colon
+polyps: current status and controversies. World J Gastroenterol.
+2014;20:16178-16183.
+
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+1303
+
+G. Argilés et al.
+
+Annals of Oncology
+36. Haggitt RC, Glotzbach RE, Soffer EE, Wruble LD. Prognostic factors in
+colorectal carcinomas arising in adenomas: implications for lesions
+removed by endoscopic polypectomy. Gastroenterology. 1985;89:
+328-336.
+37. Lugli A, Kirsch R, Ajioka Y, et al. Recommendations for reporting tumor budding in colorectal cancer based on the International Tumor
+Budding Consensus Conference (ITBCC) 2016. Mod Pathol. 2017;30:
+1299-1311.
+38. Backes Y, Elias SG, Groen JN, et al. Histologic factors associated with
+need for surgery in patients with pedunculated T1 colorectal carcinomas. Gastroenterology. 2018;154:1647-1659.
+39. Bujanda L, Cosme A, Gil I, Arenas-Mirave JI. Malignant colorectal
+polyps. World J Gastroenterol. 2010;16:3103-3111.
+40. Voyer TEL, Sigurdson ER, Hanlon AL, et al. Colon cancer survival is
+associated with increasing number of lymph nodes analysed: a secondary survey of intergroup trial INT-0089. J Clin Oncol. 2003;21:
+2912-2919.
+41. Xynos E, Gouvas N, Triantopoulou C, et al. Clinical practice guidelines
+for the surgical management of colon cancer: a consensus statement
+of the Hellenic and Cypriot Colorectal Cancer Study Group by the
+HeSMO. Ann Gastroenterol. 2016;29:3-17.
+42. Van Cutsem E, Cervantes A, Nordlinger B, Arnold D. Metastatic
+colorectal cancer: ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-up. Ann Oncol. 2014;25(suppl 3):iii1-iii9.
+43. Nelson H, Sargent DJ, Wieand HS, et al. A comparison of laparoscopically assisted and open colectomy for colon cancer. N Engl J
+Med. 2004;350:2050-2059.
+44. Hewett PJ, Allardyce RA, Bagshaw PF, et al. Short-term outcomes of
+the Australasian randomized clinical study comparing laparoscopic
+and conventional open surgical treatments for colon cancer: the
+ALCCaS trial. Ann Surg. 2008;248:728-738.
+45. Ribeiro IB, Bernardo WM, Martins BDC, et al. Colonic stent versus
+emergency surgery as treatment of malignant colonic obstruction in
+the palliative setting: a systematic review and meta-analysis [published correction appears in Endosc Int Open 2018;6:C1] Endosc Int
+Open. 2018;6:E558-E567.
+46. van Hooft JE, Veld JV, Arnold D, et al. Self-expandable metal stents for
+obstructing colonic and extracolonic cancer: European Society of
+Gastrointestinal Endoscopy (ESGE) Guideline e Update 2020.
+Endoscopy. 2020;52:389-407.
+47. Washington MK, Berlin J, Branton P, et al. Protocol for the examination of specimens from patients with primary carcinoma of the
+colon and rectum. Arch Pathol Lab Med. 2009;133:1539-1551.
+48. Brierley JD, Gospodarowicz MK, Wittekind C, eds. TNM Classiﬁcation of
+Malignant Tumours. 8th edition. Oxford: John Wiley & Sons, Inc.; 2016.
+49. Roth AD, Delorenzi M, Tejpar S, et al. Integrated analysis of molecular
+and clinical prognostic factors in stage II/III colon cancer. J Natl
+Cancer Inst. 2012;104:1635-1646.
+50. Wells KO, Hawkins AT, Krishnamurthy DM, et al. Omission of adjuvant
+chemotherapy is associated with increased mortality in patients with
+T3N0 colon cancer with inadequate lymph node harvest. Dis Colon
+Rectum. 2017;60:15-21.
+51. Ribic CM, Sargent DJ, Moore MJ, et al. Tumor microsatellite-instability
+status as a predictor of beneﬁt from ﬂuorouracil-based adjuvant
+chemotherapy for colon cancer. N Engl J Med. 2003;349:247-257.
+52. Sargent DJ, Marsoni S, Monges G, et al. Defective mismatch repair as
+a predictive marker for lack of efﬁcacy of ﬂuorouracil-based adjuvant
+therapy in colon cancer. J Clin Oncol. 2010;28:3219-3226.
+53. Sinicrope FA, Foster NR, Thibodeau SN, et al. DNA mismatch repair
+status and colon cancer recurrence and survival in clinical trials of
+5-ﬂuorouracil-based adjuvant therapy. J Natl Cancer Inst. 2011;103:
+863-875.
+54. Tejpar S, Saridaki Z, Delorenzi M, et al. Microsatellite instability,
+prognosis and drug sensitivity of stage II and III colorectal cancer:
+more complexity to the puzzle. J Natl Cancer Inst. 2011;103:
+841-844.
+55. Kim JE, Hong YS, Kim HJ, et al. Defective mismatch repair status was
+not associated with DFS and OS in stage II colon cancer treated with
+
+1304
+
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+adjuvant chemotherapy. Ann Surg Oncol. 2015;22(Suppl 3):S630S637.
+Weiser MR, Landmann RG, Kattan MW, et al. Individualized prediction
+of colon cancer recurrence using a nomogram. J Clin Oncol. 2008;26:
+380-385.
+Henricks LM, Lunenburg C, de Man FM, et al. DPYD genotype-guided
+dose individualisation of ﬂuoropyrimidine therapy in patients with
+cancer: a prospective safety analysis. Lancet Oncol. 2018;19:
+1459-1467.
+Loriot M-A, Ciccolini J, Thomas F, et al. Dépistage du déﬁcit en
+dihydropyrimidine déshydrogénase (DPD) et sécurisation des chimiothérapies à base de ﬂuoropyrimidines: mise au point et recommandations nationales du GPCO-Unicancer et du RNPGx. Bull Cancer.
+2018;105:397-407.
+Meulendijks D, Henricks LM, Jacobs BAW, et al. Pretreatment serum
+uracil concentration as a predictor of severe and fatal ﬂuoropyrimidine-associated toxicity. Br J Cancer. 2017;116(11):1415-1424.
+Etienne-Grimaldi MC, Boyer JC, Beroud C, et al. New advances in
+DPYD genotype and risk of severe toxicity under capecitabine. PLoS
+One. 2017;12(5):e0175998.
+Loriot MA, Masskouri F, Carni P, et al. Intérêts et limites de la
+recherche du déﬁcit en dihydropyrimidine déshydrogénase dans le
+suivi des patients traités par ﬂuoropyrimidines: résultats de deux
+enquêtes nationales de pratiques réalisées auprès des médecins
+et des biologistes [Dihydropyrimidine dehydrogenase deﬁciency
+screening for management of patients receiving a ﬂuoropyrimidine:
+Results of two national practice surveys addressed to clinicians and
+biologists]. Bull Cancer. 2019;106(9):759-775.
+Popov I, Carrato A, Sobrero A, et al. Raltitrexed (Tomudex) versus
+standard leucovorin-modulated bolus 5-ﬂuorouracil: results from the
+randomised phase III Pan-European Trial in Adjuvant Colon Cancer 01
+(PETACC-1). Eur J Cancer. 2008;44:2204-2211.
+Booth CM, Nanji S, Wei X, et al. Use and effectiveness of adjuvant
+chemotherapy for stage III colon cancer: a population-based study.
+J Natl Compr Canc Netw. 2016;14:47-56.
+Haller DG, O’Connell MJ, Cartwright TH, et al. Impact of age and
+medical comorbidity on adjuvant treatment outcomes for stage III
+colon cancer: a pooled analysis of individual patient data from four
+randomized, controlled trials. Ann Oncol. 2015;26:715-724.
+Schmoll HJ, Tabernero J, Maroun J, et al. Capecitabine plus oxaliplatin
+compared with ﬂuorouracil/folinic acid as adjuvant therapy for stage
+III colon cancer: ﬁnal results of the NO16968 randomized controlled
+phase III trial. J Clin Oncol. 2015;33:3733-3740.
+McCleary NJ, Meyerhardt JA, Green E, et al. Impact of age on the
+efﬁcacy of newer adjuvant therapies in patients with stage II/III colon
+cancer: ﬁndings from the ACCENT database. J Clin Oncol. 2013;31:
+2600-2606.
+Taieb J, Le Malicot K, Shi Q, et al. Prognostic value of BRAF and KRAS
+mutations in MSI and MSS stage III colon cancer. J Natl Cancer Inst.
+2017;109(5):djw272.
+Gray RG, Quirke P, Handley K, et al. Validation study of a quantitative
+multigene reverse transcriptase-polymerase chain reaction assay for
+assessment of recurrence risk in patients with stage II colon cancer.
+J Clin Oncol. 2011;29:4611-4619.
+Niedzwiecki D, Frankel WL, Venook AP, et al. Association between
+results of a gene expression signature assay and recurrence-free interval in patients with stage II colon cancer in cancer and leukemia
+group B 9581 (Alliance). J Clin Oncol. 2016;34:3047-3053.
+Pages F, Mlecnik B, Marliot F, et al. International validation of the
+consensus Immunoscore for the classiﬁcation of colon cancer: a
+prognostic and accuracy study. Lancet. 2018;391:2128-2139.
+Tie J, Wang Y, Tomasetti C, et al. Circulating tumor DNA analysis detects minimal residual disease and predicts recurrence in patients
+with stage II colon cancer. Sci Transl Med. 2016;8:346ra392.
+Andre T, Boni C, Navarro M, et al. Improved overall survival with
+oxaliplatin, ﬂuorouracil, and leucovorin as adjuvant treatment in
+stage II or III colon cancer in the MOSAIC trial. J Clin Oncol. 2009;27:
+3109-3116.
+
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+G. Argilés et al.
+
+Annals of Oncology
+
+73. Kuebler JP, Wieand HS, O’Connell MJ, et al. Oxaliplatin combined with
+weekly bolus ﬂuorouracil and leucovorin as surgical adjuvant
+chemotherapy for stage II and III colon cancer: results from NSABP
+C-07. J Clin Oncol. 2007;25:2198-2204.
+74. Haller DG, Tabernero J, Maroun J, et al. Capecitabine plus oxaliplatin
+compared with ﬂuorouracil and folinic acid as adjuvant therapy for
+stage III colon cancer. J Clin Oncol. 2011;29:1465-1471.
+75. Yothers G, O’Connell MJ, Allegra CJ, et al. Oxaliplatin as adjuvant
+therapy for colon cancer: updated results of NSABP C-07 trial, including
+survival and subset analyses. J Clin Oncol. 2011;29:3768-3774.
+76. Van Cutsem E, Labianca R, Bodoky G, et al. Randomized phase III trial
+comparing biweekly infusional ﬂuorouracil/leucovorin alone or with
+irinotecan in the adjuvant treatment of stage III colon cancer:
+PETACC-3. J Clin Oncol. 2009;27(19):3117-3125.
+77. Alberts SR, Sargent DJ, Nair S, et al. Effect of oxaliplatin, ﬂuorouracil,
+and leucovorin with or without cetuximab on survival among patients
+with resected stage III colon cancer: a randomized trial. JAMA.
+2012;307:1383-1393.
+78. Taieb J, Tabernero J, Mini E, et al. Oxaliplatin, ﬂuorouracil, and leucovorin with or without cetuximab in patients with resected stage III
+colon cancer (PETACC-8): an open-label, randomised phase 3 trial.
+Lancet Oncol. 2014;15:862-873.
+79. Allegra CJ, Yothers G, O’Connell MJ, et al. Phase III trial assessing
+bevacizumab in stages II and III carcinoma of the colon: results of
+NSABP protocol C-08. J Clin Oncol. 2011;29:11-16.
+80. de Gramont A, Van Cutsem E, Schmoll HJ, et al. Bevacizumab plus
+oxaliplatin-based chemotherapy as adjuvant treatment for colon
+cancer (AVANT): a phase 3 randomised controlled trial. Lancet Oncol.
+2012;13:1225-1233.
+81. Grothey A, Sobrero AF, Shields AF, et al. Duration of adjuvant
+chemotherapy for stage III colon cancer. N Engl J Med. 2018;378:
+1177-1188.
+82. Iveson T, Sobrero AF, Yoshino T, et al. Prospective pooled analysis of four
+randomized trials investigating duration of adjuvant (adj) oxaliplatinbased therapy (3 vs 6 months) for patients (pts) with high-risk stage II
+colorectal cancer (CC). J Clin Oncol. 2019;37(Suppl 15):3501.
+83. Meyerhardt JA, Heseltine D, Niedzwiecki D, et al. Impact of physical
+activity on cancer recurrence and survival in patients with stage III colon
+cancer: ﬁndings from CALGB 89803. J Clin Oncol. 2006;24:3535-3541.
+84. Fadelu T, Zhang S, Niedzwiecki D, et al. Nut consumption and survival
+in patients with stage III colon cancer: results from CALGB 89803
+(Alliance). J Clin Oncol. 2018;36:1112-1120.
+85. Liao X, Lochhead P, Nishihara R, et al. Aspirin use, tumor PIK3CA
+mutation, and colorectal-cancer survival. N Engl J Med. 2012;367:
+1596-1606.
+86. Des Guetz G, Nicolas P, Perret GY, et al. Does delaying adjuvant
+chemotherapy after curative surgery for colorectal cancer impair
+survival? A meta-analysis. Eur J Cancer. 2010;46:1049-1055.
+87. Hershman D, Hall MJ, Wang X, et al. Timing of adjuvant chemotherapy
+initiation after surgery for stage III colon cancer. Cancer. 2006;107:
+2581-2588.
+88. Gao P, Huang XZ, Song YX, et al. Impact of timing of adjuvant
+chemotherapy on survival in stage III colon cancer: a populationbased study. BMC Cancer. 2018;18:234.
+89. Kim YW, Choi EH, Kim BR, et al. The impact of delayed commencement of adjuvant chemotherapy (eight or more weeks) on survival in
+
+Volume 31
+
+-
+
+Issue 10
+
+-
+
+2020
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+
+99.
+
+100.
+
+101.
+
+102.
+
+103.
+104.
+
+stage II and III colon cancer: a national population-based cohort
+study. Oncotarget. 2017;8:80061-80072.
+Turner MC, Farrow NE, Rhodin KE, et al. Delay in adjuvant chemotherapy and survival advantage in stage III colon cancer. J Am Coll
+Surg. 2018;226:670-678.
+Sargent D, Sobrero A, Grothey A, et al. Evidence for cure by adjuvant
+therapy in colon cancer: observations based on individual patient
+data from 20,898 patients on 18 randomized trials. J Clin Oncol.
+2009;27:872-877.
+Seo SI, Lim SB, Yoon YS, et al. Comparison of recurrence patterns
+between 5 years and >5 years after curative operations in colorectal cancer patients. J Surg Oncol. 2013;108:9-13.
+Wille-Jorgensen P, Syk I, Smedh K, et al. Effect of more vs less
+frequent follow-up testing on overall and colorectal cancerspeciﬁc mortality in patients with stage II or III colorectal cancer: the COLOFOL randomized clinical trial. JAMA. 2018;319:
+2095-2103.
+Alhayek-Aí M, López-Calviño B, Pértega-Díaz S, et al. Intensive followup strategies improve outcomes in nonmetastatic colorectal cancer
+patients after curative surgery: a systematic review and meta-analysis. Ann Oncol. 2014;26:644-656.
+Chau I, Allen MJ, Cunningham D, et al. The value of routine serum
+carcino-embryonic antigen measurement and computed tomography
+in the surveillance of patients after adjuvant chemotherapy for
+colorectal cancer. J Clin Oncol. 2004;22:1420-1429.
+Tsikitis VL, Malireddy K, Green EA, et al. Postoperative surveillance
+recommendations for early stage colon cancer based on results from
+the clinical outcomes of surgical therapy trial. J Clin Oncol. 2009;27:
+3671-3676.
+Rex DK, Kahi CJ, Levin B, et al. Guidelines for colonoscopy surveillance
+after cancer resection: a consensus update by the American Cancer
+Society and the US Multi-Society Task Force on Colorectal Cancer.
+Gastroenterology. 2006;130:1865-1871.
+Howell D, Hack TF, Oliver TK, et al. Models of care for post-treatment
+follow-up of adult cancer survivors: a systematic review and quality
+appraisal of the evidence. J Cancer Surviv. 2012;6:359-371.
+Grunfeld E, Earle CC. The interface between primary and oncology
+specialty care: treatment through survivorship. J Natl Cancer Inst
+Monogr. 2010;2010:25-30.
+Sisler JJ, Taylor-Brown J, Nugent Z, et al. Continuity of care of colorectal cancer survivors at the end of treatment: the oncology-primary
+care interface. J Cancer Surviv. 2012;6:468-475.
+Schneider EC, Malin JL, Kahn KL, et al. Surviving colorectal cancer:
+patient-reported symptoms 4 years after diagnosis. Cancer. 2007;110:
+2075-2082.
+Meyerhardt JA, Niedzwiecki D, Hollis D, et al. Association of dietary
+patterns with cancer recurrence and survival in patients with stage III
+colon cancer. JAMA. 2007;298:754-764.
+Cherny NI, Dafni U, Bogaerts J, et al. ESMO-Magnitude of Clinical
+Beneﬁt Scale Version 1.1. Ann Oncol. 2017;28:2340-2366.
+Dykewicz CA. Summary of the guidelines for preventing
+opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis. 2001;33:139-144 (Adapted
+from: Gross PA, Barrett TL, Dellinger EP, et al. Purpose of
+quality standards for infectious diseases. Clin Infect Dis.
+1994;18:421).
+
+https://doi.org/10.1016/j.annonc.2020.06.022
+
+1305
+
+

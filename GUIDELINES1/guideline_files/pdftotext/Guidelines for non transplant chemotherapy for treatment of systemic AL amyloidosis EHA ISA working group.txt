@@ -1,0 +1,1809 @@
+Amyloid
+The Journal of Protein Folding Disorders
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/iamy20
+
+Guidelines for non-transplant chemotherapy for
+treatment of systemic AL amyloidosis: EHA-ISA
+working group
+Ashutosh D. Wechalekar, M. Teresa Cibeira, Simon D. Gibbs, Arnaud Jaccard,
+Shaji Kumar, Giampaolo Merlini, Giovanni Palladini, Vaishali Sanchorawala,
+Stefan Schönland, Christopher Venner, Mario Boccadoro & Efstathios
+Kastritis
+To cite this article: Ashutosh D. Wechalekar, M. Teresa Cibeira, Simon D. Gibbs, Arnaud
+Jaccard, Shaji Kumar, Giampaolo Merlini, Giovanni Palladini, Vaishali Sanchorawala, Stefan
+Schönland, Christopher Venner, Mario Boccadoro & Efstathios Kastritis (2023) Guidelines for
+non-transplant chemotherapy for treatment of systemic AL amyloidosis: EHA-ISA working
+group, Amyloid, 30:1, 3-17, DOI: 10.1080/13506129.2022.2093635
+To link to this article: https://doi.org/10.1080/13506129.2022.2093635
+
+© 2022 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+
+Published online: 15 Jul 2022.
+
+Submit your article to this journal
+
+Article views: 7360
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 5 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=iamy20
+
+AMYLOID
+https://doi.org/10.1080/13506129.2022.2093635
+
+GUIDELINE ARTICLE
+
+Guidelines for non-transplant chemotherapy for treatment of systemic
+AL amyloidosis: EHA-ISA working group
+Ashutosh D. Wechalekara, M. Teresa Cibeirab , Simon D. Gibbsc, Arnaud Jaccardd, Shaji Kumare ,
+€nlandh , Christopher Venneri,
+Giampaolo Merlinif, Giovanni Palladinif, Vaishali Sanchorawalag , Stefan Scho
+j
+k
+Mario Boccadoro and Efstathios Kastritis
+a
+National Amyloidosis Centre, University College London (Royal Free Campus), London, UK; bAmyloidosis and Myeloma Unit, Hospital Clinic
+of Barcelona, IDIBAPS, Barcelona, Spain; cVictorian and Tasmanian Amyloidosis Service, Eastern Health Monash University Clinical School,
+Box Hill, VIC, Australia; dHematology Department, French Reference Center for AL Amyloidosis (Limoges-Poitiers), CHU Limoges, Limoges,
+France; eDivision of Hematology, Department of Internal Medicine, Mayo Clinic, Rochester, Minnesota, USA; fAmyloidosis Research and
+Treatment Center, Foundation "Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) Policlinico San Matteo" and Department of
+Molecular Medicine, University of Pavia, Pavia, Italy; gAmyloidosis Center, Boston University School of Medicine and Boston Medical Center,
+Boston, MA, USA; hMedical Department V, Amyloidosis Center, University Hospital Heidelberg, Heidelberg, Germany; iBC Cancer, Vancouver
+Centre, Vancouver, Canada; jDepartment of Molecular Biotechnology and Health Sciences, University of Turin, Turin, Italy; kDepartment of
+Clinical Therapeutics, National and Kapodistrian University of Athens, School of Medicine, Athens, Greece
+
+ABSTRACT
+
+ARTICLE HISTORY
+
+Background: This guideline has been developed jointly by the European Society of Haematology and
+International Society of Amyloidosis recommending non-transplant chemotherapy treatment for
+patients with AL amyloidosis.
+Methods: A review of literature and grading of evidence as well as expert recommendations by the
+ESH and ISA guideline committees.
+Results and Conclusions: The recommendations of this committee suggest that treatment follows
+the clinical presentation which determines treatment tolerance tempered by potential side effects to
+select and modify use of drugs in AL amyloidosis. All patients with AL amyloidosis should be considered for clinical trials where available. Daratumumab-VCD is recommended from most untreated
+patients (VCD or VMDex if daratumumab is unavailable). At relapse, the two guiding principles are the
+depth and duration of initial response, use of a class of agents not previously exposed as well as the
+limitation imposed by patients’ fitness/frailty and end organ damage. Targeted agents like venetoclax
+need urgent prospective evaluation. Future prospective trials should include advanced stage patients
+to allow for evidence-based treatment decisions. Therapies targeting amyloid fibrils or those reducing
+the proteotoxicity of amyloidogenic light chains/oligomers are urgently needed.
+
+Received 14 March 2022
+Revised 12 May 2022
+Accepted 21 June 2022
+KEYWORDS
+
+Amyloidosis; non-transplant
+treatment; guidelines
+
+Abbreviations: ACE: Angiotensin Converting Enzyme Inhibitors; AL: Amyloidosis light chain; ASCT:
+Autologous Stem cell transplant; BCL-2: B-cell lymphoma gene 2; BCMA: B Cell Maturation Antigen;
+BDR: Bendamistine-Dexamethasone-Rituximab; BEAM: BCNU, Etoposide, Cytarabine, Melphalan; BiTE:
+bispecific T-cell engager; CAR-T: Chimeric antigen receptor T-Cell; Co2: Carbon di-oxide; CR: Complete
+Resposne; CRS: Cytokine release syndrome; CTCAE: Common Terminology Criteria for Adverse Events;
+cTn: cardiac troponin; CyBorD: Cyclophosphamide-Bortezomib-Dexamethasone; dFLC: difference
+between the involved and uninvolved light chain; dLCO: diffusion capacity for carbon monoxide; DRC:
+Dexamethasone-Rituximab-Cyclophosphamide; ECOG: Eastern Cooperative Oncology Group; eGFR: estimated glomerular filteration rate; EHA: European Haematology Association; EMN: European Myeloma
+Network; FLC: Free light chain; GI: Gastrointestinal; HR: haematologic response; I C d: Ixazomib-cyclophosphamide-dexamethasone; I M iD: immunomodulatory agent; iFLC: involved free light chain; IRD:
+Ixazomib-lenalidomide-dexamethasone; ISA: International Society of Amyloidosis; IV: Intravenous;
+LCDD: Light Chain deposition disease; locAL: Localised AL; LVEF: Left ventricular ejection fraction; m
+Ab: monoclonal antibody; Mdex: Melphalan-Dexamethasone; MOD-PFS: Major organ deterioration progression free survival; MRD: Minimal Residual Disease; MTD: Maximum Tolerated Dose; MYD-88:
+Myeloid differentiation primary response 88; NHL: Non-Hodgkins Lymphoma; NT-proBNP: N-terminal
+fragment of pro-brain natriuretic peptide; PFS: progression free survival; PI: proteasome inhibitor; PR:
+Partial Response; SAP: Serum Amyloid P Component; SLAMF7: Signalling Lymphocyte Activation
+Molecule Family; SQ: subcutaneous; US: United States of America; VCD: Velcade-cyclophosphomidedexamethasone; VGPR: Very Good Partial Response; VMDex: Velcade-Melphalan-Dexamethasone; WM:
+Waldenstrom’s Macroglobulinaemia
+
+CONTACT Ashutosh D. Wechalekar
+2PF, UK
+
+a.wechalekar@ucl.ac.uk
+
+National Amyloidosis Centre, UCL (Royal Free Campus), Rowland Hill Street, London, NW3
+
+ß 2022 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/),
+which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+2
+
+A. D. WECHALEKAR ET AL.
+
+Introduction
+The current treatment paradigm for AL amyloidosis aims to
+reduce the production of amyloidogenic immunoglobulin light
+chain by suppressing the underlying plasma cell clone with a
+view to reducing the availability of the toxic amyloid precursor
+and to halting amyloid deposition, allowing for gradual tissue
+regression of amyloid deposits leading to organ response and
+improved survival. Disease staging using criteria for cardiac
+staging based on Mayo clinic staging system (European modification of Mayo 2004 (stages I, II, IIIa and IIIb) [1] and Mayo
+2012 update incorporating additional serum free light chains
+(stage I-IV)) [2] as well as renal staging system from Palladini
+and colleagues is crucial at baseline for risk stratification. The
+depth of haematologic response is directly associated with outcomes in AL amyloidosis [3]. Therapy for AL amyloidosis has
+been adopted from regimes studied in the treatment of multiple myeloma along with supportive measures to manage the
+amyloid-related complications. Lately, prospective trials studying novel regimes in AL have been completed and are an area
+of increasing interest to academia and industry. Daratumumab
+with cyclophosphamide-bortezomib-dexamethasone became
+the first formally licenced treatment for AL amyloidosis in
+2021. The advantage of a particular cytotoxic treatment must
+be balanced against the patient’s baseline organ function,
+which can be significantly compromised because of amyloid
+deposition. Standardised assessment of disease status is key to
+inform treatment intensity and choice.
+All patients with symptomatic systemic AL amyloidosis with
+visceral organ involvement, significant soft tissue involvement,
+coagulopathy or neuropathic involvement should be considered
+for early treatment. The benefits of chemotherapy for patients
+with a monoclonal gammopathy and isolated amyloid deposits
+on a bone marrow biopsy or in the carpal tunnel in absence of
+any other end organ involvement remain unclear but, due to a
+very high risk of systemic progression, such patients need close
+
+long-term follow up. Localised AL amyloidosis, affecting a single organ site in absence of any other systemic deposition
+occurring often in the upper respiratory, urogenital and gastrointestinal tracts, the skin and the orbit, is a relatively indolent
+disorder needing local (usually surgical) interventions and
+chemotherapy is generally not indicated [4].
+
+Methodology
+The objective of this guideline is to provide healthcare professionals with clear guidance on the management and
+investigation of patients with AL amyloidosis. A PubMed
+search was conducted including clinical trials in AL amyloidosis and papers or reviews where AL amyloidosis was the
+major focus. Relevant meeting abstracts were also included.
+All papers were evaluated according to the GRADE criteria.
+Levels of evidence and grades of recommendation are based
+on the GRADE system (http://www.gradeworkinggroup.org).
+Expert consensus was used were there were limited published data.
+The draft guideline was reviewed and agreed by the members
+of the writing group and approved by the board of the
+International Society of Amyloidosis and European
+Haematology Association Guidelines committee. The treatment
+scenario is rapidly changing and these guidelines will be considered current until any publication of update/review or three
+years from the date of current publication (whichever is earlier).
+Goals of treatment, assessing and monitoring
+treatment response
+The international society of amyloidosis (ISA) has published
+response criteria for AL amyloidosis [3] and there were
+recently clarified [5] (Table 1). Multiple organ biopsies to
+assess amyloid regression or progression have no significant
+
+Table 1. Updated criteria for organ response and progression in AL amyloidosis [108–110].
+Organ
+Heart
+
+Kidney
+
+Response
+NT-proBNP response (>30% and > 300ng/L decrease in
+patients with baseline NT-proBNP  650 ng/L)
+OR NYHA class response (2 class decrease in subjects
+with baseline NYHA class 3 or 4)
+
+Progression
+NT-proBNP progression (>30% and > 300 ng/L increase)
+OR
+cTn progression (33% increase)
+OR
+Ejection fraction (EF) progression (10% decrease in EF)
+25% worsening of estimated glomerular filtration rate
+
+30% decrease of 24-hr urine protein or drop below 0.5 g/
+day (urine protein must
+be > 0.5 g/day pretreatment). Estimated glomerular
+filtration rate must not worsen by 25% over baseline.
+Liver
+50% decrease in abnormal alkaline phosphatase value
+50% increase of alkaline phosphatase above the
+Decrease in liver size radiographically at least 2 cm
+lowest value
+Peripheral nervous system
+Improvement in electromyogram nerve conduction
+Progressive neuropathy by electromyography or nerve
+velocity (rare)
+conduction velocity
+Definitions for Haematologic response in AL amyloidosis
+Response categories
+Definitions
+Complete response
+Both criteria must be met:
+ Absence of amyloidogenic light chains (either free and/or as part of a complete immunoglobulin) defined by negative
+immunofixation electrophoresis of both serum and urine
+ Either a FLC ratio within the reference range or the uninvolved FLC concentration is greater than involved FLC
+concentration with or without an abnormal FLC ratio
+Very good partial response
+dFLC concentration < 40 mg/L
+Partial response
+dFLC decrease > 50% compared to baseline
+No response
+All other patients
+
+NT-proBNP: N-terminal pro-Brain Natriuretic Peptide; NYHA: New York Heart Classification; FLC: free light chain ratio; dFLC: difference between the involved and
+uninvolved light chains; cTn: cardiac troponin T; EF: ejection fraction.
+
+AMYLOID
+
+value, are frequently misleading and potentially dangerous.
+Response in AL amyloidosis involves assessment of the direct
+impact of chemotherapy on the clone and, an indirect effect of
+improvement in organ function based on the a priori organ
+damage (an “organ response”) as well as depth of haematologic response achieved. Although the deeper the haematologic
+response, the greater is the likelihood of organ responses, there
+may be a discrepancy between the haematologic response and
+organ response. The present criteria define organ response in a
+binary fashion (response/no response). Efforts are ongoing to
+develop a composite response model which not only grades
+the extent of the organ response but also incorporates the
+haematologic response.
+Whilst organ response is the goal of treatment and, since
+none of available agents can influence this directly, achieving a very good partial haematologic response (VGPR) was
+considered as the “goal” of treatment in AL amyloidosis.
+However, the ISA criteria clearly show that a complete
+response (CR) is associated with superior outcomes [3] and,
+lately, single centre studies shown that reaching very low
+free light chain levels after treatment (difference between
+involved and uninvolved light chains (dFLC) or involved
+free light chain (iFLC)) is also predictive of better outcomes
+[6–9]. These guidelines would suggest achieving a complete
+haematologic response is the goal of treatment in AL amyloidosis, ideally associated with iFLC < 20 mg/L or dFLC
+<10 mg/L. Haematologic response should be evaluated at
+least monthly (more frequently in advanced patients) and
+treatment modification is considered early if the patient
+does achieve progressive FLC response within the initial
+cycles (if the response following 2 cycles if  partial response
+(PR) or following 3 cycles < VGPR and no organ response
+has occurred) [10]. An algorithm to help treatment modification based on depth of response has been published [11].
+There is mounting evidence indicating that undetectable
+minimal residual disease (MRD) is associated with higher
+rates of organ responses and significant reduction of the
+risk of haematologic relapse [12,13]. However, this endpoint
+has not been evaluated prospectively and, as yet, cannot be
+proposed as the goal of therapy in all patients; no recommendations can be made on optimal timing of assessment,
+optimal evaluation method and clinical decision making
+based on detection of MRD.
+Recommendations on goals of clone directed treatments
+in AL amyloidosis:
+ Goal of treatment is to achieve a complete haematologic
+response (Grade B, Level IIb) with iFLC <20 mg/L or
+dFLC <10 mg/L (Grade B; Level III)
+ Patients achieving less than a very good partial response
+by cycle 3 or less than a partial response by cycle 2 should
+be considered for treatment modification (Grade C;
+Level IV)
+
+Supportive care
+A multidisciplinary approach to management is crucial with
+involvement from cardiologists, nephrologists, neurologists,
+
+3
+
+gastroenterologists (depending on the type/extent of organ
+involvement) in addition to the treating haematologists [14].
+Stringent supportive therapy is critical to survival of
+patients. In cases with renal or cardiac involvement, the key
+element is meticulous fluid balance. It is important to avoid
+commonly used drugs for heart failure (like ACE inhibitors,
+beta blockers or calcium channel blockers) which may worsen symptoms [15]. Patients presenting with severe nephrotic syndrome can have substantial urinary loss of proteins,
+such as albumin (edema and intravascular volume depletion), immunoglobulins (increasing risk of infections), loss
+of antithrombin-III and activation of coagulation factors
+(increased risk of thrombosis) – each needing specific clinical review and intervention if appropriate. Proactive identification and management of cardiac arrhythmias as well as
+judicious but early use of anticoagulants in patients with
+atrial fibrillation, poor atrial function as well as those with
+severe nephrotic syndrome, are important. Patient education
+in monitoring blood pressure and fluid status can help.
+There are limited data on use of supportive care measures
+in AL amyloidosis [14] and these recommendations are
+based on expert consensus opinion.
+
+Treatment of newly diagnosed patients with AL
+amyloidosis
+Treatment of AL amyloidosis is risk adapted. The choice of
+regime, agent and intensity is dictated by the degree of
+organ involvement, the performance status, age, and bone
+marrow findings. The primary decision is whether a patient
+is a candidate for an autologous stem cell transplant (ASCT)
+as part of the upfront therapy, or combination chemotherapy without ASCT. The ISA ASCT guidelines discuss the
+criteria for stem cell transplantation in detail [16]. Apart
+from the patients fulfilling the criteria outlined in the ISAASCT guidelines (and briefly below), all other patients are
+treated with chemotherapy-based approaches. With increasing effectiveness of chemotherapy regimens, especially incorporating daratumumab upfront, the current role of ASCT in
+newly diagnosed AL remains to be clarified. However, in
+patients with AL amyloidosis with underlying symptomatic
+myeloma, and in patients with IgM-AL amyloidosis, ASCT
+remains an important part of first line therapy.
+
+Selection of candidates for ASCT (refer for details to
+the ISA ASCT guideline [16])
+The eligibility criteria for ASCT varies from centre to centre.
+Only 20% of newly diagnosed patients are eligible to
+receive this intensive form of treatment. Selection criteria
+for treatment with ASCT have required a confirmed tissue
+diagnosis of AL amyloidosis with end organ damage, age
+18–70 years, and minimum measures of performance status
+(Eastern Cooperative Oncology Group (ECOG) 0–2), cardiac function (left ventricular ejection fraction (LVEF)
+>40%), pulmonary function (O2 saturation >95% on room
+air, diffusing capacity of the lungs for carbon monoxide
+(DLCO) > 50% of predicted, absence of medically refractory
+
+4
+
+A. D. WECHALEKAR ET AL.
+
+pleural effusions), hepatic function (direct bilirubin <2 mg/
+dL), renal function (estimated glomerular filtration rate
+(eGFR) >30 ml/min/1.73m2) and hemodynamic stability
+(baseline supine systolic blood pressure >90 mm Hg).
+Patients on haemodialysis or peritoneal dialysis for renal
+failure are not excluded if other eligibility criteria are met.
+Cardiac biomarker staging system can also define risk of
+treatment-related complications while undergoing ASCT.
+Elevated cardiac troponin T levels (>0.06 ng/ml) and Nterminal fragment of pro-brain natriuretic peptide
+(NTproBNP) (>5000 pg/mL; in practice, a lower NTproBNP threshold may be considered) are associated with
+poor survival while undergoing ASCT.
+
+Non-transplant approaches
+Alkylating agents
+Melphalan and cyclophosphamide (plus corticosteroids) are
+active against plasma cell clones and are mostly used as part
+of triplet combinations with newer agents. Melphalan plus
+dexamethasone (MDex) is a relatively safe therapy for transplant-ineligible patients with haematologic response rates up
+to 76% [17], but is less effective than when combined with
+bortezomib (BMDex) [18]. Use of oral melphalan and dexamethasone without incorporation of novel agents is now
+considered suboptimal in majority of patients.
+Proteasome inhibitors (PIs)
+Clonal plasma cells in AL amyloidosis are particularly sensitive to PIs because of their dependence on proteasome
+integrity to cope with the proteotoxic stress caused by the
+misfolded light chains [19]. Targeting the proteasome has
+been a highly effective strategy in AL amyloidosis.
+Bortezomib, either as single agent [20], with dexamethasone
+[21,22] or as part of a triplet, is highly active. It is administered subcutaneously, usually once weekly, combined with
+dexamethasone and an alkylating agent. Bortezomib-containing regimens are considered as the primary therapy for
+AL amyloidosis in most centres in Europe, the US and
+Asia-Pacific.
+Bortezomib-Cyclophosphamide-Dexamethasone (VCD or
+CyBorD) is most commonly used regimen and a weekly
+bortezomib protocol is preferred (there is no specific need
+for weeks’ treatment break each cycle (“off week”))
+[6,23–27]. Overall hematological response rates with VCD/
+CyBorD range between 60% and 65%, with CRs in the range
+of 18–25% in the larger series [6,23]. This regimen is moderately well tolerated, does not cause significant myelosuppression, may be administered with cyclophosphamide
+orally or intravenous (IV) and does not require dose adjustments for renal impairment. There is a suggestion that
+VCD/CyBorD may be less effective in patients harbouring a
+plasma cell clone with chromosomal translocation
+t(11;14) [28,29].
+Bortezomib combined with oral melphalan and dexamethasone (BMDex) was compared to MDex in a
+
+prospective randomised study in newly diagnosed transplant ineligible patients with disease Mayo stage I–IIIA
+[18]. BMDex treated patients achieved an 81% hematological response rate at 3 months compared to 57% in the
+MDex arm. This is the only therapy in AL amyloidosis
+that has shown a survival improvement, mainly in
+patients with a mild cardiac disease (Mayo Clinic stage
+II) in a prospective randomised study with contemporary
+regimens. Retrospective data suggest that BMDex may be
+able to overcome the disadvantage of bortezomib in
+patients harbouring t(11;14) but further validation is
+needed for recommending this [28,29]. The melphalan
+dose needs renal adjustment, myelotoxicity may be more
+pronounced than with cyclophosphamide and late effects
+such as myelodysplastic syndromes can occur. Neuropathy
+is the primary and limiting toxicity of bortezomib. A signal of cardiotoxicity may also exist with bortezomib; atrial
+arrhythmias may be more frequent with intravenous (IV)
+administration than with subcutaneous (SQ) bortezomib
+[30]. Bortezomib needs to be used with caution in
+patients with significant lung disease due to a small risk
+of pulmonary toxicity [31].
+Ixazomib is a second-generation PI, with oral administration and lower neurotoxicity compared to bortezomib. A
+phase III randomised study evaluated Ixazomib with dexamethasone vs physician choice in patients with relapsed AL
+amyloidosis. Although the first primary endpoint of overall
+haematologic
+response
+rate
+was
+not
+met,
+Ixazomib–dexamethasone prolonged time to vital organ
+deterioration and mortality, progression free survival (PFS)
+and time to subsequent therapy vs physician’s choice [32].
+In a small phase I/II study, Ixazomib combined with cyclophosphamide and dexamethasone (ICd) was safe and well
+tolerated in newly diagnosed AL amyloidosis patients and
+induced  VGPR in 39% [33]. In a phase 2 study from
+Mayo Clinic, ICd followed by ixazomib maintenance was
+given in 35 patients. After a median of 4 cycles, overall
+haematologic response was 57%, including CR in 14% and
+VGPR in 26%; however, the most common reason to move
+off study was institution of alternate therapy in 63% of
+patients [34]. In small study from China [35], 25 newly
+diagnosed patients received ixazomib 4 mg with low-dose
+(10 mg) dexamethasone; after a median of 4 cycles of therapy, 70.8% achieved a haematologic response, including 43%
+CR and 21% VGPR. Most common severe toxicities
+included thrombocytopenia and diarrhoea.
+Carfilzomib is an irreversible second-generation PI which
+has shown improved efficacy compared to bortezomib in
+relapsed/refractory but not in newly diagnosed, transplant
+ineligible patients with myeloma. The known cardiovascular
+and renal toxicity of carfilzomib limits its use in patients
+with AL amyloidosis when other options are available. In a
+small series (N ¼ 5) carfilzomib was safe and active in newly
+diagnosed patients with peripheral neuropathy [36]. A prospective phase 1 study has reported on safety of carfilzomibthalidomide-dexamethasone in relapsed AL amyloidosis [37].
+
+AMYLOID
+
+Immunomodulatory agents (IMiDs)
+IMiD’s are useful in treatment of AL amyloidosis and form
+an important part of the therapeutic armamentarium.
+However, clonal responses to IMiDs tend to be slow in
+most patients with AL amyloidosis. Thalidomide is associated with significant neurological and GI toxicity, low doses
+are used and is no longer widely prescribed [38].
+Lenalidomide is poorly tolerated at the full 25 mg daily dose
+in AL amyloidosis and all patients should start with significant dose reduction (escalation based on tolerance). When
+combined with MDex or cyclophosphamide/dexamethasone
+in previously untreated patients, at doses of 15 mg daily or
+lower, haematologic response rates of 46–60% are seen but
+with low CR rates [39–41]. Common lenalidomide-associated toxicities in patients with AL amyloidosis, include skin
+rashes, thrombotic complications, infections, fatigue and
+deterioration of renal function. Pomalidomide has a safer
+renal profile and is, perhaps, better tolerability in patients
+with AL amyloidosis compared to lenalidomide; studies in
+the first line are eagerly awaited [42,43]. Use of IMiDs is
+associated with an increase in NT-proBNP, which often is
+transient, but can make assessment of cardiac response challenging task. The upfront combination of bortezomib and
+low dose lenalidomide was reported in a small study with
+high haematologic response rates (89% on intent to treat,
+including CR in 32% and VGPR in 57%), however, toxicity
+was also significant [41]. A similar combination with pomalidomide, bortezomib and dexamethasone in newly diagnosed patients was also associated with toxicity and early
+mortality (but unclear if disease or treatment related) [44].
+Monoclonal antibodies
+Daratumumab is an anti-CD38 monoclonal antibody, with
+substantial single activity in patients with relapsed/refractory
+AL amyloidosis [45–47], and in combination with bortezomib-based therapy in newly diagnosed patients.
+In the phase III ANDROMEDA study, subcutaneous daratumumab plus VCD was compared to 6 cycles of standard
+VCD in newly diagnosed stage I–IIIA patients; daratumumab continued for up to 18 months in the dara-VCD arm,
+after the completion of initial 6 cycles [48]. DaratumumabVCD combination improved CR rates (the primary end
+point of the study) to 53% vs. 18% for VCD. Overall haematologic response rates were also significantly higher (92%
+vs 77%), as well as  VGPR rates (79% vs 49%); with similar
+findings in patients with t(11;14) and those with cardiac
+stage III disease (although the study was not powered for
+these end points). At 6 months, organ response rates were
+also higher in the daratumumab-VCD arm (cardiac: 42% vs
+22%; renal: 53% vs 24%) which improved at 18 months in
+the daratumumab-VCD arm to 53% and 58% respectively
+with no change in the control arm [49]. Early mortality was
+similar between groups and long term survival outcomes
+have not yet been evaluated. A study specific end-point
+(Major Organ Deterioration-progression free survival
+(MOD-PFS)), defined as a composite of cardiac or renal
+failure, haematologic progression or death, was improved in
+
+5
+
+the daratumumab-VCD arm, driven primarily by the lower
+rates of haematologic progressions, at this stage of follow
+up. Regarding the toxicity of this new combination, there
+was an increase in infection rates but no clear signal of cardiac toxicity was observed.
+
+Treatment choice
+For patients who are ineligible for high dose therapy (see
+the high dose therapy guideline) and no available option of a
+clinical trial, a combination of daratumumab-VCD is the
+preferred regimen, if daratumumab is available. If daratumumab is not available, then a bortezomib-based triplet
+combination, either VCD or BMDex, are primary options.
+BMDex and VCD have not been compared prospectively
+limiting evidence-based recommendations. By expert consensus, VCD is the preferred regimen in most patients
+because it is easy to administer on an outpatient basis, with
+either oral or IV cyclophosphamide; may be preferable in
+patients with moderate or severe reduction of eGFR and/or
+heavy hypoalbuminemia and in those with potentially
+reversible contraindications to stem cell transplant. BMDex
+may have a role in selected patients where ASCT is unlikely
+to be an option at presentation or later in the disease.
+Melphalan needs dose adjustment when eGFR is below
+30 ml/mi/1.73 m2. Bortezomib and dexamethasone doses
+need to be adapted to cardiac stage, presence of autonomic/
+peripheral neuropathy, fluid retention status and patient’s
+functional status.
+Optimal duration of therapy has not been evaluated formally. Expert consensus suggests treatment is given for at
+least two cycles beyond best response. For patients with at
+least VGPR after 3 cycles, depending on the treatment tolerance, it is reasonable to continue for a total of 6–8 treatment cycles as depth of response can improve.
+Recommendations for upfront treatment:
+Patients without significant neuropathy:
+ Cardiac Stage I-IIIa: Dara-CyBorD (preferred)(Grade A;
+Level 1a); alternative CyBorD (Grade B; Level IIa) or
+VMDex (Grade A; Level 1a)
+ Cardiac Stage IIIb: Dose modified Dara-CyBorD (Grade
+C; Level IV) or single agent daratumumab (Grade B;
+Level III); alternative dose modified CyBorD or VMDex
+(Grade C; Level IV)
+Maintenance therapy
+There is limited data on maintenance therapy in AL amyloidosis. In the ANDROMEDA study, patients treated with
+Daratumumab-VCD received monthly daratumumab for up
+to 24 cycles from start of therapy (18 months maintenance);
+however, patients were not randomised to receive maintenance or not and the data from this part of the study are not
+available yet. Patients who have amyloidosis on background
+of symptomatic myeloma are likely to benefit from the use
+of maintenance therapy as per the recommendations for
+multiple myeloma. For all other patients with AL
+
+6
+
+A. D. WECHALEKAR ET AL.
+
+amyloidosis, however, no recommendation can be made
+given the lack of data but there may be a role in those with
+persistent clonal disease (less than CR or CR with persistent
+MRD) and persistent organ dysfunction.
+Recommendation:
+ Routine maintenance
+Level IV).
+
+not recommended
+
+(Grade C;
+
+Consolidation therapy
+For eligible patients’ high dose melphalan may be used as
+consolidation after less than a complete response to chemotherapy, considering that complete responses are often very
+long lasting in AL amyloidosis and that high dose melphalan only obtains 16% of complete response in patients
+refractory to induction treatment; however, in non-ASCT
+eligible patients, there is limited data regarding the role of
+consolidation. In a small series in patients with AL (N ¼ 19)
+or light chain deposition disease (LCDD) (N ¼ 6) who had
+not achieved a CR after standard bortezomib-based therapy,
+consolidation with a short course of daratumumab (4 doses,
+one month) improved response to CR in 8 (32%) patients,
+including 5 (20%) patients that became also MRD negative
+[50]. The role of consolidation treatment with an alternative
+chemotherapy regime in those achieving a VGPR but not a
+CR has not been studied. However, the availability of effective low toxicity treatment like daratumumab is changing the
+treatment paradigm in AL amyloidosis, with the more frequent search for a complete haematologic response. In those
+patients with no organ response or organ progression despite reaching a VGPR or CR with persistent MRD, there
+may be a role for further treatment to improve the depth
+of response.
+Recommendation:
+ Routine consolidation not recommended (Grade C;
+Level IV)
+ Consolidation treatment may be considered patients with
+VGPR or CR with persistent MRD and no organ response
+(Grade C; Level IV)
+
+Special populations
+
+and deep haematologic responses and encouraging improvement in survival [52]. Intravenous daratumumab may be
+given in divided doses to reduce fluid volume but the subcutaneous formulation is preferred. Close monitoring is
+needed and inpatient treatment administration is advised.
+The advantage of initiating treatment with continuous cardiac monitoring is unclear. Addition of a third agent to bortezomib-dexamethasone may accelerate haematologic
+response: cyclophosphamide and melphalan are usually well
+tolerated and daratumumab is, again, preferred. IMiDs are
+associated with significant toxicity in these patients and
+should be avoided unless there are contraindications to bortezomib and no access to daratumumab.
+Recommendations:
+ Dose modified Dara-CyBorD (Grade C; Level IV) or single
+agent daratumumab (Grade B; Level III); alternative dose
+modified CyBorD or VMDex (Grade C; Level IV)
+Patients with neuropathy
+Dose reduced bortezomib-based therapy may be used for
+patients presenting with mild neuropathy. Daratumumab in
+addition to bortezomib or as single agent is preferred, if
+available. For patients with severe neuropathy, bortezomib
+should be avoided as first option and other treatments such
+as MDex, lenalidomide-based regimes, cautious once weekly
+carfilzomib-dexamethasone in the absence of advanced cardiac disease or daratumumab-based regimens should be
+considered, depending on the availability of these agents.
+The role of Ixazomib in patients with neuropathy remains
+to be clarified but can be cautiously considered in selected
+cases. In absence of other options in patients not achieving
+a haematologic response, cautious bortezomib may be given,
+with close monitoring of the neuropathy.
+Recommendation:
+ Single
+agent
+daratumumab
+or
+LenalidomideDexamethasone or oral melphalan-dexamethasone or
+Carfilzomib-Dex or Venetoclax are all possible options
+(Grade C; Level IV)
+ Single agent daratumumab is the preferred option (Grade
+C; Level IV)
+
+Stage IIIB patients
+Anti-clonal therapy alone may not suffice for such patients,
+even when haematologic response is rapid, as early mortality
+may be as high as 50% following therapy initiation [1].
+Close collaboration with the heart failure clinic is mandatory, and cardiac transplantation should be discussed for
+younger patients, especially those with isolated cardiac
+involvement. Immediate treatment initiation is crucial. Dose
+modification of bortezomib and/or dexamethasone or
+sequential introduction of drugs should be considered as
+appropriate [51]. Daratumumab, if available, is proposed as
+the preferred option, even starting as single agent;preliminary data of an ongoing European phase II trial show early
+
+Patients with bleeding
+Standard therapy should be used for these patients with
+careful monitoring to avoid thrombocytopenia, which could
+increase the risk of major, clinically significant bleeding.
+Replacement with clotting factor concentrates, as indicated,
+may be considered. In patients with factor X deficiency and
+life-threatening bleeding, activated factor VIIa may have
+role. IMiDs need careful assesement in patients at high
+bleeding risk due to complexity of balancing risks of bleeding vs. clotting and challenge in use of thromboprophylaxis.
+The anti-fibrinolytic agent, tranexamic acid, may be used to
+help decrease the rate of bleeding if there is no
+
+AMYLOID
+
+prothrombotic risk factors (like severe nephrotic syndrome
+or history of ischaemic heart disease or stroke).
+Patients with advanced liver dysfunction
+Patients presenting with high bilirubin have a particularly
+poor prognosis in the absence of deep haematologic
+response, and are challenging to manage since many drugs
+that undergo hepatic metabolism needing substantial dose
+adjustments. Dose modification for bortezomib in liver dysfunction remains poorly studied. Conversely, cases of bortezomib-induced liver toxicity have been reported, but is not
+considered as a hepatotoxic drug; close monitoring is
+advised. Cyclophosphamide is metabolised and activated in
+the liver but its metabolites can also cause liver toxicity.
+Daratumumab has not been tested in patients with liver dysfunction and there is limited data on potential liver toxicity
+although it is considered as an unlikely cause of clinically
+apparent liver injury. Lenalidomide has been associated with
+rare cases of severe hepatotoxicity although mild transaminitis is not uncommon. Daratumumab with steroids may be
+preferred given the low potential for hepatotoxicity but
+there is limited data.
+Patients requiring dialysis
+Being on dialysis is per se not an indication for a specific
+regime choice but all drugs used require renal dose modification. Bortezomib generally does not need dose adjustment
+but it should administered after dialysis. Standard VCD has
+been used for several years in the management of patients
+with acute or chronic renal failure due to plasma cell disorders, either myeloma or AL amyloidosis or other monoclonal gammopathy related diseases. Melphalan requires dose
+adjustments and may be associated with unpredictable
+haematologic toxicity in patients with severe renal dysfunction. Among IMiDs, only lenalidomide requires dose modifications according to eGFR/CrCl; these are not necessary
+for pomalidomide or thalidomide. Daratumumab can be
+safely administered in patients with severe renal dysfunction
+or those undergoing dialysis, based on retrospective data
+from patients with AL amyloidosis or prospective data from
+myeloma patients. Retrospective data in relapsed/refractory
+AL have suggested that in patients with heavy proteinuria
+daratumumab may be less effective due to loss in urine [53]
+and this may also be a problem with other monoclonal
+antibody-based treatments in AL. PK data from the
+ANDROMEDA cohort suggests daratumumab kinetics were
+similar to that seen in multiple myeloma although specific
+analysis in patients with heavy proteinuria is not available
+[54]. When used intravenously, it may should be administered in a smaller fluid volume.
+IgM related amyloidosis
+In most of these cases, a B-cell non-Hodgkin’s lymphoma
+(NHL) and not a plasma cell is the culprit clone. Often lymphoplasmacytic clones are present but the type of
+
+7
+
+monoclonal cells in the bone marrow should be carefully
+assessed as a study in 70 patients with IgM amyloidosis
+showing that 16 (23%) had pure plasma cell neoplasm with
+a t(11;14) in 60% of cases whilst most of the patients with a
+lymphoplasmacytoid clone had MYD-88 mutations (presence of which may help the distinction) [55]. Regimens
+designed for NHL/Waldenstr€
+om’s macroglobulinaemia
+(WM), targeting mature B-cells, are preferred for those with
+a lymphoplasmacytic neoplasm. Rituximab-based regimens
+are the mainstay of therapy, based mostly in the experience
+from treatment of WM. Rituximab with bendamustine has
+been used extensively in IgM-AL [56,57]. Combinations
+with rituximab and bortezomib (such as bortezomib with
+DRC or BDR [58–60]) may be another options, but these
+have not been compared prospectively. Responses to
+Ibrutinib appear modest. It may be considered as a treatment in selected patients without other treatment options
+for an underlying lymphoplasmacytic or small lymphocytic
+clone; however, limited experience in AL amyloidosis suggested that there may be potential cardiotoxicity of this
+drug and it appears to be poorly tolerated [61]. The retrospective analysis of 38 patients treated with ASCT showed a
+deep haematologic response (VGPR) in 76% of patients
+with renal and cardiac responses in 65% and 60% of
+patients, respectively. Treatment-related mortality was 5%
+[62]. IgM-related amyloidosis is considered one of the indications for ASCT due to poor responses with standard treatments and limited treatment options (compared to non-IgM
+AL amyloidosis) at relapse. There is limited data on conditioning regimens for ASCT but consideration to using
+BEAM (BCNU, Etoposide, Cytarabine, Melphalan) in
+younger fitter patients with lymphoplasmacytoid clones may
+be beneficial.
+Recommendation:
+ Preferred treatment: Rituximab-Bendamustine (Grade B;
+Level IIb) or ASCT (Grade B, Level IIb)
+ Alternatives: Rituximab-bortezomib-Dex or RituximabCyclo-Dex or CyBorD or Ibrutinib(±Ritux) (Level C;
+Grade IV)
+
+Treatment of relapsed disease
+Most patients with AL amyloidosis will relapse after initial
+first line treatment and ISA has defined relapse criteria in
+AL amyloidosis. However, these were defined when risks of
+progression and light chain proteotoxicity were less well
+understood. Patients often relapse slowly with progressive
+light chain increase which may or may not be associated
+with worsening end organ dysfunction at the onset of
+relapse. The Mayo clinic group showed that patients with
+relapse and end organ dysfunction have poorer outcomes
+than those treated just for serological progression [63].
+Palladini et al. put forward the concept of patients with
+“high-risk dFLC progression” [64] which was defined as a
+dFLC of >20 mg/L, a level >20% of baseline value, and a
+>50% increase from the value reached at best response and
+is conceptually attractive. However, both arguments for
+
+8
+
+A. D. WECHALEKAR ET AL.
+
+advocating early therapy at clonal relapse to prevent organ
+progression [65] and cautioning against over-enthusiastic
+resumption of chemotherapy in frail patients at the first
+sign of clonal relapse [66] are both valid in this patient
+population. Formal studies for the threshold iFLC/dFLC levels for re-starting chemotherapy remain limited. Thus, it is
+reasonable to consider therapy when the dFLC has reached
+50% of the diagnostic level in a patient with limited vital
+organ involvement but most patients who present with significant end organ dysfunction (cardiac, renal or autonomic), application of the “high-risk” dFLC-progression is
+more appropriate. In patients with initial severe cardiac disease, relapse treatment should be rapidly initiated in case of
+haematologic relapse from complete response.
+There are many potential options available for treatment
+of relapse systemic AL amyloidosis; proteasome inhibitors
+(PI), monoclonal antibodies (mAb), immunomodulatory
+therapy (IMIDs), venetoclax, bendamustine, and high dose
+melphalan with autologous stem cell transplantation
+(ASCT). The options of patient relapsing or progressing on
+D-VCD remain unclear. Whilst it is not possible to be prescriptive regarding the optimal sequencing of therapies, the
+two guiding principles are the depth and duration of initial
+response, use of a class of agents not previously exposed as
+well as the limitation imposed by patients’ fitness/frailty and
+end organ damage. For example, prolonged response with
+bortezomib based regime (with no neuropathy) would
+encourage re-treatment with a PI, ideally with a different
+partner for combination. In patients without prior daratumumab exposure, daratumumab based regime may be favoured. Enrolment in clinical trials is encouraged.
+Proteasome inhibitors in relapsed AL
+Ixazomib
+Ixazomib may be useful agent at relapse as demonstrated by
+the phase 3 TOURMALINE-AL1 study. Although the study
+did not reach its primary end point, haematologic overall
+response rate (ORR) was 63% for Ixa-Dex in PI-naïve
+patients, and 41% in PI-exposed patients. Patients stayed on
+therapy substantially longer in the Ixa-dex arm compared to
+physician’s choice [32]. It is also tolerated in combination
+with lenalidomide and dexamethasone (IRD) with median
+PFS of 17.0 months (95% CI 7.3–20.7 months), improving to
+28.8 months (95% CI 20.6–37.0 months) in those achieving
+CR/VGPR [67]. The weekly oral nature of this treatment is
+very convenient, and the agent is well tolerated, with minimal neuropathy.
+Carfilzomib
+There is limited data on carfilzomib. Small studies have
+demonstrated efficacy. Cohen et al. reported their Phase I/II
+trial of carfilzomib in 28 patients with relapsed/refractory
+Mayo cardiac stage I or II disease. The 20/36 mg/m2
+biweekly dosing was determined as the maximum tolerated
+dose (MTD). While the haematologic response rate of 63%
+is comparable to most other therapies for relapsed/refractory
+
+disease, the CR was low at 11%. 20 patients experienced
+Grade III/IV toxicity (according to Common Terminology
+Criteria for Adverse Events (CTCAE) v5.0), many cardiac or
+pulmonary. It has also been reported to be useful with a
+once weekly schedule in combination with thalidomide and
+dexamethasone in a phase 1 study [37] with no substantial
+grade III/IV toxicity and good responses. Overall, there are
+significant safety concerns with carfilzomib, especially cardiac and renal disease, caution dosing and close monitoring
+is advised. It may have a role in patients with neuropathic
+presentation and should be used with once weekly protocol.
+Anti-CD38 monoclonal antibodies in relapsed AL
+Daratumumab
+A number of retrospective and prospective studies have
+reported high response rates and excellent tolerance for daratumumab in patients with relapsed AL amyloidosis [68,69].
+A prospective Phase 2 trial of 40 relapsed/refractory patients
+receiving daratumumab monotherapy demonstrated haematologic response rate of 59% with VGPR or greater in 44%,
+typically reached within one cycle [46]. Daratumumab was
+well tolerated, with no unexpected adverse events, with
+infection and atrial fibrillation the most commonly report
+toxicities. The duration of treatment remains to be clearly
+established. A small retrospective study suggested good
+responses with daratumumab in combination with lenalidomide and dexamethasone [70].
+Isatuximab
+Preliminary results of a Phase II study of isatuximab for
+relapsed disease reported overall haematologic response rate
+was 77%, with a low CR rate of 3%, but VGPR was 54%,
+and partial response seen in 20% in 25 patients. The most
+common reasons for discontinuation were adverse events
+in 26%.
+Immunomodulatory agents in relapse AL
+Thalidomide, lenalidomide and pomalidomide have been all
+been reported in relapsed patients with AL amyloidosis [71].
+However, there are no phase III trials in this setting.
+Thalidomide has significant toxicities and can no longer be
+considered as an optimal agent for treatment of relapsed
+AL, unless used due to resource constraints. All IMiD’s have
+a potential to increase NT-proBNP and may worsen renal
+function [72] – both require close monitoring.
+Lenalidomide
+Lenalidomide is less well tolerated in AL amyloidosis than
+in myeloma. A daily lenalidomide dose of 15 mg has been
+established as the MTD in a phase I/II dose escalation study
+[73]. Using this lower dose, haematologic response rates
+around 60% have been reported when combined with cyclophosphamide, and dexamethasone [74,75] although the CR
+rate has remained disappointingly low. Median time to
+haematologic response is 3 months. Lenalidomide does not
+
+AMYLOID
+
+appear to induce or exacerbate neuropathy in most AL
+patients, thus lenalidomide-based regimens can be considered for patients with amyloid neuropathy. Like all IMIDs,
+lenalidomide increases BNP and NT-proBNP levels. This is
+independent of changes in renal function and FLC causing
+interference with the assessment of cardiac response.
+Pomalidomide
+This third-generation immunomodulatory agent has been
+tested in AL amyloidosis over the last decade [43,76,77],
+showing in combination with weekly dexamethasone in previously treated patients, a HR rate of 48% with organ
+responses in 5/33 patients. The most common adverse
+effects were fatigue and neutropenia. The maximum tolerated dose was confirmed as 4 mg daily (same as the recommended dose in myeloma). A recent real-world analysis of
+153 relapsed patient treated with pomalidomide-dexamethasone showed, at the completion of cycle 6, 68 (44%) patients
+obtained at least partial haematologic response, with 5 complete responses (CR, 3%), 35 very good partial responses
+(VGPR, 23%) [42].
+Bendamustine
+Two studies of bendamustine with dexamethasone have suggested good clonal response rates in heavily pre-treated
+patients, but the significant haematologic toxicity observed
+prevents routine use of this agent [78]. Its major role
+remains in patients with IgM related AL amyloidosis.
+Recommendation for treatment of relapsed disease:
+Proteasome inhibitor Naïve or prolonged response to 1st
+line PI:
+ CyBorD/VMDex B (Level B; Grade III); Ixazomib-Dex
+(Grade A; Level Ib); Dara-V(C)D (Level C; Grade IV)
+Proteasome inhibitor exposed Daratumumab Naïve:
+ Single agent daratumumab (Level B; Grade IIb), DaraV(C)D (Level C; Grade IV), Dara-RD (Level B; Grade
+III), Isatuximab (Level C; Grade IV)
+Proteasome inhibitor exposed IMiD Naïve:
+ Lenalidomide-Dexamethasone (±cyclophosphamide) (Level
+B; Grade IIa), Ixazomib-Lenalidomide dexamethasone
+(Grade B; Level IIb)
+Lenalidomide Refractory:
+ Pomalidomide-Dexamethasone (Level B; Grade IIa),
+Bendamustine (Level B; Grade IIa)
+Novel anti—plasma cell agents on horizon/off label use
+A number of novel anti-plasma cell approaches studies in
+myeloma are on the horizon for patients with AL
+amyloidosis.
+
+9
+
+BCL2 (B-cell lymphoma 2 gene) inhibitors
+Patients with t(11;14) translocation, a finding noted in
+approximately 50% of patients with AL amyloidosis, have a
+dependence of plasma cells on the constitutive activation of
+the cellular processes related to cyclin D1 activation [79].
+The resultant BCL-2 inhibition with this agent removes the
+anti-apoptotic protective mechanisms leading to preferential
+killing of affected cells. Agents targeting BCL2 pathway are,
+hence, of interest in this disease. Venetoclax is the best
+studied agent and experience in multiple myeloma suggests
+that this agent has significant activity in patients with the
+myeloma having t(11;14) translocation [80]. Based on clinical trial data in multiple myeloma, this compound has single agent activity but also works in combination with
+bortezomib and daratumumab; both being important agents
+in the present management of AL amyloidosis. Retrospective
+data on the use of Venetoclax in AL amyloid suggests
+responses are notably deep and durable; and it is well tolerated even in frail patients [81]. There is no prospective data
+on venetoclax dosing in AL amyloidosis; hence, starting at a
+low dose and increasing cautiously based on tolerance is
+important. Prospective data specifically in the AL amyloidosis population is awaited but if the early experience with
+this agent holds true, it would become a very useful tool in
+addressing the highly prevalent population of AL amyloidosis patients with the t(11;14) abnormality known to have a
+sub-optimal response to proteasome inhibitors.
+Recommendation
+for
+patients
+with
+t(11;14)
+translocation:
+ Venetoclax (Grade B; Level III); Venetoclax-BortezomibDexamethasone (Grade C; Level III), Melphalan
+Dexamethasone (Grade C; Level IV)
+
+BCMA targeting agents
+The B-cell maturation antigen (BCMA) is another cell surface molecule ubiquitously expressed on plasma cell as well
+as their B-cell progenitors. There have been several unique
+targeting strategies demonstrating clear anti-plasma cell
+activity in multiple myeloma [82]. To date, however, the
+experience specifically in AL amyloidosis is limited. A novel
+antibody-drug conjugate, Belantamab mafodotin, combines
+the potent mafodotin toxin with plasma cell targeting antiBCMA monoclonal antibody [83]. It has demonstrated
+excellent single agent activity in advanced relapsed and
+refractory multiple myeloma. Combination studies with
+various immunomodulating agents and proteasome inhibitors are ongoing. A prospective EMN study (NCT04617925)
+is examining Belantamab in relapsed AL amyloidosis. An
+important consideration with this agent is the unique ocular
+toxicity in the form of keratopathy which has proven to be
+a challenge in the delivery of this agent. In AL amyloidosis,
+with the often-lower clonal burden, less frequent and finite
+dosing strategies built around response adapted approaches
+may help limit this issue without compromising efficacy.
+
+10
+
+A. D. WECHALEKAR ET AL.
+
+BCMA has also proven to be an excellent target for chimeric antigen receptor T-cells (CART) and bispecific T-cell
+engagers (BiTE). There are now numerous products in both
+these classes with demonstrable anti-plasma cell activity but
+trials exploring their use in AL amyloid are lacking. The
+advantages to their use in AL amyloidosis are likely to be the
+low plasma cell burden with a potential for very deep/durable
+responses but challenges of cytokine release syndrome (CRS)
+remain to be overcome in this fragile population.
+An additional anti-plasma cell target is CS-1 (SLAMF7).
+In vitro data has suggested that this may be an optimal target particularly in AL amyloidosis as it may be more heavily
+expressed on the plasma cells giving rise to this disorder
+[84]. The monoclonal antibody Elotuzumab is being studied
+specifically in AL amyloidosis. Building on success in multiple myeloma and some notable small case series in
+AL amyloidosis [85], a prospective phase II study examining
+elotuzumab, lenalidomide, dexamethasone ± cyclophosphamide is underway (NCT03252600). CS-1 may also prove to
+be a useful target for CART development in this disease.
+Pre-clinical data in mice with anti-CS1 directed CART cells
+has demonstrated this proof of concept but studies in
+humans are lacking [84]. Again, the potential for deep and
+durable responses certainly justifies further exploration.
+Recommendation:
+ Belantamab Mafodotin (Grade B; Level III)
+ CAR-T cell or Bispecific antibodies are not recommended
+outside of clinical trials
+
+Treatment of localised AL amyloidosis
+Localised light chain amyloidosis (locAL) is a rare and heterogeneous disease characterised by the local deposition of
+amyloidogenic light chains produced by a local B-cell or
+plasma cell clone but more often has the presenting characteristics of a marginal zone lymphoma [86–88]. The most
+common involved sites are the airways (larynx, trachea and
+bronchi) and the lung, the urinary tract, skin and gastrointestinal tract [4,89,90]. These patients do not progress to
+systemic AL amyloidosis and do not require repeated extensive systemic investigations. Organ involvement may present
+as a single amyloid lesion (amyloidoma) or multiple localizations across all the anatomical site. LocAL is often
+asymptomatic and diagnosis can be incidental, especially in
+the lung [90]. Even if symptoms depend mostly on the site
+of localisation, clinical presentation can be complicated by
+the presence of other entities particularly frequent in: autoimmune disorders (especially Sjogren syndrome) [91],
+monoclonal gammopathy of undetermined significance and
+lymphoproliferative disorders [92–94].
+Since localised AL per se does not impact survival
+(patients survival is similar to general population) [4], treatment is only required for symptomatic disease. Treatment is
+generally proposed in more than 50–70% of patients and is
+effective in 50–80% of cases, depending on organ localisation [89]. Surgical removal of amyloidosis is the most frequent, direct and effective treatment when feasible. In
+
+laryngeal locAL, endoscopic surgery with laser CO2 has
+been proven effective [95]. Radiotherapy has proven effective in small case series and may be considered in selected
+cases [96,97]. Systemic chemotherapy is not required in
+localised AL in general. Local progression with recurrence
+of the amyloidoma or with progression of amyloid deposition in adjacent anatomic sites can occur in 17–31% of
+cases [4,89,90,98]. Patients who responded to local treatment
+have a lower risk of progression and it has been hypothesised that local B-cell clone and the inflammatory infiltrate
+may play a role in progression [86,90].
+Recommendation:
+ Local treatment (surgical, laser or cytotherapeutic debulking) (Grade B; Level III)
+ Chemotherapy is not generally recommended
+
+Anti-amyloid fibril treatments
+Monoclonal antibodies (MoAb) directed against the amyloid
+fibrils or serum amyloid P-component (SAP) have been
+developed. However, controlled trials of the anti-SAP MoAb
+(dezamizumab) plus the SAP-depleting agent (miridesap)
+and of the anti-fibril MoAb birtamimab were interrupted
+due to unfavourable risk-benefit profile [99] or futility
+[100]. Nevertheless, a signal of efficacy of birtamimab in
+patients at Mayo Clinic stage IV was seen and clinical trials
+are planned in this setting. The anti-amyloid light chain
+MoAb CAEL-101 that binds amyloid deposits in vivo gave
+promising results in early single-arm studies [101,102] and
+randomised trials in cardiac AL amyloidosis are underway
+(NCT04512235, NCT04504825).
+The antibiotic doxycycline can inhibit amyloid fibril formation in vivo [103] and abrogate light chain toxicity [104].
+A couple of small retrospective studies showed that doxycycline may reduce early mortality in cardiac patients when
+used as antibiotic prophylaxis along with effective chemotherapy [105,106], and a controlled study is underway
+(NCT03474458). A recent randomised study from China
+failed to show benefit of doxycycline added to standard of
+care [107]. At present, the use of amyloid-targeting agents
+cannot be recommended outside clinical trials.
+Recommendation:
+ Doxycycline (Grade C; Level IV)
+ Antifebrile antibodies are not recommended outside of
+clinical trials
+
+Conclusion
+The treatment of AL amyloidosis has evolved with first treatment licenced in 2021. Despite this, majority of treatment recommendations are based on small phase II studies,
+retrospective studies and expert consensus. The recommendations suggested follow the grade classification for levels of evidence (Table 2). For all treatment options, the
+recommendations of this committee are to follow the clinical
+presentation which determines treatment tolerance tempered
+
+AMYLOID
+
+11
+
+Table 2. Levels of evidence.
+Level of
+evidence
+Ia
+Ib
+IIa
+IIb
+
+Grade of
+recommendation
+A
+A
+B
+B
+
+III
+
+B
+
+IV
+
+C
+
+Basis
+Evidence obtained from meta-analysis of randomised controlled trials
+Evidence obtained from at least one randomised controlled trial
+Evidence obtained from at least one well-designed, non-randomised study, including phase II trials and case-control studies
+Evidence obtained from at least one other type of well-designed, quasi-experimental study, i.e. studies without planned
+intervention, including observational studies
+Evidence obtained from well-designed, non-experimental descriptive studies. Evidence obtained from meta-analysis
+or randomised controlled trials or phase II studies which is published only in abstract form
+Evidence obtained from expert committee reports or opinions and/or clinical experience of respected authorities
+
+Table 3. Recommendations for non-transplant treatment of AL amyloidosis.
+Recommended treatments
+Status
+
+Patient
+
+Risk assessment
+
+Cardiac stage IIIb
+
+Relapsed
+
+Patients with significant neuropathy
+
+All stages
+
+Proteasome inhibitor Naïve or prolonged response to 1st line PI
+
+All stages
+
+Proteasome
+Inhibitor
+Exposed
+
+First choice
+
+Cardiac stage I–IIIa Dara-CyBorDA
+
+Newly
+Patients without significant neuropathy
+diagnosed
+
+Daratumumab Naïve
+
+All stages
+
+IMiD Naïve
+
+All stages
+
+Lenalidomide refractory
+
+All stages
+
+t(11;14)
+
+All stages
+
+IgM related AL (With lymphoid component in the marrow)
+
+All stages
+
+Dose modified Dara-CyBorDC
+Single agent daratumumabC
+Single agent daratumumabC
+Lenalidomide-DexamethasoneB
+CyBorD/VMDexB
+Ixazomib-DexA
+Single agent daratumumabB
+Dara-V(C)D C
+Lenalidomide-Dexamethasone
+(±cyclophosphamide)B
+PomalidomideDexamethasoneB
+VenetoclaxC
+Rituximab-BendamustineC
+ASCT C
+
+Alternative
+CyBorDB
+VMDexA
+Dose modified CyBorDB
+Or VMDexB
+MelDexB
+Carfilzomib-DexC
+VenetoclaxC
+Dara-V(C)DC
+Dara-RDB
+IsatuximabC
+IRDB
+BendamustineB
+Venetoclax-BortezomibDexamethasoneC
+MelDexC
+Rituximab-bort-DexC
+Rituximab-Cyclo-DexC
+CyBorDC
+Ibrutinib (±Ritux)C
+
+Dara: Daratumumab; CyBorD: cyclophosphamide-bortezomib-Dexamethasone; VMDex: bortezomib – melphalan-dexamethasone; VCD: bortezomib -cyclophosphamide-dexamethasone; VD: bortezomib -dexamethasone; Ritux: Rituximab; MelDex: oral melphalan dexamethasone; IRD: Ixazomib-lenalidomide-Dexamethasone;
+Dex: dexamethasone.
+Stages: defined as per the European update of Mayo 2004 staging system.
+Dose modification and adjustments mandatory in patients with advanced end organ damage (cardiac or other).
+A,B,C
+Levels of available evidence for the recommendation.
+
+by potential side effects which limit use of drugs in AL (Table
+3). All patients with AL amyloidosis should be considered for
+clinical trials where available. Targeted agents like venetoclax
+need urgent prospective evaluation. Treatment of the most
+unwell patients (those with advanced cardiac AL amyloidosis)
+remain unsatisfactory and poorly studied. Future prospective
+trials should include advanced stage patients with allow for evidence-based treatment decisions. Therapies targeting amyloid
+fibrils or those reducing the proteotoxicity of amyloidogenic
+light chains/oligomers are urgently needed.
+
+Limitations
+These guidelines are represented as opinions of the key and
+experienced leaders in the field of AL amyloidosis since
+there are not many randomised clinical trials or evidencebased data on this topic of this rare disease.
+
+circumstances should be reviewed to decide a clinically
+appropriate approach including an alternative approach to
+the suggestions in the guideline. These recommendations
+should not be interpreted as setting a standard of care, or
+be deemed inclusive of all proper methods of care nor
+exclusive of other methods of care reasonably directed to
+obtaining the same results.The ultimate judgement regarding
+the propriety of any specific therapy must be made by the
+physician and the patient in light of all the circumstances
+presented by the individual patient, and the known variability and biological behaviour of the disease. These recommendations reflect the best available data at the time this
+document was prepared. The results of future studies may
+require revisions to the recommendations in this document
+to reflect new data.
+
+Disclosure statement
+Disclaimer
+The guidance may not be appropriate to all patients with
+AL amyloidosis and in all cases individual patient
+
+Received honorarium/advisory boards/Travel support:
+AW: Alexion, Attralus, Janssen, GSK, Takeda; Institutional research
+support: Amgen, Binding Site, Pfizer, Alnylam.
+MTC: Janssen, Amgen, Akcea and Sanofi.
+
+12
+
+A. D. WECHALEKAR ET AL.
+
+SDG: Janssen, Amgen and BMS.
+VS: Celgene, Millennium-Takeda, Janssen, Prothena, Sorrento,
+Karyopharm, Oncopeptide, Caelum, Pfizer, Attralus.
+SK: (non-personal payment) Abbvie, Amgen, BMS, Janssen, RocheGenentech, Takeda, Astra-Zeneca, Bluebird Bio, Epizyme, Secura
+Biotherapeutics, Monterosa therapeutics, Trillium, Loxo Oncology,
+K36, Sanofi, ArcellX, and (with personal payment) Oncopeptides,
+Beigene, Antengene; Institutional research support: Abbvie, Amgen,
+Allogene, Astra-Zeneca, BMS, Carsgen, GSK, Janssen, Novartis, RocheGenentech, Takeda, Regeneron, Molecular Templates.
+GP: Alexion, Argobio, Janssen, Protego, Gate bioscience, Pfizer, Sebia,
+Siemens, The Binding Site (Research funding, honoraria).
+GM: nil.
+AJ: Nil.
+SS: Janssen, Telix, Prothena,Takeda, Pfizer, Binding Site, Jazz Research
+support from Janssen, Prothena and Sanofi z.
+CV: Janssen, BMS, Amgen, Sanofi, Pfizer, GSK, FORUS.
+
+Funding
+The author(s) reported there is no funding associated with the work
+featured in this article.
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+[15]
+[16]
+
+[17]
+
+ORCID
+M. Teresa Cibeira
+http://orcid.org/0000-0002-4036-754X
+Shaji Kumar
+http://orcid.org/0000-0001-5392-9284
+http://orcid.org/0000-0002-6307-2445
+Vaishali Sanchorawala
+http://orcid.org/0000-0002-4853-5579
+Stefan Sch€
+onland
+Efstathios Kastritis
+http://orcid.org/0000-0001-8191-5832
+
+[18]
+
+[19]
+
+[20]
+
+References
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+Wechalekar AD, Schonland SO, Kastritis E, et al. A European
+collaborative study of treatment outcomes in 346 patients with
+cardiac stage III AL amyloidosis. Blood. 2013;121(17):
+3420–3427.
+Kumar S, Dispenzieri A, Lacy MQ, et al. Revised prognostic
+staging system for light chain amyloidosis incorporating cardiac biomarkers and serum free light chain measurements.
+J Clin Oncol. 2012;30(9):989–295.
+Palladini G, Dispenzieri A, Gertz MA, et al. New criteria for
+response to treatment in immunoglobulin light chain amyloidosis based on free light chain measurement and cardiac biomarkers: impact on survival outcomes. J Clin Oncol. 2012;
+30(36):4541–4549.
+Mahmood S, Bridoux F, Venner CP, et al. Natural history and
+outcomes in localised immunoglobulin light-chain amyloidosis:
+a long-term observational study. Lancet Haematol. 2015;2(6):
+e241-250–e250.
+Palladini G, Schonland SO, Sanchorawala V, et al. Clarification
+on the definition of complete haematologic response in lightchain (AL) amyloidosis. Amyloid. 2021;28(1):1–2.
+Manwani R, Cohen O, Sharpley F, et al. A prospective observational study of 915 patients with systemic AL amyloidosis
+treated with upfront bortezomib. Blood. 2019;134(25):
+2271–2280.
+Sidana S, Dispenzieri A, Murray DL, et al. Revisiting complete
+response in light chain amyloidosis. Leukemia. 2020;34(5):
+1472–1475.
+Muchtar E, Gertz MA, Lacy MQ, et al. Refining amyloid complete hematological response: quantitative serum free light
+chains superior to ratio. Am J Hematol. 2020;95(11):
+1280–1287.
+Milani P, Basset M, Nuvolone M, et al. Indicators of profound
+hematologic response in AL amyloidosis: complete response
+remains the goal of therapy. Blood Cancer J. 2020;10(8):90.
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+Kastritis E, Fotiou D, Theodorakakou F, et al. Timing and
+impact of a deep response in the outcome of patients with systemic light chain (AL) amyloidosis. Amyloid. 2021;28(1):3–11.
+Ravichandran S, Mahmood S, Wisniowski B, et al. A UK consensus algorithm for early treatment modification in newly diagnosed systemic light-chain amyloidosis. Br J Haematol. 2022.
+doi: 10.1111/bjh.18216
+Palladini G, Paiva B, Wechalekar A, et al. Minimal residual disease negativity by next-generation flow cytometry is associated
+with improved organ response in AL amyloidosis. Blood
+Cancer J. 2021;11(2):34.
+Kastritis E, Kostopoulos IV, Theodorakakou F, et al. Next generation flow cytometry for MRD detection in patients with AL
+amyloidosis. Amyloid. 2021;28(1):19–23.
+Cibeira MT, Ortiz-Perez JT, Quintana LF, et al. Supportive
+care in AL amyloidosis. Acta Haematol. 2020;143(4):335–342.
+Cuddy SAM, Dorbala S, Falk RH. Complexities and pitfalls in
+cardiac amyloidosis. Circulation. 2020;142(4):409–415.
+Sanchorawala V, Boccadoro M, Gertz M, et al. Guidelines for
+high dose chemotherapy and stem cell transplantation for systemic AL amyloidosis: EHA-ISA working group guidelines.
+Amyloid. 2022;29(1):1–7.
+Palladini G, Milani P, Foli A, et al. Oral melphalan and dexamethasone grants extended survival with minimal toxicity in
+AL amyloidosis: long-term results of a risk-adapted approach.
+Haematologica. 2014;99(4):743–750.
+Kastritis E, Leleu X, Arnulf B, et al. Bortezomib, melphalan,
+and dexamethasone for light-chain amyloidosis. J Clin Oncol.
+2020;38(28):3252–3260.
+Oliva L, Orfanelli U, Resnati M, et al. The amyloidogenic light
+chain is a stressor that sensitizes plasma cells to proteasome
+inhibitor toxicity. Blood. 2017;129(15):2132–2142.
+Reece DE, Hegenbart U, Sanchorawala V, et al. Efficacy and
+safety of once-weekly and twice-weekly bortezomib in patients
+with relapsed systemic AL amyloidosis: results of a phase 1/2
+study. Blood. 2011;118(4):865–873.
+Kastritis E, Anagnostopoulos A, Roussou MT, et al. Treatment of
+light chain (AL) amyloidosis with the combination of bortezomib
+and dexamethasone. Haematologica. 2007;92(10):1351–1358.
+Kastritis E, Wechalekar AD, Dimopoulos MA, et al. Bortezomib
+with or without dexamethasone in primary systemic (light chain)
+amyloidosis. J Clin Oncol. 2010;28(6):1031–1037.
+Palladini G, Sachchithanantham S, Milani P, et al. A European
+collaborative study of cyclophosphamide, bortezomib, and
+dexamethasone in upfront treatment of systemic AL amyloidosis. Blood. 2015;126(5):612–615.
+Mikhael JR, Schuster SR, Jimenez-Zepeda VH, et al.
+Cyclophosphamide-bortezomib-dexamethasone (CyBorD) produces rapid and complete hematologic response in patients
+with AL amyloidosis. Blood. 2012;119(19):4391–4394.
+Venner CP, Lane T, Foard D, et al. Cyclophosphamide, bortezomib, and dexamethasone therapy in AL amyloidosis is associated with high clonal response rates and prolonged
+progression-free survival. Blood. 2012;119(19):4387–4390.
+Venner CP, Gillmore JD, Sachchithanantham S, et al. A
+matched comparison of cyclophosphamide, bortezomib and
+dexamethasone (CVD) versus risk-adapted cyclophosphamide,
+thalidomide and dexamethasone (CTD) in AL amyloidosis.
+Leukemia. 2014;28(12):2304–2310.
+Jaccard A, Comenzo RL, Hari P, et al. Efficacy of bortezomib,
+cyclophosphamide and dexamethasone in treatment-naive
+patients with high-risk cardiac AL amyloidosis (mayo clinic
+stage III). Haematologica. 2014;99(9):1479–1485.
+Muchtar E, Dispenzieri A, Kumar SK, et al. Interphase fluorescence in situ hybridization in untreated AL amyloidosis has an
+independent prognostic impact by abnormality type and treatment category. Leukemia. 2017;31(7):1562–1569.
+Bochtler T, Hegenbart U, Kunz C, et al. Translocation t(11;14)
+is associated with adverse outcome in patients with newly
+
+AMYLOID
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+diagnosed AL amyloidosis when treated with bortezomib-based
+regimens. J Clin Oncol. 2015;33(12):1371–1378.
+Cole DC, Frishman WH. Cardiovascular complications of proteasome inhibitors used in multiple myeloma. Cardiol Rev.
+2018;26(3):122–129.
+Bruce JT, Tran JM, Phillips G, et al. Chemotherapeutic agents
+increase the risk for pulmonary function test abnormalities in
+patients with multiple myeloma. Clin Lymphoma Myeloma
+Leuk. 2012;12(5):325–329.
+Dispenzieri A, Kastritis E, Wechalekar AD, et al. A randomized
+phase 3 study of ixazomib-dexamethasone versus physician’s
+choice in relapsed or refractory AL amyloidosis. Leukemia.
+2022;36(1):225–235.
+Sanchez L, Landau HJ, Rosenbaum CA, et al. A phase 1/2
+study to assess safety and dose of ixazomib in combination
+with cyclophosphamide and dexamethasone in newly diagnosed patients with light chain (AL) amyloidosis. Blood. 2019;
+134(Supplement_1):3128–3128.
+Muchtar E, Gertz MA, Laplant B, et al. Phase 2 trial of ixazomib, cyclophosphamide and dexamethasone for treatment of
+previously untreated light chain amyloidosis. Blood. 2020;
+136(Supplement 1):52–53.
+Wei Z, Zhang Y, Li J, et al. Upfront ixazomib plus dexamethasone induce promptly hematological response in patients with
+light-chain amyloidosis. Blood. 2019;134(Supplement_1):
+1908–1908.
+Manwani R, Mahmood S, Sachchithanantham S, et al.
+Carfilzomib is an effective upfront treatment in AL amyloidosis
+patients with peripheral and autonomic neuropathy. Br J
+Haematol. 2019;187(5):638–641.
+Garg M, Hall A, Jenner M, et al. A phase 1 study of carfilzomib-thalidomide-dexamethasone in patients with relapsed/
+refractory AL amyloidosis – catalyst trial results. Blood. 2019;
+134(Supplement_1):1890–1890.
+Dispenzieri A, Lacy MQ, Rajkumar SV, et al. Poor tolerance to
+high doses of thalidomide in patients with primary systemic
+amyloidosis. Amyloid. 2003;10(4):257–261.
+Cibeira MT, Oriol A, Lahuerta JJ, et al. Phase II trial of lenalidomide, dexamethasone and cyclophosphamide (lendexal) for
+previously untreated patients with light-chain amyloidosis.
+Haematologica. 2014;99:117–118.
+Moreau P, Jaccard A, Benboubker L, et al. Lenalidomide in combination with melphalan and dexamethasone in patients with
+newly diagnosed light-chain (AL)-amyloidosis: a multicentre
+phase I/II dose escalation study. Amyloid. 2010;17:87–88.
+Kastritis E, Dialoupi I, Gavriatopoulou M, et al. Primary treatment of light-chain amyloidosis with bortezomib, lenalidomide, and dexamethasone. Blood Adv. 2019;3(20):3002–3009.
+Milani P, Sharpley F, Schonland SO, et al. Pomalidomide and
+dexamethasone grant rapid haematologic responses in patients
+with relapsed and refractory AL amyloidosis: a European retrospective series of 153 patients. Amyloid. 2020;27(4):231–236.
+Dispenzieri A, Buadi F, Laumann K, et al. Activity of pomalidomide in patients with immunoglobulin light-chain amyloidosis. Blood. 2012;119(23):5397–5404.
+Zonder JA, Sanchorawala V, Kukreti V, et al. Phase I trial of
+pomalidomide, bortezomib, and dexamethasone as frontline
+treatment of AL amyloidosis. Blood. 2019;134(Supplement 1):
+1845.
+Kaufman GP, Schrier SL, Lafayette RA, et al. Daratumumab
+yields rapid and deep hematologic responses in patients with
+heavily pretreated AL amyloidosis. Blood. 2017;130(7):900–902.
+Sanchorawala V, Sarosiek S, Schulman A, et al. Safety, tolerability, and response rates of daratumumab in relapsed AL
+amyloidosis: results of a phase 2 study. Blood. 2020;135(18):
+1541–1547.
+Roussel M, Merlini G, Chevret S, et al. A prospective phase 2
+trial of daratumumab in patients with previously treated systemic light-chain amyloidosis. Blood. 2020;135(18):1531–1540.
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+13
+
+Palladini G, Kastritis E, Maurer MS, et al. Daratumumab plus
+CyBorD for patients with newly diagnosed AL amyloidosis:
+safety run-in results of ANDROMEDA. Blood. 2020;136(1):
+71–80.
+Comenzo R, Palladini G, Kastritis E, et al. Subcutaneous
+daratumumab with bortezomib, cyclophosphamide, and dexamethasone in patients with newly diagnosed light chain (AL)
+amyloidosis: 18-month analysis of the phase 3 ANDROMEDA
+study. Blood. 2021;138(Supplement 1):159–159.
+Kastritis E, Roussakis P, Kostopoulos IV, et al. Short daratumumab consolidation in patients with AL amyloidosis or
+LCDD improves complete response rates and modifies bone
+marrow microenvironment. Blood. 2020;136(Supplement 1):
+25–25.
+Le Bras F, Molinier-Frenkel V, Guellich A, et al. Sequential
+cyclophosphamide-bortezomib-dexamethasone unmasks the
+harmful cardiac effect of dexamethasone in primary light-chain
+cardiac amyloidosis. Eur J Cancer. 2017;76:183–187.
+Kastritis E, Minnema MC, Dimopoulos MA, et al. Efficacy and
+safety of daratumumab monotherapy in newly diagnosed
+patients with stage 3b light chain amyloidosis: a phase 2 study
+by the European myeloma network. Blood. 2021;
+138(Supplement 1):2730–2730.
+Kimmich CR, Terzer T, Benner A, et al. Daratumumab for systemic AL amyloidosis: prognostic factors and adverse outcome
+with nephrotic-range albuminuria. Blood. 2020;135(18):
+1517–1530.
+Luo MM, Zhu PP, Nnane I, et al. Population pharmacokinetics
+and exposure-response modeling of daratumumab subcutaneous administration in patients with light-chain amyloidosis. J
+Clin Pharmacol. 2022;62(5):656–669.
+Sidana S, Larson DP, Greipp PT, et al. IgM AL amyloidosis:
+delineating disease biology and outcomes with clinical, genomic and bone marrow morphological features. Leukemia.
+2020;34(5):1373–1382.
+Milani P, Schonland S, Merlini G, et al. Treatment of AL amyloidosis with bendamustine: a study of 122 patients. Blood.
+2018;132(18):1988–1991.
+Manwani R, Sachchithanantham S, Mahmood S, et al. Treatment
+of IgM-associated immunoglobulin light-chain amyloidosis with
+rituximab-bendamustine. Blood. 2018;132(7):761–764.
+Buske C, Dimopoulos MA, Grunenberg A, et al. Bortezomib in
+combination with dexamethasone, rituximab and cyclophosphamide (B-DRC) as first – line treatment of waldenstrom’s
+macroglobulinemia: results of a prospectively randomized multicenter European phase II trial. Blood. 2020;136(Supplement
+1):26–26.
+Dimopoulos MA, Roussou M, Kastritis E, et al. Primary treatment of waldenstrom’s macroglobulinemia with dexamethasone, rituximab and cyclophosphamide (DRC): final analysis of
+a phase II study. Blood. 2012;120(21):438–438.
+Ghobrial IM, Hong FX, Padmanabhan S, et al. Phase II trial of
+weekly bortezomib in combination with rituximab in relapsed
+or relapsed/refractory waldenstrom’s macroglobulinemia.
+Blood. 2009;114(22):1067.
+Pika T, Hegenbart U, Flodrova P, et al. First report of ibrutinib
+in IgM-related amyloidosis: few responses, poor tolerability,
+and short survival. Blood. 2018;131(3):368–371.
+Sidiqi MH, Buadi FK, Dispenzieri A, et al. Autologous stem
+cell transplant for IgM-associated amyloid light-chain amyloidosis. Biol Blood Marrow Transplant. 2019;25(3):e108–e111.
+Tandon N, Sidana S, Rajkumar SV, et al. Predictors of early
+treatment failure following initial therapy for systemic
+immunoglobulin light-chain amyloidosis. Amyloid. 2017;24(3):
+183–188.
+Palladini G, Milani P, Foli A, et al. Presentation and outcome
+with second-line treatment in AL amyloidosis previously sensitive to nontransplant therapies. Blood. 2018;131(5):525–532.
+
+14
+
+[65]
+
+[66]
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+[72]
+
+[73]
+
+[74]
+
+[75]
+
+[76]
+
+[77]
+
+[78]
+
+[79]
+
+[80]
+
+[81]
+
+[82]
+
+[83]
+
+A. D. WECHALEKAR ET AL.
+
+Palladini G, Merlini G. When should treatment of AL amyloidosis start at relapse? Early, to prevent organ progression. Blood
+Adv. 2019;3(2):212–215.
+Sanchorawala V. Delay treatment of AL amyloidosis at relapse
+until symptomatic: devil is in the details. Blood Adv. 2019;3(2):
+216–218.
+Cohen OC, Sharpley F, Gillmore JD, et al. Use of ixazomib,
+lenalidomide and dexamethasone in patients with relapsed
+amyloid light-chain amyloidosis. Br J Haematol. 2020;189(4):
+643–649.
+Milani P, Fazio F, Basset M, et al. High rate of profound clonal
+and renal responses with daratumumab treatment in heavily
+pre-treated patients with light chain (AL) amyloidosis and high
+bone marrow plasma cell infiltrate. Am J Hematol. 2020;95(8):
+900–905.
+Cohen OC, Brodermann MH, Blakeney IJ, et al. Rapid
+response to single agent daratumumab is associated with
+improved progression-free survival in relapsed/refractory AL
+amyloidosis. Amyloid. 2020;27(3):200–205.
+Antonioli E, Staderini M, Pilerci S, et al. Daratumumab, lenalidomide, and dexamethasone combination in relapsed/refractory myeloma patients: a real-life single-center experience.
+Leuk Lymphoma. 2020;61(13):3255–3258.
+Jelinek T, Kufova Z, Hajek R. Immunomodulatory drugs in AL
+amyloidosis. Crit Rev Oncol Hematol. 2016;99:249–260.
+Basset M, Kimmich CR, Schreck N, et al. Lenalidomide and
+dexamethasone in relapsed/refractory immunoglobulin light
+chain (AL) amyloidosis: results from a large cohort of patients
+with long follow-up. Br J Haematol. 2021;195(2):230–243.
+Sanchorawala V, Wright DG, Rosenzweig M, et al. Lenalidomide
+and dexamethasone in the treatment of AL amyloidosis: results
+of a phase 2 trial. Blood. 2007;109(2):492–496.
+Kumar SK, Hayman SR, Buadi FK, et al. Lenalidomide, cyclophosphamide, and dexamethasone (CRd) for light-chain amyloidosis: long-term results from a phase 2 trial. Blood. 2012;
+119(21):4860–4867.
+Kastritis E, Terpos E, Roussou M, et al. A phase 1/2 study of
+lenalidomide with low-dose oral cyclophosphamide and lowdose dexamethasone (RdC) in AL amyloidosis. Blood. 2012;
+119(23):5384–5390.
+Palladini G, Milani P, Foli A, et al. A phase 2 trial of pomalidomide and dexamethasone rescue treatment in patients with
+AL amyloidosis. Blood. 2017;129(15):2120–2123.
+Sanchorawala V, Shelton AC, Lo S, et al. Pomalidomide and
+dexamethasone in the treatment of AL amyloidosis: results of a
+phase 1 and 2 trial. Blood. 2016;128(8):1059–1062.
+Lentzsch S, Lagos GG, Comenzo RL, et al. Bendamustine with
+dexamethasone in relapsed/refractory systemic light-chain
+amyloidosis: results of a phase II study. J Clin Oncol. 2020;
+38(13):1455–1462.
+Gupta VA, Ackley J, Kaufman JL, et al. BCL2 family inhibitors
+in the biology and treatment of multiple myeloma. Blood
+Lymphat Cancer. 2021;11:11–24.
+Kumar SK, Harrison SJ, Cavo M, et al. Venetoclax or placebo
+in combination with bortezomib and dexamethasone in
+patients with relapsed or refractory multiple myeloma
+(BELLINI): a randomised, double-blind, multicentre, phase 3
+trial. Lancet Oncol. 2020;21(12):1630–1642.
+Premkumar VJ, Lentzsch S, Pan S, et al. Venetoclax induces
+deep hematologic remissions in t(11;14) relapsed/refractory AL
+amyloidosis. Blood Cancer J. 2021;11(1):10.
+Maples KT, Johnson C, Lonial S. Antibody treatment in multiple myeloma. Clin Advanc Hematol Oncol. 2021;19(3):
+166–174.
+Trudel S, Lendvai N, Popat R, et al. Targeting B-cell maturation antigen with GSK2857916 antibody-drug conjugate in
+relapsed or refractory multiple myeloma (BMA117159): a dose
+escalation and expansion phase 1 trial. Lancet Oncl. 2018;
+19(12):1641–1653.
+
+[84]
+
+[85]
+
+[86]
+[87]
+
+[88]
+
+[89]
+
+[90]
+
+[91]
+
+[92]
+
+[93]
+
+[94]
+
+[95]
+[96]
+
+[97]
+
+[98]
+
+[99]
+
+[100]
+
+[101]
+
+[102]
+
+Rosenzweig M, Urak R, Walter M, et al. Preclinical data support leveraging CS1 chimeric antigen receptor T-cell therapy
+for systemic light chain amyloidosis. Cytotherapy. 2017;19(7):
+861–866.
+Iqbal SM, Stecklein K, Sarow J, et al. Elotuzumab in combination with lenalidomide and dexamethasone for treatmentresistant immunoglobulin light chain amyloidosis with multiple myeloma. Clin Lymphoma Myeloma Leuk. 2019;19(1):
+e33–e36.
+Westermark P. Localized AL amyloidosis: a suicidal neoplasm?
+Ups J Med Sci. 2012;117(2):244–250.
+Hamidi Asl K, Liepnieks JJ, Nakamura M, et al. Organ-specific
+(localized) synthesis of Ig light chain amyloid. J Immunol.
+1999;162(9):5556–5560.
+Stuhlmann-Laeisz C, Sch€
+onland SO, Hegenbart U, et al. AL
+amyloidosis with a localized B cell neoplasia. Virchows Arch.
+2019;474(3):353–363.
+Kourelis TV, Kyle RA, Dingli D, et al. Presentation and outcomes of localized immunoglobulin light chain amyloidosis:
+the mayo clinic experience. Mayo Clin Proc. 2017;92(6):
+908–917.
+Basset M, Hummedah K, Kimmich C, et al. Localized
+immunoglobulin light chain amyloidosis: novel insights including prognostic factors for local progression. Am J Hematol.
+2020;95(10):1158–1169.
+Meijer JM, Schonland SO, Palladini G, et al. Sjogren’s syndrome and localized nodular cutaneous amyloidosis: coincidence or a distinct clinical entity? Arthritis Rheum. 2008;58(7):
+1992–1999.
+Grogg KL, Aubry MC, Vrana JA, et al. Nodular pulmonary
+amyloidosis is characterized by localized immunoglobulin
+deposition and is frequently associated with an indolent B-cell
+lymphoproliferative disorder. Am J Surg Pathol. 2013;37(3):
+406–412.
+Ryan RJ, Sloan JM, Collins AB, et al. Extranodal marginal zone
+lymphoma of mucosa-associated lymphoid tissue with amyloid
+deposition: a clinicopathologic case series. Am J Clin Pathol.
+2012;137(1):51–64.
+Basset
+M,
+Defrancesco
+I,
+Milani
+P,
+et
+al.
+Nonlymphoplasmacytic lymphomas associated with light-chain
+amyloidosis. Blood. 2020;135(4):293–296.
+Burns H, Phillips N. Laryngeal amyloidosis. Curr Opin
+Otolaryngol Head Neck Surg. 2019;27(6):467–474.
+Truong MT, Kachnic LA, Grillone GA, et al. Long-term results
+of conformal radiotherapy for progressive airway amyloidosis.
+Int J Radiat Oncol Biol Phys. 2012;83(2):734–739.
+Copperman TS, Truong MT, Berk JL, et al. External beam
+radiation for localized periocular amyloidosis: a case series.
+Orbit. 2019;38(3):210–216.
+Harris G, Lachmann H, Hawkins P, et al. One hundred cases
+of localized laryngeal amyloidosis – evidence for future management. Laryngoscope. 2021;131(6):E1912–E1917.
+Wechalekar A, Antoni G, Al Azzam W, et al.
+Pharmacodynamic evaluation and safety assessment of treatment with antibodies to serum amyloid P component in
+patients with cardiac amyloidosis: an open-label phase 2 study
+and an adjunctive immuno-PET imaging study. BMC
+Cardiovasc Disord. 2022;22(1):49.
+Gertz MA, Cohen AD, Comenzo RL, et al. Results of the phase
+3 VITAL study of NEOD001 (birtamimab) plus standard of
+care in patients with light chain (AL) amyloidosis suggest survival benefit for mayo stage IV patients. Blood. 2019;
+134(Supplement_1):3166–3166.
+Van Doren L, Lentzsch S. Nonchemotherapy treatment of
+immunoglobulin light chain amyloidosis. Acta Haematol. 2020;
+143(4):373–380.
+Edwards CV, Rao N, Bhutani D, et al. Phase 1a/b study of
+monoclonal antibody CAEL-101 (11-1F4) in patients with AL
+amyloidosis. Blood. 2021;138(25):2632–2641.
+
+AMYLOID
+
+[103]
+
+[104]
+
+[105]
+
+[106]
+
+Cardoso I, Saraiva MJ. Doxycycline disrupts transthyretin
+amyloid: evidence from studies in a FAP transgenic mice
+model. Faseb J. 2006;20(2):234–239.
+Faravelli G, Raimondi S, Marchese L, et al. C. elegans expressing D76N beta2-microglobulin: a model for in vivo screening
+of drug candidates targeting amyloidosis. Sci Rep. 2019;9(1):
+19960.
+Wechalekar AD, Whelan C. Encouraging impact of doxycycline on early mortality in cardiac light chain (AL) amyloidosis.
+Blood Cancer J. 2017;7(3):e546.
+D’Souza A, Flynn K, Chhabra S, et al. Rationale and design of
+DUAL study: doxycycline to upgrade response in light chain
+(AL) amyloidosis (DUAL): a phase 2 pilot study of a twopronged approach of prolonged doxycycline with plasma celldirected therapy in the treatment of AL amyloidosis. Contemp
+Clin Trials Commun. 2017;8:33–38.
+
+[107]
+
+[108]
+
+[109]
+
+[110]
+
+15
+
+Shen KN, Fu WJ, Wu Y, et al. Doxycycline combined with
+bortezomib-cyclophosphamide-dexamethasone chemotherapy
+for newly diagnosed cardiac light-chain amyloidosis: a multicenter randomized controlled trial. Circulation. 2022;145(1):
+8–17.
+Gertz MA, Comenzo R, Falk RH, et al. Definition of organ
+involvement and treatment response in immunoglobulin light
+chain amyloidosis (AL): a consensus opinion from the 10th
+international symposium on amyloid and amyloidosis, tours,
+France, 18-22 April 2004. Am J Hematol. 2005;79(4):319–328.
+Gertz MA, Merlini G. Definition of organ involvement and
+response to treatment in AL amyloidosis: an updated consensus opinion. Amyloid. 2010;17:48–49.
+Palladini G, Hegenbart U, Milani P, et al. A staging system for
+renal outcome and early markers of renal response to chemotherapy in AL amyloidosis. Blood. 2014;124(15):2325–2332.
+
+

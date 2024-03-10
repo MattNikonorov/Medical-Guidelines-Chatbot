@@ -1,0 +1,1534 @@
+Annals of Oncology 29 (Supplement 4): iv1–iv18, 2018
+doi:10.1093/annonc/mdy001
+Published online 25 April 2018; updated 04 October 2018
+
+CLINICAL PRACTICE GUIDELINES
+
+Non-epithelial ovarian cancer: ESMO Clinical Practice
+Guidelines for diagnosis, treatment and follow-up†
+I. Ray-Coquard1, P. Morice2, D. Lorusso3, J. Prat4, A. Oaknin5, P. Pautier2 & N. Colombo6, on behalf of the
+ESMO Guidelines Committee*
+1
+Centre Leon Bérard, University Claude Bernard Lyon & GINECO group, Lyon; 2Gustave Roussy & GINECO group, Villejuif, France; 3Fondazione IRCCS Istituto
+Nazionale dei Tumori, Milan, Italy; 4Hospital de Sant Pau, Autonomous University of Barcelona; 5Vall d’Hebron University Hospital, Vall d’Hebron Institute of
+Oncology (VHIO), Barcelona, Spain; 6University of Milan-Bicocca and European Institute of Oncology, Milan, Italy
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Committee: August 2008, last update December 2017. This publication supersedes the previously published version—Ann Oncol 2012;
+23(Suppl 7): vii20–vii26.
+
+Incidence and epidemiology
+Non-epithelial ovarian tumours account for approximately 10%
+of all ovarian cancers. Malignant germ cell tumours (GCTs)
+occur mainly in young women whereas the most common type of
+sex cord-stromal tumours (SCSTs), i.e. granulosa cell tumour,
+occurs more often in middle age and in postmenopausal women
+[1]. Malignant GCTs represent 5% of all ovarian cancers and
+80% of the preadolescent malignant ovarian tumours. SCSTs are
+rare neoplasms that account for approximately 3%–5% of
+ovarian malignancies and the majority of ovarian tumours with
+endocrine manifestations. The yearly-adjusted incidence rate is
+3.7/1 000 000 and 2.1/1 000 000 women for GCTs and SCSTs,
+respectively [1]. Small cell carcinoma of the ovary (SCCO) usually affects young women and children [2] with a very low incidence (less than 1% of ovarian cancers) [1]. Unlike GCTs, SCSTs
+and steroid cell tumours are unilateral and occur over a wide
+range of age; for instance, granulosa cell tumours and thecomas
+are found mainly in peri- and postmenopausal women, whereas
+juvenile granulosa cell tumours, Sertoli cell tumours and Sertoli–
+Leydig cell tumours (SLCTs) usually develop in adolescents and
+young females in whom maintenance of fertility is important [3].
+
+Diagnosis and pathology/molecular biology
+The initial symptoms and signs of non-epithelial ovarian cancers
+are usually a subacute pelvic pain, feeling of pelvic pressure because
+of a pelvic mass and menstrual irregularities. Diagnostic work-up
+should include pelvic ultrasound, abdomino-pelvic computed
+tomography (CT) scan, chest X-ray and positron emission tomography (PET) scan in selected cases (GCTs) [III, B]. In young
+
+patients, serum human chorionic gonadotropin (hCG), alphafoetoprotein (a-FP) and lactate dehydrogenase (LDH) levels, full
+blood count and liver and renal function tests should be carried
+out. Inhibin B is secreted by granulosa cell tumours and could be a
+useful marker for the disease. Serum anti-Müllerian hormone
+(AMH) may be a marker of ovarian reserve and granulosa cell
+tumours in postmenopausal or post-oophorectomy women [4].
+While these markers are nonspecific, they can provide prognostic
+information, so quantitative hCG, a-FP, LDH and cancer antigen
+125 (CA 125) should be measured preoperatively [5]. If gonadoblastoma is suspected, a preoperative karyotype should be
+obtained on all premenarche girls because of the propensity of
+these tumours to arise in dysgenetic gonads.
+Most non-epithelial ovarian tumours arise from cells specific
+to the ovary (germ cells, granulosa cells, theca cells, stromal fibroblasts and steroid cells); other less common gonadal tumours
+arise from non-specific ovarian cells (mesenchymal cells). The
+World Health Organization (WHO) classification of GCTs is presented in Table 1 [6, 7]. GCTs recapitulate steps of development,
+from undifferentiated germ cells to adult tissues. Primitive GCTs
+composed of undifferentiated germ cells and GCTs with extraembryonic differentiation are all malignant. Teratomas are the most
+common GCTs; most are composed of mature tissues and are
+benign (dermoid cysts). In immature teratomas, embryonic tissues indicate the malignant potential and grading is prognostically relevant [7]. Grade 1 tumours show rare foci of immature
+neuroepithelial tissue that occupy < 1 low power field (40) in
+any slide (low grade); grade 2 tumours show similar elements,
+occupying 1–3 low power fields (40) in any slide (high grade);
+grade 3 tumours exhibit large amounts of immature neuroepithelial tissue occupying > 3 low power fields (40) in any slide (high
+
+C The Author(s) 2018. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+V
+
+All rights reserved. For Permissions, please email: journals.permissions@oup.com.
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 1. WHO 2014 classiﬁcation of GCTs [6]
+
+Table 3. WHO 2014 classiﬁcation of SCSTs and steroid cell tumours [7]
+
+Dysgerminoma
+Yolk sac tumour
+Embryonal carcinoma
+Non-gestational choriocarcinoma
+Mature teratoma
+Immature teratoma
+Mixed germ cell tumour
+
+Pure stromal tumours
+Fibroma
+Cellular ﬁbroma
+Thecoma
+Luteinized thecoma associated with sclerosing peritonisis
+Fibrosarcoma
+Sclerosing stromal tumour
+Signet-ring stromal tumour
+Microcystic stromal tumour
+Leydig cell tumour
+Steroid cell tumour
+Steroid cell tumour, malignant
+Pure sex cord tumours
+Adult granulosa cell tumour
+Juvenile granulosa cell tumour
+Sertoli cell tumours
+Sex cord tumour with annular tubules
+Mixed sex cord-stromal tumours
+Sertoli–Leydig cell tumours
+Well differentiated
+Moderately differentiated
+With heterologous elements
+Poorly differentiated
+With heterologous elements
+Retiform
+With heterologous elements
+Sex cord-stromal tumours, NOS
+
+GCT, germ cell tumour; WHO, World Health Organization.
+
+Table 2. Immunohistochemistry of primitive GCTs
+
+Dys
+YST
+EC
+
+Sall4
+
+OCT3/4
+
+SOX2
+
+þ
+þ
+þ
+
+þ
+–
+þ
+
+–
+–
+þ
+
+Dys, dysgerminoma; EC, embryonal carcinoma; GCT, germ cell tumour;
+YST, yolk sac tumour.
+
+grade). A two-tiered (low and high grades) system is now more
+commonly used [8]. Other rare malignant GCTs constitute a heterogeneous group including somatic cancers arising in dermoids
+and monodermal teratomas [7]. In the elderly, nondysgerminoma GCTs arise from epithelial ovarian cancer, usually
+endometrioid and clear cell carcinomas. Primitive GCTs and
+immature teratomas are chemosensitive and susceptible to
+fertility-sparing surgery. Because of their chemosensitivity and
+the increasing adoption of fertility-sparing surgery, correct
+pathological diagnosis is essential and these cases should be
+examined by gynaecological pathologists [V, B]. Diagnosis can be
+made on conventional histological material; given the multiplicity of morphological features, immunohistochemical markers
+(Table 2) and chromosome 12p fluorescent in situ hybridisation
+(FISH) can be used to confirm the diagnosis in difficult cases.
+SALL4 and OCT4 are widely used; more recently, it has been recognised that SOX2 is expressed in embryonal carcinoma and
+primitive neuroectodermal tumours of teratomatous origin.
+SCSTs and steroid cell tumours constitute a heterogeneous
+group of tumours (Table 3) and vary in their capacity to produce
+clinically significant amounts of steroid hormones. Granulosa
+cell tumours are typically oestrogenic and may be associated with
+various clinical syndromes, depending upon the age of the
+patient. SLCTs typically produce androgens, and clinical virilisation is observed in 70%–85% of patients. Those with sex cord elements may be malignant, with granulosa cell tumours being the
+most frequent histological type. Neoplasms of pure ovarian
+stroma are mostly benign, with > 50% of them being fibromas.
+In morphologically ambiguous cases, an immunopanel of inhibin
+alpha, calretinin and FOXL2, together with FOXL2 (402C-G)
+mutational analysis, is useful to confirm the diagnosis of adult
+granulosa cell tumours (AGCTs) [V, B] [9]. Chang et al. demonstrated that another molecule involved in the tumourigenesis of
+
+iv2 | Ray-Coquard et al.
+
+NOS, not otherwise speciﬁed; SCST, sex cord-stromal tumour; WHO,
+World Health Organization.
+
+AGCTs is activin A [10]. A subset of SCSTs is typically negative
+for FOXL2 on immunostaining (retiform or poorly differentiated
+SLCT), but these tumours usually express inhibin alpha and/or
+calretinin. Another recent finding has been the occurrence of
+DICER1 mutations in SCST [V, C].
+Small cell carcinomas of the ovary hypercalcaemic type
+(SCCOHTs) are the most common form of ovarian undifferentiated carcinomas in women < 40 years old and the most common
+ovarian tumour associated with hypercalcaemia (70%). This
+tumour is typically unilateral and should be distinguished from
+primitive GCTs and granulosa cell tumours (mainly juvenile).
+Although its histogenesis is unknown, recent reports suggest that it
+may represent an ovarian malignant rhabdoid tumour [11].
+Recent studies have identified mutations in the SWItch/Sucrose
+Non-Fermentable (SWI/SNF) chromatin-remodelling gene,
+SMARCA4 encoding BRG1. These mutations represent a frequent
+event occurring in 76%–100% of SCCOHTs [12–14]. Germline
+mutations in SMARCA4 or SMARCB1 were already known to predispose to the development of paediatric tumours, namely atypical
+teratoid/rhabdoid tumours [15, 16]. SMARCA4 immunohistochemistry is highly sensitive and specific for a diagnosis of
+SCCOHT [loss of SMARCA4 (BRG1) protein expression] and is
+now useful in the differential diagnosis of poorly differentiated
+ovarian tumours [17]. SCCOHTs usually react diffusely for WT1,
+making the interpretation difficult. Differential diagnosis includes
+
+Volume 29 | Supplement 4 | October 2018
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+juvenile or adult granulosa tumours, metastatic melanoma, dysgerminoma, Ewing tumour and undifferentiated carcinoma.
+
+Staging and risk assessment
+Prognostic factors
+The staging system for non-epithelial ovarian cancers is generally
+adopted from the one for epithelial ovarian cancer originally
+defined by the International Federation of Gynecology and
+Obstetrics (FIGO) (Table 4) [18]. Outcomes appear to be superior when patients are treated in a large cancer centre, likely due
+to the rare nature and infrequent presentation of these cancers
+[19].
+Outcomes may depend on the age at diagnosis. Premenarche
+girls and women > 45 years who develop GCTs may have different tumour biology and a worse prognosis than postadolescent
+females in the reproductive years. Patients with testicular cancer
+are stratified as having good, intermediate or high risk for
+
+recurrence based on clinical, pathological and serological
+markers. Compared with testicular cancer, clinical prognosticators are less well defined for ovarian GCTs. Adverse factors
+include age > 45 years, stage > I, incomplete surgical resection
+and yolk sac tumour (YST) histology [20, 21].
+Stage is also an important prognostic factor for SCSTs,
+although advanced-stage diseases can also have a good prognosis
+because of their sensitivity to chemotherapy (ChT). The FIGO
+stage [18] and the intraperitoneal tumour rupture are the most
+often reported prognostic factors. Patient age (> 50 years) and
+the size of the tumour (> 5 cm) have a less certain prognostic
+value [5]. The majority of these tumours can be cured, but
+around 20% relapse or give rise to metastases that can be fatal
+[III, A].
+Prognosis of SCCOHT is poor with only 30%–40% long-term
+survivors with standard treatment [2]. Potential favourable prognostic factors, in addition to disease stage (stage IA versus others)
+are: age > 30 years; normal pre-operative calcium level; a tumour
+size < 10 cm; the absence of large cells; and complete surgical
+resection including bilateral oophorectomy [22, 23].
+
+Table 4. 2014 FIGO ovarian cancer staging system and corresponding TNM
+TNM staging
+
+FIGO staging
+
+T1a-N0-M0
+
+Stage IA
+
+T1b-N0-M0
+
+Stage IB
+
+T1c-N0-M0
+
+Stage IC1
+
+T1c-N0-M0
+
+Stage IC2
+
+T1c-N0-M0
+
+Stage IC3
+
+T2a-N0-M0
+
+Stage IIA
+
+T2b-N0-M0
+
+Stage IIB
+
+T1/T2-N1-M0
+
+Stage IIIA1
+
+T3a-N0/N1-M0
+
+Stage IIIA1 (i)
+Stage IIIA1 (ii)
+Stage IIIA2
+
+T3b-N0/N1-M0
+
+Stage IIIB
+
+T3c-N0/N1-M0
+
+Stage IIIC
+
+any T-any N-M1
+any T-any N-M1
+
+Stage IVA
+Stage IVB
+
+Description
+Tumour limited to one ovary (capsule intact), no tumour on ovarian surface; no malignant
+cells in ascites or peritoneal washings; no regional lymph node metastasis; no distant
+metastasis
+Tumour limited to both ovaries (capsules intact), no tumour on ovarian surface; no malignant
+cells in ascites or peritoneal washings; no regional lymph node metastasis; no distant
+metastasis
+Tumour limited to one or both ovaries with capsule ruptured (surgical spill); no regional
+lymph node metastasis; no distant metastasis
+Tumour limited to one or both ovaries with capsule ruptured before surgery or tumour on
+ovarian surface; no regional lymph node metastasis; no distant metastasis
+Tumour limited to one or both ovaries with malignant cells in ascites or peritoneal washings;
+no regional lymph node metastasis; no distant metastasis
+Extension and/or implants on the uterus and/or tube(s); no malignant cells in ascites or peritoneal washings; no regional lymph node metastasis; no distant metastasis
+Extension to and/or implants in other pelvic tissues; no malignant cells in ascites or peritoneal washings; no regional lymph node metastasis; no distant metastasis
+Tumour limited to the ovaries (one or both) (T1) or tumour involves one or both ovaries
+with pelvic extension (T2); regional lymph node metastasis; no distant metastasis
+Metastasis up to 10 mm in greatest dimension
+Metastasis more than 10 mm in greatest dimension
+Microscopic peritoneal metastasis beyond the pelvis (no macroscopic tumour); no regional
+lymph node metastasis (N0) or regional lymph node metastasis (N1); no distant metastasis
+Macroscopic peritoneal metastasis beyond the pelvis up to 2 cm in greatest dimension; no
+regional lymph node metastasis (N0) or regional lymph node metastasis (N1); no distant
+metastasis
+Macroscopic peritoneal metastasis beyond the pelvis > 2 cm in greatest dimension and/or
+regional lymph node metastasis; no regional lymph node metastasis (N0) or regional
+lymph node metastasis (N1); no distant metastasis
+Pleural effusion with positive cytology
+Parenchymal metastases and metastases to extra-abdominal organs (including inguinal
+lymph nodes and lymph nodes outside of the abdominal cavity)
+
+FIGO, International Federation of Gynecology and Obstetrics; TNM, tumour, node, metastasis.
+Modiﬁed from [22] and [57].
+
+Volume 29 | Supplement 4 | October 2018
+
+doi:10.1093/annonc/mdy001 | iv3
+
+Clinical Practice Guidelines
+Staging
+A surgical approach can be carried out through open route or, in
+selected cases, by minimally invasive approaches—laparoscopy
+and robotics—to avoid tumour rupture during surgery. A careful
+examination of the abdominal cavity is required. The staging procedure includes infracolic omentectomy, biopsy of the diaphragmatic peritoneum, paracolic gutters, pelvic peritoneum and
+peritoneal washings in macroscopic stage I disease.
+Germ cell tumours. There is no consensus about the role of systematic lymphadenectomy, but the omission of staging peritoneal procedures seems to increase the recurrence rate [24],
+though without impact on overall survival [25]. GCTs, particularly dysgerminoma, have a high risk of nodal spread. On the
+other hand, given the very high chemosensitivity of such
+tumours, potential nodal metastasis should be cured by adjuvant
+ChT in these patients [III, A].
+Thus, nodal debulking surgery is only required in rare cases of
+residual disease after ChT. In early-stage disease that does not
+require adjuvant ChT because of favourable prognostic factors,
+nodal dissection should be carried out only where there is evidence of nodal abnormalities during surgical exploration and/or
+initial CT scan (lymphadenopathy) [III, A]. Patients not undergoing initial nodal staging surgery can be safely cured with ChT at
+the time of the potential nodal recurrence [26].
+Unilateral salpingo-oophorectomy with preservation of the
+contralateral ovary and the uterus is now considered as the standard surgical treatment for young patients with GCTs [III, A].
+This conservative management should be considered even in
+the case of advanced disease because of the sensitivity of the
+tumour to ChT [IV, B] [27]. Systematic ovarian biopsy is not necessary when the contralateral ovary is macroscopically normal [III,
+A]. In case of macroscopic bilateral ovarian diseases (particularly
+dysgerminoma or immature teratoma), preservation of at least a
+healthy part of one ovary (unilateral salpingo-oophorectomy and
+contralateral cystectomy) and the uterus should be encouraged
+[IV, B] [28]. In postmenopausal women and in patients with
+advanced-stage disease or with bilateral ovarian involvement,
+abdominal hysterectomy and bilateral salpingo-oophorectomy
+could be carried out with careful surgical staging [III, A].
+Sex cord-stromal tumours. The place of conservative treatment in
+child-bearing age patients affected by SCSTs is somewhat different. Preservation of the uterus and contralateral ovary seems to
+be safe in macroscopic stage IA disease but should not be carried
+out in stages > I. Conservative surgery is also an acceptable
+approach in young patients with stage I SCSTs [IV, B]. In the case
+of juvenile granulosa cell tumours, the safety of this management
+approach in stage IC disease remains controversial, particularly
+in stage IC2 or IC3 disease [V, C]. In case of conservative treatment, an endometrial curettage (or hysterectomy in case of radical management) must be carried out to rule out concomitant
+uterine cancers in patients with granulosa cell tumour [IV, B].
+For SCSTs, retroperitoneal evaluation is not mandatory because
+of the very low incidence of retroperitoneal metastases in earlystage disease [III, A]. Recent publications on incidence of lymph
+node metastases in SCST support the position that lymphadenectomy is not needed in these patients [29]. SLCTs frequently have
+
+iv4 | Ray-Coquard et al.
+
+Annals of Oncology
+low-grade malignancy, although occasionally a retiform or
+poorly differentiated (sarcomatoid) form may be malignant. In
+postmenopausal women and in patients with advanced-stage disease or with bilateral ovarian involvement, abdominal hysterectomy and bilateral salpingo-oophorectomy should be carried out
+with careful surgical staging for SCST [III, A].
+Small cell carcinomas of the ovary hypercalcaemic type. The prognosis of SCCOHT is very poor and the risk of extra-ovarian spread
+high. All suspected cases should benefit from a review by an expert
+pathologist and be discussed in a specialised tumour board [V, A].
+Efforts should be made to treat patients in a more homogeneous
+way through national and international networks [V, A].
+Conventional surgical treatment includes radical surgery (bilateral
+salpingo-oophorectomy and hysterectomy) combined with peritoneal and nodal staging surgery, even for macroscopically stage I disease [IV, A] [2]. The largest series to date reported a decline in
+survival in patients treated conservatively [2]. As a result of the adjuvant treatment after surgery combining high-dose ChT (HDCT)
+and radiotherapy (RT), the potential preservation of gonadal function is considered to be only conceptual even if one ovary and the
+uterus are preserved [2]. Until now, no pregnancy has been reported
+after this type of de-escalating surgical management [2].
+
+Management of early stages
+Germ cell tumours (Figures 1–3)
+Most GCTs (60%–70%) are diagnosed at an early stage. Stage I
+patients have an excellent prognosis with long-term disease-free status
+of about 90%. Given the young age of patients, all efforts should be
+made to preserve fertility. Fertility-sparing surgery appears to be safe
+with excellent survival after long-term follow-up, yielding outcomes
+equivalent to patients undergoing hysterectomy with bilateral
+salpingo-oophorectomy [III, A]. Stage IA pure dysgerminoma should
+be treated with surgery only [III, A] [24]. The recurrence rate in this
+group of patients is relatively low (15%–25%) and they can be successfully treated at the time of relapse with a high likelihood of cure.
+Patients with stage IA grade 1 immature teratoma do not require further adjuvant ChT after adequate surgical staging [III, A]. The need
+for adjuvant ChT in stage IA G2–G3 and IB–IC is still controversial
+[5]. Some published data (risk of relapse ranging from 2%–20% for
+grade 2 to 20%–40% for grade 3 immature teratoma) indicate that all
+grades of immature teratoma and all stage I dysgerminomas can be
+managed with close surveillance after fertility-sparing surgery [III, B],
+reserving ChT for those cases in which post-surgery recurrence is
+documented [24, 30]. However, this policy is not universally accepted;
+the benefit of not having ChT (i.e. the avoided risk weighed against
+the risk of relapse and delayed treatment) needs to be discussed with
+the patient. All patients with stage I YSTs are treated with adjuvant
+ChT after surgery [31]. Recent data on paediatric patients suggest close
+surveillance for stage I YSTs with complete surgical staging and negative postoperative a-FP, reserving ChT for patients who experience
+recurrence [30], but this policy is not widely accepted [III, C].
+Data from the literature show that the most used combination
+is the 5-day bleomycin/etoposide/cisplatin (BEP) regimen [III,
+A] [31].
+
+Volume 29 | Supplement 4 | October 2018
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Dysgerminoma
+
+Stage IA
+
+Stage IB-IC
+
+Stage IIA-IV
+
+Fertility-sparing surgery
+Surgical staging
+[III, A]
+
+Fertility-sparing surgery
+Surgical staging
+[III, A]
+
+Debulking/Staging [III, A]
+or
+Fertility-sparing surgery
+when indicated [IV, B]
+
+Properly-staged
+patients
+
+Yes
+
+No
+
+≤ 40 years
+
+BEP x 3–4 cycles
+[III, A]
+
+Active surveillance*
+
+> 40 years
+or with PD
+
+EP x 3-4 cycles
+[III, A]
+
+Standard follow-up
+
+Figure 1. Management of GCTs of the ovary—dysgerminoma.
+*See Table 5.
+BEP, bleomycin/etoposide/cisplatin; EP, etoposide/cisplatin; GCT, germ cell tumour; PD, pulmonary disease.
+
+When ChT is not offered, a close and active surveillance programme should be proposed [III, C]. Vazquez and Rustin postulate
+a surveillance schedule involving regular clinical review with clinical
+
+Volume 29 | Supplement 4 | October 2018
+
+examination, radiological imaging including abdomen-pelvic
+sonography at regular intervals and the monitoring of tumour
+markers to detect relapse over a period of 10 years, with a gradual
+
+doi:10.1093/annonc/mdy001 | iv5
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Immature teratoma
+
+Stage IA G2-G3
+
+Stage IA G1
+
+Stage IB-IC
+
+Stage IIA-IV
+
+Debulking/Staging
+[III, A]
+Fertility-sparing
+surgery in some cases
+[IV, B]
+
+Fertility-sparing surgery when indicated
+Surgical staging
+[III, A]
+
+Properly-staged patients
+with negative
+postoperative
+tumour markers
+BEP x 3–4 cycles [III, A]
+
+Selected cases
+
+Cytoreductive surgery
+if residual disease
+[III, A]
+
+Active surveillance*
+
+Standard follow-up
+
+Figure 2. Management of GCTs of the ovary—immature teratoma.
+*See Table 5.
+Optional
+BEP, bleomycin/etoposide/cisplatin; GCT, germ cell tumour.
+
+iv6 | Ray-Coquard et al.
+
+Volume 29 | Supplement 4 | October 2018
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Yolk sac tumour
+
+Stage IA-IB
+
+Fertility-sparing surgery
+Staging
+[III, A]
+
+Properly-staged patients
+with negative
+postoperative
+tumours markers
+
+Active surveillance*
+[GoR C]
+
+Stage IC-IV
+
+Debulking/Staging
+[III, A]
+or
+Fertility-sparing surgery
+Staging
+[IV, B]
+
+BEP x 3–4 cycles [III, A]
+
+Standard follow-up
+
+Figure 3. Management of GCTs of the ovary—yolk sac tumour.
+*See Table 5.
+Optional
+BEP, bleomycin/etoposide/cisplatin; GCT, germ cell tumour; GoR, grade of recommendation.
+
+Volume 29 | Supplement 4 | October 2018
+
+doi:10.1093/annonc/mdy001 | iv7
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 5. Active surveillance programme in the management of ovarian GCTs
+Time period
+
+Examination
+
+Pelvic US
+
+Tumour markers
+
+Chest X-ray
+
+CT chest
+abdomen pelvis
+
+1st year
+
+monthly
+
+2 monthly
+
+2 monthly
+
+1 montha
+3 monthsb
+12 months
+
+2nd year
+3rd year
+4th year
+5th to 10th year
+
+2 monthly
+3 monthly
+4 monthly
+6 monthly
+
+4 monthly
+6 monthly
+
+every 2 weeks
+(ﬁrst 6 months)
+and then monthly
+2 monthly
+3 monthly
+4 monthly
+6 monthly
+
+4 monthly
+6 monthly
+8 monthly
+annually
+
+a
+
+If not carried out preoperatively.
+If clear—second look laparoscopy if inadequate staging/immature teratoma.
+CT, computed tomography; GCT, germ cell tumour; US, ultrasound.
+Suggested surveillance programme based on Mount Vernon proposal. Modiﬁed from [32] with permission.
+
+b
+
+Table 6. Toxicity of BEP and long-term complications
+Pulmonary toxicity, decreased DLCO
+AML
+Neuropathy
+Raynaud’s disease
+Tinnitus
+High tone hearing loss
+Gonadal dysfunction
+Cardiovascular disease/Hypertension
+Nephrotoxicity
+Osteoporosis after radical surgery for young patients
+AML, acute myeloid leukaemia; BEP, bleomycin/etoposide/cisplatin;
+DLCO, diffusing capacity of the lungs for carbon monoxide.
+
+increase of the interval between clinical appointments [III, C] [32].
+This is summarised in Table 5 [32]. Patient adherence to the
+demanding visit schedule is of paramount importance. It is
+extremely important to advise patients against pregnancy during the
+first 2 years after initial diagnosis, as most relapses occur during this
+time [1]. Whenever possible, patients undergoing active surveillance
+protocols should be included in trials or prospective registries.
+
+Sex cord-stromal tumours (Figures 4 and 5)
+Most SCSTs (60%–95%) are diagnosed at an early stage. Stage IA
+granulosa cell tumours have an excellent prognosis after surgery
+alone and do not require adjuvant therapy [III, A].
+The selection of early-stage SCST patients for any postoperative treatment is controversial. To date, the relative benefit of
+adjuvant ChT has yet to be demonstrated. Some authors would
+suggest adjuvant therapy for juvenile granulosa tumour stage IC
+patients [IV, B]; in this case, platinum-based ChT is the treatment
+of choice [III, A]. Also, more relapses were reported for patients
+with AGCT stage IC2 compared with stage IC1 [33]; in this case,
+adjuvant ChT can be discussed [IV, C].
+The most commonly used regimen is the BEP combination [III,
+A] [5]. Alternative ChT options include: paclitaxel and carboplatin
+
+iv8 | Ray-Coquard et al.
+
+[III, B] [34]; etoposide/cisplatin (EP); cyclophosphamide/doxorubicin/cisplatin (CAP); or a platinum agent alone [III, A]. Due to the relative toxicity of BEP versus carboplatin/paclitaxel, particularly in
+older age groups, and the limited evidence to support its use (some
+non-randomised series suggest carboplatin/paclitaxel may be as effective as BEP), bleomycin should not be given to patients > 40 years
+old or with pre-existing pulmonary disease [III, A].
+For SLCTs, postoperative adjuvant ChT should be considered
+for those patients with stage I poorly differentiated or with heterologous elements [IV, B].
+
+Small cell carcinomas of the ovary hypercalcaemic
+type
+There is no international consensus regarding the optimal treatment of SCCOHT; a multimodal approach including ChT [III, B],
+radical surgery [IV, A] and possibly RT [IV, C] is often proposed
+(Figure 6). However, no randomised studies have been conducted
+to date, and the available published data are composed of case
+reports or small retrospective series with very heterogeneous management strategies [35].
+SCCOHTs are particularly chemosensitive at the outset but
+there is a risk for a rapid relapse. The choice of regimen is generally extrapolated from data in small cell lung carcinoma. A combination of a cisplatin and etoposide-based therapy is generally
+considered most appropriate [III, B] [23, 36]. More recently,
+HDCT for patients who achieved a complete response (CR; after
+surgery and/or ChT) with autologous stem cell transplantation
+(ASCT) rescue has been proposed and is associated with better
+survival [II, C] [24, 36, 37].
+
+Management of advanced disease
+Germ cell tumours
+Fertility-sparing surgery should also be considered in advanced
+stages disease as cure rates remain high [IV, B]. The aim of surgery is
+to remove as much gross tumour as possible; however, the procedure should be moderated to avoid delays in postoperative ChT and
+
+Volume 29 | Supplement 4 | October 2018
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Granulosa cell tumour
+
+Stage IA
+
+Stage IC1
+
+Stage IC2-3
+
+Stage IIA-IV
+
+Fertility-sparing surgery
+Staging
+[III, A]
+
+TAH/BSO
+Staging
+Debulking
+or
+Fertility-sparing surgery
+in selected cases
+[III, A]
+
+TAH/BSO
+Staging
+Debulking
+or
+Fertility-sparing surgery
+in selected cases
+[III, A]
+
+TAH/BSO
+Staging
+Debulking
+[III, A]
+
+Active
+surveillance*
+
+Adjuvant ChT [IV, C]
+BEP x 3 cycles
+EP if > 40 years
+[III, A]
+or
+Carboplatin/paclitaxel
+x 6 cycles
+[III, B]
+or
+Platinum agent alone
+[III, A]
+
+Adjuvant ChT [III, A]
+BEP x 3 cycles
+EP if > 40 years
+or
+Carboplatin/paclitaxel
+x 6 cycles
+
+Standard follow-up
+
+Figure 4. Management of SCSTs of the ovary—granulosa cell tumour.
+*See Table 5.
+Optional
+BEP, bleomycin/etoposide/cisplatin; BSO, bilateral salpingo-oophorectomy; ChT, chemotherapy; EP, etoposide/cisplatin; SCST, sex cord-stromal
+tumour; TAH, total abdominal hysterectomy.
+
+Volume 29 | Supplement 4 | October 2018
+
+doi:10.1093/annonc/mdy001 | iv9
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Sertoli-Leydig cell tumour
+
+Stage IA
+
+> Stage IA
+
+Young patients
+Selected cases
+No
+
+Yes
+
+TAH/BSO
+Staging
+[III, A]
+
+Fertility-sparing surgery
+Staging
+[III, A]
+
+Fertility-sparing surgery
+[III, A]
+
+TAH/BSO
+Staging
+Debulking
+[III, A]
+
+With poorly differentiated or
+heterologous elements
+
+No
+
+Adjuvant ChT [III, B]
+BEP x 3–4 cycles
+EP if > 40 years
+or
+Carboplatin/paclitaxel x 6 cycles
+
+Yes
+
+Adjuvant ChT [IV, B]
+BEP
+EP if > 40 years
+[III, A]
+or
+Carboplatin/paclitaxel
+x 6 cycles
+[III, B]
+
+Standard follow-up
+
+Figure 5. Management of SCSTs of the ovary—Sertoli–Leydig cell tumour.
+BEP, bleomycin/etoposide/cisplatin; BSO, bilateral salpingo-oophorectomy; ChT, chemotherapy; EP, etoposide/cisplatin; SCST, sex cord-stromal
+tumour; TAH, total abdominal hysterectomy.
+
+iv10 | Ray-Coquard et al.
+
+Volume 29 | Supplement 4 | October 2018
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+SCCOHT
+
+Stage I-II
+
+Stage III-IV
+
+TAH/BSO/Staging
+[IV, A]
+
+TAH/BSO/Staging
+[IV, A]
+
+Debulking feasible
+
+Adjuvant ChT [III, B]
+Cisplatin-etoposide-based
+
+HDCT + ASCT
+in selected cases
+[II, C]
+
+Yes
+
+No
+
+Debulking [IV, A]
+
+Neoadjuvant ChT [IV, C]
+Cisplatin-etoposide-based
+
+Adjuvant ChT [III, B]
+Cisplatin-etoposide-based
+
+Debulking [IV, A]
+
+Complete response/resection
+
+Pelvic RT [IV, C]
+
+Yes
+
+No
+To be discussed
+
+HDCT + ASCT
+in selected cases
+[II, C]
+
+Pelvic RT [IV, C]
+
+RELAPSE:
+Cyclophosphamide/doxorubicin/vincristine [V, B]
+Topotecan [V, C]
+Phase I trial
+
+Figure 6. Management of SCCOHT.
+Optional
+ASCT, autologous stem cell transplantation; BSO, bilateral salpingo-oophorectomy; ChT, chemotherapy; HDCT, high-dose chemotherapy;
+RT, radiotherapy; SCCOHT, small cell carcinomas of the ovary hypercalcaemic type; TAH, total abdominal hysterectomy.
+
+Volume 29 | Supplement 4 | October 2018
+
+doi:10.1093/annonc/mdy001 | iv11
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 7. Summary of recommendations
+Diagnosis and pathology/molecular biology
+• Diagnostic work-up should include pelvic ultrasound, abdomino-pelvic CT scan and chest X-ray and PET scan in selected cases (GCTs) [III, B]
+• In young adult patients, hCG, a-FP, LDH and inhibin B levels, full blood count and liver and renal function tests should be carried out
+• In case of suspected gonadoblastomas, a preoperative karyotype should be obtained on all premenarche girls
+• Histological second opinion by an expert pathologist should always be considered. Diagnosis can be made on conventional histological material [V, B]
+• Neoplasms of pure ovarian stroma: in morphologically ambiguous cases, an immunopanel of inhibin alpha, calretinin and FOXL2, plus mutational analysis
+for FOXL2 (402C-G), is useful to conﬁrm AGCTs [V, B]
+Staging and risk assessment
+• A surgical approach can be carried out through open route or, in selected cases, by laparoscopy and robotics approaches, thereby avoiding tumour rupture during surgery
+• A careful examination of the abdominal cavity is required
+• The staging procedure includes infracolic omentectomy, biopsy of the diaphragmatic peritoneum, paracolic gutters, pelvic peritoneum and peritoneal
+washings (macroscopic stage I disease)
+• Unilateral salpingo-oophorectomy with preservation of the contralateral ovary and the uterus is considered an adequate surgical treatment for patients
+with GCTs. This should be considered even in advanced disease because of the sensitivity of the tumour to ChT [IV, B]. No systematic ovarian biopsy is
+necessary when the contralateral ovary is macroscopically normal [III, A]
+• Given the very high chemosensitivity of GCTs, potential nodal metastasis should be cured by adjuvant ChT in these patients [III, A]
+• Nodal dissection should be carried out only if evidence of nodal abnormality [III, A]
+• For SCSTs, retroperitoneal evaluation is not mandatory [III, A]
+• An endometrial curettage must be carried out to rule out concomitant uterine cancers in patients with granulosa cell tumours [IV, B]
+• Conservative surgery is also an acceptable approach in young patients with stage I SCSTs [IV, B]
+• In postmenopausal women and in patients with advanced-stage disease or with bilateral ovarian involvement, abdominal hysterectomy and bilateral
+salpingo-oophorectomy should be carried out with careful surgical staging for SCST [III, A]
+Early-stage GCTs: management
+• Stage IA pure dysgerminoma should be treated with surgery only [III, A]
+• Patients with stage IA grade 1 immature teratoma do not require further adjuvant ChT after adequate surgical staging [III, A]
+• Adjuvant ChT in stage IA-IC G2-G3 immature teratoma, stage IA-IB YST with negative postoperative tumour markers and IB-IC dysgerminomas is recommended but active surveillance is an option [III, B]
+• 5-day BEP is the most used regimen [III, A]
+• The close surveillance schedule involves regular clinical review with clinical examination, radiological imaging including abdomen-pelvic intravaginal
+sonography at regular intervals and the monitoring of tumour markers to detect relapse over a period of 10 years, with a gradual increase of the interval
+between clinical appointments [III, C]
+Advanced-stage and recurrent GCTs: management
+• Fertility-sparing surgery should be considered also in advanced stages [IV, B]. The aim of surgery is to remove as much gross tumour as possible; however,
+the procedure should be moderated to avoid delays in postoperative ChT and long-term morbidity
+• In postmenopausal women with advanced-stage disease or with bilateral ovarian involvement, abdominal hysterectomy and bilateral salpingo-oophorectomy could be carried out with careful surgical staging [III, A]
+• Platinum-based regimens are the treatment of choice with the BEP regimen being the most widely used, generally, three cycles of 5-day BEP regimen in
+completely resected disease and four cycles (bleomycin should be omitted to reduce the risk of lung toxicity after the third cycle) for patients with macroscopic residual disease [III, A]
+• In patients previously treated with platinum, with platinum-sensitive relapse (progression > 4–6 weeks after completion of ChT), combinations with
+platinum should be considered [IV, C]
+• Patients resistant to a cisplatin-based combination may receive VAC or paclitaxel/gemcitabine or gemcitabine/oxaliplatin as salvage therapy [IV, C]
+• HDCT for recurrent ovarian GCTs may result in durable and prolonged remissions [IV, C]
+• Any resectable residual disease should be removed, particularly for patients with normal serum marker and for patients with immature teratoma in order
+to avoid the growing teratoma syndrome [III, A]
+Early-stage SCSTs: management
+• Stage IA granulosa cell tumour disease has an excellent prognosis after surgery alone and does not require adjuvant therapy [III, A]
+• Adjuvant therapy should be considered for juvenile granulosa tumour stage IC patients [IV, B] or for AGCT stage IC2-IC3 patients [IV, C]. In these cases,
+platinum-based ChT is the treatment of choice [III, A]
+• For SLCTs, postoperative adjuvant ChT should be considered for patients with stage I poorly differentiated or heterologous elements (mesenchymal type)
+[IV, B]
+• BEP is the most commonly used regimen [III, A]. Alternative ChT options include paclitaxel and carboplatin [III, B], EP, CAP or platinum agent alone [III, A]
+Advanced-stage and recurrent SCSTs: management
+• Debulking surgery remains the most effective treatment of advanced or recurrent granulosa cell tumour [III, A]
+• Platinum-based ChT is currently used for patients with advanced-stage SCSTs or recurrent disease [III, A]
+• BEP regimen for three cycles or six cycles of carboplatin/paclitaxel is recommended for postoperative ChT and patients with recurrent SCSTs [III, A]
+Continued
+
+iv12 | Ray-Coquard et al.
+
+Volume 29 | Supplement 4 | October 2018
+
+Annals of Oncology
+
+Clinical Practice Guidelines
+
+Table 7. Continued
+• Patients with steroid cell tumours that are pleomorphic, large, at an advanced stage or with an increased mitotic count should be treated with additional
+
+postoperative platinum-based ChT, either BEP (if not previously used) or a taxane–platinum combination [IV, C]
+• Response to GnRH agonists, tamoxifen, progestin and AIs has been reported and could be an interesting option speciﬁcally for adult GCT [IV, B]
+• For patients with persistent SLCTs, adjuvant ChT should be considered [III, B]
+
+Early and advanced SCCOHT: management
+• All suspected cases should beneﬁt from a review by an expert pathologist and be discussed in a specialised tumour board [V, A]
+• Optimal treatment: a multimodal approach including ChT [III, B], radical surgery [IV, A], HDCT [II, C] and RT [IV, C]
+• Debulking surgery (initial or interval) remains the most effective treatment [IV, A]
+• Combination of a cisplatin- and etoposide-based therapy is the most appropriate for all stages [III, B]
+• The use of pelvic RT, either concurrently or sequentially to HDCT and ASCT, may be considered for patients after surgery [IV, C]
+• Efforts should be made to treat patients in a more homogeneous way through national and international networks [V, A]
+Response evaluation and follow-up after initial treatment
+• Serum tumour markers (hCG, a-FP, LDH, CA 125 and inhibin B) can correlate with tumour response during ChT [V, A]
+• A CT scan of the abdomen, pelvis and chest (in case of suspected lung metastases) and pelvic ultrasound are the most common and useful imaging
+techniques to evaluate the response to ChT [V, A]
+• For GCT, follow-up visits must include history, physical examination with pelvic examination and tumour markers every 3 months for the ﬁrst 2 years,
+then every 6 months during the third year and then yearly until progression [V, A]
+• For SCSTs, follow-up visits including physical exam and tumour markers must be carried out every 6 months starting from the third year and this frequency
+should be maintained indeﬁnitely [V, B]
+• A pelvic ultrasound should be carried out every 6 months in those patients who have undergone fertility-sparing surgery, whereas a CT scan of the
+abdomen and pelvis is carried out according to clinical indication
+• PET scan for tumour response evaluation or follow-up is not yet recommended [V, D]
+Fertility and hormone replacement
+• Oocyte cryopreservation is an option for patients scheduled to receive ChT [V, C]
+• Hyperstimulation followed by oocyte cryopreservation 12 months after the end of ChT is another option [V, C]
+• Fertility preservation should not jeopardise the oncological management
+• HRT may be used safely for many GCTs [V, A]
+• An HRT approach should be avoided for SCST [V, D]
+a-FP, alpha foetoprotein; AGCT, adult granulosa cell tumour; AI, aromatase inhibitor; ASCT, autologous stem cell transplantation; BEP, bleomycin/etoposide/
+cisplatin; CA 125, cancer antigen 125; CAP, cyclophosphamide/doxorubicin/cisplatin; ChT, chemotherapy; CT, computed tomography; EP, etoposide/cisplatin;
+GCT, germ cell tumour; GnRH, gonadotropin-releasing hormone; hCG, human chorionic gonadotropin; HDCT, high-dose chemotherapy; HRT, hormone
+replacement therapy; LDH, lactate dehydrogenase; PET, positron emission tomography; RT, radiotherapy; SCCOHT, small cell carcinoma of the ovary hypercalcaemic type; SCST, sex cord-stromal tumour; SLCT, Sertoli-Leydig cell tumour; VAC, vincristine/actinomycin D/cyclophosphamide; YST, yolk sac tumour.
+
+long-term morbidity. These tumours are highly chemosensitive but
+grow rapidly and may grow back if there is a delay in starting ChT.
+Platinum-based regimens have been the treatment of choice
+and the 5-day-BEP regimen is the most widely used regimen [38].
+While the optimal number of cycles of BEP has not been fully
+established in randomised trials, three cycles of BEP for completely resected stage I disease and four cycles for those with more
+advanced disease are recommended [III, A] [2, 39]. Bleomycin
+should not be given to those > 40 years of age or with pre-existing
+pulmonary disease, given the risk of drug-related lung injury with
+an approximate mortality rate of 3% [III, A].
+Alternative ChT regimens [POMB/ACE (cisplatin/vincristine/
+methotrexate/bleomycin/actinomycin D/cyclophosphamide/etoposide) and CBOP/BEP (carboplatin/bleomycin/vincristine/cisplatin/BEP)] have been evaluated, particularly in high-risk
+patients, reporting high activity and impacting toxicity: unfortunately, none of them has been compared with BEP in randomised
+trials. A phase II Gynecologic Oncology Group (GOG) trial
+reported high activity with an acceptable toxicity profile for a
+carboplatin–etoposide combination in the adjuvant setting
+of completely resected stages I–III dysgerminomas [40].
+
+Volume 29 | Supplement 4 | October 2018
+
+Dysgerminomas are very sensitive to RT; however, its use is limited to selected cases because of the negative impact on fertility.
+In patients with platinum-sensitive relapse (progression
+> 4–6 weeks after completion of ChT), ifosfamide/platinum (IP)
+with or without paclitaxel (P) should be considered as secondline treatment [IV, C] [41]. Further active ChT regimens include:
+vinblastine/ifosfamide/cisplatin (VeIP) and cisplatin/vinblastine/
+bleomycin (PVB) [IV, C] [42]. Patients resistant to a cisplatinbased combination may receive vincristine/actinomycin D/cyclophosphamide (VAC) or paclitaxel/gemcitabine or gemcitabine/
+oxaliplatin as salvage therapy [IV, C].
+Although there is a role for ASCT in relapsed testicular cancer, it
+is not the standard of care for women with relapsed or recurrent
+malignant ovarian GCTs and its role remains undefined because of
+the paucity of prospective data. A recent report suggests that
+HDCT for recurrent ovarian GCTs may result in durable and prolonged remissions [IV, C]. In a retrospective series, Reddy
+Ammakkanavar et al. [43] treated 13 patients with recurrent
+malignant ovarian GCTs from 1990 to 2013. All patients had experienced disease progression after standard cisplatin combination
+treatment. HDCT consisted of tandem courses of carboplatin
+
+doi:10.1093/annonc/mdy001 | iv13
+
+Clinical Practice Guidelines
+Table 8. Table of levels of evidence and grades of recommendation
+(adapted from the Infectious Diseases Society of America-United States
+Public Health Service Grading Systema)
+Levels of evidence
+I Evidence from at least one large randomised, controlled trial of good
+methodological quality (low potential for bias) or meta-analyses of
+well-conducted randomised trials without heterogeneity
+II Small randomised trials or large randomised trials with a suspicion of
+bias (lower methodological quality) or meta-analyses of such trials
+or of trials demonstrated heterogeneity
+III Prospective cohort studies
+IV Retrospective cohort studies or case–control studies
+V Studies without control group, case reports, expert opinions
+Grades of recommendation
+A Strong evidence for efﬁcacy with a substantial clinical beneﬁt,
+strongly recommended
+B Strong or moderate evidence for efﬁcacy but with a limited clinical
+beneﬁt, generally recommended
+C Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh the
+risk or the disadvantages (adverse events, costs, . . .), optional
+D Moderate evidence against efﬁcacy or for adverse outcome, generally
+not recommended
+E Strong evidence against efﬁcacy or for adverse outcome, never
+recommended
+a
+
+By permission of the Infectious Diseases Society of America [58].
+
+700 mg/m2 and etoposide 750 mg/m2 intravenously (i.v.) daily for
+three consecutive days followed by stem cell infusion. Seven
+patients achieved CR with four of these seven patients remaining
+disease free at 12, 22, 120 and 270 months from treatment.
+Any resectable residual disease should be removed, particularly
+for patients with normal serum marker in which residual disease is
+present on imaging after adjuvant therapy and for patients with
+immature teratoma, to avoid growing teratoma syndrome [III, A].
+The role of secondary cytoreductive surgery for patients with
+recurrent or progressive ovarian GCT remains controversial.
+Unlike males, females who have a relapse with malignant disease
+after primary ChT for GCTs have a poor prognosis.
+The role of the new targeted agents in GCTs is yet to be demonstrated. Targeted agents already investigated in testicular
+tumours and of potential interest include tyrosine kinase inhibitors (imatinib and sunitinib) and anti-angiogenic agents (bevacizumab) [44]. These recent studies involving targeted therapies
+have been inconclusive. Nevertheless, studies of the management of refractory GCTs are ongoing, with a focus on optimal
+utilisation of HDCT and ASCT, as well as the role of immune
+checkpoint inhibitors in refractory GCTs [45]. Studies aiming
+to identify the patients who may benefit from more intensive
+treatment up front to prevent the development of refractory disease are also in progress for testicular GCTs, and the results may
+be useful for ovarian GCT patients [46].
+
+Sex cord-stromal tumours
+Debulking surgery, whenever feasible, remains the most effective
+treatment for metastatic or recurrent granulosa cell tumours [III,
+
+iv14 | Ray-Coquard et al.
+
+Annals of Oncology
+A]. Platinum-based ChT is currently used for patients with
+advanced-stage SCSTs or recurrent disease, with an overall response
+rate of 63%–80% [47]. Unfortunately, most patients with advanced
+disease do not have durable remissions. Patients with advanced disease have poor prognosis and they are, therefore, treated with adjuvant therapy, although the data are very limited [IV, C]. The BEP
+regimen for three cycles or carboplatin/paclitaxel for six cycles is currently recommended for adjuvant postoperative ChT and for
+patients with recurrent SCSTs [III, A].
+Patients with steroid cell tumours that are pleomorphic, large,
+at an advanced stage or with non-operable residual disease or
+with an increased mitotic count should be treated with additional postoperative platinum-based ChT, either with BEP (if
+not previously used), or with a taxane-platinum combination
+[IV, C].
+The GOG is currently conducting a randomised phase II trial
+of BEP versus the combination of paclitaxel and carboplatin for
+patients with newly diagnosed and ChT-naı̈ve recurrent metastatic SCSTs of the ovary [48].
+Alternative ChT options include: PVB, EP, CAP, VAC and
+weekly paclitaxel for relapsed patients after platins. There are limited data regarding the utility of ChT in patients with persistent
+SLCTs, but responses in patients with measurable disease have
+been reported [III, B].
+Given the functional hormonal nature of granulosa cell
+tumours that express steroid hormone receptors, there is some
+rational for a hormone-based approach. Response to
+gonadotropin-releasing hormone (GnRH) agonists, tamoxifen,
+progestin and aromatase inhibitors (AIs) has been reported. In a
+recent review, Van Meurs et al. reported the results of 31 patients
+treated with hormone therapy; a CR was described in 25.8% of
+patients and a partial response in 45.2% [49]. Despite limited
+available data, hormone therapy appears to be a useful alternative
+treatment for patients with advanced-stage or recurrent AGCTs
+[IV, B]. The role of AIs for relapsed granulosa cell tumours is
+being assessed in the multicentre phase II PARAGON trial
+(ANZGOG-0903).
+Anti-angiogenic agents have also been investigated in patients
+with recurrent AGCT, due to the overexpression of vascular
+endothelial growth factor and vascularity of these tumours. A
+recent study at the MD Anderson Cancer Center seems to confirm the potential activity of bevacizumab [response rate 17%,
+stable disease (SD) 77%] [50], although the study was conducted
+in only 36 patients [III, C]. The GINECO group (Groupe
+d’Investigateurs Nationaux pour les Etudes des Cancers de
+l’Ovaire) is currently conducting a phase II trial (ALIENORENGOT-ov7/GINECO), to explore the clinical benefit of adding
+bevacizumab to weekly paclitaxel followed by bevacizumab as
+maintenance versus weekly paclitaxel followed by observation in
+patients with relapsed SCSTs [51].
+
+Small cell carcinomas of the ovary hypercalcaemic
+type
+For selected patients with bulky stage III disease or stage IV disease
+where primary debulking surgery is not considered to be achievable,
+the use of neoadjuvant ChT may be considered on an individual
+basis after discussion with the tumour board [IV, C].
+
+Volume 29 | Supplement 4 | October 2018
+
+Annals of Oncology
+A combination of a cisplatin and etoposide-based therapy is
+generally considered most appropriate [III, B] [22, 36]. As
+reported in early stage, HDCT for patients who underwent a CR
+(after surgery and/or ChT) with ASCT rescue has been proposed
+and is associated with better prognosis [II, C] [23, 34, 37]. Even
+with intensive regimens, prognosis remains dismal, and despite
+frequent initial responses to ChT, relapses are frequent and tend
+to be refractory to second-line ChT.
+The management of relapsed disease is often very challenging,
+and prolonged remissions are never achieved with second-line
+ChT regimens usually used in small cell lung carcinomas. Several
+schedules have been reported including the combination of
+cyclophosphamide, doxorubicin and vincristine [V, B]. There are
+anecdotal reports on carboplatin and paclitaxel including
+dose-dense regimes, and topotecan has also shown some modest
+activity as in small cell lung cancers [V, C]. To date, no targeted
+therapies have been tested in SCCOHT. Second-line treatment is
+likely to achieve short remission rates, and beyond that, patients
+should be considered for phase I trials if they remain of good
+performance status.
+
+Follow-up, long-term implications and
+survivorship
+Response evaluation and follow-up programme for
+post-ChT
+Germ cell tumours. The surveillance follow-up programme for
+patients not undergoing postoperative ChT has been detailed
+previously. For patients undergoing ChT, serum tumour markers
+(hCG, a-FP, LDH, CA 125 and inhibin B) can accurately correlate
+with tumour response during ChT [V, A]. A CT scan of the abdomen, pelvis and chest (in case of suspected lung metastases) and
+pelvic ultrasound are the most common and useful imaging techniques to evaluate the response to ChT in patients with measurable disease [V, A]. Approximately 75% of GCT recurrences occur
+within the first year after initial management; the peritoneal cavity is the most common site of recurrence, while retroperitoneal
+lymph node involvement is very uncommon. Given that the
+majority of women with GCTs have an excellent survival
+outcome, persistence of long-term effects of treatment is highly
+significant. The most frequent side effects of BEP included pulmonary toxicity, decreased diffusing capacity of the lungs for carbon monoxide (DLCO), acute myeloblastic leukaemia (AML),
+neuropathy, Raynaud’s disease, tinnitus, high tone hearing loss,
+gonadal dysfunction, cardiovascular disease/hypertension and
+nephrotoxicity (Table 6). One of the most ominous late effects of
+ChT, particularly for young survivors, is the risk of secondary
+malignancies. Contrary to what is known for testicular cancer
+survivors, no study so far has analysed the risk of a solid second
+cancer in GCTs. Recently, the Cancer Registry of Norway has
+reported the cumulative incidence of a second cancer in 10-year
+GCT survivors [19]. A second cancer was diagnosed in 23 of 139
+survivors who underwent cytotoxic treatment. Interestingly,
+among these 23 cases, 18 had received abdominal RT and 16 of
+them had their second malignancy occur below the diaphragm.
+Three uterine tumours and two malignant melanomas occurred
+
+Volume 29 | Supplement 4 | October 2018
+
+Clinical Practice Guidelines
+among 41 patients treated only with ChT. Due to the low number
+of cases, the role of ChT in the development of second malignancies cannot be assessed.
+Follow-up visits for GCT patients must include history, physical and pelvic examinations and exploration of tumour markers
+every 3 months for the first 2 years, every 6 months during the
+third year and then yearly until progression [V, A]. Tumour
+marker exploration can be avoided from the third year.
+Sex cord-stromal tumours. Conversely, SCSTs have an indolent
+course with tendency for late recurrence (the median time to
+relapse is approximately 4–6 years), therefore patients with
+SCSTs require long-term follow-up [47]. Several reports describe
+relapses occurring more than 20 years (up to 37 years) after diagnosis. Common sites of recurrence are the upper abdomen
+(55%–70%) and the pelvis (30%–45%).
+In the case of SCSTs, follow-up visits including physical exam
+and tumour marker exploration (e.g. inhibin B, AMH) must be
+carried out every 6 months starting from the third year and this
+frequency should be maintained indefinitely [V, B]. Pelvic ultrasound should be carried out every 6 months in those patients
+who have undergone fertility-sparing surgery. CT scan or magnetic resonance imaging (MRI) should be carried out when clinically indicated, based on symptoms or tumour marker elevation.
+The use of PET scan for tumour response evaluation or followup is not well established yet, as this is not recommended in
+GCTs [V, D].
+Fertility preservation in non-epithelial ovarian cancer. Fertility
+preservation should not jeopardise the oncological management.
+For non-epithelial ovarian cancer, much of the literature on fertility has been focused on young women who harbour GCTs.
+GCTs account for less than 5% of all ovarian malignancies and
+are typically diagnosed in young females, at the peak of their
+reproductive age. After introduction of cisplatin-based ChT,
+most young women with GCTs treated according to the current
+therapeutic approach will survive the disease. However, this success must be balanced against possible treatment-associated longterm adverse effects, gonadal dysfunction being among the most
+feared. The likelihood of ChT-induced amenorrhoea is based on
+the specific administered ChT, its cumulative drug dose and
+duration of therapy. In general, cisplatin is viewed to be only
+moderately gonadotoxic; a significant association between
+increased cumulative doses of cisplatin-based ChT and reduced
+gonadal function has been shown in males with germ cell cancer
+[38]. Recently, the work published by Solheim et al. has shown a
+similar dose-dependent risk of gonadal dysfunction in females
+[19]. This group reports that the cumulative probability of
+achieving pregnancy after treatment was significantly higher in
+women who received no adjuvant treatment or no more than
+three cycles of cisplatin-based ChT compared with those who had
+> 3 cycles of cisplatin- or non-cisplatin-based postoperative
+treatment. In addition, the fertility outcome, namely the return
+of menstruation and ovulation, depends on age: the younger
+the patient, the larger the reserve of oocytes harvested after ChT
+[52]. The infertility rate reported among women attempting conception after treatment for GCTs is 5%–10% [26, 53] which is
+almost comparable to the rate among age-matched women in
+
+doi:10.1093/annonc/mdy001 | iv15
+
+Clinical Practice Guidelines
+the general population [54]. Nevertheless, oocyte cryopreservation is an option for patients scheduled to receive ChT [V, C].
+The recommended approach is to postpone cancer treatment to
+enable ovulation induction and oocyte aspiration. Whenever
+possible, the retrieved oocytes should be in vitro fertilised prior
+cryopreservation, with donor sperm offered to single patients
+[55]. These frozen embryos may be used to achieve pregnancies if
+ChT-related ovarian failures occur. Another approach is
+controlled ovarian hyperstimulation followed by oocyte cryopreservation 12 months after the end of ChT, in the scenario of a
+rapid decline in ovarian reserve [V, C]. However, due to the rarity
+of GCTs, experience with this approach is limited.
+There is an increasing evidence for efficacy in reducing premature ovarian insufficiency with the use of GnRH agonists in
+patients with breast cancer undergoing ChT. However, there is
+no evidence in other cancers and certainly none in these rare
+diseases [56].
+
+Hormone replacement therapy and contraception
+ChT has long-term effects on gonadal function and may lead to
+ovarian dysfunction and sterility. Factors such as cumulative
+drug dose, duration of therapy and age at treatment influence the
+incidence of ovarian failure function. Those patients who suffer
+from iatrogenic menopause usually have more pronounced
+symptoms in comparison with those following a naturally occurring menopause, mainly due to the sudden cessation of ovarian
+hormone production and younger age. In this field, the GOG carried out an analysis evaluating the quality of life and the reproductive and psychosocial characteristics of survivors of GCTs
+compared with matched controls [57]. At a median follow-up of
+10.2 years, these women appeared to be free of any major physical
+illnesses compared with matched controls. The only differences
+consisted of higher rates of reported hypertension, hypercholesterolaemia and hearing loss. Among chronic functional problems, numbness, tinnitus and Raynaud’s symptoms were
+reported more frequently by survivors. In spite of persistence of a
+few sequelae of treatment, in general, GCT survivors enjoy a
+healthy life comparable to that of controls.
+Hormone replacement therapy (HRT) for germ cell and sex
+cord ovarian malignancies is important to consider; most cases
+occur in young premenopausal women who could enter the menopause as a consequence of radical treatment and would be
+exposed to several decades of oestrogen deficiency. Symptoms of
+iatrogenic menopause are usually more pronounced compared
+with a regular menopause due to the sudden cessation of ovarian
+hormone production, younger age and additional physical and
+psychological symptoms associated with cancer therapy.
+HRT is an effective treatment mainly used for the treatment of
+vasomotor symptoms, low mood, sexual dysfunction and urogenital symptoms following the menopause. Moreover, it may
+dramatically improve physical and psychological symptoms and,
+in the end, the quality of life in cancer patients.
+Although, there is no trial evaluating the use of HRT in germ
+cell and sex cord ovarian cancer patients, it is generally considered that HRT may be used safely for GCTs [V, A]. In the case of
+ovarian granulosa cell tumours and other sex cord-stromal
+malignancies, e.g. SLCTs which are thought to be hormone
+
+iv16 | Ray-Coquard et al.
+
+Annals of Oncology
+dependent, an HRT approach should be avoided following their
+diagnosis [V, D].
+Hormonal contraception is not contraindicated for women
+diagnosed with GCTs receiving fertility-sparing treatment and
+wanting to postpone or avoid pregnancies [V, B].
+
+Methodology
+These Clinical Practice Guidelines were developed in accordance
+with the ESMO standard operating procedures for Clinical
+Practice Guidelines development http://www.esmo.org/
+Guidelines/ESMO-Guidelines-Methodology. The relevant literature has been selected by the expert authors. A summary of recommendations is presented in Table 7. Levels of evidence and
+grades of recommendation have been applied using the system
+presented in Table 8. Statements without grading were considered justified standard clinical practice by the experts and the
+ESMO faculty. This manuscript has been subjected to an anonymous peer review process.
+
+Disclosure
+IRC has reported advisory board membership for Roche, Clovis,
+AstraZeneca, Tesaro, PharmaMar, Amgen, Merck Sharp &
+Dohme, Vifor Pharma and has received research support from
+PharmaMar; DL has reported advisory board membership for
+Roche, Clovis, AstraZeneca and has received research support
+from PharmaMar; AO has reported advisory board membership
+for Roche, Clovis, AstraZeneca and PharmaMar; NC is a member
+of the Roche speakers’ bureau; PM, JP and PP have reported no
+conflicts of interest.
+
+References
+1. Gatta G, van der Zwan JM, Casali PG et al. Rare cancers are not so rare:
+the rare cancer burden in Europe. Eur J Cancer 2011; 47: 2493–2511.
+2. Young RH, Oliva E, Scully RE. Small cell carcinoma of the ovary, hypercalcemic type. A clinicopathological analysis of 150 cases. Am J Surg
+Pathol 1994; 18: 1102–1116.
+3. Prat J. Ovarian sex cord-stromal and steroid cell tumors (Chapter 28). In
+Mutter GL, Prat J (eds), Pathology of the Female Reproductive Tract, 3rd
+edition. Churchill Livingstone (Elsevier), Edinburgh 2014.
+4. Lane AH, Lee MM, Fuller AF Jr et al. Diagnostic utility of Müllerian
+inhibiting substance determination in patients with primary and recurrent granulosa cell tumors. Gynecol Oncol 1999; 73: 51–55.
+5. Gershenson DM. Current advances in the management of malignant
+germ cell and sex cord-stromal tumors of the ovary. Gynecol Oncol
+2012; 125: 515–517.
+6. Prat J, Cao D, Carinelli S et al. Teratoma (Chapter 1: Tumours of the
+ovary). In Kurman RJ, Carcangiu ML, Herrington CS, Young RH (eds),
+WHO Classification of Tumours of Female Reproductive Organs, 4th
+edition. IARC: Lyon 2014; 57–62.
+7. Prat J, Cao D, Carinelli S et al. Monodermal teratomas and somatic-type
+tumours arising from a dermoid cyst (Chapter 1: Tumours of the ovary).
+In: Kurman RJ, Carcangiu ML, Herrington CS, Young RH (eds), WHO
+Classification of Tumours of Female Reproductive Organs, 4th edition.
+IARC: Lyon 2014; 63–66.
+8. O’Connor DM, Norris HJ. The influence of grade on the outcome of
+stage I ovarian immature (malignant) teratomas and the reproducibility
+of grading. Int J Gynecol Pathol 1994; 13: 283–289.
+
+Volume 29 | Supplement 4 | October 2018
+
+Annals of Oncology
+9. Al-Agha OM, Huwait HF, Chow C et al. FOXL2 is a sensitive and specific
+marker for sex cord-stromal tumors of the ovary. Am J Surg Pathol 2011;
+35: 484–494.
+10. Chang HM, Cheng JC, Taylor E, Leung PC. Oocyte-derived BMP15 but
+not GDF9 down-regulates connexin43 expression and decreases gap
+junction intercellular communication activity in immortalized human
+granulosa cells. Mol Hum Reprod 2014; 20: 373–383.
+11. Foulkes WD, Clarke BA, Hasselblatt M et al. No small surprise—small
+cell carcinoma of the ovary, hypercalcaemic type, is a malignant rhabdoid
+tumour. J Pathol 2014; 233: 209–214.
+12. Jelinic P, Mueller JJ, Olvera N et al. Recurrent SMARCA4 mutations in
+small cell carcinoma of the ovary. Nat Genet 2014; 46: 424–426.
+13. Ramos P, Karnezis AN, Craig DW et al. Small cell carcinoma of the
+ovary, hypercalcemic type, displays frequent inactivating germline and
+somatic mutations in SMARCA4. Nat Genet 2014; 46: 427–429.
+14. Karnezis AN, Wang Y, Ramos P et al. Dual loss of the SWI/SNF complex
+ATPases SMARCA4/BRG1 and SMARCA2/BRM is highly sensitive and
+specific for small cell carcinoma of the ovary, hypercalcaemic type. J
+Pathol 2016; 238: 389–400.
+15. Hasselblatt M, Gesk S, Oyen F et al. Nonsense mutation and inactivation
+of SMARCA4 (BRG1) in an atypical teratoid/rhabdoid tumor showing
+retained SMARCB1 (INI1) expression. Am J Surg Pathol 2011; 35:
+933–935.
+16. Schneppenheim R, Frühwald MC, Gesk S et al. Germline nonsense mutation and somatic inactivation of SMARCA4/BRG1 in a family with rhabdoid tumor predisposition syndrome. Am J Hum Genet 2010; 86: 279–284.
+17. Karanian-Philippe M, Velasco V, Longy M et al. SMARCA4 (BRG1) loss
+of expression is a useful marker for the diagnosis of ovarian small cell
+carcinoma of the hypercalcemic type (ovarian rhabdoid tumor): a comprehensive analysis of 116 rare gynecologic tumors, 9 soft tissue tumors,
+and 9 melanomas. Am J Surg Pathol 2015; 39: 1197–1205.
+18. Prat J. FIGO Committee on Gynecologic Oncology. Staging classification
+for cancer of the ovary, fallopian tube, and peritoneum. Int J Gynaecol
+Obstet 2014; 124: 1–5.
+19. Solheim O, Kærn J, Tropé CG et al. Malignant ovarian germ cell tumors:
+presentation, survival and second cancer in a population based
+Norwegian cohort (1953-2009). Gynecol Oncol 2013; 131: 330–335.
+20. Mangili G, Sigismondi C, Gadducci A et al. Outcome and risk factors for
+recurrence in malignant ovarian germ cell tumors: a MITO-9 retrospective study. Int J Gynecol Cancer 2011; 21: 1414–1421.
+21. de la Motte Rouge T, Pautier P, Genestie C et al. Prognostic significance
+of an early decline in serum alpha-fetoprotein during chemotherapy for
+ovarian yolk sac tumors. Gynecol Oncol 2016; 142: 452–457.
+22. Reed NS, Pautier P, Avall-Lundqvist E et al. Gynecologic Cancer
+InterGroup (GCIG)consensus review for ovarian small cell cancers. Int J
+Gynecol Cancer 2014; 24 (9 Suppl 3): S30–S34.
+23. Bristow RE, Tomacruz RS, Armstrong DK et al. Survival effect of maximal cytoreductive surgery for advanced ovarian carcinoma during the
+platinum era: a meta-analysis. J Clin Oncol 2002; 20: 1248–1259.
+24. Mangili G, Sigismondi C, Lorusso D et al. The role of staging and adjuvant chemotherapy in stage I malignant ovarian germ cell tumors
+(MOGTs): the MITO-9 study. Ann Oncol 2017; 28: 333–338.
+25. Billmire D, Vinocur C, Rescorla F et al. Outcome and staging evaluation
+in malignant germ cell tumors of the ovary in children and adolescents:
+an Intergroup study. J Pediatr Surg 2004; 39: 424–429.
+26. Matei D, Brown J, Frazier L. Updates in the management of ovarian
+germ cell tumors. Am Soc Clin Oncol Educ Book 2013; e210.
+27. Low JJ, Perrin LC, Crandon AJ, Hacker NF. Conservative surgery to preserve ovarian function in patients with malignant ovarian germ cell
+tumors. A review of 74 cases. Cancer 2000; 89: 391–398.
+28. Brown J, Friedlander M, Backes FJ et al. Gynecologic Cancer Intergroup
+(GCIG) consensus review for ovarian germ cell tumors. Int J Gynecol
+Cancer 2014; 24(9 Suppl 3): S48–S54.
+29. Nasioudis D, Kanninen TT, Holcomb K et al. Prevalence of lymph node
+metastasis and prognostic significance of lymphadenectomy in apparent
+early-stage malignant ovarian sex cord-stromal tumors. Gynecol Oncol
+2017; 145: 243–247.
+
+Volume 29 | Supplement 4 | October 2018
+
+Clinical Practice Guidelines
+30. Billmire DF, Cullen JW, Rescorla FJ et al. Surveillance after initial surgery
+for pediatric and adolescent girls with stage I ovarian germ cell tumors:
+report from the Children’s Oncology Group. J Clin Oncol 2014; 32:
+465–470.
+31. Dark GG, Bower M, Newlands ES et al. Surveillance policy for stage I
+ovarian germ cell tumors. J Clin Oncol 1997; 15: 620–624.
+32. Vazquez I, Rustin GJ. Current controversies in the management of germ
+cell ovarian tumours. Curr Opin Oncol 2013; 25: 539–545.
+33. Wilson MK, Fong P, Mesnage S et al. Stage I granulosa cell tumours: a
+management conundrum? Results of long-term follow up. Gynecol
+Oncol 2015; 138: 285–291.
+34. Brown J, Shvartsman HS, Deavers MT et al. The activity of taxanes in the
+treatment of sex cord-stromal ovarian tumors. J Clin Oncol 2004; 22:
+3517–3523.
+35. Callegaro-Filho D, Gershenson DM, Nick AM et al. Small cell carcinoma
+of the ovary-hypercalcemic type (SCCOHT): a review of 47 cases.
+Gynecol Oncol 2016; 140: 53–57.
+36. Pautier P, Ribrag V, Duvillard P et al. Results of a prospective doseintensive regimen in 27 patients with small cell carcinoma of the ovary of
+the hypercalcemic type. Ann Oncol 2007; 18: 1985–1989.
+37. Witkowski L, Goudie C, Ramos P et al. The influence of clinical and
+genetic factors on patient outcome in small cell carcinoma of the ovary,
+hypercalcemic type. Gynecol Oncol 2016; 141: 454–460.
+38. Pectasides D, Pectasides E, Kassanos D. Germ cell tumors of the ovary.
+Cancer Treat Rev 2008; 34: 427–441.
+39. Williams SD. Current management of ovarian germ cell tumors.
+Oncology (Williston Park) 1994; 8: 53–60.
+40. Williams SD, Kauderer J, Burnett AF et al. Adjuvant therapy of completely resected dysgerminoma with carboplatin and etoposide: a trial
+of the Gynecologic Oncology Group. Gynecol Oncol 2004; 95:
+496–499.
+41. Loehrer PJ Sr, Lauer R, Roth BJ et al. Salvage therapy in reccurent germ
+cell cancer: ifosfamide and cisplatin plus either vinblastine or etoposide.
+Ann Intern Med 1988; 109: 540–546.
+42. Einhorn LH. Chemotherapeutic and surgical strategies for germ cell
+tumors. Chest Surg Clin N Am 2002; 12: 695–706.
+43. Reddy Ammakkanavar N, Matei D, Abonour R, Einhorn LH. High-dose
+chemotherapy for recurrent ovarian germ cell tumors. J Clin Oncol 2015;
+33: 226–227.
+44. Manchana T, Ittiwut C, Mutirangura A, Kavanagh JJ. Targeted
+therapies for rare gynaecological cancers. Lancet Oncol 2010; 11:
+685–693.
+45. Chi EA, Schweizer MT. Durable response to immune checkpoint blockade in a platinum-refractory patient with nonseminomatous germ cell
+tumor. Clin Genitourin Cancer 2017; 15: e855–e857.
+46. Allen JC, Kirschner A, Scarpato KR, Morgans AK. Current management of
+refractory germ cell tumors and future directions. Curr Oncol Rep 2017; 19:
+8.
+47. Ray-Coquard I, Brown J, Harter P et al. Gynecologic Cancer InterGroup
+(GCIG) consensus review for ovarian sex cord stromal tumors. Int J
+Gynecol Cancer 2014; 24(9 Suppl 3): S42–S47.
+48. NCT01042522. https://clinicaltrials.gov/show/NCT01042522 (9 February
+2018, date last accessed).
+49. van Meurs HS, van Lonkhuijzen LR, Limpens J et al. Hormone therapy
+in ovarian granulosa cell tumors: a systematic review. Gynecol Oncol
+2014; 134: 196–205.
+50. Brown J, Brady WE, Schink J et al. Efficacy and safety of bevacizumab in
+recurrent sex cord-stromal ovarian tumors: results of a phase 2 trial of
+the Gynecologic Oncology Group. Cancer 2014; 120: 344–351.
+51. NCT01770301. https://clinicaltrials.gov/show/NCT01770301 (12 March
+2018, date last accessed).
+52. Gershenson DM. Treatment of ovarian cancer in young women. Clin
+Obstet Gynecol 2012; 55: 65–74.
+53. Morice P, Pautier P, Fanchin R et al. Therapy Insight: fertility in
+women after cancer treatment. Nat Clin Pract Endocrinol Metab 2007;
+3: 819–826.
+
+doi:10.1093/annonc/mdy001 | iv17
+
+Clinical Practice Guidelines
+54. Tomao F, Peccatori F, Del Pup L et al. Special issues in fertility preservation for gynecologic malignancies. Crit Rev Oncol Hematol 2016; 97:
+206–219.
+55. Tewari KS, Di Saia PJ. Ovulatory failure, fertility preservation and reproductive strategies in the setting of gynecologic and non-gynecologic
+malignancies. Eur J Gynaecol Oncol 2006; 27: 449–461.
+56. Lambertini M, Ceppi M, Poggio F et al. Ovarian suppression using luteinizing hormone-releasing hormone agonists during chemotherapy to
+
+iv18 | Ray-Coquard et al.
+
+Annals of Oncology
+preserve ovarian function and fertility of breast cancer patients: a metaanalysis of randomized studies. Ann Oncol 2015; 26: 2408–2419.
+57. Champion V, Williams SD, Miller A et al. Quality of life in long-term
+survivors of ovarian germ cell tumors: a Gynecologic Oncology Group
+study. Gynecol Oncol 2007; 105: 687–694.
+58. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001; 33: 139–144.
+
+Volume 29 | Supplement 4 | October 2018
+
+

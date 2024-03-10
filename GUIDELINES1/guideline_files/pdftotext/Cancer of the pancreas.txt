@@ -1,0 +1,1458 @@
+clinical practice guidelines
+
+Annals of Oncology 26 (Supplement 5): v56–v68, 2015
+doi:10.1093/annonc/mdv295
+
+Cancer of the pancreas: ESMO Clinical Practice
+Guidelines for diagnosis, treatment and follow-up†
+M. Ducreux1,2, A. Sa. Cuhna2,3, C. Caramella4, A. Hollebecque1,5, P. Burtin1, D. Goéré6,
+T. Seufferlein7, K. Haustermans8, J. L. Van Laethem9, T. Conroy10 & D. Arnold11, on behalf of the
+ESMO Guidelines Committee*
+1
+
+Département de médecine, Gustave Roussy, Villejuif; 2Faculté de Médecine, Université Paris Sud, le Kremlin Bicêtre; 3Département de Chirugie Hépato-biliaire, Hopital
+Paul Brousse, Villejuif; 4Département d’imagerie; 5Département d’Innovation Thérapeutique; 6Département de Chirurgie Générale, Gustave Roussy, Villejuif, France;
+7
+Department of Internal Medicine I, Ulm University Hospital Medical Center, Ulm, Germany; 8Department of Radiation Oncology, Leuven Kankerinstitute, Leuven;
+9
+Departement of Gastroenterology, Hôpital Erasme, Cliniques Universitaires de Bruxelles, Brussels, Belgium; 10Département de médecine, Institut de Cancérologie de
+Lorraine, Vandoeuvre lés Nancy, France; 11Department of Medical Oncology, Tumor Biology Center, Freiburg, Germany
+
+clinical practice
+guidelines
+
+incidence and epidemiology
+A recent study estimating cancer epidemiology in 2014 (within
+Europe) showed that pancreatic cancer was the fourth most fatal
+cancer in men after lung, colorectal, and prostate cancers [1].
+Similarly, pancreatic cancer was found to be the fourth most fatal
+cancer in women after breast, colorectal and lung cancers [1].
+With a life expectancy of ∼5% at 5 years, the prognosis of this
+cancer has not improved over the past 20 years, and incidence
+and mortality rates are very similar. Death due to pancreatic carcinoma is increasing in Europe with the number rising from
+75 439 in 2009 to a projected 82 300 deaths in 2014 (+19%) [1]. It
+usually arises in elderly patients with a mean age at onset of 71
+years for men and 75 years for women. The majority of patients
+with pancreatic cancer progress to either metastatic or locally
+advanced disease in the asymptomatic phase. Surgical excision is
+the deﬁnitive treatment with a 5-year survival rate (after resection) of ∼20%, but it is only possible in 15%–20% of the patients.
+The opportunity to detect pancreatic cancer, while it remains
+curable, depends on the ability to identify and screen high-risk
+populations before their symptoms arise. Deﬁning the treatment
+strategy for patients suffering from pancreatic carcinoma requires
+a specialised multidisciplinary team that includes: surgeons,
+medical oncologists, gastroenterologists, radiation therapists, radiologists, and supportive and palliative care specialists.
+The vast majority (>80%) of pancreatic carcinomas are due
+to sporadically occurring mutations. Only a small proportion
+(<10%) are due to inherited germline mutations. Germline
+mutations in BRCA2, p16, ATM, STK11, PRSS1/PRSS2, SPINK1,
+PALB2, and DNA mismatch repair genes are associated with
+varying degrees of increased risk for pancreatic carcinoma [2].
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4,
+CH-6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Committee: February 2002, last update July 2015.
+This publication supersedes the previously published version—Ann Oncol 2013; 24
+(Suppl. 6): vi106–vi114.
+
+Familial pancreatic cancers, deﬁned as at least two ﬁrst-degree
+relatives with pancreatic cancer, account for only 5%–10% of all
+pancreatic cancer cases. Mutation in BRCA2 is probably the
+most common inherited disorder in familial pancreatic cancer.
+Other familial syndromes linked to pancreatic cancer are: hereditary pancreatitis, hereditary non-polyposis colorectal cancer,
+hereditary breast and ovarian cancers, Peutz–Jeghers syndrome,
+ataxia telangiectasia, familial atypical multiple mole melanoma
+syndrome and Li–Fraumeni syndrome.
+The main acquired risk factors for pancreatic cancer are cigarette
+smoking (overall relative risk 1.74) and, to a lesser degree, environmental tobacco smoke. The second most modiﬁable risk factor of
+pancreatic cancer is obesity. Tumorigenesis is enhanced by excess
+adipose tissue, probably through the mechanism of abnormal
+glucose metabolism. Obesity [body mass index (BMI) > 30 kb/m2]
+is associated with a 20%–40% higher rate of death from pancreatic
+cancer. Meta-analyses have demonstrated associations between
+both type 1 and type 2 diabetes mellitus and pancreatic cancer,
+with odds ratios of ∼2.0 and 1.8, respectively [2].
+Chronic pancreatitis accounts for ∼5% of pancreatic cancers.
+The most common cause of chronic pancreatitis, in Europe, is
+excess alcohol consumption. The causal pathway is not clear,
+however, alcohol consumption by itself is related to an increased
+risk of pancreatic cancer.
+Helicobacter pylori, hepatitis B, and human immunodeﬁciency virus infection have also been reported to be related to an
+increase in relative risk of pancreatic cancer, although some confounding factors such as cigarette smoking or alcohol consumption have not always been considered [2].
+Dietary factors have been studied extensively, and clearly contribute to the development of pancreatic cancer. Independent of
+their role in causing obesity: butter, saturated fat, red meat, and
+processed foods are clearly linked to pancreatic cancer [3].
+Conversely, a high fruit and folate intake could reduce the risk of
+pancreatic cancer [3].
+Different chemical substances have been reported to increase
+the relative risk of developing pancreatic cancer, among these
+
+© The Author 2015. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+clinical practice guidelines
+
+Annals of Oncology
+
+key points
+
+Table 1. Major non-genetic risk factors [5]a
+Factor
+
+Relative risk
+
+Attributable fraction
+
+Tobacco
+Helicobacter pylori infection
+Non-O-blood group
+Diabetes mellitus
+Obesity
+Red meat intake
+Heavy alcohol intake
+Low fruit and folate intake
+
+2
+1.5
+1.4
+1.4–2.2
+1.2–1.5
+1.1–1.5
+1.1–1.5
+0.5–1.0
+
+11%–32%
+4%–25%
+13%–19%
+1%–16%
+3%–16%
+2%–9%
+9%
+<12%
+
+a
+
+By permission of Oxford University Press on behalf of The
+International Epidemiological Association.
+
+are: chlorobenzoil, chlorinated hydrocarbon, nickel and nickel
+compounds, chromium compounds, silica dust, and others [4].
+A recent pooled analysis of 117 meta-analytical studies [5]
+assigned a relative risk to a number of these factors improving
+our understanding of the respective role of each factor (Table 1).
+As a summary, it is possible to say that 5%–10% of pancreatic
+cancers are related to a genetic alteration. Among the remaining
+90%, the major risk factors are tobacco, H. pylori infection and
+factors related to dietary habits (BMI, red meat intake, low fruit
+and vegetables intake, diabetes, alcohol intake). Some factors are
+difﬁcult to interpret such as chronic pancreatitis, which is known
+as a risk factor but can be related to alcohol intake. Diabetes is
+also known as a risk factor but this could be the initial symptom
+of the disease, and can also be found in chronic pancreatitis.
+However, about two thirds of the major risk factors associated
+with pancreatic cancer are potentially modiﬁable, affording a
+unique opportunity for preventing one of the deadliest cancers.
+key points
+
+• 5%–10% of pancreatic cancers are due to genetic alteration
+• The main risk factors are tobacco, and factors related to
+dietary habits (BMI, red meat intake, low fruit and vegetables
+intake, diabetes, alcohol intake)
+
+diagnosis and pathology/molecular
+biology
+diagnosis
+Early symptoms of pancreatic cancer result from a mass effect.
+Approximately 60%–70% of pancreatic cancer arises in the head
+of the pancreas, 20%–25% in the body and the tail, and the
+remaining 10%–20% diffusely involve the pancreas. Tumours
+located in the body and the tail are likely to be diagnosed at a
+more advanced stage than tumours located in the head, as these
+can develop symptoms related to an obstruction of the common
+bile duct and/or the pancreatic duct. Common presenting symptoms of pancreatic cancers include jaundice (for tumours of the
+head), abdominal pain, weight loss, steatorrhoea, and new-onset
+diabetes. Tumours can grow locally into the duodenum ( proximal for tumour of the head and distal for tumour of the body
+and tail) and result in an upper gastroduodenal obstruction.
+
+Volume 26 | Supplement 5 | September 2015
+
+• Early symptoms of pancreatic cancer result from a mass effect
+• Common presenting symptoms include jaundice, pain, weight
+loss, steatorrhoea
+
+pathology
+Pancreatic cancers arise from both the exocrine and endocrine
+parenchyma of the gland, however, ∼95% occur within the exocrine portion and may arise from ductal epithelium, acinar cells,
+or connective tissue. Only 2% of tumours of the exocrine pancreas are benign. The most common pancreatic cancer is a ductal
+adenocarcinoma, which accounts for ∼80% of all pancreatic
+cancers. Microscopically, these neoplasms vary from well-differentiated duct-forming carcinomas (which may be so well differentiated that they mimic non-neoplastic glands) to poorly
+differentiated carcinomas, with epithelial differentiation demonstrable only on immunolabelling. Ductal adenocarcinomas typically elicit an intense stromal reaction which has been postulated to
+serve as a barrier to chemotherapy [6]. A number of morphological
+variants of ductal carcinoma have been characterised, including
+colloid carcinoma and medullary carcinoma. Other variants of
+pancreatic cancer, such as adenosquamous carcinoma and undifferentiated carcinomas with osteoclast-like giant cells, are important
+to recognise because they are associated with a poorer prognosis.
+On the contrary, acinar cell pancreatic cancers have a slightly
+better prognosis [7]. Neuroendocrine tumours of the pancreas are
+the second most frequent pancreatic cancers, but they have a very
+speciﬁc pattern that will not be considered in this paper.
+Cystic neoplasms represent 10%–15% of cystic lesions of the
+pancreas [8]. The most commonly encountered cystic neoplasms include: serous cystadenoma, intraductal papillary mucinous neoplasm (IPMN), and mucinous cystic neoplasm
+(either cystadenoma or cystadenocarcinoma). Mucinous lesions
+have potential for malignant progression and/or may harbour a
+malignancy at the time of diagnosis. The non-mucinous lesions
+have no malignant potential.
+key points
+
+• 95% of pancreatic cancers are adenocarcinomas
+• Mucinous lesions of the pancreas have potential for malignant
+progression
+
+molecular biology
+The classical precursor lesions of pancreatic cancer show a ductal
+phenotype, suggesting their ductal cell of origin. The most
+frequent precursors are microscopic pancreatic intraepithelial neoplasia (PanIN), followed by IPMN and mucinous cystic neoplasm.
+PanIN are microscopic (<5 mm) mucinous-papillary lesions,
+which lead to invasive carcinoma through an adenoma-carcinoma
+sequence [9]. Similarly, IPMN and mucinous cystic neoplasms
+become neoplastic by stepwise gene alterations.
+Multiple combinations of genetic mutations are commonly
+found in pancreatic cancers and can be classiﬁed as follows:
+(i) Mutational activation of oncogenes, predominantly KRAS
+found in >90% of pancreatic cancers.
+(ii) Inactivation of tumour suppressor genes such as TP53,
+p16/CDKN2A, and SMAD4.
+
+doi:10.1093/annonc/mdv295 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+(iii) Inactivation of genome maintenance genes, such as hMLH1
+and MSH2, which control the repair of DNA damage. Most
+of these mutations are somatic aberrations.
+Many efforts to understand the genomics of pancreatic cancer
+have evolved from the model system and especially cell lines.
+However, cell lines are poor models of cancer since solid tumour
+samples consist of a variety of tissues which may comprise only a
+small proportion of tumour cells. Adjacent to and surrounding
+these are the other tissues consisting of stroma and endothelial
+cells. This is particularly the case in pancreatic cancer, since the
+tumour contains a high content of stromal tissue. An analysis
+using whole-genome sequencing and copy number variation analysis was recently carried out in 100 pancreatic ductal adenocarcinomas [10]. Chromosomal rearrangements, leading to gene
+disruption were prevalent, affecting genes known to be important
+in pancreatic cancer (TP53, SMAD4, CDKN2A, ARID1A, and
+ROBO2) and new candidate drivers of pancreatic carcinogenesis
+(KDM6A and PREX2). Patterns of structural variation in chromosomes classiﬁed pancreatic cancer into four subtypes with potential clinical utility. The subtypes were termed: stable, locally
+rearranged, scattered, and unstable.
+key points
+
+• The most frequent precursors are microscopic PanIN, fol-
+
+Figure 1. Diagnostic work-up before multidisciplinary decision. CT, computed tomography.
+
+lowed by IPMN and mucinous cystic neoplasm
+
+• Multiple combinations of genetic mutations are commonly
+found in pancreatic cancers
+• Some of the recent genetic mutations discovered could become
+targetable in the near future
+
+staging and risk assessment
+CA 19-9 is not useful for the primary diagnosis of pancreatic
+cancer [I, E]. An increase in serum levels is seen in almost 80%
+of the patients with advanced disease. However, in patients not
+harbouring a functional Lewis enzyme (Lea-b- genotype: 7%–10%
+of the population), levels of CA 19-9 are typically undetectable or
+below 1.0 U/ml. Conversely, the level of CA 19-9 is correlated to
+the level of bilirubin and any cause of cholestasis is able to induce
+false-positive results. CA 19-9 has a signiﬁcant value as a prognostic factor and can be used as a marker to measure disease
+burden and potentially guide treatment decisions. A preoperative
+serum CA 19-9 level ≥500 UI/ml clearly indicates a worse prognosis after surgery [IV, B] (Figure 1).
+The imaging work-up must determine the tumour size and
+precise burden, as well as arterial and venous local involvement.
+All these factors are part of the TNM classiﬁcation (Table 2). In
+case of jaundice due to an obstructive cancer of the head of the
+pancreas, a metal biliary stent should not be placed before initial
+work-up, because their use is linked to an increase of postoperative morbidity if it is decided to resect the cancer [III, A].
+In case of biliary sepsis, plastic stents should be preferred.
+Endoscopic ultrasound (EUS) is now largely used in the staging
+of adenocarcinoma. A recent meta-analysis study showed that EUS
+had limited value in the detection of all metastatic lymph nodes
+[sensitivity (Se) 69%, speciﬁcity (Sp) 81%], but was valuable in the
+detection of vascular invasion (Se 85%, Sp 91%) and prediction of
+resectability (Se 90%, Sp 86%) [11].
+
+v | Ducreux et al.
+
+The great advantage of EUS is its ability to provide tissue
+samples, via ﬁne-needle aspiration, that allow up to 95% diagnostic
+accuracy (when carried out by an experienced cytopathologist).
+Aside from allowing the diagnosis of pancreatic adenocarcinoma,
+this technique also permits the sampling of atypical lymph nodes
+(portocaval especially) to check for tumours with distant metastasis,
+a ﬁnding which would contraindicate radical resection. Incidental
+hepatic metastases can also be sampled during the same procedure
+without introducing any major risk [II, A].
+Radiological studies should include computed tomography
+(CT) angiography at the pancreatic arterial (40–50 s) and portal
+venous (65–70 s) phases. A consensus statement, describing a
+standardised reporting template, was recently developed to
+provide a precise reporting of disease staging and to improve the
+decision-making process for patients with pancreatic cancer
+[12]. When assessing vessel involvement, the use of magnetic
+resonance imaging (MRI) is left to expert discretion. It shows
+equal beneﬁt to CT scanning with no superiority demonstrated
+in studies [13]. However, MRI is useful for solving problems
+such as the detection of hepatic lesions that cannot be characterised by CT [II, A]. MRI and magnetic resonance cholangiopancratography may also be preferable for cystic neoplasms of
+the pancreas and to evaluate biliary anatomy [IV, C].
+In the majority of cases, pancreatic adenocarcinoma appears
+in the pancreatic arterial phase on CT examination, as a hypoattenuating homogeneous mass with indistinct margins. The
+interruption (with or without dilatation) of the biliary duct is fundamental to specify tumour extension. The presence of calciﬁcations is very unlikely but a cystic part of the tumour can exist,
+especially when the tumour originates from a degenerating cystic
+pancreatic lesion. Extra-pancreatic local extension has to be delineated: enlarged lymph nodes (especially in the retroportal space),
+hepatic or peritoneal nodules are the main metastatic sites.
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+Table 2. TNM classification 7th editiona
+Primary tumour (T)
+T0 = No evidence of primary tumour
+Tis = Carcinoma in situ
+T1 = Tumour limited to the pancreas, ≤2 cm in greatest dimension
+T2 = Tumour limited to the pancreas, >2 cm in greatest dimension
+T3 = Tumour extends beyond the pancreas but without involvement of
+the coeliac axis or the superior mesenteric artery
+T4 = Tumour involves the coeliac axis or the superior mesenteric artery
+(unresectable primary tumour)
+Regional lymph nodes (N)
+NX = Regional lymph nodes cannot be assessed
+N0 = No regional lymph node metastasis
+N1 = Regional lymph node metastasis
+(A minimum number of 10 lymph nodes analysed is recommended.)
+The regional lymph nodes are the peripancreatic nodes which may be
+subdivided as follows:
+Superior
+Inferior
+Anterior
+Posterior
+Splenic
+Coeliac
+
+Superior to head and body
+Inferior to head and body
+Anterior pancreaticoduodenal, pyloric (for tumours of head
+only), and proximal mesenteric
+Posterior pancreaticoduodenal, common bile duct, and
+proximal mesenteric
+Hilum of spleen and tail of pancreas (for tumours of body
+and tail only)
+For tumours of head only
+
+Distant metastasis (M)
+M1
+
+Distant metastasis
+
+clinical practice guidelines
+must be described [III, B]. Performance and nutritional status,
+as well as medical comorbidities, are important considerations
+for all patients with pancreatic cancer, who are being considered
+for any major treatment modalities (surgery, chemotherapy, or
+radiation). Advanced age is not a contraindication for any of
+these treatments.
+Biopsy is indicated for patients requiring a diagnosis, such as
+patients initiating chemotherapy or chemoradiation. EUS-guided
+ﬁne-needle aspiration allows preoperative tissue conﬁrmation of
+malignancy, but fear of tumour cell dissemination along the
+needle track has limited its use. A recent study has indicated that
+it could be carried out without consequence on efﬁcacy of surgery
+[16]. It must be recommended, especially in doubtful cases.
+Percutaneous biopsy of a liver metastasis can be used in metastatic disease, but percutaneous biopsy of the pancreas is contra-indicated in potentially resectable cases [III, B].
+Positron emission tomography/CT does not currently add
+much staging information in most patients with resectable
+disease and cannot be recommended; its role will be clariﬁed by
+on-going studies.
+Endoscopic retrograde cholangiography and pancreatography
+(ERCP) is considered as pathognomonic when it shows a
+double stop on the main bile and pancreatic ducts. However,
+ERCP had little diagnostic value over CT or MRI for the evaluation of patients with pancreatic cancer [III, B].
+The additional use of staging laparoscopy to exclude peritoneal metastasis in resectable or borderline resectable patients has
+been suggested by some authors, but it is not generally accepted
+[14] [IV, C].
+key points
+
+• CA 19-9 is the most useful tumour marker in pancreatic
+a
+
+By permission of the American Joint Committee on Cancer (AJCC),
+Chicago, Illinois. The original source for this material is the AJCC
+Cancer Staging Handbook, Seventh Edition (2010) published by
+Springer Science and Business Media LLC, www.springer.com.
+
+According to the American Hepato-Pancreato-Biliary Association
+consensus report, pancreatic ductal adenocarcinoma (when metastases are absent) is classiﬁed as resectable, borderline resectable or
+unresectable [14]. At the time of diagnosis, pancreatic ductal adenocarcinoma is deemed resectable in only 15%–20% of patients.
+For arterial vessels, three situations can exist: vessel tumour
+contact <180° without deformation, more than 180° without deformation, or with deformation (i.e. abutment). For venous vessels,
+one supplementary situation is described: tear drop deformation at
+the tumour contact (i.e. distortion). With the use of such criteria,
+CT or MRI are able to determine the non-resectability of the
+tumour with a high positive predictive value (>90%), but have an
+insufﬁcient predictive value to afﬁrm resectability (<50%) [15].
+Each vessel—superior mesenteric artery (SMA), coeliac axis,
+and common hepatic artery—has to be assessed individually
+with attention paid to local encasement or abutment and a possible anatomic variant, as these can be crucial for the surgical
+decision making. The portal vein (PV) and the superior mesenteric vein (SMV) are the major trunks; any local involvement,
+thrombus, or hazy attenuation of the fat surrounding the vessel,
+
+Volume 26 | Supplement 5 | September 2015
+
+cancer [IV, B]
+
+• Staging of the patient is initially done by CT scan
+• EUS provides some complementary information and allows
+biopsy of the tumour [II, A]
+
+• MRI should be discussed, especially in cystic lesions [IV, C]
+
+treatment
+At the end of the staging procedures, the tumour can be categorised as resectable, borderline resectable, locally advanced or
+metastatic disease. A treatment decision must be taken in accordance with these ﬁndings, including general and nutritional
+status considerations.
+
+treatment of localised disease
+Surgical resection is the only potentially curative treatment of pancreatic adenocarcinoma. However, at diagnosis, <20% of patients
+have a resectable tumour. The main goal of surgery is to achieve
+negative (R0) resection margins. After radiological evaluation,
+only patients with a high probability of R0 resection are good candidates for upfront surgery.
+
+resectability criteria
+An expert consensus group has developed criteria to deﬁne
+tumour resectability, to improve patient selection and the rate of
+
+doi:10.1093/annonc/mdv295 | v
+
+clinical practice guidelines
+R0 resections [14, 17, 18]. According to the degree of contact
+between the tumour and the vessels (PV or SMV, SMA, coeliac
+trunk, and common hepatic artery), tumours are classiﬁed as resectable, borderline resectable or locally advanced [IV, B]. For
+patients with resectable tumours, upfront surgery remains the
+standard of care. Patients with borderline resectable tumours
+have a high probability of R1 resection and, as such, should not
+be considered as good candidates for upfront surgery. Patients
+with locally advanced or metastatic disease have to be considered
+as having unresectable tumours. These criteria (which should be
+considered when deﬁning resectability) [19] have been adopted
+in the National Comprehensive Cancer Network (NCCN) guidelines (Table 3) [IV, B].
+
+resection and margins
+The location and the size of the tumour determine the type of
+surgery. Patients with tumours in the head of the pancreas are
+treated with pancreatoduodenectomy (Whipple procedure).
+Dissection of the right hemi-circumference of the SMA to the
+right of the coeliac trunk is recommended to obtain a good
+medial clearance and to improve the rate of R0 resection [20]. In
+the event of vein involvement, complete venous resection (PV or
+SMV) followed by reconstruction to obtain R0 resection is possible. However, PV or SMV resection is associated with a lower
+rate of R0 resection and poor survival, likely due to the inherent
+aggressiveness of the tumour [21] [IV, B]. Arterial resections
+during pancreatoduodenectomy are associated with increased
+morbidity and mortality, and are not recommended. Frozen sections analysis of pancreatic neck transection and common bile
+duct transection margins is recommended [IV, E].
+The International Study Group of Pancreatic Surgery [18] has
+recently recommended adhering to the guidelines from British
+Royal College of Pathologists (RCpath) for specimen examination and the R1 deﬁnition (margin <1 mm). They advise surgeons to identify the following margins: anterior, posterior,
+medial, or superior mesenteric groove, SMA, pancreatic transection, bile duct, and enteric. Tumour clearance should be given
+for all seven margins [IV, B].
+For patients with tumours in the body or tail of the pancreas,
+distal pancreatectomy, including the resection of the body and the
+tail of the pancreas and the spleen, is usually carried out. Radical
+anterograde modular pancreatosplenectomy, with dissection of the
+left hemi-circumference of the SMA, to the left of the coeliac trunk,
+is recommended to ensure R0 resection [22] [IV, A].
+Some recent studies show that minimally invasive techniques
+(laparoscopy) can reduce the morbidity of pancreatectomies
+without having a negative impact on cancer outcome [23].
+However, data relating to these techniques are insufﬁcient, particularly in relation to oncological results [24]. Therefore, open surgery
+remains the standard of care [II, C].
+
+lymphadenectomy
+In pancreatic cancer, extended lymphadenectomy is not recommended. Standard lymphadenectomy for pancreatoduodenectomy should resect the following lymph nodes:
+
+• Suprapyloric (station 5)
+• Infrapyloric (station 6)
+v | Ducreux et al.
+
+Annals of Oncology
+
+• Anteriosuperior group along the common hepatic artery
+•
+•
+•
+•
+•
+•
+
+(station 8a)
+Along the bile duct (station 12b)
+Around the cystic duct (station 12c)
+On the posterior aspect of the superior (station 13a)
+On the inferior portion of the head of pancreas (station 13a)
+On the right lateral side of SMA (station 14a and 14b)
+On the anterior surface of the superior (station 17a) and inferior portion of the head of pancreas (station 17b)
+
+For tumours of the body and tail of the pancreas, removal of the
+following lymph nodes is recommended:
+
+• At the splenic hilum (station 10)
+• Along the splenic artery (station 11)
+• The inferior margin of pancreas
+Standard lymphadenectomy should involve the removal of
+≥15 lymph nodes to allow adequate pathologic staging of the
+disease. The total number of lymph nodes examined and lymph
+nodes ratio (number of involved lymph nodes/number of lymph
+nodes examined) should be reported in the pathologic analysis
+[25] [IV, A].
+
+age and pancreatectomy
+Some authors have proposed a score that accurately predicts the
+risk of perioperative mortality in patients undergoing pancreatic
+resection. This surgical outcomes analysis and research (SOAR)
+pancreatectomy score is calculated based on preoperative factors
+(http://www.umassmed.edu/surgery/toolbox/panc_mortality_
+custom/) [26][IV, C].
+
+preoperative biliary drainage
+A recent prospective and randomised trial demonstrated an
+increased complication rate associated with routine preoperative
+biliary drainage [27] [I, E]. However, patients in the trial had a
+total bilirubin level below 250 µmol/l. Therefore, the correct approach in patients with higher levels remains undeﬁned. If jaundice is present at diagnosis of pancreatic carcinoma, endoscopic
+drainage should only be carried out preoperatively in patients
+with active cholangitis, or in those whom resection for cure
+cannot be scheduled within 2 weeks of diagnosis, and in those
+with a bilirubin level below 250 µmol/l.
+
+adjuvant treatment after surgical resection
+Considering the poor results of surgery alone in pancreatic carcinoma, many efforts involving chemotherapy, radiotherapy or
+both have been made to improve the 5-year survival of these
+patients.
+
+adjuvant chemotherapy
+Postoperative adjuvant chemotherapy was evaluated in several
+randomised trials. In the ESPAC-1 multicentre randomised
+trial, a 2 × 2 factorial design, 289 patients treated with curative
+resection and complete gross resection received one of four
+therapeutic modalities: exclusive adjuvant chemotherapy [bolus
+5-ﬂuorouracil (5-FU) and folinic acid], chemoradiation only
+(split course 40 Gy plus 5-FU), or chemoradiation followed by
+chemotherapy or surveillance alone [28]. Patients who received
+chemotherapy had a longer median survival (20.1 versus 15.5
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Table 3. Definition of resectability according to NCCN guidelines [19]
+Resectability
+status
+
+Arterial
+
+Venous
+
+Resectable
+
+No arterial tumour contact [coeliac axis (CA), superior
+mesenteric artery (SMA), or common hepatic artery (CHA)]
+
+No tumour contact with the superior mesenteric vein (SMV), or
+portal vein (PV) or <180° contact without vein contour
+irregularity
+
+Borderline
+resectable
+
+Pancreatic head/uncinate process
+Solid tumour with CHA without extension to coeliac axis or
+hepatic artery bifurcation allowing for safe and complete
+resection and reconstruction
+• Solid tumour contact with the SMA <180°
+• Presence of variant arterial anatomy (e.g. accessory right
+hepatic artery) and the presence and degree of tumour contact
+should be noted if present as it may affect surgical planning
+
+•
+
+•
+
+•
+
+Solid tumour contact with the SMV or PV of >180°, contact of
+<180° with contour irregularity of the vein or thrombosis of the
+vein but with suitable vessels proximal and distal to the site of
+involvement allowing for safe and complete resection and vein
+reconstruction
+Solid tumour contact with the inferior vena cava (IVC)
+
+Pancreatic body/tail
+Solid tumour contact with the CA of <180°
+Solid tumour contact with the CA of >180° without
+involvement of the aorta and with intact and uninvolved
+gastroduodenal artery (some members prefer these criteria to
+be in the unresectable category)
+
+•
+•
+
+Unresectable
+
+•
+
+Distant metastases
+Pancreatic head/uncinate process
+• Solid tumour contact with SMA >180°
+• Solid tumour contact with the CA >180°
+• Solid tumour contact with the first jejunal SMA branch
+
+•
+
+Body and tail
+Solid tumour contact with the SMA and CA
+Solid tumour contact with the CA and aorta
+
+•
+
+•
+•
+
+months, P = 0.009) compared with patients who did not. The
+results of the CONKO-001 trial comparing gemcitabine to observation conﬁrmed the beneﬁt of adjuvant chemotherapy [29].
+Gemcitabine administered for 24 weeks improved disease-free
+survival (13.4 versus. 6.9 months, P < 0.001) and overall survival
+(OS) (22.8 versus 20.2 months, P = 0.005). The ESPAC-3 trial
+compared the administration of adjuvant chemotherapy with
+six cycles of either ﬂuorouracil and folinic acid or gemcitabine
+[30]. No difference in OS, recurrence-free quality of life or survival was observed. Recent information suggests that gemcitabine may only be effective in patients with the enzymatic
+equipment to transport gemcitabine into the tumour cell
+(hENT1) and metabolically activate it [31]. Unfortunately, there
+is no sufﬁciently reliable commercial immunohistochemical
+antibody allowing the routine use of this test before giving gemcitabine, and this is still not a factor when selecting a chemotherapy regimen. At present, both 5-FU/folinic acid and
+gemcitabine can be considered as a standard of care [I, A].
+
+adjuvant chemoradiation
+Three randomised trials compared the beneﬁts of adjuvant chemoradiation after pancreatic resection against surveillance alone. A
+ﬁrst trial by the GastroIntestinal Tumour Study Group evaluating
+chemoradiation (40 Gy + 5-FU) was stopped prematurely after the
+treatment of 40 patients. An interim analysis revealed a low rate of
+inclusion and a signiﬁcant difference in survival in favour of the
+chemoradiation arm. After the many criticisms made against this
+
+Volume 26 | Supplement 5 | September 2015
+
+Pancreatic head/uncinate process
+Unreconstructible SMV/PV due to tumour involvement or
+occlusion (can be due to tumour or bland thrombus)
+• Contact with most proximal draining jejunal branch into SMV
+Body and tail
+Unreconstructible SMV/PV due to tumour involvement or
+occlusion (can be due to tumour or bland thrombus)
+
+ﬁrst trial, the EORTC trial compared chemoradiation with simple
+surveillance after pancreaticoduodenectomy. In the subgroup of
+114 patients with pancreatic tumour(s), the survival beneﬁt for adjuvant chemoradiation was not signiﬁcant. The ESPAC-1 trial has
+even suggested a deleterious effect of adjuvant chemoradiation,
+with recurrence-free survival of 10.7 months in the chemoradiation
+group versus 15.2 months in its absence (P = 0.04) [28]. Even in
+R1 patients, no beneﬁt was observed with adjuvant chemoradiation. Thus, no chemoradiation should be given to patients after
+surgery except in clinical trials [I, E].
+recommendations for treatment of localised disease
+
+• A multidisciplinary team is necessary
+• Tumour clearance should be given for all seven margins
+identiﬁed by the surgeon [IV, B]
+
+• Standard lymphadenectomy should involve the removal of
+≥15 lymph nodes to allow adequate pathologic staging of the
+disease [IV, A]
+• Adjuvant treatment is done with either gemcitabine or 5-FU
+folinic acid [I, A]
+• No chemoradiation should be given to patients after surgery
+except in clinical trials [I, E]
+
+treatment of non-resectable disease
+In 30%–40% of patients, while the tumour is conﬁned to the
+pancreatic region, resection is not feasible, mainly due to
+
+doi:10.1093/annonc/mdv295 | v
+
+clinical practice guidelines
+vascular invasion. The division of this subgroup of patients into
+two different categories has been shown recently but it is not
+always easy to deﬁne.
+
+borderline resectable lesions
+Tumours are considered resectable upon good response to neoadjuvant treatment including induction chemotherapy, preoperative
+chemoradiation or a combination of both. Small retrospective
+studies and two meta-analyses, including patients with both borderline and resectable lesions, have reported an even better survival for these patients than for those with immediately resectable
+tumours [32, 33]. While the heterogeneity of the trials on neoadjuvant therapy in borderline resectable pancreatic cancer limits
+the power of any conclusion, many individual series demonstrate
+improved R0 resection rates and promising survival rates. The
+majority of studies used full-dose radiotherapy paired either with
+capecitabine, 5-FU or reduced doses of gemcitabine, or even a
+combination of gemcitabine plus oxaliplatin. It is impossible at
+this time to recommend any chemoradiation treatment other than
+the classical combination of capecitabine and radiotherapy [IV, C].
+To improve the disease control and to intensify the treatment of
+the systemic disease, it has recently been proposed to begin treatment with chemotherapy before starting chemoradiation. Again,
+due to heterogeneity of the small retrospective series, it is very difﬁcult to recommend a speciﬁc schedule of treatment, although
+some series have reported better survival using a multimodal strategy than that observed with upfront surgery in patients with
+clearly resectable tumours [34]. Recent chemotherapy regimens,
+such as FOLFIRINOX [folinic acid (leucovorin)/5-FU/irinotecan/
+oxaliplatin], have already shown promising results in small series
+of patients with borderline resectable lesions [30%–45% of
+objective response rate (ORR)]. A trial, which was stopped
+prematurely, reported interesting response rates, median progression-free survival (PFS) and OS for patients treated with
+chemotherapy (gemcitabine) followed by chemoradiation (gemcitabine, 5-FU, cisplatin) versus chemoradiation alone [35].
+However, this small trial does not allow any deﬁnite conclusions
+to be drawn. Patients with borderline resectable lesions should
+be included in clinical trials wherever possible. If this is not feasible, a period of chemotherapy followed by chemoradiation and
+then surgery appears to be the best option [IV, B].
+recommendations for treatment of borderline resectable disease
+
+• Patients with borderline resectable lesions should be included
+in clinical trials wherever possible
+
+• In routine practice, if the patient is not included in a trial, a
+period of chemotherapy (gemcitabine or FOLFIRINOX) followed by chemoradiation and then surgery appears to be the
+best option [IV, B]
+
+Annals of Oncology
+
+the overall median survival of the patients treated with chemotherapy alone was 16 months. This may be related to more
+active treatment of the patients diagnosed with metastasis.
+When compared with best supportive care, chemoradiation
+showed a beneﬁt in terms of survival in a small phase III trial [37].
+Old trials suggested the superiority of chemoradiation over
+radiotherapy and chemotherapy alone, which was conﬁrmed by
+meta-analyses [38] [I, B].
+Concerning the comparison with chemotherapy alone, while
+poor-quality randomised trials have suggested a beneﬁt in
+favour of chemoradiation, two recent trials showed opposite
+results. In a French trial using an obsolete regimen of chemoradiation (50 Gy + 5-FU cisplatin), the survival was better in the
+gemcitabine alone arm (13 versus 8.6 months [39]). In another
+trial, comparing chemoradiation with gemcitabine plus radiotherapy versus gemcitabine alone, the OS was signiﬁcantly
+improved in the chemoradiation arm (11.1 versus 9.2 months)
+yet toxicity also increased by combining the treatment modalities [40] [II, C].
+While many trials have evaluated the best combined regimen
+of chemotherapy and radiotherapy, no clear deﬁnition has been
+made of a standard of care. For instance, it has been suggested
+that gemcitabine could be a better sensitiser and chemotherapeutic agent to combine with radiotherapy than ﬂuoropyrimidines in the treatment of locally advanced pancreatic cancer.
+However, evidence from one randomised trial favoured capecitabine as less toxic and more active than gemcitabine in this
+setting [41] [I, E].
+In an attempt to combine the advantages of both chemotherapy and chemoradiation, the use of chemoradiation in patients
+showing no sign of progressive disease after 3 months of chemotherapy alone was suggested to be beneﬁcial. However, no clear
+advantage in favour of the chemoradiation was found in a recent
+large randomised trial investigating this strategy. This trial was
+planned to include 722 patients, and was stopped for futility
+after the inclusion of 449 patients (only 269 assessable for the
+main end point, OS). They were treated with 4 months of gemcitabine ±erlotinib (ﬁrst randomisation) and then randomised to
+receive either two supplementary months of gemcitabine or chemoradiation [36]. The median OS showed no improvement in
+the chemoradiation group (15.2 versus 16.4 months) even
+though local tumour control did seem a little bit better in this
+group [I, D]. Several small retrospective and prospective studies
+have suggested that FOLFIRINOX may be able to obtain an interesting response rate in this population, and may have rendered
+some patients with locally advanced cancers resectable. However,
+it is too early to recommend this treatment and trials are ongoing.
+Thus, the standard of care for these patients currently remains as
+6 months of gemcitabine [I, B].
+
+locally advanced disease
+When the patient has no metastases and the tumour is not considered as borderline resectable, the tumour is deﬁned as truly
+locally advanced (Table 3). Treatment of this group of patients
+remains highly controversial. Regardless of the treatment strategy, the average OS for these patients remains low (<1 year) in
+the oldest studies. However, in the recent LAP07 trial [36],
+which included only patients with locally advanced disease,
+
+v | Ducreux et al.
+
+recommendations for treatment of locally advanced disease
+
+• The standard of care is 6 months of gemcitabine [I, A]
+• A minor role of chemoradiation in this subgroup of patients
+has been observed [I, A]
+
+• It is impossible to recommend any chemoradiation treatment
+other than the classical combination of capecitabine and
+radiotherapy [IV, C]
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+treatment of advanced/metastatic
+disease
+palliative and supportive care
+Before even considering systemic chemotherapy, patients with metastatic pancreatic cancer may need interventions to provide relief
+of biliary and/or duodenal obstruction, malnutrition, and pain.
+In the event of a biliary obstruction due to a pancreatic
+tumour, the endoscopic placement of a metallic biliary stent is
+strongly recommended. The endoscopic method is safer than
+percutaneous insertion and is as successful as surgical hepatojejunostomy [42] [II, B].
+Duodenal obstruction is preferentially managed by endoscopic placement of an expandable metal stent when possible, and is
+favoured over surgery [42] [IV, B].
+Pain is also considered to be a major priority in these patients
+and it is observed in almost all patients with advanced pancreatic carcinoma. It must be managed aggressively following standard guidelines on pain treatment, without any major speciﬁcity
+due to the location of the disease [43]. However, radiotherapy
+can be used at this stage to control the coeliac pain induced by a
+primary pancreatic tumour. Oral supplementation of pancreatic
+enzyme has been suggested to help control pain; though this has
+never been proven by a randomised study and should not be
+considered as a reason to prescribe such drugs. The input of a
+pain control specialist is often mandatory.
+Coeliac plexus block (CPB) can lead to pain control and frequently to a decrease in the total amount of systemic drugs and
+their side-effects. The endoscopic method is safer than percutaneous insertion and is as successful as surgical hepatojejunostomy [42] [II, B].
+While it was classically done percutaneously, one new way to
+perform CPB is represented by EUS guidance. Previous studies
+have suggested a decrease in success rate when there is evidence of
+disease outside the pancreas, such as coeliac or portal adenopathy.
+CPB should be carried out in the presence of resistant pain and
+only if the clinical condition of the patient is not poor.
+recommendation for palliative and supportive care in advanced/
+metastatic disease
+
+• Duodenal obstruction is preferably managed by endoscopic
+placement of an expandable metal stent when possible, and is
+favoured over surgery [42] [IV, B]
+
+oncologic treatment
+Over the past two decades, the development of improved systemic
+treatments has been a top priority for pancreatic cancer. In 1997,
+gemcitabine monotherapy was established as the standard of care,
+after being shown to offer greater clinical beneﬁt and a small survival improvement over weekly 5-FU therapy [44] [II, A]. Since
+then, gemcitabine chemotherapy combinations have been intensely evaluated. Despite frequently encouraging early-phase
+data, phase III trials have not given conﬁrmatory results. These
+combinations have included cytotoxic agents such as irinotecan,
+5-FU, cisplatin, oxaliplatin and capecitabine. Three separate
+meta-analyses [45] reported a statistically signiﬁcant survival advantage of combination therapy compared with gemcitabine
+alone [I, C]. Capecitabine and cisplatin-based combinations have
+
+Volume 26 | Supplement 5 | September 2015
+
+clinical practice guidelines
+produced the greatest beneﬁt. However, due to the low level of
+evidence, there have been no clear changes in the daily clinical
+management of these patients. Even with modern agents such as
+tyrosine kinase inhibitors or monoclonal antibodies against
+various targets, the results of large phase III trials evaluating the
+addition of these drugs to gemcitabine have been disappointing.
+The targeted therapies tested have included bevacizumab, cetuximab, aﬂibercept, and anti-insulin growth factor agents. The exception is the combination of gemcitabine and the EGFR tyrosine
+kinase inhibitor erlotinib, which gained regulatory approval following a 12-day improvement in median survival compared with
+gemcitabine alone in a large randomised trial [46]. Arguably,
+however, this duration of survival prolongation is clinically irrelevant for most patients; therefore, erlotinib has not been widely
+used in this disease. The inefﬁcacy of erlotinib in locally advanced
+disease which was shown in the LAP07 trial [36] is an additional
+argument against the use of this drug for this indication.
+Major improvements in the treatment of metastatic disease came
+with the demonstration of the efﬁcacy of a 5-FU-based triplet
+chemotherapy. The FOLFIRINOX regimen has proven superior to
+gemcitabine alone, in terms of efﬁcacy, despite an increase in toxicity [47]. This trial included patients who were selected based on
+their ability to receive this aggressive chemotherapy [Eastern
+Cooperative Oncology Group (ECOG) performance status 0 or 1,
+and normal or subnormal serum bilirubin level]. The median OS
+was 11.1 months in the FOLFIRINOX group compared with 6.8
+months in the gemcitabine group [hazard ratio (HR) for death,
+0.57; 95% conﬁdence interval 0.45–0.73; P < 0.001). Median PFS
+and ORR were also statistically better with FOLFIRINOX than with
+gemcitabine. More adverse events were noted in the FOLFIRINOX
+group; 5.4% of patients in this group had febrile neutropaenia.
+FOLFIRINOX is an option for the treatment of patients with metastatic pancreatic cancer and good performance status [I, A]. After
+decades of failed randomised trials that have tried to add a drug to
+gemcitabine alone, a recent trial has shown positive results, demonstrating that the combination of gemcitabine plus nab-paclitaxel is
+better than gemcitabine alone in metastatic patients [48]. A total of
+861 patients were randomly assigned to receive nab-paclitaxel plus
+gemcitabine or gemcitabine alone. The median OS was 8.5 months
+in the nab-paclitaxel–gemcitabine group compared with 6.7
+months in the gemcitabine group (HR for death, 0.72). Both median
+PFS and response rate were improved in the nab-paclitaxel–gemcitabine group compared with gemcitabine alone. In the nab-paclitaxel–gemcitabine group, neuropathy of grade 3 or higher
+improved to grade 1 or lower in a median of 29 days [I, A].
+There are no data concerning a direct comparison of
+FOLFIRINOX and Gem-nab-paclitaxel. An indirect comparison
+of the two regimens may suggest a slightly greater activity but also
+higher toxicity of FOLFIRINOX. No speciﬁc data favours the use
+of one regimen over the other in a deﬁned subgroup of patients.
+Thus, either of these two options can be offered to patients with
+serum bilirubin levels less than 1.5× upper limit of normal (ULN)
+and good performance status (ECOG 0-1) [I, A].
+In conclusion, it can be considered that there are three
+options to treat patients with a metastatic pancreatic cancer
+according to their general status:
+1) For patients with performance status of 3/4, with signiﬁcant
+morbidities and a very short life expectancy: only
+
+doi:10.1093/annonc/mdv295 | v
+
+clinical practice guidelines
+symptomatic treatment can be considered. Even chemotherapy with gemcitabine cannot be considered for such
+patients.
+2) In very selected patients with ECOG performance status 2
+due to heavy tumour load, gemcitabine and nab-paclitaxel
+can be considered for best chance of response [II, B].
+3) For patients with performance status of 2 and/or bilirubin
+level higher than 1.5× ULN: monotherapy with gemcitabine
+could be considered [I, A]
+4) If the performance status of the patient is 0 or 1 and the bilirubin level is below 1.5× ULN two types of combination chemotherapy—the FOLFIRINOX regimen or the combination of
+gemcitabine and nab-paclitaxel—should be considered [I, A]
+The efﬁcacy of the treatment has to be evaluated every two
+months with a comparative CT scan. The treatment has to be
+stopped if a RECIST progression is observed and second-line
+treatment has to be discussed.
+
+second-line treatment
+A ﬁrst randomised trial (168 patients) has shown, in patients
+with advanced gemcitabine-refractory pancreatic cancer, that
+second-line 5-FU, folinic acid and oxaliplatin, signiﬁcantly
+extend the duration of OS when compared with 5-FU, folinic
+acid alone [49]. These results have not been conﬁrmed by a
+more recent Canadian trial [45]. Very recently, combination of
+MM-398, a nanoliposomal encapsulation of irinotecan, and 5FU, folinic acid has shown an improvement of OS (6.1 versus
+4.2 months), PFS and ORR in the intent-to-treat population
+over 5-FU/LV alone. Second-line therapy of pancreatic cancer
+has to be considered in terms of risk beneﬁt for the patient. If
+the general status remains correct, considering the conﬂicting
+results on the use of oxaliplatin, MM-398 when available in all
+countries may be the best option for second-line treatment of
+these patients [II, B].
+
+speciﬁc treatment of rare forms
+Patients with pancreatic cancer related to BRCA1 or BRCA2
+mutations have been shown to be more sensitive to platinum salt
+treatment. These patients may be good candidates for
+FOLFIRINOX or even 5-FU cisplatin producing more DNA
+adducts [50], while trials with PARP inhibitors are ongoing in
+this speciﬁc population.
+Pancreatic carcinoma with acinar cells seems to have a better
+prognosis. There is no speciﬁcity for the treatment of these
+patients at this time; therefore, the FOLFIRINOX regimen can
+be used. Pancreatic acinar cell carcinoma has recently shown recurrent RAF fusions and frequent inactivation of DNA repair
+genes [51]: these could be targetable in the near future and lead
+to new treatment options.
+recommendations for oncological treatment of advanced/
+metastatic disease
+
+• Biliary stenting: the endoscopic method is safer than percutaneous insertion and is as successful as surgical hepatojejunostomy [II, B]
+• Pain control is mandatory and frequently needs the help of a
+pain specialist
+
+v | Ducreux et al.
+
+Annals of Oncology
+
+• If the performance status is 3/4, with signiﬁcant morbidities
+and a very short life expectancy: only symptomatic treatment
+can be considered
+• In very selected patients with ECOG performance status 2 due
+to heavy tumour load, gemcitabine and nab-paclitaxel can be
+considered for best chance of response [II, B]
+• If the performance status of the patient is 2 and/or the bilirubin level is higher than 1.5× ULN: a monotherapy with gemcitabine should be considered [I, A]
+• If the performance status of the patient is 0 or 1 and the bilirubin level is below 1.5× ULN two types of combination chemotherapy—the FOLFIRINOX regimen or the combination of
+gemcitabine and nab-paclitaxel—should be considered [I, A]
+
+personalised medicine
+Among the validated drugs for pancreatic cancer, there is currently no relevant biomarker used in the medical decision
+making and none should be used in clinical practice.
+Emerging data from sequencing initiatives in pancreatic cancer
+are unveiling a vast array of molecular aberrations and also a signiﬁcant inter- and intra-tumoral heterogeneity [52]. This introduces major challenges when trying to identify the most relevant
+targeted therapy. The most frequent genes harbouring genetic
+aberrations in pancreatic cancer are KRAS, TP53, CDKN2A, and
+SMAD4. Among the numerous biomarkers tested in pancreatic
+cancer, some deserve particular attention.
+Loss of SMAD4 expression in pancreatic cancer has been associated with a poorer prognosis [53], which could be useful for
+prognostic stratiﬁcation and therapeutic decision making.
+BRCA2, PALB2, ATM, or mismatch repair (hMLH1 and
+MSH2) gene mutations, which subsequently cause a DNA
+damage repair deﬁciency, might be more sensitive to platinum
+or PARP inhibitors.
+Secreted protein acidic and rich in cysteine (SPARC) expression
+in the peritumoural stroma has been associated with a longer OS
+in patients receiving nab-paclitaxel + gemcitabine, compared with
+those receiving gemcitabine alone. However, this was not conﬁrmed upon analysis of the data from the MPACT phase III trial.
+STK11 acts as a tumour suppressor gene, germline mutations
+of STK11 are associated with Peutz–Jeghers syndrome. In vitro
+data and case reports suggest that mTOR inhibitors demonstrate
+anti-tumour activity [54].
+The hedgehog pathway is an early and late mediator of pancreatic cancer tumour genesis [55]. Smoothened inhibitor saridegib, which failed to provide any beneﬁt in tests on nonselected pancreatic cancer, might be of particular interest
+among patients with hedgehog signalling activation. Mutations
+in PTCH are known to activate hedgehog signalling in experimental models, and are detected in 2% of patients with pancreatic cancer.
+The human equilibrative nucleoside transporter 1 (hENT1) is
+responsible for the intracellular uptake of the prodrug gemcitabine into tumour cells. While tumour hENT1 expression is
+thereby presumed to be a predictive biomarker of gemcitabine
+efﬁcacy, contradictory data render its exact role unclear. In the
+ESPAC-3 trial, patients with high pancreatic hENT1 expression,
+treated with gemcitabine, had a longer survival compared
+with those with a low expression [56]. In the phase III AIO-
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Figure 2. Treatment strategy. ChT, chemotherapy; RT, radiotherapy; 5-FU, 5-ﬂuorouracil; LV, leucovorin; PS, performance status; ULN, upper limit of normal.
+
+PK0104 trial, a phase III trial that compared gemcitabine/erlotinib followed by capecitabine with capecitabine/erlotinib followed
+by gemcitabine, no difference in OS was found with respect to
+hENT1 expression [57].
+In the recent whole-sequencing analysis [10], a signiﬁcant
+proportion of tumours harboured focal ampliﬁcations, many of
+which contained druggable oncogenes (ERBB2, MET, FGFR1,
+CDK6, PIK3R3, and PIK3CA), but at low prevalence among individual patients. Genomic instability co-segregated with inactivation of DNA maintenance genes (BRCA1, BRCA2, or PALB2)
+and a mutational signature of DNA damage repair deﬁciency.
+Of eight patients who received platinum therapy, four of ﬁve
+individuals with these measures of defective DNA maintenance
+responded.
+
+• There is no role today for personalised medicine in this
+
+key points
+
+summary of recommendations
+
+• A few targetable mutations have been identiﬁed in pancreatic
+
+An overview of recommendations related to therapy is given in
+Figure 2 and Table 4.
+
+cancer
+
+Volume 26 | Supplement 5 | September 2015
+
+cancer [IV, C]
+
+follow-up and long-term implications
+Considering the poor prognosis of the disease upon diagnosis of
+a recurrence, there is no evidence that regular follow-up after
+initial therapy with curative intent has any impact on the
+outcome. Follow-up visits should concentrate on symptoms, nutrition, and psycho-social support.
+recommendations for follow-up
+
+• There is no evidence that regular follow-up after initial
+therapy with curative intent is useful [IV, D].
+
+doi:10.1093/annonc/mdv295 | v
+
+clinical practice guidelines
+Table 4. Summary of key points and recommendations
+
+Annals of Oncology
+
+Incidence and epidemiology
+
+•
+•
+
+•
+•
+
+•
+
+5%–10% of pancreatic cancers are due to genetic alteration
+The main risk factors are tobacco, and factors related to dietary habits
+(BMI, red meat intake, low fruit and vegetables intake, diabetes,
+alcohol intake)
+
+Diagnosis
+
+•
+•
+
+Early symptoms of pancreatic cancer result from a mass effect
+Common presenting symptoms include jaundice, pain, weight loss,
+steatorrhoea
+
+•
+•
+
+Pathology
+
+•
+•
+
+95% of pancreatic cancers are adenocarcinomas
+Mucinous lesions of the pancreas have potential for malignant
+progression
+
+Molecular biology
+
+•
+•
+•
+
+The most frequent precursors are microscopic PanIN, followed by
+IPMN and mucinous cystic neoplasm
+Multiple combinations of genetic mutations are commonly found in
+pancreatic cancers
+Some of the recent genetic mutations discovered could become
+targetable in the near future
+
+Staging
+
+•
+•
+•
+•
+
+CA 19-9 is the most useful tumour marker in pancreatic cancer [IV, B]
+Staging of the patient is initially done by CT scan
+EUS provides some complementary information and allows biopsy of
+the tumour [II, A]
+MRI should be discussed, especially in cystic lesions [IV, C]
+
+Personalised medicine
+
+•
+•
+
+•
+•
+•
+
+A multidisciplinary team is necessary
+Tumour clearance should be given for all seven margins identified by
+the surgeon [IV, B]
+Standard lymphadenectomy should involve the removal of ≥15 lymph
+nodes to allow adequate pathologic staging of the disease [IV, A]
+Adjuvant treatment is done with either gemcitabine or 5-FU folinic
+acid [I, A]
+No chemoradiation should be given to patients after surgery except in
+clinical trials [I, E]
+
+A few targetable mutations have been identified in pancreatic cancer
+There is no role today for personalised medicine in this cancer [IV, C]
+
+Follow-up and long-term implications
+
+•
+
+There is no evidence that regular follow-up after initial therapy with
+curative intent is useful [IV, D]
+
+BMI, body mass index; PanIN, pancreatic intraepithelial neoplasia;
+IPMN, intraductal papillary mucinous neoplasm; CT, computed
+tomography; EUS, endoscopic ultrasound; MRI, magnetic resonance
+imaging; 5-FU, 5-fluorouracil; ULN, upper limit of normal; ECOG,
+Eastern Cooperative Oncology Group.
+Table 5. Levels of evidence and grades of recommendation
+(adapted from the Infectious Diseases Society of America-United
+States Public Health Service Grading Systema)
+
+Treatment of localised disease
+
+•
+•
+
+Pain control is mandatory and frequently needs the help of a pain specialist
+For patients with performance status of 3/4, with significant
+morbidities and a very short life expectancy: only symptomatic
+treatment can be considered
+In very selected patients with ECOG performance status 2 due to
+heavy tumour load, gemcitabine and nab-paclitaxel can be considered
+for best chance of response [II, B]
+For patients with performance status of 2 and/or bilirubin level higher
+than 1.5× ULN: a monotherapy with gemcitabine could be considered
+[I, A]
+If the performance status of the patient is 0 or 1 and the bilirubin level
+is below 1.5× ULN two types of combination chemotherapy—the
+FOLFIRINOX regimen or the combination of gemcitabine and nabpaclitaxel—should be considered [I, A]
+
+Levels of evidence
+I
+
+II
+
+Treatment of non-resectable disease: borderline resectable lesions
+
+•
+•
+
+Patients with borderline resectable lesions should be included in
+clinical trials wherever possible
+In routine practice, if the patient is not included in a trial, a period of
+chemotherapy followed by chemoradiation and then surgery appears
+to be the best option [IV, B]
+
+III
+IV
+V
+
+Grades of recommendation
+A
+
+Treatment of non-resectable disease: locally advanced disease
+
+•
+•
+•
+
+B
+
+The standard of care is 6 months of gemcitabine [I, A]
+A minor role of chemoradiation in this subgroup of patients has been
+observed [I, A]
+It is impossible to recommend any chemoradiation treatment other
+than the classical combination of capecitabine and radiotherapy [IV, C]
+
+C
+
+D
+
+Treatment of metastatic disease
+
+•
+•
+
+Palliative and supportive care: duodenal obstruction is preferably
+managed by endoscopic placement of an expandable metal stent when
+possible, and is favoured over surgery [V, B]
+Biliary stenting: the endoscopic method is safer than percutaneous
+insertion and is as successful as surgical hepatojejunostomy [II, B]
+
+v | Ducreux et al.
+
+Evidence from at least one large randomised, controlled trial
+of good methodological quality (low potential for bias) or
+meta-analyses of well-conducted randomised trials without
+heterogeneity
+Small randomised trials or large randomised trials with a
+suspicion of bias (lower methodological quality) or metaanalyses of such trials or of trials with demonstrated
+heterogeneity
+Prospective cohort studies
+Retrospective cohort studies or case–control studies
+Studies without control group, case reports, expert opinions
+
+E
+
+Strong evidence for efficacy with a substantial clinical benefit,
+strongly recommended
+Strong or moderate evidence for efficacy but with a limited
+clinical benefit, generally recommended
+Insufficient evidence for efficacy or benefit does not outweigh
+the risk or the disadvantages (adverse events, costs, …),
+optional
+Moderate evidence against efficacy or for adverse outcome,
+generally not recommended
+Strong evidence against efficacy or for adverse outcome, never
+recommended
+
+a
+
+By permission of the Infectious Diseases Society of America [58].
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+methodology
+These clinical practice guidelines were developed in accordance
+with the ESMO standard operating procedures for clinical practice guidelines development. The relevant literature has been
+selected by the expert authors. A summary of recommendations
+is given in Table 4. Levels of evidence and grades of recommendation have been applied using the system shown in Table 5.
+Statements without grading were considered justiﬁed standard
+clinical practice by the experts and the ESMO faculty. This
+manuscript has been subjected to an anonymous peer review
+process.
+
+conﬂict of interest
+MD has reported participation in advisory boards and at symposiums with Celgene. TS has reported participation to advisory
+boards and at symposiums with Celgene and research funding
+from Celgene. JLVL has reported participation to advisory boards
+and at symposiums with Celgene and research funding from
+Celgene. The other authors have reported no potential conﬂicts of
+interest.
+
+references
+1. Malvezzi M, Bertuccio P, Levi F et al. European cancer mortality predictions for the
+year 2014. Ann Oncol 2014; 25: 1650–1656.
+2. Yeo TP. Demographics, epidemiology, and inheritance of pancreatic ductal
+adenocarcinoma. Semin Oncol 2015; 42: 8–18.
+3. Larsson SC, Wolk A. Red and processed meat consumption and risk of pancreatic
+cancer: meta-analysis of prospective studies. Br J Cancer 2012; 106: 603–607.
+4. Ojajarvi IA, Partanen TJ, Ahlbom A et al. Occupational exposures and pancreatic
+cancer: a meta-analysis. Occup Environ Med 2000; 57: 316–324.
+5. Maisonneuve P, Lowenfels AB. Risk factors for pancreatic cancer: a summary
+review of meta-analytical studies. Int J Epidemiol 2015; 44: 186–198.
+6. Rishi A, Goggins M, Wood LD, Hruban RH. Pathological and molecular evaluation
+of pancreatic neoplasms. Semin Oncol 2015; 42: 28–39.
+7. Wisnoski NC, Townsend CM, Jr, Nealon WH et al. 672 patients with acinar cell
+carcinoma of the pancreas: a population-based comparison to pancreatic
+adenocarcinoma. Surgery 2008; 144: 141–148.
+8. Dudeja V, Allen PJ. Premalignant cystic neoplasms of the pancreas. Semin Oncol
+2015; 42: 70–85.
+9. Esposito I, Konukiewitz B, Schlitter AM, Klöppel G. Pathology of pancreatic ductal
+adenocarcinoma: facts, challenges and future developments. World J
+Gastroenterol 2014; 20: 13833–13841.
+10. Waddell N, Pajic M, Patch AM et al. Whole genomes redeﬁne the mutational
+landscape of pancreatic cancer. Nature 2015; 518: 495–501.
+11. Nawaz H, Fan CY, Kloke J et al. Performance characteristics of endoscopic
+ultrasound in the staging of pancreatic cancer: a meta-analysis. JOP 2013; 14:
+484–497.
+12. Al-Hawary MM, Francis IR, Chari ST et al. Pancreatic ductal adenocarcinoma
+radiology reporting template: consensus statement of the Society of Abdominal
+Radiology and the American Pancreatic Association. Radiology 2014; 270:
+248–260.
+13. Bipat S, Phoa SS, van Delden OM et al. Ultrasonography, computed tomography
+and magnetic resonance imaging for diagnosis and determining resectability of
+pancreatic adenocarcinoma: a meta-analysis. J Comput Assist Tomogr 2005; 29:
+438–445.
+14. Callery MP, Chang KJ, Fishman EK et al. Pretreatment assessment of resectable
+and borderline resectable pancreatic cancer: expert consensus statement. Ann
+Surg Oncol 2009; 16: 1727–1733.
+15. Wong JC, Lu DS. Staging of pancreatic adenocarcinoma by imaging studies. Clin
+Gastroenterol Hepatol 2008; 6: 1301–1308.
+
+Volume 26 | Supplement 5 | September 2015
+
+clinical practice guidelines
+16. Ngamruengphong S, Swanson KM, Shah ND, Wallace MB. Preoperative
+endoscopic ultrasound-guided ﬁne needle aspiration does not impair survival of
+patients with resected pancreatic cancer. Gut 2015; 64: 1105–1110.
+17. Abrams RA, Lowy AM, O’Reilly EM et al. Combined modality treatment of
+resectable and borderline resectable pancreas cancer: expert consensus
+statement. Ann Surg Oncol 2009; 16: 1751–1756.
+18. Bockhorn M, Uzunoglu FG, Adham M et al. Borderline resectable pancreatic
+cancer: a consensus statement by the International Study Group of Pancreatic
+Surgery (ISGPS). Surgery 2014; 155: 977–988.
+19. National Comprehensive Cancer Network. NCCN Guidelines Version 2.2015
+Pancreatic Adenocarcinoma. http://www.nccn.org.
+20. Delpero JR, Bachellier P, Regenet N et al. Pancreaticoduodenectomy for pancreatic
+ductal adenocarcinoma: a French multicentre prospective evaluation of resection
+margins in 150 evaluable specimens. HPB (Oxford) 2014; 16: 20–33.
+21. Delpero JR, Boher JM, Sauvanet A et al. Pancreatic adenocarcinoma with venous
+involvement: is up-front synchronous portal-superior mesenteric vein resection still
+justiﬁed? A survey of the association francaise de chirurgie. Ann Surg Oncol 2015;
+22: 1874–1883.
+22. Mitchem JB, Hamilton N, Gao F et al. Long-term results of resection of
+adenocarcinoma of the body and tail of the pancreas using radical antegrade
+modular pancreatosplenectomy procedure. J Am Coll Surg 2012; 214: 46–52.
+23. Kooby DA, Hawkins WG, Schmidt CM et al. A multicenter analysis of distal
+pancreatectomy for adenocarcinoma: is laparoscopic resection appropriate? J Am
+Coll Surg 2010; 210: 779–785.
+24. Ricci C, Casadei R, Taffurelli G et al. Laparoscopic versus open distal
+pancreatectomy for ductal adenocarcinoma: a systematic review and metaanalysis. J Gastrointest Surg 2015; 19: 770–781.
+25. Tol JA, Gouma DJ, Bassi C et al. Deﬁnition of a standard lymphadenectomy in
+surgery for pancreatic ductal adenocarcinoma: a consensus statement by the
+International Study Group on Pancreatic Surgery (ISGPS). Surgery 2014; 156:
+591–600.
+26. Ragulin-Coyne E, Carroll JE, Smith JK et al. Perioperative mortality after
+pancreatectomy: a risk score to aid decision-making. Surgery 2012; 152(3 Suppl.
+1): S120–S127.
+27. van der Gaag NA, Rauws EA, van Eijck CH et al. Preoperative biliary drainage for
+cancer of the head of the pancreas. N Engl J Med 2010; 362: 129–137.
+28. Neoptolemos JP, Dunn JA, Stocken DD et al. Adjuvant chemoradiotherapy and
+chemotherapy in resectable pancreatic cancer: a randomised controlled trial.
+Lancet 2001; 358: 1576–1585.
+29. Oettle H, Post S, Neuhaus P et al. Adjuvant chemotherapy with gemcitabine vs
+observation in patients undergoing curative-intent resection of pancreatic cancer: a
+randomized controlled trial. JAMA 2007; 297: 267–277.
+30. Neoptolemos JP, Stocken DD, Bassi C et al. Adjuvant chemotherapy with
+ﬂuorouracil plus folinic acid vs gemcitabine following pancreatic cancer resection:
+a randomized controlled trial. JAMA 2010; 304: 1073–1081.
+31. Marechal R, Bachet JB, Mackey JR et al. Levels of gemcitabine transport and
+metabolism proteins predict survival times of patients treated with gemcitabine for
+pancreatic adenocarcinoma. Gastroenterology 2012; 143: 664–674.
+32. Assiﬁ MM, Lu X, Eibl G et al. Neoadjuvant therapy in pancreatic adenocarcinoma:
+a meta-analysis of phase II trials. Surgery 2011; 150: 466–473.
+33. Gillen S, Schuster T, Meyer Zum Buschenfelde C et al. Preoperative/neoadjuvant
+therapy in pancreatic cancer: a systematic review and meta-analysis of response
+and resection percentages. PLoS Med 2010; 7: e1000267.
+34. Denost Q, Laurent C, Adam JP et al. Pancreaticoduodenectomy following
+chemoradiotherapy for locally advanced adenocarcinoma of the pancreatic head.
+HPB (Oxford) 2013; 15: 716–723.
+35. Landry J, Catalano PJ, Staley C et al. Randomized phase II study of gemcitabine
+plus radiotherapy versus gemcitabine, 5-ﬂuorouracil, and cisplatin followed by
+radiotherapy and 5-ﬂuorouracil for patients with locally advanced, potentially
+resectable pancreatic adenocarcinoma. J Surg Oncol 2010; 101: 587–592.
+36. Hammel P, Huguet F, Van Laethem J-L et al. Comparison of chemoradiotherapy
+(CRT) and chemotherapy (CT) in patients with a locally advanced pancreatic cancer
+(LAPC) controlled after 4 months of gemcitabine with or without erlotinib: Final
+results of the international phase III LAP 07 study. J Clin Oncol 2013;31(suppl):
+abstr LBA4003.
+
+doi:10.1093/annonc/mdv295 | v
+
+clinical practice guidelines
+37. Shinchi H, Takao S, Noma H et al. Length and quality of survival after externalbeam radiotherapy with concurrent continuous 5-ﬂuorouracil infusion for
+locally unresectable pancreatic cancer. Int J Radiat Oncol Biol Phys 2002; 53:
+146–150.
+38. Sultana A, Tudur Smith C, Cunningham D et al. Systematic review, including metaanalyses, on the management of locally advanced pancreatic cancer using
+radiation/combined modality therapy. Br J Cancer 2007; 96: 1183–1190.
+39. Chauffert B, Mornex F, Bonnetain F et al. Phase III trial comparing initial
+chemoradiotherapy (intermittent cisplatin and infusional 5-FU) followed by
+gemcitabine vs. gemcitabine alone in patients with locally advanced nonmetastatic pancreatic cancer: a FFCD-SFRO study. J Clin Oncol 2006; 24(suppl):
+abstr 4008.
+40. Loehrer PJ, Sr, Feng Y, Cardenes H et al. Gemcitabine alone versus gemcitabine
+plus radiotherapy in patients with locally advanced pancreatic cancer: an Eastern
+Cooperative Oncology Group trial. J Clin Oncol 2011; 29: 4105–4112.
+41. Mukherjee S, Hurt CN, Bridgewater J et al. Gemcitabine-based or capecitabinebased chemoradiotherapy for locally advanced pancreatic cancer (SCALOP): a
+multicentre, randomised, phase 2 trial. Lancet Oncol 2013; 14: 317–326.
+42. Stark A, Hines OJ. Endoscopic and operative palliation strategies for pancreatic
+ductal adenocarcinoma. Semin Oncol 2015; 42: 163–176.
+43. Ripamonti CI, Santini D, Maranzano E et al. Management of cancer pain: ESMO
+Clinical Practice Guidelines. Ann Oncol 2012; 23(Suppl 7): vii139–vii154.
+44. Burris HA, III, Moore MJ, Andersen J et al. Improvements in survival and clinical
+beneﬁt with gemcitabine as ﬁrst-line therapy for patients with advanced pancreas
+cancer: a randomized trial. J Clin Oncol 1997; 15: 2403–2413.
+45. Ciliberto D, Botta C, Correale P et al. Role of gemcitabine-based combination
+therapy in the management of advanced pancreatic cancer: a meta-analysis of
+randomised trials. Eur J Cancer 2013; 49: 593–603.
+46. Moore MJ, Goldstein D, Hamm J et al. Erlotinib plus gemcitabine compared with
+gemcitabine alone in patients with advanced pancreatic cancer: a phase III trial of
+the National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 2007;
+25: 1960–1966.
+
+v | Ducreux et al.
+
+Annals of Oncology
+47. Conroy T, Desseigne F, Ychou M et al. FOLFIRINOX versus gemcitabine for
+metastatic pancreatic cancer. N Engl J Med 2011; 364: 1817–1825.
+48. Von Hoff DD, Goldstein D, Renschler MF. Albumin-bound paclitaxel plus
+gemcitabine in pancreatic cancer. N Engl J Med 2014; 370: 479–480.
+49. Oettle H, Riess H, Stieler JM et al. Second-line oxaliplatin, folinic acid, and ﬂuorouracil
+versus folinic acid and ﬂuorouracil alone for gemcitabine-refractory pancreatic cancer:
+outcomes from the CONKO-003 trial. J Clin Oncol 2014; 32: 2423–2429.
+50. Sonnenblick A, Kadouri L, Appelbaum L et al. Complete remission, in BRCA2
+mutation carrier with metastatic pancreatic adenocarcinoma, treated with cisplatin
+based therapy. Cancer Biol Ther 2011; 12: 165–168.
+51. Chmielecki J, Hutchinson KE, Frampton GM et al. Comprehensive genomic
+proﬁling of pancreatic acinar cell carcinomas identiﬁes recurrent RAF fusions and
+frequent inactivation of DNA repair genes. Cancer Discov 2014; 4: 1398–1405.
+52. Yachida S, Jones S, Bozic I et al. Distant metastasis occurs late during the genetic
+evolution of pancreatic cancer. Nature 2010; 467: 1114–1117.
+53. Blackford A, Serrano OK, Wolfgang CL et al. SMAD4 gene mutations are
+associated with poor prognosis in pancreatic cancer. Clin Cancer Res 2009; 15:
+4674–4679.
+54. Klumpen HJ, Queiroz KC, Spek CA et al. mTOR inhibitor treatment of pancreatic
+cancer in a patient with Peutz-Jeghers syndrome. J Clin Oncol 2011; 29:
+e150–e153.
+55. Hidalgo M, Maitra A. The hedgehog pathway and pancreatic cancer. N Engl J Med
+2009; 361: 2094–2096.
+56. Greenhalf W, Ghaneh P, Neoptolemos JP et al. Pancreatic cancer hENT1
+expression and survival from gemcitabine in patients from the ESPAC-3 trial. J Natl
+Cancer Inst 2014; 106: djt347.
+57. Ormanns S, Siveke JT, Heinemann V et al. pERK, pAKT and p53 as tissue
+biomarkers in erlotinib-treated patients with advanced pancreatic cancer: a
+translational subgroup analysis from AIO-PK0104. BMC Cancer 2014; 14: 624.
+58. Dykewicz CA. Summary of the guidelines for preventing opportunistic infections
+among hematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33:
+139–144.
+
+Volume 26 | Supplement 5 | September 2015
+
+

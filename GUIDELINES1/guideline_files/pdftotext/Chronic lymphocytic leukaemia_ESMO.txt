@@ -1,0 +1,1465 @@
+SPECIAL ARTICLE
+
+Chronic lymphocytic leukaemia: ESMO Clinical Practice Guidelines for
+diagnosis, treatment and follow-up5
+B. Eichhorst1, T. Robak2, E. Montserrat3, P. Ghia4, C. U. Niemann5, A. P. Kater6, M. Gregor7, F. Cymbalista8, C. Buske9,
+P. Hillmen10, M. Hallek1,11 & U. Mey12, on behalf of the ESMO Guidelines Committee*
+1
+
+Department I Internal Medicine, Center for Integrated Oncology Aachen Bonn Cologne Dusseldorf, University of Cologne, Cologne, Germany; 2Department of
+Hematology, Medical University of Lodz, Copernicus Memorial Hospital, Lodz, Poland; 3Institute of Hematology and Oncology, Department of Hematology, Hospital
+Clinic, University of Barcelona, Barcelona, Spain; 4Strategic Research Program on CLL, Division of Experimental Oncology, Università Vita-Salute San Raffaele and IRCCS
+Ospedale San Raffaele, Milano, Italy; 5Department of Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen, Denmark; 6Department of
+Hematology, Cancer Center Amsterdam, Lymphoma and Myeloma Center Amsterdam, LYMMCARE, Amsterdam UMC, University of Amsterdam, Amsterdam, the
+Netherlands; 7Hematology, Luzerner Kantonsspital, Luzern, Switzerland; 8Hematology Biology, Hôpital Avicenne, Assistance Publique Hopitaux de Paris, UMR U978
+INSERM, Bobigny, France; 9Institute of Experimental Cancer Research, Comprehensive Cancer Center, University Hospital of Ulm, Ulm, Germany; 10Leeds Institute of
+Medical Research, University of Leeds, St James’s University Hospital, Leeds, UK; 11Center of Excellence on Cellular Stress Responses in Aging-Associated Diseases,
+University of Cologne, Cologne, Germany; 12Department of Oncology and Haematology, Kantonsspital Graubuenden, Chur, Switzerland
+
+Available online 19 October 2020
+
+Key words: chronic lymphocytic leukaemia, prognostic factors, individualised therapy, B-cell receptor inhibitors, BCL2
+inhibitor, targeted treatment
+
+INCIDENCE AND EPIDEMIOLOGY
+Chronic lymphocytic leukaemia (CLL) is the most common
+leukaemia in the Western world with an incidence of
+4.2/100 000/year. The incidence increases to more than
+30/100 000/year at an age of >80 years. The median age at
+diagnosis is 72 years. About 10% of CLL patients are
+reported to be younger than 55 years. There is an inherited
+genetic susceptibility for CLL, with a sixfold to ninefold
+increased risk for family members of patients with CLL.
+Recommendation
+ Routine screening for CLL is not recommended either
+in the general population or in relatives of patients
+with CLL [V, E].
+DIAGNOSIS AND PATHOLOGY/MOLECULAR BIOLOGY
+The diagnosis of CLL is established by the following
+criteria:1,2
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, 6900 Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5
+Approved by the ESMO Guidelines Committee: August 2003, last update
+June 2020. This publication supersedes the previously published versiondAnn
+Oncol 2015; 26 (Suppl 5): v78-v84.
+These Clinical Practice Guidelines are endorsed by the European Hematology
+Association (EHA) through the Scientiﬁc Working Group on CLL/European
+Research Initiative on CLL (ERIC)
+0923-7534/© 2020 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+ Presence of 5  109/l monoclonal B lymphocytes in
+the peripheral blood. The clonality of the circulating B
+lymphocytes needs to be conﬁrmed by demonstrating
+light chain restriction using ﬂow cytometry.
+ The leukaemia cells found in the blood smear are characteristically small, mature-appearing lymphocytes with a
+narrow border of cytoplasm and a dense nucleus lacking
+discernible nucleoli and having partially aggregated chromatin. Larger, atypical lymphocytes or prolymphocytes
+may be seen but must not exceed 55%.1
+CLL cells co-express the B-cell surface antigens CD19 and
+CD20 together with CD5, CD23, CD43 and CD200. The levels
+of surface CD20, surface immunoglobulin (Ig) and CD79b
+are characteristically low compared with those found on
+normal B cells.3 Each clone of leukaemia cells is restricted to
+expression of either kappa or lambda Ig light chains, or has
+no apparent expression of either of the two.
+Other lymphoma entities to be differentiated from CLL
+are mantle cell lymphoma (MCL), leukaemic marginal zone
+lymphoma (MZL) (in particular the splenic variant) and
+lymphoplasmacytic lymphoma. These tumour cells may
+express B-cell surface antigens and CD5, but in most cases,
+they do not express CD23, in particular MZL. For cases that
+express CD23, reverse transcription polymerase chain
+reaction (RT-PCR) for determination of cyclin D1
+overexpression, and FISH for detecting a translocation
+(11;14), but also CD200 expression, are useful for
+establishing the diagnosis of MCL. Additionally, SOX11
+staining may be used on tumour biopsies. A diagnosis of
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+23
+
+B. Eichhorst et al.
+
+Annals of Oncology
+MZL is supported by negative or low CD43 expression and
+high expression of CD180.4
+In the World Health Organization (WHO) classiﬁcation from
+2017 as well as in prior versions, small lymphocytic
+lymphoma (SLL) and CLL are considered a single entity. If
+B lymphocytes in the peripheral blood are <5  109/l and
+lymphadenopathy and/or splenomegaly (detected by either
+physical examination or imaging studies) is present, SLL
+instead of CLL is diagnosed. SLL cells show the same
+immunophenotype as CLL. Although SLLs have a circulating
+clone, the diagnosis of SLL should be conﬁrmed by
+histopathologic evaluation of a lymph node (LN) biopsy
+whenever possible.
+In the absence of lymphadenopathy, organomegaly,
+cytopaenia and clinical symptoms, the presence of
+<5  109/l monoclonal B lymphocytes deﬁnes ‘monoclonal
+B lymphocytosis’ (MBL),2 which can be detected in up to 5%
+of subjects with normal blood count with frequency
+increasing with age.5 Progression to CLL occurs in at least
+1%-2% of MBL cases per year.5 It may be important to point
+out to patients and healthy individuals that MBL is not yet a
+leukaemia or lymphoma.
+
+Table 1. Staging systems for CLL
+Stage
+
+Deﬁnition
+
+Binet system
+Binet A
+
+Hb 100 g/l (6.21 mmol/l),
+platelets 100  109/l
+<3 involved lymphoid sitesa
+Hb 100 g/l (6.21 mmol/l),
+platelets 100  109/l
+3 involved lymphoid sitesa
+Hb <100 g/l (6.21 mmol/l),
+platelets <100  109/l
+
+Binet B
+
+Binet C
+Rai system
+Low-risk
+Rai 0
+Intermediate-risk Rai I
+Rai II
+High-risk
+
+Lymphocytosis >5  109/l
+Lymphocytosis and lymphadenopathy
+Lymphocytosis and hepatomegaly and/or
+splenomegaly with/without lymphadenopathy
+Lymphocytosis and Hb <110 g/l (6.83 mmol/l)
+with/without lymphadenopathy/organomegaly
+Lymphocytosis and platelets
+<100  109/l with/without
+lymphadenopathy/organomegaly
+
+Rai III
+Rai IV
+
+Originally described overall survival times were deleted, because they have changed
+during the past 30 years81 but do not reﬂect the impact of novel treatments.
+CLL, chronic lymphocytic leukaemia; Hb, haemoglobin.
+a
+Binet’s system takes into account ﬁve potential sites of involvement: cervical,
+axillary, inguinal lymphadenopathy (either uni- or bilateral), spleen and liver.
+Involvement is judged only by physical exam and does not take into consideration
+the results of imaging studies for staging purposes.
+Adapted from Binet et al.13 with permission and Rai et al.14
+
+Recommendations
+ Diagnosis is usually possible by immunophenotyping
+of peripheral blood only [III, A].
+ LN biopsy and/or bone marrow biopsy may be helpful
+if immunophenotyping is not conclusive for the
+diagnosis of CLL [IV, A].
+STAGING AND RISK ASSESSMENT
+Early, asymptomatic stage
+Early, asymptomatic stage disease, as determined by either
+the Rai or the Binet staging system, (Table 1) does not need
+further risk assessment (see section below ‘Management of
+early disease’).
+After the ﬁrst year, when all patients should be seen at
+3-monthly intervals, patients can be followed every 3-12
+months depending on burden and dynamics of the disease
+by the following recommended examinations (Table 2):
+ History and physical examinations including a careful
+palpation of all LN areas, spleen and liver;
+ Complete blood cell count and differential count.
+Advanced or symptomatic stage
+The following examinations are recommended before
+treatment [III, B] (Table 2):2
+ History and physical examination including a careful
+palpation of all LN areas, spleen and liver;
+ Complete blood cell count and differential count;
+ Serum chemistry including lactate dehydrogenase (LDH),
+bilirubin, serum Igs, direct antiglobulin test (DAT) and
+haptoglobin. Other parameters in order to exclude other
+reasons for existing anaemia may be carried out. In
+24
+
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+addition, kidney and liver function should be tested
+before starting systemic therapy;
+ The history and status of relevant infections [i.e. hepatitis B (HBV) and C (HCV), cytomegalovirus (CMV), human
+immunodeﬁciency virus (HIV)] should be evaluated to
+prevent virus reactivation;
+Table 2. Diagnostic and staging work-up
+Initial
+Pre-treatment Staging
+Follow-up
+staging at evaluation
+at the end
+diagnosis
+of therapy
+History, physical
+examination and
+performance status
+Complete blood
+count and differential
+Serum chemistry
+including serum
+immunoglobulin and
+direct antiglobulin test
+Cytogenetics (FISH)
+and molecular
+genetics for TP53
+mutation or del(17p)
+IGHV mutational status
+Marrow aspirate
+and biopsy
+HBV, HCV, CMV and
+HIV serology
+Radiological imaging
+(CT scan)
+
+þ
+
+þ
+
+þ
+
+þ
+
+þ
+
+þ
+
+þ
+
+þ
+
+
+
+þ
+
+þ
+
+þ
+
+(þ)a
+
+þ
+
+
+
+
+
+(þ)a
+
+
+þ
+þb
+
+
+þc
+
+
+
+
+
+
+þ
+
+
+
+
+
+þd
+
+þd
+
+CMV, cytomegalovirus; CR, complete remission; CT, computed tomography; HBV,
+hepatitis B virus; HCV, hepatitis C virus; HIV, human immunodeﬁciency virus; IGHV,
+immunoglobulin heavy chain variable.
+a
+Only if patient requests the evaluation of his prognostic score.
+b
+Only if clinically indicated.
+c
+Only for conﬁrmation of CR within clinical studies.
+d
+Only within clinical studies, in patients with clinical symptoms and before any
+venetoclax treatment.
+
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+B. Eichhorst et al.
+
+Annals of Oncology
+
+ FISH for detection of deletion of the chromosome
+17 [del(17p)] affecting the tumour protein p53
+expression and, in the absence of del(17p), TP53
+sequencing for detection of TP53 gene mutation (at least
+exons 4-10, exons 2-11 recommended) [III, A].6
+Array-based techniques might be used alternatively to
+FISH in the future,7 but most data for the prognostic
+and predictive value of TP53 deletion are based on
+FISH. As genetic lesions may evolve throughout the
+disease, the analysis should be carried out as close as
+possible (e.g. <6 months) to initiation of therapy
+(Table 3);
+ Molecular analysis for detecting Ig heavy chain variable
+(IGHV) gene mutation status (Table 3);8
+ Chest imaging: see section ‘Imaging’.
+The following additional examinations before treatment
+are desirable [III, B]:9
+ Although a bone marrow examination is not required
+for diagnosis, it is recommended for the diagnostic
+evaluation of unclear cytopaenia or in the presence of
+a non-conclusive phenotype. A marrow biopsy may be
+considered as a baseline parameter to assess treatment
+response;
+ An extended FISH analysis (or array-based analysis)
+before therapy may allow the detection of additional
+cytogenetic abnormalities [e.g. del(11q) or trisomy 12];
+ Hepatitis E testing is optional but should particularly be
+considered if the patient is positive for HBV;10
+ Serum b2-microglobulin (B2M) is an important
+prognostic marker, which is part of the CLLInternational Prognostic Index (IPI).11
+Imaging. Radiographic imaging [computed tomography (CT)
+scan, magnetic resonance imaging (MRI)] is not generally
+recommended in asymptomatic patients. Radiographic
+imaging with CT scan is recommended in symptomatic
+patients, for example in pulmonary symptomatic patients,
+in order to exclude pulmonary inﬁltration or pleural
+effusion by CLL. MRI, chest radiography or abdominal
+ultrasound (US) may be considered as alternatives if there
+are contraindications against CT scan or a scan is not
+available.
+In general, CT scans of neck, chest, abdomen and pelvis or
+MRI may be helpful to assess the tumour load and risk of
+tumour lysis syndrome (TLS), particularly before treatment
+with the BCL2 inhibitor venetoclax. In addition, CT scans may
+be useful for baseline and ﬁnal assessment in clinical trials,12
+as well as for response evaluation for patients in clinical
+practice [III, C]. In elderly patients, US and radiographic chest
+imaging might be considered instead for CT scans.
+Prognostication
+Two clinical staging systems are used in CLL (Table 1).13,14
+Both Binet and Rai staging systems separate three groups
+of patients with different prognosis (Table 1).13,14 As a
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+Table 3. Personalised medicine synopsis
+Biomarker
+
+Method
+
+Use
+
+LoE, GoR
+
+TP53 mutation
+or del(17p)
+
+FISH and
+Sanger or
+NGS
+
+III, A
+
+IGHV
+
+Sanger or
+NGS
+
+Complex
+karyotype
+
+Chromosome
+banding
+
+Strongest prognostic
+and predictive
+relevance together
+with del(17p)
+Strong prognostic
+evidence; predictive
+evidence for
+CIT
+Possible prognostic
+and predictive
+relevance but not yet
+established prospectively
+
+III, A
+
+IV, C
+
+CIT, chemoimmunotherapy; GoR, grade of recommendation; IGHV, immunoglobulin
+heavy chain variable; LoE, level of evidence; NGS, next-generation sequencing.
+
+consequence of more effective therapy, the overall survival
+(OS) of patients with advanced stage has improved15 and
+the relevance of the staging systems for prognostication has
+decreased.
+Additional markers are available to predict the prognosis
+of patients with CLL. Patients with a detectable del(17p) or
+a mutation of TP53 have the poorest prognosis at least in
+the era of chemoimmunotherapy (CIT), with a median OS of
+2-5 years.16,17 The prognosis of those patients has
+signiﬁcantly improved with the introduction of B-cell
+receptor inhibitors (BCRis)18 and the BCL2 inhibitor
+venetoclax. Nevertheless, subgroup analyses of trials show
+that TP53 appears to maintain its poor prognostic and
+predictive impact even with some inhibitor therapies. The
+formerly poor prognosis of patients with a del(11q) (w20%)
+has been strongly improved by CIT with ﬂudarabine,
+cyclophosphamide and rituximab (FCR) and by novel
+targeted agents such as BCRis and venetoclax.19-21 Other
+gene mutations such as NOTCH1, SF3B1 or BIRC3,
+RPS1522,23 as well as complex karyotype (CKT) (deﬁned by
+3 or 5 abnormalities in chromosomal banding analysis)
+predict an unfavourable prognosis in the absence of TP53
+deletion/mutation and should be studied in clinical trials
+[III, C].24-27 Because leukaemic clones may evolve, FISH for
+del(17p) and TP53 mutation analyses should be repeated
+before any line of therapy [III, A].28
+Around 60% of patients with CLL in need of treatment
+have an unmutated IGHV status.29,30 CLL cells with
+unmutated IGVH status have a higher genetic instability
+with a higher risk of presenting unfavourable genetic
+mutations. OS and time to treatment intervention are
+signiﬁcantly shorter in this patient group [III, A].
+To create a comprehensive tool for predicting the
+outcomes of patients with CLL, different prognostic scores
+have been proposed.11,31,32 The CLL-IPI includes stage, age,
+TP53 status, IGHV status and serum B2M and distinguishes
+four different prognostic subgroups predicting OS.11 The
+CLL-IPI has been extensively validated.33,34 This prognostic
+model was designed to identify three groups of patients:
+(i) patients that should not be treated (low-risk), because
+they show a very good prognosis without therapy;
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+25
+
+B. Eichhorst et al.
+
+Annals of Oncology
+(ii) patients that usually show a reasonably good outcome
+with CIT (intermediate- and intermediate/high-risk), in
+particular when novel agents are not available for ﬁrst-line
+therapy; and (iii) patients that should receive targeted
+agents as front-line therapy, because chemotherapy (ChT) is
+ineffective (very high-risk).33 However, with the increasing
+use of targeted agents in front-line independent from
+patient risk factor proﬁle, the role of CLL-IPI will have to be
+further determined.33
+Goals of therapy
+Since in most cases CLL remains an incurable disease, the
+goals of therapy are to improve quality of life and to
+prolong survival. In daily life, important treatment end
+points in clinical trials, such as response rate, minimal
+residual disease (MRD) status or progression-free-survival
+(PFS), may be more relevant for young and/or ﬁt patients
+than in older patients and/or patients with relevant
+comorbidity. Ultimately, in most patients, survival depends
+on the effect and choice of treatment sequences given
+along the course of the disease.
+Recommendations
+ Binet and Rai staging systems with clinical symptoms
+are relevant for treatment indication [III, A].
+ del(17p), TP53 mutations and IGHV status are relevant
+for choice of therapy and should be assessed before
+treatment [III, A].
+ Routine evaluation of del(17p), TP53 mutation and
+IGHV status in early and asymptomatic stage is not
+recommended [V, D].
+ Routine imaging during a watch-and-wait period is not
+recommended unless there are clinical symptoms [V, E].
+MANAGEMENT OF EARLY DISEASE
+Binet stage A and B without active disease; Rai 0, I and II
+without active disease
+Previous studies have shown that early treatment with
+chemotherapeutic agents does not translate into a survival
+advantage in patients with early-stage CLL.35,36 Results of
+clinical trials evaluating early treatment with novel agents
+are still pending. The standard treatment of patients with
+early disease is a watch-and-wait strategy [I, A]. Blood cell
+counts and clinical examinations should be carried out
+every 3-12 months after the ﬁrst year, when 3-monthly
+intervals should be applied for all patients.
+Due to the lack of clinical trials, no evidence-based
+treatment recommendation can be given for localised,
+early-stage SLL, but there is consensus that the management of SLL is similar to CLL. Locoregional radiotherapy may
+only be considered for symptomatic lymphadenopathy in
+selected patients with localised SLL.
+Recommendation
+ The standard treatment of patients with early asymptomatic disease is a watch-and-wait strategy [I, A].
+26
+
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+MANAGEMENT OF ADVANCED DISEASE
+Binet stage A and B with active disease or Binet stage C;
+Rai 0-II with active disease or Rai III-IV
+In general, whenever possible, patients should be treated
+within a clinical trial for all lines of therapy.
+Treatment indication. Whereas patients with intermediate(stage I and II) and high-risk (stage III and IV) disease
+(according to the modiﬁed Rai classiﬁcation or at Binet stage
+B or C) usually beneﬁt from the initiation of treatment, some
+of these patients (in particular Rai intermediate-risk or Binet
+stage B) can be monitored without therapy until they
+have evidence for progressive or symptomatic disease
+(summarised as ‘active disease’).2 ‘Active disease’ should be
+clearly documented to initiate therapy. At least one of the
+following criteria should be met:2
+ Evidence of progressive marrow failure as manifested by
+the development of, or worsening of, anaemia and/or
+thrombocytopaenia. Cut-off levels of haemoglobin (Hb)
+<100 g/l (<6.21 mmol/l) or platelet counts <100 
+109/l are generally regarded as indications for treatment.
+However, it should be pointed out that in some patients,
+platelet counts <100  109/l may remain stable over a
+long period of time; this situation does not automatically
+require therapeutic intervention;
+ Massive (i.e. 6 cm below the left costal margin) or
+progressive or symptomatic splenomegaly;
+ Massive (i.e. 10 cm in longest diameter) or progressive
+or symptomatic lymphadenopathy;
+ Progressive lymphocytosis with an increase of 50% over
+a 2-month period, or lymphocyte doubling time (LDT) of
+<6 months. LDT can be obtained by linear regression
+extrapolation of absolute lymphocyte counts (ALCs)
+obtained at intervals of 2 weeks over an observation
+period of 2-3 months; patients with initial blood
+lymphocyte counts of <30  109/l may require a longer
+observation period to determine the LDT. Factors contributing to lymphocytosis other than CLL (e.g. infections,
+steroid administration) should be excluded particularly
+when LDT is the only criterion to start therapy;
+ Autoimmune complications including anaemia or
+thrombocytopaenia poorly responsive to corticosteroids;
+ Symptomatic or functional extranodal involvement
+(e.g. skin, kidney, lung, spine);
+ Disease-related symptoms as deﬁned by any of the
+following:
+B Unintentional weight loss 10% within the previous 6
+months;
+B Signiﬁcant
+fatigue [i.e. European Cooperative
+Oncology Group performance status (ECOG PS) 2 or
+worse; cannot work or unable to perform usual
+activities];
+B Fevers 38.0 C for 2 weeks without evidence of
+infection;
+B Night sweats for 1 months without evidence of
+infection.
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+B. Eichhorst et al.
+
+Annals of Oncology
+
+Factors contributing to these symptoms other than CLL
+(e.g. secondary neoplasia, infections, sleep disorders,
+anxiety, menopause) should be excluded, in particular when
+any of these symptoms is the only criterion to start therapy.
+Front-line treatment. For front-line therapy, different
+treatment strategies are available (Figure 1); continuous
+treatment with Bruton tyrosine kinase inhibitors (BTKis)
+such as ibrutinib until progression or time-limited therapy
+with ChT backbone and CD20 antibodies. In addition, the
+United States Food and Drug Administration (FDA) and
+European Medicines Agency (EMA) have recently approved
+the combination of venetoclax plus obinutuzumab as
+ﬁrst-line therapy for CLL.21 Hence, this time-limited, CIT-free
+regimen is an alternative third option. The treatment
+decision should include an assessment of IGHV and TP53
+status, as well as patient-related factors such as
+comedication, comorbidities, preferences, drug availability
+and potential of treatment adherence.
+Therapy until progression with ibrutinib alone or in
+combination with CD20 antibodies has yielded a longer PFS
+when compared with ﬁxed duration CIT [FCR, bendamustine
+plus rituximab (BR), chlorambucil plus obinutuzumab] in
+phase III randomised trials [I, A].37-39 However, the optimal
+duration of treatment with ibrutinib has not been deﬁned.
+Data of one phase III trial which compared ibrutinib plus
+rituximab versus FCR in young and ﬁt patients suggest that
+an OS beneﬁt for ibrutinib-treated patients might exist.37
+Two published trials, which allowed a crossover to
+ibrutinib in patients progressing after CIT, have shown no
+difference in OS so far.38,39 The Alliance trial compared BR
+versus ibrutinib alone versus ibrutinib plus rituximab in
+
+patients aged 65 years and showed no difference
+between both ibrutinib-containing arms, but a signiﬁcant
+difference in PFS for both ibrutinib-containing arms versus
+BR (74% versus 87% and 88% at 2 years, respectively).38
+Within the ILLUMINATE trial, patients >65 years of age or
+with signiﬁcant comorbidity were randomised between
+chlorambucil plus obinutuzumab (for 6 months) and
+ibrutinib plus obinutuzumab. A signiﬁcantly different PFS
+was estimated at 30 months at 79% [95% conﬁdence
+interval (CI) 70-85] in the ibrutinib plus obinutuzumab
+group versus 31% (95% CI 23-40) in the chlorambucil plus
+obinutuzumab group, while a third arm with ibrutinib
+monotherapy was missing.39
+The ELEVATE study investigated the BTKi acalabrutinib
+alone or in combination with obinutuzumab in comparison
+with CIT with chlorambucil plus obinutuzumab in elderly
+patients with CLL.40 The study showed a clear beneﬁt for
+both acalabrutinib-containing arms with respect to PFS
+[hazard ratio (HR) 0.10 (95% CI 0.06-0.17) for acalabrutinib
+plus obinutuzumab; HR 0.20 (95% CI 0.13-0.30) for
+acalabrutinib alone]. Unfortunately, the study is not
+powered for showing a beneﬁt of adding obinutuzumab to
+acalabrutinib. Therefore, the potential beneﬁt of
+obinutuzumab addition to BTKi remains unclear, while it
+was already demonstrated that there is no beneﬁt by
+adding rituximab to ibrutinib with respect to disease control
+in elderly38 and more ﬁt patients with unfavourable genetic
+proﬁles.41 Subgroup analyses of three out of four trials
+failed to demonstrate a signiﬁcant beneﬁt for indeﬁnite
+ibrutinib or acalabrutinib therapy when compared with
+ﬁxed-duration CIT in patients with mutated IGHV
+disease.38,40,42
+
+Figure 1. Front-line therapy.
+The order of the recommended treatments for each subgroup is based on expert opinion considering time-limited as more valuable therapy, if there is equal evidence
+for two different treatment options.
+BR, bendamustine plus rituximab; CIT, chemoimmunotherapy; CLBO, chlorambucil plus obinutuzumab; CLL, chronic lymphocytic leukaemia; FCR, ﬂudarabine,
+cyclophosphamide and rituximab; IGHV, immunoglobulin heavy chain variable.
+a
+CIT as alternative treatment, only if reasons against treatment with targeted therapies or non-availability.
+b
+BR might be considered alternatively in patients above the age of 65 years.
+c
+If available.
+d
+If approved and available.
+
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+27
+
+B. Eichhorst et al.
+
+Annals of Oncology
+Venetoclax plus obinutuzumab, as time-limited therapy
+for 12 months, was compared with chlorambucil plus
+obinutuzumab (for 12 months) in comorbid patients.21
+The data of the CLL14 trial showed after 28 months
+(median observation time) a PFS of 88% at 24 months for
+the venetoclax combination versus 64% for the CIT
+group.21 Subgroup analyses for IGHV-mutated disease also
+demonstrated a signiﬁcant beneﬁt for venetoclax
+plus obinutuzumab compared with chlorambucil plus
+obinutuzumab as well as for unmutated IGHV disease
+[mutated IGHV HR 0.33 (CI 0.16-0.70); unmutated IGHV
+disease HR 0.23 (CI 0.15-0.35)].43 So far, no difference in OS
+has been observed. Venetoclax plus obinutuzumab
+combination, if available, would be the preferred therapy in
+comparison with CIT for patients with comorbid conditions
+[I, A].
+Because data for ﬁt patients are not yet available for
+venetoclax plus obinutuzumab, no clear recommendation
+can be given for this group, but it is expected that this
+combination will also show superiority in this setting.
+For the choice between venetoclax plus obinutuzumab
+versus ibrutinib or other BTKis, time-limited therapy would
+be preferred, but side-effect proﬁle (renal impairment and
+risk of TLS versus atrial ﬁbrillation and bleeding risk),
+application mode [intravenous (i.v.)] application with
+combination therapy due to the antibody infusion versus
+oral medication only], intensity of controls (5-week ramp-up
+period with the combination) and shorter follow-up have to
+be taken into consideration [V, B].
+CIT may still be considered an appropriate ﬁrst-line
+therapy for ﬁt patients with CLL and mutated IGHV status
+[II, B].44,45 In counselling with patients, the long-term risk
+of CIT to induce secondary neoplasia, leukaemias/
+myelodysplastic syndromes (MDS) and infections should be
+taken into consideration. Similarly, a history of concurrent
+atrial ﬁbrillation, ventricular arrhythmias or other
+cardiovascular disorders, concomitant antiplatelet or
+anticoagulation therapy, comedication or compliance
+problems, should be considered and discussed with the
+patient before starting BTKi therapy.46,47 For the necessary
+ramp-up of venetoclax, accessibility to the medical centre
+for patients considered for venetoclax-obinutuzumab
+should be discussed, as well as the lack of long-term
+follow-up data.
+For patients to be treated with CIT, young and ﬁt patients
+with CLL should receive FCR therapy [I, A].19 BR should be
+considered for ﬁt patients aged >65 years due to increased
+rates of infections and secondary myeloid neoplasia with
+FCR (Figure 1) [I, A].48-50 In patients with signiﬁcant
+comorbidity, chlorambucil plus obinutuzumab can be
+considered, if treatment with targeted agents is not an
+option, which might also be used in ﬁt elderly patients
+though no data are available in this group.49,50
+Patients with TP53 mutation or del(17p) should receive
+front-line therapy with BTKis [III, A]; CIT is not an option due
+to the poor prognosis with this therapy independent from
+IGHV status.19 Ibrutinib therapy may raise concerns due
+to the history of concurrent arrhythmias, signiﬁcant
+28
+
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+cardiovascular comorbidity, concomitant antiplatelet or
+anticoagulant therapy or concomitant therapy with
+strong CYP3A4 inhibitors, including antiarrhythmics or
+antihypertensives (which cannot be changed to alternative
+drugs). If available, other BTKis might have a different
+side-effect proﬁle, at least with respect to the incidence of
+arrhythmias.51,52 Alternatively, the BCL2 inhibitor
+venetoclax as continuous monotherapy or also time-limited
+therapy with venetoclax plus obinutuzumab (if approved
+and available) would be the preferred option [III, A]. A
+subgroup analysis of the CLL14 trial has also demonstrated
+less efﬁcacy of venetoclax plus obinutuzumab in TP53
+mutation or del(17p), though the difference was much less
+than in the CIT arm.21 The phosphoinositide 3 kinase (PI3K)
+inhibitor idelalisib plus rituximab may be used in patients
+who are not eligible for any other therapies [III, A].
+Treatment of relapse and refractory disease. As in ﬁrst-line
+therapy, treatment at relapse should only be started in
+symptomatic patients and not simply at the time of
+reappearance of the disease (Figure 2).2 Many patients with
+relapsed but asymptomatic CLL can be followed without
+therapy for a long period of time. Even stopping continuous
+medication BCRi (ibrutinib or other BTKis or idelalisib) or
+venetoclax (for example because of side-effects) does not
+necessarily require immediate alternative treatment,
+particularly if CLL is in remission. In the case of rapid
+progression on targeted agents, immediate change of
+therapy is recommended.
+In case of symptomatic relapse within 3 years after
+ﬁxed-duration therapy or non-response to therapy,53 the
+therapeutic regimen should be changed, regardless of the
+type of ﬁrst-line therapy (CIT or novel therapies).
+One of the two following treatment options should be
+chosen [I, A]:
+ Venetoclax plus rituximab for 24 months;54
+ Ibrutinib or acalabrutinib or other BTKis (if available)
+as continuous therapy.55-57
+Alternative options include:
+ The PI3K inhibitor idelalisib in combination with
+rituximab [II, B];58
+ CIT unless a TP53 mutation or del(17p) is found and
+no other treatment options with inhibitors or
+cellular therapy are available; a response to prior
+BR should have lasted at least 3 years to justify
+re-administration [II, B]. Repeated administration of
+FCR is not recommended due to increased toxicity
+rates and risk of secondary myeloid neoplasm [V, B].
+For the choice between these treatment modalities, the
+following aspects should be discussed with the patient:
+ Treatment duration (no termination versus ﬁxed
+duration);
+ Administration [oral (p.o.) versus i.v.];
+ Compliance (i.v. versus p.o.);
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+B. Eichhorst et al.
+
+Annals of Oncology
+
+Symptomatic relapsed CLL
+
+TP53 mutation or del(17p)
+
+Short remission duration
+(<36 months)
+
+Long remission duration
+(>36 months)
+
+Ibrutinib or acalabrutinib [I, A]
+Venetoclax+rituximaba [I, A]
+Venetoclax aloneb [III, B]
+Idelalisib+rituximab [II, B]
+Consider alloSCT in fit patients
+
+Ibrutinib or acalabrutinib [I, A]
+Venetoclax+rituximaba [I, A]
+Venetoclax aloneb [III, B]
+Idelalisib+rituximab [II, B]
+
+Repeat front-line [II, B] or
+Change to: Ibrutinib or acalabrutinib
+Venetoclax+rituximaba
+Idelalisib+rituximab
+CITc
+
+Figure 2. Relapse therapy.
+alloSCT, allogeneic stem cell transplantation; BCRi, B-cell receptor inhibitor; CIT, chemoimmunotherapy; CLL, chronic lymphocytic leukaemia; FCR, ﬂudarabine, cyclophosphamide and rituximab; R, rituximab.
+a
+After prior ibrutinib, preferred therapy.
+b
+After prior CIT and BCRi.
+c
+Repetition of FCR not recommended.
+
+ Evidence (currently, more data exist on ibrutinib ﬁrst-line
+followed by venetoclax second-line than on the reverse
+sequence);
+ Risk of complications (in particular in the presence of
+speciﬁc comorbidities: bleeding and cardiac comorbidities with ibrutinib or other BTKis versus impaired renal
+function and neutropaenia with venetoclax);
+ Response to and side-effects of prior therapies;
+ Number and complexity of clinical controls (2-4 weeks
+for ibrutinib versus dose ramp-up with three controls
+every week for 5 weeks to prevent TLS and potential
+hospitalisation in case of high TLS risk with venetoclax).
+In case of progression on BCRi therapy after prior CIT,
+venetoclax-based therapy is the preferred treatment,59,60 as
+change to a different CIT or BCRi does not induce
+long-lasting remissions [III, B].61
+In case of long-lasting remissions (>3 years) to prior
+time-limited therapy, patients may be re-exposed to the
+same treatment regimen, though data are limited with no
+long-term observation [II, B].62
+Role of haematopoietic stem cell transplantation and
+cellular therapies. Autologous stem cell transplantation
+(autoSCT) is not useful in CLL [I, D].63 Allogeneic stem cell
+transplantation (alloSCT) should be considered64 in:
+ Patients refractory to CIT with TP53 mutation or
+del(17p), but fully responsive to novel inhibitor therapy.
+AlloSCT should be discussed with the patient as an
+option for curative treatment if risk of transplantation
+is low;65
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+ Patients refractory to CIT and to novel inhibitor therapy,
+even for patients with a higher risk of non-relapse
+mortality [haematopoietic cell transplant comorbidity
+index (HCT-CI) score of 3] [III, B];65
+ Patients with Richter’s transformation in remission after
+therapy and clonally related to CLL.
+Treatment with chimeric antigen receptor T (CAR-T) cells
+or bi-speciﬁc T-cell engager (BiTE) antibodies within clinical
+trials could be an alternative to alloSCT for all three groups
+[V, B]. While there is less experience with CAR-T cell therapy
+in CLL, it is very different from alloSCT in at least two
+aspects:
+ Lower non-relapse mortality and different, mostly acute,
+toxicity (cytokine release syndrome; CAR-T-cell-related
+encephalopathy syndrome) which renders this approach
+available to patients with some comorbidities;
+ Uncertain long-term curative potential.
+Treatment of CLL complications. Treatment of patients with
+autoimmune cytopaenia should be carried out according to
+the statement from the ‘ESMO guidelines consensus
+conference on malignant lymphoma’66 and from the
+‘International Workshop on CLL guidelines’.9 Most patients
+with autoimmune cytopaenia, speciﬁcally those with warm
+auto-antibodies, respond to high-dose corticosteroids [III,
+B]. For patients not responding to corticosteroids, rituximab
+alone or in combination with cyclophosphamide and
+dexamethasone might be a reasonable treatment option,67
+as well as BR68 [III, B]. Recently, BCRis have also shown
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+29
+
+B. Eichhorst et al.
+
+Annals of Oncology
+promising efﬁcacy [III, B].69 In patients with resistant
+autoimmune cytopaenia, treatment of the underlying CLL is
+recommended before considering splenectomy.
+Infectious complications are common in patients with
+CLL. Therefore, the use of immunosuppressive agents, for
+example corticosteroids, should be restricted. The use of
+prophylactic systemic Ig replacement therapy does not have
+an impact on OS,70 and is only recommended in patients
+with severe hypogammaglobulinaemia and repeated or
+severe infections [I, A]. Antibiotic and antiviral prophylaxis
+should mostly be used in patients with recurrent infections
+and/or very high risk of developing infections (for example,
+pneumocystis prophylaxis with co-trimoxazole during
+treatment with CIT based on purine analogues or
+idelalisib) [IV, B]. The risk of fungal infections seems to be
+increased in patients receiving ibrutinib, particularly when
+corticosteroids are applied concomitantly.71 Because of
+potential drug interactions and the low incidence of fungal
+infections, routine antifungal prophylaxis is currently not
+recommended.
+Though mortality in patients with bloodstream infections
+before the start of therapy is elevated in patients with CLL,
+there are currently no data available supporting the
+prophylactic use of any antibiotics in early-stage CLL.72
+However, pneumococcal vaccination as well as seasonal
+ﬂu vaccination is recommended in early stage CLL [IV, B].
+Response evaluation. Response evaluation includes a
+careful physical examination and a blood cell count. A bone
+marrow biopsy and MRD assessment should be carried out
+to deﬁne complete remission and MRD status within clinical
+trials [III, B] as well as CT scans [IV, C].2 For evaluation of
+response outside clinical trials, bone marrow biopsy and CT
+scan may be helpful but are not mandatory. For evaluation
+of efﬁcacy of novel treatments with continuous
+administration within clinical trials, more than one CT scan
+might be necessary.
+Detection of MRD by multicolour ﬂow cytometry or
+RT-PCR has a strong prognostic impact following CIT73,74 as
+well as venetoclax plus CD20-antibody combinations.75
+Patients with undetectable MRD after therapy show a
+longer response duration and survival. Additional clinical
+consequences of MRD positivity after therapy with respect
+to treatment escalation remain unclear, except for patients
+who underwent alloSCT, where a positive MRD signal may
+trigger the reduction of immunosuppressive therapies, the
+administration of donor lymphocyte infusions or the start of
+antileukaemic maintenance therapy. Therefore, MRD
+assessment is not generally recommended for monitoring
+after therapy outside clinical studies. This may change soon,
+as increasing efforts are made to determine whether
+therapy with targeted agents could be discontinued on the
+basis of MRD status.75-77
+
+ CLL with unmutated IGHV status and without TP53
+mutation or del(17p) (if there was similar efﬁcacy,
+panel is giving preference to time-limited therapies):
+B Fit patients: ibrutinib [I, A] (data for other BTKis for
+ﬁt patients are still pending); CIT should be avoided
+due to survival disadvantage, but may be used if
+other options are not available [I, A]. Venetoclax
+plus obinutuzumab might be an alternative to BTKis,
+but data for ﬁt patients are still pending [III, A].
+B Unﬁt patients: venetoclax plus obinutuzumab or
+ibrutinib or acalabrutinib [I, A] or chlorambucil
+plus obinutuzumab.
+ CLL with mutated IGHV status and without TP53
+mutation or del(17p) (if there was similar efﬁcacy,
+panel is giving preference to time-limited therapies):
+B Fit patients: CIT according to age (FCR or BR) or
+ibrutinib [I, A]. Venetoclax plus obinutuzumab
+might be an alternative to BTKis, but data for ﬁt
+patients are still pending [III, A].
+B Unﬁt patients: venetoclax plus obinutuzumab [I, A]
+or chlorambucil plus obinutuzumab or ibrutinib or
+acalabrutinib [I, A].
+ TP53 mutation or del(17p): ibrutinib or acalabrutinib
+or venetoclax plus obinutuzumab or venetoclax alone
+or idelalisib plus rituximab [III, A].
+ Early relapse: change of therapy to venetoclax plus
+rituximab or ibrutinib or acalabrutinib or another
+BTKi if approved and available [I, A].
+ Late relapse and no del(17p) or TP53 mutation:
+ibrutinib or venetoclax plus rituximab or repeat
+front-line therapy [II, B].
+ Autoimmune cytopaenia should be treated with
+corticosteroids. In patients not responding to corticosteroids, treatment of CLL based on anti-CD20
+antibodies or also BCRis should be considered [IV, A].
+ Except after alloSCT, MRD measurement is not yet
+recommended as a clinical routine test [IV, C].
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND
+SURVIVORSHIP
+At the present time, it is not clear if long-lasting remissions
+observed in a minority of patients after CIT or alloSCT as well
+as venetoclax-based combinations are equivalent to a
+functional cure in a proportion of patients. Therefore,
+life-long observation and follow-up is recommended for all
+patients. In totally asymptomatic patients, the follow-up
+should include a blood cell count and the palpation of LNs,
+liver and spleen every 3-12 months depending on the
+dynamics of the disease. Special attention should be paid to
+the appearance of autoimmune cytopaenia. Moreover, CLL
+patients have a twofold to sevenfold increased risk of
+developing secondary malignancies [mostly solid cancers, but
+also secondary MDS or acute myeloblastic leukaemia (AML)].
+
+Recommendations
+ Decision for type of front-line treatment is based on
+TP53 mutation or del(17p), IGHV mutational status,
+age, comorbidities and comedication [II, A].
+30
+
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+Richter’s transformation
+The transformation into a diffuse large B-cell lymphoma
+(DLBCL) occurs in 2%-15% of CLL patients during the course
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+B. Eichhorst et al.
+
+Annals of Oncology
+
+of their disease, in particular after several lines of CIT. The
+diagnosis must be conﬁrmed by a histopathology exam
+of an LN (biopsy or excision). A positron emission
+tomography (PET)-CT scan can be useful to guide biopsy
+[IV, C]. Richter’s transformation into DLBCL usually has a
+poor prognosis, in particular if DLBCL is clonally related to
+CLL and/or the patient has been exposed to prior CLL
+therapy. For this reason, it is strongly advised to deﬁne the
+clonal relation between DLBCL and CLL by comparing
+IGHV sequences. Treatment regimens for Richter’s
+transformation include therapies used in DLBCL such as
+rituximab, cyclophosphamide, vincristine, doxorubicin and
+dexamethasone (R-CHOP). More intense treatment
+regimens such as rituximab, cyclophosphamide, vincristine,
+doxorubicin and dexamethasone alternating with
+methotrexate and cytarabine (R-hyperCVAD) or oxaliplatin,
+ﬂudarabine, cytarabine and rituximab (OFAR) have not
+improved outcome and may cause considerable toxicity
+[IV, D]. If possible, these patients should enter into clinical
+trials.
+Response duration of Richter’s transformation is typically
+short, and alloSCT should be recommended to all patients
+with clonally-related Richter’s transformation with an
+available donor and sufﬁcient ﬁtness [IV, B].78 In
+patients unsuitable for alloSCT, autoSCT can be
+considered.79 If the CLL and DLBCL are clonally unrelated
+because of different Ig gene rearrangements, the disease
+should be treated as a de novo DLBCL because the DLBCL is
+a second malignancy (i.e. R-CHOP as ﬁrst-line, reserving
+stem cell transplantation for cases not responding or
+relapsing after R-CHOP).78
+The transformation of CLL into Hodgkin lymphoma (HL)
+represents a separate entity, though it is included in the
+term Richter’s transformation. Here, conventional ChT
+against HL often achieves long-lasting remissions.78
+Recommendations
+ The transformation into DLBCL occurs in 2%-15% of
+CLL patients during the course of their disease, in
+particular after several lines of CIT. The diagnosis of
+transformation must be conﬁrmed by histopathology
+exam of an LN (biopsy or excision). A PET-CT scan can
+be useful to guide biopsy [IV, C].
+ Response duration of Richter’s transformation is
+typically short, and alloSCT should be recommended
+to all patients with clonally-related Richter’s
+transformation with an available donor and sufﬁcient
+ﬁtness [IV, B].
+ In clonally unrelated disease, DLBCL should be treated
+as a de novo DLBCL.
+ Transformation of CLL into the HL variant should be
+treated with conventional ChT against HL.
+
+METHODOLOGY
+These Clinical Practice Guidelines were developed in
+accordance with the ESMO standard operating procedures
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+for Clinical Practice Guidelines development (http://www.
+esmo.org/Guidelines/ESMO-Guidelines-Methodology). The
+relevant literature has been selected by the expert authors.
+Levels of evidence and grades of recommendation have
+been applied using the system shown in Supplementary
+Table S1, available at https://doi.org/10.1016/j.annonc.
+2020.09.019.80 Statements without grading were considered justiﬁed standard clinical practice by the experts and
+the ESMO Faculty. This manuscript has been subjected to an
+anonymous peer review process.
+ACKNOWLEDGEMENTS
+The ESMO Guidelines Committee would like to thank the
+ESMO Faculty and other experts who provided critical
+reviews of these ESMO Clinical Practice Guidelines.
+FUNDING
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURES
+BE has reported honoraria from Celgene, Gilead, Novartis,
+Janssen, Roche, AbbVie, ArQule and has participated at
+advisory boards for the same companies, she has received
+research grants from Roche, AbbVie, Janssen, Gilead and
+BeiGene; TR has reported honoraria from Roche and
+Janssen and research grants from Roche, Janssen,
+GlaxoSmithKline, Pharmacyclics and Gilead; EM has
+reported honoraria from Janssen, Pharmacyclics and
+Menarini; PG has reported honoraria from AbbVie,
+Acerta/AstraZeneca, ArQule, BeiGene, Dynamo, Gilead,
+Janssen, Juno/Celgene, MEI Pharma, Sunesis and research
+grants from AbbVie, Janssen, Gilead, Novartis and Sunesis;
+CN has reported honoraria and/or research support from
+AbbVie, Janssen, Roche, Sunesis, AstraZeneca, Acerta,
+Novartis and CSL Behring; AK has reported honoraria from
+Roche/Genentech, Janssen, AbbVie and Acerta and has
+participated at advisory boards for the same companies, he
+has received research grants from Roche, Janssen, Celgene,
+Acerta and AbbVie; MG has reported honoraria from
+Abbvie, Celgene, Gilead, Janssen, Mundipharma, Novartis
+and Roche; FC has reported honoraria from Gilead, Sunesis,
+Janssen, Roche, AstraZeneca and AbbVie and has
+participated at advisory boards for the same companies, she
+has received research grants from Sunesis; CB has reported
+honoraria from Roche, Janssen, Pﬁzer, Celltrion, AbbVie and
+research grants from Roche, Janssen and Bayer; PH has
+reported honoraria for consulting and speaker activities
+from AbbVie, Celgene and Janssen and has received
+research grants from Pharmacyclics, Janssen, AbbVie, Gilead
+and Roche; MH has reported honoraria for consulting and
+speaker activities from AbbVie, Celgene, Gilead,
+GlaxoSmithKline, Janssen, Mundipharma and Roche and has
+received research grants from Mundipharma, Janssen,
+AbbVie, and Roche; UM has reported honoraria from Roche,
+Celgene, AbbVie, Mundipharma and Janssen.
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+31
+
+B. Eichhorst et al.
+
+Annals of Oncology
+REFERENCES
+1. Swerdlow SH, Campo E, Harris NL, et al. WHO Classiﬁcation of Tumours
+of Haematopoietic and Lymphoid Tissues. 4th ed. Lyon: IARC; 2017.
+2. Hallek M, Cheson BD, Catovsky D, et al. iwCLL guidelines for diagnosis,
+indications for treatment, response assessment, and supportive
+management of CLL. Blood. 2018;131:2745-2760.
+3. Rawstron AC, Kreuzer KA, Soosapilla A, et al. Reproducible diagnosis of
+chronic lymphocytic leukemia by ﬂow cytometry: An European
+Research Initiative on CLL (ERIC) & European Society for Clinical Cell
+Analysis (ESCCA) Harmonisation project. Cytometry B Clin Cytom.
+2018;94:121-128.
+4. Miguet L, Lennon S, Baseggio L, et al. Cell-surface expression of the
+TLR homolog CD180 in circulating cells from splenic and nodal marginal zone lymphomas. Leukemia. 2013;27:1748-1750.
+5. Rawstron AC, Bennett FL, O’Connor SJ, et al. Monoclonal B-cell
+lymphocytosis and chronic lymphocytic leukemia. N Engl J Med.
+2008;359:575-583.
+6. Malcikova J, Tausch E, Rossi D, et al. ERIC recommendations for TP53
+mutation analysis in chronic lymphocytic leukemia-update on methodological approaches and results interpretation. Leukemia. 2018;32:
+1070-1080.
+7. Kantorova B, Malcikova J, Smardova J, et al. TP53 mutation analysis in
+chronic lymphocytic leukemia: comparison of different detection
+methods. Tumour Biol. 2015;36:3371-3380.
+8. Rosenquist R, Ghia P, Hadzidimitriou A, et al. Immunoglobulin gene
+sequence analysis in chronic lymphocytic leukemia: updated ERIC
+recommendations. Leukemia. 2017;31:1477-1481.
+9. Hallek M, Cheson BD, Catovsky D, et al. Guidelines for the diagnosis
+and treatment of chronic lymphocytic leukemia: a report from the
+International Workshop on Chronic Lymphocytic Leukemia updating
+the National Cancer Institute-Working Group 1996 guidelines. Blood.
+2008;111:5446-5456.
+10. Boudin L, Patient M, Tsogou PTN, et al. Successful treatment with
+ribavirine for chronic hepatitis E in chronic lymphocytic leukemia
+treated with Ibrutinib. Bull Cancer. 2019;106:84-85.
+11. International CLL-IPI working group. An international prognostic index
+for patients with chronic lymphocytic leukaemia (CLL-IPI): a metaanalysis of individual patient data. Lancet Oncol. 2016;17:779-790.
+12. Cheson BD, Fisher RI, Barrington SF, et al. Recommendations for initial
+evaluation, staging, and response assessment of Hodgkin and nonHodgkin lymphoma: the Lugano classiﬁcation. J Clin Oncol. 2014;32:
+3059-3068.
+13. Binet JL, Auquier A, Dighiero G, et al. A new prognostic classiﬁcation of
+chronic lymphocytic leukemia derived from a multivariate survival
+analysis. Cancer. 1981;48:198-206.
+14. Rai KR, Sawitsky A, Cronkite EP, et al. Clinical staging of chronic lymphocytic leukemia. Blood. 1975;46:219-234.
+15. Abrisqueta P, Pereira A, Rozman C, et al. Improving survival in patients
+with chronic lymphocytic leukemia (1980-2008): the Hospital Clinic of
+Barcelona experience. Blood. 2009;114:2044-2050.
+16. Döhner H, Stilgenbauer S, Benner A, et al. Genomic aberrations and
+survival in chronic lymphocytic leukemia. N Engl J Med. 2000;343:
+1910-1916.
+17. Zenz T, Eichhorst B, Busch R, et al. TP53 mutation and survival in
+chronic lymphocytic leukemia. J Clin Oncol. 2010;28:4473-4479.
+18. Ahn IE, Farooqui MZH, Tian X, et al. Depth and durability of response to
+ibrutinib in CLL: 5-year follow-up of a phase 2 study. Blood. 2018;131:
+2357-2366.
+19. Hallek M, Fischer K, Fingerle-Rowson G, et al. Addition of rituximab to
+ﬂudarabine and cyclophosphamide in patients with chronic lymphocytic leukemia: a randomised, open-label, phase III trial. Lancet.
+2010;376:1164-1174.
+20. O’Brien S, Furman RR, Coutre S, et al. Single-agent ibrutinib in
+treatment-naive and relapsed/refractory chronic lymphocytic leukemia: a 5-year experience. Blood. 2018;131:1910-1919.
+21. Fischer K, Al-Sawaf O, Bahlo J, et al. Venetoclax and obinutuzumab in
+patients with CLL and coexisting conditions. N Engl J Med. 2019;380:
+2225-2236.
+
+32
+
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+22. Wang L, Lawrence MS, Wan Y, et al. SF3B1 and other novel cancer genes
+in chronic lymphocytic leukemia. N Engl J Med. 2011;365:2497-2506.
+23. Bretones G, Alvarez MG, Arango JR, et al. Altered patterns of global
+protein synthesis and translational ﬁdelity in RPS15-mutated chronic
+lymphocytic leukemia. Blood. 2018;132:2375-2388.
+24. Stilgenbauer S, Schnaiter A, Paschka P, et al. Gene mutations and
+treatment outcome in chronic lymphocytic leukemia: results from the
+CLL8 trial. Blood. 2014;123(21):3247-3254.
+25. Villamor N, Conde L, Martinez-Trillos A, et al. NOTCH1 mutations
+identify a genetic subgroup of chronic lymphocytic leukemia patients
+with high risk of transformation and poor outcome. Leukemia.
+2013;27:1100-1106.
+26. Herling CD, Klaumunzer M, Rocha CK, et al. Complex karyotypes and
+KRAS and POT1 mutations impact outcome in CLL after chlorambucilbased chemotherapy or chemoimmunotherapy. Blood. 2016;128:395404.
+27. Baliakas P, Jeromin S, Iskas M, et al. Cytogenetic complexity in chronic
+lymphocytic leukemia: deﬁnitions, associations and clinical impact.
+Blood. 2019;133:1205-1216.
+28. Landau DA, Carter SL, Stojanov P, et al. Evolution and impact of subclonal mutations in chronic lymphocytic leukemia. Cell. 2013;152:714726.
+29. Damle RN, Wasil T, Fais F, et al. Ig V gene mutation status and CD38
+expression as novel prognostic indicators in chronic lymphocytic leukemia. Blood. 1999;94:1840-1847.
+30. Hamblin TJ, Orchard JA, Ibbotson RE, et al. CD38 expression and
+immunoglobulin variable region mutations are independent prognostic
+variables in chronic lymphocytic leukemia, but CD38 expression may
+vary during the course of the disease. Blood. 2002;99:1023-1029.
+31. Rossi D, Rasi S, Spina V, et al. Integrated mutational and cytogenetic
+analysis identiﬁes new prognostic subgroups in chronic lymphocytic
+leukemia. Blood. 2013;121:1403-1412.
+32. Delgado J, Doubek M, Baumann T, et al. Chronic lymphocytic leukemia:
+a prognostic model comprising only two biomarkers (IGHV mutational
+status and FISH cytogenetics) separates patients with different
+outcome and simpliﬁes the CLL-IPI. Am J Hematol. 2017;92:375-380.
+33. Molica S, Giannarelli D, Mirabelli R, et al. Chronic lymphocytic leukemia
+international prognostic index (CLL-IPI) in patients receiving chemoimmuno or targeted therapy: a systematic review and meta-analysis.
+Ann Hematol. 2018;97:2005-2008.
+34. da Cunha-Bang C, Christiansen I, Niemann CU. The CLL-IPI applied in a
+population-based cohort. Blood. 2016;128:2181-2183.
+35. Dighiero G, Maloum K, Desablens B, et al. Chlorambucil in indolent
+chronic lymphocytic leukemia. French Cooperative Group on Chronic
+Lymphocytic Leukemia. N Engl J Med. 1998;338:1506-1514.
+36. Hoechstetter MA, Busch R, Eichhorst B, et al. Early, risk-adapted
+treatment with ﬂudarabine in Binet stage A chronic lymphocytic leukemia patients: results of the CLL1 trial of the German CLL study group.
+Leukemia. 2017;31:2833-2837.
+37. Shanafelt T, Wang V, Kay N, et al. Ibrutinib-rituximab or chemoimmunotherapy for chronic lymphocytic leukemia. N Engl J Med.
+2019;381:432-443.
+38. Woyach JA, Ruppert AS, Heerema NA, et al. Ibrutinib regimens versus
+chemoimmunotherapy in older patients with untreated CLL. N Engl J
+Med. 2018;379:2517-2528.
+39. Moreno C, Greil R, Demirkan F, et al. Ibrutinib plus obinutuzumab
+versus chlorambucil plus obinutuzumab in ﬁrst-line treatment of
+chronic lymphocytic leukaemia (iLLUMINATE): a multicentre, randomised, open-label, phase 3 trial. Lancet Oncol. 2019;20:43-56.
+40. Sharman JP, Egyed M, Jurczak W, et al. Acalabrutinib with or without
+obinutuzumab versus chlorambucil and obinutuzmab for treatmentnaive chronic lymphocytic leukaemia (ELEVATE TN): a randomised,
+controlled, phase 3 trial. Lancet. 2020;395:1278-1291.
+41. Burger JA, Sivina M, Jain N, et al. Randomized trial of ibrutinib vs
+ibrutinib plus rituximab in patients with chronic lymphocytic leukemia.
+Blood. 2019;133:1011-1019.
+42. Shanafelt TD, Wang XV, Kay NE, et al. Ibrutinib-rituximab or chemoimmunotherapy for chronic lymphocytic leukemia. N Engl J Med.
+2019;381:432-443.
+
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+B. Eichhorst et al.
+
+Annals of Oncology
+
+43. Al-Sawaf O, Zhang C, Tandon M, et al. Venetoclax plus obinutuzumab
+versus chlorambucil plus obinutuzumab for previously untreated
+chronic lymphocytic leukaemia (CLL14): follow-up results from a
+multicentre, open-label, randomised, phase 3 trial. Lancet Oncol.
+2020;21:1188-1200.
+44. Fischer K, Bahlo J, Fink AM, et al. Long-term remissions after FCR
+chemoimmunotherapy in previously untreated patients with CLL:
+updated results of the CLL8 trial. Blood. 2016;127:208-215.
+45. Thompson PA, Tam CS, O’Brien SM, et al. Fludarabine, cyclophosphamide, and rituximab treatment achieves long-term disease-free survival in IGHV-mutated chronic lymphocytic leukemia. Blood. 2016;127:
+303-309.
+46. Gribben JG, Bosch F, Cymbalista F, et al. Optimising outcomes for
+patients with chronic lymphocytic leukaemia on ibrutinib therapy:
+European recommendations for clinical practice. Br J Haematol.
+2018;180:666-679.
+47. de Weerdt I, Koopmans SM, Kater AP, et al. Incidence and management of toxicity associated with ibrutinib and idelalisib: a practical
+approach. Haematologica. 2017;102:1629-1639.
+48. Eichhorst B, Fink AM, Bahlo J, et al. First-line chemoimmunotherapy
+with bendamustine and rituximab versus ﬂudarabine, cyclophosphamide, and rituximab in patients with advanced chronic lymphocytic
+leukaemia (CLL10): an international, open-label, randomised, phase 3,
+non-inferiority trial. Lancet Oncol. 2016;17:928-942.
+49. Goede V, Fischer K, Busch R, et al. Obinutuzumab plus chlorambucil in
+patients with CLL and coexisting conditions. N Engl J Med. 2014;370:
+1101-1110.
+50. Goede V, Fischer K, Engelke A, et al. Obinutuzumab as frontline
+treatment of chronic lymphocytic leukemia: updated results of the
+CLL11 study. Leukemia. 2015;29:1602-1604.
+51. Byrd JC, Wierda WG, Schuh A, et al. Acalabrutinib monotherapy in
+patients with relapsed/refractory chronic lymphocytic leukemia:
+updated phase 2 results. Blood. 2020;135:1204-1213.
+52. Tam CS, Trotman J, Opat S, et al. Phase 1 study of the selective BTK
+inhibitor zanubrutinib in B-cell malignancies and safety and efﬁcacy
+evaluation in CLL. Blood. 2019;134:851-859.
+53. Fornecker LM, Aurran-Schleinitz T, Michallet AS, et al. Salvage outcomes in patients with ﬁrst relapse after ﬂudarabine, cyclophosphamide, and rituximab for chronic lymphocytic leukemia: the French
+intergroup experience. Am J Hematol. 2015;90:511-514.
+54. Seymour JF, Kipps TJ, Eichhorst B, et al. Venetoclax-rituximab in
+relapsed or refractory chronic lymphocytic leukemia. N Engl J Med.
+2018;378:1107-1120.
+55. Byrd JC, Brown JR, O’Brien S, et al. Ibrutinib versus ofatumumab in
+previously treated chronic lymphoid leukemia. N Engl J Med. 2014;371:
+213-223.
+56. Byrd JC, Hillmen P, O’Brien S, et al. Long-term follow-up of the
+RESONATE phase 3 trial of ibrutinib versus ofatumumab. Blood.
+2019;133:2031-2042.
+57. Ghia P, Pluta A, Wach M, et al. ASCEND: Phase III, randomized trial of
+acalabrutinib versus idelalisib plus rituximab or bendamustine plus
+rituximab in relapsed or refractory chronic lymphocytic leukemia. J Clin
+Oncol. 2020;38:2849-2861.
+58. Furman RR, Sharman JP, Coutre SE, et al. Idelalisib and rituximab in
+relapsed chronic lymphocytic leukemia. N Engl J Med. 2014;370:997-1007.
+59. Jones JA, Mato AR, Wierda WG, et al. Venetoclax for chronic lymphocytic leukaemia progressing after ibrutinib: an interim analysis of
+a multicentre, open-label, phase 2 trial. Lancet Oncol. 2018;19:6575.
+60. Coutre S, Choi M, Furman RR, et al. Venetoclax for patients with
+chronic lymphocytic leukemia who progressed during or after idelalisib
+therapy. Blood. 2018;131:1704-1711.
+61. Mato AR, Hill BT, Lamanna N, et al. Optimal sequencing of ibrutinib,
+idelalisib, and venetoclax in chronic lymphocytic leukemia: results
+from a multicenter study of 683 patients. Ann Oncol. 2017;28:10501056.
+62. Anderson MA, Tam C, Lew TE, et al. Clinicopathological features and
+outcomes of progression of CLL on the BCL2 inhibitor venetoclax.
+Blood. 2017;129:3362-3370.
+
+Volume 32
+
+-
+
+Issue 1
+
+-
+
+2021
+
+63. Brion A, Mahe B, Kolb B, et al. Autologous transplantation in CLL patients
+with B and C Binet stages: ﬁnal results of the prospective randomized
+GOELAMS LLC 98 trial. Bone Marrow Transplant. 2012;47:542-548.
+64. Dreger P, Ghia P, Schetelig J, et al. High-risk chronic lymphocytic leukemia in the era of pathway inhibitors: integrating molecular and
+cellular therapies. Blood. 2018;132:892-902.
+65. Sorror ML, Maris MB, Storb R, et al. Hematopoietic cell transplantation
+(HCT)-speciﬁc comorbidity index: a new tool for risk assessment before
+allogeneic HCT. Blood. 2005;106:2912-2919.
+66. Ghielmini M, Vitolo U, Kimby E, et al. ESMO Guidelines consensus
+conference on malignant lymphoma 2011 part 1: diffuse large B-cell
+lymphoma (DLBCL), follicular lymphoma (FL) and chronic lymphocytic
+leukemia (CLL). Ann Oncol. 2013;24:561-576.
+67. Rossignol J, Michallet AS, Oberic L, et al. Rituximab-cyclophosphamidedexamethasone combination in the management of autoimmune
+cytopenias associated with chronic lymphocytic leukemia. Leukemia.
+2011;25:473-478.
+68. Quinquenel A, Willekens C, Dupuis J, et al. Bendamustine and rituximab combination in the management of chronic lymphocytic
+leukemia-associated autoimmune hemolytic anemia: a multicentric
+retrospective study of the French CLL intergroup (GCFLLC/MW and
+GOELAMS). Am J Hematol. 2015;90:204-207.
+69. Quinquenel A, Godet S, Dartigeas C, et al. Ibrutinib and idelalisib in the
+management of CLL-associated autoimmune cytopenias: a study from
+the FILO group. Am J Hematol. 2019;94:E183-E185.
+70. Raanani P, Gafter-Gvili A, Paul M, et al. Immunoglobulin prophylaxis in
+chronic lymphocytic leukemia and multiple myeloma: systematic review and meta-analysis. Leuk Lymphoma. 2009;50:764-772.
+71. Ghez D, Calleja A, Protin C, et al. Early-onset invasive aspergillosis and
+other fungal infections in patients treated with ibrutinib. Blood.
+2018;131:1955-1959.
+72. Andersen MA, Moser CE, Lundgren J, et al. Epidemiology of bloodstream infections in patients with chronic lymphocytic leukemia: a
+longitudinal nation-wide cohort study. Leukemia. 2019;33:662-670.
+73. Moreton P, Kennedy B, Lucas G, et al. Eradication of minimal residual
+disease in B-cell chronic lymphocytic leukemia after alemtuzumab therapy
+is associated with prolonged survival. J Clin Oncol. 2005;23:2971-2979.
+74. Bottcher S, Ritgen M, Fischer K, et al. Minimal residual disease
+quantiﬁcation is an independent predictor of progression-free and
+overall survival in chronic lymphocytic leukemia: a multivariate analysis
+from the randomized GCLLSG CLL8 trial. J Clin Oncol. 2012;30:980-988.
+75. Kater AP, Seymour JF, Hillmen P, et al. Fixed duration of venetoclaxrituximab in relapsed/refractory chronic lymphocytic leukemia eradicates minimal residual disease and prolongs survival: Post-treatment
+follow-up of the MURANO phase III study. J Clin Oncol. 2019;37:269-277.
+76. Cramer P, von Tresckow J, Bahlo J, et al. Bendamustine followed
+by obinutuzumab and venetoclax in chronic lymphocytic leukaemia
+(CLL2-BAG): primary endpoint analysis of a multicentre, open-label,
+phase 2 trial. Lancet Oncol. 2018;19:1215-1228.
+77. Hillmen P, Rawstron AC, Brock K, et al. Ibrutinib plus venetoclax in
+relapsed/refractory chronic lymphocytic leukemia: the CLARITY study.
+J Clin Oncol. 2019;37:2722-2729.
+78. Rossi D, Spina V, Gaidano G. Biology and treatment of Richter
+syndrome. Blood. 2018;131:2761-2772.
+79. Cwynarski K, van Biezen A, de Wreede L, et al. Autologous and allogeneic stem-cell transplantation for transformed chronic lymphocytic
+leukemia (Richter’s syndrome): A retrospective analysis from the
+chronic lymphocytic leukemia subcommittee of the chronic leukemia
+working party and lymphoma working party of the European Group
+for Blood and Marrow Transplantation. J Clin Oncol. 2012;30:22112217.
+80. Dykewicz CA. Summary of the Guidelines for Preventing Opportunistic
+Infections among Hematopoietic Stem Cell Transplant Recipients. Clin
+Infect Dis. 2001;33:139-144 (Adapted from: Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards for infectious diseases. Clin
+Infect Dis. 1994;18:421).
+81. Pﬂug N, Bahlo J, Shanafelt TD, et al. Development of a comprehensive
+prognostic index for patients with chronic lymphocytic leukemia.
+Blood. 2014;0124:49-62.
+
+https://doi.org/10.1016/j.annonc.2020.09.019
+
+33
+
+

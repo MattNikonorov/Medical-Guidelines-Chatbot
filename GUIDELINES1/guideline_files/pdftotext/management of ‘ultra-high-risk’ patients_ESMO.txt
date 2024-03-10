@@ -1,0 +1,1641 @@
+Annals of Oncology 29: 1687–1700, 2018
+doi:10.1093/annonc/mdy167
+Published online 19 June 2018
+
+SPECIAL ARTICLE
+
+ESMO Consensus Conference on malignant
+lymphoma: management of ‘ultra-high-risk’ patients
+M. Hutchings1*, M. Ladetto2, C. Buske3, P. de Nully Brown1, A. J. M. Ferreri4, M. Pfreundschuh5†,
+N. Schmitz6, A. Sureda Balari7, G. van Imhoff8, J. Walewski9 & the ESMO Lymphoma Consensus
+Conference Panel Members‡
+1
+
+Department of Hematology, Rigshospitalet, Copenhagen, Denmark; 2Hematology Division, Azienda Ospedaliera Santi Antonio e Biagio e Cesare Arrigo,
+Alessandria, Italy; 3Comprehensive Cancer Center Ulm and Department of Internal Medicine III, Institute of Experimental Cancer Research University Hospital, Ulm,
+Germany; 4Department of Onco-Hematology Medicine, Unit of Lymphoid Malignancies, IRCCS San Raffaele Scientiﬁc Institute, Milan, Italy; 5Innere Medizin I,
+University Klinik des Saarlandes, Hamburg; 6Department of Hematology, Oncology and Stem Cell Transplantation, Asklepios Klinik St. Georg, Hamburg, Germany;
+7
+Servei d’Hematologia, Institut Català d’Oncologia – Hospital Duran i Reynals, Barcelona, Spain; 8Department of Hematology, University Medical Center Groningen,
+University of Groningen, Groningen, The Netherlands; 9Department of Lymphoid Malignancies, Maria Sklodowska-Curie Institute – Oncology Center, Warsaw, Poland
+*Correspondence to: Dr Martin Hutchings, ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, 6900 Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+†
+
+Deceased.
+
+‡
+
+See appendix for members of the ESMO Lymphoma Consensus Conference.
+
+The European Society for Medical Oncology (ESMO) consensus conference on malignant lymphoma was held on 20 June 2015 in
+Lugano, Switzerland, and included a multidisciplinary panel of 25 leading experts. The aim of the conference was to develop
+recommendations on critical subjects difficult to consider in detail in the ESMO Clinical Practice Guidelines. The following areas
+were identified: (1) the elderly patient, (2) prognostic factors suitable for clinical use and (3) the ‘ultra-high-risk’ group. Before the
+conference, the expert panel was divided into three working groups; each group focused on one of these areas in order to address
+clinically relevant questions relating to that topic. All relevant scientific literature, as identified by the experts, was reviewed in
+advance. During the consensus conference, each working group developed recommendations to address each of the questions
+devised by their group. These recommendations were then presented to the entire multidisciplinary panel and a consensus was
+reached. This manuscript presents recommendations regarding the management of the following ‘ultra-high-risk’ situations:
+(1) early central nervous system relapse of diffuse large B-cell lymphoma, (2) primary refractory Hodgkin lymphoma and
+(3) plasmablastic lymphoma. Results, including a summary of evidence supporting each recommendation, are detailed in
+this manuscript. All expert panel members approved this final article.
+Key words: lymphoma, consensus, high-risk, aggressive, primary resistance, relapse
+
+Introduction
+Despite the high chemosensitivity of aggressive B-cell lymphomas, a large proportion of patients still respond poorly to therapy
+and eventually die from their disease. A number of clinical and
+pathological factors define groups of patients who are at very
+high risk of such treatment failure. For these ‘ultra-high-risk’
+patients, there is no international consensus regarding the optimal management approach.
+In 2015, the European Society for Medical Oncology (ESMO)
+held a consensus conference on malignant lymphoma in order to
+
+develop recommendations on critical subjects that were difficult
+to consider in detail in the ESMO Clinical Practice Guidelines
+(CPGs). In this consensus conference, one of the working groups
+focussed on ultra-high-risk patients. As such, the objectives of
+this working group were: (1) to identify a number of ultra-highrisk patient categories where guidelines were lacking and a consensus on management was likely to be reached; (2) to critically
+review the available literature describing the management of
+these patient groups; (3) to provide recommendations on the
+management of ultra-high-risk patients in the context of clinical
+
+C The Author(s) 2018. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+V
+
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+Special article
+
+Annals of Oncology
+
+Table 1. Levels of evidence and grades of recommendationa
+Levels of evidence
+I
+Evidence from at least one large randomised, controlled trial of good methodological quality (low potential for bias) or meta-analyses of wellconducted randomised trials without heterogeneity
+II
+Small randomised trials or large randomised trials with a suspicion of bias (lower methodological quality) or meta-analyses of such trials or of trials
+with demonstrated heterogeneity
+III
+Prospective cohort studies
+IV Retrospective cohort studies or case–control studies
+V
+Studies without control group, case reports, experts’ opinions
+Grades of recommendation
+A
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt, strongly recommended
+B
+Strong or moderate evidence for efﬁcacy but with a limited clinical beneﬁt, generally recommended
+C
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh the risk or the disadvantages (adverse events, costs, . . .), optional
+D
+Moderate evidence against efﬁcacy or for adverse outcome, generally not recommended
+E
+Strong evidence against efﬁcacy or for adverse outcome, never recommended
+a
+
+By permission of the Infectious Diseases Society of America-United States Public Health Service Grading System [2].
+
+research and routine practice. Here we describe the recommendations developed and provide a summary of evidence supporting each recommendation.
+
+Methods
+A consensus panel, comprising a multidisciplinary group of 25
+experts in the management of lymphoma, was convened by
+ESMO. Three consensus conference chairs (C. Buske, M. Ladetto
+and M. Hutchings) were also appointed. The consensus panel
+was divided into three working groups, each of which was
+assigned a specific subject area and a working group chair as
+follows:
+1. The elderly patient (Chair: C. Buske)
+2. Prognostic factors suitable for clinical use (Chair: M. Ladetto)
+3. The ‘ultra-high-risk’ group (Chair: M. Hutchings)
+The consensus conference was held on 20 June 2015 in
+Lugano, Switzerland. Before this consensus conference, three to
+four clinically-relevant questions were identified for each subject
+area. For working group 3, the following three areas relating to
+the management of ‘ultra-high-risk’ patients with malignant
+lymphoma were identified for discussion:
+1. How to predict, prevent and treat early central nervous system (CNS) relapse after ﬁrst-line treatment of diffuse large
+B-cell lymphoma (DLBCL)
+2. Management of primary resistant Hodgkin lymphoma (HL)
+3. Management of plasmablastic lymphoma (PBL)
+The selection of these three areas was a result of thorough
+discussions in the working group, where we agreed that these
+were areas of particular clinical importance with a lack of clear
+consensus. It is acknowledged that this selection does not cover
+all important high-risk situations in lymphoma management.
+We considered including the management of double-hit DLBCL,
+but eventually this topic was omitted since (1) this would require
+a full paper of its own, and (2) it is already covered by a number
+of separate guidelines, including the ESMO CPG for DLBCL [1].
+
+1688 | Hutchings et al.
+
+A literature review was conducted by each working group
+before the consensus conference, with each group responsible
+for compiling a summary of relevant information required to
+develop recommendations relating to each of their questions at
+the conference. No systematic literature search was undertaken. During the conference, in parallel sessions, the three
+working groups discussed and agreed on recommendations
+relating to each of their assigned questions. The level of evidence and strength of each recommendation was also noted,
+which were defined based on an adapted version of the
+‘Infectious Diseases Society of America-United States Public
+Health Service Grading System’, as presented in Table 1 [2].
+Recommendations from each group were then presented to the
+entire panel of experts, where they were discussed and modified
+as required. Finally, a vote was conducted to determine the level
+of agreement amongst the expert panel for each of the recommendations. Panel members were allowed to abstain from
+voting.
+Results from the section of the consensus conference dedicated
+to the management of ‘ultra-high-risk’ patients with malignant
+lymphoma, together with a summary of evidence supporting
+each recommendation, are detailed in this article, and a summary
+of these recommendations is included in Table 2. However, these
+additional recommendations should be read in conjunction with
+the already-published ESMO CPGs for the diagnosis, treatment
+and follow-up of malignant lymphomas [1, 3–8].
+
+Results
+1. How to predict, prevent and treat CNS relapse of
+systemic DLBCL
+Risk of CNS disease. Estimation of the individual patient’s risk of
+CNS disease [defined as progression during or recurrence after
+first-line treatment with involvement of the brain parenchyma or
+cerebrospinal fluid (CSF)] is largely based on reports from single
+institutions [9, 10] and cooperative groups [11]. During the last
+
+Volume 29 | Issue 8 | 2018
+
+Special article
+
+Annals of Oncology
+Table 2. Summary of recommendations
+Guidelines statement
+1. How to predict, prevent and treat early CNS relapse after ﬁrst-line treatment of DLBCL
+Recommendations:
+1.1 IPI parameters (age >60 years, high LDH levels, poor PS, advanced disease stage and more than one extranodal site) are risk factors for early CNS relapse following ﬁrst-line treatment of DLBCL, with a direct
+relationship between the number of unfavourable features and the CNS risk. The involvement of the testes,
+kidneys, adrenals, breast, bone marrow and bone has also been reported to increase the risk of CNS disease.
+1.2 Patients with DLBCL considered as high risk for CNS relapse should be assessed by brain MRI and CSF
+assessment by conventional cytology examination and ﬂow cytometry
+1.3 There is little or no role for i.t. chemotherapy for patients with DLBCL considered as high risk for CNS relapse.
+i.v. prophylaxis is an option for high-risk patients without evidence of CNS involvement, even though the
+level of supporting evidence is low. Patients with MRI or CSF evidence of CNS involvement at presentation
+should receive a combination of anti-lymphoma drugs with good CNS bioavailability, aimed at controlling
+both CNS and systemic disease, preferably within a clinical trial
+2. Management of primary resistant HL
+Recommendations:
+2.1 For patients with primary resistant HL, there is no evidence to suggest a beneﬁt from treating any differently
+to other patients with relapsed Hodgkin lymphoma. As such, these patients should be treated the same as
+other patients with relapsing HL, preferably as part of a clinical trial
+2.2 The use of BV and CPIs seem to be particularly beneﬁcial for patients with primary resistant HL who are less
+likely to beneﬁt from conventional therapies. Consolidation with BV after HDT and ASCT is recommended
+for patients with primary resistant HL
+2.3 AlloSCT has a limited role for patients with primary resistant HL but can be considered in selected patients
+with a good, durable remission and a suitable donor
+3. Management of PBL
+Recommendations:
+3.1 For HIV-negative patients with suspected PBL, diagnostic assessment should include an IHC panel of CD38,
+CD20, PAX5, CD138, EBER, CD30, MUM-1, Kappa-lambda, HHV8 and ALK
+3.2 HIV-negative patients with PBL should be treated the same as other high-risk subtypes of DLBCL, although
+rituximab should not be used
+3.3 Although bortezomib can be safely combined with CHOP, this has not led to improved outcomes and
+further studies are required
+3.4 HD-ASCT may play a role in the management of PBL but further studies are required, since available data
+are from casuistic reports of selected patients
+
+LoE
+
+GoR
+
+Consensus
+
+II
+
+B
+
+100% yes (18 voters)
+
+III
+
+C
+
+100% yes (18 voters)
+
+III
+
+C
+
+100% yes (18 voters)
+
+III
+
+D
+
+100% yes (18 voters)
+
+II
+
+B
+
+No vote obtained
+
+IV
+
+D
+
+100% yes (18 voters)
+
+IV
+
+C
+
+100% yes (18 voters)
+
+IV
+
+C
+
+100% yes (18 voters)
+
+V
+
+C
+
+100% yes (18 voters)
+
+IV
+
+D
+
+100% yes (18 voters)
+
+alloSCT, allogenic stem cell transplant; ASCT, autologous stem cell transplantation; BV, brentuximab vedotin; CHOP, cyclophosphamide/doxorubicin/vincristine/prednisone; CNS, central nervous system; CPI, checkpoint inhibitor; CSF, cerebrospinal ﬂuid; DLBCL, diffuse large B-cell lymphoma; EBER, Epstein–Barr
+virus-encoded RNA; GoR, grade of recommendation; HD-ASCT, high-dose autologous stem cell transplantation; HDT, high-dose therapy; HIV, human immunodeﬁciency virus; HL, Hodgkin lymphoma; IHC, immunohistochemistry; IPI, International Prognostic Index; i.t., intrathecal; i.v., intravenous; LDH, lactate
+dehydrogenase; LoE, level of evidence; MRI, magnetic resonance imaging; PBL, plasmablastic lymphoma; PS, performance status.
+
+decade, a number of investigators either conducted post-hoc
+analyses of CNS relapses occurring in patients with DLBCL who
+had been treated in prospective randomised studies [12–14], or
+analyses carried out on other cohorts of patients with aggressive
+B-cell lymphoma – most commonly DLBCL [15–21]. These studies varied in several ways, including the varying definitions used
+for high-risk CNS disease, differing imaging technologies, differing means of assessing CSF involvement, and differing recommendations for CNS relapse prophylaxis. These differences
+influenced not only the percentages of patients diagnosed with
+CNS relapse, but also the identification of CNS risk factors and
+the analyses of the value of intrathecal (i.t.) prophylaxis.
+Table 3 summarises findings of larger studies (>200 patients)
+in patients with aggressive B-cell lymphoma. Risk factors listed
+
+Volume 29 | Issue 8 | 2018
+
+are those identified via multivariate analyses of patients treated
+with R-CHOP (rituximab/cyclophosphamide/doxorubicin/vincristine/prednisone). Collectively, these data demonstrate that
+secondary CNS involvement is a relatively rare complication of
+DLBCL, occurring in 2.3%–8.4% of patients. The relatively large
+variation in frequencies of CNS disease reported by different
+authors most likely reflect different patient characteristics, particularly differences in age and distribution of International
+Prognostic Index (IPI) factors. The randomised RICOVER-60
+trial demonstrated that the addition of rituximab significantly
+reduced the incidence of CNS disease [12]; nevertheless, the effect
+of rituximab appears to be moderate, and the problem presented
+by CNS disease remains unresolved. The risk factor analyses presented in Table 3, as well as those from other smaller studies from
+
+doi:10.1093/annonc/mdy167 | 1689
+
+Special article
+
+Annals of Oncology
+
+Table 3. Risk factors for CNS disease in patients with DLBCLa using (R)-CHOP and variants
+Study
+
+Patientsb
+
+IPI
+
+"LDHc
+
+>1 ENSc
+
+Advanced
+stagec
+
+Extranodal sitec
+
+Otherc
+
+Tomita et al. [21]
+
+82/1221 (6.7%)
+
+NS
+
+NS
+
+NS
+
+NS
+
+Breast
+Adrenal
+Bone
+
+Schmitz et al. [14]
+
+14/620 (2.3%)
+
+NA
+
+3.8
+
+NS
+
+5.4
+
+NS
+
+R: 0.3, not in high-risk
+patients
+
+Boehme et al. [12]
+
+22/608 (3.6%)
+
+NR
+
+S
+
+S
+
+NS
+
+NR
+
+ECOG PS >1
+
+Tai et al. [18]
+
+19/320 (6.0%)
+
+NS
+
+NS
+
+NS
+
+NS
+
+Kidney
+Testis
+Breast
+
+20.1
+6.7
+6.1
+
+Villa et al. [19]
+
+19/309 (6.1%)
+
+NS
+
+NS
+
+NS
+
+Stage IV 8.0
+
+Kidney
+
+3.3
+
+Shimazu et al. [17]
+
+20/238 (8.4%)
+
+NR
+
+2.4
+
+2.0
+
+NS
+
+Marrow
+
+2.1
+
+Age >60 : 2.5
+
+Guirguis et al. [16]
+
+8/214 (3.7%)
+
+NS
+
+NS
+
+NS
+
+NS
+
+Testis
+
+33.5
+
+None
+
+Yamamoto et al. [20]
+
+81/203 (3.9%)
+
+NS
+
+NS
+
+NS
+
+NS
+
+NS
+
+Chihara et al. [15]
+
+9/203 (4.4%)
+
+NS
+
+NS
+
+Any ENS 2.9
+
+NS
+
+NS
+
+Bulk > 7.5 cm: 3.34
+ALC <1.0  109/L: 2.38
+
+Feugier et al. [13]
+
+11/202 (5.4%)
+
+S
+
+S
+
+NS
+
+NS
+
+NS
+
+ECOG > 1
+
+Ferreri et al. [107]
+
+10/200 (5%)
+
+S
+
+S
+
+NS
+
+S
+
+Testis, breast, kidney, adrenal glands,
+paranasal sinus
+
+Schmitz et al. [22]
+
+71/1597 (4.4%)
+
+S
+
+S
+
+NS (P ¼ 0.057)
+
+S
+
+Kidney, adrenal glands, bone marrow,
+testes, pericardium, orbit
+
+10.5
+4.6
+2.0
+
+Age >60 : 2.1
+
+ECOG PS >1 : 2.0
+non-CR 3.3
+
+a
+
+Studies by Schmitz et al. and by Boehme et al. contain approximately 15% of patients with other aggressive B-cell lymphomas (blastoid mantle cell
+lymphoma, follicular lymphoma grade 3).
+b
+Patients with CNS disease/patients on study.
+c
+Numbers are hazard ratios reported from multivariate analyses.
+ALC, absolute lymphocyte count; CHOP, cyclophosphamide/doxorubicin/vincristine/prednisone; CNS, central nervous system; CR, complete response;
+DLBCL, diffuse large B-cell lymphoma; ECOG PS, Eastern Cooperative Oncology Group performance status; ENS, extranodal site; IPI, International Prognostic
+Index; LDH, lactate dehydrogenase; N/A, not applicable; NR, not reported; NS, not signiﬁcant; R, rituximab; S, signiﬁcant.
+
+the rituximab and pre-rituximab eras, show that individual IPI factors [age >60 years, high lactate dehydrogenase (LDH) levels, poor
+performance status (PS), advanced disease stage and more than
+one extranodal site], and various combinations thereof, have a significant impact on the risk of CNS disease. In addition, involvements of the testes, kidneys, adrenals, breast, bone marrow and
+bone have been reported to increase the risk of CNS disease.
+A large study of 2196 patients treated with R-CHOP or
+R-CHOEP (rituximab/cyclophosphamide/doxorubicin/vincristine/etoposide/prednisone) in prospective trials conducted by
+the German High-Grade non-Hodgkin Lymphoma Study Group
+(Deutsche Studiengruppe für Hochmaligne Non-HodgkinLymphome; DSHNHL) [14] showed that the presence of any of
+the five IPI factors and involvement of the kidneys/adrenals
+increased the risk of CNS disease. Still, even the 6% of patients
+with four to six risk factors had a 2-year rate of CNS disease of no
+more than 10%. This model was validated using an independent
+
+1690 | Hutchings et al.
+
+data set from British Columbia [22] and, more recently, in an
+international cohort of 1290 positron emission tomography
+(PET)-computed tomography (CT)-staged patients [23].
+Biological risk factors such as MYC translocation, double-hit
+lymphomas or the presence of certain adhesion molecules on
+lymphoma cells have more recently been associated with an
+increased risk for CNS disease [24–27].
+Prophylaxis of CNS disease. Traditionally, prophylaxis of CNS
+disease in DLBCL consists of i.t. injections of methotrexate
+(MTX), cytarabine (Ara-C), prednisone/prednisolone, or combinations thereof. However, i.t. chemotherapy does not reach
+measurable concentrations in the brain parenchyma, and thus
+the general concept of i.t. prophylaxis in patients with DLBCL is
+controversial. For patients treated with R-CHOP, there is increasing evidence from several recent studies (summarised in Table 4)
+that i.t. prophylaxis is not effective [28, 29]. Given the serious
+
+Volume 29 | Issue 8 | 2018
+
+Special article
+
+Annals of Oncology
+Table 4. Prophylaxis of CNS relapses in studies using (R)-CHOP and variants for treatment of DLBCL
+Study
+
+Number of patients
+
+Systemic/i.t. treatment
+
+Schmitz et al. [14]
+
+2196 (1576 w/o R, 620 w/ R) (R)-CHO(E)Pa
+i.t. MTX
+
+CNS prophylaxis
+
+CNS relapses (%)
+
+BM, testis, head, sinuses, orbits, oral cavity,
+tongue and salivary glands
+
+2.6% (all pts)
+
+Boehme et al. [12] 1222 (612 w/o R, 610 w/ R)
+
+(R)-CHOP
+i.t. MTX
+
+BM, testis, head, sinuses, orbits, oral cavity,
+tongue and salivary glands
+
+2.5% (w/o prophylaxis)
+4.4% (w/ prophylaxis)
+
+Kumar et al. [108]
+
+989 (all w/ R)
+
+R-CHOP
+i.t. MTX 6 Ara-C, i.v. MTX
+
+At the discretion of investigator
+
+2.1% (w/o prophylaxis)
+10.9% (w/ prophylaxis)
+
+Tai et al. [18]
+
+499 (179 w/o R, 320 w/ R)
+
+(R)-CHOP
+i.t. MTX
+
+>1 ENS, orbits, sinuses, breast, testis, bone,
+BM
+
+5% (w/o prophylaxis)
+11% (w/ prophylaxis)
+
+Tomita et al. [29]
+
+322 (all w/ R)
+
+R-CHOP
+i.t. MTX
+
+" LDH, bulk >10, PS  2, BM, nasal, bone,
+breast, skin, testis
+
+2.8% (w/o prophylaxis)
+7.5% (w/ prophylaxis)
+
+Arkenau et al. [28]
+
+259 (177 w/o R, 62 w/ R)
+
+(R)-CHOP
+(R)-PmitCEBO
+i.t. MTX 6 Ara-C
+
+BM, testis, sinuses, orbits, bone, blood
+
+1.1% (CI 0%–2.5%)
+2 pts w/o prophylaxis
+1 pt w/ prophylaxis
+
+Guirguis et al. [16]
+
+214 (all w/ R)
+
+R-CHOP
+" LDH, >1 ENS, testis, epidural, sinuses or
+i.t. MTX (25 pts), i.v. MTX (17 pts)
+skull
+
+2% (w/o prophylaxis)
+1.9% (w/ prophylaxis)
+
+Ferreri et al. [107]
+
+200 (all w/ R)
+
+R-CHOP
+i.v. MTX (33 pts)
+
+12% (w/o prophylaxis)
+0% (w/ i.v. MTX)
+
+Testis, breast, sinuses, orbits, nasopharynx
+Advanced stage þ " LDH
+
+a
+
+Includes patients treated with higher doses of cyclophosphamide, doxorubicin and etoposide and patients treated with dose-escalated sequential HDT
+and rituximab.
+Ara-C, cytarabine; BM, bone marrow; CHOP, cyclophosphamide/doxorubicin/vincristine/prednisone; CI, conﬁdence interval; CNS, central nervous system;
+DLBCL, diffuse large B-cell lymphoma; E, etoposide; ENS, extranodal site; HDT, high-dose therapy; i.t., intrathecal; i.v., intravenous; LDH, lactate dehydrogenase; MTX, methotrexate; NR, not reported; PS, performance status; pt, patient; R, rituximab; R-PMitCEBO, rituximab/prednisolone/mitoxantrone/cyclophosphamide/etoposide/bleomycin/vincristine; w/, with; w/o, without.
+
+toxicities (leukopenia, infections, mucositis) related to i.t. injections of cytotoxic drugs [30, 31], this practice should be restricted
+to very high-risk patients or abandoned altogether. The only exception may be for patients with involvement of the testes where
+i.t. prophylaxis should be administered in conjunction with specific systemic treatment and local radiotherapy (RT) [32]. For all
+other organs involved (bone marrow, bone, paranasal sinuses,
+breast, skin, etc.), the evidence supporting the use of i.t. prophylaxis is very scarce.
+The comparative efficacy of alternative strategies, such as systemic high-dose MTX (HD-MTX; >1.5 g/m2), in preventing
+CNS progression or relapse is currently undergoing clinical
+evaluation. The results of the French studies with (R)-ACVBP
+(rituximab/doxorubicin/cyclophosphamide/vindesine/bleomycin/prednisone) [33, 34] and phase II studies using one or two
+courses of HD-MTX in patients treated with R-CHOP [35, 36]
+indicate that this treatment is effective and should be the prophylactic therapy of choice in high-risk patients fit enough to tolerate
+the associated toxicities. For elderly patients, not only is the dose
+important but the duration of intravenous (i.v.) infusion as well.
+For these patients, the duration of HD-MTX infusion should not
+exceed 4 hours, in which case it is usually well tolerated [37, 38].
+In the ACVBP (doxorubicin/cyclophosphamide/vindesine/
+
+Volume 29 | Issue 8 | 2018
+
+bleomycin/prednisone) versus CHOP trial conducted by Tilly
+et al. [33], in patients between the ages of 61 and 69 years, there
+were significantly fewer isolated CNS relapses in the ACVBP arm,
+with two i.v. high-dose MTX (3 g/m2) infusions, than in the
+CHOP arm. However, this dose of MTX may be poorly tolerated
+in patients over the age of 70 years. According to the German
+High-Grade Lymphoma Study Group, a HD-MTX dose of
+1.5 g/m2, dose-adjusted according to creatinine clearance and
+given intravenously before the first and after the last R-CHOP, is
+well tolerated in patients above 70 years of age [39].
+Treatment of CNS disease. I.t. injections, whole brain RT and systemic administration of cytotoxic drugs not crossing the blood–
+brain barrier (BBB), have largely been ineffective in the treatment
+of secondary CNS lymphoma (SCNSL) [40, 41]. The inclusion of
+drugs which cross the BBB, such as HD-MTX and Ara-C, has produced encouraging results from studies of patients with primary
+CNS lymphomas [42, 43], resulting in measurable benefits and
+significantly longer survival. To date, virtually all other drugs
+known to cross the BBB (procarbazine, etoposide, ifosfamide,
+thiotepa, carmustine and others) have been used mostly in
+combination with MTX and/or Ara-C to further improve results
+[38, 44, 45]. As seen with MTX and Ara-C, most other drugs
+
+doi:10.1093/annonc/mdy167 | 1691
+
+Special article
+seem to also be most effective at high doses, and thus require
+autologous haematopoietic stem cell transplantation (HSCT).
+Consequently, the most recent and successful protocols to treat
+primary and SCNSL consist of complex treatment algorithms
+encompassing two or more courses of HD-MTX and/or Ara-C
+administered together with other BBB-crossing agents, followed
+by high-dose therapy (HDT) combining BBB-crossing agents
+such as carmustine, thiotepa, busulfan or etoposide, which can be
+dose-escalated if HSCT is conducted [38, 44, 46, 47]. The first
+prospective phase II study demonstrating the potential of this
+strategy was reported by Korfel et al. [44]. Patients up to 65 years
+of age received induction chemotherapy with HD-MTX, ifosfamide and dexamethasone followed by HD-Ara-C, thiotepa and
+dexamethasone. Patients who responded received consolidation
+HDT with carmustine, thiotepa etoposide and transplantation of
+autologous blood stem cells. Using this approach, the 2-year
+treatment failure rate was 49 6 19% and the 2-year overall survival (OS) rate was 63 6 19%. A further study reported by
+Doorduyn et al. in 2012 [46] is of particular interest because it
+was the first to report on the addition of rituximab to the cytotoxic agents. The role of rituximab in the treatment of primary
+CNS lymphoma is supported by a recently published international randomised trial which showed a significant improvement in
+response and survival rates with the addition of this monoclonal
+antibody (mAb) [48]. The most recent and largest phase II trial
+focusing on the treatment of patients with SCNSL was reported
+by Ferreri and colleagues [49]. In this trial, 38 patients with
+SCNSL were treated with a sequential combination of MTX-AraC-rituximab plus i.t. liposomal Ara-C followed by HD sequential
+chemotherapy with cyclophosphamide, Ara-C and VP-16, consolidated with carmustine-thiotepa-conditioned autologous
+stem cell transplantation (ASCT). Treatment was feasible, with a
+complete response (CR) rate of 63% and two-thirds of patients
+who received ASCT in CR were alive at 5 years. This represents
+clinically relevant therapeutic progress since none of the longterm survivors required whole-brain RT to achieve tumour remission. Moreover, the results of this trial advanced the field beyond previous studies, demonstrating that subgroups of patients
+older than 65 years with poor PS or concomitant extra-CNS recurrence have the same OS probability as younger and fit patients
+and those with isolated CNS relapse.
+A number of newer agents such as lenalidomide [50], ibrutinib
+[51] and immune checkpoint inhibitors (CPIs) [52] have shown
+activity in relapsed or refractory primary CNS lymphoma, but
+the role of these agents alone and in combination with chemotherapy in the prophylaxis and treatment of early CNS relapse is
+currently unknown.
+Recommendation 1.1: IPI parameters (age >60 years, high
+LDH levels, poor PS, advanced disease stage and more than one
+extranodal site) are risk factors for early CNS relapse following
+first-line treatment of DLBCL, with a direct relationship between
+the number of unfavourable features and the CNS risk. The involvement of the testes, kidneys, adrenals, breast, bone marrow
+and bone has also been reported to increase the risk of CNS
+disease.
+Level of evidence: II
+Strength of recommendation: B
+Consensus: 100% yes (18 voters)
+
+1692 | Hutchings et al.
+
+Annals of Oncology
+Recommendation 1.2: Patients with DLBCL considered as
+high risk for CNS relapse should be assessed by brain magnetic
+resonance imaging (MRI) and CSF assessment by conventional
+cytology examination and flow cytometry.
+Level of evidence: III
+Strength of recommendation: C
+Consensus: 100% yes (18 voters)
+Recommendation 1.3: There is little or no role for i.t. chemotherapy for patients with DLBCL considered as high risk for CNS
+relapse. i.v. prophylaxis is an option for high-risk patients without evidence of CNS involvement, even though the level of supporting evidence is low. Patients with MRI or CSF evidence of
+CNS involvement at presentation should receive a combination
+of anti-lymphoma drugs with good CNS bioavailability, aimed at
+controlling both CNS and systemic disease, preferably within a
+clinical trial.
+Level of evidence: III
+Strength of recommendation: C
+Consensus: 100% yes (18 voters)
+
+2. Management of primary resistant HL
+The majority of HL patients can be cured with risk-adapted treatment, including chemotherapy and RT [53]. Even when initially
+diagnosed with advanced-stage disease, 70% of these patients
+achieve long-term remission [54]. However, depending on initial
+risk factors and treatment, 10%–30% experience tumour progression or relapse. Of these patients, around 50% can be cured,
+providing that they are candidates for HDT and ASCT [55, 56].
+The median OS after ASCT failure is 2 years [57, 58]. A significantly poorer outcome is observed for patients with primary
+progressive HL or relapse within the first 12 months after initial
+therapy [59, 60]. HDT is considered the best available option for
+patients with primary refractory HL [61–64].
+Diagnosis and staging of patients with primary refractory HL.
+Primary refractory HL is defined either by progression at any time
+during first-line chemotherapy or RT, or by early relapse up to 3
+months after the end of treatment. It is generally recommended to
+confirm treatment failure and lymphoma subtype at the time of
+disease progression, but in cases where biopsy is not possible, persisting abnormalities on PET-CT scan with a Deauville score (DS)
+of 5 during or after therapy should be considered as suspicious of
+primary refractory disease [65]. Given the risk of false positive
+PET results, subsequent anti-lymphoma treatment should not be
+offered based on PET-CT results alone. In the absence of a positive
+biopsy and/or very clear clinical symptoms of progressive disease,
+patients should be monitored by repeat scans to confirm the presence of persistent disease, and even in case of persistent or progressive abnormalities, a biopsy is warranted.
+Second- and third-line salvage regimens. A number of available
+salvage chemotherapy regimens are available for the treatment of
+relapsed HL [66]. The majority of these are platinum-based or
+gemcitabine-based combinations and no prospective clinical trials indicate any clear benefit (efficacy or toxicity) of one regimen
+over another one [III, B]. The German Hodgkin Study Group
+conducted a large, randomised trial which showed no benefit
+
+Volume 29 | Issue 8 | 2018
+
+Annals of Oncology
+from intensification of a platinum-based salvage regimen before
+HDT [55]. Overall, it is recommended that 2–3 cycles of a salvage
+regimen are given before evaluating disease response and continuing with HDT and ASCT.
+For patients who fail HDT, or who are not candidates for HDT,
+a range of single-agent chemotherapy regimens have activity. Of
+cytostatic agents that are non-cross resistant to the conventional
+first- and second-line regimens, probably the most active is bendamustine, with single-agent response rates of approximately 50%
+but very limited durability of those responses [67].
+Several targeted agents, including mAbs, histone deacetylase
+inhibitors, phosphoinositide 3-kinase/Akt/mammalian target of
+rapamycin inhibitors, lenalidomide and proteasome inhibitors,
+have been investigated in HL. However, by far the most important advances in the targeted treatment of relapsed or refractory
+HL have been the introduction of brentuximab vedotin (BV) and
+the immune-CPIs. BV, an antibody-drug conjugate composed
+of an anti-CD30 antibody conjugated to the microtubuledisrupting agent monomethyl auristatin E, demonstrated high
+overall and CR rates in patients with relapsed/refractory HL after
+ASCT [68]. BV received both Food and Drug Administration
+(FDA) and European Medicines Agency (EMA) approval in 2011
+and 2012, respectively, for patients who relapse or progress after
+ASCT, and for those who are not candidates for ASCT and who
+do not respond to 2 lines of chemotherapy. And in 2015 and
+2016, the FDA and EMA approved the use of BV for posttransplant consolidation treatment of patients with HL at high
+risk of relapse or progression. Given its activity, BV could replace
+a conventional chemotherapy regimen early in the strategy of salvage therapy [III, B], but this possibility requires further evaluation. Preliminary studies of BV given in addition to
+conventional salvage regimens appear promising [69–72].
+More recently, the CPIs nivolumab and pembrolizumab,
+which are mAbs targeting the programmed cell death protein 1
+(PD-1), have demonstrated high activity and durable responses
+in the majority of patients with relapsed/refractory HL, including
+chemorefractory patients and those who have failed BV treatment
+[73, 74].
+Unlike conventional chemotherapy, and probably due to the
+completely novel mechanisms of action, both BV and CPIs lead
+to response durations which are apparently unrelated to the duration of response to prior chemotherapy treatment lines. This
+brings particular hope for patients with primary refractory disease, since so far this group has had a much lower likelihood of
+benefit from treatment than patients with longer duration of
+remission.
+The optimal sequence of BV and CPIs is currently not clear,
+but ongoing studies are directly comparing BV and CPIs. Even
+though they are only approved for use as single agents, the combination of CPIs with BV has demonstrated impressive activity as
+well as favourable toxicity in preliminary studies [75, 76].
+Evaluation of disease response before HDT and ASCT. Screening
+for response to salvage treatment is fundamental to patient care
+and should be carried out with PET-CT. Based on PET-guided
+evaluation, every effort should be made to increase the proportion of chemosensitive patients and to eventually achieve
+complete metabolic remission using combinations of non-crossresistant chemotherapy and/or novel drugs [71].
+
+Volume 29 | Issue 8 | 2018
+
+Special article
+ASCT for primary refractory HL. According to retrospective and
+prospective as well as randomised studies, HDT followed by ASCT
+can rescue 30%–80% of relapsed/refractory classical HL patients.
+Refractoriness to first-line chemotherapy is the strongest factor
+predicting a poor outcome after ASCT. Patients in this category
+were not included in randomised trials, and autografting resulted
+in durable progression-free survival (PFS) in 30%–40% – once
+again supporting the general concept of poorer outcome in chemorefractory patients compared with chemosensitive patients [IV, B].
+Several reports indicate that a dose-increased strategy, including double transplantation, is a valuable option in patients with
+high-risk relapsing/refractory HL, taking into account that definitions of high-risk status vary between studies. In 2008, the
+Groupe d’Etude des Lymphomes de l’Adulte (GELA) and the
+Société Française de Greffe de Moelle (SFGM) proposed a riskadapted strategy in relapsed HL based on the separation of
+patients into three prognostic groups [77]. Tandem ASCT results
+suggested a benefit for high-risk patients compared with previous
+reports of outcomes with single ASCT. Some patients achieved
+partial or complete remission with their second transplant, and
+overall outcomes for patients experiencing partial, complete or
+uncertain complete remission (defined by CT alone) did not differ significantly if the patients had received double transplantation [III, B] [77]. This approach has also been tested by other
+investigators with similar conclusions [78, 79].
+Consolidation therapy after ASCT. The prospective, randomised,
+placebo-controlled AETHERA trial demonstrated that early consolidation with BV after ASCT improves PFS in patients with HL
+at high risk of relapse or progression after ASCT [80]. More than
+50% of the patients in both groups in AETHERA were primary
+refractory HL patients [I, B]. The most recent update of this study
+showed a hazard ratio of 0.58 (i.e. a 42% reduction in the risk of a
+PFS event). Median PFS was not reached in the BV arm versus
+15.8 months in the placebo arm. Three-year PFS was 61% in the
+BV arm versus 43% in the placebo arm. Three years after randomisation of the last patient, PFS curves for both the BV and
+placebo arms had reached plateaus, indicating that the effect of
+BV consolidation is a lasting one and that this treatment may
+have the potential to eradicate viable residual disease. No difference in OS was observed, perhaps in part reflective of the fact that
+patients in the placebo arm who progressed were offered treatment in a different BV trial [81].
+Allogeneic stem cell transplantation (alloSCT) for refractory HL.
+The prognosis of patients who fail ASCT is poor. A joint
+European Group for Blood and Marrow Transplantation
+(EBMT) and Gruppo Italiano per il Trapianto di Midollo Osseo
+(GITMO) retrospective analysis of 462 patients who relapsed or
+progressed after ASCT showed a median time from ASCT to relapse of 7 months (range of 1–78 months) and a 5-year OS for the
+entire cohort of just 32% [82]. Clinical results from retrospective
+trials of alloSCT reported in the early nineties were disappointing,
+likely due to the inclusion of heavily pretreated patients who had
+received extended RT and were allografted in the presence of active disease after myeloablative conditioning with bone marrow
+stem cells. However, in the late nineties, the SCT scenario
+changed substantially with the introduction of reduced intensity
+conditioning regimens. In fact, several retrospective and
+
+doi:10.1093/annonc/mdy167 | 1693
+
+Special article
+prospective phase II clinical trials reported clinically significant
+reductions in non-relapse mortality to below 30%, resulting in a
+renewed interest in alloSCT. On average, PFS ranged from 20%
+to 42% and OS from 25% to 57% [IV, C] [82–86]. The EBMT
+considers alloSCT as a valid treatment alternative for patients
+with relapsed HL after ASCT if they have chemosensitive disease
+and an appropriate stem cell donor [87].
+The current availability of active drugs, including BV [68], PD-1
+inhibitors [88] and bendamustine [89], has enabled substantially
+high rates of objective responses in patients who previously failed
+ASCT, thus resulting in significant improvements in the quality
+and quantity of clinical responses achieved by patients who become
+eligible for alloSCT after failed autografting. Interestingly, these
+treatments share a favourable toxicity profile, thus allowing
+patients to achieve a good PS at the time of allografting.
+AlloSCT could also be a viable option for patients with an incomplete response to salvage chemotherapy, particularly because
+better results are obtained when this treatment is applied earlier
+[IV, C] [90]. With conventional agents for induction of remission,
+the survival of these patients is poor, and most of them die due to
+disease progression. The availability of novel agents that result in
+objective responses may eventually mean increased eligibility for
+alloSCT. On the other hand, long-term follow-up results from the
+phase II study of BV in relapsed/refractory HL show that among
+patients reaching a complete remission as best response, 38% were
+still alive and progression-free at a minimum of 5 years after the
+last dose of BV. This suggests that BV monotherapy may have curative potential in a subset of patients with relapse post-HDT, even
+without subsequent alloSCT, which until recently was regarded as
+the only curative option for HL patients failing HDT [91].
+The combination of CPIs and alloSCT is an area of concern,
+since increased rates of severe graft-versus-host disease (GvHD)
+have been observed in patients treated with CPIs following
+alloSCT. However, the increased toxicity may be outweighed by
+improved efficacy leading to durable remissions [92, 93]. Other
+studies have shown that remissions induced by CPIs and consolidated with alloSCT can be durable in many cases [94]. In order to
+reduce the risk of GvHD, it is generally recommended to hold
+CPI treatment a few months before the alloSCT, but this advice is
+based on biological rationale rather than clinical evidence [94].
+RT for relapsed or refractory HL. RT is tolerable in most patients
+with relapsed or refractory HL, including those with primary resistant disease. Even patients with primary resistant disease have
+a good chance of response to RT [95]. In a study of 56 patients
+who received salvage RT for relapse post-ASCT, 65% had durable
+local disease control after 2 years [96]. RT should be considered
+for patients with primary resistant HL, both as part of induction
+or as consolidation in patients with localised or bulky disease,
+and as part of standard palliative treatment of incurable HL.
+Recommendation 2.1: For patients with primary resistant HL,
+there is no evidence to suggest a benefit from treating any differently to other patients with relapsed HL. As such, these patients
+should be treated the same as other patients with relapsing HL,
+preferably as part of a clinical trial.
+Level of evidence: III
+Strength of recommendation: D
+Consensus: 100% yes (18 voters)
+
+1694 | Hutchings et al.
+
+Annals of Oncology
+Recommendation 2.2: The use of BV and CPIs seem to be particularly beneficial for patients with primary resistant HL who are
+less likely to benefit from conventional therapies. Consolidation
+with BV after HDT and ASCT is recommended for patients with
+primary resistant HL.
+Level of evidence: II
+Strength of recommendation: B
+Consensus: No vote obtained
+Recommendation 2.3: AlloSCT has a limited role for patients
+with primary resistant HL but can be considered in selected
+patients with a good, durable remission and a suitable donor.
+Level of evidence: IV
+Strength of recommendation: D
+Consensus: 100% yes (18 voters)
+
+3. Management of PBL
+PBL is a rare and distinct entity classified by the World Health
+Organization as an aggressive subtype of DLBCL with immunoblastic and/or plasmablastic morphology, high proliferation rate
+and immunophenotypic evidence of terminal B-cell differentiation. The immunophenotype is positive for CD79a, MUM-1,
+BLIMP-1, CD38 and CD138, but negative for the B-cell markers
+CD19, CD20 and PAX-5. MIB-1 is positive in most or all neoplastic cells. About 70%–80% of cases express Epstein–Barr virusencoded RNA (EBER). Among the most frequently detected genomic changes are chromosomal translocations involving the MYC
+gene, usually in association with the immunoglobulin heavy
+chain, which are detected in half of cases. However, whether MYC
+translocations represent initiating or late genetic events in PBL
+pathogenesis is unknown. Gene expression profiling in PBL has
+shown that it has a transcriptional profile distinct from DLBCL,
+with differences in activation of B-cell receptor signalling and targets of the transcription factors MYC and MYB [97].
+Recommendation 3.1: For human immunodeficiency virus
+(HIV)-negative patients with suspected PBL, diagnostic assessment should include an immunohistochemistry panel of CD38,
+CD20, PAX5, CD138, EBER, CD30, MUM-1, Kappa-lambda,
+HHV8 and ALK
+Level of evidence: IV
+Strength of recommendation: C
+Consensus: 100% yes (18 voters)
+PBL is strongly associated with HIV infection and can also arise
+in other patients with immunodeficiency states (e.g. organ transplant recipients, the elderly), but is also seen in immunocompetent individuals. The incidence of HIV-associated PBL accounts
+for approximately 2% of all acquired immunodeficiency syndrome-related lymphomas. For immunocompetent patients, the
+incidence is approximately 0.3% of all non-HL [98]. In a review
+of 590 patients with PBL [99], 63% were HIV-positive PBL, 28%
+were HIV-negative PBL, 6% were post-transplant PBL and 3%
+were transformed PBL. HIV-negative PBL affects female patients
+in 34% of cases, and the median age at presentation is 55 years.
+Oral involvement is common (40%), although PBL has a more
+heterogeneous pattern in terms of sites of involvement in immunocompetent individuals [100]. Advanced clinical stage,
+
+Volume 29 | Issue 8 | 2018
+
+Special article
+
+Annals of Oncology
+B symptoms and bone marrow involvement are present in 25%
+of HIV-negative patients with PBL.
+The prognosis of patients with PBL is poor. A systematic review
+of 76 patients with HIV-negative PBL showed a median OS of
+only 9 months and a 2-year OS rate of 10% [99]. The prognostic
+value of IPI factors in PBL relies primarily on advanced disease
+stage and poor PS as indicators of a worse outcome, since age,
+LDH levels and bone marrow involvement do not appear to affect
+outcomes in HIV-positive patients [101].
+There is no standard of care for patients with PBL. In particular,
+the use of CHOP is considered inadequate, and some guidelines
+recommend more intensive regimens such as EPOCH (etoposide/
+prednisone/vincristine/cyclophosphamide/hydroxydaunomycin),
+CODOX-M (cyclophosphamide/vincristine/doxorubicin/methotrexate)/IVAC (etoposide/ifosfamide/cytarabine) or hyper-CVAD
+(cyclophosphamide/vincristine/doxorubicin/dexamethasone)
+[102]. However, several studies of PBL treated with chemotherapy
+regimens more intensive than CHOP have failed to show a survival benefit [101, 103]. Therefore, PBL should be treated as highrisk DLBCL, but due to the lack of CD20 positivity, treatment
+with anti-CD20 mAbs is not indicated.
+Only few cases of PBL have reported the use of prophylaxis to
+minimise the risk of CNS involvement. Moreover, there is currently no evidence that the use of CNS prophylaxis should be any different in PBL compared with other high-risk subtypes of DLBCL.
+RT has been used as part of treatment in some PBL cases, but
+no conclusion can be made from this limited experience, and
+therefore RT is recommended only in the palliative setting [100].
+The proteasome inhibitor bortezomib, alone and in combination with chemotherapy, has been used with some degree of efficacy in HIV-negative patients with relapsed PBL. In a recent
+series of three previously untreated patients with PBL (one of
+whom was HIV-negative), durable responses were achieved with
+bortezomib combined with dose-adjusted EPOCH [104]. In another report, three HIV-positive patients with PBL demonstrated
+durable remissions following treatment with bortezomib
+(V)-CHOP, suggesting that this regimen may provide improved
+efficacy as initial therapy for PBL [105]. However, these encouraging results are based on anecdotal cases and further cumulative
+experience is needed.
+Recommendation 3.2: HIV-negative patients with PBL should
+be treated the same as other high-risk subtypes of DLBCL,
+although rituximab should not be used.
+Level of evidence: IV
+Strength of recommendation: C
+Consensus: 100% yes (18 voters)
+Recommendation 3.3: Although bortezomib can be safely
+combined with CHOP, this has not led to improved outcomes
+and further studies are required.
+Level of evidence: V
+Strength of recommendation: C
+Consensus: 100% yes (18 voters)
+The role of SCT in patients with PBL has been assessed and it
+appears that chemotherapy-sensitive PBL patients might benefit
+from ASCT in first remission. A case series of nine HIV-negative
+patients with PBL (who responded to chemotherapy) reported
+encouraging results, with a 5-year OS rate of 60% [106]. The
+
+Volume 29 | Issue 8 | 2018
+
+experience with HDT followed by ASCT in the relapsed setting is
+rather limited. The role of alloSCT is unknown and can only be
+recommended as a part of a clinical trial.
+Recommendation 3.4: HDT-ASCT may play a role in the management of PBL but further studies are required, since available
+data are from casuistic reports of selected patients.
+Level of evidence: IV
+Strength of recommendation: D
+Consensus: 100% yes (18 voters)
+
+Acknowledgements
+The authors thank Jennifer Lamarre, Claire Bramley, Matthew
+Wallace, Aude Galli and all ESMO staff for their support
+throughout the whole consensus process.
+Angela Corstorphine of Kstorfin Medical Communications Ltd
+provided medical writing support with the preparation of this
+manuscript. This support was funded by ESMO.
+
+Funding
+All costs relating to the consensus conference were covered from
+the European Society for Medical Oncology central funds.
+There was no external funding of the event or manuscript production. No grant number applies.
+
+Disclosure
+CB (honoraria from Roche, Pfizer, Celgene, Pharmacyclics and
+Janssen; research grants from Roche and Janssen), MD (advisory boards for Bayer, Celgene, Gilead, Janssen and Pfizer; support for academic trials from Celgene, Janssen, Mundipharma,
+Pfizer and Roche; speaker’s honoraria from Celgene, Janssen,
+Mundipharma, Pfizer and Roche), AJMF (advisory boards for
+Celgene, Gilead and Mundipharma; speaker honoraria from
+Italfarmaco, Mundipharma and Gilead; research support from
+Celgene, Roche, Mundipharma and Rhizen), GG (advisory
+boards for Roche, Janssen, Amgen, Novartis, GlaxoSmithKline,
+Karyopharm and Morphosys; speaker honoraria from Roche,
+Janssen, Gilead and GlaxoSmithKline), VG (speaker honoraria,
+advisory boards, consultancy and travel grants from Roche;
+speaker honoraria from Mundipharma, GlaxoSmithKline and
+Bristol-Myers Squibb), MH (speaker honoraria, advisory boards
+and consultancy from Takeda; advisory boards and consultancy
+from Janssen, Celgene and Roche/Genentech), ML (honoraria
+from Celgene, Janssen-Cilag, Roche, Amgen, Mundipharma and
+Teva; research contracts with Celgene, Pfizer, Mundipharma
+and Roche; research grants from Amgen, Roche and Takeda),
+SLG (speaker honoraria, advisory boards, consultancy and travel
+grants from Roche, Janssen-Cilag and Celgene; research programme funding from Roche, Janssen and Servier), UM (honoraria for advisory board activities from Roche, Celgene, Amgen
+and Janssen-Cilag; research grants from Mundipharma and
+Celgene), PdNB (speaker’s bureau/lectures for Roche and
+Bayer), MP (advisory boards for Celgene, Roche and Spectrum;
+research support from Amgen, Roche and Spectrum), NS (travel
+grants, advisory boards and research support from Roche; travel
+
+doi:10.1093/annonc/mdy167 | 1695
+
+Special article
+grants and advisory boards from Celgene; travel grants and honoraria for company symposia from Riemser Pharma and CTI
+Life Sciences), PS (advisory boards for Celgene and Teva; honoraria from Spectrum Pharmaceuticals and Pierre Fabre
+Oncology; travel grants from Hospira, Celgene and Teva), MS
+(speaker’s bureau and advisory boards for Teva, Mundipharma,
+Janssen-Cilag, Gilead, CTI BioPharma and Servier; research
+support, consultant, speaker’s bureau and advisory boards for
+Menarini; speaker’s bureau for Roche and Takeda), RS (research
+support from Celgene, Novartis and Teva; honoraria from
+Celgene, Novartis and Teva; scientific advisory board for
+Celgene), ASB (consultancy fees from Takeda), MT (consultancy for Roche, Gilead, Janssen, Takeda and Celgene), JW [advisory boards for Roche, Celgene, Janssen-Cilag, Bristol-Myers
+Squibb and Takeda; research grants (for the institution) from
+Roche, Celgene, Janssen-Cilag, Takeda, GlaxoSmithKline/
+Novartis and Seattle Genetics; lecture honoraria from Roche,
+Janssen-Cilag, Servier, Takeda and Celgene], UW (speaker honoraria from Amgen, Novartis, Roche and Chugai), EZ [advisory
+honoraria and/or support for investigator-initiated studies (for
+the institution) from Celgene, Johnson and Johnson/Janssen,
+Gilead, Mundipharma, Roche and Bayer]. All remaining
+authors have declared no conflicts of interest.
+
+References
+Tilly H, Gomes da Silva M, Vitolo U et al. Diffuse large B-cell lymphoma (DLBCL): ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2015; 26 (Suppl 5): v116–v125.
+2. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001; 33: 139–144.
+3. d’Amore F, Gaulard P, Trümper L et al. Peripheral T-cell lymphomas:
+ESMO Clinical Practice Guidelines for diagnosis, treatment and followup. Ann Oncol 2015; 26 (Suppl 5): v108–v115.
+4. Eichenauer DA, Aleman BMP, André M et al. Hodgkin lymphoma:
+ESMO Clinical Practice Guidelines for diagnosis, treatment and followup. Ann Oncol 2018; doi: 10.1093/annonc/mdy080.
+5. Willemze R, Hodak E, Zinzani PL et al. Primary cutaneous lymphomas:
+ESMO Clinical Practice Guidelines for diagnosis, treatment and followup. Ann Oncol 2018; 29(Suppl 4): iv30–iv40.
+6. Zucca E, Copie-Bergman C, Ricardi U et al. Gastric marginal zone
+lymphoma of MALT type: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2013; 24 (Suppl 6):
+vi144–vi148.
+7. Dreyling M, Campo E, Hermine O et al. Newly diagnosed and relapsed
+mantle cell lymphoma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2017; 28 (Suppl 4): iv62–iv71.
+8. Dreyling M, Ghielmini M, Rule S et al. Newly diagnosed and relapsed follicular lymphoma: ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-up. Ann Oncol 2017; 28 (Suppl 4): iv62–iv71.
+9. MacKintosh FR, Colby TV, Podolsky WJ et al. Central nervous system
+involvement in non-Hodgkin’s lymphoma: an analysis of 105 cases.
+Cancer 1982; 49: 586–595.
+10. van Besien K, Ha CS, Murphy S et al. Risk factors, treatment, and outcome of central nervous system recurrence in adults with intermediategrade and immunoblastic lymphoma. Blood 1998; 91: 1178–1184.
+11. Johnson GJ, Oken MM, Anderson JR et al. Central nervous system relapse in unfavourable-histology non-Hodgkin’s lymphoma: is prophylaxis indicated? Lancet 1984; 2: 685–687.
+12. Boehme V, Schmitz N, Zeynalova S et al. CNS events in elderly patients
+with aggressive lymphoma treated with modern chemotherapy (CHOP14) with or without rituximab: an analysis of patients treated in the
+
+Annals of Oncology
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+1.
+
+1696 | Hutchings et al.
+
+21.
+
+22.
+
+23.
+
+24.
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+31.
+
+RICOVER-60 trial of the German High-Grade Non-Hodgkin
+Lymphoma Study Group (DSHNHL). Blood 2009; 113: 3896–3902.
+Feugier P, Virion JM, Tilly H et al. Incidence and risk factors for central
+nervous system occurrence in elderly patients with diffuse large-B-cell
+lymphoma: influence of rituximab. Ann Oncol 2004; 15: 129–133.
+Schmitz N, Zeynalova S, Glass B et al. CNS disease in younger patients
+with aggressive B-cell lymphoma: an analysis of patients treated on the
+Mabthera International Trial and trials of the German High-Grade NonHodgkin Lymphoma Study Group. Ann Oncol 2012; 23: 1267–1273.
+Chihara D, Oki Y, Matsuo K et al. Incidence and risk factors for central
+nervous system relapse in patients with diffuse large B-cell lymphoma:
+analyses with competing risk regression model. Leuk Lymphoma 2011;
+52: 2270–2275.
+Guirguis HR, Cheung MC, Mahrous M et al. Impact of central nervous
+system (CNS) prophylaxis on the incidence and risk factors for CNS relapse in patients with diffuse large B-cell lymphoma treated in the rituximab era: a single centre experience and review of the literature. Br J
+Haematol 2012; 159: 39–49.
+Shimazu Y, Notohara K, Ueda Y. Diffuse large B-cell lymphoma with
+central nervous system relapse: prognosis and risk factors according to
+retrospective analysis from a single-center experience. Int J Hematol
+2009; 89: 577–583.
+Tai WM, Chung J, Tang PL et al. Central nervous system (CNS) relapse
+in diffuse large B cell lymphoma (DLBCL): pre- and post-rituximab.
+Ann Hematol 2011; 90: 809–818.
+Villa D, Connors JM, Shenkier TN et al. Incidence and risk factors for
+central nervous system relapse in patients with diffuse large B-cell
+lymphoma: the impact of the addition of rituximab to CHOP chemotherapy. Ann Oncol 2010; 21: 1046–1052.
+Yamamoto W, Tomita N, Watanabe R et al. Central nervous system involvement in diffuse large B-cell lymphoma. Eur J Haematol 2010; 85:
+6–10.
+Tomita N, Yokoyama M, Yamamoto W et al. Central nervous system
+event in patients with diffuse large B-cell lymphoma in the rituximab
+era. Cancer Sci 2012; 103: 245–251.
+Schmitz N, Zeynalova S, Nickelsen M et al. CNS International
+Prognostic Index: a risk model for CNS relapse in patients with diffuse
+large B-cell lymphoma treated with R-CHOP. J Clin Oncol 2016; 34:
+3150–3156.
+El-Galaly TC, Cheah CY, Villa D et al. Validation of the German highgrade non-Hodgkin lymphoma study group (DSHNHL) prognostic
+model for CNS relapse in a large cohort of PET/CT staged patients.
+Hematol Oncol 2015; 33 (Suppl 1): 171–172.
+Aukema SM, Siebert R, Schuuring E et al. Double-hit B-cell lymphomas. Blood 2011; 117: 2319–2331.
+Savage KJ, Johnson NA, Ben-Neriah S et al. MYC gene rearrangements
+are associated with a poor prognosis in diffuse large B-cell lymphoma
+patients treated with R-CHOP chemotherapy. Blood 2009; 114:
+3533–3537.
+Savage KJ, Slack GW, Mottok A et al. Impact of dual expression of
+MYC and BCL2 by immunohistochemistry on the risk of CNS relapse
+in DLBCL. Blood 2016; 127: 2182–2188.
+Oki Y, Noorani M, Lin P et al. Double hit lymphoma: the MD
+Anderson Cancer Center clinical experience. Br J Haematol 2014; 166:
+891–901.
+Arkenau HT, Chong G, Cunningham D et al. The role of intrathecal
+chemotherapy prophylaxis in patients with diffuse large B-cell lymphoma. Ann Oncol 2006; 18: 541–545.
+Tomita N, Takasaki H, Ishiyama Y et al. Intrathecal methotrexate prophylaxis and central nervous system relapse in patients with diffuse large Bcell lymphoma following rituximab plus cyclophosphamide, doxorubicin,
+vincristine and prednisone. Leuk Lymphoma 2015; 56: 725–729.
+Dietrich PY. Intrathecal MTX for DLBCL: from an inappropriate
+prophylactic tradition to a medical error? Blood 2009; 114: 1999.
+Schmitz N, Zeynalova S, Loeffler M, Pfreundschuh M. Response: intrathecal methotrexate and central nervous system events. Blood 2009;
+114: 1999–2000.
+
+Volume 29 | Issue 8 | 2018
+
+Annals of Oncology
+32. Vitolo U, Chiappella A, Ferreri AJ et al. First-line treatment for primary
+testicular diffuse large B-cell lymphoma with rituximab-CHOP, CNS
+prophylaxis, and contralateral testis irradiation: final results of an international phase II trial. J Clin Oncol 2011; 29: 2766–2772.
+33. Tilly H, Lepage E, Coiffier B et al. Intensive conventional chemotherapy
+(ACVBP regimen) compared with standard CHOP for poor-prognosis
+aggressive non-Hodgkin lymphoma. Blood 2003; 102: 4284–4289.
+34. Récher C, Coiffier B, Haioun C et al. Intensified chemotherapy with
+ACVBP plus rituximab versus standard CHOP plus rituximab for the
+treatment of diffuse large B-cell lymphoma (LNH03-2B): an open-label
+randomised phase 3 trial. Lancet 2011; 378: 1858–1867.
+35. Abramson JS, Hellmann M, Barnes JA et al. Intravenous methotrexate
+as central nervous system (CNS) prophylaxis is associated with a low
+risk of CNS recurrence in high-risk patients with diffuse large B-cell
+lymphoma. Cancer 2010; 116: 4283–4290.
+36. Holte H, Leppä S, Björkholm M et al. Dose-densified chemoimmunotherapy followed by systemic central nervous system prophylaxis for
+younger high-risk diffuse large B-cell/follicular grade 3 lymphoma
+patients: results of a phase II Nordic Lymphoma Group study. Ann
+Oncol 2013; 24: 1385–1392.
+37. Chin CK, Cheah CY. How I treat patients with aggressive lymphoma at
+high risk of CNS relapse. Blood 2017; 130: 867–874.
+38. Omuro A, Correa DD, DeAngelis LM et al. R-MPV followed by highdose chemotherapy with TBC and autologous stem-cell transplant for
+newly diagnosed primary CNS lymphoma. Blood 2015; 125: 1403–1410.
+39. Pfreundschuh M. How I treat elderly patients with diffuse large B-cell
+lymphoma. Blood 2010; 116: 5103–5110.
+40. O’Neill BP, O’Fallon JR, Earle JD et al. Primary central nervous system
+non-Hodgkin’s lymphoma: survival advantages with combined initial
+therapy? Int J Radiat Oncol Biol Phys 1995; 33: 663–673.
+41. Schultz C, Scott C, Sherman W et al. Preirradiation chemotherapy with
+cyclophosphamide, doxorubicin, vincristine, and dexamethasone for
+primary CNS lymphomas: initial report of radiation therapy oncology
+group protocol 88-06. J Clin Oncol 1996; 14: 556–564.
+42. DeAngelis LM, Yahalom J, Thaler HT, Kher U. Combined modality
+therapy for primary CNS lymphoma. J Clin Oncol 1992; 10: 635–643.
+43. Ferreri AJ, Reni M, Foppoli M et al. High-dose cytarabine plus highdose methotrexate versus high-dose methotrexate alone in patients with
+primary CNS lymphoma: a randomised phase 2 trial. Lancet 2009; 374:
+1512–1520.
+44. Korfel A, Elter T, Thiel E et al. Phase II study of central nervous system
+(CNS)-directed chemotherapy including high-dose chemotherapy with
+autologous stem cell transplantation for CNS relapse of aggressive lymphomas. Haematologica 2013; 98: 364–370.
+45. Soussain C, Hoang-Xuan K, Taillandier L et al. Intensive chemotherapy
+followed by hematopoietic stem-cell rescue for refractory and recurrent
+primary CNS and intraocular lymphoma: Société Française de Greffe de
+Moëlle Osseuse-Thérapie Cellulaire. J Clin Oncol 2008; 26: 2512–2518.
+46. Doorduyn JK, van Imhoff GW, van Montfort KCAGM et al. Treatment
+of secondary central nervous system lymphoma with intrathecal rituximab, high dose methotrexate and R-DHAP, followed by autologous
+stem cell transplantation. A Phase II HOVON Study. Blood 2012; 120:
+abstract 306.
+47. Illerhaus G, Müller F, Feuerhake F et al. High-dose chemotherapy and
+autologous stem-cell transplantation without consolidating radiotherapy as first-line treatment for primary lymphoma of the central nervous
+system. Haematologica 2008; 93: 147–148.
+48. Ferreri AJ, Cwynarski K, Pulczynski E et al. Chemoimmunotherapy
+with methotrexate, cytarabine, thiotepa, and rituximab (MATRix regimen) in patients with primary CNS lymphoma: results of the first randomisation of the International Extranodal Lymphoma Study Group32 (IELSG32) phase 2 trial. Lancet Haematol 2016; 3: e217–e227.
+49. Ferreri AJ, Donadoni G, Cabras MG et al. High doses of antimetabolites
+followed by high-dose sequential chemoimmunotherapy and autologous stem-cell transplantation in patients with systemic B-cell lymphoma and secondary CNS involvement: final results of a multicenter
+phase II trial. J Clin Oncol 2015; 33: 3903–3910.
+
+Volume 29 | Issue 8 | 2018
+
+Special article
+50. Ghesquieres H, Houillier C, Chinot O et al. Rituximab-lenalidomide
+(REVRI) in relapse or refractory primary central nervous system
+(PCNSL) or vitreo retinal lymphoma (PVRL): results of a “proof of
+concept” phase II study of the French LOC network. Blood 2016; 128:
+785.
+51. Choquet S, Houillier C, Bijou F et al. Ibrutinib monotherapy in relapse
+or refractory primary CNS lymphoma (PCNSL) and primary vitreoretinal lymphoma (PVRL). Result of the interim analysis of the iLOC
+phase II study from the Lysa and the French LOC network. Blood 2016;
+128: 784.
+52. Nayak L, Iwamoto FM, LaCasce A et al. PD-1 blockade with nivolumab
+in relapsed/refractory primary central nervous system and testicular
+lymphoma. Blood 2017; 129: 3071–3073.
+53. Borchmann P, Eichenauer DA, Engert A. State of the art in the treatment of Hodgkin lymphoma. Nat Rev Clin Oncol 2012; 9: 450–459.
+54. Diehl V, Franklin J, Pfreundschuh M et al. Standard and increased-dose
+BEACOPP chemotherapy compared with COPP-ABVD for advanced
+Hodgkin’s disease. N Engl J Med 2003; 348: 2386–2395.
+55. Josting A, Müller H, Borchmann P et al. Dose intensity of chemotherapy in patients with relapsed Hodgkin’s lymphoma. J Clin Oncol 2010;
+28: 5074–5080.
+56. Majhail NS, Weisdorf DJ, Defor TE et al. Long-term results of autologous stem cell transplantation for primary refractory or relapsed
+Hodgkin’s lymphoma. Biol Blood Marrow Transplant 2006; 12:
+1065–1072.
+57. Arai S, Fanale M, DeVos S et al. Defining a Hodgkin lymphoma population for novel therapeutics after relapse from autologous hematopoietic
+cell transplant. Leuk Lymphoma 2013; 54: 2531–2533.
+58. Moskowitz AJ, Perales MA, Kewalramani T et al. Outcomes for patients
+who fail high dose chemoradiotherapy and autologous stem cell rescue
+for relapsed and primary refractory Hodgkin lymphoma. Br J Haematol
+2009; 146: 158–163.
+59. Brice P, Bastion Y, Divine M et al. Analysis of prognostic factors after
+the first relapse of Hodgkin’s disease in 187 patients. Cancer 1996; 78:
+1293–1299.
+60. Greaves P, Wilson A, Matthews J et al. Early relapse and refractory disease remain risk factors in the anthracycline and autologous transplant
+era for patients with relapsed/refractory classical Hodgkin lymphoma: a
+single centre intention-to-treat analysis. Br J Haematol 2012; 157:
+201–204.
+61. André M, Henry-Amar M, Pico JL et al. Comparison of high-dose therapy and autologous stem-cell transplantation with conventional therapy
+for Hodgkin’s disease induction failure: a case-control study. Société
+Française de Greffe de Moelle. J Clin Oncol 1999; 17: 222–229.
+62. Fermé C, Mounier N, Diviné M et al. Intensive salvage therapy with
+high-dose chemotherapy for patients with advanced Hodgkin’s disease
+in relapse or failure after initial chemotherapy: results of the Groupe
+d’Etudes des Lymphomes de l’Adulte H89 Trial. J Clin Oncol 2002; 20:
+467–475.
+63. Josting A, Rueffer U, Franklin J et al. Prognostic factors and treatment
+outcome in primary progressive Hodgkin lymphoma: a report from the
+German Hodgkin Lymphoma Study Group. Blood 2000; 96: 1280–1286.
+64. Morabito F, Stelitano C, Luminari S et al. The role of high-dose therapy
+and autologous stem cell transplantation in patients with primary refractory Hodgkin’s lymphoma: a report from the Gruppo Italiano per
+lo Studio dei Linfomi (GISL). Bone Marrow Transplant 2006; 37:
+283–288.
+65. Cheson BD, Fisher RI, Barrington SF et al. Recommendations for initial
+evaluation, staging, and response assessment of Hodgkin and nonHodgkin lymphoma: the Lugano classification. J Clin Oncol 2014; 32:
+3059–3068.
+66. Kuruvilla J, Keating A, Crump M. How I treat relapsed and refractory
+Hodgkin lymphoma. Blood 2011; 117: 4208–4217.
+67. Moskowitz AJ, Hamlin PA, Jr., Perales MA et al. Phase II study of bendamustine in relapsed and refractory Hodgkin lymphoma. J Clin Oncol
+2013; 31: 456–460.
+
+doi:10.1093/annonc/mdy167 | 1697
+
+Special article
+68. Younes A, Gopal AK, Smith SE et al. Results of a pivotal phase II study
+of brentuximab vedotin for patients with relapsed or refractory
+Hodgkin’s lymphoma. J Clin Oncol 2012; 30: 2183–2189.
+69. Garcia-Sanz R, Sureda A, Gonzalez AP et al. Brentuximab vedotin plus
+ESHAP (BRESHAP) is a highly effective combination for inducing remission in refractory and relapsed Hodgkin lymphoma patients prior to
+autologous stem cell transplant: a trial of the Spanish group of lymphoma and bone marrow transplantation (GELTAMO). Blood 2016; 128:
+1109.
+70. Hagenbeek A, Zijlstra JM, Lugtenburg P et al. Transplant BRaVE: combining brentuximab vedotin with DHAP as salvage treatment in
+relapsed/refractory Hodgkin lymphoma. A phase 1 dose-escalation
+study. Haematologica 2016; 101 (Suppl 5): 44. abstr T024.
+71. Moskowitz AJ, Schöder H, Yahalom J et al. PET-adapted sequential salvage therapy with brentuximab vedotin followed by augmented ifosamide, carboplatin, and etoposide for patients with relapsed and
+refractory Hodgkin’s lymphoma: a non-randomised, open-label, singlecentre, phase 2 study. Lancet Oncol 2015; 16: 284–292.
+72. LaCasce AS, Bociek G, Sawas A et al. Brentuximab vedotin plus bendamustine: a highly active salvage treatment regimen for patients with
+relapsed or refractory Hodgkin lymphoma. Blood 2015; 126: 3982.
+73. Younes A, Santoro A, Shipp M et al. Nivolumab for classical Hodgkin’s
+lymphoma after failure of both autologous stem-cell transplantation
+and brentuximab vedotin: a multicentre, multicohort, single-arm phase
+2 trial. Lancet Oncol 2016; 17: 1283–1294.
+74. Armand P, Shipp MA, Ribrag V et al. Programmed death-1 blockade
+with pembrolizumab in patients with classical Hodgkin lymphoma after
+brentuximab vedotin failure. J Clin Oncol 2016; 34: 3733–3739.
+75. Diefenbach CS, Hong F, David KA et al. Title: a phase I study with an
+expansion cohort of the combination of ipilimumab and nivolumab
+and brentuximab vedotin in patients with relapsed/refractory Hodgkin
+lymphoma: a trial of the ECOG-ACRIN Cancer Research Group (E4412
+Arms D and E). Blood 2016; 128: 1106.
+76. Herrera AF, Moskowitz AJ, Bartlett NL et al. Interim results of brentuximab vedotin in combination with nivolumab in patients with relapsed
+or refractory Hodgkin lymphoma. Blood 2018; 131: 1183–1194.
+77. Morschhauser F, Brice P, Fermé C et al. Risk-adapted salvage treatment
+with single or tandem autologous stem-cell transplantation for first relapse/refractory Hodgkin’s lymphoma: results of the prospective multicenter H96 trial by the GELA/SFGM study group. J Clin Oncol 2008;
+26: 5980–5987.
+78. Fung HC, Stiff P, Schriber J et al. Tandem autologous stem cell transplantation for patients with primary refractory or poor risk recurrent
+Hodgkin lymphoma. Biol Blood Marrow Transplant 2007; 13: 594–600.
+79. Moskowitz CH, Yahalom J, Zelenetz AD et al. High-dose chemoradiotherapy for relapsed or refractory Hodgkin lymphoma and the significance of pre-transplant functional imaging. Br J Haematol 2010;
+148: 890–897.
+80. Moskowitz CH, Nademanee A, Masszi T et al. Brentuximab vedotin as
+consolidation therapy after autologous stem-cell transplantation in
+patients with Hodgkin’s lymphoma at risk of relapse or progression
+(AETHERA): a randomised, double-blind, placebo-controlled, phase 3
+trial. Lancet 2015; 385: 1853–1862.
+81. Sweetenham J, Walewski J, Nademanee AP et al. Updated efficacy and
+safety data from the AETHERA trial of consolidation with brentuximab
+vedotin after autologous stem cell transplant (ASCT) in Hodgkin
+lymphoma patients at high risk of relapse. Blood 2015; 126: 3172.
+82. Peggs KS, Hunter A, Chopra R et al. Clinical evidence of a graft-versusHodgkin’s-lymphoma effect after reduced-intensity allogeneic transplantation. Lancet 2005; 365: 1934–1941.
+83. Alvarez I, Sureda A, Caballero MD et al. Nonmyeloablative stem cell
+transplantation is an effective therapy for refractory or relapsed
+Hodgkin lymphoma: results of a Spanish prospective cooperative
+protocol. Biol Blood Marrow Transplant 2006; 12: 172–183.
+84. Anderlini P, Saliba R, Acholonu S et al. Fludarabine-melphalan as a preparative regimen for reduced-intensity conditioning allogeneic stem
+cell transplantation in relapsed and refractory Hodgkin’s lymphoma:
+
+1698 | Hutchings et al.
+
+Annals of Oncology
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+99.
+
+100.
+101.
+
+102.
+
+103.
+
+104.
+
+the updated M.D. Anderson Cancer Center experience. Haematologica
+2008; 93: 257–264.
+Devetten MP, Hari PN, Carreras J et al. Unrelated donor reducedintensity allogeneic hematopoietic stem cell transplantation for relapsed
+and refractory Hodgkin lymphoma. Biol Blood Marrow Transplant
+2009; 15: 109–117.
+Sureda A, Canals C, Arranz R et al. Allogeneic stem cell transplantation after
+reduced intensity conditioning in patients with relapsed or refractory
+Hodgkin’s lymphoma. Results of the HDR-ALLO study – a prospective
+clinical trial by the Grupo Espa~
+nol de Linfomas/Trasplante de Médula Osea
+(GEL/TAMO) and the Lymphoma Working Party of the European Group
+for Blood and Marrow Transplantation. Haematologica 2012; 97: 310–317.
+Sureda A, Bader P, Cesaro S et al. Indications for allo- and auto-SCT for
+haematological diseases, solid tumours and immune disorders: current
+practice in Europe, 2015. Bone Marrow Transplant 2015; 50: 1037–1056.
+Ansell SM, Lesokhin AM, Borrello I et al. PD-1 blockade with nivolumab in relapsed or refractory Hodgkin’s lymphoma. N Engl J Med
+2015; 372: 311–319.
+Anastasia A, Carlo-Stella C, Corradini P et al. Bendamustine for
+Hodgkin lymphoma patients failing autologous or autologous and allogeneic stem cell transplantation: a retrospective study of the
+Fondazione Italiana Linfomi. Br J Haematol 2014; 166: 140–142.
+Thomson KJ, Kayani I, Ardeshna K et al. A response-adjusted PETbased transplantation strategy in primary resistant and relapsed
+Hodgkin Lymphoma. Leukemia 2013; 27: 1419–1422.
+Chen R, Gopal AK, Smith SE et al. Five-year survival and durability
+results of brentuximab vedotin in patients with relapsed or refractory
+Hodgkin lymphoma. Blood 2016; 128: 1562–1566.
+Herbaux C, Gauthier J, Brice P et al. Efficacy and tolerability of nivolumab after allogeneic transplantation for relapsed Hodgkin lymphoma.
+Blood 2017; 129: 2471–2478.
+Haverkos BM, Abbott D, Hamadani M et al. PD-1 blockade for relapsed
+lymphoma post-allogeneic hematopoietic cell transplant: high response
+rate but frequent GVHD. Blood 2017; 130: 221–228.
+Merryman RW, Kim HT, Zinzani PL et al. Safety and efficacy of allogeneic hematopoietic stem cell transplant after PD-1 blockade in
+relapsed/refractory lymphoma. Blood 2017; 129: 1380–1388.
+Specht L, Yahalom J, Illidge T et al. Modern radiation therapy for
+Hodgkin lymphoma: field and dose guidelines from the international
+lymphoma radiation oncology group (ILROG). Int J Radiat Oncol Biol
+Phys 2014; 89: 854–862.
+Goda JS, Massey C, Kuruvilla J et al. Role of salvage radiation therapy for
+patients with relapsed or refractory Hodgkin lymphoma who failed autologous stem cell transplant. Int J Radiat Oncol Biol Phys 2012; 84: e329–e335.
+Chapman J, Gentles AJ, Sujoy V et al. Gene expression analysis of plasmablastic lymphoma identifies downregulation of B-cell receptor signaling and additional unique transcriptional programs. Leukemia 2015;
+29: 2270–2273.
+Arboe B, El-Galaly TC, Clausen MR et al. The Danish National Lymphoma
+Registry: coverage and data quality. PLoS One 2016; 11: e0157999.
+Castillo J, Pantanowitz L, Dezube BJ. HIV-associated plasmablastic
+lymphoma: lessons learned from 112 published cases. Am J Hematol
+2008; 83: 804–809.
+Castillo JJ, Bibas M, Miranda RN. The biology and treatment of plasmablastic lymphoma. Blood 2015; 125: 2323–2330.
+Castillo JJ, Furman M, Beltrán BE et al. Human immunodeficiency
+virus-associated plasmablastic lymphoma: poor prognosis in the era of
+highly active antiretroviral therapy. Cancer 2012; 118: 5270–5277.
+NCCN Clinical Practice Guidelines in Oncology version 5.2017. AIDSRelated B-Cell Lymphomas. 2015; https://www.nccn.org/professionals/
+physician_gls/pdf/b-cell.pdf (29 September 2017, date last accessed).
+Loghavi S, Alayed K, Aladily TN et al. Stage, age, and EBV status impact
+outcomes of plasmablastic lymphoma patients: a clinicopathologic analysis of 61 patients. J Hematol Oncol 2015; 8: 65.
+Castillo JJ, Reagan JL, Sikov WM, Winer ES. Bortezomib in comfusional dose-adjusted EPOCH for the treatment of plasmablastic lymphoma. Br J Haematol 2015; 169: 352–355.
+
+Volume 29 | Issue 8 | 2018
+
+Annals of Oncology
+105. Fernandez-Alvarez R, Gonzalez-Rodriguez AP, Rubio-Castro A et al.
+Bortezomib plus CHOP for the treatment of HIV-associated plasmablastic lymphoma: clinical experience in three patients. Leuk
+Lymphoma 2016; 57: 463–466.
+106. Liu JJ, Zhang L, Ayala E et al. Human immunodeficiency virus (HIV)negative plasmablastic lymphoma: a single institutional experience and
+literature review. Leuk Res 2011; 35: 1571–1577.
+
+Volume 29 | Issue 8 | 2018
+
+Special article
+107. Ferreri AJ, Bruno-Ventre M, Donadoni G et al. Risk-tailored CNS
+prophylaxis in a mono-institutional series of 200 patients with diffuse
+large B-cell lymphoma treated in the rituximab era. Br J Haematol
+2015; 168: 654–662.
+108. Kumar A, Vanderplas A, LaCasce AS et al. Lack of benefit of central nervous system prophylaxis for diffuse large B-cell lymphoma in the rituximab
+era: findings from a large national database. Cancer 2012; 118: 2944–2951.
+
+doi:10.1093/annonc/mdy167 | 1699
+
+Special article
+Appendix
+ESMO Lymphoma Consensus Conference Panel
+Members
+Christian Buske, Comprehensive Cancer Center Ulm and
+Department of Internal Medicine III, Institute of Experimental
+Cancer Research, University Hospital, Ulm, Germany; Martin
+Dreyling, Medizinische Klinik III, Klinikum der Universität
+München/LMU, Munich, Germany; Andrés J.M. Ferreri, Unit of
+Lymphoid Malignanciegy, IRCCS San Raffaele Scientific Institute,
+Milan, Italy; Paul Fields, Department of Haematology, Guys and
+St Thomas’ and King’s College Hospitals, London, United
+Kingdom; Gianluca Gaidano, Division of Hematology,
+Department of Translational Medicine, Amedeo Avogadro
+University of Eastern Piedmont, Novara, Italy; Valentin Goede,
+Department of Internal Medicine, University Hospital Cologne,
+Germany; Martin Hutchings, Department of Haematology,
+Rigshospitalet, Copenhagen, Denmark; Marco Ladetto,
+Hematology Division, Azienda Ospedaliera Santi Antonio e
+Biagio e Cesare Arrigo, Alessandria, Italy; Steven Le Gouill,
+Centre Hospitalo-Universitaire de Nantes, UMR892 team 10,
+CIC Nantes, France; Stefano Luminari, Hematology, Arcispedale
+S. Maria Nuova, IRCCS Reggio Emilia, and Department of
+Diagnostic, Clinical and Public Health Medicine, University of
+Modena and Reggio Emilia, Modena, Italy; Ulrich Mey,
+Department of Oncology and Haematology, Kantonsspital
+
+1700 | Hutchings et al.
+
+Annals of Oncology
+Graubünden, Chur, Switzerland; Peter de Nully Brown,
+Department of Haematology, Rigshospitalet, Copenhagen,
+Denmark; Michael Pfreundschuh, Innere Medizin I, University
+Klinik des Saarlandes, Hamburg, Germany; Christiane Pott,
+Second Medical Department, University Hospital SchleswigHolstein, Kiel, Germany; Norbert Schmitz, Department of
+Hematology, Oncology and Stem Cell Transplantation, Asklepios
+Klinik St. Georg, Hamburg, Germany; Pierre Soubeyran,
+Department of Medical Oncology, Institut Bergonié,
+Comprehensive Cancer Centre, Bordeaux, France; Michele Spina,
+Division of Medical Oncology A, National Cancer Institute,
+Aviano, Italy; Reinhard Stauder, Haematology and Oncology
+Department, Innsbruck Medical University, Innsbruck, Austria;
+Anna Sureda Balari, Servei d’Hematologia, Institut Català
+d’Oncologia – Hospital Duran i Reynals, Barcelona, Spain; Marek
+Trneny , Institute of Hematology and Blood Transfusion, Ist Dept
+Medicine, 1st Fac Medicine, Charles University, General
+Hospital, Prague, Czech Republic; Gustaaf van Imhoff, Section of
+Hematology, University of Groningen, Groningen, The
+Netherlands; Jan Walewski, Department of Lymphoid
+Malignancies, Maria Sklodowska-Curie Memorial Cancer Centre
+and Institute of Oncology, Warsaw, Poland; Ulrich Wedding,
+Department of Palliative Care, University Hospital, Jena,
+Germany; Alberto Zamò, Department of Diagnostics and Public
+Health, University of Verona, Verona, Italy; Emanuele Zucca,
+Lymphoma Unit, Oncology Institute of Southern Switzerland,
+Ospedale San Giovanni, Bellinzona, Switzerland.
+
+Volume 29 | Issue 8 | 2018
+
+

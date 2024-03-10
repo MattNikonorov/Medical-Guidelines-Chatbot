@@ -1,0 +1,1608 @@
+SPECIAL ARTICLE
+
+Acute myeloid leukaemia in adult patients: ESMO Clinical Practice
+Guidelines for diagnosis, treatment and follow-upy
+M. Heuser1, Y. Ofran2,3, N. Boissel4,5, S. Brunet Mauri6,7, C. Craddock8, J. Janssen9, A. Wierzbowska10,11 & C. Buske12, on
+behalf of the ESMO Guidelines Committee*
+1
+
+Hematology, Hemostasis, Oncology and Stem Cell Transplantation, Hannover Medical School, Hannover, Germany; 2Department of Hematology and Bone Marrow
+Transplantation, Rambam Health Care Campus, Haifa; 3The Ruth and Bruce Rappaport Faculty of Medicine, Technion, Israel Institute of Technology, Haifa, Israel;
+4
+Department of Hematology, AP-HP, Saint-Louis Hospital, Paris; 5Université de Paris, Paris, France; 6Hospital de la Santa Creu i Sant Pau, IIB-Sant Pau, Barcelona; 7Jose
+Carreras Leukemia Research Institute, Universitat Autònoma de Barcelona, Barcelona, Spain; 8Centre for Clinical Haematology, Queen Elizabeth Hospital, Birmingham,
+UK; 9Department of Hematology, Amsterdam University Medical Centers, location VUmc, Amsterdam, The Netherlands; 10Department of Hematology, Medical
+University of Lodz, Lodz; 11Copernicus Memorial Hospital, Lodz, Poland; 12Comprehensive Cancer Center, Institute of Experimental Cancer Research, University
+Hospital Ulm, Ulm, Germany.
+Available online 17 March 2020
+
+Key words: guideline, treatment recommendation, dosing information, acute myeloid leukaemia, European LeukaemiaNet, World Health Organization
+
+INCIDENCE AND EPIDEMIOLOGY
+Acute myeloid leukaemia (AML) incidence is age dependent,
+rising markedly in patients aged 60 years. Ageing of the
+European population may therefore contribute to the reported increase in AML incidence in Europe from 3.48 in
+1976 to 5.06 patients per 100 000 people in 2013.1 Across
+all age groups, the incidence of AML is higher in males than
+in females.2 The median age at diagnosis is w70 years.2
+The 2016 World Health Organization (WHO) classiﬁcation
+identiﬁes distinct categories of AML (see supplementary
+Table S1, available at Annals of Oncology online).3
+Notably, AML is primarily categorised by recurrent genetic
+abnormalities, with morphological classiﬁcation reserved
+for patients not otherwise classiﬁable.
+With advanced age, the relative incidence of AML with
+recurrent genetic abnormalities decreases,4 while the relative incidence of other AML categories [such as AML with
+myelodysplasia-related changes (MRC-AML) or therapyrelated AML (tAML)] increases with age, comprising about
+19% and 7% of AML cases, respectively.5e7
+Survival of AML patients in Europe
+The prognosis and long-term survival rates of patients <65
+years have incrementally improved with time, largely based
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, CH-6900 Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+y
+Approved by the ESMO Guidelines Committee: August 2002, last update
+January 2020. This publication supersedes the previously published versiondAnn Oncol. 2013;24(suppl 6):vi138evi143.
+0923-7534/© 2020 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+upon improved supportive care and increased utilisation of
+allogeneic haematopoietic cell transplantation (alloHCT).
+Despite this progress, age-standardised relative 5-year survival for adult patients diagnosed between the years 2000
+and 2007 was as low as 17% (16.6e17.7),8 mainly attributable to the minimal progress attained in AML patients
+>65 years.
+DIAGNOSIS AND MOLECULAR BIOLOGY
+Patients suspected of a diagnosis of AML must undergo
+prompt cytogenetic and molecular investigations to inform
+risk stratiﬁcation and, increasingly, treatment strategies. It
+is vital to urgently differentiate acute promyelocytic
+leukaemia (APL) from other forms of AML by cytomorphology (dysplastic promyelocytes, binucleated blasts, faggot
+cells), signs of hyperﬁbrinolysis and molecular evidence of
+PML-RARA fusion.
+AML is deﬁned based on morphological inspection
+revealing a myeloid blast count of 20% out of 500 bone
+marrow (BM) cells,9 although counting fewer cells is sufﬁcient in patients with high blast count.10 Blast counts should
+include myeloblasts, monoblasts/promonocytes and megakaryoblasts, but not abnormal monocytes. According to the
+latest WHO classiﬁcation, all nucleated cells in the BM serve
+as a denominator, even in cases where the BM is enriched
+with erythroid precursors.3 Supplementary Table S2, available at Annals of Oncology online, lists all mandatory clinical
+and laboratory tests that should be carried out at
+presentation.
+Past medical history should be carefully reviewed to reveal
+signs of an antecedent BM disease and previous exposure
+to radiation, chemotherapy (ChT) or leukaemogenic toxins
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+697
+
+M. Heuser et al.
+
+Annals of Oncology
+such as benzene and organochlorine insecticides. Blood
+count results preceding AML diagnosis should be collected,
+but even if abnormal, are insufﬁcient to make a deﬁnitive
+diagnosis of MRC-AML. A history of a myelodysplastic
+syndrome (MDS) or a myelodysplastic/myeloproliferative
+neoplasm or the presence of one of several MDS-related
+cytogenetic abnormalities, or 50% dysplastic cells in at
+least two cell lineages (except when combined with NPM1 or
+double CEBPA mutations), is required for the diagnosis of
+MRC-AML.3 Despite progress in immunophenotyping allowing recognition of dysplasia by aberrant ﬂow cytometry
+patterns, cytomorphology remains the gold standard for
+diagnosis of dysplasia and MDS.11
+The authors recommend a BM aspirate for cytology and
+cytochemistry, including Sudan Black B, myeloperoxidase
+and esterase staining, immunophenotyping and a trephine
+biopsy for histology at diagnosis. Cytochemistry is especially
+helpful while cytogenetic and molecular results are awaited
+[V, B]. A BM biopsy is mandatory in patients with dry-tap.
+Interpretation of morphological changes may be challenging. Presence of an AML-related recurrent genetic abnormality
+[e.g. t(8:21)]
+overrules
+morphological
+uncertainties. Multiparameter ﬂow cytometry (MFC), using a
+minimum of six colours and following an established ﬂow
+cytometry protocol such as the European LeukemiaNet (ELN)
+criteria for immunophenotypic leukaemia classiﬁcation,12 is
+required for the diagnosis of speciﬁc entities, such as mixed
+phenotype acute leukaemia (MPAL), AML not otherwise
+speciﬁed (NOS) with minimal differentiation, acute megakaryoblastic leukaemia or blastic plasmacytoid dendritic cell
+neoplasm (BPDCN, positive for CD4, CD56, CD123 and
+TCL1).13,14 In general, genetic aberrations overrule immunophenotypic changes.
+Cytogenetic classiﬁcation should be based on the evaluation of at least 20 metaphases. An abnormal clone is reported only if at least 2/20 cells are identiﬁed as carrying
+the same karyotypic abnormality. Karyotype analysis may
+miss clinically signiﬁcant cryptic aberrations [e.g. MLL/
+KMT2A, inv(16), chromosome 3 aberrations], thus complementary ﬂuorescent in situ hybridisation (FISH) analysis is
+recommended and should be considered mandatory when
+conventional cytogenetic analysis fails.
+Molecular studies to detect the presence of mutations in
+the FLT3 gene [internal tandem duplication (ITD) or tyrosine
+kinase domain (TKD)] should be carried out immediately to
+allow timely initiation of an FLT3 inhibitor. Additional molecular studies to measure the FLT3-ITD allelic ratio (AR),
+and detection of NPM1, PML-RARA, RUNX1-RUNX1T1,
+CBFB-MYH11 and double CEBPA mutations should be carried out at diagnosis given their prognostic signiﬁcance. The
+presence of TP53, RUNX1 and ASXL1 mutations classiﬁes
+patients to the adverse ELN risk group; testing is therefore
+advised. IDH1 and IDH2 should also be assessed for mutations to identify patients who may beneﬁt from pharmacological inhibitors when these become available in Europe.
+If available, next-generation sequencing (NGS) of a panel of
+genes commonly mutated in AML provides important
+additional prognostic and therapeutic information.
+698
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+The new WHO diagnosis of myeloid neoplasms with
+germline predisposition is often overlooked in patients with
+newly diagnosed AML (see supplementary Table S1, available at Annals of Oncology online). Genetic counselling
+is recommended in case of a positive cancer family history
+or if an inherited condition potentially associated with
+leukaemia has been diagnosed in any relative. There are
+also speciﬁc medical conditions that should draw physicians’ awareness regarding potential germline predisposition (supplementary Table S3, available at Annals of
+Oncology online).15 All candidates for alloHCT and their
+siblings should undergo human leucocyte antigen (HLA)
+typing at diagnosis.
+Sperm cryopreservation should be systematically proposed before starting ChT, especially in patients due to
+undergo alloHCT. In females, ovarian tissue cryopreservation (OTC) may be carried out before haematopoietic cell
+transplantation (HCT) if patients are in complete remission
+(CR).16 The main concern about the safety of autologous
+transplantation of ovarian fragments is possible contamination with leukaemic cells that may lead to AML recurrence.16 Fertility preservation is further discussed in
+‘Follow-up, long-term implications and survivorship’ section
+in supplementary Material, available at Annals of Oncology
+online.
+
+CLASSIFICATION AND RISK ASSESSMENT
+The initial assessment of newly diagnosed AML patients
+should focus on patient ﬁtness for standard induction and
+consolidation ChT. Pre-existing heart, kidney, lung or liver
+disease, mental illness, an Eastern Cooperative Oncology
+Group (ECOG) performance score 3 and age 75 years are
+the strongest predictors for nonrelapse induction-related
+mortality and should be considered to determine ineligibility to intensive induction and consolidation ChT [V, B].17
+The risk of early death of older AML patients upon induction
+ChT can be calculated using seven clinical parameters: body
+temperature, age, de novo versus secondary leukaemia,
+haemoglobin level, platelet count, ﬁbrinogen level and
+serum concentration of lactate dehydrogenase.18 The HCTspeciﬁc comorbidity index (HCT-CI) score predicts
+treatment-related mortality in patients treated with induction ChT, as well as transplant outcome.19,20 The ﬁnal decision concerning the role of intensive ChT is taken after
+careful consultation between an experienced clinician and
+the patient. The presence of extramedullary involvement
+should be evaluated clinically, although its prognostic value
+is debatable.21 Extramedullary AML involvement has been
+found in 17% of patients when using positron emission
+tomography (PET).22 In case of any neurological signs or
+symptoms, diagnostic lumbar puncture should be carried
+out when blasts are reduced in peripheral blood, and cranial
+magnetic resonance imaging (MRI) [or computed tomography (CT) if MRI is unavailable] should be conducted.
+In APL patients, lumbar puncture should be delayed until
+recovery of bleeding diathesis.
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+M. Heuser et al.
+
+Annals of Oncology
+
+In patients with hypoproliferative disease or those who
+can be safely treated with hydroxycarbamide cytoreduction,
+it may be feasible to await cytogenetic and molecular genetic results before commencing treatment, if these results
+are likely to inﬂuence the choice of therapeutic modalities.
+Genetic classiﬁcation of AML is essential to guide clinical
+decisions and predict prognosis. The 2017 ELN recommendations identify three risk groups, based on karyotype and
+mutational analysis (ELN favourable, intermediate and
+adverse risk, see supplementary Table S4, available at
+Annals of Oncology online).12 The favourable-risk AML
+group comprises all patients in whom a relapse risk is
+predicted to be low if treated with induction and consolidation ChT alone. This group includes patients with mutated
+NPM1 (NPM1mut) without FLT3-ITD or with FLT3-ITD presenting with AR <0.5, t(8;21)(q22;q22.1)/RUNX1-RUNX1T1,
+inv(16)(p13.1q22) or t(16;16)(p13.1;q22)/CBFB-MYH11, or
+presenting with double-mutant CEBPA. However, a large
+retrospective analysis showed that 3.6% of NPM1mut/FLT3ITDlow patients have adverse cytogenetic aberrations, which
+confer an equally poor prognosis as adverse cytogenetics in
+NPM1wildtype patients.23
+The intermediate-risk AML group comprises patients with
+molecular or cytogenetic abnormalities not classiﬁed as
+favourable or adverse, and includes patients with NPM1mut
+and a high AR of FLT3-ITD.
+The adverse-risk AML group includes patients with
+complex cytogenetics and other poor-risk genetic aberrations.12 All patients failing to achieve CR after 2 induction
+cycles should also be considered as adverse-risk patients,
+regardless of genetics/cytogenetics.24 Accurate risk stratiﬁcation plays a critical role in guiding selection of the optimal
+postremission approach and of indications for alloHCT in
+ﬁrst CR (CR1).25 A comprehensive risk classiﬁcation integrating clinical, genetic and treatment data is available as an
+online tool that simulates the individual patient’s risk and
+predicts outcome with and without alloHCT (https://cancer.
+sanger.ac.uk/aml-multistage/).26
+
+of clinical studies [<5% blasts in the BM, without evidence
+of extramedullary disease, platelets 50  109/l and absolute neutrophil count (ANC) 0.5  109/l]. The term CRp,
+also used in clinical studies, indicates a CR with platelets
+<100  109/l and with ANC recovery 1.0  109/l, but is
+now covered by CRi. Morphological leukaemia-free state
+(MLFS) consists of <5% BM blasts, absence of blasts with
+Auer rods, no extramedullary disease and a lack of haematological recovery of both neutrophils and platelets
+where the BM may not be merely aplastic and at least 200
+cells should be counted or cellularity at trephine biopsy
+should be at least 10%. By comparison, CRi requires
+recovery of at least one lineage (either ANC 1.0  109/l or
+platelets 100  109/l). BM cellularity <10% should be
+deﬁned as BM aplasia in patients without count recovery,
+and response assessment repeated after 2e4 weeks. It is
+unclear if prognosis differs between patients reaching CRi or
+MLFS. In clinical practice, it is recommended to use CRMRD,
+CR, CRi and MLFS.
+The authors introduce an operational deﬁnition of
+refractoriness for patients not achieving CR/CRi/MLFS after
+the ﬁrst induction cycle: blast persistence after induction 1
+deﬁned by 5% blasts in BM. Consistent with ELN 2017
+recommendations, patients are considered primary refractory to induction ChT if they have 5% blasts in BM
+after the second induction cycle. It was shown that patients
+with >15% BM blasts or <50% reduction of BM blasts after
+the ﬁrst induction cycle constitute a group with an equally
+poor prognosis as patients with primary refractory disease
+and who may beneﬁt from direct alloHCT.24
+Relapse is deﬁned by BM blasts 5% in patients who
+have been in CR previously, or reappearance of blasts in the
+blood or development of extramedullary AML.12,24 Molecular relapse is deﬁned by an increase of the MRD level of
+1 log10 between two positive samples in a patient who
+previously tested negative.
+
+RESPONSE ASSESSMENT
+
+Morphological enumeration of the blast percentage should
+be reﬁned by immunophenotypic or molecular MRD
+assessment in patients with <10% blasts.27 ELN recommendations on MRD assessment in AML specify its clinical
+use and technical requirements.28 It is recommended to
+assess MRD by reverse transcriptase polymerase chain
+reaction (RT-PCR) for patients positive for NPM1mut, RUNX1RUNX1T1, CBFB-MYH11 or PML-RARA fusion genes; w40%
+of all AML patients. In the remaining patients, MRD should
+be assessed by MFC, which relies on antigens aberrantly
+expressed by leukaemic cells that can be found in >90% of
+AML patients. Many clinical studies have shown the strong
+prognostic impact of MRD, as measured by MFC, with levels
+0.1% deﬁned as positive.29e31 Laboratories should report
+results of MRD studies according to recently published
+guidelines.28
+More than 90% of AML patients harbour a molecular
+marker that could potentially be used for MRD assessment
+by molecular methods. NGS enables simultaneous testing
+
+Deﬁning response and treatment failure
+The ELN has deﬁned response categories to induction ChT.12
+In addition to conventional CR, CR with incomplete haematological recovery (CRi) and CR without measurable
+residual disease (CRMRDe) were proposed (supplementary
+Table S5, available at Annals of Oncology online). ELN
+MRD recommendations recently proposed CR with molecular persistence at low copy numbers (CRMRDlow) to account
+for NPM1 and core binding factor leukaemia patients with
+positive MRD at low copy numbers (<100e200 copies/104
+ABL copies corresponding to <1%e2% of target to reference gene or variant allele burden), who have completed
+their treatment and have a low risk of relapse despite MRD
+positivity. The authors recommend handling these patients
+the same way as patients with complete molecular remission. In addition, CR with partial haematological recovery
+(CRh) is proposed by other groups, to be used in the context
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+Measurable residual disease
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+699
+
+M. Heuser et al.
+
+Annals of Oncology
+of multiple genes in a single assay,32 and sensitivity approaches 10e4 with recent protocols.33 Residual positivity
+for nonclonal haematopoiesis-related gene mutations
+(thus excluding DNMT3A, TET2 and ASXL1) after 2 cycles of
+induction ChT and before alloHCT predicted AML relapse
+in a recent study, which also showed that NGS-MRD and
+MFC are complementary techniques.32 However, NGS-MRD
+needs thorough standardisation and validation before
+recommendation for clinical use.
+In APL patients, MRD assessment is recommended at the
+end of consolidation treatment, before starting maintenance. In non-high-risk APL patients treated with arsenic
+trioxide (ATO) and all-trans-retinoic acid (ATRA), all patients
+were MRD negative at the end of consolidation.34 If MRD is
+negative in these patients, no further MRD assessment is
+recommended in view of the very low relapse risk.28 In
+high-risk APL patients treated with ChT and ATRA, a variable
+proportion of 1%e5% of patients were MRD positive at the
+end of consolidation.35 Continuous MRD monitoring is
+therefore recommended in high-risk APL patients to predict
+impending haematological relapse and thereby prevent
+bleeding complications and to allow administration of preemptive therapy at the time of molecular relapse, prior to
+the occurrence of haematological relapse.
+When to assess response?
+The authors recommend performing up to two BM assessments during the ﬁrst cycle of standard induction ChT,
+the ﬁrst between day 14 and day 21 as early response
+assessment to guide further treatment in case of insufﬁcient response, and the second after recovery of BM to
+document CR. BM aspirates are usually sufﬁcient, but
+trephine biopsy is recommended if smears are not evaluable. If a ﬁrst response assessment gives an uncertain
+result, it is advisable to repeat BM aspirations until a clearer
+picture is obtained and the attainment of morphological CR
+can be more reliably assessed, at least when the nonattainment of CR would have therapeutic consequences. If a
+second induction cycle is applied, BM should be assessed
+after haematological recovery or between days 28 and 35 if
+haematological recovery is still lacking.
+Morphological assessment of BM is recommended before
+each consolidation cycle and before alloHCT. After the end
+of intensive induction and consolidation treatment, BM
+morphology may be repeated every 3 months for 24
+months. 3-monthly differential blood counts are recommended for a total of 5 years after the end of treatment.
+Assessment of MRD is recommended at diagnosis to
+establish the aberrant marker proﬁle, after 2 cycles of ChT
+and after the end of treatment. In addition, molecular MRD
+may be assessed every 3 months after the end of treatment
+from BM or every 4e6 weeks from peripheral blood for 24
+months in patients with a molecular marker. Flow cytometric MRD should be assessed from BM, while molecular
+MRD should be assessed from both blood and BM.28
+In patients treated nonintensively, response should be
+assessed at the very least after 4 cycles to diagnose
+700
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+refractory disease, and every 3 months thereafter if patients
+have no or incomplete recovery of at least one of the three
+blood lineages to identify refractory disease.
+TREATMENT AND OUTCOME OF NEWLY DIAGNOSED AML
+When a diagnosis of AML is made, a number of immediate
+decisions must be made. In patients in whom APL is suspected, immediate treatment with ATRA should be initiated, until conﬁrmatory molecular and/or cytogenetic
+results are available [V, A]. In patients with non-APL AML
+with a white blood cell (WBC) count >100  109/l and
+signs of leukostasis, the requirement for cytoreduction
+should be considered. This is achieved with 50e60 mg/kg
+hydroxycarbamide per day, or, if a patient cannot swallow,
+either with intravenous (i.v.) or subcutaneous cytarabine, or
+with i.v. daunorubicin. Leukapheresis for hyperleukocytosis
+should be avoided in APL patients because it may exacerbate coagulopathy [V, B]. In non-APL AML patients, the
+efﬁcacy of leukapheresis to reduce early mortality was
+investigated in a meta-analysis and a propensity-matched
+study.36 Early mortality was not reduced by leukapheresis
+which can thus not be generally recommended [II, C].
+Nevertheless, if leukapheresis is applied, it should be
+accompanied by hydroxycarbamide, cytarabine or daunorubicin.37 If central nervous system (CNS) involvement is
+diagnosed, the patient should be treated with intrathecal
+cytarabine twice weekly, with two injections beyond blast
+clearance from the cerebrospinal ﬂuid (CSF), except in APL
+patients in whom intrathecal treatment should be delayed
+until recovery of coagulopathy. Supportive care is essential
+for the patient and should include prophylaxis and management of tumour lysis syndrome, infection, hyperﬁbrinolysis, bleeding and eventual thrombosis. There are
+scant data to support the use of a gonadotropin-releasing
+hormone (GnRH) agonist in female AML patients for prevention of loss of fertility, but it can be used to avoid
+menorrhagia.38
+Based on eligibility criteria and patient preference, all
+AML patients must be assigned to either standard induction
+and consolidation ChT or nonintensive treatment (see
+‘Classiﬁcation and risk assessment’ section). Patients should
+be encouraged to participate in clinical trials whenever
+possible.
+First-line treatment of AML patients eligible for standard
+induction and consolidation ChT
+Recommendations for induction ChT. The recommended
+ﬁrst-line treatment according to patient subgroups is shown
+in Figures 1 and 2. If a patient fulﬁls criteria for two or more
+novel drug combinations, the authors recommend following
+the algorithm in Figure 1, which prioritises the recommended treatments. Schedules and doses are detailed in
+supplementary Table S6, available at Annals of Oncology
+online. For CBF-AML, the authors recommend 7 days of
+cytarabine, 3 days of daunorubicin (7 þ 3) and 1e3 days of
+gemtuzumab ozogamicin (GO) in induction 1: 7 þ 3 þ GO
+[II, A]. GO is approved for CD33-positive AML patients
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+M. Heuser et al.
+
+Annals of Oncology
+
+Figure 1. Treatment algorithm for ﬁrst-line treatment in newly diagnosed AML patients eligible for standard induction and consolidation treatment.
+7þ3, 7 days of standard-dose cytarabine and 3 days of daunorubicin; 7þ3þGO, 7 days of standard-dose cytarabine, 3 days of daunorubicin and 1e3 days of gemtuzumab ozogamicin; alloHCT, allogeneic haematopoietic cell transplantation; AML, acute myeloid leukaemia; autoHCT, autologous haematopoietic cell transplantation;
+CBF, core binding factor; ChT, chemotherapy; CPX-351, liposomal daunorubicin and cytarabine; CR, complete remission; ELN1, 2, 3, European LeukaemiaNet favourable,
+intermediate and adverse risk, respectively; GO, gemtuzumab ozogamicin; IDAC, intermediate-dose cytarabine; ITD, internal tandem duplication; MACE, amsacrine,
+cytarabine, etoposide; MIDAC, mitoxantrone, intermediate dose cytarabine; mol., molecular; MRC-AML, acute myeloid leukaemia with myelodysplasia-related cytogenetic changes; MRDþ, measurable residual disease-positive; tAML, therapy-related acute myeloid leukaemia; TKD, tyrosine kinase domain.
+The subgroups are sorted hierarchically from left to right and the recommendations are also prioritised from left to right.
+a
+GO if blasts are CD33þ.
+b
+Cladribine or ﬂudarabine optional in patients 60 years; not approved for AML.
+c
+GO optional in consolidation 1 and 2 of CD33þ CBF, ELN1 and ELN2 patients; may restrict GO to patients <60e65 years.
+d
+Alternatively autoHCT.
+e
+Consider MACE/MIDAC if alloHCT is not possible.39
+f
+IDAC or autoHCT, if alloHCT is not feasible.
+
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+701
+
+M. Heuser et al.
+
+Annals of Oncology
+
+Figure 2. Treatment algorithm for ﬁrst-line treatment in newly diagnosed AML patients not eligible for standard induction and consolidation treatment.
+alloHCT, allogeneic haematopoietic cell transplantation; AML, acute myeloid leukaemia; ChT, chemotherapy; HMA, hypomethylating agent; LDAC, low-dose cytarabine;
+MDS, myelodysplastic syndrome.
+
+(deﬁned by 30% blasts expressing CD33 in the pivotal
+trial) in combination with 7 þ 3 induction ChT in induction
+1, but not in induction 2.40,41 Our recommendation is based
+primarily on the meta-analysis of ﬁve studies with GO, in
+which patients with CBF-AML (RUNX1-RUNX1T1- or CBFBMYH11-positive AML) beneﬁt most from the addition of GO
+[GO improved 6-year overall survival (OS) by 20.7% to an OS
+of 75.5% in this meta-analysis].42 GO is approved as a
+fractionated dose of 3 mg/m2 on days 1, 4 and 7 based on
+the ALFA-0701 trial.40 However, the ALFA-0701 trial
+contributed only 3.6% of the patients with favourable-risk
+cytogenetics to the meta-analysis (9/251 patients).40,42
+The majority of patients with favourable-risk cytogenetics
+in the meta-analysis received only one dose of 3 mg/m2 GO
+during induction cycle 1 (170/251 patients, 67.7%).42 Thus,
+the optimal dose for GO remains to be determined. Because
+of the risk of hepatic sinusoidal obstruction syndrome, a 2month period was recommended in the ALFA-0701 trial
+between the last dose of GO and alloHCT conditioning, but
+it is recommended not to delay transplantation if GO was
+administered within 8 weeks before alloHCT.
+702
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+If tAML or MRC-AML is diagnosed in patients aged 60
+years, treatment with liposomal daunorubicin and
+cytarabine (CPX-351) is recommended [I, A]. CPX-351 is
+approved for AML patients 18 years of age with tAML or
+MRC-AML and improved 2-year OS by 18.8% to 31.1% in
+patients aged 60 years.43 CPX-351 is approved in Europe
+independent of age, although randomised or prospective
+data in younger patients have not been published. No
+beneﬁt of CPX-351 over 7 þ 3 was found in the subgroup of
+patients who had been previously treated with hypomethylating agents (HMAs) for MDS, who should preferably
+be treated in clinical trials.43 CPX-351 is also recommended
+for FLT3-ITD- or FLT3-TKD-positive tAML or MRC-AML, as
+CPX-351 showed good efﬁcacy in this subgroup [median OS
+(mOS) 10.25 versus 4.6 months], while very few MRC-AML
+and no tAML patients were treated in the RATIFY trial
+evaluating the FLT3 inhibitor midostaurin.
+For the remaining patients, 7 þ 3 þ midostaurin is recommended if they are FLT3-ITD or FLT3-TKD positive [I, A].
+Midostaurin is approved for patients with a FLT3-ITD or
+FLT3-TKD mutation (deﬁned by an AR 0.05) in
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+M. Heuser et al.
+
+Annals of Oncology
+
+combination with 7 þ 3 induction ChT. The addition of
+midostaurin improved OS by 7.1% after 4 years to 51.4%.44
+If none of the previous markers is positive, 7 þ 3 induction ChT is generally recommended [II, A]. The addition
+of GO to 7 þ 3 may also be considered in younger CD33positive patients with non-CBF-AML with ELN favourable
+or intermediate risk [II, C]. In a meta-analysis, GO improved
+6-year OS by 5.7% in patients with intermediate-risk cytogenetics to 39.6%. However, GO had no effect on 6-year OS
+in patients with adverse-risk cytogenetics (6-year OS 8.9%)
+and is not recommended in these patients [II, E].42 A large
+randomised study failed to show an event-free survival
+(EFS) beneﬁt of additional GO in NPM1mut AML patients
+treated with induction ChT and ATRA.45
+In the remaining patients with ELN adverse risk, 7 þ 3
+ChT is recommended [II, A] with the option to add cladribine or ﬂudarabine to induction ChT in patients up to 60
+years (though cladribine and ﬂudarabine are not approved
+for this indication) [II, C].46 Upfront treatment with 2 cycles
+of ﬂudarabine, cytarabine, granulocyte-colony stimulating
+factor and idarubicin (FLAG-Ida) ChT improved relapse-free
+survival (RFS), but not OS in younger AML patients and may
+be considered in younger high-risk patients [I, C].39 There
+are limited data on the treatment of BCR-ABL1-positive
+AML. Tyrosine-kinase inhibitor (TKI)-naive patients should
+be treated with a second-line TKI with or without induction
+ChT [II, A].47 Nonresponding patients should be treated with
+another TKI.
+After the ﬁrst induction cycle, response should be
+assessed between day 14 and day 21. Patients with 5%
+blasts in BM after induction 1 (blast persistence) should
+receive a second induction cycle, which may consist of the
+identical ChT as induction 1 or of a regimen containing
+intermediate-dose cytarabine (IDAC), for example, FLAGIda [III, C]. As soon as patients achieve CR/CRi after 1 or
+2 induction cycles, they should proceed to consolidation
+treatment [II, B].48 Patients not achieving CR/CRi after 2
+cycles of induction ChT are deﬁned as primary refractory
+and their treatment options are discussed later. The
+optimal ChT backbone for induction therapy consisting of
+cytarabine and an anthracycline is further discussed in
+supplementary Material, available at Annals of Oncology
+online.
+Consolidation treatment with ChT or autologous HCT.
+Patients in CR after induction ChT should undergo consolidation treatment with either ChT, autologous HCT
+(autoHCT) or alloHCT [I, A] (Figure 1). There are insufﬁcient
+data to give a recommendation on the number of ChT cycles before auto/alloHCT, but the timing of alloHCT is
+usually determined by donor availability. Patients in CR with
+ELN favourable-risk AML should be consolidated with ChT
+[I, A], while autoHCT is an alternative and results in better
+RFS, but not OS, than ChT (e.g. in patients with CBF-AML or
+double-mutant CEBPA AML) [II, B].49,50 If CBF-AML patients
+are consolidated with ChT, 3 cycles with IDAC are recommended [II, B]. In CBF-AML patients, the addition of 3 mg/
+m2 GO given on day 1 in consolidation 1 and 2 is optional
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+[II, C], as it remains unclear whether GO in consolidation
+contributes to the overall beneﬁt (Figure 1).51
+Patients in CR with ELN intermediate- or adverse-risk
+AML should undergo alloHCT, if feasible [II, A].52,53 If no
+suitable donor is available or if alloHCT is contraindicated,
+these patients should undergo consolidation ChT or
+autoHCT.49,54 ELN intermediate-risk patients, 40e60 years
+old and in CR1, had comparable OS with autoHCT and
+alloHCT consolidation54 and better OS with autoHCT
+compared with ChT.55 A retrospective study reported better
+RFS and OS in patients receiving busulfan/melphalan conditioning before autoHCT compared with busulfan/cyclophosphamide conditioning.56
+Patients treated with CPX-351 during induction may
+receive up to 2 consolidation cycles with CPX-351 with a
+reduced dose and 2 instead of 3 days of application
+compared with induction ChT.43 In FLT3-mutated patients,
+midostaurin is combined with consolidation ChT and up to 3
+consolidation cycles should be applied in patients not undergoing alloHCT.44 If non-CBF-AML patients are treated
+with GO during induction, GO is optional in consolidation 1
+and 2 in combination with cytarabine (Figure 1 and
+supplementary Table S6, available at Annals of Oncology
+online).40
+At least 2 consolidation cycles are recommended in CR
+patients not undergoing alloHCT with cytarabine 1.5 g/m2
+every 12 hours on days 1e3 in patients <60e65 years
+of age, and a dose reduction to 1 g/m2 in patients aged
+60e65 years, taking biologic age into consideration
+[II, A].57
+If alloHCT is not feasible in younger patients with
+adverse-risk cytogenetics, consolidation with amsacrine,
+cytarabine, etoposide/mitoxantrone, cytarabine (MACE/
+MidAC) may be considered (OS 39% versus 0% after a
+median follow-up of 5.6 years) [II, B].39
+Extramedullary manifestations of AML/myeloid sarcoma
+may present at diagnosis and may be the sole manifestation
+of AML. If myeloid sarcoma is the only manifestation,
+induction ChT followed by alloHCT is recommended
+(Figure 1). Individual reports show that local RT can induce
+long-term remission in patients with persisting or relapsing
+extramedullary AML sites.58 While RT can effectively induce
+local control, its effect on long-term outcome is poorly
+investigated.59
+Consolidation treatment with alloHCT. AML remains the
+most frequent indication for alloHCT. Key considerations
+before proceeding to alloHCT for consolidation in ﬁrst or
+second CR include donor availability and patient ﬁtness.
+Eligibility criteria. In CR1, alloHCT is indicated in patients
+with intermediate or adverse risk AML and age 75 years
+according to recommendations of ELN 2017,12 European
+Society for Blood and Marrow Transplantation (EBMT)60 and
+American Society of Blood and Marrow Transplantation
+(ASBMT)61 [II, A]. BCR-ABL-positive patients should undergo
+alloHCT as soon as they achieve remission. In older patients,
+comorbidities must be carefully evaluated. In this regard,
+the HCT-CI predicts nonrelapse mortality (NRM) and OS and
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+703
+
+M. Heuser et al.
+
+Annals of Oncology
+helps in the selection of patients.19 Likewise, the combination of HCT-CI with the EBMT score translates into NRM
+prediction for patients undergoing reduced-intensity conditioning (RIC) alloHCT in CR1.62
+Donor selection. Nowadays, almost all patients will have a
+donor despite the decreasing number of siblings, as cord
+blood and haploidentical transplantation have become
+feasible.63 Retrospective data comparing the different
+donor sources suggest similar leukaemia-free survival and
+OS probabilities in haploidentical transplant recipients who
+have received post-transplant cyclophosphamide, although
+results differ markedly according to the regimen used.64,65
+As patients need to be transplanted in due time,
+currently, the ﬁrst priority is to select an HLA-identical
+donor (sibling or unrelated donor if the search time is <3
+months from diagnosis, 10/10 or 9/10 HLA match required),
+with second and third priority being an umbilical cord
+blood donor or haploidentical donor, depending on centre
+experience and patient’s age.66 In haploidentical transplants
+of AML patients aged 40 years, young donors are
+preferred, while in patients <40 years of age, neither the
+age of the donor nor the kinship has an impact on the
+outcome.67
+Conditioning regimens. The aim of conditioning is to
+eradicate the disease and enable a graft-versus-leukaemia
+(GvL) effect with minimal NRM and low risk of relapse.
+Currently used myeloablative conditioning (MAC) regimens,
+with or without total body irradiation (TBI), are quite similar
+in dosing and schedules but are associated with considerable NRM and are therefore usually restricted to patients
+55 years of age, if no comorbidities are present.68 In
+younger ﬁt patients, the myeloablative ﬂudarabine/
+busulfan (Flu/Bu4) regimen is associated with less toxicity
+than busulfan/cyclophosphamide (Bu/Cy).69 Cy/TBI myeloablative regimens have been extensively used as a conditioning regimen in high-risk AML. However, there are no
+convincing data to demonstrate their superiority to a Bu/Cy
+or Flu/Bu4 regimen, both of which are widely utilised.70
+A TBI-based myeloablative regimen should be considered
+in rare patients with evidence of CNS disease at presentation or a myeloid sarcoma. In contrast, RIC regimens use
+heterogeneous doses and schedules and rely more on the
+GvL effect. Despite large meta-analyses, it is currently not
+possible to deﬁne the optimal conditioning regimen for
+AML. In general, MAC is recommended for patients aged
+55 years with HCT-CI 2 [I, A] and RIC for all other patients [II, B].71 Graft-versus-host disease (GvHD) prophylaxis
+is a critical part of alloHCT and the recommendations for a
+standardised prophylaxis and treatment of GvHD by the
+EBMT-ELN working group on GvHD should be followed.72
+Maintenance treatment after intensive ChT or alloHCT.
+Maintenance treatment is approved only for midostaurin in
+patients who are in CR after induction and consolidation
+ChT (but not after alloHCT). Exploratory analysis of the
+RATIFY trial failed to clarify whether midostaurin maintenance contributes to the OS beneﬁt of midostaurin73; based
+704
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+on expert opinion, this treatment after ChT consolidation is
+not recommended [IV, D]. Importantly, midostaurin maintenance should not replace alloHCT in transplant candidates. Maintenance treatment with subcutaneous
+azacitidine in older AML patients who obtained CR after
+induction and consolidation treatment improved diseasefree survival but not OS in a randomised study.74
+Recently, maintenance treatment with oral azacitidine
+(CC-486) showed improved survival in patients 55 years of
+age who obtained CR after intensive ChT, but is currently
+not approved.75
+The use of maintenance and pre-emptive treatment after alloHCT remains controversial. Therapeutic options
+include TKIs for FLT3-ITD-mutated AML, HMAs or donor
+lymphocyte infusions (DLIs). In a small randomised trial,
+maintenance with sorafenib after alloHCT in FLT3mut patients improved 2-year RFS in patients who were not
+pretreated with an FLT3 inhibitor.76 The results of ongoing
+larger randomised trials are required before maintenance
+sorafenib or midostaurin can be recommended after
+alloHCT in patients with FLT3-ITD-positive AML.77
+A phase I/II dose-ﬁnding study of oral azacitidine (CC-486)
+maintenance treatment after alloHCT in patients with AML
+or MDS showed encouraging results with a 1-year relapse/
+progression rate of 21%.78 It is unclear whether prophylactic
+HMA treatment after alloHCT is beneﬁcial to prevent
+relapse, as it may increase toxicity without therapeutic
+beneﬁt in patients who can be cured with alloHCT alone.
+Pre-emptive treatment when mixed chimerism (MC) or
+MRD appears could prevent or delay relapse in patients
+with AML and MDS.79 Currently, maintenance with HMAs
+cannot be recommended outside of clinical trials [V, D]. In
+BCR-ABL-positive patients, TKI maintenance after alloHCT is
+recommended [V, B].
+DLI, as pre-emptive treatment in patients with MRD or MC,
+or as prophylactic treatment before relapse or progression, is
+increasingly used in AML after alloHCT.80 This is due to the
+poor efﬁcacy of therapeutic DLIs when overt relapse occurs
+and increased use of RIC allografts. So far, there is no clear
+recommendation for the use of DLIs and important questions
+remain, such as time of administration, dose and use of DLIs
+as prophylactic or pre-emptive treatment.
+First-line treatment of AML patients not eligible for
+standard induction and consolidation ChT
+The HMAs azacitidine and decitabine are currently the ﬁrst
+choice in newly diagnosed unﬁt AML patients [II, B]
+[(Figure 2); see supplementary Table S6, available at Annals
+of Oncology online, for dosing].81,82 While venetoclax in
+combination with azacitidine, decitabine or low-dose cytarabine (LDAC) is approved in the United States and Israel,83
+and glasdegib in combination with LDAC is approved in the
+United States for newly diagnosed AML patients aged 75
+years or those with comorbidities that preclude use of
+intensive induction ChT,84 their approval is pending in most
+European countries. Although venetoclax in combination
+with an HMA or LDAC is considered to be superior to
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+M. Heuser et al.
+
+Annals of Oncology
+
+currently available ﬁrst-line treatments for AML patients
+ineligible for standard induction ChT based on promising
+preliminary data, results of ongoing randomised trials are
+awaited before its use can be recommended with conﬁdence
+[III, A].
+A prospective randomised study comparing 5- and 10-day
+decitabine treatment in newly diagnosed AML patients
+found almost identical CR and early mortality rates, EFS and
+OS between the two arms, which also extended to the
+subgroup of TP53mut patients.85 Thus, if decitabine is chosen, it is recommended to follow the 5-day schedule [II, B].
+No predictive markers are known to recommend one HMA
+over the other. HMA treatment is usually continued until
+disease progression or intolerance but may be terminated
+after at least 4 consecutive cycles if the patient has not
+responded or derived clinical beneﬁt. Given the moderate
+effects of HMAs, LDAC remains an alternative to HMAs in
+the ﬁrst-line treatment of AML patients who are ineligible
+for standard induction and consolidation ChT, except in
+patients with adverse-risk cytogenetics, where LDAC has
+very poor activity [II, B]. First-line treatment with LDAC
+results in mOS of w5 months.86 A practical beneﬁt of LDAC
+is its longer stability after being dissolved, allowing
+administration at home unlike azacitidine and decitabine.
+Patients with MDS progressing to AML during treatment
+with azacitidine constitute a signiﬁcant therapeutic challenge. Current evidence shows that 21%e43% AML patients
+pretreated with HMAs and who received HMA and venetoclax achieved a response.87,88 MDS patients progressing
+to AML under HMA treatment may be similarly sensitised to
+HMA by the addition of venetoclax [III, B]; LDAC or best
+supportive care with either 6-mercaptopurine or low-dose
+melphalan or hydroxycarbamide are remaining options, if
+no clinical trial is available [III, C].
+Patients should be treated for at least 4 cycles and, in
+case of clinical beneﬁt, should continue until progression
+or intolerance. Patients responding to initial treatment
+should be re-evaluated regarding their ability to undergo
+alloHCT using RIC, which may cure a proportion of these
+patients.
+TREATMENT OF PRIMARY REFRACTORY AND RELAPSED
+AML
+Roughly 10%e20% of younger and 50% of older AML patients do not achieve CR after at least two courses of
+intensive induction therapy, and 50%e70% of patients who
+obtain CR will relapse.12 The prognosis of primary refractory
+and relapsed AML patients remains poor and treatment is
+challenging. A primary consideration in the therapeutic
+approach of refractory or relapsed AML patients should be
+their suitability for intensive ChT and alloHCT. Mutation
+analysis for FLT3 should be repeated in relapsed patients, as
+gilteritinib has been approved in Europe and the United
+States in the relapse setting of FLT3-ITD- and FLT3-TKDmutated patients.89 Mutation analysis for IDH1/2 will
+become relevant once the IDH1/2mut inhibitors ivosidenib/
+enasidenib become available in Europe.
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+Primary refractory and relapsed AML patients eligible for
+standard ChT and alloHCT
+The outcome of patients with primary refractory AML is
+dismal, with no realistic prospect of long-term survival after
+salvage ChT90; thus, alloHCT is the most effective treatment
+option providing long-term survival in 20%e30% of patients
+[III, B] (Figure 3).91 Outcomes for patients with primary
+refractory AML may be better with a sequential transplant
+conditioning regimen, in which a combination of cytarabine/amsacrine ChT is followed by a ﬂudarabine-based RIC
+regimen (FLAMSA-RIC) [III, C].92 If a family or unrelated
+donor is not immediately available, either a haploidentical
+or cord blood donor alloHCT should be offered promptly.
+For ﬁt patients with relapsed AML, the recommended
+treatment is salvage ChT followed by alloHCT [III, B]
+(Figure 3). Breems et al. developed a simpliﬁed prognostic
+score to predict the efﬁcacy of salvage ChT in relapsed AML
+patients based on the length of the relapse-free interval
+after CR1, cytogenetics at diagnosis, age at relapse and
+previous alloHCT.93 Many salvage regimens have been
+studied in an effort to improve CR rates in patients with
+relapsed AML. Commonly used salvage regimens are summarised in supplementary Table S7, available at Annals of
+Oncology online.94 Because of the limited long-term effects,
+enrolment in clinical trials is strongly recommended. The
+authors recommend a salvage protocol based on high- or
+intermediate-dose cytarabine in combination with an
+anthracycline and, optionally, a purine analogue (e.g. FLAGIda) [II, B]. Patients with late relapse (12 months after the
+end of ﬁrst-line treatment) may also beneﬁt from retreatment with the previously successful induction regimen.
+AlloHCT should be considered for all ﬁt, eligible patients
+who entered second CR [III, B], as it represents the only
+chance for long-term survival.95,96 A second alloHCT or DLI
+may induce long-term survival in patients with relapse after
+the ﬁrst alloHCT, particularly for those relapsing later than 5
+months [IV, C].97 A Center for International Blood and
+Marrow Transplant Research (CIBMTR) retrospective study
+found survival probabilities at 3 years to be 4%, 12%, 26%
+and 38% for patients relapsing within 6 months, 6e24
+months, 2e3 years or >3 years after alloHCT.98 Intensive
+ChT can induce a CR in a proportion of patients relapsing
+after an alloHCT, but is associated with considerable toxicity.
+HMAs, notably azacytidine, represent an important and
+less toxic alternative, particularly in patients relapsing
+>6 months after alloHCT, as demonstrated in a recent large
+EBMT study.99 Relapse of FLT3-mutated AML after alloHCT
+has a poor prognosis, but encouraging results have been
+reported using both gilteritinib and quizartinib as monotherapy.89,100 Patients achieving a CR can proceed to a
+second alloHCT or DLI with potentially curative intent.
+Primary refractory and relapsed AML patients not eligible
+for standard ChT
+The therapeutic options in unﬁt AML patients aim at controlling disease progression and minimising treatment-related
+mortality (TRM). In FLT3-mutated patients, the authors
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+705
+
+M. Heuser et al.
+
+Annals of Oncology
+
+Figure 3. Treatment algorithm for second-line treatment in relapsed/refractory AML patients.
+alloHCT, allogeneic hematopoietic cell transplantation; AML, acute myeloid leukaemia; BSC, best supportive care; ChT, chemotherapy; CR, complete remission; CRi,
+complete remission with incomplete haematological recovery; DLI, donor lymphocyte infusion; HMA, hypomethylating agent; LDAC, low-dose cytarabine; PR, partial
+remission; R/R, relapsed/refractory; SD, stable disease.
+
+recommend treatment with gilteritinib, which showed a
+favourable response rate and improved OS compared with
+ChT (mOS 9.3 versus 5.6 months) [I, A].89 Quizartinib also
+showed a survival beneﬁt in relapsed/refractory FLT3-ITDmutated patients but was not approved in Europe (mOS 6.2
+versus 4.7 months).100 If the patient is considered ineligible,
+azacitidine or decitabine should be applied if LDAC was given
+in ﬁrst line, and LDAC may be applied in favourable- and
+intermediate-risk patients if an HMA was given initially [IV, B]
+(Figure 3). In a cohort of 655 relapsed/refractory AML patients
+treated with azacitidine or decitabine, the CR/CRi rate was
+found to be 16.3% with mOS of 6.7 months, with no differences observed between agents.101 If available, venetoclax in
+combination with HMA or LDAC is a promising second-line
+treatment with overall response rates of 21%e43%.87,88 In
+IDH1/IDH2mut patients, inhibitors ivosidenib102 and enasidenib,103 respectively, show considerable activity as single
+agents in relapsed/refractory patients, and will expand the
+treatment options once they become available. Differentiation syndrome occurs in up to 20% of patients treated
+with IDH-inhibitor monotherapy or when combined with
+HMAs and requires close monitoring and immediate initiation of dexamethasone treatment when suspected.104
+Eligibility for RIC alloHCT should be re-evaluated for patients who achieved CR. GO is not approved in Europe for
+refractory and relapsed AML patients and currently is not
+recommended as a salvage treatment. Older patients with
+hypocellular marrow may beneﬁt from oral low-dose
+melphalan [V, C].105 Best supportive care with cytoreductive treatment (hydroxycarbamide, 6-mercaptopurine)
+706
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+should be offered for patients who cannot tolerate or who
+decline other treatments.
+TREATMENT OF APL PATIENTS
+These recommendations largely follow the ELN APL treatment guidelines that were updated in 2019.106 Treatment of
+APL patients should be centralised in hospitals with proven
+experience in APL treatment and haematological intensive
+care. Non-high-risk APL patients deﬁned by a WBC count
+10  109/l should be treated with ATO and ATRA (Figure 4
+and supplementary Table S6, available at Annals of
+Oncology online) [I, A]. Non-high-risk patients continuously
+receive ATO/ATRA until day 28, or up to day 60 if no CR/CRi
+is achieved by day 28. Missed doses due to adverse events
+should be appended to this schedule. As all patients will
+likely achieve CR, it is sufﬁcient to repeat BM assessment
+only after haematological recovery. Patients with CR/CRi are
+given time for neutrophil and platelet recovery without
+treatment. Consolidation treatment with ATO/ATRA should
+be started as soon as possible after count recovery. Four
+8-week consolidation cycles with ATO/ATRA are recommended (supplementary Table S6, available at Annals of
+Oncology online), providing excellent cure rates to these
+patients.34,107 Comparable cure rates can be also achieved
+with a more condensed infusion scheme of ATO.108 If ATO is
+not available/affordable for ﬁrst-line treatment, the classical
+combination of ATRA and anthracycline-based ChT is still an
+acceptable option, which however requires 2-year maintenance therapy with methotrexate and 6-mercaptopurine.
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+M. Heuser et al.
+
+Annals of Oncology
+
+Figure 4. Treatment algorithm for ﬁrst-line treatment in newly diagnosed APL patients.
+6MP, 6 mercaptopurine; AIDA, all-trans retinoic acid and idarubicin; alloHCT, allogeneic haematopoietic cell transplantation; autoHCT, autologous haematopoietic cell
+transplantation; APL, acute promyelocytic leukaemia; AraC, cytarabine; ATO, arsenic trioxide; ATRA, all-trans retinoic acid; ChT, chemotherapy; CR, complete remission;
+IDAC, intermediate-dose cytarabine; mol., molecular; MRDþ, measurable residual disease-positive; MTX, methotrexate; WBC, white blood cell.
+a
+Deﬁned by a WBC count >10  109/l.
+b
+Alternatively ATO/ATRA/ChT, but ATO is not approved for high-risk APL.
+
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+707
+
+M. Heuser et al.
+
+Annals of Oncology
+
+Figure 5. Treatment algorithm for second-line treatment in relapsed/refractory APL patients.
+AIDA, all-trans-retinoic acid and idarubicin; alloHCT, allogeneic hematopoietic cell transplantation; APL, acute promyelocytic leukaemia; ATO, arsenic trioxide; ATRA, alltrans-retinoic acid; autoHCT, autologous hematopoietic cell transplantation; ChT, chemotherapy; CR, complete remission; CRi, complete remission with incomplete
+haematological recovery; GO, gemtuzumab ozogamicin; MRD, measurable residual disease; PR, partial remission; R/R, relapsed/refractory.
+a
+Early relapse is deﬁned as relapse within 24 months after the end of the primary treatment.
+b
+GO  ATO/ATRA in patients who are unﬁt for alloHCT; GO is not approved in this indication.
+
+APL high-risk patients deﬁned by a WBC count >10 
+109/l may be treated with either ATRA plus ATO combined
+with an anthracycline (while ATO is not approved for highrisk APL) or with conventional ATRA plus anthracyclinebased ChT [e.g. ATRA and idarubicin (AIDA)] [II, A] (see
+supplementary Table S6, available at Annals of Oncology
+708
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+online). In the AIDA regimen, the induction and consolidation treatments are followed by a 2-year maintenance
+phase.109 The combination of ATRA and ATO with idarubicin
+during induction followed by ATRA and ATO for consolidation and 2-year maintenance of ATRA, 6-mercaptopurine
+and methotrexate in a single-arm phase II trial resulted in
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+M. Heuser et al.
+
+Annals of Oncology
+
+excellent outcomes also in high-risk patients, suggesting
+good activity in this patient population.110
+To prevent differentiation syndrome, patients should
+be treated prophylactically with steroids as soon as they
+receive ATRA (e.g. prednisolone 0.5 mg/kg/day) and with
+hydroxycarbamide as soon as the WBC count increases above
+5e10  109/l. Bleeding is the most frequent cause of early
+death in APL patients. Adequate support is recommended with
+ﬁbrinogen or fresh-frozen plasma and platelets to maintain
+levels above 1.0e1.5 g/l and >30e50  109/l, respectively.
+MRD assessment in APL patients is discussed in the
+‘Response assessment’ section.
+Patients relapsing after ATRA and ChT or relapsing >24
+months after the end of ATO/ATRA treatment should receive
+ATO/ATRA for reinduction and consolidation until achievement of second molecular remission [IV, B]. In the unlikely
+event of an early relapse (within 24 months) after treatment
+with ATO/ATRA, we recommend ATRA with ChT or, in patients not eligible for ChT, GO with or without ATO/ATRA [IV,
+B] (Figure 5).111,112 For patients in second molecular CR,
+autoHCT is recommended for consolidation [IV, B].113 For
+MRD-positive or refractory patients after salvage treatment,
+alloHCT is the preferred consolidation treatment. If alloHCT is
+not feasible, treatment with GO, with or without ATO/ATRA,
+may be considered (Figure 5) [IV, C]. The CNS is involved in
+10% of relapsing patients. Treatment of patients with CNS
+involvement should include ATO, which crosses the bloodbrain barrier to some extent (CSF ATO levels were 17.7% of
+plasma levels).114 Because of the haemorrhagic risk, however, lumbar puncture should not be carried out in patients
+with haematological relapse and should be postponed in
+these cases to the end of induction.
+
+PERSONALISED MEDICINE
+AML has long been the paradigm disease for personalised
+treatment approaches. Current and prospective uses of
+biomarkers for personalised diagnosis, prognostication and
+treatment are shown in supplementary Table S8, available
+at Annals of Oncology online.
+
+METHODOLOGY
+These Clinical Practice Guidelines were developed in
+accordance with the ESMO standard operating procedures
+for Clinical Practice Guidelines development http://www.
+esmo.org/Guidelines/ESMO-Guidelines-Methodology. The
+relevant literature has been selected by the expert authors.
+A summary of recommendations is shown in supplementary
+Table S9, available at Annals of Oncology online. Levels of
+evidence and grades of recommendation have been applied
+using the system shown in supplementary Table S10,
+available at Annals of Oncology online.115 Statements
+without grading were considered justiﬁed standard clinical
+practice by the experts and the ESMO Faculty. This manuscript has been subjected to an anonymous peer review
+process.
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+ACKNOWLEDGEMENTS
+We thank Francesco Lo Coco and Francesco Buccisano for
+their insight and support in drafting these guidelines. The
+ESMO Guidelines Committee would like to thank the ESMO
+Faculty and other experts who provided critical reviews of
+these ESMO Clinical Practice Guidelines.
+FUNDING
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURE
+MH has reported honoraria from Novartis, Pﬁzer, priME
+Oncology, consulting or advisory role for AbbVie, Bayer
+Pharma AG, Daiichi Sankyo, Jazz Pharmaceuticals, Novartis
+and Pﬁzer, research funding from Astellas, Bayer Pharma
+AG, BerGenBio, Daiichi Sankyo, Karyopharm, Novartis, Pﬁzer
+and Roche; YO has reported consulting or advisory role for
+Amgen, Novartis, AbbVie, Pﬁzer, Medison and Roche; NB
+has reported consulting or advisory role for Amgen, BristolMyers Squibb, Celgene, Jazz Pharmaceuticals, Novartis,
+Pﬁzer and Sanoﬁ, research funding from Amgen, BristolMyers Squibb, Novartis and Jazz Pharmaceuticals; SBM
+has reported consulting or advisory role for Novartis and
+Celgene; CC has reported consulting or advisory role for
+AbbVie, Celgene, Daiichi-Sankyo, Jazz Pharmaceuticals and
+Novartis, research funding from Celgene; JJ has reported
+consulting or advisory role for AbbVie, Daiichi Sankyo,
+Incyte Corporation, Jazz Pharmaceuticals, Novartis and
+Pﬁzer, research funding from Bristol-Myers-Squibb, Daiichi
+Sankyo, Janssen Global Services, Jazz Pharmaceuticals,
+Novartis and Takeda Oncology; AW has reported consulting
+or advisory role for AbbVie, Celgene, Janssen, Jazz Pharmaceuticals, Novartis and Pﬁzer, research funding from Jazz
+Pharma; CB has reported research funding from Bayer,
+Roche and Janssen, honoraria from Roche, Janssen, AbbVie
+and Celgene.
+REFERENCES
+1. Roman E, Smith A, Appleton S, et al. Myeloid malignancies in the
+real-world: occurrence, progression and survival in the UK’s population-based Haematological Malignancy Research Network 2004-15.
+Cancer Epidemiol. 2016;42:186e198.
+2. Juliusson G, Abrahamsson J, Lazarevic V, et al. Prevalence and characteristics of survivors from acute myeloid leukemia in Sweden.
+Leukemia. 2017;31:728e731.
+3. Arber DA, Orazi A, Hasserjian R, et al. The 2016 revision to the World
+Health Organization classiﬁcation of myeloid neoplasms and acute
+leukemia. Blood. 2016;127:2391e2405.
+4. Bullinger L, Dohner K, Dohner H. Genomics of acute myeloid leukemia diagnosis and pathways. J Clin Oncol. 2017;35:934e946.
+5. Granfeldt Ostgard LS, Medeiros BC, Sengeløv H, et al. Epidemiology
+and clinical signiﬁcance of secondary and therapy-related acute
+myeloid leukemia: a national population-based cohort study. J Clin
+Oncol. 2015;33:3641e3649.
+6. Hulegardh E, Nilsson C, Lazarevic V, et al. Characterization and
+prognostic features of secondary acute myeloid leukemia in a population-based setting: a report from the Swedish Acute Leukemia
+Registry. Am J Hematol. 2015;90:208e214.
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+709
+
+M. Heuser et al.
+
+Annals of Oncology
+7. Kayser S, Döhner K, Krauter J, et al. The impact of therapy-related
+acute myeloid leukemia (AML) on outcome in 2853 adult patients
+with newly diagnosed AML. Blood. 2011;117:2137e2145.
+8. De Angelis R, Minicozzi P, Sant M, et al. Survival variations by country
+and age for lymphoid and myeloid malignancies in Europe 20002007: results of EUROCARE-5 population-based study. Eur J Cancer.
+2015;51:2254e2268.
+9. Vardiman JW, Thiele J, Arber DA, et al. The 2008 revision of the World
+Health Organization (WHO) classiﬁcation of myeloid neoplasms and
+acute leukemia: rationale and important changes. Blood. 2009;114:
+937e951.
+10. Abdulrahman AA, Patel KH, Yang T, et al. Is a 500-cell count necessary
+for bone marrow differentials?: a proposed analytical method for
+validating a lower cutoff. Am J Clin Pathol. 2018;150:84e91.
+11. Bene MC, Nebe T, Bettelheim P, et al. Immunophenotyping of acute
+leukemia and lymphoproliferative disorders: a consensus proposal of
+the European LeukemiaNet Work Package 10. Leukemia. 2011;25:
+567e574.
+12. Dohner H, Estey E, Grimwade D, et al. Diagnosis and management of
+AML in adults: 2017 ELN recommendations from an international
+expert panel. Blood. 2017;129:424e447.
+13. van Dongen JJ, Lhermitte L, Böttcher S, et al. EuroFlow antibody
+panels for standardized n-dimensional ﬂow cytometric immunophenotyping of normal, reactive and malignant leukocytes. Leukemia.
+2012;26:1908e1975.
+14. Johansson U, Bloxham D, Couzens S, et al. Guidelines on the use of
+multicolour ﬂow cytometry in the diagnosis of haematological neoplasms. British Committee for Standards in Haematology. Br J Haematol. 2014;165:455e488.
+15. Godley LA, Shimamura A. Genetic predisposition to hematologic
+malignancies: management and surveillance. Blood. 2017;130:424e
+432.
+16. Shapira M, Raanani H, Cohen Y, Meirow D. Fertility preservation in
+young females with hematological malignancies. Acta Haematol.
+2014;132:400e413.
+17. Ferrara F, Barosi G, Venditti A, et al. Consensus-based deﬁnition of
+unﬁtness to intensive and non-intensive chemotherapy in acute
+myeloid leukemia: a project of SIE, SIES and GITMO group on a new
+tool for therapy decision making. Leukemia. 2013;27:997e999.
+18. Krug U, Röllig C, Koschmieder A, et al. Complete remission and early
+death after intensive chemotherapy in patients aged 60 years or
+older with acute myeloid leukaemia: a web-based application for
+prediction of outcomes. Lancet. 2010;376:2000e2008.
+19. Sorror ML, Storer BE, Fathi AT, et al. Development and validation of a
+novel acute myeloid leukemia-composite model to estimate risks of
+mortality. JAMA Oncol. 2017;3:1675e1682.
+20. Giles FJ, Borthakur G, Ravandi F, et al. The haematopoietic cell transplantation comorbidity index score is predictive of early death and
+survival in patients over 60 years of age receiving induction therapy for
+acute myeloid leukaemia. Br J Haematol. 2007;136:624e627.
+21. Ganzel C, Manola J, Douer D, et al. Extramedullary disease in adult
+acute myeloid leukemia is common but lacks independent signiﬁcance: analysis of patients in ECOG-ACRIN Cancer Research Group
+Trials, 1980-2008. J Clin Oncol. 2016;34:3544e3553.
+22. Stölzel F, Lüer T, Löck S, et al. The prevalence of extramedullary AML
+detected by 18-FDG/PET-CT: results from the prospective PET-AML
+Trial. Blood. 2014;124:2270.
+23. Angenendt L, Röllig C, Montesinos P, et al. Chromosomal abnormalities and prognosis in NPM1-mutated acute myeloid leukemia: a
+pooled analysis of individual patient data from nine international
+cohorts. J Clin Oncol. 2019;37(29):2632e2642.
+24. Ferguson P, Hills RK, Grech A, et al. An operational deﬁnition of primary refractory acute myeloid leukemia allowing early identiﬁcation
+of patients who may beneﬁt from allogeneic stem cell transplantation. Haematologica. 2016;101:1351e1358.
+25. Cornelissen JJ, Gratwohl A, Schlenk RF, et al. The European LeukemiaNet AML Working Party consensus statement on allogeneic HSCT
+for patients with AML in remission: an integrated-risk adapted
+approach. Nat Rev Clin Oncol. 2012;9:579e590.
+
+710
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+26. Gerstung M, Papaemmanuil E, Martincorena I, et al. Precision
+oncology for acute myeloid leukemia using a knowledge bank
+approach. Nat Genet. 2017;49:332e340.
+27. Freeman SD, Hills RK, Russell NH, et al. Induction response criteria in
+acute myeloid leukaemia: implications of a ﬂow cytometric measurable residual disease negative test in refractory adults. Br J Haematol.
+2019;186(1):130e133.
+28. Schuurhuis GJ, Heuser M, Freeman S, et al. Minimal/measurable residual disease in AML: a consensus document from the European
+LeukemiaNet MRD Working Party. Blood. 2018;131:1275e1291.
+29. Buccisano F, Maurillo L, Spagnoli A, et al. Cytogenetic and molecular
+diagnostic characterization combined to postconsolidation minimal
+residual disease assessment by ﬂow cytometry improves risk stratiﬁcation in adult acute myeloid leukemia. Blood. 2010;116:2295e
+2303.
+30. Zeijlemaker W, Kelder A, Oussoren-Brockhoff YJ, et al. Peripheral
+blood minimal residual disease may replace bone marrow minimal
+residual disease as an immunophenotypic biomarker for impending
+relapse in acute myeloid leukemia. Leukemia. 2016;30:708e715.
+31. Freeman SD, Hills RK, Virgo P, et al. Measurable residual disease at
+induction redeﬁnes partial response in acute myeloid leukemia and
+stratiﬁes outcomes in patients at standard risk without NPM1 mutations. J Clin Oncol. 2018;36:1486e1497.
+32. Jongen-Lavrencic M, Grob T, Hanekamp D, et al. Molecular minimal
+residual disease in acute myeloid leukemia. N Engl J Med. 2018;378:
+1189e1199.
+33. Thol F, Gabdoulline R, Liebich A, et al. Measurable residual disease
+(MRD) monitoring by NGS before allogeneic hematopoietic cell
+transplantation in AML. Blood. 2018;132:1703e1713.
+34. Platzbecker U, Avvisati G, Cicconi L, et al. Improved outcomes with
+retinoic acid and arsenic trioxide compared with retinoic acid and
+chemotherapy in non-high-risk acute promyelocytic leukemia: ﬁnal
+results of the randomized Italian-German APL0406 Trial. J Clin Oncol.
+2017;35:605e612.
+35. Grimwade D, Jovanovic JV, Hills RK, et al. Prospective minimal residual disease monitoring to predict relapse of acute promyelocytic
+leukemia and to direct pre-emptive arsenic trioxide therapy. J Clin
+Oncol. 2009;27:3650e3658.
+36. Oberoi S, Lehrnbecher T, Phillips B, et al. Leukapheresis and low-dose
+chemotherapy do not reduce early mortality in acute myeloid leukemia hyperleukocytosis: a systematic review and meta-analysis. Leuk
+Res. 2014;38:460e468.
+37. Rollig C, Ehninger G. How I treat hyperleukocytosis in acute myeloid
+leukemia. Blood. 2015;125:3246e3252.
+38. Demeestere I, Brice P, Peccatori FA, et al. No evidence for the beneﬁt
+of gonadotropin-releasing hormone agonist in preserving ovarian
+function and fertility in lymphoma survivors treated with chemotherapy: ﬁnal long-term report of a prospective randomized trial. J
+Clin Oncol. 2016;34:2568e2574.
+39. Burnett AK, Russell NH, Hills RK, et al. Optimization of chemotherapy
+for younger patients with acute myeloid leukemia: results of the
+medical research council AML15 trial. J Clin Oncol. 2013;31:3360e
+3368.
+40. Castaigne S, Pautas C, Terré C, et al. Effect of gemtuzumab ozogamicin
+on survival of adult patients with de-novo acute myeloid leukaemia
+(ALFA-0701): a randomised, open-label, phase 3 study. Lancet.
+2012;379:1508e1516.
+41. Lambert J, Pautas C, Terré C, et al. Gemtuzumab ozogamicin for de
+novo acute myeloid leukemia: ﬁnal efﬁcacy and safety updates from
+the open-label, phase III ALFA-0701 trial. Haematologica. 2019;104:
+113e119.
+42. Hills RK, Castaigne S, Appelbaum FR, et al. Addition of gemtuzumab
+ozogamicin to induction chemotherapy in adult patients with acute
+myeloid leukaemia: a meta-analysis of individual patient data from
+randomised controlled trials. Lancet Oncol. 2014;15:986e996.
+43. Lancet JE, Uy GL, Cortes JE, et al. CPX-351 (cytarabine and daunorubicin) liposome for injection versus conventional cytarabine plus
+daunorubicin in older patients with newly diagnosed secondary acute
+myeloid leukemia. J Clin Oncol. 2018;36:2684e2692.
+
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+M. Heuser et al.
+
+Annals of Oncology
+
+44. Stone RM, Mandrekar SJ, Sanford BL, et al. Midostaurin plus
+chemotherapy for acute myeloid leukemia with a FLT3 mutation. N
+Engl J Med. 2017;377:454e464.
+45. Schlenk RF, Paschka P, Krzykalla J, et al. Gemtuzumab ozogamicin in
+NPM1-mutated acute myeloid leukemia (AML): results from the
+prospective randomized AMLSG 09-09 phase-III study. Blood.
+2018;132:81.
+46. Holowiecki J, Grosicki S, Giebel S, et al. Cladribine, but not ﬂudarabine, added to daunorubicin and cytarabine during induction prolongs survival of patients with acute myeloid leukemia: a multicenter,
+randomized phase III study. J Clin Oncol. 2012;30:2441e2448.
+47. Baccarani M, Deininger MW, Rosti G, et al. European LeukemiaNet
+recommendations for the management of chronic myeloid leukemia:
+2013. Blood. 2013;122:872e884.
+48. Rowe JM, Kim HT, Cassileth PA, et al. Adult patients with acute
+myeloid leukemia who achieve complete remission after 1 or 2 cycles
+of induction have a similar prognosis: a report on 1980 patients
+registered to 6 studies conducted by the Eastern Cooperative
+Oncology Group. Cancer. 2010;116:5012e5021.
+49. Vellenga E, van Putten W, Ossenkoppele GJ, et al. Autologous peripheral blood stem cell transplantation for acute myeloid leukemia.
+Blood. 2011;118:6037e6042.
+50. Schlenk RF, Taskesen E, van Norden Y, et al. The value of allogeneic
+and autologous hematopoietic stem cell transplantation in prognostically favorable acute myeloid leukemia with double mutant CEBPA.
+Blood. 2013;122:1576e1582.
+51. Burnett AK, Hills RK, Milligan D, et al. Identiﬁcation of patients with
+acute myeloblastic leukemia who beneﬁt from the addition of gemtuzumab ozogamicin: results of the MRC AML15 trial. J Clin Oncol.
+2011;29:369e377.
+52. Cornelissen JJ, van Putten WL, Verdonck LF, et al. Results of a
+HOVON/SAKK donor versus no-donor analysis of myeloablative HLAidentical sibling stem cell transplantation in ﬁrst remission acute
+myeloid leukemia in young and middle-aged adults: beneﬁts for
+whom? Blood. 2007;109:3658e3666.
+53. Koreth J, Schlenk R, Kopecky KJ, et al. Allogeneic stem cell transplantation for acute myeloid leukemia in ﬁrst complete remission:
+systematic review and meta-analysis of prospective clinical trials.
+JAMA. 2009;301:2349e2361.
+54. Cornelissen JJ, Versluis J, Passweg JR, et al. Comparative therapeutic
+value of post-remission approaches in patients with acute myeloid
+leukemia aged 40-60 years. Leukemia. 2015;29:1041e1050.
+55. Cornelissen JJ, Blaise D. Hematopoietic stem cell transplantation for
+patients with AML in ﬁrst complete remission. Blood. 2016;127:62e
+70.
+56. Gorin NC, Labopin M, Czerw T, et al. Autologous stem cell transplantation for adult acute myelocytic leukemia in ﬁrst remission better outcomes after busulfan and melphalan compared with
+busulfan and cyclophosphamide: a retrospective study from the
+Acute Leukemia Working Party of the European Society for Blood and
+Marrow Transplantation (EBMT). Cancer. 2017;123:824e831.
+57. Lowenberg B. Sense and nonsense of high-dose cytarabine for acute
+myeloid leukemia. Blood. 2013;121:26e28.
+58. Cunningham I, Kohno B. 18FDG-PET/CT: 21st century approach to
+leukemic tumors in 124 cases. Am J Hematol. 2016;91:379e384.
+59. Bakst RL, Tallman MS, Douer D, Yahalom J. How I treat extramedullary
+acute myeloid leukemia. Blood. 2011;118:3785e3793.
+60. Duarte RF, Labopin M, Bader P, et al. Indications for haematopoietic
+stem cell transplantation for haematological diseases, solid tumours
+and immune disorders: current practice in Europe, 2019. Bone
+Marrow Transplant. 2019;54(10):1525e1552.
+61. Majhail NS, Farnia SH, Carpenter PA, et al. Indications for autologous
+and allogeneic hematopoietic cell transplantation: guidelines from
+the American Society for Blood and Marrow Transplantation. Biol
+Blood Marrow Transplant. 2015;21:1863e1869.
+62. Versluis J, Labopin M, Niederwieser D, et al. Prediction of non-relapse
+mortality in recipients of reduced intensity conditioning allogeneic
+stem cell transplantation with AML in ﬁrst complete remission. Leukemia. 2015;29:51e57.
+
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+63. Robinson TM, O’Donnell PV, Fuchs EJ, Luznik L. Haploidentical bone
+marrow and stem cell transplantation: experience with post-transplantation cyclophosphamide. Semin Hematol. 2016;53:90e97.
+64. Ruggeri A, Labopin M, Sanz G, et al. Comparison of outcomes after
+unrelated cord blood and unmanipulated haploidentical stem cell
+transplantation in adults with acute leukemia. Leukemia. 2015;29:
+1891e1900.
+65. Ciurea SO, Zhang MJ, Bacigalupo AA, et al. Haploidentical transplant
+with posttransplant cyclophosphamide vs matched unrelated donor
+transplant for acute myeloid leukemia. Blood. 2015;126:1033e1040.
+66. Milano F, Gooley T, Wood B, et al. Cord-blood transplantation in
+patients with minimal residual disease. N Engl J Med. 2016;375:944e
+953.
+67. Canaani J, Savani BN, Labopin M, et al. Donor age determines
+outcome in acute leukemia patients over 40 undergoing haploidentical hematopoietic cell transplantation. Am J Hematol.
+2018;93:246e253.
+68. Scott BL, Pasquini MC, Logan BR, et al. Myeloablative versus reducedintensity hematopoietic cell transplantation for acute myeloid leukemia and myelodysplastic syndromes. J Clin Oncol. 2017;35:1154e
+1161.
+69. Rambaldi A, Grassi A, Masciulli A, et al. Busulfan plus cyclophosphamide versus busulfan plus ﬂudarabine as a preparative regimen
+for allogeneic haemopoietic stem-cell transplantation in patients with
+acute myeloid leukaemia: an open-label, multicentre, randomised,
+phase 3 trial. Lancet Oncol. 2015;16:1525e1536.
+70. Jethava YS, Sica S, Savani B, et al. Conditioning regimens for allogeneic hematopoietic stem cell transplants in acute myeloid leukemia.
+Bone Marrow Transplant. 2017;52:1504e1511.
+71. Craddock C. Conditioning intensity in HCT for AML: the jury is still out.
+Lancet Haematol. 2018;5:e132ee133.
+72. Ruutu T, Gratwohl A, de Witte T, et al. Prophylaxis and treatment of
+GVHD: EBMT-ELN working group recommendations for a standardized
+practice. Bone Marrow Transplant. 2014;49:168e173.
+73. Larson RA, Mandrekar SJ, Sanford BL, et al. An analysis of maintenance therapy and post-midostaurin outcomes in the international
+prospective randomized, placebo-controlled, double-blind trial
+(CALGB 10603/RATIFY [Alliance]) for newly diagnosed acute myeloid
+leukemia (AML) patients with FLT3 mutations. Blood. 2017;130:145.
+74. Huls G, Chitu DA, Havelange V, et al. Azacitidine maintenance after
+intensive chemotherapy improves DFS in older AML patients. Blood.
+2019;133:1457e1464.
+75. Wei AH. The QUAZAR AML-001 maintenance trial: results of a phase
+III international, randomized, double-blind, placebo-controlled study
+of CC-486 (oral formulation of azacitidine) in patients with acute
+myeloid leukemia (AML) in ﬁrst remission. Blood. 2019;134(Suppl_2).
+LBA-3.
+76. Burchert A, Bug G, Finke J, et al. Sorafenib as maintenance therapy
+post allogeneic stem cell transplantation for FLT3-ITD positive AML:
+results from the randomized, double-blind, placebo-controlled multicentre Sormain Trial. Blood. 2018;132:661.
+77. Schlenk RF, Weber D, Fiedler W, et al. Midostaurin added to
+chemotherapy and continued single-agent maintenance therapy in
+acute myeloid leukemia with FLT3-ITD. Blood. 2019;133:840e851.
+78. de Lima M, Oran B, Champlin RE, et al. CC-486 Maintenance after
+stem cell transplantation in patients with acute myeloid leukemia or
+myelodysplastic syndromes. Biol Blood Marrow Transplant. 2018;24:
+2017e2024.
+79. Platzbecker U, Middeke JM, Sockel K, et al. Measurable residual
+disease-guided treatment with azacitidine to prevent haematological
+relapse in patients with myelodysplastic syndrome and acute myeloid
+leukaemia (RELAZA2): an open-label, multicentre, phase 2 trial.
+Lancet Oncol. 2018;19:1668e1679.
+80. Orti G, Barba P, Fox L, et al. Donor lymphocyte infusions in AML and
+MDS: enhancing the graft-versus-leukemia effect. Exp Hematol.
+2017;48:1e11.
+81. Dombret H, Seymour JF, Butrym A, et al. International phase 3
+study of azacitidine vs conventional care regimens in older patients
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+711
+
+M. Heuser et al.
+
+Annals of Oncology
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+
+712
+
+with newly diagnosed AML with >30% blasts. Blood. 2015;126:291e
+299.
+Kantarjian HM, Thomas XG, Dmoszynska A, et al. Multicenter, randomized, open-label, phase III trial of decitabine versus patient
+choice, with physician advice, of either supportive care or low-dose
+cytarabine for the treatment of older patients with newly diagnosed
+acute myeloid leukemia. J Clin Oncol. 2012;30:2670e2677.
+DiNardo CD, Pratz K, Pullarkat V, et al. Venetoclax combined with
+decitabine or azacitidine in treatment-naive, elderly patients with
+acute myeloid leukemia. Blood. 2019;133:7e17.
+Cortes JE, Heidel FH, Hellmann A, et al. Randomized comparison of
+low dose cytarabine with or without glasdegib in patients with newly
+diagnosed acute myeloid leukemia or high-risk myelodysplastic syndrome. Leukemia. 2019;33:379e389.
+Short NJ, Kantarjian HM, Garcia-Manero G, et al. A randomized phase
+II trial of 5-day versus 10-day schedules of decitabine for older patients with previously untreated acute myeloid leukemia. Blood.
+2017;130:2577.
+Burnett AK, Milligan D, Prentice AG, et al. A comparison of low-dose
+cytarabine and hydroxyurea with or without all-trans retinoic acid for
+acute myeloid leukemia and high-risk myelodysplastic syndrome in
+patients not considered ﬁt for intensive treatment. Cancer. 2007;109:
+1114e1124.
+DiNardo CD, Rausch CR, Benton C, et al. Clinical experience with the
+BCL2-inhibitor venetoclax in combination therapy for relapsed and
+refractory acute myeloid leukemia and related myeloid malignancies.
+Am J Hematol. 2018;93:401e407.
+Ram R, Amit O, Zuckerman T, et al. Venetoclax in patients with acute
+myeloid leukemia refractory to hypomethylating agents-a multicenter
+historical prospective study. Ann Hematol. 2019;98:1927e1932.
+Perl AE, Martinelli G, Cortes JE, et al. Gilteritinib or chemotherapy for
+relapsed or refractory FLT3-mutated AML. N Engl J Med. 2019;381:
+1728e1740.
+Revesz D, Chelghoum Y, Le QH, et al. Salvage by timed sequential
+chemotherapy in primary resistant acute myeloid leukemia: analysis
+of prognostic factors. Ann Hematol. 2003;82:684e690.
+Craddock C, Labopin M, Pillai S, et al. Factors predicting outcome
+after unrelated donor stem cell transplantation in primary refractory
+acute myeloid leukaemia. Leukemia. 2011;25:808e813.
+Schmid C, Schleuning M, Schwerdtfeger R, et al. Long-term survival in
+refractory acute myeloid leukemia after sequential treatment with
+chemotherapy and reduced-intensity conditioning for allogeneic stem
+cell transplantation. Blood. 2006;108:1092e1099.
+Breems DA, Van Putten WL, Huijgens PC, et al. Prognostic index for
+adult patients with acute myeloid leukemia in ﬁrst relapse. J Clin
+Oncol. 2005;23:1969e1978.
+Megias-Vericat JE, Martinez-Cuadron D, Sanz MA, Montesinos P.
+Salvage regimens using conventional chemotherapy agents for
+relapsed/refractory adult AML patients: a systematic literature review. Ann Hematol. 2018;97:1115e1153.
+Burnett AK, Goldstone A, Hills RK, et al. Curability of patients with
+acute myeloid leukemia who did not undergo transplantation in ﬁrst
+remission. J Clin Oncol. 2013;31:1293e1301.
+Wattad M, Weber D, Döhner K, et al. Impact of salvage regimens on
+response and overall survival in acute myeloid leukemia with induction failure. Leukemia. 2017;31:1306e1313.
+Schmid C, Labopin M, Nagler A, et al. Donor lymphocyte infusion in the
+treatment of ﬁrst hematological relapse after allogeneic stem-cell
+transplantation in adults with acute myeloid leukemia: a retrospective
+risk factors analysis and comparison with other strategies by the EBMT
+Acute Leukemia Working Party. J Clin Oncol. 2007;25:4938e4945.
+Schmid C, Labopin M, Nagler A, et al. Treatment, risk factors, and
+outcome of adults with relapsed AML after reduced intensity
+
+https://doi.org/10.1016/j.annonc.2020.02.018
+
+99.
+
+100.
+
+101.
+
+102.
+
+103.
+
+104.
+
+105.
+
+106.
+
+107.
+
+108.
+
+109.
+
+110.
+
+111.
+
+112.
+
+113.
+
+114.
+
+115.
+
+conditioning for allogeneic stem cell transplantation. Blood.
+2012;119:1599e1606.
+Craddock C, Labopin M, Robin M, et al. Clinical activity of azacitidine
+in patients who relapse after allogeneic stem cell transplantation for
+acute myeloid leukemia. Haematologica. 2016;101:879e883.
+Cortes JE, Khaled S, Martinelli G, et al. Quizartinib versus salvage
+chemotherapy in relapsed or refractory FLT3-ITD acute myeloid
+leukaemia (QuANTUM-R): a multicentre, randomised, controlled,
+open-label, phase 3 trial. Lancet Oncol. 2019;20:984e997.
+Stahl M, DeVeaux M, Montesinos P, et al. Hypomethylating agents in
+relapsed and refractory AML: outcomes and their predictors in a large
+international patient cohort. Blood Adv. 2018;2:923e932.
+DiNardo CD, Stein EM, de Botton S, et al. Durable remissions with
+ivosidenib in IDH1-mutated relapsed or refractory AML. N Engl J Med.
+2018;378:2386e2398.
+Stein EM, DiNardo CD, Pollyea DA, et al. Enasidenib in mutant IDH2
+relapsed or refractory acute myeloid leukemia. Blood. 2017;130:722e
+731.
+Fathi AT, DiNardo CD, Kline I, et al. Differentiation syndrome associated with enasidenib, a selective inhibitor of mutant isocitrate dehydrogenase 2: analysis of a phase 1/2 study. JAMA Oncol. 2018;4(8):
+1106e1110.
+Whittle AM, Feyler S, Bowen DT. Durable second complete remissions
+with oral melphalan in hypocellular acute myeloid leukemia and refractory anemia with excess blast with normal karyotype relapsing
+after intensive chemotherapy. Leukemia Res Rep. 2013;2:9e11.
+Sanz MA, Fenaux P, Tallman MS, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert
+panel of the European LeukemiaNet. Blood. 2019;133:1630e1643.
+Lo-Coco F, Avvisati G, Vignetti M, et al. Retinoic acid and arsenic
+trioxide for acute promyelocytic leukemia. N Engl J Med. 2013;369:
+111e121.
+Burnett AK, Russell NH, Hills RK, et al. Arsenic trioxide and all-trans
+retinoic acid treatment for acute promyelocytic leukaemia in all risk
+groups (AML17): results of a randomised, controlled, phase 3 trial.
+Lancet Oncol. 2015;16:1295e1305.
+Lo-Coco F, Avvisati G, Vignetti M, et al. Front-line treatment of acute
+promyelocytic leukemia with AIDA induction followed by riskadapted consolidation for adults younger than 61 years: results of
+the AIDA-2000 trial of the GIMEMA group. Blood. 2010;116:3171e
+3179.
+Iland HJ, Collins M, Bradstock K, et al. Use of arsenic trioxide in
+remission induction and consolidation therapy for acute promyelocytic leukaemia in the Australasian Leukaemia and Lymphoma Group
+(ALLG) APML4 study: a non-randomised phase 2 trial. Lancet Haematol. 2015;2:e357ee366.
+Lo-Coco F, Cimino G, Breccia M, et al. Gemtuzumab ozogamicin
+(Mylotarg) as a single agent for molecularly relapsed acute promyelocytic leukemia. Blood. 2004;104:1995e1999.
+Abaza Y, Kantarjian H, Garcia-Manero G, et al. Long-term outcome of
+acute promyelocytic leukemia treated with all-trans-retinoic acid,
+arsenic trioxide, and gemtuzumab. Blood. 2017;129:1275e1283.
+Ganzel C, Mathews V, Alimoghaddam K, et al. Autologous transplant
+remains the preferred therapy for relapsed APL in CR2. Bone Marrow
+Transplant. 2016;51:1180e1183.
+Au WY, Tam S, Fong BM, Kwong YL. Determinants of cerebrospinal ﬂuid
+arsenic concentration in patients with acute promyelocytic leukemia on
+oral arsenic trioxide therapy. Blood. 2008;112:3587e3590.
+Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis. 2001;33(2):139e144 (Adapted from: Gross PA, Barrett TL,
+Dellinger EP, et al. Purpose of quality standards for infectious diseases. Clin Infect Dis. 1994;18:421).
+
+Volume 31
+
+-
+
+Issue 6
+
+-
+
+2020
+
+

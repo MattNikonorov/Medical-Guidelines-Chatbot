@@ -1,0 +1,1417 @@
+clinical practice guidelines
+
+Annals of Oncology 27 (Supplement 5): v91–v102, 2016
+doi:10.1093/annonc/mdw175
+Published online 4 July 2016
+
+Extranodal diffuse large B-cell lymphoma (DLBCL)
+and primary mediastinal B-cell lymphoma: ESMO
+Clinical Practice Guidelines for diagnosis,
+treatment and follow-up†
+U. Vitolo1, J. F. Seymour2, M. Martelli3, G. Illerhaus4, T. Illidge5, E. Zucca6, E. Campo7 & M. Ladetto8
+on behalf of the ESMO Guidelines Committee*
+1
+
+Hematology, University-Hospital Città della Salute e della Scienza, Torino, Italy; 2Peter MacCallum Cancer Centre, and University of Melbourne, Melbourne, Australia;
+Department of Cellular Biotechnologies and Hematology, University ‘Sapienza’, Rome, Italy; 4Clinic of Hematology, Oncology and Palliative Care, Klinikum Stuttgart,
+Stuttgart, Germany; 5Institute of Cancer Sciences, Manchester Academic Health Sciences Centre, Christie Hospital, Manchester, UK; 6Oncology Institute of Southern
+Switzerland, Bellinzona, Switzerland; 7Department of Anatomic Pathology, Hospital Clinic, Institut d’Investigacions Biomèdiques August Pi i Sunver (IDIBAPS), University of
+Barcelona, Barcelona, Spain; 8Divisione di Ematologia, Azienda Ospedaliera Santi Antonio e Biagio e Cesare Arrigo, Alessandria, Italy
+
+aim of the guidelines
+The aim of these guidelines is to provide practical clinical
+guidance and recommendations to clinicians to manage diffuse
+large B-cell lymphomas (DLBCLs) that arise in extranodal
+sites. DLBCL may arise in virtually any extranodal sites, but the
+majority of these are treated as the nodal counterpart, i.e. gastric
+DLBCL. For the recommended treatment, the reader can refer
+to the 2015 ESMO DLBCL guidelines [1]. The choice of the
+entities included in these guidelines is based on the clinical need
+to give recommendations for those entities which require a
+speciﬁc therapeutic approach. Recommendations for primary
+cutaneous DLBCL have been already reported by ESMO.
+
+incidence and epidemiology
+DLBCL is one of the most common lymphoid neoplasms, representing 30%–58% of non-Hodgkin’s lymphoma (NHL) and with a
+crude incidence in Europe of 3.8/100 000/year. Despite a common
+morphology characterised by the diffuse proliferation of mature
+large B cells, these tumours are clinically and biologically very heterogeneous. Most DLBCLs originate in lymph nodes, but ≤40%
+initially present in extranodal sites [2]. Differences in molecular
+pathogenesis, clinical presentation and natural history indicate that
+extranodal DLBCLs are distinct entities [2]. The most common
+site of origin is the gastrointestinal tract, but many other organs
+and tissues may be involved such as the mediastinum, testis,
+central nervous system (CNS), breast and bone. Here, we provide
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4,
+CH-6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Committee: June 2016.
+
+guidelines for the clinical management of DLBCLs arising as
+primary tumours of the mediastinum, testis, CNS, breast and
+bone, whereas nodal DLBCLs have been considered separately [1].
+These subtypes of extranodal DLBCLs represent ∼1%–5% of all
+NHLs, and this low frequency makes the analysis of disease-specific epidemiological factors difﬁcult [3].
+
+diagnosis and pathology/molecular
+biology
+The diagnosis of DLBCL should be carried out in a reference
+haematopathology laboratory with expertise in morphological
+interpretation and the facilities to carry out the full range of
+phenotypic and molecular investigations. Details on methods
+for pathological diagnosis, immunohistochemistry and molecular biology have been fully reported in ESMO guidelines for
+nodal DLBCLs [1].
+
+primary mediastinal large B-cell lymphoma
+Primary mediastinal large B-cell lymphoma (PMBCL) represents
+∼10% of all DLBCLs and it is more commonly seen in women in
+their third to fourth decades of life [3]. These tumours derive from
+a medullary thymic B cell and are composed of large cells expressing pan B-cell markers, but are negative for surface Ig. The
+tumour cells are usually positive for CD23, weakly positive for
+CD30 and negative for CD15. BCL6, CD10 and IRF4 are expressed
+in a variable number of cases. Some tumours have morphological,
+phenotypic and molecular features close to nodular sclerosing
+Hodgkin’s lymphoma (HL). These tumours have been included in
+the World Health Organization (WHO) category of B-cell lymphoma as unclassiﬁable and with features intermediate between
+DLBCL and classical HL [3]. The molecular alterations detected in
+PMBCL target three major mechanisms: NFkB activation (REL
+
+© The Author 2016. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+clinical practice
+guidelines
+
+3
+
+clinical practice guidelines
+ampliﬁcation, inactivating mutations of TNFAIP3), JAK-STAT
+pathway activation (inactivating mutations of SOCS1, JAK2 ampliﬁcation and IL13 overexpression) and modulation of tumour cell
+interactions with the microenvironment and immune system
+(down-regulation of HLA class II, PDL-1 and 2 ampliﬁcations or
+translocations) [4].
+
+primary testicular lymphomas
+Primary testicular lymphomas (PTLs) are mainly DLBCLs
+(80%–90%) and a minority of other histological subtypes such
+as plasmablastic, Burkitt’s or mantle cell lymphoma and, rarely,
+low-grade follicular lymphomas (FLs) or T-cell lymphomas [5].
+Some features of DLBCL (e.g. plasmacytoid differentiation,
+somatic hypermutation of immunoglobulin heavy-chain genes
+and higher frequency of the loss of HLA-DR and DQ expression) suggest the possibility of antigen-driven stimulation. In
+addition, an altered expression of cell surface adhesion molecules may explain the propensity to disseminate to extranodal
+sites. Cell of origin (COO) studies show an activated B-cell
+(ABC) pattern in 60%–96% of cases. Mutations of MYD88 were
+found in ∼70% of PTLs, compared with <20% in patients with
+nodal DLBCLs. Interestingly, 19% of these MYD88-mutated
+cases also carry CD79a mutations [6]. Inactivating mutations of
+B2M and rearrangements of PDL, CIITA and FOXP1 have also
+been found in 2%–10% of the cases, emphasising the role of
+tumour microenvironment interactions in the pathogenesis of
+these tumours.
+
+primary central nervous system lymphomas
+Primary CNS lymphomas (PCNSLs) in immunocompetent
+patients represent 2%–3% of all brain tumours. Most of these
+cases are DLBCLs and 10%–20% develop intraocular lesions.
+Extraneural dissemination is rare, but clonally related cells have
+been detected in the blood of some of these patients [7].
+Different studies to determine the COO have yielded inconclusive results with many tumours expressing both germinal centre
+(GC) markers and the ABC marker IRF4 [7]. Molecular studies
+have shown activation of NFkB and BCR/MYD88 pathways and
+deletions of the HLA gene locus at 6p21.32, suggesting that,
+similarly to PTLs and PMBCLs, interactions with the microenvironment are important pathogenic mechanisms [7].
+MYD88 mutations have been detected in 30%–75% of cases and
+CD79A/B mutations in up to 45%, with substantial overlap in
+the positive cases, so that many carry both mutations [8].
+
+primary diffuse large B-cell lymphoma of the breast
+Primary breast lymphoma (PBL) is an uncommon tumour
+representing <1% of NHLs and <0.5% of all breast tumours.
+Histologically, these lymphomas are heterogeneous and include
+DLBCLs, which are the most common form, mucosa-associated
+lymphoid tissue (MALT) lymphomas, FL, Burkitt’s lymphomas
+(mainly occurring during pregnancy or lactation) and anaplastic
+lymphoma kinase-negative T-cell lymphomas, which are associated with breast implants. Molecularly, primary breast DLBCLs
+are mainly of ABC-subtype and cytogenetic studies have observed
+trisomy 3 and 18 and chromosome 18 translocations involving
+IGH/MALT1 as in low-grade MALT lymphomas [9].
+
+v | Vitolo et al.
+
+Annals of Oncology
+
+primary diffuse large B-cell lymphoma of the bone
+Primary bone lymphoma (PBoL) is a rare category accounting
+for <1% of NHLs and ∼5% of either all primary extranodal
+NHLs or all bone tumours. It is deﬁned as a lymphoma conﬁned
+to bones and is usually radiologically evident. These tumours
+may be clinically distinct from primary bone marrow lymphomas, in which the tumour cells are restricted to the marrow
+cavity without radiological or histological evidence of cortical
+bone destruction [10]. However, this distinction is challenged in
+the present positron emission tomography (PET) era by the increasing recognition of asymptomatic lesions with focal bone
+marrow uptake, sometimes but not necessarily accompanied by
+alterations of the bone tissue. They are more common in midelderly men and the vast majority are DLBCLs, although other
+subtypes may also rarely occur. Non-GC phenotype is slightly
+more common than GC. BCL2, BCL6 and MYC rearrangements
+may be found in 19%, 14% and 9% of the cases, respectively.
+There is insufﬁcient literature and too few reported patient outcomes to enable ﬁrm conclusions regarding the prognostic
+impact of the COO.
+
+staging and risk assessment
+Baseline assessments and procedures do not generally differ
+from those required for patients presenting with nodal DLBCLs
+and include: physical exam, determination of performance
+status (PS), B symptom assessment, complete blood count,
+routine blood chemistry with lactate dehydrogenase (LDH) and
+screening tests for human immunodeﬁciency virus and hepatitis
+B and C (Table 1).
+Based on the new consensus recommendations for staging
+and restaging of lymphoma developed by the clinical and
+imaging working groups of the International Conference on
+Malignant Lymphomas, ﬂuorodeoxyglucose positron emission
+tomography/computed tomography (FDG-PET/CT) scan is
+now recommended as standard practice both for staging
+patients with DLBCL and for response assessment based on the
+visual Deauville criteria (ﬁve-point scale, Table 2) [11].
+Additional and speciﬁc staging procedures are reported in
+each section for different extranodal sites and are summarised in
+Table 1.
+The disease staging is established as nodal DLBCL according to
+the Ann Arbor classiﬁcation system (Table 3). In extranodal
+DLBCL, the discriminating utility of the International Prognostic
+Index (IPI) and age-adapted IPI (aaIPI) is not fully evaluated;
+however, these tools should be calculated for prognostic purposes
+at least to differentiate between localised versus advanced stage
+disease [II, A] (Table 4). Speciﬁc risk score models have been developed by the International Extranodal Study Group (IELSG) for
+PCNSL and PBoL; they are described in each related paragraph
+below and are summarised in Table 5 [12] and Table 6 [13].
+
+treatment
+The treatment and recommendations for each entity are detailed
+separately in each section. The International Lymphoma Radiation
+Oncology Group have recently published comprehensive guidelines on the use of radiotherapy (RT) in extranodal lymphomas,
+
+Volume 27 | Supplement 5 | September 2016
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 1. Summary of diagnostic work-up
+Diagnostic work-up for all entities
+Physical examination
+Laboratory
+Serology
+Imaging
+Bone marrow
+Additional diagnostic work-up for specific entity
+Brain MRI
+Cytology and flow cytometry of cerebral spinal fluid
+Testicular ultrasound
+Ocular slit-lamp examination
+Involved MRI of bone lesion
+
+Peripheral lymph nodes, liver, spleen
+Blood cell and differential count, renal and liver function, LDH, uric acid
+Hepatitis B (including HBsAg, anti-HBs and anti-HBc antibodies) and C, HIV
+serology
+CT neck, chest, abdomen and pelvis, PET/CT
+Histology
+PTL
+
+PCNSL
+
+PBL
+
+PBoL
+
+Yes
+Yes
+Yes
+No
+No
+
+Yes
+Yes
+Elderly males yes
+Yes
+No
+
+Yes
+Yes
+No
+No
+No
+
+Noa
+Noa
+No
+No
+Yes
+
+LDH, lactate dehydrogenase; HIV, human immunodeficiency virus; CT, computed tomography; PET/CT, positron emission tomography/computed
+tomography; PTL, primary testicular lymphoma; PCNSL, primary central nervous system lymphoma; PBL, primary breast lymphoma; PBoL, primary bone
+lymphoma; MRI, magnetic resonance imaging.
+a
+Only if involvement of skull and/or spine.
+
+Table 2. Positron emission tomography (PET) five-point scale
+(Deauville criteria)
+1
+2
+3
+4
+5
+
+No uptake
+Uptake ≤mediastinum
+Uptake >mediastinum but ≤liver
+Moderately increased uptake compared with liver
+Markedly increased uptake to liver and/or new lesions
+
+Table 4. International prognostic index (IPI)
+International prognostic index—IPI
+Risk factors
+
+Age >60 years
+Serum LDH > normal
+Stage III–IV
+PS 2–4
+Extranodal sites >1
+
+Risk categories
+
+Low
+Low intermediate
+High intermediate
+High
+
+Table 3. Ann Arbor staging classification
+Stage
+I
+II
+
+III
+IV
+
+Involvement of a single lymphatic region (I) or localised
+involvement of single extralymphatic organ or site (IE)
+Involvement of two or more lymphatic regions on the same side
+of the diaphragm (II) or localised involvement of a single
+extralymphatic organ or site and of one or more lymphatic
+regions on the same side of the diaphragm (IIE)
+Involvement of lymphatic regions on both sides of the
+diaphragm
+Diffuse or disseminated involvement of one or more
+extralymphatic organs with or without lymphatic involvement
+
+0–1
+2
+3
+4–5
+
+Age-adjusted international prognostic index—aaIPI—in patients ≤60 years
+Risk factors
+
+Serum LDH > normal
+Stage III–IV
+PS 2–4
+
+Risk categories
+
+Low
+Low intermediate
+High intermediate
+High
+
+0
+1
+2
+3
+
+LDH, lactate dehydrogenase; PS, performance status.
+
+and these guidelines should be referenced in every section regarding the detailed techniques and dose requirements [14].
+
+primary mediastinal large B-cell lymphomas
+PMBCLs usually present with a bulky tumour in the anterior
+mediastinum, with local compressive symptoms including dyspnoea, cough, dysphagia and a superior vena cava syndrome in
+∼50% of cases. Pleural or pericardial effusions are often present.
+Particular extranodal sites such as kidneys, adrenal glands, liver
+and ovaries may be involved, particularly in the setting of
+disease recurrence. For prognostic characterisation, the IPI
+remains the standard score, but its discriminatory utility in
+
+Volume 27 | Supplement 5 | September 2016
+
+PMBCL is limited by the age distribution of the disease and its
+usual conﬁnement to the mediastinum.
+FDG-PET/CT scan is mandatory to assess disease extent and
+to obtain better deﬁnition of the residual mediastinal masses at
+the completion of treatment, because PMBCL shows universal
+avidity for [18F]-2-ﬂuoro-2-deoxyglucose.
+treatment. The combination of rituximab with cyclophosphamide,
+doxorubicin, vincristine and prednisolone (R-CHOP) or with
+VACOP-B (etoposide, doxorubicin, cyclophosphamide, vincristine,
+prednisolone
+and
+bleomycin)/MACOP-B
+(methotrexate,
+
+doi:10.1093/annonc/mdw175 | v
+
+clinical practice guidelines
+Table 5. The International Extranodal Lymphoma Study Group
+(IELSG) prognostic score for PCNSL
+Variable
+
+Favourable feature
+(value ‘0’)
+
+Unfavourable feature
+(value ‘1’)
+
+Age (years)
+
+<60
+
+>60
+
+ECOG PS score
+
+0–1
+
+>1
+
+Lactate dehydrogenase
+serum level
+
+Normal
+
+Elevated
+
+Cerebrospinal fluid
+protein level
+
+Normal
+
+Elevated
+
+Involvement of deep
+regions of the CNSa
+
+No
+
+Yes
+
+IELSG score 0–1, low risk; 2–3, intermediate risk; 4–5, high risk.
+PCNSL, primary central nervous system lymphoma; ECOG PS, Eastern
+Cooperative Oncology Group performance status; CNS, central nervous
+system.
+Reprinted from [12] with permission. @2003 American Society of
+Clinical Oncology. All rights reserved.
+a
+Deep regions include the corpus callosum, basal ganglia, brain stem and
+cerebellum.
+
+Table 6. The International Extranodal Lymphoma Study Group
+(IELSG) staging system for DLBCL of the bone
+Lymphoma extension
+
+IELSG
+Stage
+
+Single bony lesion
+Single bony lesion with involvement of regional lymph
+nodes
+Multifocal disease in a single bone or lesions in multiple
+bones in a disease exclusively limited to the skeleton
+(without lymph nodal or visceral disease)a
+Disseminated lymphoma with at least one bony lesion
+
+IE
+IIE
+IVE
+
+IV
+
+Reprinted from [13], with permission from Elsevier.
+Also called multifocal osteolymphoma or polyostotic lymphoma.
+
+Annals of Oncology
+
+The role of consolidative mediastinal RT in the 50% of patients
+with CMR (PET/CT negative) post-chemoimmunotherapy is currently being investigated. The results of the ongoing comparative
+randomised trial (IELSG-37) (NCT01599559) will determine
+whether consolidative RT could be omitted in patients with a
+CMR at the post-chemoimmunotherapy PET/CT scan following
+R-CHOP-like regimens. Outside of a clinical trial, there are insufﬁcient data to support omission, especially as relapses are difﬁcult to salvage with poor outcomes.
+Based on the good results achieved with rituximab chemotherapy combination regimens ± RT, high-dose chemotherapy
+followed by autologous stem cell transplantation (HDCT/
+ASCT) is not recommended in patients who achieved complete
+remission (CR), even in initially poor-risk patients who attain
+an adequate response to initial therapy [III, A].
+In young patients who do not obtain an adequate response
+(i.e. less than partial response) with an elevated FDG uptake at
+the post-chemoimmunotherapy PET/CT scan, if residual
+disease is conﬁrmed by biopsy when feasible, an intensiﬁcation
+therapy with HDCT/ASCT is recommended [III, B].
+post-treatment evaluation. A PET/CT scan in PMBCL has an
+excellent negative predictive value, but it also has a low positive
+predictive value due to the high frequency of false-positive
+scans. Thus, positive PET scans require further investigation
+before modifying planned therapy. Several patients with
+persistent metabolically active masses underwent biopsies,
+which showed necrosis but no lymphoma. False increased FDG
+uptake may be due to an inﬂammatory response produced
+by the addition of rituximab to chemotherapy or a thymic
+rebound, which is particularly relevant, given the location of the
+disease [17]. Thus, positive PET scans require further investigation
+before modifying planned therapy. A post-treatment PET/CT
+response evaluation should not be carried out until at least 5–6
+weeks from the last infusion of chemotherapy to minimise the
+incidence of these false-positive scans. Serial scanning may be
+required to fully evaluate areas of residual post-treatment PET
+tracer uptake, with many patients manifesting gradual resolution.
+
+a
+
+doxorubicin, cyclophosphamide, vincristine, prednisolone and
+bleomycin) (R-V/MACOP-B), dose-dense CHOP (R-CHOP14) or
+more intensive chemotherapy regimens such as DA-EPOCH-R
+(dose-adjusted
+etoposide,
+prednisone,
+vincristine
+cyclophosphamide, doxorubicin and rituximab) are the current
+standard treatments for PMBCLs and any of them can be used
+according to the centre’s experience [III, A] [15, 16].
+Consolidative mediastinal RT is recommended in responding
+patients treated with standard-dose chemoimmunotherapy (RCHOP/R-V/MACOP-B) [II, A] [16].
+Based on the results of a small phase II study, consolidative mediastinal RT could be omitted in patients with a complete metabolic
+response (CMR) only after DA-EPOCH-R [III, C] [15]. However,
+these results need to be validated in a larger, multicentre series.
+Where used, consolidative mediastinal RT should be administered with doses in the range 30–36 Gy, in 1.5–2.0 Gy fractions
+[II, A].
+
+v | Vitolo et al.
+
+treatment of relapsed/refractory PMBCL. The probability of
+recurrence after successful initial therapy for PMBCL appears to
+be lower than for other DLBCLs, and those patients who achieve
+a response lasting longer than 18 months are likely to be cured.
+Salvage treatment strategies of relapsed/resistant patients are
+similar to nodal DLBCLs, and include attempting reinduction
+with non-cross-resistant agents followed by consolidation with
+HDCT/ASCT in patients with chemosensitive disease [II, A].
+If radiation has not been a component of initial therapy, RT
+should be incorporated into the salvage treatment programme
+for patients with relapsed disease, ideally post-transplant if signiﬁcant mediastinal or lung volumes are involved.
+
+primary testicular lymphomas
+PTLs usually present as a limited stage disease with most patients
+having a unilateral testicular mass, although bilateral testicular involvement occurs in ∼10%. There is a propensity for an aggressive clinical behaviour with dissemination to multiple extranodal
+sites, such as lung, pleura, skin (up to 35%), soft tissues and
+
+Volume 27 | Supplement 5 | September 2016
+
+Annals of Oncology
+
+Waldeyer’s ring (5%). CNS relapses are frequent and occur in up
+to 30% of PTL patients within 1–2 years of diagnosis, but can
+also be delayed in presentation [18]. For staging, in addition to
+the standard tests, ultrasound of the contralateral testis, brain
+nuclear magnetic resonance imaging (MRI) and diagnostic
+lumbar puncture with cytological and ﬂow cytometric analysis on
+cerebrospinal ﬂuid (CSF) are mandatory. Orchiectomy remains a
+mandatory step in the management of PTL, both for diagnostic
+and for therapeutic aims [III, A] [19].
+treatment. In the IELSG retrospective series, chemotherapy
+with anthracycline-containing regimens signiﬁcantly improved
+the outcome in all patients [19]. Despite the lack of randomised
+studies, some retrospective studies and a prospective one
+(IELSG10) provided evidence of the beneﬁt of the addition of
+rituximab to chemotherapy [20]. Six to eight cycles of R-CHOP
+given every 21 days is the current standard [II, A].
+If orchiectomy is not carried out, RT is given to the involved
+testis. The addition of RT to the contralateral testis signiﬁcantly
+reduces or abrogates testicular relapses in retrospective and prospective studies [19–21]. Hence, prophylactic RT to the contralateral testis and scrotum is strongly recommended [III, A]. The
+dose to the testis should be 25–30 Gy in 1.5–2 Gy fractions.
+Such treatment to the remaining testis is associated with a substantial risk of hypogonadism; therefore, sequential monitoring
+of testosterone levels and replacement therapy are clinically important and should be included in the follow-up programme for
+these patients. RT was given in the past to involved abdominopelvic nodes in stage IIE disease; however, the lack of wellconducted trials makes it difﬁcult to assess the role of nodal RT
+in this setting. Indeed, also in nodal DLBCL, with the introduction of PET reassessment after R-CHOP, consolidation RT is
+less frequently used in patients who achieved a PET-negative
+CR. Based on these indirect data and considering the increased
+toxicity, RT to involved nodes could be safely omitted if PET
+negative after R-CHOP chemotherapy [III, C], as in the ongoing
+IELSG30 phase II study (NCT00945724).
+Although some conﬂicting data exist, a prophylactic therapy to
+reduce the risk of CNS relapse should be added to the treatment
+[III, B]. Two options can be considered: intrathecal chemotherapy
+with methotrexate (MTX) is the most common one; alternatively,
+intravenous systemic MTX can be employed as part of overall treatment [III, B] [5]. The best strategy to further reduce CNS recurrence
+remains an open issue. The ongoing IELSG30 phase II study that
+includes both intrathecal chemotherapy with liposomal cytarabine
+and systemic prophylaxis with a lower dose of MTX (1.5 g/m2) to
+spare toxicity in elderly PTL patients aims at addressing this issue.
+In summary, the recommended treatment for stage I–II PTL
+consists of R-CHOP21 × 6–8 courses, with the addition of CNS
+prophylaxis and prophylactic RT to the contralateral testis.
+The therapy of advanced-stage PTLs is not different from the
+standard treatment of advanced-stage nodal DLBCLs. Unlike
+nodal DLBCLs, two treatment issues should be incorporated in
+the therapeutic strategy: prophylactic testicular RT and CNS
+prophylaxis [18].
+post-treatment evaluation. As in nodal DLBCLs, FDG-PET/CT
+can be considered the recommended standard for post-treatment
+assessment in PTL.
+
+Volume 27 | Supplement 5 | September 2016
+
+clinical practice guidelines
+treatment of relapsed/refractory PTL. Standard therapeutic
+option for these patients has not yet been deﬁned in prospective
+trials. HDCT/ASCT, if feasible, should be the preferred treatment
+strategy in chemosensitive relapse as in nodal DLBCL [I, A] [22].
+However, many PTL patients are elderly, with poor PS and multiorgan dysfunction; the inclusion of these patients in clinical trials
+testing novel drugs is advisable.
+
+primary CNS lymphomas
+PCNSLs are rare diseases deﬁned by involvement of the cerebral
+parenchyma, leptomeninges, eyes or spinal cord without evidence of systemic disease.
+Patients with PCNSL usually present with focal neurological
+deﬁcits and/or neuropsychiatric symptoms. Symptoms of
+increased intracranial pressure and seizures are less frequent
+[12]. Approximately 10%–20% of patients have ocular involvement, with ﬂoaters, blurred vision, diminished visual acuity and
+painful red eyes. About one-third of patients present with multifocal neurological disease, with highly diverse deﬁcits.
+Stereotactic biopsy is recommended as a minimal invasive
+technique to obtain histopathological diagnosis [III, A]; therefore,
+resection of PCNSL cannot be recommended, because of the
+associated morbidity and lack of evidence for beneﬁt [23].
+Glucocorticoid therapy can interfere with an accurate histopathological diagnosis; therefore, it should be avoided before biopsy if
+possible without clinically compromising the patient [24].
+At diagnosis, patients should undergo contrast-enhanced brain
+MRI as the standard for baseline and response assessment, as
+well as cytological evaluation and ﬂow cytometry of the CSF. In
+addition, slit-lamp examination should be carried out to investigate possible ocular involvement. CT scans of the chest, abdomen
+and pelvis or a PET/CT scan is carried out to exclude systemic
+disease. Additionally, testicular ultrasound examination in elderly
+male patients is recommended [V, B] [23]. In PCNSL, the value
+of a bone marrow examination is controversial; however, it is still
+part of baseline investigations in current PCNSL trials.
+The IELSG has proposed a prognostic system for PCNSL
+based on the following independent prognostic factors: age >60
+years, Eastern Cooperative Oncology Group (ECOG) PS >1,
+elevated serum LDH, elevated CSF protein concentration
+and tumour localisation within the deep regions of the brain.
+Three risk classes are deﬁned for patients with 0–1 (good-risk),
+2–3 (intermediate-risk) or 4–5 ( poor-risk) prognostic factors
+(Table 5) [12]. Another validated risk score developed by Abrey
+et al. [25] only requires age and clinical PS to build three different risk groups good risk ( patients <50 years), intermediate risk
+( patients ≥50 years and Karnofsky performance score [KPS]
+≥70) and high risk ( patients ≥50; KPS <70).
+ﬁrst-line treatment. Historically, whole-brain radiotherapy
+(WBRT) has been the standard treatment for PCNSL. Despite
+the high CR rate, the disease relapses in almost all patients after
+a few months, with a median survival of 12 months and few
+long-term survivors. The addition of chemotherapy to WBRT
+has been recommended to improve survival of PCNSL patients.
+High-dose MTX (HD-MTX; at least 3 g/m² over 2–4 hours
+rapid infusion time) is considered the most effective single agent
+for treating PCNSL [25]; however, based on prospective studies,
+
+doi:10.1093/annonc/mdw175 | v
+
+clinical practice guidelines
+CR rates are usually <30% with single-agent, high-dose MTX.
+The addition of high-dose cytarabine (HD-ara-C) has been
+shown to signiﬁcantly improve response rate (RR) and failurefree survival, compared with high-dose MTX alone in a phase II
+randomised trial [26]. Other CHOP-like protocols were associated with unsatisfactory results in PCNSL [26]. Several singlearm studies have investigated other drugs in combination with
+HD-MTX without clear additional beneﬁt, including ifosfamide,
+thiotepa, procarbazine, vincristine and temozolomide [27].
+The role of prophylactic intrathecal chemotherapy is unclear.
+Retrospective studies do not suggest a beneﬁt from adding intrathecal chemotherapy combined to systemic high-dose MTX. On
+the other hand, other non-randomised studies suggested that
+intraventricular treatment combined with an MTX-based chemotherapy was effective in reducing relapse rate [28]. Thus, the effectiveness of intrathecal therapy is contradictory and may
+different according to the route of administration. In summary,
+intrathecal chemotherapy cannot be routinely recommended
+if appropriate systemic chemotherapy is applied, but could be
+considered in the case of severe meningeal involvement [IV, C]
+[24, 29].
+RT with doses between 40 and 45 Gy in 20–25 fractions is primarily used as consolidative therapy following HD-MTX-based
+chemotherapy. Higher RT doses following chemotherapy are
+associated with an increased risk of neurotoxicity, which is particularly pronounced in the older age group (30% of all patients
+and 40%–50% of those >60 years of age). This neurotoxicity led
+to testing lower RT doses, as low as 30–36 Gy for WBRT or
+23.4 Gy after chemotherapy-induced CR [27]. These regimens
+appeared to be effective and without prohibitive RT-related toxicity, even in elderly patients [27, 29–31].
+HDCT/ASCT represents an alternative strategy for consolidation treatment aimed at sparing neurotoxicity, avoiding RT and
+improving outcome. HDCT/ASCT has been used as part of
+front-line treatment in PCNSL patients with encouraging
+results, mostly using thiotepa-based conditioning regimens with
+overall remission rates of up to 91% and a 5-year overall survival
+(OS) of 87% for those who completed HDCT [32]. Another approach to avoid WBRT is consolidation with dose-intensive
+conventional chemotherapy, such as etoposide and ara-C after
+HD-MTX-based induction [24].
+Recently, the preliminary results of IELSG32 randomised
+study (NCT01011920, Eudra CT number 2009-014722-42) suggested a beneﬁt of the addition of rituximab and thiotepa in
+newly diagnosed PCNSL with regard to RR, progression-free
+survival (PFS) and OS [33]. This is also supported by retrospective
+series investigating combination of rituximab with HD-MTX.
+elderly patients (age >70 years or patients with comorbidities).
+Selected elderly patients are often able to tolerate HD-MTXbased treatment, with dosage guided by renal function [24].
+Based on a recent systematic review and individual patient data
+meta-analysis, HD-MTX-based treatment was associated with
+an improved survival outcome [34]. Further combinations with
+oral alkylating agents such as lomustine (CCNU) and
+procarbazine ± vincristine are feasible, active and are warranted
+to be compared with HD MTX alone [31, 35]. Overall, HD
+MTX-based treatment should be considered whenever possible
+in elderly patients with PCNSL [II, A]. WBRT should not be a
+
+v | Vitolo et al.
+
+Annals of Oncology
+
+routine component of front-line therapy in elderly patients able
+to tolerate other therapies, due to its high rate of neurotoxicity,
+and is reserved for frail patients or patients with refractory
+disease [14].
+In summary, HD-MTX-based regimens, in combination with
+HD-ara-C, are recommended for induction treatment if possible
+based on patient age, PS and organ function [I, A]. HD-MTXbased treatment should be considered whenever possible in
+elderly patients with PCNSL [II, A].
+The use of WBRT as consolidation after HD-MTX-based
+chemotherapy is still commonly applied in young patients and
+generally avoided in those >60 years, as the risk of neurotoxicity
+(including cognitive deterioration) is particularly high in elderly
+patients [III, B].
+Thus, we recommend that consolidation RT should be
+avoided in elderly patients who achieved CR [III, B], while in
+those not reaching CR, it is preferable to use lower doses of
+WBRT (36 or 23.4 Gy) based on response [III, B].
+Whether RT can safely be omitted without compromising
+long-term outcome also in younger patients in CR remains controversial [III, C]. HDCT/ASCT as consolidation treatment
+could be considered as an alternative to WBRT in eligible
+patients [III, B].
+post-treatment evaluation. Brain MRI is the standard for
+response evaluation. For patients with previous CSF involvement,
+CSF analysis (cytology and ﬂow cytometry) should be added, as
+well as spinal imaging as clinically indicated. In the follow-up,
+brain MRI monitoring may be helpful to rule out progression,
+but the overall clinical utility of such a surveillance strategy is
+unproven. For patients with prior CSF or ocular involvement,
+speciﬁc assessments (i.e. CSF evaluation or ophthalmologic
+evaluation) are needed as clinically indicated. Based on the rarity
+of systemic progressions, additional systemic evaluation (i.e. CT
+or CT/PET scans) are indicated only in the case of clinical signs
+or symptoms of systemic progression.
+treatment of relapsed/refractory PCNSL. HDCT/ASCT has
+been prospectively investigated in patients with disease relapse
+after HD-MTX with a median survival of 18.3 months (58.6
+months for those who received HDCT/ASCT) [36]. Only a few
+agents have been investigated prospectively in the relapse/
+refractory setting, namely temozolomide [36], temozolomide
+plus rituximab [37], topotecan and pemetrexed. However, none
+of these showed convincing activity sufﬁcient to be established
+as standard in this situation. Re-exposure to the same HDMTX-based protocol can be considered; however, there are no
+data on the relationship between efﬁcacy and the duration of
+prior response. When RT is used as a single modality therapy, i.e.
+WBRT as primary treatment for non-candidates for chemotherapy,
+higher doses (40–50 Gy, 1.5–1.8 Gy/fraction) are required. Doses of
+36 Gy have been shown to be beneﬁcial in a salvage setting, but the
+optimal dose and the role of boost doses remain uncertain [38].
+In summary, choice of salvage treatments depends on the
+clinical status, toxicities from previous treatments and duration
+of remission. Based on the limited evidence available so far, no
+standard protocol can be recommended. Fit patients should
+be considered for HDCT/ASCT [III, B]. WBRT remains an important palliative treatment in PCNSL lymphoma for those
+
+Volume 27 | Supplement 5 | September 2016
+
+Annals of Oncology
+
+unable to tolerate or relapsing after high-dose, CNS-penetrating
+chemotherapy and not ﬁt for further chemotherapy [III, B].
+
+primary breast lymphoma
+PBL is typically a disease of older women (median age 62–64
+years), but with lower median ages in speciﬁc geographic areas
+(i.e. in East Asian countries) [39, 40]. PBL almost exclusively
+affects women, with very rare male cases reported, but with
+apparently similar outcomes [41]. The typical presentation is a
+painless breast mass (median 4 cm diameter), slightly more frequently on the right side and with systemic symptoms present
+in <5% of patients, almost always those with disseminated
+disease [42].
+Currently, up to 20% of patients are diagnosed incidentally
+[42, 43], but there are no deﬁnitive radiologic features of PBL;
+therefore, a diagnostic biopsy is mandatory [IV, A].
+The speciﬁc additional staging procedures recommended for
+PBL include contralateral breast examination for potential bilateral involvement, which would usually be dealt with adequately
+by whole-body PET/CT. CNS imaging with MRI of the brain
+and CSF analysis by cytology and ﬂow cytometry should also
+be carried out even in the absence of CNS symptoms [IV, B].
+Approximately 70% of patients have stage IE disease, with the
+other 30% having regional nodal involvement (stage IIE) [41].
+From 4% to 13% of patients have bilateral breast involvement at
+presentation [41].
+The standard IPI is predictive of outcome, but this has low
+discriminatory ability, while the stage-modiﬁed IPI has a better
+prognostic discrimination, mainly through the adverse impact
+of stage IIE disease [41, 44]. Other reproducible adverse prognostic factors among patients with localised disease include
+tumour size >4–5 cm [44, 45] and bilateral involvement that
+was found to be a signiﬁcant adverse predictor of both PFS and
+OS, with a high risk of CNS relapse [41, 43].
+Reminiscent of PTL, PBL displays extranodal tropism at
+relapse [46]. The ipsilateral and contralateral breasts were
+involved at relapse in 12%–44% of series with available data
+[40], with ipsilateral breast relapse occurring in the ﬁrst few
+years following treatment, while in contrast, contralateral breast
+relapse occurred up to 13.3 years later [41]. Other extranodal
+sites including the bone marrow, lung or pleura, skin, gastrointestinal tract and CNS have all been reported to occur more
+commonly in PBL than among nodal DLBCLs [39, 44].
+From larger series, CNS relapse developed in 5%–16% of
+patients, with a weighted average of ∼12%. Other than potentially bilateral disease, there are no reproducible predictors of
+CNS relapse risk.
+treatment. Surgical resection as a sole modality results in
+inadequate local control, and the application of mastectomy is
+associated with inferior outcomes [41, 44]. In the rare instance
+of patients who have undergone surgical excision, they should
+still be managed identically as recommended below [V, B].
+The retrospective IELSG-15 study reinforced the importance
+of an anthracycline-containing chemotherapy regimen with a
+strongly favourable impact on both PFS and OS. Most recent
+contemporary series have used CHOP ± rituximab and RT with
+5-year PFS and OS of 50%–70% [41, 42, 47]. In cohorts without
+
+Volume 27 | Supplement 5 | September 2016
+
+clinical practice guidelines
+stratiﬁcation by risk, abbreviating the number of chemotherapy
+cycles to fewer than 4 has resulted in inferior outcomes [39, 41].
+Although there are no randomised studies addressing the question, most historical comparisons suggest some favourable
+impact from the incorporation of rituximab, and given its established role in DLBCL treatment, it should be routinely included
+in front-line chemoimmunotherapy as part of R-CHOP q 21d
+[III, B]. There are no data supporting the use of more aggressive
+or dose-escalated regimens as part of primary therapy [III, B].
+Whole-breast RT is generally recommended after chemotherapy based on the beneﬁt in OS observed in the large IESLG
+study [41], but some experts consider partial breast RT in cases
+where the resulting morbidity reduction is likely to offset the potential increase in marginal relapse rate, especially where PET
+scanning has been used in initial staging to allow accurate delineation of the involved area and nodal status [14]. The uninvolved lymph nodes need not be included in the RT volume,
+provided initial staging has used PET [14].
+treatment recommendations. The recommended treatment for
+PBL is as follows: 6 cycles of R-CHOP, if therapy is well
+tolerated [III, A], followed by consolidative whole ipsilateral
+breast RT (30–36 Gy) [III, B]. CNS-directed prophylaxis
+should be considered for individual patients [III, B], and is
+recommended in high-risk patients, i.e. bilateral involvement [III,
+A]. No speciﬁc CNS prophylaxis treatment can be recommended
+due to the lack of data; in nodal DLBCL, either intrathecal or i.v.
+MTX could be appropriate [48]. Patients with bilateral breast
+involvement represent a particularly high-risk group, and
+investigation of more intensive chemotherapy regimens in the
+context of clinical trials is justiﬁed in such cases [IV, C].
+post-treatment evaluation. As in nodal DLBCL, FDG PET/CT
+can be considered the recommended standard for post-treatment
+assessment in PBL (Table 2). The Lugano 2014 criteria are also
+applied to PBL.
+treatment of relapsed/refractory PBL. The outcome of patients
+after relapse is poor; in the IELSG-15 series, the median survival
+after relapse was 1.0 year, with a 5-year OS of 20% [41]. The
+management strategy should be as per other instances of
+relapsed DLBCL, with reinduction chemoimmunotherapy
+aiming to proceed to HDCT/ASCT, where feasible, in patients
+with responsive disease [IV, B].
+
+primary bone lymphoma
+PBoL may present as a single bone lesion with or without an
+associated soft tissue mass arising from local extension and with
+or without regional lymphadenopathy or as a multifocal polyostotic disease exclusively involving the skeleton [13].
+The median age at diagnosis varies from 45 to 60 years.
+Patients with PBoL typically present with bone pain (80%–
+95%), a tumour mass in 30%–40% of the cases and pathological
+fracture, most frequently of the humerus, in 10%–15% of
+patients. Approximately 15% of patients show spinal cord compression and 10% have hypercalcaemia, usually in the presence
+of rapidly progressive disease. The femur, the pelvic bones and
+the spine are the most common sites of involvement [13, 49].
+
+doi:10.1093/annonc/mdw175 | v
+
+clinical practice guidelines
+Most patients have early-stage disease at diagnosis [13], and
+PET/CT has increased the detection of asymptomatic bone lesions
+as part of the initial presentation of disseminated DLBCL [49]. In
+comparison with CT scan, MRI better deﬁnes the local extent of
+the disease and cortical changes. An adapted staging system for
+PBoL has been proposed by the IELSG (Table 6) [13, 50].
+The prognosis of primary bone DLBCLs mainly depends on
+the disease extent: 5-year OS rates vary from >80% for stage IE
+to <40% for disseminated DLBCL with bone localisation [51].
+The role of the IPI in predicting prognosis of primary DLBCL of
+the bone seems limited [13, 49, 51].
+treatment. Primary bone DLBCL should be treated with
+anthracycline-containing chemotherapy regimens together with
+rituximab, although the beneﬁt of the addition of rituximab has
+not formally studied speciﬁcally in the subset of patients with
+PBoL. The role of consolidation RT is not well deﬁned because
+the available data are very controversial and mainly come from
+retrospective analyses that suggest beneﬁt [51, 52]. Indeed, RCHOP ± consolidation RT remains the standard approach for
+the patients with any stage of DLBCL with bone involvement
+[III, B]. Whether RT to sites of bone involvement is truly
+needed or can be spared (at least in cases with a negative PET
+scan after chemoimmunotherapy) should be addressed in
+appropriately designed prospective randomised trials [51].
+When consolidation RT is given to localised lesions, there is
+limited additional beneﬁt from the use of extensive radiation
+volumes and RT and dose range is 30–40 Gy, depending on the
+certainty that a CR has been obtained with chemotherapy [13].
+The risk of CNS recurrence associated with skeletal involvement is also a matter of debate [13]. In the IELSG-14 study, conducted in the pre-rituximab era, CNS involvement (mainly
+meningeal) occurred in 2.5% of patients with localised primary
+bone DLBCL [51]. Hence, CNS prophylaxis is not routinely
+required in these patients [III, B]. However, an accurate assessment (CSF ﬂow cytometry and brain MRI) and prophylaxis can
+be recommended in patients with involvement of anatomic
+areas in close apposition to the CNS (skull and/or spine) [III,
+B]. CNS recurrence occurs in 7% of these patients, particularly
+those with disseminated DLBCL and other high-risk features,
+and decisions regarding CNS prophylaxis should be made on
+the basis of established risk proﬁling [48].
+The presence of pathological fracture at presentation is associated with an inferior outcome in PBoL in the IELSG14 study
+[49]. The initial surgical stabilisation of the pathological fracture
+should be directed at achieving a better quality of life (e.g.
+control pain, prevent bone displacement, allow weight-bearing);
+however, there is no evidence that initial surgical stabilisation
+improves the lymphoma outcome, with a 5-year OS of 45% and
+54%, respectively, for patients who either did or did not receive
+surgery. These data suggest that initial surgery should be considered only if chemotherapy delays can be avoided [IV, C] [49].
+Patients with a pathological fracture should be initially
+managed similarly to standard PBoL. Consolidation RT (30–40
+Gy) to the fractured bone may be given [IV, C]. Indeed, the
+initial RT of a fractured bone before chemotherapy does not
+seem to improve disease control or OS when compared with the
+chemoradiotherapy sequence but may improve pain and potentially hasten healing [13].
+
+v | Vitolo et al.
+
+Annals of Oncology
+
+response assessment and post-treatment evaluation. Posttreatment evaluation is difﬁcult because bone lesions remain
+detectable upon CT scan. PET scan is mandatory in response
+assessment as in nodal DLBCL; however, residual PET uptake
+can persist and may resolve slowly, representing bone healing
+rather than active disease. New treatments such as HDCT/ASCT
+or alternative chemoimmunotherapy are only recommended in
+the case of biopsy-proven persisting disease or clear clinical or
+radiological progression [III, A].
+Finally, long-term bone health preventive measures should
+also be taken into account in patients with PBoL, including
+evaluation and treatment of any underlying osteoporosis, and/
+or vitamin D deﬁciency.
+
+follow-up
+Follow-up monitoring is not different from that of nodal
+DLBCL [1].
+
+personalised medicine
+There are still many open issues in the treatment of extranodal
+DLBCL. New agents targeting distinct molecular pathways
+involved in disease pathogenesis are in progress and are being
+tested in ongoing trials. So far, none of these agents is appropriate for standard clinical practice.
+For instance, in PMBCLs based on some molecular alterations
+detected such as JAK-STAT pathway activation and modulation
+of tumour cell interactions with the microenvironment and
+immune system, the role of biological drugs targeting selective
+pathways as JAK-STAT and PDL1, PDL2 should be evaluated.
+PTLs are predominantly of ABC subtype, and lenalidomide
+and ibrutinib, which preferentially target this DLBCL subtype
+and have been proved to be effective in nodal ABC DLBCL, may
+be tested in PTL patients in an effort to improve their outcome
+[53, 54]. Moreover, both PTLs and PCNSL show a high frequency of MYD88 and CD79a mutations [6] and ibrutinib that
+targets this pathway may be active in these patients. Recently,
+ibrutinib was reported to cross the blood–brain barrier and have
+potential activity in PCNSL.
+
+methodology
+These clinical practice guidelines were developed in accordance
+with the ESMO standard operating procedures for clinical
+practice guidelines development, www.esmo.org/Guidelines/
+ESMO-Guidelines-Methodology. The relevant literature has
+been selected by the expert authors. A summary of common
+and speciﬁc diagnostic procedures for each extranodal DLBCL
+type is shown in Table 1. Table 7 summarises the recommendations for ﬁrst-line treatment. A summary of recommendations is
+shown in Table 8. Levels of evidence and grades of recommendation have been applied using the system shown in Table 9.
+Statements without grading were considered justiﬁed standard
+clinical practice by the experts and the ESMO faculty. This
+manuscript has been subjected to an anonymous peer review
+process.
+
+Volume 27 | Supplement 5 | September 2016
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 7. Recommended first-line treatment strategies in extranodal diffuse large B-cell lymphoma (DLBCL)
+Primary sites
+
+Treatment
+
+Consolidation
+
+CNS prophylaxis
+
+Primary testicular
+lymphoma
+
+R-CHOP21X6-8
+
+RT to contralateral testis (25–30 Gy)
+
+IT MTX or i.v. systemic
+MTX
+
+Primary central
+HD-MTX (MTX ≥ 3 g/m2) plus HD-ara-C
+nervous lymphoma HD-MTX-based (adjusted dose on ECOG
+PS, renal function, etc.) in elderly patients
+
+WBRT is not routinely recommended
+HDCT/ASCT suggested in young patients
+(clinical trial)
+
+N/A
+
+Primary mediastinal
+lymphoma
+
+R-CHOP or R-V/MACOP-B or R-CHOP14
+or DA-EPOCH-R
+
+Mediastinal RT (30 Gy) in responding patients; RT
+could be omitted in CMR only after DA-EPOCH-R
+HDCT/ASCT is not recommended in CR1
+
+Not recommended
+
+Primary breast
+lymphoma
+
+R-CHOP21X6
+
+Whole ipsilateral breast RT (30–36 Gy). Partial
+breast RT in selected cases (see text)
+
+To be considered in all
+patients
+Mandatory in high risk
+
+Primary bone
+lymphoma
+
+R-CHOP21X6-8
+RT before chemotherapy is not
+recommended
+
+RT (30–40 Gy) to involved bone
+
+Only if involvement of the
+skull and/or spine
+
+CNS, central nervous system; R-CHOP21, cyclophosphamide, doxorubicin, vincristine and prednisone treatment combined with rituximab given every 21
+days; RT, radiotherapy; IT, intrathecal; MTX, methotrexate; i.v., intravenous; HD-MTX, high-dose methotrexate; HD-ara-C, high-dose cytarabine; ECOG
+PS, Eastern Cooperative Oncology Group performance status; WBRT, whole-brain radiotherapy; HDCT/ASCT, high-dose chemotherapy followed by
+autologous stem cell transplantation; R-CHOP, rituximab, cyclophosphamide, doxorubicin, vincristine, prednisolone; R-V/MACOP-B, rituximab,
+etoposide, doxorubicin, cyclophosphamide, vincristine, prednisolone, bleomycin)/rituximab, methotrexate, doxorubicin, cyclophosphamide, vincristine,
+prednisolone, bleomycin; R-CHOP14, cyclophosphamide, doxorubicin, vincristine and prednisone treatment combined with rituximab given every 14
+days; DA-EPOCH-R, dose-adjusted etoposide, prednisone, vincristine cyclophosphamide, doxorubicin and rituximab; CMR, complete metabolic response;
+CR1, first complete remission.
+
+Table 8. Summary of recommendations
+The disease staging is established as nodal DLBCL according to the Ann Arbor system. In extranodal DLBCL, the discriminating utility of the IPI and aaIPI
+is not fully evaluated; however, they should be calculated for prognostic purposes at least to differentiate between localised versus advanced stage disease
+[II, A]
+PMBCLs
+
+•
+•
+•
+•
+•
+•
+•
+
+R-CHOP, R-VACOP-B, V-MACOP-B, R-CHOP14 or more intensive chemotherapy regimens such as DA-EPOCH-R should be considered the current
+standard treatment for PMBCLs; any of them can be used according to the centre’s experience [III, A]
+Consolidative mediastinal RT is recommended in responding patients treated with standard dose chemoimmunotherapy (R-CHOP/R-V/MACOP-B)
+[II, A]
+Consolidative mediastinal RT could be omitted in patients with a CMR only after DA-EPOCH-R [III, C]
+Where used, consolidative mediastinal RT should be administered with doses in the range 30–36 Gy, in 1.5–2.0 Gy fractions [II, A]
+HDCT/ASCT is not recommended in patients who achieved CR, even in initially poor-risk patients who attain an adequate response to initial therapy
+[III, A]
+In young patients who do not obtain an adequate response (i.e. less than partial response) with an elevated FDG uptake at the postchemoimmunotherapy PET/CT scan, if residual disease is confirmed by biopsy when feasible, an intensification therapy with HDCT/ASCT is
+recommended [III, B]
+Salvage treatment strategies of relapsed/resistant patients include attempting reinduction with non-cross-resistant agents followed by consolidation with
+HDCT/ASCT in patients with chemosensitive disease [II, A]
+
+PTLs
+
+•
+•
+•
+•
+•
+•
+
+Orchiectomy remains a mandatory step for diagnostic and therapeutic aims [III, A]
+Six to eight cycles of R-CHOP given every 21 days is the current standard [II, A]
+Prophylactic RT to the contralateral testis and scrotum is strongly recommended [III, A]
+RT to involved nodes could be safely omitted if PET is negative after R-CHOP chemotherapy [III, C]
+A prophylactic therapy to reduce the risk of CNS relapse such as intrathecal chemotherapy with (MTX or intravenous systemic MTX should be added to
+the treatment) [III, B]
+HDCT/ASCT, if feasible, should be the preferred treatment strategy in chemosensitive relapse [I, A]
+Continued
+
+Volume 27 | Supplement 5 | September 2016
+
+doi:10.1093/annonc/mdw175 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 8. Continued
+PCNSLs
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Stereotactic biopsy is recommended as a minimal invasive technique to obtain a histopathological diagnosis [III, A]; therefore, resection of PCNSL
+cannot be recommended
+Additionally, testicular ultrasound examination in elderly male patients is recommended [V, B]
+HD-MTX-based regimens, in combination with HD-ara-C, are recommended for induction treatment if possible based on patient age, PS and organ
+function [I, A]
+HD-MTX-based treatment should be considered whenever possible in elderly patients [II, A]
+Intrathecal chemotherapy cannot be routinely recommended if appropriate systemic chemotherapy is applied and could be considered in the case of
+severe meningeal involvement [IV, C]
+WBRT as consolidation after HD-MTX-based chemotherapy is still commonly applied in young patients and generally avoided in those >60 years, as the
+risk of neurotoxicity (including cognitive deterioration) is particularly high in elderly patients [III, B]
+Consolidation RT should be avoided in elderly patients who achieved CR [III, B], while in those not reaching a CR, it is preferable to use lower doses of
+WBRT (36 or 23.4 Gy) based on response [III, B]
+Whether RT can safely be omitted without compromising long-term outcome also in younger patients in CR remains controversial [III, C]
+HDCT/ASCT as consolidation treatment could be considered as an alternative in eligible patients [III, B]
+For salvage treatments, no standard protocol can be recommended. Fit patients should be considered for HDCT/ASCT [III, B]
+WBRT remains an important palliative treatment in PCNSL lymphoma for those unable to tolerate or relapsing after high-dose, CNS-penetrating
+chemotherapy and not fit for further chemotherapy [III, B]
+
+PBL
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+Diagnostic biopsy is mandatory [IV, A]
+In the rare instance of patients who have undergone surgical excision, they should still be managed identically as recommended below [V, B]
+Incorporation of rituximab should be routinely included in front-line chemoimmunotherapy as part of R-CHOP q 21d [III, B]
+The recommended treatment is 6 cycles of R-CHOP [III, A], followed by consolidative whole ipsilateral breast RT (30–36 Gy) [III, B]
+More aggressive or dose-escalated regimens as part of primary therapy are not indicated [III, B]
+CNS-directed prophylaxis should be considered for individual patients [III, B], it is recommended in high-risk patients, i.e. bilateral involvement [III, A]
+Patients with bilateral breast involvement represent a particularly high-risk group, and investigation of more intensive chemotherapy regimens in the
+context of clinical trials is justified in such cases [IV, C]
+After relapse, the management strategy should be as for other instances of relapsed DLBCL, with reinduction chemoimmunotherapy aiming to proceed
+to HDCT/ASCT, where feasible, in patients with responsive disease [IV, B]
+
+PBoL
+
+•
+•
+•
+•
+
+R-CHOP ± consolidation RT (30–40 Gy) remains the standard approach for the patients with any stage of DLBCL with bone involvement [III, B]
+CNS prophylaxis is not routinely required in these patients [III, B]; however, an accurate assessment (CSF flow cytometry and brain MRI) and
+prophylaxis can be recommended in patients with involvement of anatomic areas in close apposition to the CNS (skull and/or spine) [III, B]
+Patients with a pathological fracture should be initially managed similarly to standard PBoL. Consolidation RT (30–40 Gy) to the fractured bone may be
+given [IV, C]
+Initial surgery should be considered only if chemotherapy delays can be avoided [IV, C]
+
+New treatments such as HDCT/ASCT or alternative chemoimmunotherapy are only recommended in the case of biopsy-proven persisting disease or clear
+clinical or radiological progression [III, A]
+DLBCL, diffuse large B-cell lymphoma; IPI, international prognostic index; aaIPI, age-adapted IPI; PMBCLs, primary mediastinal large B-cell lymphomas;
+R-CHOP, rituximab, cyclophosphamide, doxorubicin, vincristine and prednisolone; R-VACOP-B; rituximab, etoposide, doxorubicin, cyclophosphamide,
+vincristine, prednisolone, bleomycin; R-MACOP-B, rituximab, methotrexate, doxorubicin, cyclophosphamide, vincristine, prednisolone, bleomycin; RCHOP14, rituximab, cyclophosphamide, doxorubicin, vincristine, prednisolone every 14 days; DA-EPOCH-R, dose-adjusted etoposide, prednisone,
+vincristine cyclophosphamide, doxorubicin and rituximab; RT, radiotherapy; CMR, complete metabolic response; HDCT/ASCT, high-dose chemotherapy
+followed by autologous stem cell transplantation; CR, complete remission; FDG, fluorodeoxyglucose; PET/CT, positron emission tomography/computed
+tomography; PTLs, primary testicular lymphomas; CNS, central nervous system; MTX, methotrexate; PCNSLs; primary central nervous system
+lymphomas; HD-MTX, high-dose methotrexate; HD-ara-C, high-dose cytarabine; PS, performance status; WBRT, whole-brain radiotherapy; PBL, primary
+diffuse large B-cell breast lymphoma of the breast; PBoL, primary diffuse large B-cell bone lymphoma of the bone; CSF, cerebral spinal fluid; MRI, magnetic
+resonance imaging.
+
+v | Vitolo et al.
+
+Volume 27 | Supplement 5 | September 2016
+
+Annals of Oncology
+
+Table 9. Levels of evidence and grades of recommendation
+(adapted from the Infectious Diseases Society of America-United
+States Public Health Service Grading System)a
+Levels of evidence
+I
+
+II
+
+III
+IV
+V
+
+Evidence from at least one large randomised, controlled trial of
+good methodological quality (low potential for bias) or metaanalyses of well-conducted randomised trials without
+heterogeneity
+Small randomised trials or large randomised trials with a
+suspicion of bias (lower methodological quality) or metaanalyses of such trials or of trials with demonstrated
+heterogeneity
+Prospective cohort studies
+Retrospective cohort studies or case–control studies
+Studies without control group, case reports, experts opinions
+
+Grades of recommendation
+A
+B
+C
+
+D
+E
+
+Strong evidence for efficacy with a substantial clinical benefit,
+strongly recommended
+Strong or moderate evidence for efficacy but with a limited
+clinical benefit, generally recommended
+Insufficient evidence for efficacy or benefit does not outweigh
+the risk or the disadvantages (adverse events, costs, …),
+optional
+Moderate evidence against efficacy or for adverse outcome,
+generally not recommended
+Strong evidence against efficacy or for adverse outcome, never
+recommended
+
+a
+
+By permission of the Infectious Diseases Society of America [55].
+
+acknowledgements
+We would like to thank Maura Nicolosi, MD, for her assistance
+with manuscript preparation.
+
+conﬂict of interest
+UV has reported global advisory boards for lymphoma for
+Roche and Janssen; lectures and educational activities for Roche,
+Janssen, Gilead, Celgene and Takeda; research sponsored by
+Celgene. JFS has reported research funding from Abbvie and
+Janssen; advisory boards for Abbvie, Celgene, Genentech,
+Gilead, Inﬁnity, Janssen, Roche and Takeda; speakers’ bureau
+for Abbvie, Celgene, Gilead, Janssen and Roche; honoraria from
+Abbvie, Celgene, Gilead, Janssen, Roche and Takeda; travel
+support from Celgene and Roche; and consultancy fees from
+Celgene, Roche and Takeda. TI has reported speakers’ bureau
+for Takeda and Roche; research sponsored by Merck, Roche and
+Millennium. EZ has reported advisory honoraria and/or
+support of investigator-initiated studies (for the institution)
+from Celgene, Johnson and Johnson/Janssen, Gilead,
+Mundipharma, Roche and Bayer. ML has reported honoraria
+from Celgene, Janssen-Cilag, Roche, Amgen, Mundipharma
+and Teva; research contracts from Celgene, Pﬁzer,
+Mundipharma and Roche; funds received from Amgen, Roche
+
+Volume 27 | Supplement 5 | September 2016
+
+clinical practice guidelines
+and Takeda. GI, EC and MM have declared no potential conﬂicts of interest.
+
+references
+1. Tilly H, Gomes da Silva M, Vitolo U et al. Diffuse large B-cell lymphoma (DLBCL):
+ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann
+Oncol 2015; 26(Suppl. 5): v116–v125.
+2. Møller MB, Pedersen NT, Christensen BE. Diffuse large B-cell lymphoma: clinical
+implications of extranodal versus nodal presentation—a population-based study of
+1575 cases. Br J Haematol 2004; 124: 151–159.
+3. Swerdlow SH. Keynote lecture: Kn06 update on the WHO classiﬁcation of
+malignant lymphomas. Pathology 2014; 46(Suppl. 2): S2.
+4. Twa DD, Chan FC, Ben-Neriah S et al. Genomic rearrangements involving
+programmed death ligands are recurrent in primary mediastinal large B-cell
+lymphoma. Blood 2014; 123: 2062–2065.
+5. Kuper-Hommel MJJ, Janssen-Heijnen MLG, Vreugdenhil G et al. Clinical and
+pathological features of testicular diffuse large B-cell lymphoma: a heterogeneous
+disease. Leuk Lymphoma 2012; 53: 242–246.
+6. Kraan W, Horlings HM, van Keimpema M et al. High prevalence of oncogenic
+MYD88 and CD79B mutations in diffuse large B-cell lymphomas presenting at
+immune-privileged sites. Blood Cancer J 2013; 3: e139.
+7. Deckert M, Engert A, Brück W et al. Modern concepts in the biology, diagnosis,
+differential diagnosis and treatment of primary central nervous system lymphoma.
+Leukemia 2011; 25:1797–1807.
+8. Poulain S, Boyle EM, Tricot S et al. Absence of CXCR4 mutations but high
+incidence of double mutant in CD79A/B and MYD88 in primary central nervous
+system lymphoma. Br J Haematol 2015; 170: 285–287.
+9. Cheah CY, Campbell BA, Seymour JF. Primary breast lymphoma. Cancer Treat Rev
+2014; 40: 900–908.
+10. Martinez A, Ponzoni M, Agostinelli C et al. Primary bone marrow lymphoma: an
+uncommon extranodal presentation of aggressive non-Hodgkin lymphomas. Am J
+Surg Pathol 2012; 36: 296–304.
+11. Cheson BD, Fisher RI, Barrington SF et al. Recommendations for initial evaluation,
+staging, and response assessment of Hodgkin and non-Hodgkin lymphoma: the
+Lugano classiﬁcation. J Clin Oncol 2014; 32: 3059–3068.
+12. Ferreri AJ, Blay JY, Reni M et al. Prognostic scoring system for primary CNS
+lymphomas: the International Extranodal Lymphoma Study Group experience. J
+Clin Oncol 2003; 21: 266–272.
+13. Messina C, Christie D, Zucca E et al. Primary and secondary bone lymphomas.
+Cancer Treat Rev 2015; 41: 235–246.
+14. Yahalom J, Illidge T, Specht L et al. Modern radiation therapy for extranodal
+lymphomas: ﬁeld and dose guidelines from the International Lymphoma Radiation
+Oncology Group. Int J Radiat Oncol Biol Phys 2015; 92: 11–31.
+15. Dunleavy K, Pittaluga S, Maeda LS et al. Dose-adjusted EPOCH-rituximab therapy
+in primary mediastinal B-cell lymphoma. N Engl J Med 2013; 368: 1408–1416.
+16. De Sanctis V, Finolezzi E, Osti MF et al. MACOP-B and involved-ﬁeld radiotherapy
+is an effective and safe therapy for primary mediastinal large B cell lymphoma. Int
+J Radiat Oncol Biol Phys 2008; 72: 1154–1160.
+17. Martelli M, Ceriani L, Zucca E et al. 18-ﬂuorodeoxyglucose positron-emission
+tomography predicts survival following chemoimmunotherapy for primary
+mediastinal large B cell lymphoma: results of the International Extranodal
+Lymphoma Study Group IELSG-26 Study. J Clin Oncol 2014; 32: 1769–1775.
+18. Vitolo U, Ferreri AJ, Zucca E. Primary testicular lymphoma. Crit Rev Oncol Hematol
+2008; 65: 183–189.
+19. Zucca E, Conconi A, Mughal TI et al. Patterns of outcome and prognostic factors in
+primary large-cell lymphoma of the testis in a survey by the International
+Extranodal Lymphoma Study Group. J Clin Oncol 2003; 21: 20–27.
+20. Vitolo U, Chiappella A, Ferreri AJ et al. First-line treatment for primary testicular
+diffuse large B-cell lymphoma with rituximab-CHOP, CNS prophylaxis, and
+contralateral testis irradiation: ﬁnal results of an international phase II trial. J Clin
+Oncol 2011; 29: 2766–2772.
+21. Brouwer CL, Wiesendanger EM, van der Hulst PC et al. Scrotal irradiation in
+primary testicular lymphoma: review of the literature and in silico planning
+comparative study. Int J Radiat Oncol Biol Phys 2013; 85: 298–308.
+
+doi:10.1093/annonc/mdw175 | v
+
+clinical practice guidelines
+22. Gisselbrecht C, Glass B, Mounier N et al. Salvage regimens with autologous
+transplantation for relapsed large B-cell lymphoma in the rituximab era. J Clin
+Oncol 2010; 28: 4184–4190.
+23. Abrey LE, Batchelor TT, Ferreri AJ et al. Report of an international workshop to
+standardize baseline evaluation and response criteria for primary CNS lymphoma.
+J Clin Oncol 2005; 23: 5034–5043.
+24. Ferreri AJ. How I treat primary CNS lymphoma. Blood 2011; 118: 510–522.
+25. Abrey LE, Ben-Porat L, Panageas KS et al. Primary central nervous system
+lymphoma: the Memorial Sloan-Kettering Cancer Center prognostic model. J Clin
+Oncol 2006; 24: 5711–5715.
+26. Ferreri AJ, Reni M, Foppoli M et al. High-dose cytarabine plus high-dose
+methotrexate versus high-dose methotrexate alone in patients with primary CNS
+lymphoma: a randomised phase 2 trial. Lancet 2009; 374: 1512–1520.
+27. Shah GD, Yahalom J, Correa DD et al. Combined immunochemotherapy with
+reduced whole-brain radiotherapy for newly diagnosed primary CNS lymphoma. J
+Clin Oncol 2007; 25: 4730–4735.
+28. Pels H, Juergens A, Glasmacher A et al. Early relapses in primary CNS lymphoma
+after response to polychemotherapy without intraventricular treatment: results of a
+phase II study. J Neurooncol 2009; 91: 299–305.
+29. Hoang-Xuan K, Bessell E, Bromberg J et al. Diagnosis and treatment of primary
+CNS lymphoma in immunocompetent patients: guidelines from the European
+Association for Neuro-Oncology. Lancet Oncol 2015;16: e322–e332.
+30. Correa DD, Ahles TA. Neurocognitive changes in cancer survivors. Cancer J 2008;
+14: 396–400.
+31. Morris PG, Correa DD, Yahalom J et al. Rituximab, methotrexate, procarbazine,
+and vincristine followed by consolidation reduced-dose whole-brain radiotherapy
+and cytarabine in newly diagnosed primary CNS lymphoma: ﬁnal results and longterm outcome. J Clin Oncol 2013; 31: 3971–3979.
+32. Illerhaus G, Fritsch K, Egerer G et al. Sequential high dose immuno-chemotherapy
+followed by autologous peripheral blood stem cell transplantation for patients with
+untreated primary central nervous system lymphoma—a multicentre study by the
+collaborative PCNSL Study Group Freiburg. Blood 2012; 120: abstr. 302.
+33. Ferreri AJ, Cwynarski K, Pulczynski E et al. Addition of thiotepa and rituximab to
+antimetabolites signiﬁcantly improves outcome in primary CNS lymphoma: ﬁrst
+randomization of the IELSG32 trial. Clin Adv Hematol Oncol 2015; 33(Suppl. 9): 10–11.
+34. Kasenda B, Ferreri AJ, Marturano E et al. First-line treatment and outcome of
+elderly patients with primary central nervous system lymphoma (PCNSL)—a
+systematic review and individual patient data meta-analysis. Ann Oncol 2015; 26:
+1305–1313.
+35. Illerhaus G, Marks R, Müller F et al. High-dose methotrexate combined with
+procarbazine and CCNU for primary CNS lymphoma in the elderly: results of a
+prospective pilot and phase II study. Ann Oncol 2009; 20: 319–325.
+36. Soussain C, Hoang-Xuan K, Taillandier L et al. Intensive chemotherapy followed by
+hematopoietic stem-cell rescue for refractory and recurrent primary CNS and
+intraocular lymphoma: Société Française de Greffe de Moëlle Osseuse-Thérapie
+Cellulaire. J Clin Oncol 2008; 26: 2512–2518.
+37. Nayak L, Abrey LE, Drappatz J et al. Multicenter phase II study of rituximab and
+temozolomide in recurrent primary central nervous system lymphoma. Leuk
+Lymphoma 2013; 54: 58–61.
+
+v | Vitolo et al.
+
+Annals of Oncology
+38. Hottinger AF, DeAngelis LM, Yahalom J, Abrey LE. Salvage whole brain
+radiotherapy for recurrent or refractory primary CNS lymphoma. Neurology 2007;
+69: 1178–1782.
+39. Yhim HY, Kang HJ, Choi YH et al. Clinical outcomes and prognostic factors in
+patients with breast diffuse large B cell lymphoma; Consortium for Improving
+Survival of Lymphoma (CISL) study. BMC Cancer 2010; 10: 321.
+40. Jung SP, Kim M, Han KM et al. Primary breast lymphoma: a single institution’s
+experience. J Korean Surg Soc 2013; 84: 267–272.
+41. Ryan G, Martinelli G, Kuper-Hommel M et al. Primary diffuse large B-cell
+lymphoma of the breast: prognostic factors and outcomes of a study by the
+International Extranodal Lymphoma Study Group. Ann Oncol 2008; 19: 233–241.
+42. Hosein PJ, Maragulia JC, Salzberg MP et al. A multicentre study of primary breast
+diffuse large B-cell lymphoma in the rituximab era. Br J Haematol 2014; 165:
+358–363.
+43. Ganjoo K, Advani R, Mariappan MR et al. Non-Hodgkin lymphoma of the breast.
+Cancer 2007; 110: 25–30.
+44. Jeanneret-Sozzi W, Taghian A, Epelbaum R et al. Primary breast lymphoma:
+patient proﬁle, outcome and prognostic factors. A multicentre Rare Cancer
+Network study. BMC Cancer 2008; 8: 86.
+45. Fukuhara S, Watanabe T, Munakata W et al. Bulky disease has an impact on
+outcomes in primary diffuse large B-cell lymphoma of the breast: a retrospective
+analysis at a single institution. Eur J Haematol 2011; 87: 434–440.
+46. Cheah CY, Wirth A, Seymour JF. Primary testicular lymphoma. Blood 2014; 123:
+486–493.
+47. Avilés A, Castañeda C, Neri N et al. Rituximab and dose dense chemotherapy in
+primary breast lymphoma. Haematologica 2007; 92: 1147–1148.
+48. Cheah CY, Seymour JF. Central nervous system prophylaxis in non-Hodgkin
+lymphoma: who, what, and when? Curr Oncol Rep 2015; 17: 25.
+49. Govi S, Christie D, Messina C et al. The clinical features, management and
+prognostic effects of pathological fractures in a multicenter series of 373 patients
+with diffuse large B-cell lymphoma of the bone. Ann Oncol 2014; 25: 176–181.
+50. Messina C, Ferreri AJ, Govi S et al. Clinical features, management and prognosis
+of multifocal primary bone lymphoma: a retrospective study of the international
+extranodal lymphoma study group (the IELSG 14 study). Br J Haematol 2014; 164:
+834–840.
+51. Bruno Ventre M, Ferreri AJ, Gospodarowicz M et al. Clinical features,
+management, and prognosis of an international series of 161 patients with
+limited-stage diffuse large B-cell lymphoma of the bone (the IELSG-14 study).
+Oncologist 2014; 19: 291–298.
+52. Held G, Zeynalova S, Murawski N et al. Impact of rituximab and radiotherapy on
+outcome of patients with aggressive B-cell lymphoma and skeletal involvement. J
+Clin Oncol 2013; 31: 4115–4122.
+53. Wilson WH, Young RM, Schmitz R et al. Targeting B cell receptor signaling with
+ibrutinib in diffuse large B cell lymphoma. Nat Med 2015; 21: 922–926.
+54. Vitolo U, Chiappella A, Franceschetti S et al. Lenalidomide plus R-CHOP21 in
+elderly patients with untreated diffuse large B-cell lymphoma: results of the
+REAL07 open-label, multicentre, phase 2 trial. Lancet Oncol 2014; 15: 730–737.
+55. Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among
+hematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33: 139–144.
+
+Volume 27 | Supplement 5 | September 2016
+
+

@@ -1,0 +1,1735 @@
+SPECIAL ARTICLE
+
+Multiple myeloma: EHA-ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-upy
+M. A. Dimopoulos1, P. Moreau2, E. Terpos1, M. V. Mateos3, S. Zweegman4, G. Cook5, M. Delforge6, R. Hájek7,
+F. Schjesvold8,9, M. Cavo10, H. Goldschmidt11, T. Facon12, H. Einsele13, M. Boccadoro14, J. San-Miguel15, P. Sonneveld16 &
+U. Mey17, on behalf of the EHA Guidelines Committee* and ESMO Guidelines Committee*
+1
+
+Department of Clinical Therapeutics, School of Medicine, National and Kapodistrian University of Athens, Athens, Greece; 2Department of Hematology, University
+Hospital Hôtel-Dieu, Nantes, France; 3University Hospital of Salamanca, IBSAL, Cancer Research Center, Salamanca, Spain; 4Department of Hematology, Amsterdam
+UMC, Vrije Universiteit Amsterdam, Cancer Center Amsterdam, Amsterdam, Netherlands; 5Leeds Cancer Centre and University of Leeds, Leeds, UK; 6Department of
+Hematology, University Hospital Leuven, Leuven, Belgium; 7Faculty of Medicine, University Hospital Ostrava, Ostrava, Czech Republic; 8Oslo Myeloma Center, Oslo
+University Hospital, Oslo; 9KG Jebsen Center for B Cell Malignancies, University of Oslo, Oslo, Norway; 10Seràgnoli Institute of Hematology, Bologna University School
+of Medicine, Bologna, Italy; 11University Hospital Heidelberg, Internal Medicine V and National Center for Tumor Diseases (NCT), Heidelberg, Germany; 12Hôpital
+Claude Huriez, Lille University Hospital, Lille, France; 13Department of Internal Medicine II, University Hospital Wurzburg, Wurzburg, Germany; 14Division of
+Hematology, University of Torino, AOU Città della Salute e della Scienza di Torino, Torino, Italy; 15Clinica Universidad de Navarra, CIMA, IDISNA, CIBERONC, Pamplona,
+Spain; 16Erasmus Medical Center Cancer Institute, Rotterdam, Netherlands; 17Department of Oncology and Hematology, Kantonsspital Graubünden, Chur, Switzerland
+
+Available online 3 February 2021
+
+Key words: multiple myeloma, clinical practice guidelines, diagnosis, treatment, follow-up, prognosis
+INCIDENCE AND EPIDEMIOLOGY
+
+Response criteria to anti-myeloma therapy
+
+Multiple myeloma (MM) is a plasma cell neoplasm that accounts for 1%-1.8% of all cancers and is the second most
+common haematological malignancy with an estimated incidence in Europe of 4.5-6.0/100 000/year. Despite the signiﬁcant improvement in patients’ survival over the past 20 years,
+only 10%-15% of patients achieve or exceed expected survival
+compared with the matched general population.1
+
+One of the most signiﬁcant improvements in the
+response criteria is the introduction of minimal residual
+disease (MRD) both in the bone marrow (BM) [using
+either next-generation sequencing or next-generation ﬂow
+cytometry (NGF)] and outside the BM [using positron
+emission tomography-computed tomography (PET-CT);
+imaging MRD].3 MRD negativity in the BM in patients
+who have achieved conventional complete response (CR)
+consistently correlates with prolonged progression-free
+survival (PFS) and overall survival (OS) in both newly
+diagnosed MM (NDMM) and relapsed/refractory MM
+(RRMM) patients.4,5
+MRD negativity in the BM, deﬁned as the absence of
+tumour plasma cells within 1 000 000 BM cells (<106)
+shows the best results for the prediction of both PFS and OS
+compared with higher cut-off values (i.e. 105).4 Outside
+the BM, PET-CT is able to recognise hypermetabolic areas in
+approximately 15%-20% of patients with MRD negativity in
+the BM and is considered the best method for imaging MRD
+to date.6
+MRD has been found to be a surrogate endpoint for PFS
+in patients receiving ﬁrst-line treatment.7 Therefore, MRD
+may be used as an endpoint to accelerate drug development. The use of MRD to drive treatment decisions is under
+investigation, e.g. whether maintenance/continuous therapy in MRD-negative patients can be stopped or whether
+treatment needs to be changed in MRD-positive patients,
+especially in high-risk MM. The results of several phase III
+trials in the ﬁeld will clarify the role of MRD in making
+decisions about therapy in MM.
+
+DIAGNOSIS AND STAGING
+In 2017, ESMO published clinical practice guidelines for the
+diagnosis, staging and deﬁnitions of progressive disease,
+relapse and refractoriness to therapy, which have not
+changed and are summarised in Supplementary Tables S1-S3,
+available at https://doi.org/10.1016/j.annonc.2020.11.014.2
+The recommendations for the tests that are required for
+the diagnosis, determination of prognosis and follow-up of
+MM are described in Table 1.
+*Correspondence to: EHA Executive Ofﬁce/EHA Guidelines Committee Koninginnegracht 12b, 2514 AA The Hague, Netherlands
+E-mail: guidelines@ehaweb.org (EHA Guidelines Committee).
+*ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, 6900
+Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+y
+These Guidelines were developed by the European Hematology Association
+(EHA) and European Society for Medical Oncology (ESMO). The two societies
+nominated authors to write the guidelines as well as reviewers to comment on
+them. These guidelines were approved by the EHA Board and the ESMO
+Guidelines Committee in November 2020.
+0923-7534/© 2021 The Author(s). published by Elsevier Ltd on behalf of
+European Society for Medical Oncology and published by Wolters Kluwer
+Health Inc. on behalf of European Hematology Association. All rights reserved.
+
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+309
+
+M. A. Dimopoulos et al.
+
+Annals of Oncology
+Table 1. Recommendations on examinations at diagnosis, response assessment, during follow-up and at relapse of MM
+
+Blood
+
+Urine
+
+Bone marrow
+
+Imaging
+
+Tool
+
+Diagnosis
+
+At response
+
+At follow-up
+
+At relapse
+
+Blood count and
+blood smear
+Serum electrophoresis
+and IF
+Serum-free light chain
+
+Obligatory
+
+Obligatory
+
+Obligatory
+
+Obligatory
+
+Obligatory
+
+Obligatory (IF for
+CR patients)
+Obligatory
+
+Obligatory
+
+Serum immunoglobulin
+levels
+Renal and liver function
+tests
+Calcium
+Lactate dehydrogenase
+Albumin, b2m
+Flow cytometry
+Urine sample from 24 h
+urine collection to check
+for proteinuria and
+light-chain proteinuria
+Urine electrophoresis
+and IF electrophoresis
+BM cytology and biopsy
+to conﬁrm plasmacytosis
+and monoclonality
+NGF or NGS to detect
+clonal plasma cells
+
+Obligatory
+
+Obligatory (IF for
+CR conﬁrmation)
+Obligatory to
+conﬁrm sCR
+Obligatory
+
+Obligatory
+
+Obligatory
+
+Obligatory
+
+Obligatory
+
+Obligatory
+
+Obligatory
+
+Obligatory
+Obligatory
+Obligatory
+Optional
+Obligatory
+
+Obligatory
+Obligatory
+Not required
+Not required
+Obligatory
+
+Obligatory
+Obligatory
+Optional
+Not required
+Obligatory
+
+Obligatory
+Obligatory
+Obligatory
+Optional
+Obligatory
+
+Obligatory
+
+Obligatory (IF for
+CR conﬁrmation)
+Obligatory to conﬁrm
+CR or for non-secretory
+MM
+Obligatory to conﬁrm
+MRD negativity in
+CR or sCR patients
+
+Obligatory (IF for
+CR patients)
+Not required
+
+Obligatory
+
+Cytogenetics: karyotype
+and FISH for detection
+of del17p, t(4;14),
+t(14;16), ampl
+1q/ gain 1q, t(11;14)
+Advanced techniques:
+GEP, NGS
+WBLD-CT
+
+Obligatory
+
+Not required
+
+For clinical trials
+use only
+Obligatory
+
+For clinical trials
+use only
+Not required
+
+PET-CT
+
+Optional (it may be
+carried out instead
+of WBLD-CT if available)
+
+Obligatory to conﬁrm
+imaging MRD
+
+Whole-body MRI
+
+Obligatory in
+WBLD-CT-negative
+cases and if PET-CT is
+not carried out
+
+Not required
+
+Obligatory
+
+Obligatory
+
+Obligatory
+
+Every 12 months in
+CR and/or
+MRD-negative
+patientsa
+Not required
+
+For clinical trials
+use only
+When symptomatic
+(or CT of the
+symptomatic area)
+Every 12 months in
+bone marrow
+MRD-negative
+patientsb
+When symptomatic
+
+Obligatory
+
+Optional (obligatory
+for non-secretory
+disease)
+Optional
+
+Obligatory for
+del17p, ampl 1q/
+gain 1q and t(11;14)
+
+For clinical trials
+use only
+Obligatory
+
+Optional
+
+Optional
+
+ASCT, autologous stem cell transplantation; b2m, beta-2 microglobulin; BM, bone marrow; CR, complete response; CT, computed tomography; FISH, ﬂuorescent in
+situ hybridisation; GEP, gene expression proﬁling; IF, immunoﬁxation; IMWG, International Myeloma Working Group; MM, multiple myeloma; MRD, minimal residual disease; MRI,
+magnetic resonance imaging; NGF, next-generation ﬂow cytometry; NGS, next-generation sequencing; PET, positron emission tomography; PFS, progression-free survival; sCR,
+stringent complete response; WBLD-CT, whole-body low-dose computed tomography.
+a
+Sustained MRD negativity is supported by IMWG guidelines,3 although it is not fully reimbursed in several countries. In a recent ‘Real-World’ study, MRD assessments were
+carried out in 139 patients before starting lenalidomide maintenance after ASCT and/or at the achievement of CR, while additional assessments were subsequently carried
+out on an annual basis until sustained MRD negativity was conﬁrmed. In total, 34.3% of patients who were MRD-positive after induction treatment achieved MRD-negative
+status during maintenance and ultimately had improved PFS. Sequential MRD assessments identiﬁed patients with progressively decreasing MRD levels who also had better
+PFS outcomes, compared with patients not showing a decreasing pattern of MRD.90
+b
+Recommended based on panel consensus in order to conﬁrm extramedullary MRD negativity in patients who are MRD-negative in the bone marrow.
+Adapted with permission from Caers et al.85
+
+FRONT-LINE THERAPY
+Smouldering MM
+Patients with standard- or intermediate-risk smouldering MM
+(SMM; see Supplementary Table S4, available at https://doi.
+org/10.1016/j.annonc.2020.11.014) do not need immediate
+therapy. Myeloma treatment should be initiated according to
+the International Myeloma Working Group (IMWG) recommendations.8 Regarding high-risk SMM, which is recently
+deﬁned by the ‘20-20-20’ rule (Supplementary Table S4,
+310
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+available at https://doi.org/10.1016/j.annonc.2020.11.014),9
+two randomised, phase III studies have shown that lenalidomide plays a signiﬁcant role in prolonging PFS. In the ﬁrst
+study, 119 patients with high-risk SMM (before the introduction of the new criteria for the deﬁnition of myeloma)8
+were randomly assigned either to receive treatment with
+the combination of lenalidomide plus dexamethasone (Rd)
+for 9 cycles followed by lenalidomide maintenance or to
+observation. At a median follow-up of 75 months, Rd
+improved both PFS [median PFS (mPFS) not reached versus
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+M. A. Dimopoulos et al.
+
+Annals of Oncology
+
+23 months; P < 0.0001] and OS compared with observation
+[hazard ratio (HR) 0.43; P ¼ 0.024].10,11 However, this study
+was conducted several years ago and enrolled a number of
+patients who are considered as having MM according to the
+revised deﬁnition. In the second study,12 182 patients with
+intermediate- or high-risk SMM were randomly assigned
+either to receive lenalidomide monotherapy or to observation. At a median follow-up of 35 months, PFS was longer
+with lenalidomide (HR 0.28; P ¼ 0.002); this result was driven
+mainly by the high-risk SMM group.12 This study has not
+reported OS advantage for the lenalidomide arm to date.
+Several phase II studies using daratumumab (Dara) monotherapy,13 isatuximab (Isa) monotherapy or other Rd-based
+regimens [with elotuzumab (EloRd), or with ixazomib] have
+shown encouraging results.
+All the above data suggest that high-risk SMM patients
+should be encouraged to participate in randomised phase III
+trials to reveal the best treatment that offers OS advantage.
+To date, no treatment has been approved for SMM.
+Newly diagnosed patients who are eligible for high-dose
+therapy and autologous transplantation
+For ﬁt NDMM patients, aged <70 years, without comorbidities, induction followed by high-dose therapy (HDT) with
+autologous stem cell transplantation (ASCT) and lenalidomide maintenance is the recommended treatment. Two
+recent phase III trials comparing the use or not of upfront
+ASCT, after triplet novel agent-based induction, showed that
+PFS was improved in the upfront ASCT arm.14-16 The ﬁrst
+study was conducted by the French Myeloma Study Group
+and included 700 patients who were randomised to receive
+induction therapy with 3 cycles of bortezomib, lenalidomide
+and dexamethasone (VRd) and then consolidation therapy
+with either 5 additional cycles of VRd or high-dose
+melphalan (HDM) plus ASCT followed by 2 additional cycles of VRd. Patients in both groups received maintenance
+therapy with lenalidomide for 1 year. After a median followup of 44 months in the VRd-alone group and 43 months in
+the ASCT group, the mPFS was longer in the ASCT group (50
+versus 36 months; P < 0.001). This beneﬁt was observed
+across all patient subgroups, including advanced Revised
+International Staging System (R-ISS) and high-risk cytogenetics. OS at 4 years was not different between the ASCT
+and the non-ASCT groups.15
+The second study was conducted by the European
+Myeloma Network (EMN)dEMN02/HO95 trialdand
+included 1503 patients who received an induction therapy
+with 3-4 cycles of bortezomib, cyclophosphamide and
+dexamethasone (VCD) followed by the ﬁrst randomisation
+between bortezomib, melphalan and prednisone (VMP)
+versus ASCT. A second randomisation to consolidation therapy (2 cycles of VRd) versus no consolidation was carried out
+after intensiﬁcation therapy, to be followed by lenalidomide
+maintenance until progression or toxicity in both arms. With
+a median follow-up from the ﬁrst randomisation of 60.3
+months, the mPFS was improved with ASCT compared with
+VMP (56.7 versus 41.9 months; P ¼ 0.0001).16
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+Induction regimen. A three-drug combination, including at
+least bortezomib and dexamethasone, has been the standard of care.2,17 Bortezomib, thalidomide, dexamethasone
+(VTD) induction showed better response rates over VCD at
+the expense of a higher rate of peripheral neuropathy.18
+VCD and bortezomib, doxorubicin and dexamethasone
+(PAd) were equally effective in terms of response but VCD
+was less toxic.19 In single-arm studies, VRd produced high
+very good partial response (VGPR), CR and MRD negativity
+rates, as well as prolonged PFS.4,15,20-22 However, there is
+no direct comparison between VTD with VRd induction
+before ASCT. There is only an integrated analysis of three
+randomised trials, presented in abstract form, which
+showed that VRd produces higher VGPR and MRD negativity rates compared with VTD.23
+The introduction of monoclonal antibodies (mAbs), and
+especially of Dara, in the front-line setting has changed the
+treatment landscape in MM. In the phase III CASSIOPEIA
+trial, 4 cycles of induction with VTD (n ¼ 542) were
+compared with 4 cycles of VTD plus Dara (DaraVTD) (n ¼
+543); patients then received a single ASCT followed by
+consolidation and maintenance.24 PFS at 18 months showed
+the superiority of DaraVTD over VTD (93% versus 85%, P <
+0.0001).25 The combination of Dara with VRd (DaraVRd) had
+better results. In the randomised phase II GRIFFIN study,
+207 patients were randomly assigned to receive VRd  Dara
+induction (4 cycles), ASCT, VRd  Dara consolidation
+(2 cycles) and lenalidomide  Dara maintenance (26 cycles).
+The 24-month PFS rates were 95.8% for DaraVRd and 89.8%
+for VRd.21
+The substitution of bortezomib with the secondgeneration proteasome inhibitor (PI) carﬁlzomib (K) resulted in high sustained MRD negativity rate in carﬁlzomib,
+lenalidomide and dexamethasone (KRd) compared with
+VRd, especially in patients with advanced R-ISS.26 There is
+no direct comparison between VRd and KRd in NDMM
+patients who are eligible for ASCT; however, in the
+ENDURANCE trial (see Elderly patients’ section), which
+included <30% of patients who received an ASCT, there was
+no PFS difference between the two regimens.
+Based on the above data, VRd is likely to offer the best
+risk-beneﬁt proﬁle to date among triplet combinations [II,
+B]. The four-drug combination DaraVTD is more efﬁcacious
+than VTD [I, A] but comparisons are lacking versus DaraVRd
+or VRd [these regimens have not been approved by the
+European Medicines Agency (EMA)]. The EMA approval of
+DaraVTD makes it a new standard of care for induction
+before ASCT. Novel studies that are ongoing compare
+DaraVRd versus VRd, DaraVCD versus VTD, or combinations
+with novel mAbs such as IsaVRd, IsaKRd or EloVRd will
+reveal the best induction regimen in the future.
+Conditioning regimen before ASCT. HDM (200 mg/m2) remains the standard conditioning regimen before ASCT for
+NDMM patients. The addition of busulfan to melphalan has
+not shown OS beneﬁt over HDM.27,28 The addition of
+bortezomib to HDM did not improve the efﬁcacy of the
+conditioning regimen and had higher toxicity.29
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+311
+
+Annals of Oncology
+Consolidation therapy. The EMN02/HO95 study showed
+that at a median follow-up of 42 months, consolidation
+therapy with 2 cycles of VRd improved mPFS compared with
+no consolidation (58.9 versus 45.5 months; P ¼ 0.014).16 It
+must be noted that induction treatment in this study
+included 4 cycles of VCD and not VRd or DaraVTD.
+The use of a second planned ASCT as consolidation has
+also been tested in clinical trials. In the EMN02/HO95 study,
+in centres with a policy of double ASCT, patients were
+assigned to receive VMP, single ASCT (ASCT-1) or two
+planned ASCTs (administered 2-3 months apart; ASCT-2) to
+prospectively compare ASCT-1 with ASCT-2. Patients who
+received ASCT-2 had a prolonged PFS compared with those
+who received ASCT-1: the 3-year PFS probability was 53.5%
+for ASCT-2 versus 44.9% for ASCT-1 group (P ¼ 0.036),
+which represented a 26% reduced risk of progression or
+death in the ASCT-2 group. Importantly, ASCT-2 signiﬁcantly
+improved the outcome of patients with high-risk cytogenetics (mPFS: 46 and 26.7 months for ASCT-2 and ASCT-1,
+respectively; HR 0.59; P ¼ 0.062).14 In the same study, OS
+from the ﬁrst randomisation was signiﬁcantly prolonged
+with ASCT-2 compared with ASCT-1 (3-year rate: 89% versus
+82%; HR 0.52; P ¼ 0.011); this beneﬁt was also reported in
+patients with R-ISS II þ III (HR 0.48; P ¼ 0.013) and with
+high-risk cytogenetics (HR 0.52; P ¼ 0.042).14
+The phase III StaMINA study randomised 758 patients who
+received induction therapy for up to 12 cycles, followed by
+one ASCT versus tandem ASCT versus ASCT-1 followed by 4
+subsequent cycles of VRd; all treatment groups received
+lenalidomide maintenance until disease progression.30
+The 6-year PFS in high-risk patients was 43.6% and 26%
+for tandem ASCT and ASCT-1, respectively (P ¼ 0.03).31
+Finally, a study which compared tandem ASCTs with
+ASCT-1 followed by allogeneic SCT (allo-SCT) has recently
+reported the 10-year median follow-up results. In both
+standard-risk (n ¼ 625) and high-risk patients (n ¼ 85),
+there was no PFS or OS difference.32
+Maintenance therapy. Treatment with lenalidomide maintenance after ASCT offers PFS and OS beneﬁts over placebo
+as reported in two large randomised trials.33,34 A metaanalysis including more than 1200 patients, with a median
+follow-up of 79.5 months, showed that lenalidomide
+maintenance offers more than 2 years of PFS beneﬁt (52.8
+versus 23.5 months) and 2.5 years of OS beneﬁt over placebo. In this study, there was no beneﬁt in patients with
+ISS-III disease or high-risk cytogenetics.35 However, the
+Medical Research Council (MRC) myeloma-XI trial, in which
+1137 patients were assigned to lenalidomide maintenance
+and 834 patients to observation, showed that, in high-risk
+patients, the 3-year OS was 75% in the lenalidomide
+group compared with 64% in the observation group, and in
+ultra-high-risk patients it was 63% versus 43.5%, respectively.36 These results should be taken with caution as the
+study was not powered to show differences in the two subpopulations and all patients who entered the maintenance
+phase were immunomodulatory drug (IMiD)-exposed and
+-sensitive. Furthermore the deﬁnition of high-risk patients
+312
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+M. A. Dimopoulos et al.
+
+was different in the meta-analysis and in the MRC-XI trial; in
+the meta-analysis, high-risk cytogenetics included only
+t(4;14) and del17p patients while in the MRC-XI trial patients were classiﬁed into three cytogenetic risk groups:
+standard risk (no adverse cytogenetic abnormalities), high
+risk (one adverse cytogenetic abnormality) or ultra-high risk
+(two or more adverse cytogenetic abnormalities) [adverse
+cytogenetic abnormalities were deﬁned as gain(1q), t(4;14),
+t(14;16), t(14;20), or del(17p)].35,36 The EMA has approved
+lenalidomide for maintenance therapy post-ASCT for all MM
+patients until progression.
+Bortezomib maintenance showed PFS beneﬁt compared
+with thalidomide maintenance in a randomised study, but
+the induction treatment was not the same between the two
+treatment groups [PAd versus vincristine, doxorubicin and
+dexamethasone (VAD), respectively].37 A recent doubleblind, placebo-controlled, phase III trial (TOURMALINEMM3) compared the oral PI ixazomib with placebo in 656
+patients who received induction therapy plus HDM þ ASCT.
+There was a 28% reduction in the risk of progression or
+death with ixazomib (mPFS: 26.5 versus 21.3 months,
+respectively; P ¼ 0.0023). In the high-risk population,
+ixazomib also offered similar PFS advantage over placebo
+(HR 0.62, 95% CI 0.38-1.02).38 Bortezomib and ixazomib
+have not yet been approved by the EMA for maintenance
+after ASCT.
+Elderly patients or patients with NDMM who are ‘not’
+eligible to receive HDT and autologous transplantation
+Before 2019, VMP and Rd were the standards of care for
+NDMM patients who were not eligible for an ASCT in
+Europe.39,40 A phase III trial comparing VRd with Rd in
+525 NDMM patients (43% were younger than 65 years of
+age) was recently updated and showed the superiority of
+VRd regarding PFS (mPFS: 41 versus 29 months; P ¼
+0.003) and OS [median OS (mOS) not reached versus 69
+months; P ¼ 0.0114].41 Based on these results, the EMA
+approved VRd in April 2019 for use in NDMM patients
+who are not eligible for ASCT. The substitution of bortezomib with K in the Rd combination seems not to offer
+better results. The ENDURANCE trial, which compared
+KRd versus VRd in NDMM patients without an immediate
+intent for ASCT, failed to show superiority of KRd
+regarding PFS in the study population (n ¼ 1087), which
+included a low number of patients with high-risk
+cytogenetics.42
+The addition of Dara to VMP and Rd has created two new
+standards of care. DaraVMP and DaraRd were approved by
+the EMA in October 2019, based on the results of two large
+phase III studies. In the ALCYONE study, 706 patients with
+NDMM who were ineligible for ASCT were randomised to
+receive 9 cycles of VMP either alone or with Dara
+(DaraVMP); then Dara was given until disease progression.43 At a median follow-up of 40 months, the mPFS was
+36.4 versus 19.3 months for the DaraVMP and VMP arms,
+respectively, while the 36-month rate of OS was 78% and
+68% for the two groups (HR 0.60; P ¼ 0.0003).44 In the
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+M. A. Dimopoulos et al.
+
+Annals of Oncology
+
+Eligibility for ASCT
+
+Yes
+
+No
+
+Induction
+
+First option:
+DaraRd [I, A]
+DaraVMP [I, A]
+VRd [I, A]
+
+First option:
+VRd [II, B]
+DaraVTD [I, A]
+If first option is not available:
+VTD [I, A]
+VCD [II, B]
+
+If first option is not available:
+VMP [I, A]
+Rd [I, A]
+
+200 mg/m2 melphalan [I, A]
+followed by ASCT [I, A]
+
+Lenalidomide maintenance [I, A]
+
+Figure 1. Recommendations for MM front-line therapy.
+ASCT, autologous stem cell transplantation; DaraRd, daratumumab/lenalidomide/dexamethasone; DaraVMP, daratumumab/bortezomib/melphalan/prednisone;
+DaraVTD, daratumumab/bortezomib/thalidomide/dexamethasone; MM, multiple myeloma; Rd, lenalidomide/dexamethasone; VCD, bortezomib/cyclophosphamide/
+dexamethasone; VMP, bortezomib/melphalan/prednisone; VRd, bortezomib/lenalidomide/dexamethasone; VTD, bortezomib/thalidomide/dexamethasone.
+
+MAIA study, 737 NDMM patients who were ineligible for
+ASCT were randomised to receive either DaraRd or Rd until
+disease progression. At a median follow-up of 28 months,
+the estimated PFS at 30 months was 70.6% in the DaraRd
+group and 55.6% in the Rd group (HR 0.56; P < 0.001).45
+Other approved regimens in this setting include bendamustine plus prednisone46 and melphalan, prednisone and
+lenalidomide (MPR),47 but they are not routinely used and
+cannot be considered as standards of care.
+It is important to realise that one-third of patients are
+older than 75 years at diagnosis and at least 30% are frail.
+Please refer to Management of frail elderly patients in the
+Supplementary Material, available at https://doi.org/10.
+1016/j.annonc.2020.11.014, for consensus panel recommendations for the management of these patients.
+Although maintenance is not standard for patients who
+are not eligible for ASCT (almost all approved regimens are
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+used continuously until progression or unacceptable
+toxicity), ixazomib maintenance was tested in a phase III
+study which included 706 patients who received 6-12
+months of standard induction before being randomised to
+receive either ixazomib or placebo. Ixazomib maintenance
+offered a PFS beneﬁt over placebo (17.4 versus 9.4 months,
+HR 0.65, P ¼ 0.00003).48 Figure 1 depicts the ﬁrst-line
+options for the treatment of NDMM patients.
+
+Recommendations
+ ‘Watch-and-wait’ remains the recommended approach
+for SMM [II, B]. High-risk patients are encouraged to
+participate in randomised phase III studies that are powered for OS advantage of the experimental treatment
+modality.
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+313
+
+Annals of Oncology
+ For patients <70 years without comorbidities, induction
+therapy followed by HDM and ASCT is the recommended
+treatment [I, A].
+ Regarding induction therapy pre-ASCT, VRd is likely to
+offer the best risk-beneﬁt proﬁle to date among triplets
+based on bortezomib [II, B]; however, VRd lacks direct
+comparisons with VTD or DaraVTD and is not licensed
+by the EMA. The four-drug combination DaraVTD is
+more efﬁcacious than VTD [I, A] and is the new standard
+of care. If this is not available, VTD [I, A] or VCD [II, B]
+may be used. DaraVRd and IsaVRd are under clinical
+investigation and may be standards of care in the near
+future. Induction with 4-6 cycles is the recommended
+approach.
+ HDM (200 mg/m2) is the standard conditioning regimen
+before ASCT [I, A].
+ Consolidation therapy post-ASCT has not been established to date as standard therapy; 2 cycles of VRd
+consolidation has to be considered in patients who
+receive VCD induction [II, B], while a tandem ASCT is recommended for patients with genetically deﬁned
+high-risk disease [II, B] or in all patients who received
+VCD induction [II, B]. Allo-SCT following ASCT does not
+offer OS beneﬁt even in high-risk disease compared
+with tandem ASCT.
+ Maintenance with lenalidomide is considered the standard of care for all MM patients post-ASCT [I, A]; bortezomib may be considered for patients with high-risk
+disease [II, B]. Ixazomib maintenance offers PFS beneﬁt
+over placebo [I, A], but has not been approved by the
+EMA or the US Food and Drug Administration (FDA).
+ For patients who are not eligible for ASCT, there are
+three new standards of care: VRd, DaraVMP and
+DaraRd [I, A]. When DaraRd and DaraVMP are not available, VRd is the preferred option in ﬁt patients; Rd and
+VMP may be considered for patients who cannot receive
+the previous regimens [I, A].
+
+TREATMENT OF RELAPSED/REFRACTORY PATIENTS
+Patients who have received one prior line of therapy
+Salvage ASCT may be an option for patients who have
+received front-line induction with bortezomib-based triplet
+combination followed by an ASCT. Two prospective studies
+of salvage ASCT have been published so far. The ﬁrst
+included a bortezomib-based re-induction and a randomisation between salvage ASCT or cyclophosphamide, which
+is suboptimal for relapsed patients. Salvage ASCT signiﬁcantly extended mPFS (19 versus 11 months; P < 0.001) and
+OS (67 versus 52 months; P ¼ 0.0169).49 The second
+included patients with ﬁrst to third relapse who were
+randomised to a transplant arm (n ¼ 139) consisting of 3 Rd
+re-induction cycles, ASCT and lenalidomide maintenance
+(10 mg/day) or to a control arm (n ¼ 138) of continuous Rd.
+Although there was no difference regarding PFS and OS
+between the two arms, almost 30% of the patients in the
+transplant arm did not receive the assigned ASCT mainly
+314
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+M. A. Dimopoulos et al.
+
+due to early disease progression. Multivariate landmark
+analyses from the time of ASCT showed superior PFS and OS
+(P ¼ 0.0087 and P ¼ 0.0057 respectively) in patients who
+received ASCT.50 The American and European Associations
+for Bone and Marrow Transplantation have reported that
+HDT and ASCT should be considered appropriate treatment
+of any patient relapsing after primary therapy that includes
+an ASCT with initial remission duration of >18 months.51
+However, this recommendation was made before the
+broad use of lenalidomide as maintenance therapy postASCT. Although there is no evidence for the role of
+salvage ASCT in patients who received lenalidomide maintenance, the panel suggests that second-line ASCT is a
+logical approach for patients who relapse after primary
+therapy that includes an ASCT followed by lenalidomide
+maintenance and had an initial remission duration of 36
+months. The use of re-induction is a matter of debate as
+there is no prospective study on this issue. Retrospective
+studies suggest that the use of re-induction does not offer
+survival beneﬁt in salvage ASCT.52
+In patients in whom a salvage ASCT is not considered, the
+second-line therapy should include an Rd-based regimen,
+i.e. KRd, DaraRd, ixazomib/lenalidomide/dexamethasone
+(IRd) or EloRd for patients who received a bortezomibbased therapy upfront without lenalidomide or Dara (i.e.
+VCD, VTD, VMP); all these combinations were found to be
+superior to Rd, in terms of PFS, in pivotal phase III
+studies.53-56 Based on both HR and absolute values of mPFS,
+DaraRd provides the longest PFS for patients with RRMM
+who have received 1-3 prior lines of therapy and have a
+standard-risk cytogenetic proﬁle. KRd and EloRd have also
+shown OS beneﬁt over Rd: mOS 48.3 versus 40.4 months
+for KRd versus Rd (HR 0.79; P ¼ 0.0045),57 and 48.3 versus
+39.6 months for EloRd versus Rd,58 respectively. DaraRd is
+likely to have OS beneﬁt over Rd, but mature data have not
+been presented, while IRd has no OS beneﬁt over Rd. For
+relapsed patients with high-risk cytogenetics, although
+different cut-off values are used for the deﬁnition of del17p
+positivity, all above triplets have shown better results
+compared with Rd; however, the combination of a PI with
+Rd, i.e. KRd or IRd, along with DaraRd seem to offer the best
+beneﬁt to date.
+Elderly patients who received Rd upfront without Dara59
+or patients who received lenalidomide maintenance after
+ASCT and are progressing (lenalidomide-refractory patients), according to previous guidelines, could receive
+either K plus dexamethasone (Kd) or Dara and bortezomib
+plus dexamethasone (DaraVd) (patients treated with Kd or
+DaraVd had signiﬁcantly improved PFS compared with
+Vd).60,61 Three phase III studies suggest that the combination of pomalidomide with bortezomib and dexamethasone
+(PomVd) and the combinations of Dara or Isa with K and
+dexamethasone (DaraKd or IsaKd) are new options for this
+setting.60-62 In the ﬁrst study, PomVd (n ¼ 278) was
+compared with Vd (n ¼ 270) in RRMM patients who had
+received 1-3 prior lines of therapy that included lenalidomide. More than 70% of the patients were refractory to
+lenalidomide. After a median follow-up of 16 months,
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+M. A. Dimopoulos et al.
+
+Annals of Oncology
+
+PomVd improved mPFS in the study population (11.2 versus
+7.1 months; HR 0.61; P < 0.0001) as well as in patients
+refractory to lenalidomide (9.5 versus 5.6 months; P ¼
+0.0008) and in patients refractory to lenalidomide who
+received only 1 prior line of treatment (17.8 versus 9.5
+months; P ¼ 0.03).62 PomVd was approved by the EMA in
+May 2019.
+In the second study (CANDOR), DaraKd was compared
+with Kd in RRMM patients who had received 1 prior line of
+therapy. This study showed that the mPFS was not reached
+for the DaraKd group and it was 15.8 months for the Kd
+group (HR 0.63; P ¼ 0.0014). DaraKd resulted in a better
+PFS beneﬁt both among lenalidomide-exposed (HR 0.52)
+and lenalidomide-refractory patients (HR 0.45).63
+Finally, in the third study, which was reported at the
+European Hematology Association (EHA) 2020 meeting,
+only 302 patients with RRMM and 1-3 prior lines of therapy
+were randomised to receive either IsaKd (n ¼ 179) or Kd
+(n ¼ 123). At a median follow-up of 20.7 months, mPFS was
+not reached for IsaKd whereas it was 19.1 months for Kd
+(HR 0.53; P ¼ 0.0007).64
+Thus, PomVd, DaraKd and IsaKd are recommended
+therapies for patients who were previously exposed or are
+refractory to lenalidomide, while DaraKd or IsaKd can also
+be given in patients who are refractory to bortezomib.
+The approval of Dara-based regimens (DaraVTD, DaraVMP
+and DaraRd) and of VRd, as ﬁrst-line therapy for myeloma
+patients, makes the treatment of second and subsequent lines
+of therapy very challenging. Although there is some evidence
+that Dara retreatment can be efﬁcacious in some patients,65,66
+there are no data for Dara retreatment at second line.
+Venetoclax is a selective Bcl-2 inhibitor that promotes MM
+cell apoptosis. The phase III BELLINI trial evaluated the combination of venetoclax with Vd (VenVd) compared with Vd
+among RRMM patients, who had received 1-3 prior lines of
+therapy and were PI-sensitive. A signiﬁcant PFS beneﬁt was
+reported with VenVd among patients with t(11;14) (HR 0.10;
+P ¼ 0.003) and those with high BCL2 expression (HR 0.26;
+P < 0.001) but no OS difference was shown in this population.
+On the contrary, Vd was superior to VenVd in terms of OS
+among patients without t(11;14) and low BCL2 (HR 3.13;
+P ¼ 0.019).67 Therefore, VenVd is an option only for patients
+with t(11;14) or high BCL2 levels who have failed lenalidomide
+and are sensitive to PI. VenVd is awaiting EMA approval.
+Selinexor is an oral, selective inhibitor of XPO1-mediated
+nuclear export, leading to the reactivation of tumoursuppressor proteins. Selinexor in combination with Vd
+(SVd) was compared with Vd in a phase III study with 402
+patients with RRMM who received 1-3 prior lines of therapy. SVd signiﬁcantly prolonged mPFS compared with Vd
+(13.9 versus 9.4 months, HR 0.70, P ¼ 0.0066), suggesting
+that SVd might be another option in patients who were
+treated with lenalidomide-based regimens upfront.68 SVd is
+awaiting EMA approval.
+In Figure 2, the possible options for second-line therapy,
+taking into consideration the previous line and the
+
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+refractoriness to speciﬁc agents, are described. For Darapreviously exposed or -refractory patients, the recommendations are based on panel opinion as there is no evidence
+for the efﬁcacy of the approved second-line regimens in
+these patients to date.
+Patients who have received two or more prior lines of
+therapy
+Treatment of RRMM patients who received two or more
+prior lines of therapy is becoming challenging.69 A recent
+study revealed that patients who are refractory to two PIs,
+two IMiDs and a CD38 mAb have an mOS of 5.6 months
+only.70 For patients who have been exposed or are refractory to both bortezomib and lenalidomide, who have
+not received an mAb, DaraKd or IsaKd are suitable options.
+The combinations of Elo or Isa with pomalidomide and
+dexamethasone (EloPd and IsaPd, respectively) are suitable
+options for patients who have failed 2 lines of previous
+therapies, including lenalidomide and a PI, based on the
+results of two studies. The ﬁrst was a phase II study, in
+which patients were randomly assigned to receive either
+EloPd (n ¼ 60) or Pd (n ¼ 57). After a follow-up period of
+9 months, the mPFS was 10.3 months in the EloPd group
+and 4.7 in the Pd group (HR 0.54; P ¼ 0.008).71 The second
+was a phase III study, in which patients were randomised to
+receive either IsaPd (n ¼ 154) or Pd (n ¼ 153). At a median
+follow-up of 11.6 months, mPFS was 11.5 months in the
+IsaPd group versus 6.5 months in the Pd group (HR 0.596;
+P ¼ 0.001).72 EloPd and IsaPd were recently approved by
+the EMA in this setting.
+The combination of Dara with pomalidomide and dexamethasone (DaraPd) has been approved by the FDA for
+patients who have failed 2 lines of previous therapies,
+including lenalidomide and a PI. This was based on a phase
+II non-randomised study where DaraPd was given in 103
+patients with RRMM. At a median follow-up of 13 months,
+the mPFS was 8.8 months and the mOS was 17.5 months.73
+DaraPd has not yet been approved by the EMA, as the results of the phase III APOLLO study (DaraPd versus Pd) are
+pending.
+Patients with t(11;14), who are refractory to lenalidomide
+and are PI-sensitive may be treated with VenVd, when this
+regimen is licensed, as previously discussed.
+For
+triple-class
+refractory
+patients,
+selinexordexamethasone (Sd) or belantamab mafodotin monotherapy may be suitable options. In a phase II study with
+122 RRMM patients (median number of 7 prior lines of
+therapy), oral selinexor was given with dexamethasone
+twice weekly. An mPFS of 3.7 months and an mOS of 8.6
+months were reported. Fatigue, nausea and decreased
+appetite were common and were typically grade 1 or 2
+events; grade 3 events were noted in up to 25% of patients
+and no grade 4 events were reported.74
+Belantamab mafodotin is an antibody-drug conjugate
+targeting B-cell maturation antigen (BCMA). In a phase II
+study, 196 patients with triple-class refractory MM received
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+315
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+Lenalidomidesensitive
+
+Lenalidomiderefractory
+
+Bortezomibsensitive
+
+KRd [I, A]
+DaraRd [I, A]
+EloRd [I, A]
+PomVd [I, A]
+DaraKd [I, A]
+IsaKd [I, A]
+IxaRd [I, A]
+SVd [I, A]
+
+PomVd [I, A]
+DaraKd [I, A]
+IsaKd [I, A]
+SVd [I, A]
+
+KRd [I, A]
+DaraRd [I, A]
+EloRd [I, A]
+PomVd [I, A]
+DaraKd [I, ,A]
+DaraVd [I, A]
+IsaKd [I, A]
+SVd [I, A]
+VenVda [I, A]
+
+Lenalidomide
+and bortezomibrefractory
+
+DaraKd [I, A]
+IsaKd [I, A]
+
+Second-line options after DaraVMPb,c
+or DaraVTDb,c
+
+Lenalidomidesensitive
+
+Lenalidomiderefractory
+
+Bortezomibsensitive
+
+Bortezomibrefractory
+
+PomVd
+Kd
+EloRd
+KRd
+IxaRd
+SVd
+VenVda
+
+PomVd
+Kd
+SVd
+VenVda
+
+EloRd
+KRd
+IxaRd
+VRd
+SVd
+Kd
+VenVda
+
+EloRd
+
+Annals of Oncology
+
+316
+Second-line options after DaraRdb,c
+
+Second-line options after VRd
+
+Figure 2. Second-line options for MM patients who received VRd and Dara-based front-line therapies.
+The three different ﬂow-charts shown in this ﬁgure depict three different scenariosddepending on the ﬁrst-line treatment given (from left to right):
+ second-line options after VRd ﬁrst-line treatment
+ second-line options after DaraRd ﬁrst-line treatment and
+ second-line options after DaraVMP or DaraVTD ﬁrst-line treatment.
+Dara, daratumumab; Elo, elotuzumab; Isa, isatuximab; Ixa, ixazomib; K, carﬁlzomib; Kd, carﬁlzomib/dexamethasone; MM, multiple myeloma; PomVd, pomalidomide/bortezomib/dexamethasone; Rd, lenalidomide/dexamethasone;
+S, selinexor; Vd, bortezomib/dexamethasone; VMP, bortezomib/melphalan/prednislone; VRd, bortezomib/lenalidomide/dexamethasone; Ven, venetoclax; VTD, bortezomib/thalidomide/dexamethasone.
+a
+Patients with t(11;14).
+b
+Patients who progress while on monthly Dara are considered as Dara-refractory.
+c
+All recommendations for patients who receive front-line therapy with Dara-based therapies are based on panel consensus as there are no trials evaluating regimens in second-line therapy that include patients refractory or exposed
+to Dara.
+
+-
+
+Issue 3
+-
+
+2021
+
+M. A. Dimopoulos et al.
+
+Volume 32
+
+M. A. Dimopoulos et al.
+
+Volume 32
+
+At second or subsequent relapse
+
+-
+
+Issue 3
+-
+
+2021
+
+Lenalidomide and
+bortezomib refractory
+
+Lenalidomide refractory
+and PI sensitive
+
+Alternative
+(less preferred) options
+
+For triple-class refractory
+patients (PIs, IMiDs and
+mAbs against CD38)
+
+DaraKd [I, A]
+IsaPd [I, A]
+EloPd [II, B]
+IsaKd [I, A]
+DaraPd [II, B]a
+
+DaraKd [I, A]
+IsaPd [I, A]
+EloPd [II, B]
+IsaKd [I, A]
+DaraPd [II, B]
+DaraVd [I, A]
+SVd [I, A]
+VenVd [I, A]b
+
+PCd [II, B]
+Daratumumab [I, A]
+
+Sd [II, B]
+Belantamab mafodotin [II, B]
+
+Clinical trials
+
+317
+
+Annals of Oncology
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+Figure 3. Recommendations for MM patients who receive a third or subsequent line of therapy.
+Dara, daratumumab; Elo, elotuzumab; IMiD, immunomodulatory drug; Isa, isatuximab; Kd, carﬁlzomib/dexamethasone; mAb, monoclonal antibody; MM, multiple myeloma; PCd, pomalidomide/cyclophosphamide/dexamethasone;
+Pd, pomalidomide/dexamethasone; PI, proteasome inhibitor; S, selinexor; Sd, selinexor/dexamethasone; Vd, bortezomib/dexamethasone; Ven, venetoclax.
+a
+Only phase IB data are published for DaraPd. Publication of phase III data are expected in 2021.
+b
+For patients with t(11;14) or high BCL2 levels.
+
+Annals of Oncology
+two different doses of belantamab mafodotin (2.5 and
+3.4 mg/kg). The mPFS was 2.9 and 4.9 months for the two
+doses, respectively. The most common grade 3-4 adverse
+events included keratopathy (27% and 21% of patients for
+the two doses, respectively), thrombocytopaenia and
+anaemia.75 Melﬂufen may also be beneﬁcial in Dara and
+pomalidomide-refractory patients but the results of the
+phase III trial have not yet been reported.76
+Figure 3 summarises the recommendations for RRMM
+patients who receive third or subsequent lines of therapy.
+Immunotherapy strategies targeting BCMA or other antigens on the surface of myeloma cells, including bispeciﬁc
+T-cell engagers (BiTEs) and chimeric antigen receptor
+T (CAR-T) cells, are under clinical investigation in RRMM
+patients. Results for the ﬁrst published study with a CAR-T
+cell product in myeloma patients showed that infusion of
+bb2121 in 33 consecutive patients with multi-refractory
+disease resulted in an objective response rate of 85%,
+including 15 patients (45%) with CR; all were MRD-negative.
+The mPFS was 11.8 months. CAR-T cell expansion was
+associated with better responses and CAR-T cells persisted
+up to 1 year after the infusion. A total of 25 patients (76%)
+had cytokine release syndrome, while neurological toxic
+effects occurred in 14 patients (42%).77 Several studies
+using other CAR-T cell products or T-cell engagers (TCEs)
+were reported in the American Society of Clinical
+Oncology (ASCO) and EHA 2020 meetings and had similar
+results, suggesting that these immunotherapy techniques
+may increase survival of myeloma patients (see
+Supplementary Material, available at https://doi.org/10.1
+016/j.annonc.2020.11.014, section on novel immunotherapies for myeloma).
+Recommendations
+Patients who receive second-line therapy
+ Second-line ASCT is an option for patients who received
+primary therapy that included an ASCT followed by lenalidomide maintenance and had an initial remission duration of 36 months (panel consensus).
+ Patients who had received a bortezomib-based therapy
+upfront without lenalidomide or Dara should receive an
+Rd-based regimen, i.e. KRd, DaraRd, IRd or EloRd [I, A].
+DaraRd provides the best PFS for these patients, while
+only KRd and EloRd showed an OS beneﬁt over Rd to date.
+ Patients who are refractory to lenalidomide upfront
+could receive either PomVD, DaraKd, IsaKd or DaraVd
+[I, A]. PomVd is the approved indication with best
+results, in terms of PFS, as second-line therapy in
+lenalidomide-refractory patients. DaraKd has given the
+best reported PFS to date in lenalidomide-refractory patients, but DaraKd is awaiting EMA approval. Similarly,
+IsaKd and SVd, which are also suitable for this setting
+[I, A], have not yet been approved by the EMA.
+ VenVd is a suitable option for patients with t(11;14) who
+have failed lenalidomide and are sensitive to PIs [I, A], if
+available.
+318
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+M. A. Dimopoulos et al.
+
+Patients at third and subsequent lines of treatment
+ For patients who have been exposed or are refractory to
+both bortezomib and lenalidomide, DaraKd [I, A], IsaPd
+[I, A], IsaKd [I, A] and EloPd [II, B] are recommended.
+ Patients with t(11;14), who are refractory to lenalidomide and are PI-sensitive may be treated with VenVd
+[I, A], if available.
+ For triple-class refractory patients, Sd or belantamab
+mafodotin monotherapy is recommended [II, B], if available. Results of phase III studies of melﬂufen, TCEs and
+CAR-Ts in triple-class refractory patients are awaited.
+MANAGEMENT OF PLASMA CELL LEUKAEMIA
+Primary plasma cell leukaemia (PPCL) is a rare and aggressive variant of MM, operationally deﬁned by the presence
+of 20% and/or an absolute number >2  109/l of clonal
+plasma cells in the peripheral blood without a previous
+history of MM.78 The cut-off value of circulating plasma
+cells for the deﬁnition of PCL may be reduced to 5% in the
+near future, as the survival of these patients is similar to
+those with 20% of circulating plasma cells.74 PPCL should be
+distinguished from secondary PCL, which generally constitutes the leukaemic evolution of a pre-existing, end-stage
+RRMM, and from extramedullary myeloma. Diagnostic
+work-up and staging procedures in PPCL are similar to those
+applied in MM. However, they have to be implemented by
+peripheral blood analysis for measuring circulating PC count
+and PET-CT for detecting possible extramedullary lesions.79
+The outcome of patients with PCL remains poor and the
+mOS is around 1 year.78,79 There are no precise guidelines
+for the treatment of PPCL due to the lack of phase III trials
+in this setting. Only two prospective phase II studies have
+been published so far for PPCL.80,81 Overall, treatment
+should be immediate and possibly oriented toward bortezomib and/or lenalidomide-based multiphase approaches in
+combination with chemotherapy agents, with short
+treatment-free intervals. It should ideally include induction,
+double ASCT, consolidation and maintenance [II, B]. KRd
+may be another option for these patients82 but more data
+are needed before a recommendation can be made for PCL
+patients.
+Allo-SCT should be considered in selected cases [III, C]. In
+a recent study, 71 patients (median age 56 years) with PPCL
+underwent an allo-SCT and the 4-year outcomes were: nonrelapse mortality 12%, PFS 19% and OS 31%.83 Thus, in
+patients younger than 50 years of age with a suitable donor,
+a myeloablative allo-SCT can be considered. Otherwise, a
+tandem transplant with an ASCT followed by a reducedintensity conditioning allo-SCT if a related or an unrelated
+donor is available can be considered [IV, C].
+Patients not eligible for transplant procedures should
+preferably receive continuous treatment [III, C]. In relapsed/
+refractory PPCL, a switch to drugs not used at diagnosis
+should be considered, favouring combinations of lenalidomide or pomalidomide plus dexamethasone with K or mAbs
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+M. A. Dimopoulos et al.
+
+Annals of Oncology
+
+(Dara or Elo) (expert consensus). See Supplementary
+Table S6, available at https://doi.org/10. 1016/j.annonc.202
+0.11.014, for summary recommendations.
+
+addition of quadruplet combinations including mAbs as
+part of front-line therapies and novel immunotherapy
+strategies seems to further increase this apparent cure
+rate.
+
+MANAGEMENT OF SOLITARY PLASMACYTOMA
+Solitary plasmacytoma is an infrequent form of plasma cell
+neoplasm that presents as a single mass of monoclonal
+plasma cells, with either extramedullary or intraosseous
+location.84,85 Clonal PCs are typically absent in the BM
+aspirate by conventional morphology or immunohistochemistry and there are no other MM features (hypercalcaemia, anaemia or renal disease attributable to MM).8
+In some patients, a BM aspiration can detect a low monoclonal plasma cell inﬁltration, which indicates a high risk of
+early progression to an overt myeloma disease.84,85
+Furthermore, in a study following the use of high sensitivity ﬂow cytometry, half of the patients showed occult BM
+inﬁltration and half of these cases progressed at 2 years.86
+Thus, detection of clonal PC using sensitive techniques in
+the BM is suggested [II, B] and systemic treatment of
+myeloma should be considered in these patients [III, B].
+Before treatment initiation, whole-body magnetic resonance imaging (MRI) and PET-CT should be carried out to
+exclude the presence of multiple plasmacytomas, commending systemic treatment instead of radiotherapy (RT) [I,
+A].6,87 Local high-dose RT is the preferred treatment of
+choice [II, A], but about two-thirds of patients develop MM
+at 10 years’ follow-up.88 With current staging techniques,
+i.e. NGF and PET-CT, the incidence of solitary plasmacytoma
+is expected to decrease and the cure rate to increase. See
+Supplementary Table S6, available at https://doi.org/10.
+1016/j.annonc.2020.11.014, for summary recommendations.
+SUPPORTIVE CARE
+Recommendations for the management of myeloma complications, i.e. bone disease, anaemia, BM failure, infections,
+vaccination strategies and renal impairment, are described
+in the Supplementary Material, available at https://doi.
+org/10.1016/j.annonc.2020.11.014, in the section on Supportive Care.
+
+PERSONALISED MEDICINE
+The presence of t(11;14) in RRMM patients should be
+investigated to decide for venetoclax-based regimens, when
+available in Europe. Otherwise, no prognostic factor or
+staging system, including R-ISS or gene-expression proﬁling,
+is used routinely to deﬁne a risk-adapted strategy. In
+myeloma, more research is needed to identify molecular
+markers which could lead to advances in personalised
+medicine.
+METHODOLOGY
+These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating procedures for
+Clinical Practice Guidelines development www.esmo.org/
+Guidelines/ESMO-Guidelines-Methodology. An interdisciplinary panel of clinical experts on MM, members of ESMO,
+EHA and EMN, selected the relevant literature. Levels of
+evidence and grades of recommendations were assigned
+according to the adapted Infectious Diseases Society of
+America-United States Public Health Service Grading System
+(Supplementary Table S7, available at https://doi.org/10.1
+016/j.annonc. 2020.11.014).89 Statements without grading
+were considered justiﬁed standard clinical practice by the
+experts.
+ACKNOWLEDGEMENTS
+The authors thank all those who contributed to this
+manuscript on behalf of the EHA and ESMO.
+FUNDING
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURE
+
+FOLLOW-UP AND LONG-TERM IMPLICATIONS
+Table 1 includes all tests that have to be carried out during
+follow-up of myeloma patients. Full blood count, serum and
+urine electrophoresis and serum-free light chain (sFLC)
+determination, creatinine and calcium tests should be carried
+out monthly or at least every 3 months. sFLC should be used
+to detect light chain escape. In cases of relapsed patients with
+no positivity for del17p or add1q at diagnosis, FISH analysis
+for del17p and add1q should be carried out to reveal high-risk
+relapse. In case of bone pain, whole-body low-dose CT
+(WBLD-CT), MRI or PET-CT should be carried out to detect
+new bone lesions.85
+MM has for a long time been considered as an incurable
+disease. Recent trials incorporating novel agents and ASCT
+report a statistical cure fraction of more than 15%.1,22 The
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+MAD reported consultancy and honoraria from Janssen,
+Celgene, Takeda, Amgen and Bristol Myers Squibb; PM reported honoraria from Celgene, Janssen, Takeda, Amgen and
+Abbvie; ET reported honoraria from Bristol Myers Squibb,
+Janssen, Celgene, Takeda, Genesis Pharma, Amgen, Sanoﬁ
+and Novartis; research funding from Janssen, Amgen, Takeda,
+Sanoﬁ and Genesis Pharma; MVM reported honoraria from
+lectures and boards from Janssen, Celgene, Amgen, Takeda,
+Abbvie, GlaxoSmithKline, Adaptive, Roche and Seattle Genetics; SZ reported participation in advisory boards for
+Takeda, Celgene, Janssen, Sanoﬁ and Oncopeptides and
+research funding from Celgene, Janssen and Takeda; GC reported being a member of speaker bureau for Takeda, Bristol
+Myers Squibb, Celgene, Amgen, Sanoﬁ and Janssen and has
+received research grants from Bristol Myers Squibb, Celgene
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+319
+
+Annals of Oncology
+and Takeda; MD reported honoraria from Abbvie, Adaptive
+Biotechnologies, Amgen, Bristol Myers Squibb, Celgene,
+Janssen, Karyopharm, Sanoﬁ and Takeda and has received
+research funding from Bristol Myers Squibb, Celgene, Janssen
+and Takeda; RH reported consultant or advisory roles for
+Janssen, Amgen, Celgene, AbbVie, Bristol Myers Squibb,
+Novartis, PharmaMar and Takeda; honoraria from Janssen,
+Amgen, Celgene, Bristol Myers Squibb, PharmaMar and
+Takeda and has received research grants from Janssen,
+Amgen, Celgene, Bristol Myers Squibb, Novartis and Takeda;
+FS reported honoraria from Amgen, Celgene, Bristol Myers
+Squibb, Takeda, Abbvie, Janssen, Novartis, SkyliteDX, Oncopeptides, Sanoﬁ, GlaxoSmithKline, Adaptive and Merck Sharp
+& Dohme; MC reported honoraria from Janssen, Celgene,
+Amgen, Bristol Myers Squibb, Takeda, AbbVie, Sanoﬁ and
+Adaptive Biotechnologies and speaker’s bureau membership
+for Janssen and Celgene; HG reported grants from Amgen,
+Bristol Myers Squibb, Celgene, Chugai, Dietmar-HoppFoundation, Janssen, John Hopkins University and Sanoﬁ;
+research support from Amgen, Bristol Myers Squibb,
+Celgene, Chugai, Janssen, Incyte, Molecular Partners, Merck
+Sharp & Dohme, Sanoﬁ, Mundipharma, Takeda and Novartis;
+participation in advisory boards for Adaptive Biotechnology,
+Amgen, Bristol Myers Squibb, Celgene, Janssen, Sanoﬁ and
+Takeda; honoraria from Academy2 GmbH & Co. KG, Amgen,
+ArtTempi, Bristol Myers Squibb, Celgene, Chop GmbH,
+Chugai, FomF GmbH, GlaxoSmithKline, GWT Forschung und
+Innovation Dresden, InVo Institut für Versorgungsforschung
+in der Onkologie GbR, Janssen, Kompetenznetz Maligne
+Lymphome (KML), MedConcept GmbH, Medical Communication GmbH, New Concept Oncology, Novartis, Omnia Med
+Deutschland and Sanoﬁ; TF reported speaker and advisory
+roles for Janssen, Bristol Myers Squibb and Takeda; role for
+Roche, Sanoﬁ, Karyopharm and Oncopeptides and speaker
+role for Amgen; HE reported consulting and advisory roles for
+Bristol Myers Squibb, Celgene, Janssen, Amgen, Takeda,
+Sanoﬁ and GlaxoSmithKline; research funding from Bristol
+Myers Squibb, Celgene, Janssen, Amgen, GlaxoSmithKline
+and Sanoﬁ; honoraria from Bristol Myers Squibb, Celgene,
+Amgen, Takeda, Sanoﬁ and GlaxoSmithKline; MB has
+received honoraria from Sanoﬁ, Celgene, Amgen, Janssen,
+Novartis, Bristol Myers Squibb and AbbVie; has served on
+advisory boards for Janssen and GlaxoSmithKline; has
+received research funding from Sanoﬁ, Celgene, Amgen,
+Janssen, Novartis, Bristol Myers Squibb and Mundipharma;
+JS-M reported consultancy for Amgen, Bristol Myers Squibb,
+Celgene, Janssen, Merck Sharp & Dohme, Novartis,
+GlaxoSmithKline, Takeda, Sanoﬁ and Roche; PS reported
+honoraria and advisory roles for Celgene, Janssen, Amgen,
+Takeda, Bristol Myers Squibb and Skyline and research
+funding from Celgene, Amgen, Janssen and Takeda; UM reported honoraria from Celgene, Janssen, Amgen, Takeda,
+AbbVie, Bristol Myers Squibb and Sanoﬁ.
+REFERENCES
+1. Usmani SZ, Hoering A, Cavo M, et al. Clinical predictors of long-term
+survival in newly diagnosed transplant eligible multiple myeloma an IMWG Research Project. Blood Cancer J. 2018;8:123.
+
+320
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+M. A. Dimopoulos et al.
+2. Moreau P, San Miguel J, Sonneveld P, et al. Multiple myeloma: ESMO
+Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann
+Oncol. 2017;28:iv52-iv61.
+3. Kumar S, Paiva B, Anderson KC, et al. International Myeloma
+Working Group consensus criteria for response and minimal residual
+disease assessment in multiple myeloma. Lancet Oncol. 2016;17:
+e328-e346.
+4. Perrot A, Lauwers-Cances V, Corre J, et al. Minimal residual disease
+negativity using deep sequencing is a major prognostic factor in
+multiple myeloma. Blood. 2018;132:2456-2464.
+5. Munshi NC, Avet-Loiseau H, Rawstron AC, et al. Association of minimal
+residual disease with superior survival outcomes in patients with
+multiple myeloma: a meta-analysis. JAMA Oncol. 2017;3:28-35.
+6. Cavo M, Terpos E, Nanni C, et al. Role of (18)F-FDG PET/CT in the
+diagnosis and management of multiple myeloma and other plasma cell
+disorders: a consensus statement by the International Myeloma
+Working Group. Lancet Oncol. 2017;18:e206-e217.
+7. Avet-Loiseau H, Ludwig H, Landgren O, et al. Minimal residual disease
+status as a surrogate endpoint for progression-free survival in newly
+diagnosed multiple myeloma studies: a meta-analysis. Clin Lymphoma
+Myeloma Leuk. 2020;20:e30-e37.
+8. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International
+Myeloma Working Group updated criteria for the diagnosis of multiple
+myeloma. Lancet Oncol. 2014;15:e538-548.
+9. Rajkumar SV, Landgren O, Mateos MV. Smoldering multiple myeloma.
+Blood. 2015;125:3069-3075.
+10. Mateos MV, Hernandez MT, Giraldo P, et al. Lenalidomide plus dexamethasone for high-risk smoldering multiple myeloma. N Engl J Med.
+2013;369:438-447.
+11. Mateos MV, Hernandez MT, Giraldo P, et al. Lenalidomide plus dexamethasone versus observation in patients with high-risk smouldering
+multiple myeloma (QuiRedex): long-term follow-up of a randomised,
+controlled, phase 3 trial. Lancet Oncol. 2016;17:1127-1136.
+12. Lonial S, Jacobus S, Fonseca R, et al. Randomized trial of lenalidomide
+versus observation in smoldering multiple myeloma. J Clin Oncol.
+2020;38:1126-1137.
+13. Landgren CO, Chari A, Cohen YC, et al. Daratumumab monotherapy for
+patients with intermediate-risk or high-risk smoldering multiple
+myeloma: a randomized, open-label, multicenter, phase 2 study
+(CENTAURUS). Leukemia. 2020;34:1840-1852.
+14. Cavo M, Gay F, Patriarca F, et al. Double autologous stem cell transplantation signiﬁcantly prolongs progression-free survival and overall
+survival in comparison with single autotransplantation in newly diagnosed multiple myeloma: an analysis of phase 3 EMN02/HO95 study.
+Blood. 2017;130(suppl 1):401.
+15. Attal M, Lauwers-Cances V, Hulin C, et al. Lenalidomide, bortezomib,
+and dexamethasone with transplantation for myeloma. N Engl J Med.
+2017;376:1311-1320.
+16. Cavo M, Gay F, Beksac M, et al. Autologous haematopoietic stem-cell
+transplantation versus bortezomib-melphalan-prednisone, with or
+without bortezomib-lenalidomide-dexamethasone consolidation therapy, and lenalidomide maintenance for newly diagnosed multiple
+myeloma (EMN02/HO95): a multicentre, randomised, open-label,
+phase 3 study. Lancet Haematol. 2020;7:e456-e468.
+17. Sonneveld P, Goldschmidt H, Rosinol L, et al. Bortezomib-based versus
+nonbortezomib-based induction treatment before autologous stemcell transplantation in patients with previously untreated multiple
+myeloma: a meta-analysis of phase III randomized, controlled trials.
+J Clin Oncol. 2013;31:3279-3287.
+18. Moreau P, Hulin C, Macro M, et al. VTD is superior to VCD prior to
+intensive therapy in multiple myeloma: results of the prospective
+IFM2013-04 trial. Blood. 2016;127:2569-2574.
+19. Mai EK, Bertsch U, Durig J, et al. Phase III trial of bortezomib, cyclophosphamide and dexamethasone (VCD) versus bortezomib, doxorubicin and dexamethasone (PAd) in newly diagnosed myeloma.
+Leukemia. 2015;29:1721-1729.
+20. Rosinol L, Oriol A, Rios R, et al. Bortezomib, lenalidomide, and dexamethasone as induction therapy prior to autologous transplant in
+multiple myeloma. Blood. 2019;134:1337-1345.
+
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+M. A. Dimopoulos et al.
+
+Annals of Oncology
+
+21. Voorhees PM, Kaufman JL, Laubach JP, et al. Daratumumab, lenalidomide, bortezomib, and dexamethasone for transplant-eligible newly
+diagnosed multiple myeloma: the GRIFFIN trial. Blood. 2020;136:936945.
+22. Joseph NS, Kaufman JL, Dhodapkar MV, et al. Long-term follow-up
+results of lenalidomide, bortezomib, and dexamethasone induction
+therapy and risk-adapted maintenance approach in newly diagnosed
+multiple myeloma. J Clin Oncol. 2020;38:1928-1937.
+23. Rosinol L, Hebraud B, Oriol A, et al. Integrated analysis of bortezomiblenalidomide-dexamethasone vs bortezomib-thalidomide-dexamethasone
+in transplant-eligible newly diagnosed myeloma. Clin Lymphoma
+Myeloma Leuk. 2019;19(suppl):E1-E2.
+24. Moreau P, Attal M, Hulin C, et al. Bortezomib, thalidomide, and
+dexamethasone with or without daratumumab before and after
+autologous stem-cell transplantation for newly diagnosed multiple
+myeloma (CASSIOPEIA): a randomised, open-label, phase 3 study.
+Lancet. 2019;394:29-38.
+25. Moreau P, Attal M, Hulin C, et al. Phase 3 randomized study of
+daratumumab þ bortezomib/thalidomide/dexamethasone (D-VTd) vs
+VTd in transplant-eligible newly diagnosed multiple myeloma: CASSIOPEIA Part 1 results. J Clin Oncol. 2019;37(suppl 15):8003.
+26. Gay F, Cerrato C, Petrucci M, et al. Efﬁcacy of carﬁlzomib lenalidomide
+dexamethasone (KRd) with or without transplantation in newly diagnosed myeloma according to risk status: results from the FORTE trial.
+J Clin Oncol. 2019;37(suppl 15):8002.
+27. Blanes M, Lahuerta JJ, Gonzalez JD, et al. Intravenous busulfan and
+melphalan as a conditioning regimen for autologous stem cell transplantation in patients with newly diagnosed multiple myeloma: a
+matched comparison to a melphalan-only approach. Biol Blood
+Marrow Transplant. 2013;19:69-74.
+28. Blanes M, Lorenzo JI, Ribas P, et al. Intravenous busulfan plus
+melphalan versus melphalan alone as conditioning regimen for patients with multiple myeloma. Ann Hematol. 2019;98:2013-2015.
+29. Roussel M, Hebraud B, Lauwers-Cances V, et al. Bortezomib and highdose melphalan vs. high-dose melphalan as conditioning regimen
+before autologous stem cell transplantation in de novo multiple
+myeloma patients: a phase 3 study of the Intergroupe Francophone Du
+Myelome (IFM 2014-02). Blood. 2017;130(suppl 1):398.
+30. Stadtmauer EA, Pasquini MC, Blackwell B, et al. Autologous transplantation, consolidation, and maintenance therapy in multiple myeloma:
+results of the BMT CTN 0702 trial. J Clin Oncol. 2019;37:589-597.
+31. Hari P, Pasquini M, Stadtmauer E, et al. Long-term follow-up of BMT
+CTN 0702 (STaMINA) of postautologous hematopoietic cell transplantation (autoHCT) strategies in the upfront treatment of multiple
+myeloma (MM). J Clin Oncol. 2020;38(suppl 15):8506.
+32. Giralt S, Costa LJ, Maloney D, et al. Tandem autologous-autologous
+versus autologous-allogeneic hematopoietic stem cell transplant for
+patients with multiple myeloma: long-term follow-up results from the
+Blood and Marrow Transplant Clinical Trials Network 0102 Trial. Biol
+Blood Marrow Transplant. 2020;26:798-804.
+33. Attal M, Lauwers-Cances V, Marit G, et al. Lenalidomide maintenance
+after stem-cell transplantation for multiple myeloma. N Engl J Med.
+2012;366:1782-1791.
+34. McCarthy PL, Owzar K, Hofmeister CC, et al. Lenalidomide after stemcell transplantation for multiple myeloma. N Engl J Med. 2012;366:
+1770-1781.
+35. McCarthy PL, Holstein SA, Petrucci MT, et al. Lenalidomide maintenance after autologous stem-cell transplantation in newly
+diagnosed multiple myeloma: a meta-analysis. J Clin Oncol. 2017;35:
+3279-3289.
+36. Jackson GH, Davies FE, Pawlyn C, et al. Lenalidomide maintenance
+versus observation for patients with newly diagnosed multiple
+myeloma (Myeloma XI): a multicentre, open-label, randomised, phase
+3 trial. Lancet Oncol. 2019;20:57-73.
+37. Goldschmidt H, Lokhorst HM, Mai EK, et al. Bortezomib before and
+after high-dose therapy in myeloma: long-term results from the phase
+III HOVON-65/GMMG-HD4 trial. Leukemia. 2018;32:383-390.
+38. Dimopoulos MA, Gay F, Schjesvold F, et al. Oral ixazomib maintenance
+following autologous stem cell transplantation (TOURMALINE-MM3): a
+
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+double-blind, randomised, placebo-controlled phase 3 trial. Lancet.
+2019;393:253-264.
+San Miguel JF, Schlag R, Khuageva NK, et al. Bortezomib plus
+melphalan and prednisone for initial treatment of multiple myeloma.
+N Engl J Med. 2008;359:906-917.
+Benboubker L, Dimopoulos MA, Dispenzieri A, et al. Lenalidomide and
+dexamethasone in transplant-ineligible patients with myeloma. N Engl
+J Med. 2014;371:906-917.
+Durie BGM, Hoering A, Abidi MH, et al. Bortezomib with lenalidomide
+and dexamethasone versus lenalidomide and dexamethasone alone in
+patients with newly diagnosed myeloma without intent for immediate
+autologous stem-cell transplant (SWOG S0777): a randomised, openlabel, phase 3 trial. Lancet. 2017;389:519-527.
+Kumar S, Jacobus S, Cohen A, et al. Carﬁlzomib, lenalidomide, and
+dexamethasone (KRd) versus bortezomib, lenalidomide, and dexamethasone (VRd) for initial therapy of newly diagnosed multiple
+myeloma (NDMM): results of ENDURANCE (E1A11) phase III trial. J Clin
+Oncol. 2020;38(suppl18). abstr LBA3.
+Mateos MV, Dimopoulos MA, Cavo M, et al. Daratumumab plus bortezomib, melphalan, and prednisone for untreated myeloma. N Engl J
+Med. 2018;378:518-528.
+Mateos MV, Cavo M, Blade J, et al. Overall survival with daratumumab,
+bortezomib, melphalan, and prednisone in newly diagnosed multiple
+myeloma (ALCYONE): a randomised, open-label, phase 3 trial. Lancet.
+2020;395:132-141.
+Facon T, Kumar S, Plesner T, et al. Daratumumab plus lenalidomide and
+dexamethasone for untreated myeloma. N Engl J Med. 2019;380:21042115.
+Ponisch W, Mitrou PS, Merkle K, et al. Treatment of bendamustine and
+prednisone in patients with newly diagnosed multiple myeloma results
+in superior complete response rate, prolonged time to treatment
+failure and improved quality of life compared to treatment with
+melphalan and prednisone–a randomized phase III study of the East
+German Study Group of Hematology and Oncology (OSHO). J Cancer
+Res Clin Oncol. 2006;132:205-212.
+Palumbo A, Hajek R, Delforge M, et al. Continuous lenalidomide
+treatment for newly diagnosed multiple myeloma. N Engl J Med.
+2012;366:1759-1769.
+Dimopoulos M, Spicka I, Quach H, et al. Ixazomib as postinduction
+maintenance for patients with newly diagnosed multiple lyeloma not
+undergoing autologous stem cell transplantation: The phase III
+TOURMALINE-MM4 trial. J Clin Oncol. 2020;38(34):4030-4041.
+Cook G, Ashcroft AJ, Cairns DA, et al. The effect of salvage autologous
+stem-cell transplantation on overall survival in patients with relapsed
+multiple myeloma (ﬁnal results from BSBMT/UKMF Myeloma X
+Relapse [Intensive]): a randomised, open-label, phase 3 trial. Lancet
+Haematol. 2016;3:e340-351.
+Goldschmidt H, Baertsch MA, Schlenzka J, et al. Salvage autologous
+transplant and lenalidomide maintenance vs. lenalidomide/
+dexamethasone for relapsed multiple myeloma: the randomized
+GMMG phase III trial ReLApsE. Leukemia. 2020. In press.
+Giralt S, Garderet L, Durie B, et al. American Society of Blood and
+Marrow Transplantation, European Society of Blood and Marrow
+Transplantation, Blood and Marrow Transplant Clinical Trials Network,
+and International Myeloma Working Group consensus conference on
+salvage hematopoietic cell transplantation in patients with relapsed
+multiple myeloma. Biol Blood Marrow Transplant. 2015;21:2039-2051.
+Miller KC, Gertz MA, Buadi FK, et al. The impact of re-induction prior to
+salvage autologous stem cell transplantation in multiple myeloma.
+Bone Marrow Transplant. 2019;54:2039-2050.
+Stewart AK, Rajkumar SV, Dimopoulos MA, et al. Carﬁlzomib, lenalidomide, and dexamethasone for relapsed multiple myeloma. N Engl J
+Med. 2015;372:142-152.
+Dimopoulos MA, Oriol A, Nahi H, et al. Daratumumab, lenalidomide,
+and dexamethasone for multiple myeloma. N Engl J Med. 2016;375:
+1319-1331.
+Moreau P, Masszi T, Grzasko N, et al. Oral ixazomib, lenalidomide, and
+dexamethasone for multiple myeloma. N Engl J Med. 2016;374:16211634.
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+321
+
+Annals of Oncology
+56. Lonial S, Dimopoulos M, Palumbo A, et al. Elotuzumab therapy for relapsed
+or refractory multiple myeloma. N Engl J Med. 2015;373:621-631.
+57. Siegel DS, Dimopoulos MA, Ludwig H, et al. Improvement in overall survival with carﬁlzomib, lenalidomide, and dexamethasone in patients with
+relapsed or refractory multiple myeloma. J Clin Oncol. 2018;36:728-734.
+58. Dimopoulos M, Weisel K, Lonial S, et al. Elotuzumab plus lenalidomide/
+dexamethasone for relapsed/refractory multiple myeloma: Final
+overall survival results from the phase 3 ELOQUENT-2 trial. 17th
+International Myeloma Workshop, Boston, September 12-15, 2019.
+Abstract OAB-021.
+59. Harousseau JL, Dimopoulos MA, Wang M, et al. Better quality of
+response to lenalidomide plus dexamethasone is associated with
+improved clinical outcomes in patients with relapsed or refractory
+multiple myeloma. Haematologica. 2010;95:1738-1744.
+60. Dimopoulos MA, Goldschmidt H, Niesvizky R, et al. Carﬁlzomib or
+bortezomib in relapsed or refractory multiple myeloma (ENDEAVOR):
+an interim overall survival analysis of an open-label, randomised,
+phase 3 trial. Lancet Oncol. 2017;18:1327-1337.
+61. Palumbo A, Chanan-Khan A, Weisel K, et al. Daratumumab, bortezomib, and dexamethasone for multiple myeloma. N Engl J Med.
+2016;375:754-766.
+62. Richardson PG, Oriol A, Beksac M, et al. Pomalidomide, bortezomib,
+and dexamethasone for patients with relapsed or refractory multiple
+myeloma previously treated with lenalidomide (OPTIMISMM): a
+randomised, open-label, phase 3 trial. Lancet Oncol. 2019;20:781-794.
+63. Usmani S, Quach H, Mateos M-V, et al. Carﬁlzomib, dexamethasone,
+and daratumumab versus carﬁlzomib and dexamethasone for the
+treatment of patients with relapsed or refractory multiple myeloma
+(RRMM): Primary analysis results from the randomized, open-label,
+phase 3 study Candor (NCT03158688). Blood. 2019;134. LBA-6.
+64. Moreau P, Dimopoulos M, Mikhael J, et al. Isatuximab plus carﬁlzomib
+and dexamethasone vs carﬁlzomib and dexamethasone in relapsed/
+refractory multiple myeloma (IKEMA): interim analysis of a phase 3,
+randomized, open-label study. Presented at: The European Hematology
+Association 25th Annual Congress; June 11-21, 2020: Virtual Congress.
+Abstract LBA2603.
+65. Gavriatopoulou M, Kastritis E, Ntanasis-Stathopoulos I, et al.The addition
+of IMiDs for patients with daratumumab-refractory multiple myeloma
+can overcome refractoriness to both agents. Blood. 2018;131:464-467.
+66. Nooka AK, Joseph NS, Kaufman JL, et al. Clinical efﬁcacy of daratumumab, pomalidomide, and dexamethasone in patients with
+relapsed or refractory myeloma: utility of re-treatment with daratumumab among refractory patients. Cancer. 2019;125:2991-3000.
+67. Harrison S, Cavo M, De La Rubia J, et al. T(11;14) and high BCL2
+expression are predictive biomarkers of response to venetoclax in
+combination with bortezomib and dexamethasone in patients with
+relapsed/refractory multiple myeloma: Biomarker analyses from the
+phase 3 Bellini study. Blood. 2019;134:142.
+68. Dimopoulos M, Delimpasi S, Simonova M, et al. Weekly selinexor,
+bortezomib, and dexamethasone (SVd) versus twice weekly bortezomib and dexamethasone (Vd) in patients with multiple myeloma (MM)
+after one to three prior therapies: initial results of the phase III BOSTON study. J Clin Oncol. 2020;38(suppl 15). abstr 8501.
+69. Dimopoulos MA, Richardson PG, Moreau P, Anderson KC. Current
+treatment landscape for relapsed and/or refractory multiple myeloma.
+Nat Rev Clin Oncol. 2015;12:42-54.
+70. Gandhi UH, Cornell RF, Lakshman A, et al. Outcomes of patients with
+multiple myeloma refractory to CD38-targeted monoclonal antibody
+therapy. Leukemia. 2019;33:2266-2275.
+71. Dimopoulos MA, Dytfeld D, Grosicki S, et al. Elotuzumab plus pomalidomide and dexamethasone for multiple myeloma. N Engl J Med.
+2018;379:1811-1822.
+72. Attal M, Richardson PG, Rajkumar SV, et al. Isatuximab plus pomalidomide and low-dose dexamethasone versus pomalidomide and
+low-dose dexamethasone in patients with relapsed and refractory
+multiple myeloma (ICARIA-MM): a randomised, multicentre, openlabel, phase 3 study. Lancet. 2019;394:2096-2107.
+
+322
+
+https://doi.org/10.1016/j.annonc.2020.11.014
+
+M. A. Dimopoulos et al.
+73. Chari A, Suvannasankha A, Fay JW, et al. Daratumumab plus pomalidomide and dexamethasone in relapsed and/or refractory multiple
+myeloma. Blood. 2017;130:974-981.
+74. Chari A, Vogl DT, Gavriatopoulou M, et al. Oral selinexordexamethasone for triple-class refractory multiple myeloma. N Engl J
+Med. 2019;381:727-738.
+75. Lonial S, Lee HC, Badros A, et al. Belantamab mafodotin for
+relapsed or refractory multiple myeloma (DREAMM-2): a two-arm,
+randomised, open-label, phase 2 study. Lancet Oncol. 2020;21:207221.
+76. Richardson PG, Bringhen S, Voorhees P, et al. Melﬂufen plus dexamethasone in relapsed and refractory multiple myeloma (O-12-M1): a
+multicentre, international, open-label, phase 1-2 study. Lancet Haematol. 2020;7:e395-e407.
+77. Raje N, Berdeja J, Lin Y, et al. Anti-BCMA CAR T-cell therapy bb2121 in
+relapsed or refractory multiple myeloma. N Engl J Med. 2019;380:
+1726-1737.
+78. Fernandez de Larrea C, Kyle RA, Durie BG, et al. Plasma cell leukemia:
+consensus statement on diagnostic requirements, response criteria
+and treatment recommendations by the International Myeloma
+Working Group. Leukemia. 2013;27:780-791.
+79. Gavriatopoulou M, Musto P, Caers J, et al. European Myeloma Network
+recommendations on diagnosis and management of patients with rare
+plasma cell dyscrasias. Leukemia. 2018;32:1883-1898.
+80. Musto P, Simeon V, Martorelli MC, et al. Lenalidomide and low-dose
+dexamethasone for newly diagnosed primary plasma cell leukemia.
+Leukemia. 2014;28:222-225.
+81. Royer B, Minvielle S, Diouf M, et al. Bortezomib, doxorubicin, cyclophosphamide, dexamethasone induction followed by stem cell transplantation for primary plasma cell leukemia: a prospective phase II
+study of the Intergroupe Francophone du Myelome. J Clin Oncol.
+2016;34:2125-2132.
+82. Van De Donk NWCJ, van der Holt B, Schjesvold FH, et al. Treatment of primary plasma cell leukemia with carﬁlzomib and
+lenalidomide-based therapy: results of the ﬁrst interim analysis of
+the phase 2 EMN12/HOVON129 study. Blood. 2019;134(suppl_1):
+693.
+83. Dhakal B, Patel S, Girnius S, et al. Hematopoietic cell transplantation
+utilization and outcomes for primary plasma cell leukemia in the current era. Leukemia. 2020;34:3338-3347.
+84. Dimopoulos MA, Hamilos G. Solitary bone plasmacytoma and
+extramedullary plasmacytoma. Curr Treat Options Oncol. 2002;3:255259.
+85. Caers J, Garderet L, Kortum KM, et al. European Myeloma Network
+recommendations on tools for the diagnosis and monitoring of multiple myeloma: what to use and when. Haematologica. 2018;103:17721784.
+86. Paiva B, Chandia M, Vidriales MB, et al. Multiparameter ﬂow cytometry
+for staging of solitary bone plasmacytoma: new criteria for risk of
+progression to myeloma. Blood. 2014;124:1300-1303.
+87. Dimopoulos MA, Hillengass J, Usmani S, et al. Role of magnetic resonance imaging in the management of patients with multiple myeloma:
+a consensus statement. J Clin Oncol. 2015;33:657-664.
+88. Tsang RW, Campbell BA, Goda JS, et al. Radiation therapy for solitary
+plasmacytoma and multiple myeloma: guidelines from the International Lymphoma Radiation Oncology Group. Int J Radiat Oncol Biol
+Phys. 2018;101:794-808.
+89. Dykewicz CA, Centers for Disease Control and Prevention, Infectious
+Diseases Society of America, American Society of Blood and Marrow
+Transplantation. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients.
+Clin Infect Dis. 2001;33:139-144 (Adapted from: Gross PA, Barrett TL,
+Dellinger EP et al. Purpose of quality standards for infectious diseases.
+Clin Infect Dis. 1994;18:421).
+90. Alonso R, Cedena MT, Wong S, et al. Prolonged lenalidomide maintenance therapy improves the depth of response in multiple myeloma.
+Blood Adv. 2020;4:2163-2171.
+
+Volume 32
+
+-
+
+Issue 3
+
+-
+
+2021
+
+

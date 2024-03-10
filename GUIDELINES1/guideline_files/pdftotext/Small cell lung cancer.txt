@@ -1,0 +1,1721 @@
+SPECIAL ARTICLE
+
+Small-cell lung cancer: ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-up5
+A.-M. C. Dingemans1,2, M. Früh3,4, A. Ardizzoni5, B. Besse6,7, C. Faivre-Finn8, L. E. Hendriks2, S. Lantuejoul9, S. Peters10,
+N. Reguart11, C. M. Rudin12, D. De Ruysscher13, P. E. Van Schil14, J. Vansteenkiste15 & M. Reck16, on behalf of the ESMO
+Guidelines Committee*
+1
+
+Department of Pulmonology, Erasmus MC Cancer Institute, University Medical Center Rotterdam, Department of Respiratory Medicine, Rotterdam; 2Department of
+Pulmonology, GROW School for Oncology and Developmental Biology, Maastricht University Medical Center, Maastricht, The Netherlands; 3Department of Oncology
+and Haematology, Kantonsspital St. Gallen, St. Gallen; 4Department of Medical Oncology, University of Bern, Bern, Switzerland; 5Division of Medical Oncology, IRCCS
+Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy; 6Gustave Roussy, Villejuif; 7Paris-Saclay University, Orsay, France; 8Division of Cancer Sciences, University
+of Manchester & The Christie, NHS Foundation Trust, Manchester, UK; 9Department of Biopathology, Centre Léon Bérard, Grenoble Alpes University, Lyon, France;
+10
+Department of Oncology, Centre Hospitalier Universitaire Vaudois, Lausanne University, Lausanne, Switzerland; 11Department of Medical Oncology, Hospital Clínic
+and Translational Genomics and Targeted Therapeutics in Solid Tumors, Institut d’Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona, Spain;
+12
+Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, USA; 13Department of Radiation Oncology (Maastro Clinic), GROW School for Oncology
+and Developmental Biology, Maastricht University Medical Center, Maastricht, The Netherlands; 14Department of Thoracic and Vascular Surgery, Antwerp University
+Hospital and University of Antwerp, Edegem, Belgium; 15Department of Respiratory Oncology, University Hospital KU Leuven, Leuven, Belgium; 16Department of
+Thoracic Oncology, Airway Research Center North, German Center for Lung Research, Lung Clinic, Grosshansdorf, Germany
+
+Available online 20 April 2021
+
+Key words: small-cell lung cancer, Clinical Practice Guidelines, diagnosis, treatment, follow-up
+
+INCIDENCE AND EPIDEMIOLOGY
+Small-cell lung cancer (SCLC) is the most aggressive form of
+lung cancer. Although SCLC is characterised by rapid responses to chemotherapy (ChT) and sensitivity to radiotherapy (RT), due to early treatment resistance, the 5-year
+overall survival (OS) is <10%.1 The incidence of SCLC has
+decreased in recent decades, and with a prevalence of 1-5
+per 10 000 people in the European community, SCLC has an
+orphan disease designation.2,3 SCLC is equally prevalent in
+males and females;2 however, the proportion of elderly
+(>70 years of age) patients with SCLC has increased from
+23% in 1975 to 44% in 2010.4 Computed tomography (CT)
+screening does not improve survival of SCLC, as demonstrated in three trials [I, E].5,6 This is possibly related to the
+aggressiveness of SCLC, reﬂected both by the occurrence of
+SCLC as an interval cancer, i.e. diagnosed between two CT
+screenings, and the primarily late-stage screen-detected
+SCLC. As SCLC is highly related to tobacco smoking, smoking
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5
+
+Approved by the ESMO Guidelines Committee: February 2002, last update
+March 2021. This publication supersedes the previously published versiondAnn Oncol. 2013;24(suppl 6):vi99-vi105.
+0923-7534/© 2021 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+prevention or cessation are the most effective strategies to
+decrease the clinical impact of the disease [IV, A].
+DIAGNOSIS AND PATHOLOGY/MOLECULAR BIOLOGY
+Information regarding the diagnosis and molecular pathology/biology of SCLC can be found in Section 1 of the
+Supplementary Material, available at https://doi.org/10.
+1016/j.annonc.2021.03.207.
+Recommendations
+ SCLC is a high-grade neuroendocrine carcinoma with a
+typical morphology and should be diagnosed according
+to the World Health Organization criteria [IV, A].
+ For pathological diagnosis, histology is preferred over
+cytology [V, A].
+ Currently, no predictive biomarker is available and programmed death-ligand 1 (PD-L1) and tumour mutational
+burden (TMB) testing are not recommended in routine
+clinical practice [I, D].
+STAGING AND RISK ASSESSMENT
+The TNM (tumourenodeemetastasis) staging classiﬁcation
+7th edition was adopted for SCLC, harbouring a higher
+prognostic value compared with the previously used subdivision in limited and extensive disease [IV, A].7 The
+description of disease stages according to the 8th edition
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+839
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+TNM, and the median, 1-year and 2-year OS data are
+depicted in Supplementary Tables S1 and S2, available at
+https://doi.org/10.1016/j.annonc.2021.03.207.8 However,
+in clinical trials, the terms ‘limited disease’, deﬁned as the
+tumour being conﬁned to one hemithorax and regional
+lymph nodes, and ‘extensive disease’ are used to deﬁne
+eligibility. For this reason, limited and extensive disease are
+used throughout this guideline.
+The staging work-up for patients diagnosed with SCLC is
+shown in Table 1. A medical history, physical examination
+and laboratory tests should be carried out [V, A]. Attention
+should be drawn towards potential autoimmune-mediated
+paraneoplastic neurological symptoms,9 with their detection becoming increasingly important with the introduction
+of immunotherapy [V, C]. In non-metastatic disease, pulmonary function tests are also advised.10 Imaging consists
+of a chest and abdomen CT [IV, A]. In case of no metastases
+on CT scan, imaging should be complemented with a bone
+scintigraphy, or [18F]2-ﬂuoro-2-deoxy-D-glucose positron
+emission tomography (FDGePET)eCT if available [V, B], and
+a magnetic resonance imaging (MRI) or a less sensitive brain
+CT scan if MRI is not available/possible [III, A].11 In patients
+with stage IV disease who are eligible but do not wish to
+undergo prophylactic cranial irradiation (PCI), a baseline
+MRI after ChT is recommended and serial MRIs are then
+advised as part of the follow-up [III, B].12 In case of an
+abnormal blood count or signs of bloodebone marrow
+inﬁltration, a bone marrow aspiration and biopsy are recommended in patients without known additional
+
+metastases in order to conﬁrm bone marrow involvement
+[V, C]. The use of FDGePET is still debated in SCLC; a review
+of small prospective series showed that 9% of patients were
+upstaged with FDGePET and 4% were downstaged.13 In the
+majority of these series, pathological conﬁrmation of metastatic sites was not obtained. As false-positive results have
+been reported using FDGePET, the presence of a metastasis
+should be pathologically conﬁrmed if it alters the treatment
+plan [II, C]. Of note, in the randomised CONVERT trial
+exploring different RT schedules in limited-stage SCLC, the
+outcomes of 57% of patients who were staged by PETeCT
+were not different to those who underwent staging by
+conventional CT scan.14 Given the limited evidence for PETe
+CT in SCLC, its role in the selection of patients for curative
+treatment remains controversial among those without
+metastases on CT. However, FDGePET is recommended to
+assist in RT volume delineation [III, A]. In case a suspected
+solitary metastasis cannot be adequately diagnosed, or
+diagnosis signiﬁcantly delays the start of treatment, the
+lesion can be re-evaluated after two cycles of ChT to
+conﬁrm the diagnosis of metastatic disease. If pleural ﬂuid/
+pericardial ﬂuid is negative for metastasis, and if it is the
+only possible site of metastasis, treatment should be according to M0 status.
+Poor prognostic factors in SCLC include impaired performance status (PS), weight loss, increased age, male sex,
+elevated lactate dehydrogenase (LDH) and low sodium
+[syndrome of inappropriate antidiuretic hormone secretion
+(SIADH)].15 In addition, a higher total gross tumour volume
+predicts a worse outcome in patients with locally advanced
+SCLC treated with chemoradiotherapy (CRT).16
+
+Table 1. Diagnostic and staging work-up of SCLC
+History and clinical examination
+Medical history (including smoking history and comorbidities)
+PS
+Physical examination
+Assessment of paraneoplastic syndromes (especially when initiating
+immunotherapy)
+Laboratory analysis
+CBC, liver enzymes, sodium, potassium, calcium, glucose, LDH and renal
+functions tests should be carried out
+Imaging
+CT of the thorax and abdomen should be carried out in all patients; an
+FDGePETeCT is optional
+In case of a suspicion of bone metastasis and no other metastasis, a bone
+scintigraphy should be carried out unless FDGePET is available
+Imaging of the brain (preferably MRI) is mandated in patients with stage
+I-III disease
+MRI of the brain is recommended for patients with stage IV disease who
+are eligible for PCI but who choose not to undergo PCI
+Tumour biopsy
+A diagnosis of SCLC is preferably assessed based on histological
+examination of a biopsy
+In case of planned surgery, invasive mediastinal staging is required
+Functional assessment
+Pulmonary function testing (FEV1, VC, DLCO) is required for patients with
+stage I-III SCLC who are candidates for surgery or RT
+VO2 max assessment by cycle ergometry should be carried out if surgery
+is planned when pulmonary function tests are limited
+CBC, complete blood count; CT, computed tomography; DLCO, diffusing capacity of
+the lung for carbon monoxide; FDG, [18F]2-ﬂuoro-2-deoxy-D-glucose; FEV1, forced
+expiratory volume; LDH, lactate dehydrogenase; MRI, magnetic resonance imaging;
+PCI, prophylactic cranial irradiation; PET, positron emission tomography; PS, performance status; RT, radiotherapy; SCLC, small-cell lung cancer; VC, vital capacity;
+VO2 max, maximal oxygen uptake.
+
+840
+
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+Recommendations
+ Staging of SCLC should be according to the TNM 8th edition [IV, A].
+ Initial assessment should include smoking history, physical examination, complete blood count, liver enzymes,
+sodium, potassium, calcium, glucose, LDH, creatinine
+and lung function test (if localised disease) [V, A].
+ Attention should be drawn towards potential
+autoimmune-mediated paraneoplastic neurological
+symptoms [V, C].
+ A contrast-enhanced CT of the chest and abdomen is recommended [IV, A].
+ Imaging of the brain, preferably MRI, is recommended in
+localised disease [III, A].
+ Brain MRI is also recommended for stage IV patients not
+undergoing PCI [II, B].
+ FDGePET is optional for staging in limited-stage disease.
+FDGePET ﬁndings that modify treatment decisions
+should be pathologically conﬁrmed [II, C]. However,
+FDGePET is recommended to assist in RT volume delineation [III, A].
+ In limited-stage disease, additional bone scintigraphy is
+advised when no FDGePETeCT has been carried out
+[V, B].
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+
+ In limited-stage disease, a bone marrow aspiration and
+biopsy are advised in the case of abnormal blood counts
+suggesting bone marrow involvement [V, C].
+ In patients eligible for immunotherapy, attention should
+be paid to the detection of paraneoplastic disorders [V, C].
+
+TREATMENT
+Management of limited-stage disease
+A proposed treatment algorithm for patients with stage I-III
+SCLC eligible for treatment of curative intent (selected
+limited-stage disease) is shown in Figure 1.
+The role of surgery with multimodality treatment. Indications and results of surgical resection for SCLC remain
+
+controversial and only a minority of patients with SCLC
+qualify for surgical resection. In 2017, a Cochrane systematic review concluded that currently available randomised
+controlled trials (RCTs) do not support a role for surgical
+resection in the management of stage I-III SCLC.17 However,
+the conclusions were of limited value due to the lack of
+contemporary data and the low quality of available evidence. In a recent retrospective analysis of 205 patients
+with SCLC who underwent resection, for those with pathological stages I and II, 5-year survival rates were 63.8% and
+65.5%, respectively.18 In another analysis of the National
+Cancer Database, 507 patients with stage I/II SCLC undergoing lobectomy and adjuvant ChT were matched with
+patients receiving concurrent CRT.19 Median OS was 48.6
+and 28.7 months, respectively, favouring the surgical
+approach (P < 0.0001). After extensive work-up, surgery, in
+
+Limited-stage SCLC (i.e. stage I-III SCLC eligible for treatment of curative intent)
+
+Stage I-II
+(cT1-2N0)a
+
+Stage I-III
+(cT1-4N0-3M0)
+
+Surgical resection
+[III, B]
+
+pT1-2N0-1, R0
+
+Adjuvant cisplatin–
+etoposide (4 cycles)
+[IV, A]
+
+N2 and/or R1-2
+
+PS 0-1
+
+PS ≥2
+
+Concurrent CRT [I, A]
+
+Sequential CRT [V, B]
+
+Concurrent CRT [IV, A]
+
+No progressionb
+
+PS 0-1
+Age ≤70
+
+PS 2
+Age ≤70
+
+Age >70
+or frail
+
+PCI [I, A]
+
+PCI [III, B]
+
+Shared decision making
+for PCI [V, C]
+
+Figure 1. Treatment algorithm for SCLC in patients with limited-stage disease (i.e. stage I-III SCLC eligible for curative treatment).
+Purple: general categories or stratiﬁcation; red: surgery; dark green: radiotherapy; blue: systemic anticancer therapy; turquoise: combination of treatments or other systemic
+treatments; white: other aspects of management.
+c, clinical; CRT, chemoradiotherapy; M, metastasis; MRI, magnetic resonance imaging; N, node; p, pathological; PCI, prophylactic cranial irradiation; PS, performance status; R,
+resection; SCLC, small-cell lung cancer; T, tumour.
+a
+After extensive pathological mediastinal staging.
+b
+The role of PCI is not well deﬁned in patients with stage I-II SCLC, patients >70 years of age and frail patients. In these cases, shared decision making is recommended, including
+the option of brain MRI surveillance.
+
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+841
+
+Annals of Oncology
+the context of a multimodal treatment approach, may be
+considered in patients with clinical stages I and II disease
+(cT1-2N0) [III, B] and in those suspected of having a mixed
+histology of SCLC and non-small-cell lung cancer (NSCLC).20
+SCLC may also be an incidental ﬁnding in patients undergoing surgery for a solitary pulmonary nodule, as seen in
+4%-12% of cases.21
+When considering surgical treatment of SCLC, extensive
+pathological mediastinal staging is required [IV, A].22,23 As
+with NSCLC, the aim of surgical treatment should be a
+complete (R0) resection according to the International Association for the Study of Lung Cancer criteria [III, A].24
+Intraoperatively, a systematic nodal dissection should be
+carried out [IV, A]. Sublobular resection is not recommended [V, E]. Due to the aggressive nature of SCLC, the
+risk of progression to unresectable or incurable disease
+while awaiting surgery should be taken into account.
+In an analysis of the National Cancer Database, the 5-year
+OS rate of 954 patients who underwent R0 resection for
+pT1-2N0M0 SCLC was 47%.25 A multivariate analysis
+showed that adjuvant ChT or ChT with PCI were associated
+with improved survival compared with no adjuvant therapy.
+Adjuvant ChT should therefore be administered after surgical resection of SCLC [IV, A]. In patients with unexpected,
+positive mediastinal lymph nodes (N2) or R1-R2 resection,
+adjuvant ChT must be combined with RT, preferably
+concurrently [IV, A].22
+The role of induction ChT in patients with locally
+advanced SCLC has not been clearly established and this
+approach is not indicated for SCLC.20
+The role of PCI is not well established, as discussed later.
+Concurrent CRT: type of ChT and number of cycles. The
+preferred ChT regimen for patients with limited-stage (stage
+I-III) SCLC is cisplatin plus etoposide [I, A].26 When cisplatin
+is not feasible, carboplatin plus etoposide is a possible
+alternative, with similar or slightly worse outcomes seen in
+small comparative studies [II, A].27 Standard dosing should
+be used, i.e. cisplatin 60-80 mg/m2 on day 1 and etoposide
+100-120 mg/m2 on days 1, 2 and 3 of every 3-week cycle,
+with avoidance of dose reduction, especially during the ﬁrst
+two cycles.28 The dose of cisplatin can also be split over 3
+days (etoposide 100 mg/m2 on days 1-3 and cisplatin 25
+mg/m2 on days 1-3) as this tends to be better tolerated and
+reduces the need for hydration.29 The use of granulocyte
+colony-stimulating factor (G-CSF) or granulocytee
+macrophage colony-stimulating factor (GM-CSF) concomitant with CRT has been discouraged based on one
+randomised study of GM-CSF, but more recent data from
+the CONVERT trial have shown that these agents can be
+administered safely when indicated [II, B].29-31 The number
+of cycles is usually four; however, only small series have
+compared four with six cycles in localised SCLC.32
+The success of introducing immune checkpoint inhibition
+with durvalumab as consolidation therapy after CRT for
+NSCLC has fostered interest in this approach in limited-stage
+SCLC.33 Consolidation treatment with nivolumabe
+ipilimumab in patients treated with CRT was investigated
+842
+
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+A.-M. C. Dingemans et al.
+
+in the randomised phase II STIMULI trial.34 However, no
+improvement in progression-free survival (PFS) or OS was
+observed in patients treated with nivolumabeipilimumab
+compared with the observational group.
+A number of trials addressing the role of immunotherapy
+in this setting are ongoing (NCT02046733, NCT03540420,
+NCT03703297, NCT03811002).
+RT schedule. With the exception of patients with very early
+disease, those with T1-4N0-3M0 tumours and a PS of 0-1
+should be treated with concurrent ChT and thoracic RT
+[I, A]. The current standard of care of twice-daily (b.i.d.) RT
+delivered concurrently with ChT is based on an RCT which
+demonstrated superiority in terms of survival for RT of 45
+Gy b.i.d. in 30 fractions over 3 weeks versus 45 Gy once
+daily (o.d.) in 25 fractions over 5 weeks, both delivered
+concurrently with cisplatin plus etoposide.35 However, there
+has been a lack of consensus regarding the routine use of
+b.i.d. RT due to concerns regarding toxicity (one-third of
+patients developed grade 3 radiation oesophagitis in an
+historical study), debate about the RT schedule used in the
+control arm and practical/logistical issues. The CONVERT
+trial compared b.i.d. RT (45 Gy/30 fractions over 3 weeks)
+to a higher dose of o.d. RT (66 Gy/33 fractions over 6.5
+weeks), both given concurrently with ChT (starting on cycle
+two).29 CONVERT is the ﬁrst RCT providing outcomes data in
+patients staged with PETeCT using the TNM classiﬁcation
+and treated with modern RT techniques (i.e. three-dimensional conformal RT or intensity-modulated RT without
+elective nodal irradiation).14 OS did not differ signiﬁcantly
+between the two groups. OS achieved in both arms was
+higher and the toxicity much lower (>50% reduction) than
+previously reported in the literature. The 2- and 5-year OS
+were 56% and 34% in the b.i.d. group and 51% and 31% in
+the o.d. group, respectively. There was no difference in
+grade 3-4 oesophagitis or grade 3-4 radiation pneumonitis
+between the groups (19% versus 19% and 3% versus 2% in
+the b.i.d. and o.d. groups, respectively). In addition, a
+Norwegian phase II RCT, comparing 45 Gy/30 fractions b.i.d.
+with 42 Gy/15 fractions o.d., showed that there was no
+difference in major toxicity between the schedules and a
+numerically higher OS for treatment with 45 Gy b.i.d.36
+Since CONVERT was designed to show superiority of o.d.
+RT and was not powered to show equivalence, the implication is that b.i.d. RT (45 Gy/30 fractions over 3 weeks)
+should remain as the standard of care in this group of patients [I, A]. When b.i.d. RT is not possible due to logistical
+reasons, o.d. RT (66 Gy/33 fractions over 6 weeks) is an
+alternative option. It should, however, be noted that the
+role of concurrent CRT is not as well deﬁned in patients >70
+years of age or in those who are frail.
+Regarding the timing of RT and ChT, evidence from clinical trials suggest that thoracic RT should be initiated as
+early as possible, preferably starting on the ﬁrst or second
+cycle of ChT. However, two recent meta-analyses investigating the timing of high-dose thoracic RT with ChT showed
+no difference in OS between earlier (30 days after starting
+ChT) and later (>30 days after starting ChT) RT initiation.
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+
+Furthermore, a higher incidence of toxicity (haematological,
+oesophagitis and cardiac toxicity) was reported with early
+versus late thoracic RT.37,38 However, in the individual patient data meta-analysis, the hazard ratio (HR) was signiﬁcantly in favour of earlier/shorter RT in trials where patients
+received ChT without a dose reduction or delay [HR 0.79;
+95% conﬁdence interval (CI) 0.69-0.91] [II, A].37 When the
+patient PS or dose to the organs at risk do not allow for the
+early administration of thoracic RT, it may be postponed
+until the start of the third ChT cycle [II, B]. Sequential CRT is
+an option for patients who are not considered candidates
+for concurrent CRT due to poor PS, comorbidities and/or
+disease volume [V, B].
+RT treatment volume. In sequential CRT, the optimal target
+volume remains an area of debate. An historical Southwest
+Oncology Group (SWOG) trial without contemporary imaging or RT techniques randomised patients achieving a
+partial response or stable disease after ChT to either widevolume RT (pre-ChT tumour volume plus the mediastinum)
+or reduced-volume RT (post-ChT tumour volume with a
+margin of 2 cm) followed by further ChT.39 The local
+recurrence rate was similar in both arms. Therefore, it is
+recommended that the post-ChT primary tumour volume
+should be included in the radiation ﬁeld [II, B].
+No prospective studies are available on the nodal target
+volume after ChT. Thus, similar to NSCLC, including the
+involved nodal stations before ChT in the target volume is
+recommended [V, B].
+Omission of elective node irradiation based on CT scans
+should be used with caution as this strategy may result in
+nodal failures.40 Whether selective node irradiation based
+on pre-treatment PETeCT scans can replace elective node
+irradiation has been addressed in two small single-arm
+studies.41,42 Both studies showed promisingly low nodal
+recurrence rates. Furthermore, in the CONVERT trial, elective node irradiation was omitted in all patients, with half of
+them staged using PETeCT.29 The incidence of isolated
+nodal failures has not been reported yet but the survival
+results are the best reported to date. Omission of elective
+node irradiation is therefore recommended in favour of
+selective node irradiation (i.e. involved nodes deﬁned as
+FDG avid on PETeCT, enlarged on CT and/or biopsypositive) [III, A].
+The role of PCI. PCI signiﬁcantly decreases the risk of
+symptomatic brain metastases and increases OS in patients
+with a complete remission (5.4% absolute improvement in
+3-year OS).43 Patients with a PS of 0-1 and a response to
+CRT should therefore be offered PCI [I, A]. Patients often
+present with a PS >2 after CRT but very few have been
+included in PCI clinical trials and meta-analyses. In patients
+with a PS of 2, PCI can be considered [III, B].43 The recommended dose is 25 Gy in 10 daily fractions [I, A].44
+However, it should be noted that the role of PCI is not as
+well deﬁned in patients with stage I-II SCLC, who have a
+lower risk of developing brain metastases, and in those >70
+years of age or who are frail. In such cases, shared decisionVolume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+making is recommended [V, C]. There was no beneﬁt of
+hippocampal-sparing PCI in terms of neurocognitive decline
+in a phase III trial (NCT01780675) which has been presented
+but not yet fully published. An additional ongoing trial is
+addressing this question (NCT01797159).
+Management of extensive-stage disease
+Patients with SCLC tend to be older (44% >70 years of age),
+have more comorbidities and have a poor PS at diagnosis.
+However, as rapid responses are expected, in many cases,
+treatment with ChT offers the best palliation.
+A proposed treatment algorithm for patients with
+extensive-stage SCLC is shown in Figure 2.
+First-line ChT. For decades, a platinum plus etoposide has
+been the preferred ﬁrst-line treatment for extensive-stage
+SCLC, with a median OS of 9-10 months, PFS of 5-6
+months and 1-year OS of w35% [I, A].26 A meta-analysis of
+individual patient data showed no difference in OS between
+cisplatin and carboplatin.45 From this meta-analysis, it
+seems that in younger patients (<70 years), the outcome
+might be moderately better with cisplatin, although these
+subgroup analyses were exploratory. The toxicity proﬁles
+should also be considered in treatment decision making:
+cisplatin is associated with more non-haematological
+toxicity, such as nausea, vomiting and renal toxicity,
+whereas carboplatin leads to more myelosuppression.
+Therefore, in extensive-stage SCLC, cisplatin can be
+substituted by carboplatin [I, B]. However, for some patients,
+cisplatin might be preferred when taking age (<70 years of
+age), PS and toxicity proﬁle into account [II, C]. Many RCTs
+have explored maintenance or continuation treatment in
+SCLC but none have shown improved outcomes compared
+with four to six cycles of a platinum plus etoposide [I, A].46
+A study from the Japanese Cooperative Oncology Group
+(JCOG 9511) showed improved outcomes with the combination of cisplatin and irinotecan compared with cisplatin
+and etoposide (median OS: 12.8 versus 9.4 months).47
+However, this could not be conﬁrmed in a large, nonAsian study.48 A recent meta-analysis of 12 RCTs (7 written in Chinese) showed no difference in outcomes between
+cisplatin plus etoposide and cisplatin plus irinotecan in
+patients with ChT-naive, stage IV SCLC.49 Non-inferiority to
+platinum plus etoposide has been shown for platinum plus
+oral topotecan and for carboplatin plus gemcitabine in patients with a poor PS [II, C].50,51
+First-line systemic treatment: the role of immunotherapy.
+Immunotherapy has dramatically modiﬁed cancer treatment across several malignancies and has been an active
+area of investigation in SCLC.
+Despite initial promising phase II trial results, the use of
+ipilimumab in combination with ﬁrst-line platinum plus
+etoposide did not improve clinical outcomes compared with
+ChT in a phase III RCT.52
+Recently, new standards of care were established in ﬁrstline therapy of extensive-stage SCLC based on two doubleblind, phase III RCTs: IMpower133 and CASPIAN.53,54
+IMpower133 evaluated the efﬁcacy and safety of ﬁrst-line
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+843
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+
+Extensive-stage SCLC (i.e. stage IV or stage III SCLC not eligible for treatment of curative intent)
+
+PS 0-1
+No contraindication for IO
+
+PS 0-1
+In case of contraindications for IO
+
+PS ≥2
+due to SCLC
+
+PS ≥2
+due to comorbidities
+
+Carboplatin–etoposide–
+atezolizumab (4 cycles) and
+maintenance atezolizumab
+[I, A; MCBS 3]a
+Platinum–etoposide–
+durvalumab (4 cycles) and
+maintenance durvalumab
+[I, A; MCBS 3]a
+
+Carboplatin–etoposide
+4-6 cycles [I, A]b
+Carboplatin–oral topotecan
+[II, C]
+Cisplatin–irinotecan [II, C]
+
+Carboplatin–etoposide 4-6
+cycles [I, A]c
+Carboplatin–gemcitabine
+4-6 cycles [II, C]c
+
+BSC
+
+Response PS 0-2
+
+Response PS 0-2
+
+Consolidation thoracic
+RT is an option [II, C]
+
+Age <75 years
+
+PCI [II, B] or MRI surveillance
+[II, B]d
+
+Figure 2. Treatment algorithm for SCLC in patients with extensive-stage disease (i.e. stage IV or stage III SCLC not eligible for curative treatment)
+Purple: general categories or stratiﬁcation; dark green: radiotherapy; blue: systemic anticancer therapy; turquoise: combination of treatments or other systemic treatments; white:
+other aspects of management.
+BSC, best supportive care; ChT, chemotherapy; G-CSF, granulocyte colony-stimulating factor; IO, immunotherapy; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; MRI, magnetic
+resonance imaging; PCI, prophylactic cranial irradiation; PS, performance status; RT, radiotherapy; SCLC, small-cell lung cancer.
+a
+ESMO-MCBS v1.1 score for new therapy/indication approved by the EMA or FDA. The score has been calculated by the ESMO-MCBS Working Group and validated by the ESMO
+Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/scale-evaluation-forms-v1.0-v1.1/scale-evaluation-forms-v1.1).
+b
+Carboplatin may be replaced by cisplatin in patients <70 years of age or based on the toxicity proﬁle [II, C].
+c
+In patients with a PS of 2, consider ChT dose reduction and/or G-CSF prophylaxis.
+d
+No brain metastasis on MRI before PCI.
+
+atezolizumab (1200 mg, day 1) or placebo in combination
+with carboplatin [area under the curve (AUC) 5, day 1] and
+etoposide (100 mg/m2, days 1-3) every 3 weeks for four
+cycles followed by atezolizumab or placebo maintenance in
+treatment-naive patients with extensive-stage SCLC. PCI
+was permitted but consolidation thoracic RT was not. It met
+its co-primary endpoints of OS and investigator-assessed
+PFS at the ﬁrst interim analysis. Median OS was 12.3
+months (95% CI 10.8-15.9 months) for atezolizumab versus
+10.3 months (95% CI 9.3-11.3 months) for placebo (HR 0.70;
+95% CI 0.54-0.91; P ¼ 0.0069). In the atezolizumab group,
+34% of patients were alive at 18 months compared with
+21% in the placebo group.55 Median PFS was 5.2 months
+(95% CI 4.4-5.6 months) for atezolizumab versus 4.3 months
+(95% CI 4.2-4.5 months) for placebo (HR 0.77; 95% CI 0.620.96; P ¼ 0.017). Beneﬁts were consistent across patient
+subgroups. Of importance, the modest PFS and OS beneﬁts
+clearly emphasise the need for the identiﬁcation of new
+844
+
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+predictive biomarkers, with exploratory analyses showing
+no predictive ability of blood TMB for this speciﬁc combination. CASPIAN is a three-arm trial evaluating durvalumab
+in patients with previously untreated, extensive-stage SCLC.
+Patients were randomised 1 : 1 : 1 to receive either platinum
+(carboplatin AUC 5-6 or cisplatin 75-80 mg/m2, day 1) plus
+etoposide (80-100 mg/m2, days 1-3) and durvalumab (1500
+mg, day 1), with or without tremelimumab (75 mg, day 1),
+every 3 weeks for four cycles followed by durvalumab
+maintenance on day 1 every 4 weeks, or up to six cycles of
+platinum plus etoposide alone (control arm). PCI (used at
+the investigator’s discretion) was only allowed in the control
+arm. A statistically signiﬁcant improvement in OS was reported with the addition of durvalumab to ChT, with a
+median OS of 12.9 months (95% CI 11.3-14.7 months) for
+durvalumab plus ChT versus 10.5 months (95% CI 9.3-11.2
+months) for platinum plus etoposide alone (HR 0.75; 95% CI
+0.62-0.91; P ¼ 0.0032).56 OS at 18 months was 32.0% (95%
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+
+CI 26.5% to 37.7%) for durvalumab versus 24.8% (95% CI
+19.7% to 30.1%) in the ChT-only group. Beneﬁts were
+consistent across patient subgroups and quality of life (QoL)
+was maintained.57 The addition of tremelimumab to durvalumab and the platinum doublet did not show any
+improvement in outcomes compared with ChT. With very
+similar results, and in the context of a severe unmet need,
+both trials justify the need for immunotherapy in the
+frontline setting. However, it is important to stress that in
+both trials, only patients with a good clinical condition were
+enrolled (i.e. PS 0-1 and asymptomatic or treated brain
+metastases). Additionally, the median age of enrolled patients was relatively low (62-64 years). In stage IV SCLC,
+atezolizumab or durvalumab in combination with a platinum plus etoposide should be offered to all eligible ChTnaive patients with stage IV SCLC and a PS of 0-1 [I, A;
+ESMO-Magnitude of Clinical Beneﬁt Scale (ESMO-MCBS)
+v1.1 score: 3 for atezolizumab and 3 for durvalumab]. In the
+recently reported KEYNOTE-604 trial, patients with extensive stage IV SCLC were randomised to receive platinum
+(carboplatin AUC 5 or cisplatin 75 mg/m2, day 1) and etoposide (100 mg/m2, days 1-3) with either pembrolizumab
+200 mg or placebo for four cycles followed by pembrolizumab or placebo as maintenance therapy.58 PCI was
+optional in both arms. The study met its co-primary PFS
+endpoint (HR 0.75; 95% CI 0.61-0.91; P ¼ 0.0023); however,
+the prespeciﬁed signiﬁcance threshold for OS was not met
+(HR 0.80; 95% CI 0.64-0.98; P ¼ 0.0164). The 2-year OS in
+the pembrolizumab group was 22.5% versus 11.2% in the
+ChT-only group.
+The CheckMate 451 study showed no OS improvement of
+maintenance therapy with nivolumab plus ipilimumab or
+nivolumab alone compared with placebo (HR 0.92; 95% CI
+0.75-1.12; P ¼ 0.37 and HR 0.84; 95% CI 0.69-1.02).59
+Thoracic RT in extensive-stage SCLC. Two phase III RCTs
+have investigated the role of thoracic RT in extensive-stage
+SCLC. In the trial of Jeremic et al., a total of 210 patients
+were treated with three cycles of cisplatin plus etoposide.60
+Patients with a complete response (CR) in distant metastases received either thoracic RT with concurrent daily
+carboplatin plus etoposide followed by two cycles of
+cisplatin plus etoposide or an additional four cycles of
+cisplatin plus etoposide. All patients with a CR in distant
+metastases also received PCI. Patients who received
+thoracic RT had signiﬁcantly better survival rates than those
+who received only ChT (median OS 17 versus 11 months; 5year survival 9.1% versus 3.7%, respectively; P ¼ 0.041).
+Acute high-grade toxicity was higher in the RT group.
+In the CREST trial, 495 patients with extensive-stage SCLC
+and a response to ChT were randomised to receive either
+PCI alone or PCI with thoracic RT (30 Gy/10-15 fractions).61
+No signiﬁcant improvement in 1-year OS (primary endpoint)
+was observed: 33% versus 28% for thoracic RT versus no
+thoracic RT. In a pre-planned secondary analysis, the 2-year
+OS was 13% versus 3% favouring thoracic RT (P ¼ 0.004). An
+additional exploratory analysis showed that in patients with
+residual intrathoracic disease (a stratiﬁcation factor), the OS
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+was signiﬁcantly longer in the thoracic RT group (HR 0.81;
+95% CI 0.66-1.00; P ¼ 0.044).62 No signiﬁcant differences in
+toxicity were seen between the treatment arms. Thus, in
+patients with a PS of 0-2 who achieve a response after ChT,
+RT to the residual primary tumour and lymph nodes (30 Gy/
+10 fractions) is a treatment option [II, C]. There is a paucity
+of data on the integration of thoracic RT and immunotherapy; this should be explored in future research.
+
+PCI in extensive-stage SCLC. PCI is a standard treatment for
+patients with stage IV SCLC who are <75 years old, PS 0-2
+and who have no progression after ﬁrst-line ChT [II, B]. PCI
+reduces the occurrence of symptomatic brain metastases
+compared with observation and leads to a longer median
+survival. In the studies showing that PCI confers a survival
+beneﬁt in patients with extensive-stage SCLC, patients were
+not pre-screened for brain metastases.43,63 A Japanese
+phase III RCT investigated the effectiveness of PCI in patients with extensive-stage SCLC.12 Overall, 224 patients
+without brain metastases on MRI after platinum-containing
+ChT were randomised to receive either PCI (25 Gy/10
+fractions) and MRI follow-up or MRI follow-up only (every 3
+months for 1 year and then at 18 and 24 months). The study
+was stopped early because of futility; no signiﬁcant differences in OS or PFS were observed. The most common grade
+3 adverse events after 3 months were loss of appetite (6%
+in the PCI group versus 2% in the observation group),
+malaise (3% versus 1%) and muscle weakness in the lower
+extremities (<1% versus 5%). No difference in the mini
+mental state examination score was observed between the
+two groups.
+There are important differences between these studies,
+including the fact that brain MRI was not carried out for
+staging or follow-up in the trial reported by Slotman et al.
+RCTs comparing PCI and brain MRI surveillance versus MRI
+surveillance alone are in development. Thus, PCI (20 Gy/5
+fractions and 25 Gy/10 fractions) is justiﬁed in the absence
+of staging or follow-up brain MRI assessments in patients
+<75 years of age and a PS of 0-2 who achieved a response
+after ChT [II, B]. There is a paucity of data on the integration
+of PCI and immunotherapy. In the IMpower133 study, PCI
+was allowed in the maintenance phase and 22 patients in
+each arm received PCI.53 In KEYNOTE-604, PCI was optional
+in both arms and 11.8% and 14.2% of patients in the
+pembrolizumab and placebo arms, respectively, received
+PCI.58 However, no details of the toxicity data for patients
+treated with PCI were provided. Additional research is
+therefore required regarding both the safety and efﬁcacy of
+this approach.
+Second-line therapy and beyond. A proposed treatment
+algorithm for second-line therapy and beyond in patients
+with recurrent SCLC is shown in Figure 3.
+Standard treatment. Although SCLC is remarkably sensitive to ChT, most patients relapse within 6 months. Response
+rates to second-line treatment depend on the treatment-free
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+845
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+
+Recurrent SCLC (i.e. second-line therapy and beyond)
+
+Platinum-resistant relapse
+(<3 months TFI)
+
+Platinum-sensitive relapse
+(≥3 months TFI)
+
+Refractory and/or PS >2
+
+PS 0-2
+
+BSC [II, C]
+Lurbinectedin
+[III, C; MCBS 1]a
+
+Oral or i.v. topotecan [I, A]
+Cyclofosfamide–
+doxorubicin–vincristine [II, B]
+Lurbinectedin [III, C; MCBS 1]a
+
+Rechallenge with platinum–
+etoposide [II, B]
+Oral or i.v. topotecan [I, A]
+Cyclofosfamide–doxorubicin–
+vincristine [II, B]
+
+Figure 3. Treatment algorithm for SCLC in patients with recurrent SCLC (i.e. second-line therapy and beyond).
+Purple: general categories or stratiﬁcation; blue: systemic anticancer therapy; turquoise: combination of treatments or other systemic treatments; white: other aspects of
+management.
+BSC, best supportive care; i.v., intravenous; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; PS, performance status; SCLC, small-cell lung cancer; TFI, treatment-free interval.
+a
+ESMO-MCBS v1.1 score for new therapy/indication approved by the EMA or FDA. The score has been calculated by the ESMO-MCBS Working Group and validated by the ESMO
+Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/scale-evaluation-forms-v1.0-v1.1/scale-evaluation-forms-v1.1).
+
+interval (TFI) and response to ﬁrst-line platinum-based induction therapy.64 Response rates to second-line ChT are
+usually around 20%-30% in platinum-sensitive patients (i.e.
+TFI 3 months) and 15% in platinum-resistant patients (i.e.
+TFI <3 months). In platinum-refractory (i.e. patients not
+responding or progressing during ChT) and -resistant patients, outcomes are very poor and the clinical beneﬁt of
+further systemic therapy is uncertain. For these patients,
+participation in a clinical trial or best supportive care (BSC) is
+recommended [II, C].
+Topotecan is the only drug licensed in the European
+Union for use as second-line therapy in SCLC. Before topotecan development, anthracycline-based regimes were
+commonly used, including cyclophosphamide plus doxorubicin and vincristine (CAV). The ﬁrst randomised trial with
+topotecan versus CAV showed similar objective response
+rates (ORRs), time to progression and OS between the two
+treatment arms and better tolerability with intravenous
+(i.v.) topotecan versus CAV.65 Subsequently, a phase III trial
+of oral topotecan demonstrated an improvement in OS
+versus BSC (median 25.9 versus 13.9 weeks for topotecan
+versus BSC, respectively; P ¼ 0.0104), a slower decline in
+QoL and greater symptom control in patients with relapsed
+SCLC, of whom half had resistant disease.66 Oral and i.v.
+topotecan demonstrated similar efﬁcacy in another phase III
+trial but with differing toxicity proﬁles.67 Either oral or i.v.
+topotecan is recommended for patients with platinum846
+
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+resistant or -sensitive relapse, with CAV as an alternative
+option [II, B]. Another valid option in platinum-sensitive
+patients is rechallenge with ﬁrst-line platinum plus etoposide [II, B].68 A phase III RCT recently showed comparable
+outcomes in patients with sensitive relapse when treated
+with either topotecan or rechallenge with carboplatin plus
+etoposide.69
+Immunotherapy. The efﬁcacy of nivolumab and pembrolizumab as third-line monotherapies in stage IV SCLC was
+assessed in small phase I/II studies.70,71 In CheckMate 032,
+a single-arm, phase I/II study, 109 patients were treated
+with nivolumab (3 mg/kg) as third-line or later therapy. The
+ORR (primary outcome measure) was 11.9% (95% CI 6.5% to
+19.5%).70 The median duration of response was 17.9
+months (95% CI 3.0-42.1 months). In KEYNOTE-028, a
+single-arm, phase Ib study, 24 patients who had failed
+standard treatment were treated with pembrolizumab 10
+mg/kg every 2 weeks.71 ORR was 33.3% (95% CI 15.6% to
+55.3%). In addition, in KEYNOTE-158, an open-label, singlearm phase II study in advanced solid tumours, 76 SCLC
+patients who had failed standard ﬁrst-line treatment
+(cohort G) were treated with pembrolizumab 200 mg every
+3 weeks.72 ORR was 18.4%. These results led to the Food
+and Drug Administration (FDA) approvals of both nivolumab
+and pembrolizumab as monotherapies for the treatment of
+patients with stage IV SCLC who have progressed after
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+
+platinum-based ChT and at least one other line of therapy.
+However, in late 2020/early 2021, the manufacturers of
+nivolumab and pembrolizumab both voluntarily withdrew
+the SCLC indication for their product following discussions
+with the FDA as both drugs failed to reach the OS endpoint
+in their phase III conﬁrmatory trials (KEYNOTE-604, CheckMate 451 and CheckMate 331), a post-marketing requirement following accelerated approval by the FDA.73,74 In
+addition, the phase III RCT, CheckMate 331, comparing
+nivolumab to topotecan (or amrubicin) as second-line
+treatment in unselected (platinum-sensitive and -resistant)
+patients with stage IV SCLC and a PS of 0-1 failed to
+demonstrate an improvement in OS, PFS or ORR for nivolumab versus ChT.75 Limited efﬁcacy was also seen in the
+phase II French Cooperative Thoracic Intergroup 16-03 trial
+evaluating atezolizumab in relapsed SCLC (N ¼ 73); the
+disappointing ORR (2.3%) and median PFS (1.4 months)
+following immunotherapy precluded activation of the phase
+III part of the study.76
+The combination of cytotoxic T-lymphocyte-associated
+protein 4 and PD-L1 blockade is being evaluated in several
+ongoing trials. CheckMate 032 investigated nivolumab plus
+ipilimumab in patients with SCLC who progressed after one
+or more prior regimens. Although a modest ORR of 19%23% was reported, this increased to 46.2% in the highest
+tertile of tumours classiﬁed by TMB, with a median OS of 22
+months.77,78 Preliminary results from the phase II BALTIC
+study evaluating the combination of durvalumab and
+tremelimumab in platinum-refractory or -resistant stage IV
+SCLC showed similar results with an ORR of 9.5% and a
+median OS of 6 months.79 These data require prospective
+validation and comparison with second-line ChT. In addition, the studies were carried out before the routine use of
+immune checkpoint inhibitors as ﬁrst-line therapy. No data
+are available regarding rechallenge with immunotherapy in
+this setting.
+Other systemic therapies in relapsed SCLC. Paclitaxel,
+irinotecan and temozolomide have all shown a degree of
+activity, with ORRs in the order of 15%-29% in small phase II
+studies.80-83 In a phase III trial (JCOG 0605) comparing
+triplet ChT (cisplatin, etoposide and irinotecan) with topotecan as second-line treatment in highly selected, ﬁt patients with SCLC who had relapsed 90 days after ﬁrst-line
+therapy, the triplet regimen demonstrated superiority in
+terms of OS (median 18.2 versus 12.5 months, respectively;
+HR 0.67; P ¼ 0.0079). However, the regimen has never been
+adopted because of the high proportion of grade 3
+adverse events.84
+Amrubicin failed to show a survival beneﬁt versus topotecan in a phase III RCT, although a non-signiﬁcant and
+modest improvement in OS was seen in a subset of
+platinum-refractory patients (HR 0.77; P ¼ 0.047).85
+Amrubicin is currently not available in Western countries.
+Lurbinectedin, a selective inhibitor of RNA polymerase II,
+has recently been granted orphan drug status by the European Medicines Agency (EMA) as well as accelerated FDA
+approval for the treatment of SCLC. In a recent single-arm,
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+phase II trial (PM1183-B-005-14, NCT02454972) of 105 patients with relapsed SCLC, single-agent lurbinectedin 3.2
+mg/m2 given every 3 weeks showed promising activity as
+second-line therapy, with an ORR of 35.2% (22.2% in
+platinum-resistant and 45% in platinum-sensitive patients),
+median duration of response of 5.3 months and a
+manageable safety proﬁle.86 Median OS was 9.3 months
+(95% CI 6.3-11.8 months). A randomised phase III trial
+(ATLANTIS, NCT02566993) of lurbinectedin at a dose of 2.0
+mg/m2 plus doxorubicin versus investigator’s choice of CAV
+or topotecan has completed recruitment, and a recent press
+release reported that the trial failed to meet the prespeciﬁed superiority endpoint of OS.87 Lurbinectedin is a
+treatment option for patients progressing on or after ﬁrstline platinum-based ChT [III, C; ESMO-MCBS v1.1 score: 1].
+Rovalpituzumab tesirine (Rova-T) is an antibodyedrug
+conjugate targeting delta-like ligand 3 protein (DLL3). DLL3
+is expressed in the majority of SCLCs whereas there is no or
+very limited expression in normal tissue, making it an
+interesting therapeutic target. However, a phase II study
+was less promising, with an ORR of 13.2% and an OS of 5.6
+months in patients with DLL3-high SCLC.88 Enrolment of
+two phase III studies (NCT03061812, NCT03033511) was
+ceased after an interim analysis and development of Rova-T
+was halted. Drugs using bispeciﬁc T-cell engager (BiTE®) and
+chimeric antigen receptor T-cell approaches are in development and phase I trials are recruiting. Thus, although
+DLL3 is an interesting potential target, the efﬁcacy of agents
+targeting DLL3 needs to be demonstrated.
+Transformed SCLC
+SCLC transformation is a known resistance mechanism in
+patients with epidermal growth factor receptor (EGFR)mutated NSCLC who are treated with EGFR tyrosine kinase
+inhibitors.89 It occurs in 3%-5% of patients, especially in the
+presence of co-occurring RB1 and TP53 mutations.90 A
+retrospective analysis of 67 patients with EGFR-mutated
+SCLC showed a response rate of 54% to platinume
+etoposide, with a median PFS of 3.4 months.91 Of 20 patients who were treated with a taxane, 10 (50%) had a
+response. However, none of the 17 patients who were
+treated with immunotherapy had a response. Thus,
+although responses appear inferior compared with those
+seen in de novo SCLC, both platinumeetoposide and taxanes are treatment options in patients with EGFR-mutated
+SCLC transformation [IV, B].
+Recommendations
+ Surgery may be considered in patients with clinical
+stages I and II (cT1-2N0) SCLC in the context of a multimodal treatment concept and following a multidisciplinary board decision [III, B].
+ When considering surgical treatment for SCLC, pathological mediastinal staging is required [IV, A].
+ The aim of surgical treatment is to achieve an R0 resection [III, A].
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+847
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+ Sublobular resection is not recommended for SCLC [V, E].
+ During surgery for SCLC, a systematic nodal dissection
+should be carried out [IV, A].
+ Adjuvant ChT should be given after surgical resection of
+SCLC [IV, A].
+ In patient with an R1-R2 resection or positive mediastinal lymph nodes (N2), adjuvant ChT should be combined with RT, preferably concurrently [IV, A].
+ The preferred ChT for patients with limited-stage (stage
+I-III) SCLC is cisplatin plus etoposide [I, A].
+ When cisplatin is contraindicated because of comorbidities, carboplatin plus etoposide is an alternative [II, A].
+ G-CSF is a treatment option to prevent haematological
+toxicity [II, B].
+ Patients with T1-4N0-3M0 tumours and a good PS (0-1)
+should be treated with concurrent ChT and thoracic RT
+[I, A].
+ The recommended dose fractionation schedule is 45 Gy
+b.i.d. in 30 fractions [I, A].
+ Thoracic RT should be initiated as early as possible, starting on the ﬁrst or second cycle of ChT [II, A].
+ When the patient PS or dose to the organs at risk do not
+allow for the early administration of thoracic RT, it may
+be postponed until the start of the third cycle of ChT
+[II, B].
+ Sequential CRT is an option for patients who are not candidates for concurrent CRT due to poor PS, comorbidities
+and/or disease volume [V, B].
+ In case of response to ChT, the post-ChT primary tumour
+should be included in the radiation ﬁeld [II, B].
+ In case of response to ChT, the pre-ChT nodal stations
+should be included in the radiation ﬁeld [V, B].
+ Omission of elective node irradiation is recommended, in
+favour of selective node irradiation (i.e. involved nodes
+deﬁned as FDG avid on PETeCT, enlarged on CT and/or
+biopsy-positive) [III, A].
+ Patients with stage III SCLC with a response after treatment (CRT) and a PS of 0-1 should be offered PCI [I,
+A]. PCI can be considered in patients with a PS of 2
+[III, B].
+ The role of PCI is not as well deﬁned in patients with
+stage I-II SCLC or in those >70 years of age or who are
+frail. In such cases, shared decision making is recommended [V, C].
+ The role of PCI or consolidation thoracic RT in combination with immunotherapy is not well deﬁned in patients
+with extensive-stage SCLC due to a paucity of data. Treatment may be considered following a shared decisionmaking process [IV, C].
+ The recommended PCI regimen is 25 Gy/10 fractions [I, A].
+ An anti-PD-L1 inhibitor (atezolizumab [I, A; ESMO-MCBS
+v1.1 score: 3] or durvalumab [I, A; ESMO-MCBS v1.1
+score: 3]) in combination with four cycles of a platinum
+and etoposide can be offered to all patients with
+treatment-naive extensive-stage SCLC, a PS of 0-1 and
+no contraindications for immunotherapy [I, A].
+ For immunotherapy-ineligible patients, the preferred
+ﬁrst-line treatment of extensive-stage SCLC (PS 0-1 and
+848
+
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS 2 due to SCLC) is four to six cycles of a platinum
+plus etoposide [I, A].
+In extensive-stage SCLC, cisplatin can be substituted with
+carboplatin [I, B].
+For selected patients, considering age and toxicity proﬁle, cisplatin might be preferred [II, C].
+Cisplatin with irinotecan or oral topotecan are alternative treatment options [II, C].
+In poor prognosis patients, gemcitabine plus carboplatin
+is an alternative treatment option [II, C].
+In patients achieving a response after ChT and a PS of 02, RT to the residual primary tumour and lymph nodes
+(30 Gy/10 fractions) is a treatment option [II, C].
+PCI (20 Gy/5 fractions and 25 Gy/10 fractions) is justiﬁed
+without prior MRI staging or follow-up in patients <75
+years of age and a PS of 0-2 who achieved a response after ChT [II, B].
+In patients with extensive-stage SCLC without brain metastases on brain MRI after ChT and who can be followed-up
+with regular brain MRI, PCI may be omitted [II, B].
+Patients with platinum-refractory SCLC have a poor prognosis and participation in a clinical trial or BSC is recommended [II, C].
+Either oral or i.v. topotecan is recommended for patients
+with platinum-resistant or -sensitive relapse; CAV is an
+alternative option [II, B].
+Lurbinectedin [III, C; ESMO-MCBS v1.1 score: 1] is a
+treatment option for patients progressing on or after
+ﬁrst-line platinum-based ChT [III, C].
+In patients with platinum-sensitive SCLC, rechallenge
+with ﬁrst-line platinum plus etoposide can be considered
+[II, B].
+Both platinumeetoposide and taxanes are treatment options in patients with EGFR-mutated SCLC transformation [IV, B].
+
+PERSONALISED MEDICINE
+There are still no validated biomarkers that can be used for
+disease classiﬁcation that have prognostic or predictive
+relevance or that can be used to inform medical treatment
+decisions. In addition, no targeted treatment has demonstrated activity in SCLC.
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND
+SURVIVORSHIP
+Interval and duration of follow-up
+Although no prospective trials are available regarding regular follow-up and its effect on survival, asymptomatic recurrences might be detected early with regular follow-up,
+with available treatments offered while the patient still has
+a good PS.92 CT scans every 2-3 months are recommended
+in patients with extensive-stage disease potentially qualifying for further treatments [V, C]. Patients with limitedstage disease who have received potentially curative
+treatment should undergo 3-6-monthly CT scans for 2 years
+with lengthening of intervals thereafter [V, C]. Regular brain
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+
+MRIs (every 3 months in the ﬁrst year and then every 6
+months) are advised in patients who did not undergo PCI
+[II, C].12
+Another reason for regular (long-term) follow-up is the
+early detection of second primaries. In one series, the cumulative relative risk for developing a second primary was
+3.73 and was 6.83 for developing a secondary NSCLC.93
+Yearly follow-up with a low-dose CT scan starting at the
+end of regular follow-up may be considered [V, C].
+PCI: long-term toxicity
+The long-term effects of PCI were studied in several randomised trials.94-96 In the PCI intergroup trial of 720 patients
+with non-metastatic SCLC, clinical neurological outcome and
+QoL were evaluated.95 There was no signiﬁcant difference
+between the two groups over 3 years in any of the 17
+selected items assessing QoL and neurological and cognitive
+functions. There was a mild deterioration over time of
+communication deﬁcit, fatigue, intellectual deﬁcit and
+memory. Age was a signiﬁcant cofactor of neurocognitive
+decline and chronic neurotoxicity.96
+In a recently reported Dutch-Flemish randomised phase
+III trial comparing standard PCI with hippocampus-sparing
+PCI, no differences in memory were observed.97
+Neurocognitive decline after PCI may also be caused by
+other disorders, such as dementia and depression.98 In
+addition, some nutritional deﬁciencies, which may be
+exacerbated by systemic ChT (e.g. vitamin B and folate
+deﬁciency), may lead to cognitive impairment, dementia
+and depression. Thus, a thorough evaluation is needed
+before a diagnosis of post-RT cognitive decline can be
+made, especially in elderly patients with multiple comorbidities. PCI results in a mild decline in neurocognitive
+functioning in w30% of patients. Severe deterioration requires an in-depth analysis looking for other treatable
+causes [IV, A].
+Comorbidities and inﬂuence on long-term toxicity
+Three-quarters of patients with SCLC have comorbidities,
+with half having two or more comorbidities. Cardiovascular
+and pulmonary diseases occur most frequently.99 Regular
+follow-up, paying attention to these comorbidities, could
+therefore be an option as this may improve survival. Preexisting comorbidities, smoking habits and RT to the heart
+can all result in cardiac problems. Approximately 10% of
+patients with stage I-III SCLC experience cardiac problems
+and 3% die as a result.100
+Smoking cessation
+Continued smoking is associated with a higher risk of
+tumour recurrences, the development of second primaries,
+cardiovascular and cerebrovascular disease and all-cause
+mortality compared with those who stop smoking.101
+Moreover, continued smoking is associated with a
+decreased QoL among survivors.102 Smoking cessation in
+patients already diagnosed with lung cancer improves PS
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+and health-related QoL and may also improve survival.103
+Therefore, smoking cessation is highly encouraged [IV, B].
+Recommendations
+ Two- to three-monthly CT scans are recommended in patients with extensive-stage disease potentially qualifying
+for further treatments [V, C].
+ Six-monthly CT scans for 2 years with lengthening of intervals thereafter are recommended for patients with
+non-metastatic disease who have received potentially
+curative treatment [V, C].
+ Regular brain MRIs (every 3 months for the ﬁrst year,
+then every 6 months) are advised in patients who have
+not undergone PCI [II, C].
+ As patients with a history of lung cancer are at high risk
+of developing a second primary, yearly follow-up with a
+low-dose CT starting from the end of regular follow-up
+may be considered [V, C].
+ Severe neurocognitive deterioration after PCI requires an
+in-depth analysis looking for other treatable causes
+[IV, A].
+ The occurrence of second malignancies, particularly if
+smoking is continued, is of concern in survivors and
+smoking cessation counselling is essential [IV, B].
+METHODOLOGY
+This Clinical Practice Guideline was developed in accordance with the ESMO standard operating procedures for
+Clinical Practice Guidelines development (http://www.
+esmo.org/Guidelines/ESMO-Guidelines-Methodology). The
+relevant literature has been selected by the expert authors.
+An ESMO-MCBS table with ESMO-MCBS scores is included
+in Supplementary Table S3, available at https://doi.org/10.1
+016/j.annonc.2021.03.207. ESMO-MCBS v1.1104 was used
+to calculate scores for new therapies/indications approved
+by the EMA and the FDA (https://www.esmo.org/
+Guidelines/ESMO-MCBS). The scores have been calculated
+by the ESMO-MCBS Working Group and validated by the
+ESMO Guidelines Committee. Levels of evidence and grades
+of recommendation have been applied using the system
+shown in Supplementary Table S4, available at https://doi.
+org/10.1016/j.annonc.2021.03.207.105 Statements without
+grading were considered justiﬁed standard clinical practice
+by the authors.
+ACKNOWLEDGEMENTS
+Corinne Faivre-Finn is supported by a grant from the NIHR
+Manchester Biomedical Research Centre. Manuscript editing support was provided by Angela Corstorphine of
+Kstorﬁn Medical Communications Ltd; this support was
+funded by ESMO.
+FUNDING
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+849
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+DISCLOSURE
+A-MCD reports receipt of honoraria for participation in
+advisory boards and/or lectures from Roche, Eli Lilly,
+Boehringer Ingelheim, AstraZeneca, Pﬁzer, Bristol Myers
+Squibb (BMS), Amgen, Novartis, Merck Sharp & Dohme
+(MSD), Takeda and PharmaMar; research funding from
+BMS, AbbVie and Amgen. MF reports receipt of advisory
+board honoraria to institution from BMS, Takeda, AstraZeneca, Boehringer Ingelheim, MSD and Roche. AA reports
+receipt of honoraria for participation in advisory boards
+from AstraZeneca, Roche, MSD, BMS, Lilly, Takeda and
+Bayer; research grant from BMS. BB reports receipt of
+grants/research support to institute from AbbVie, Amgen,
+AstraZeneca, BeiGene, Blueprint Medicines, BMS, Boehringer Ingelheim, Celgene, Cristal Therapeutics, Daiichi
+Sankyo, Eli Lilly, GlaxoSmithKline (GSK), Ignyta, IPSEN, Inivata, Janssen, Merck KGaA, MSD, Nektar, Onxeo, OSE Immunotherapeutics, Pﬁzer, PharmaMar, Roche-Genentech,
+Sanoﬁ, Servier, Spectrum Pharmaceuticals, Takeda, Tiziana
+Pharma and Tolero Pharmaceuticals. CF-F reports participation in advisory boards for AstraZeneca; research funding
+from MSD and AstraZeneca. LEH reports research funding to
+institution from Roche, Boehringer Ingelheim and AstraZeneca; advisory board honoraria to institution from BMS,
+Lilly, Roche, Pﬁzer, Takeda, MSD, Amgen and Boehringer
+Ingelheim; speaker fees from MSD; travel/conference
+reimbursement from Roche and BMS; participation in
+mentorship program funded by AstraZeneca; fees for
+educational webinars from Quadia; fees to institution for
+interview sessions from Roche. SL reports consulting activities for MSD, AstraZeneca, BMS, Bayer and Eli Lilly. SP reports receipt of honoraria to institute for consultancy,
+advisory boards and/or lectures from AbbVie, Amgen,
+AstraZeneca, Bayer, Biocartis, Bioinvent, Blueprint Medicines, Boehringer Ingelheim, BMS, Clovis, Daiichi Sankyo,
+Debiopharm, Eli Lilly, Roche, Foundation Medicine, Illumina,
+Janssen, MSD, Merck Serono, Merrimack, Mirati, Novartis,
+PharmaMar, Pﬁzer, Regeneron, Sanoﬁ, Seattle Genetics,
+Takeda and Vaccibody; institutional ﬁnancial support for
+clinical trials from Amgen, AstraZeneca, Biodesix, Boehringer Ingelheim, BMS, Clovis, Roche, Illumina, MSD, Merck
+Serono, Novartis and Pﬁzer. NR reports receipt of speaker
+honoraria from MSD, BMS, Roche, Boehringer Ingelheim,
+Guardant Health, Pﬁzer, AbbVie, Ipsen, Novartis, AstraZeneca, Lilly, Takeda and Amgen; fees for organising educational events from Amgen and Roche; advisory panel
+honoraria from MSD, BMS, Roche, Boehringer Ingelheim,
+Guardant Health, Pﬁzer, AbbVie, Ipsen, Novartis, AstraZeneca, Lilly, Takeda and Amgen; sponsorship to attend scientiﬁc meetings from Boehringer Ingelheim, MSD and
+Roche; research grants from Novartis and Pﬁzer. CMR reports consultancy for AbbVie, Amgen, Ascentage, AstraZeneca, Bicycle, Celgene, Daiichi Sankyo, Genentech/Roche,
+Ipsen, Jazz, Lilly, Pﬁzer, PharmaMar, Syros and Vavotek;
+serves on scientiﬁc advisory boards for Bridge Medicines
+and Harpoon Therapeutics. DDR reports receipt of research
+grants to institute from BMS, AstraZeneca and Boehringer
+850
+
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+Ingelheim; advisory board honoraria to institute from BMS,
+AstraZeneca, Boehringer Ingelheim and Philips; funding to
+institute for investigator-initiated study from Olink. PEVS
+reports board membership of IASLC; treasurer of BACTS;
+fees to institution for serving as an external expert for
+AstraZeneca, MSD and National Cancer Institute, France. JV
+reports receipt of advisory board honoraria and/or lecture
+fees from Boehringer Ingelheim, AstraZeneca, MSD,
+Novartis, Roche, Pﬁzer and BMS; research grant to institute
+from MSD. MR reports receipt of honoraria for lectures and
+consultancy from Amgen, AstraZeneca, BMS, Boehringer
+Ingelheim, Lilly, Merck, MSD, Novartis, Pﬁzer, Roche and
+Samsung; funding for academic research from BMS and
+Boehringer Ingelheim.
+
+REFERENCES
+1. American Cancer Society. Cancer Facts & Figures 2019. Atlanta:
+American Cancer Society. 2019. Available at: https://www.cancer.
+org/content/dam/cancer-org/research/cancer-facts-and-statistics/
+annual-cancer-facts-and-ﬁgures/2019/cancer-facts-and-ﬁgures-20
+19.pdf. Accessed October 20, 2020.
+2. Govindan R, Page N, Morgensztern D, et al. Changing epidemiology of
+small-cell lung cancer in the United States over the last 30 years:
+analysis of the surveillance, epidemiologic, and end results database.
+J Clin Oncol. 2006;24(28):4539-4544.
+3. Breitling LP, Rinke A, Gress TM. Recent survival trends in high-grade
+neuroendocrine neoplasms and lung cancer. Neuroendocrinology.
+2020;110(3-4):225-233.
+4. Abdel-Rahman O. Changing epidemiology of elderly small cell lung
+cancer patients over the last 40 years; a SEER database analysis. Clin
+Respir J. 2018;12(3):1093-1099.
+5. Aberle DR, DeMello S, Berg CD, et al. Results of the two incidence
+screenings in the National Lung Screening Trial. N Engl J Med.
+2013;369(10):920-931.
+6. Silva M, Galeone C, Sverzellati N, et al. Screening with low-dose
+computed tomography does not improve survival of small cell lung
+cancer. J Thorac Oncol. 2016;11(2):187-193.
+7. Shepherd FA, Crowley J, Van Houtte P, et al. The International Association for the Study of Lung Cancer lung cancer staging project:
+proposals regarding the clinical staging of small cell lung cancer in the
+forthcoming (seventh) edition of the tumor, node, metastasis classiﬁcation for lung cancer. J Thorac Oncol. 2007;2(12):1067-1077.
+8. Nicholson AG, Chansky K, Crowley J, et al. The International Association for the Study of Lung Cancer lung cancer staging project: proposals for the revision of the clinical and pathologic staging of small
+cell lung cancer in the forthcoming eighth edition of the TNM classiﬁcation for lung cancer. J Thorac Oncol. 2016;11(3):300-311.
+9. Gozzard P, Woodhall M, Chapman C, et al. Paraneoplastic neurologic
+disorders in small cell lung carcinoma: a prospective study. Neurology
+2015;85(3):235-239.
+10. Postmus PE, Kerr KM, Oudkerk M, et al. Early and locally advanced
+non-small-cell lung cancer (NSCLC): ESMO Clinical Practice Guidelines
+for diagnosis, treatment and follow-up. Ann Oncol. 2017;28(suppl_4):
+iv1-iv21.
+11. Seute T, Leffers P, ten Velde GP, et al. Detection of brain metastases
+from small cell lung cancer: consequences of changing imaging
+techniques (CT versus MRI). Cancer. 2008;112(8):1827-1834.
+12. Takahashi T, Yamanaka T, Seto T, et al. Prophylactic cranial irradiation
+versus observation in patients with extensive-disease small-cell lung
+cancer: a multicentre, randomised, open-label, phase 3 trial. Lancet
+Oncol. 2017;18(5):663-671.
+13. Martucci F, Pascale M, Valli MC, et al. Impact of (18)F-FDG PET/CT in
+staging patients with small cell lung cancer: a systematic review and
+meta-analysis. Front Med (Lausanne). 2019;6:336.
+
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+
+14. Manoharan P, Salem A, Mistry H, et al. (18)F-Fludeoxyglucose PET/CT
+in SCLC: analysis of the CONVERT randomized controlled trial.
+J Thorac Oncol. 2019;14(7):1296-1305.
+15. Foster NR, Mandrekar SJ, Schild SE, et al. Prognostic factors differ by
+tumor stage for small cell lung cancer: a pooled analysis of North
+Central Cancer Treatment Group trials. Cancer. 2009;115(12):27212731.
+16. Reymen B, Van Loon J, van Baardwijk A, et al. Total gross tumor
+volume is an independent prognostic factor in patients treated with
+selective nodal irradiation for stage I to III small cell lung cancer. Int J
+Radiat Oncol Biol Phys. 2013;85(5):1319-1324.
+17. Barnes H, See K, Barnett S, et al. Surgery for limited-stage small-cell
+lung cancer. Cochrane Database Syst Rev. 2017;4(4):Cd011917.
+18. Zhao X, Kallakury B, Chahine JJ, et al. Surgical resection of SCLC:
+prognostic factors and the tumor microenvironment. J Thorac Oncol.
+2019;14(5):914-923.
+19. Wakeam E, Acuna SA, Leighl NB, et al. Surgery versus chemotherapy
+and radiotherapy for early and locally advanced small cell lung cancer: a propensity-matched analysis of survival. Lung Cancer.
+2017;109:78-88.
+20. Villaruz L, Karlovits BJ, Burns TF, et al. Small-cell lung cancer. In:
+LoCicero III J, Colson YL, Feins RH, et al., editors. Shields’ General
+Thoracic Surgery. Philadelphia, PA: Wolters Kluwer; 2019. p. 13081319.
+21. Kreisman H, Wolkove N, Quoix E. Small cell lung cancer presenting as
+a solitary pulmonary nodule. Chest. 1992;101(1):225-231.
+22. Ernani V, Ganti AK. Surgery for limited-stage small cell lung cancer:
+ready for prime-time? J Thorac Dis. 2017;9(10):3576-3578.
+23. Stinchcombe TE. Current treatments for surgically resectable, limitedstage, and extensive-stage small cell lung cancer. Oncologist.
+2017;22(12):1510-1517.
+24. Rami-Porta R, Wittekind C, Goldstraw P. Complete resection in lung
+cancer surgery: proposed deﬁnition. Lung Cancer. 2005;49(1):2533.
+25. Yang CF, Chan DY, Speicher PJ, et al. Role of adjuvant therapy in a
+population-based cohort of patients with early-stage small-cell lung
+cancer. J Clin Oncol. 2016;34(10):1057-1064.
+26. Mascaux C, Paesmans M, Berghmans T, et al. A systematic review of
+the role of etoposide and cisplatin in the chemotherapy of small cell
+lung cancer with methodology assessment and meta-analysis. Lung
+Cancer. 2000;30(1):23-36.
+27. Karam I, Jiang SY, Khaira M, et al. Outcomes of small cell lung cancer
+patients treated with cisplatin-etoposide versus carboplatin-etoposide. Am J Clin Oncol. 2015;38(1):51-54.
+28. Arriagada R, Pignon JP, Le Chevalier T. Initial chemotherapeutic doses
+and long-term survival in limited small-cell lung cancer. N Engl J Med.
+2001;345(17):1281-1282.
+29. Faivre-Finn C, Snee M, Ashcroft L, et al. Concurrent once-daily versus
+twice-daily chemoradiotherapy in patients with limited-stage smallcell lung cancer (CONVERT): an open-label, phase 3, randomised,
+superiority trial. Lancet Oncol. 2017;18(8):1116-1125.
+30. Gomes F, Faivre-Finn C, Mistry H, et al. Safety of G-CSF with concurrent chemo-radiotherapy in limited-stage small cell lung cancerdsecondary analysis of the randomised phase 3 CONVERT trial. Lung
+Cancer. 2021;153:165-170.
+31. Bunn PA Jr, Crowley J, Kelly K, et al. Chemoradiotherapy with or
+without granulocyte-macrophage colony-stimulating factor in the
+treatment of limited-stage small-cell lung cancer: a prospective phase
+III randomized study of the Southwest Oncology Group. J Clin Oncol.
+1995;13(7):1632-1641.
+32. Veslemes M, Polyzos A, Latsi P, et al. Optimal duration of chemotherapy in small cell lung cancer: a randomized study of 4 versus 6
+cycles of cisplatin-etoposide. J Chemother. 1998;10(2):136-140.
+33. Antonia SJ, Villegas A, Daniel D, et al. Overall survival with durvalumab after chemoradiotherapy in stage III NSCLC. N Engl J Med.
+2018;379(24):2342-2350.
+34. Peters S, Pujol JL, Dafni U, et al. LBA84 consolidation ipilimumab and
+nivolumab vs observation in limited stage SCLC after chemo-
+
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+radiotherapy: results from the ETOP/IFCT 4-12 STIMULI trial. Ann
+Oncol. 2020;31:S1211.
+Turrisi AT 3rd, Kim K, Blum R, et al. Twice-daily compared with oncedaily thoracic radiotherapy in limited small-cell lung cancer treated
+concurrently with cisplatin and etoposide. N Engl J Med. 1999;340(4):
+265-271.
+Grønberg BH, Halvorsen TO, Fløtten Ø, et al. Randomized phase II
+trial comparing twice daily hyperfractionated with once daily hypofractionated thoracic radiotherapy in limited disease small cell lung
+cancer. Acta Oncol. 2016;55(5):591-597.
+De Ruysscher D, Lueza B, Le Péchoux C, et al. Impact of thoracic
+radiotherapy timing in limited-stage small-cell lung cancer: usefulness
+of the individual patient data meta-analysis. Ann Oncol. 2016;27(10):
+1818-1828.
+Lu H, Fang L, Wang X, et al. A meta-analysis of randomized controlled
+trials comparing early and late concurrent thoracic radiotherapy with
+etoposide and cisplatin/carboplatin chemotherapy for limited-disease
+small-cell lung cancer. Mol Clin Oncol. 2014;2(5):805-810.
+Kies MS, Mira JG, Crowley JJ, et al. Multimodal therapy for limited
+small-cell lung cancer: a randomized study of induction combination
+chemotherapy with or without thoracic radiation in complete responders; and with wide-ﬁeld versus reduced-ﬁeld radiation in partial
+responders: a Southwest Oncology Group Study. J Clin Oncol.
+1987;5(4):592-600.
+De Ruysscher D, Bremer RH, Koppe F, et al. Omission of elective node
+irradiation on basis of CT-scans in patients with limited disease small
+cell lung cancer: a phase II trial. Radiother Oncol. 2006;80(3):307-312.
+van Loon J, De Ruysscher D, Wanders R, et al. Selective nodal irradiation on basis of (18)FDG-PET scans in limited-disease small-cell
+lung cancer: a prospective study. Int J Radiat Oncol Biol Phys.
+2010;77(2):329-336.
+Shirvani SM, Komaki R, Heymach JV, et al. Positron emission tomography/computed tomography-guided intensity-modulated radiotherapy for limited-stage small-cell lung cancer. Int J Radiat Oncol Biol
+Phys. 2012;82(1):e91-e97.
+Aupérin A, Arriagada R, Pignon JP, et al. Prophylactic cranial irradiation for patients with small-cell lung cancer in complete remission.
+Prophylactic Cranial Irradiation Overview Collaborative Group. N Engl
+J Med. 1999;341(7):476-484.
+Le Péchoux C, Dunant A, Senan S, et al. Standard-dose versus higherdose prophylactic cranial irradiation (PCI) in patients with limitedstage small-cell lung cancer in complete remission after chemotherapy and thoracic radiotherapy (PCI 99-01, EORTC 22003-08004,
+RTOG 0212, and IFCT 99-01): a randomised clinical trial. Lancet Oncol.
+2009;10(5):467-474.
+Rossi A, Di Maio M, Chiodini P, et al. Carboplatin- or cisplatin-based
+chemotherapy in ﬁrst-line treatment of small-cell lung cancer: the
+COCIS meta-analysis of individual patient data. J Clin Oncol.
+2012;30(14):1692-1698.
+Rossi A, Garassino MC, Cinquini M, et al. Maintenance or consolidation therapy in small-cell lung cancer: a systematic review and
+meta-analysis. Lung Cancer. 2010;70(2):119-128.
+Noda K, Nishiwaki Y, Kawahara M, et al. Irinotecan plus cisplatin
+compared with etoposide plus cisplatin for extensive small-cell lung
+cancer. N Engl J Med. 2002;346(2):85-91.
+Hanna N, Bunn PA Jr, Langer C, et al. Randomized phase III trial
+comparing irinotecan/cisplatin with etoposide/cisplatin in patients
+with previously untreated extensive-stage disease small-cell lung
+cancer. J Clin Oncol. 2006;24(13):2038-2043.
+Liu ZL, Wang B, Liu JZ, et al. Irinotecan plus cisplatin compared with
+etoposide plus cisplatin in patients with previously untreated
+extensive-stage small cell lung cancer: a meta-analysis. J Cancer Res
+Ther. 2018;14(Supplement):S1076-S1083.
+Eckardt JR, von Pawel J, Papai Z, et al. Open-label, multicenter, randomized, phase III study comparing oral topotecan/cisplatin versus
+etoposide/cisplatin as treatment for chemotherapy-naive patients
+with extensive-disease small-cell lung cancer. J Clin Oncol.
+2006;24(13):2044-2051.
+
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+851
+
+Annals of Oncology
+51. Lee SM, James LE, Qian W, et al. Comparison of gemcitabine and
+carboplatin versus cisplatin and etoposide for patients with poorprognosis small cell lung cancer. Thorax. 2009;64(1):75-80.
+52. Reck M, Luft A, Szczesna A, et al. Phase III randomized trial of ipilimumab plus etoposide and platinum versus placebo plus etoposide
+and platinum in extensive-stage small-cell lung cancer. J Clin Oncol.
+2016;34(31):3740-3748.
+53. Horn L, Mansﬁeld AS, Szczesna A, et al. First-line atezolizumab plus
+Î
+chemotherapy in extensive-stage
+small-cell lung cancer. N Engl J Med.
+2018;379(23):2220-2229.
+54. Paz-Ares L, Dvorkin M, Chen Y, et al. Durvalumab plus platinumetoposide versus platinum-etoposide in ﬁrst-line treatment of
+extensive-stage small-cell lung cancer (CASPIAN): a randomised,
+controlled, open-label, phase 3 trial. Lancet. 2019;394(10212):19291939.
+55. Liu SV, Reck M, Mansﬁeld AS, et al. Updated overall survival and PDL1 subgroup analysis of patients with extensive-stage small-cell lung
+cancer treated with atezolizumab, carboplatin, and etoposide
+(IMpower133). J Clin Oncol. 2021;39(6):619-630.
+56. Goldman JW, Dvorkin M, Chen Y, et al. Durvalumab, with or without
+tremelimumab, plus platinum-etoposide versus platinum-etoposide
+alone in ﬁrst-line treatment of extensive-stage small-cell lung cancer (CASPIAN): updated results from a randomised, controlled, openlabel, phase 3 trial. Lancet Oncol. 2021;22(1):51-65.
+57. Goldman JW, Garassino MC, Chen Y, et al. Patient-reported outcomes
+with ﬁrst-line durvalumab plus platinum-etoposide versus platinumetoposide in extensive-stage small-cell lung cancer (CASPIAN): a
+randomized, controlled, open-label, phase III study. Lung Cancer.
+2020;149:46-52.
+58. Rudin CM, Awad MM, Navarro A, et al. Pembrolizumab or placebo
+plus etoposide and platinum as ﬁrst-line therapy for extensive-stage
+small-cell lung cancer: randomized, double-blind, phase III
+KEYNOTE-604 study. J Clin Oncol. 2020;38(21):2369-2379.
+59. Owonikoko TK, Kim HR, Govindan R, et al. LBA1_PRdNivolumab
+(nivo) plus ipilimumab (ipi), nivo, or placebo (pbo) as maintenance
+therapy in patients (pts) with extensive disease small cell lung cancer
+(ED-SCLC) after ﬁrst-line (1L) platinum-based chemotherapy (chemo):
+results from the double-blind, randomized phase III CheckMate 451
+study. Ann Oncol. 2019;30:ii77.
+60. Jeremic B, Shibamoto Y, Nikolic N, et al. Role of radiation therapy in
+the combined-modality treatment of patients with extensive disease
+small-cell lung cancer: a randomized study. J Clin Oncol. 1999;17(7):
+2092-2099.
+61. Slotman BJ, van Tinteren H, Praag JO, et al. Use of thoracic radiotherapy for extensive stage small-cell lung cancer: a phase 3 randomised controlled trial. Lancet 2015;385(9962):36-42.
+62. Slotman BJ, van Tinteren H, Praag JO, et al. Radiotherapy for extensive stage small-cell lung cancerdauthors’ reply. Lancet.
+2015;385(9975):1292-1293.
+63. Slotman B, Faivre-Finn C, Kramer G, et al. Prophylactic cranial irradiation in extensive small-cell lung cancer. N Engl J Med. 2007;357(7):
+664-672.
+64. Owonikoko TK, Behera M, Chen Z, et al. A systematic analysis of efﬁcacy of second-line chemotherapy in sensitive and refractory smallcell lung cancer. J Thorac Oncol. 2012;7(5):866-872.
+65. von Pawel J, Schiller JH, Shepherd FA, et al. Topotecan versus cyclophosphamide, doxorubicin, and vincristine for the treatment of
+recurrent small-cell lung cancer. J Clin Oncol. 1999;17(2):658-667.
+66. O’Brien ME, Ciuleanu TE, Tsekov H, et al. Phase III trial comparing
+supportive care alone with supportive care with oral topotecan in
+patients with relapsed small-cell lung cancer. J Clin Oncol.
+2006;24(34):5441-5447.
+67. Eckardt JR, von Pawel J, Pujol JL, et al. Phase III study of oral
+compared with intravenous topotecan as second-line therapy in
+small-cell lung cancer. J Clin Oncol. 2007;25(15):2086-2092.
+68. Postmus PE, Berendsen HH, van Zandwijk N, et al. Retreatment with
+the induction regimen in small cell lung cancer relapsing after an
+initial response to short term chemotherapy. Eur J Cancer Clin Oncol.
+1987;23(9):1409-1411.
+
+852
+
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+A.-M. C. Dingemans et al.
+69. Baize N, Monnet I, Greillier L, et al. Carboplatin plus etoposide versus
+topotecan as second-line treatment for patients with sensitive
+relapsed small-cell lung cancer: an open-label, multicentre, randomised, phase 3 trial. Lancet Oncol. 2020;21(9):1224-1233.
+70. Ready N, Farago AF, de Braud F, et al. Third-line nivolumab monotherapy in recurrent SCLC: CheckMate 032. J Thorac Oncol.
+2019;14(2):237-244.
+71. Ott PA, Elez E, Hiret S, et al. Pembrolizumab in patients with
+extensive-stage small-cell lung cancer: results from the phase Ib
+KEYNOTE-028 study. J Clin Oncol. 2017;35(34):3823-3829.
+72. Marabelle A, Fakih M, Lopez J, et al. Association of tumour mutational burden with outcomes in patients with advanced solid tumours
+treated with pembrolizumab: prospective biomarker analysis of the
+multicohort, open-label, phase 2 KEYNOTE-158 study. Lancet Oncol.
+2020;21(10):1353-1365.
+73. Merck. Merck provides update on KEYTRUDA® (pembrolizumab)
+indication in metastatic small cell lung cancer in the US. 2021.
+Available at: https://www.merck.com/news/merck-provides-updateon-keytruda-pembrolizumab-indication-in-metastatic-small-cell-lungcancer-in-the-us/. Accessed March 19, 2021.
+74. BMS. Bristol Myers Squibb statement on Opdivo (nivolumab) small
+cell lung cancer U.S. indication. 2020. Available at: https://news.bms.
+com/news/details/2020/Bristol-Myers-Squibb-Statement-on-Opdivonivolumab-Small-Cell-Lung-Cancer-US-Indication/default.aspx.
+Accessed March 19, 2021.
+75. Spigel DR, Vicente D, Ciuleanu TE, et al. Second-line nivolumab in
+relapsed small-cell lung cancer: CheckMate 331. Ann Oncol.
+2021;32(5):631-641.
+76. Pujol JL, Greillier L, Audigier-Valette C, et al. A randomized noncomparative phase II study of anti-programmed cell death-ligand 1
+atezolizumab or chemotherapy as second-line therapy in patients
+with small cell lung cancer: results from the IFCT-1603 trial. J Thorac
+Oncol. 2019;14(5):903-913.
+77. Antonia SJ, López-Martin JA, Bendell J, et al. Nivolumab alone and
+nivolumab plus ipilimumab in recurrent small-cell lung cancer
+(CheckMate 032): a multicentre, open-label, phase 1/2 trial. Lancet
+Oncol. 2016;17(7):883-895.
+78. Hellmann MD, Callahan MK, Awad MM, et al. Tumor mutational
+burden and efﬁcacy of nivolumab monotherapy and in combination
+with ipilimumab in small-cell lung cancer. Cancer Cell. 2019;35(2):329.
+79. Bondarenko I, Juan-Vidal O, Pajkos G, et al. 1665PDdPreliminary
+efﬁcacy of durvalumab plus tremelimumab in platinum-refractory/
+resistant ED-SCLC from arm A of the phase II BALTIC study. Ann
+Oncol. 2018;29:viii596.
+80. Smit EF, Fokkema E, Biesma B, et al. A phase II study of paclitaxel in
+heavily pretreated patients with small-cell lung cancer. Br J Cancer.
+1998;77(2):347-351.
+81. Yamamoto N, Tsurutani J, Yoshimura N, et al. Phase II study of weekly
+paclitaxel for relapsed and refractory small cell lung cancer. Anticancer Res. 2006;26(1b):777-781.
+82. Pietanza MC, Kadota K, Huberman K, et al. Phase II trial of temozolomide in patients with relapsed sensitive or refractory small cell lung
+cancer, with assessment of methylguanine-DNA methyltransferase as
+a potential biomarker. Clin Cancer Res. 2012;18(4):1138-1145.
+83. Zauderer MG, Drilon A, Kadota K, et al. Trial of a 5-day dosing regimen
+of temozolomide in patients with relapsed small cell lung cancers
+with assessment of methylguanine-DNA methyltransferase. Lung
+Cancer. 2014;86(2):237-240.
+84. Goto K, Ohe Y, Shibata T, et al. Combined chemotherapy with
+cisplatin, etoposide, and irinotecan versus topotecan alone as
+second-line treatment for patients with sensitive relapsed small-cell
+lung cancer (JCOG0605): a multicentre, open-label, randomised
+phase 3 trial. Lancet Oncol. 2016;17(8):1147-1157.
+85. von Pawel J, Jotte R, Spigel DR, et al. Randomized phase III trial of
+amrubicin versus topotecan as second-line treatment for patients
+with small-cell lung cancer. J Clin Oncol. 2014;32(35):4012-4019.
+86. Trigo J, Subbiah V, Besse B, et al. Lurbinectedin as second-line
+treatment for patients with small-cell lung cancer: a single-arm,
+open-label, phase 2 basket trial. Lancet Oncol. 2020;21(5):645-654.
+
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+A.-M. C. Dingemans et al.
+
+Annals of Oncology
+
+87. Jazz Pharmaceuticals. Jazz Pharmaceuticals and PharmaMar
+announce results of ATLANTIS phase 3 study evaluating ZepzelcaÔ in
+combination with doxorubicin for patients with small cell lung cancer
+following one prior platinum-containing line. 2020. Available at:
+https://investor.jazzpharma.com/news-releases/news-release-details/
+jazz-pharmaceuticals-and-pharmamar-announce-results-atlantis.
+Accessed February 2, 2021.
+88. Morgensztern D, Besse B, Greillier L, et al. Efﬁcacy and safety of
+rovalpituzumab tesirine in third-line and beyond patients with DLL3expressing, relapsed/refractory small-cell lung cancer: results from
+the phase II TRINITY study. Clin Cancer Res. 2019;25(23):6958-6966.
+89. Yu HA, Arcila ME, Rekhtman N, et al. Analysis of tumor specimens at
+the time of acquired resistance to EGFR-TKI therapy in 155 patients
+with EGFR-mutant lung cancers. Clin Cancer Res. 2013;19(8):22402247.
+90. Ofﬁn M, Chan JM, Tenet M, et al. Concurrent RB1 and TP53 alterations deﬁne a subset of EGFR-mutant lung cancers at risk for histologic transformation and inferior clinical outcomes. J Thorac Oncol.
+2019;14(10):1784-1793.
+91. Marcoux N, Gettinger SN, O’Kane G, et al. EGFR-mutant adenocarcinomas that transform to small-cell lung cancer and other neuroendocrine carcinomas: clinical outcomes. J Clin Oncol. 2019;37(4):278285.
+92. Sugiyama T, Hirose T, Hosaka T, et al. Effectiveness of intensive followup after response in patients with small cell lung cancer. Lung Cancer.
+2008;59(2):255-261.
+93. Sagman U, Lishner M, Maki E, et al. Second primary malignancies
+following diagnosis of small-cell lung cancer. J Clin Oncol.
+1992;10(10):1525-1533.
+94. Gregor A, Cull A, Stephens RJ, et al. Prophylactic cranial irradiation is indicated following complete response to induction therapy in small cell lung cancer: results of a multicentre randomised
+trial. United Kingdom Coordinating Committee for Cancer
+Research (UKCCCR) and the European Organization for Research
+and Treatment of Cancer (EORTC). Eur J Cancer. 1997;33(11):
+1752-1758.
+
+Volume 32
+
+-
+
+Issue 7
+
+-
+
+2021
+
+95. Le Péchoux C, Laplanche A, Faivre-Finn C, et al. Clinical neurological
+outcome and quality of life among patients with limited small-cell
+cancer treated with two different doses of prophylactic cranial irradiation in the intergroup phase III trial (PCI99-01, EORTC 22003-08004,
+RTOG 0212 and IFCT 99-01). Ann Oncol. 2011;22(5):1154-1163.
+96. Wolfson AH, Bae K, Komaki R, et al. Primary analysis of a phase II
+randomized trial Radiation Therapy Oncology Group (RTOG) 0212:
+impact of different total doses and schedules of prophylactic cranial
+irradiation on chronic neurotoxicity and quality of life for patients
+with limited-disease small-cell lung cancer. Int J Radiat Oncol Biol
+Phys. 2011;81(1):77-84.
+97. Belderbos J, Ruysscher D, Jaeger K, et al. OC-0503 phase III trial of
+prophylactic cranial irradiation with or without hippocampus avoidance in SCLC. Radiother Oncol. 2019;133:S259.
+98. De Ruysscher D, Niedermann G, Burnet NG, et al. Radiotherapy
+toxicity. Nat Rev Dis Primers. 2019;5(1):13.
+99. Aarts MJ, Aerts JG, van den Borne BE, et al. Comorbidity in patients
+with small-cell lung cancer: trends and prognostic impact. Clin Lung
+Cancer. 2015;16(4):282-291.
+100. Ferris MJ, Jiang R, Behera M, et al. Radiation therapy is associated
+with an increased incidence of cardiac events in patients with small
+cell lung cancer. Int J Radiat Oncol Biol Phys. 2018;102(2):383-390.
+101. Parsons A, Daley A, Begh R, et al. Inﬂuence of smoking cessation after
+diagnosis of early stage lung cancer on prognosis: systematic review
+of observational studies with meta-analysis. BMJ. 2010;340:b5569.
+102. Chen J, Qi Y,Wampﬂer JA, et al. Effect of cigarette smoking on quality of life
+in small cell lung cancer patients. Eur J Cancer. 2012;48(11):1593-1601.
+103. Dobson Amato KA, Hyland A, Reed R, et al.Tobacco cessation may improve
+lung cancer patient survival. J Thorac Oncol. 2015;10(7):1014-1019.
+104. Cherny NI, Dafni U, Bogaerts J, et al. ESMO-Magnitude of Clinical
+Beneﬁt Scale version 1.1. Ann Oncol. 2017;28(10):2340-2366.
+105. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001;33(2):139-144 (adapted from: Gross PA, Barrett TL,
+Dellinger EP, et al. Purpose of quality standards for infectious diseases. Clin Infect Dis. 1994;1918:1421).
+
+https://doi.org/10.1016/j.annonc.2021.03.207
+
+853
+
+

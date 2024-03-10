@@ -1,0 +1,1220 @@
+Annals of Oncology 28 (Supplement 4): iv41–iv51, 2017
+doi:10.1093/annonc/mdx219
+
+CLINICAL PRACTICE GUIDELINES
+
+Chronic myeloid leukaemia: ESMO Clinical Practice
+Guidelines for diagnosis, treatment and follow-up†
+A. Hochhaus1, S. Saussele2, G. Rosti3, F.-X. Mahon4, J. J. W. M. Janssen5, H. Hjorth-Hansen6, J. Richter7 &
+C. Buske8, on behalf of the ESMO Guidelines Committee*
+1
+
+Klinik für Innere Medizin II, H€amatologie/Onkologie, Universit€atsklinikum Jena, Jena; 2III. Medizinische Klinik, Universit€atsmedizin Mannheim, Fakult€at für Klinische
+Medizin Mannheim der Universit€at Heidelberg, Mannheim, Germany; 3Department of Experimental, Diagnostic and Specialty Medicine, Institute of Haematology
+and Medical Oncology Lorenzo ed Ariosto Seragnoli, Bologna University School of Medicine, Bologna, Italy; 4CHU de Bordeaux, Bordeaux, France; 5Department of
+Hematology, VU University Medical Center, Amsterdam, The Netherlands; 6Department of Hematology, St Olavs Hospital and Department of Cancer Research and
+Molecular Medicine, NTNU, Trondheim, Norway; 7Department of Hematology, Oncology and Radiation Physics, Skane University Hospital, Lund, Sweden; 8CCC
+Ulm, Institut für Experimentelle Tumorforschung, Universit€atsklinikum Ulm, Ulm, Germany
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org
+†
+Approved by the ESMO Guidelines Committee: August 2003, last update May 2017. This publication supersedes the previously published version—Ann Oncol 2012;
+23(Suppl 7): vi72–vi77.
+
+Epidemiology
+The incidence of chronic myeloid leukaemia (CML) ranges between 10 and 15 cases/106/year without any major geographic or
+ethnic differences [1]. The median age at diagnosis ranges between 60 and 65 years in Europe, but is considerably lower in
+countries with a younger population. The prevalence of CML is
+steadily rising due to the substantial prolongation of survival that
+has been achieved with targeted therapy [2]. CML in children is
+rare; biology and treatment strategies in paediatric patients reveal
+specific aspects [3]. Therefore, these recommendations are primarily intended for use in adult patients.
+
+Pathophysiology and diagnostic evaluation
+CML is a disease of haemopoietic stem cells, arising from a translocation t(9;22)(q34;q11), with the shortened chromosome 22,
+designated as Philadelphia chromosome, 22q-. The translocation
+leads to a juxtaposition of the ABL1 gene from chromosome 9
+and the BCR gene from chromosome 22, resulting in a BCR–
+ABL1 fusion gene that codes for BCR–ABL1 transcripts and fusion proteins with high tyrosine kinase activity. The molecular
+pathogenesis of CML is well understood, but the mechanism that
+leads to the gene translocation is unknown [1].
+Diagnosis of CML is generally straightforward. In most cases,
+the diagnosis can be made on the basis of a characteristic blood
+count and differential (excessive granulocytosis with typical left
+shift of granulopoiesis). Confirmation of diagnosis is obtained
+by the identification of the Philadelphia chromosome, 22q- or
+
+BCR–ABL1 transcripts, or both, in peripheral blood or bone marrow (BM) cells. In 5% of cases the Philadelphia chromosome
+cannot be detected and confirmation of diagnosis depends on the
+confirmation of the BCR–ABL1 fusion by either fluorescent in
+situ hybridisation (FISH) or by reverse transcriptase polymerase
+chain reaction (RT-PCR). These patients should be treated the
+same way as Philadelphia-positive (Phþ) patients. Therapeutic
+response is comparable [4]. In some patients with features of
+CML, no Philadelphia chromosome or BCR–ABL1 rearrangement can be detected [1]. These patients are referred to as
+Philadelphia-negative (Ph) and BCR–ABL1 negative, or as
+atypical CML, according to the World Health Organization
+(WHO) classification, and represent a separate disease entity [5].
+Treatment of atypical CML is beyond the scope of these
+guidelines.
+BCR–ABL1 positive cells are genetically unstable and are prone
+to develop multiple and heterogeneous genomic abnormalities,
+resulting in the transformation of the leukaemic phenotype from
+chronic to acute, hence leading to the progression from chronic
+(CP) to accelerated (AP) and blast (BP) phases (Table 1) [5, 6].
+Table 1 compares the WHO and the European LeukemiaNet
+(ELN) definitions of CML phases. Of note, the ELN definition
+has been used in almost all clinical trials assessing the efficacy of
+tyrosine kinase inhibitors (TKIs) and is recommended as a basis
+for treatment decisions.
+Progression may be based on BCR–ABL1-dependent factors,
+e.g. point mutations of the kinase domain, associated with resistance to TKIs, or BCR–ABL1-independent factors, e.g. additional
+cytogenetic aberrations causing clonal evolution.
+
+C The Author 2017. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+V
+All rights reserved. For Permissions, please email: journals.permissions@oup.com.
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 1. Clinical and haematological criteria for the deﬁnition of AP and BP according to WHO [5] and ELN [6]
+Accelerated phase
+
+Blast phase
+
+WHO
+Spleen
+
+ELN
+
+Persisting or increasing splenomegaly unresponsive to therapy
+9
+
+WHO
+
+ELN
+
+–
+
+–
+
+–
+
+WBC count
+
+Persisting or increasing WBC count (> 10 x 10 /L) unresponsive
+to therapy
+
+–
+
+–
+
+–
+
+Blast cellsa
+
+10%–19%
+
+15%–29%
+
+ 20%
+
+ 30%
+
+> 20%
+
+–
+
+–
+
+a
+
+Basophils
+
+> 20%
+9
+
+Platelet count
+
+> 1000 x 10 /L uncontrolled by therapy
+< 100 x 109/L unrelated to therapy
+
+–
+Yes
+
+–
+–
+
+–
+–
+
+CCA/Phþ
+
+Any new clonal aberration during therapy
+Additional clonal chromosomal abnormalities in Ph cells at
+diagnosis that include ‘major route’ abnormalities (second
+Ph, trisomy 8, isochromosome 17q, trisomy 19), complex
+karyotype or abnormalities of 3q26.2
+
+Present
+
+–
+
+–
+
+Extramedullary involvementb
+
+–
+
+–
+
+Present
+
+Present
+
+‘Provisional’ responseto-TKI criteria
+
+Haematological resistance to the ﬁrst TKI (or failure to achieve a
+complete haematological responsec to the ﬁrst TKI) or
+Any haematological, cytogenetic or molecular indications of
+resistance to 2 sequential TKIs or
+Occurrence of 2 or more mutations in BCR–ABL1 during TKI
+therapy
+
+The criteria of AP are different, reﬂecting the difﬁculty of making the diagnosis of this transitory phase. The criteria of BP differ only for the percent of blast
+cells. Only one of the listed criteria is sufﬁcient for the diagnosis of AP or BP.
+a
+In peripheral blood or in BM.
+b
+Excluding liver and spleen, including lymph nodes, skin, CNS, bone and lung.
+c
+Complete haematological response: WBC < 10  109/L; platelet count < 450  109/L, no immature granulocytes in the differential and spleen nonpalpable.
+AP, accelerated phase; BM, bone marrow; BP, blast phase; CCA/Phþ, clonal chromosome abnormalities in Phþ cells; CNS, central nervous system; ELN,
+European LeukemiaNet; Ph, Philadelphia; TKI, tyrosine kinase inhibitor; WBC, white blood cell; WHO, World Health Organization.
+
+BM biopsies taken at diagnosis show increased cellularity due
+to proliferation of the myelopoiesis in all stages of maturation
+with predominance of mature forms. Basophilia is common, and
+eosinophils may be prominent. Proportion of blasts vary; but, according to ELN recommendations [6], CP disease is associated
+with < 15% blasts in blood and BM. Megakaryocytes are smaller
+than normal with hypolobulated nuclei. Moderate to marked reticulin fibrosis is encountered in 30% of cases. Pseudo-Gaucher
+cells and sea-blue histiocytes are usually observed. BM composition undergoes rapid changes during therapy. These consist of
+reduction of the granulocytic cellularity, normalisation of megakaryopoiesis, regression of fibrosis, lymphocytosis and normalisation of erythropoiesis.
+The recognition of disease progression from CP to BP is relevant for prognosis and treatment. However, the clinical and
+morphological boundaries between these stages are sometimes
+vague. Immunocytology by flow cytometry and histochemistry
+allow accurate assessment of immature cells and distinction between
+myeloid (70%–80%) and lymphoid (20%–30%) blast crisis [1].
+About 50% of patients with CML diagnosed in Europe are
+asymptomatic. The disease is frequently diagnosed after blood
+
+iv42 | Hochhaus et al.
+
+tests are taken for some unrelated reason. At diagnosis, most
+(90%–95%) CML patients present in CP; initial BP is rare [1, 7].
+The designation of an AP at diagnosis is conflicting but the term
+should be used during therapy. Common signs and symptoms
+of CML CP, when present, result from anaemia and splenomegaly. These include fatigue, weight loss, malaise and left
+upper quadrant fullness or pain. Rare manifestations include
+bleeding (associated with a low platelet count and/or platelet
+dysfunction), thrombosis (associated with thrombocytosis and/
+or marked leukocytosis), gouty arthritis (from elevated uric
+acid levels), retinal haemorrhages and upper gastrointestinal ulceration (from elevated histamine levels due to basophilia).
+Leukostatic symptoms (priapism, dyspnoea, drowsiness, loss of
+coordination, confusion) due to leukaemic cells sludging in the
+blood vessels are uncommon in CP despite white blood cell
+(WBC) count often exceeding 100 109/L. Splenomegaly is the
+most consistent physical sign detected in 40%–50% of cases.
+Hepatomegaly is less common. Extramedullary infiltration
+(apart from spleen and liver) is rare. Headaches, bone pain,
+arthralgias, pain from splenic infarction and fever are more frequent with CML transformation [7].
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 2. Recommendations for diagnostic work-up, assessment of response and monitoring
+Baseline
+To assess the response
+(diagnostic work-up)
+
+To monitor the response and the treatment
+
+Blood counts and
+differential
+
+Yes
+
+Every 15 days until a CHR without
+Every 3 months
+signiﬁcant cytopaenias has been achieved
+
+BM, cytology
+
+Yes
+
+No
+
+No
+
+BM, karyotype
+
+Yes
+
+At 3 and 6 months
+
+Then every 6 months until CCyR has been achieved
+
+Blood, iFISH
+
+No
+
+No
+
+Only if cytogenetics of BM metaphases cannot
+be analysed or is normal and molecular response
+cannot be assessed
+
+Blood, RT-PCR (qualitative)
+
+Yes
+
+No
+
+No
+
+Blood, qRT-PCR
+No
+(quantitative, BCR–ABL %)
+
+Every 3 months
+
+Every 4–6 weeks in ﬁrst year after
+treatment discontinuation
+
+Mutational analysis
+
+No
+
+Only in the case of failure
+
+Only in AP or BP
+
+AP, accelerated phase; BM, bone marrow; BP, blast phase; CCyR, complete cytogenetic response; CHR, complete haematological response; iFISH, interphase ﬂuorescent in situ hybridisation; qRT-PCR: quantitative RT-PCR; RT-PCR, reverse transcriptase polymerase chain reaction.
+
+On TKI therapy, most patients restore normal haematopoiesis.
+Transient cytopaenias occur due to delayed recovery of normal
+haematopoiesis but good efficacy against leukaemia. CML AP
+might present with non-specific symptoms, worsening anaemia,
+splenomegaly and organ infiltration; CML BP presents as an
+acute leukaemia with worsening constitutional symptoms, bleeding, fever and infections.
+Diagnosis must be confirmed by cytogenetics showing
+t(9;22)(q34;q11) and by multiplex RT-PCR showing BCR–ABL1
+transcripts. In rare cases, BCR–ABL1 juxtaposition can be determined by interphase FISH (iFISH) of blood cells, using dual
+colour dual fusion probes that allow the detection of BCR–
+ABL1þ nuclei. Cytogenetic assessment is required because it is
+necessary to detect additional chromosome abnormalities.
+Qualitative multiplex RT-PCR is carried out on blood or BM
+RNA. It identifies the transcript type, either typical e14a2 or e13a2
+(also known as b3a2 and b2a2) or atypical variants. Determination
+of the transcript type is crucial for later monitoring, in particular for
+the accurate assessment of molecular response.
+Quantitative RT-PCR (qRT-PCR) measuring BCR–ABL1 transcripts level as BCR–ABL1 % on the International Scale (IS) and
+BCR–ABL1 mutation analysis are not required at baseline. Baseline
+mutational analysis in patients with newly diagnosed CML CP is
+not advised, as this has not been proven to provide information on
+optimal treatment selection and to predict therapeutic outcome.
+Recommendations for the baseline diagnostic work-up are
+summarised in Table 2 [V, A].
+
+Staging and risk assessment
+The relative risk of a patient with CML can be calculated using simple clinical and haematological data provided that they were collected before any treatment. The Sokal score has been developed in
+the chemotherapy era and the Euro score in the interferon alpha
+(IFNa) era, with survival as the endpoint for both. The chance of
+
+Volume 28 | Supplement 4 | August 2017
+
+achieving a complete cytogenetic response (CCyR) after 18 months
+of TKI therapy can be estimated with the European Treatment and
+Outcome Study (EUTOS) score. The EUTOS Long-Term Survival
+(ELTS) score for patients on TKI therapy considers CML-related
+deaths only (Table 3) [III, A] [8]. Despite randomised first-line trials employing different scores, the intrinsic risk of early acceleration
+or blast crisis in low-risk patients is low with all available TKIs.
+Major route cytogenetic aberrations (þ8, iso(17q), þ19, þ22q-), chromosome 3 aberrations and BM fibrosis at
+diagnosis have been associated with an unfavourable outcome
+after imatinib therapy [9] and are considered warning signs.
+
+First-line management of chronic phase
+CML
+The three commercially available TKIs for the front-line treatment
+of CML are imatinib, dasatinib and nilotinib (Figure 1); options for
+first-line therapy in CML CP are imatinib 400–800 mg/day, nilotinib
+300 mg twice daily or dasatinib 100 mg/day. TKI selection should be
+based on treatment goals, age and comorbidities and should take
+into consideration the adverse event (AE) profile of the available
+drugs. With all three TKIs, overall survival (OS) after 5 years is 85%–
+95% [I, A]. So far, no significant survival difference between imatinib and second generation inhibitors has been observed.
+Imatinib mesylate was the first TKI to receive approval for the
+treatment of patients with CML CP. It acts via competitive inhibition
+at the adenosine triphosphate (ATP)-binding site of the BCR–ABL1
+oncoprotein, which results in the inhibition of phosphorylation of
+proteins involved in cell signal transduction. It efficiently inhibits the
+BCR–ABL1 kinase, but, among others, also blocks the plateletderived growth factor (PDGF) receptors and the KIT tyrosine kinase.
+The International Randomised Study of Interferon and STI571
+(IRIS) study is considered a landmark clinical trial for CML treatment
+with TKIs. A total of 1106 patients in CML CP were randomised to
+
+doi:10.1093/annonc/mdx219 | iv43
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 3. Calculation of the relative risk of a patient with CML using clinical and haematological data obtained before any treatment [8]
+Sokal
+
+EURO
+
+EUTOS
+
+ELTS
+
+Age (years)
+Spleen sizea (cm)
+Platelet count (109/L)
+Blood blast cells (%)
+Blood basophils (%)
+Blood eosinophils (%)
+
+0.116 (age - 43.4)
+0.345  (spleen - 7.51)
+0.188  [(platelets/700)2 - 0.563]
+0.887  (blast cells - 2.10)
+N/A
+N/A
+
+0.666 when age > 50
+0.042  spleen
+1.0956 when platelets  1500
+0.0584  blast cells
+0.20399 when basophils > 3%
+0.0413  eosinophils
+
+N/A
+4  spleen
+N/A
+N/A
+7  basophils
+N/A
+
+0.0025  (age/10)3
+0.0615  spleen
+0.4104  (platelets/1000)0.5
+0.1052  blast cells
+
+Relative risk
+Low
+Intermediate
+High
+
+Exponential of the total
+< 0.8
+0.8–1.2
+ 1.2
+
+Total  1000
+ 780
+781–1480
+ 1480
+
+Total
+ 87
+N/A
+ 87
+
+Total
+ 1.5680
+1.5680–2.2185
+ 2.2185
+
+Endpoint
+
+Survival
+
+Survival
+
+CCyR
+
+CML-speciﬁc survival
+
+a
+Spleen size is measured by manual palpation and expressed as maximum distance perpendicular from costal margin.
+CCyR, complete cytogenetic response; CML, chronic myeloid leukaemia; ELTS, EUTOS Long-Term Survival; EUTOS, European Treatment and Outcome
+Study; N/A, not applicable.
+
+receive imatinib 400 mg/day or IFNa plus low-dose cytarabine. After
+a median follow-up of 19 months, outcomes for patients receiving
+imatinib were significantly better than in those treated with IFNa plus
+cytarabine, notably the rates of CCyR (74% versus 9%, P < 0.001),
+and freedom from progression to AP or BP at 12 months (99% versus
+93%, P < 0.001) [10]. Responses to imatinib were also durable: in a
+10-year follow-up of the IRIS study, the estimated event-free survival
+rate was 79.6%, and the OS rate was 83.3% [11].
+
+High-dose imatinib and combination with IFNa
+Other strategies for front-line therapy include using higher doses
+of imatinib or combining a TKI with an additional agent, such as
+IFNa. In the German CML IV study, patients with tolerance- and
+response-adapted high-dose imatinib achieved deep molecular
+remission (DMR) more quickly than patients on standard-dose
+imatinib [12, 13]. A recent meta-analysis revealed an advantage
+of high-dose imatinib with regard to achievement of major molecular response (MMR) at 12 months of therapy [14].
+IFNa has re-emerged as an interesting therapeutic option in
+CML with the advent of PEGylated formulations (with polyethylene glycol PEG) requiring less frequent administration, improved
+efficacy and tolerability. In the French SPIRIT trial, patients were
+randomised to receive imatinib 400 or 600 mg/day, imatinib
+400 mg/day plus PEG-IFNa-2a, or imatinib 400 mg/day plus
+subcutaneous cytarabine. At 12 months, rates of CCyR were
+similar among the 4 groups. The imatinib plus PEG-IFNa-2atreated group obtained higher rates of MMR and DMR [15].
+PEGylated IFNa in combination with dasatinib appeared to
+improve molecular response rates in a single-armed phase II study
+with historical controls [16]. IFNa maintenance after TKI therapy
+may help to bridge to treatment-free remission (TFR) [17]. In all,
+despite lack of registration, PEGylated IFNa is promising as an
+agent to increase the proportion of patients that may discontinue
+(see Table 4), but must still be considered investigational.
+Dasatinib is an oral, second generation multikinase TKI that is
+350 times more potent than imatinib in vitro and inhibits multiple kinases including Src-family members. The DASISION trial
+
+iv44 | Hochhaus et al.
+
+was a phase III randomised study comparing dasatinib 100 mg/
+day to imatinib 400 mg/day in 519 newly diagnosed patients with
+CML. Patients assigned to dasatinib achieved confirmed CCyR at
+12 months more often than those on imatinib (77% versus 66%,
+P < 0.007). A 5-year follow-up showed that dasatinib induced
+more rapid and deeper responses at early time points compared
+with imatinib. At 3 months, a higher proportion of patients
+treated with dasatinib achieved BCR–ABL1 transcripts <10% on
+the IS (84% versus 64%, P < 0.0001). Meeting this threshold in
+either arm predicted for better progression-free survival (PFS)
+and OS. Transformations to CML AP or CML BP were fewer in
+patients treated with dasatinib versus imatinib at 5 years (4.6%
+versus 7.3%) [18, 19].
+Nilotinib is a structural analogue of imatinib. Compared with
+imatinib, the in vitro affinity for the BCR-ABL1 ATP-binding
+site is 30- to 50-fold higher. In the ENESTnd study, two doses of
+nilotinib (300 or 400 mg twice daily) were compared with imatinib 400 mg/day. The primary endpoint, MMR rate at 12 months,
+was achieved at higher rates for both doses of nilotinib compared
+with imatinib (44% and 43% versus 22%, P < 0.001). The cumulative incidence of CCyR by 24 months was 87% and 85% with
+nilotinib 300 mg twice daily, and 400 mg twice daily, respectively, and 77% with imatinib 400 mg/day (P < 0.001). By 5 years,
+the cumulative incidences of MMR by 60 months were 77%,
+77% and 60%, respectively (P < 0.0001). The incidences of DMR
+with BCR–ABL1 transcripts [IS]  0.0032% (equivalent to a 4.5
+log reduction) by 72 months were 56%, 55% and 33%, respectively (P < 0.0001). The incidences of transformation to AP or BP
+were 3.9%, 2.1%, and 7.4%, respectively (P ¼ 0.06 and 0.003, respectively). The estimated 5-year survival rates were 94%, 96%,
+and 92%, respectively. While nilotinib was superior to imatinib
+across all Sokal score categories in inducing higher rates of CCyR
+and MMR, the advantage in reducing the rates of transformation
+was more pronounced in patients with intermediate- and highSokal-risk CML. The rates of transformations were 1%, 1% or
+0% in Sokal low-risk patients treated with nilotinib 300 mg twice
+daily, 400 mg twice daily or imatinib 400 mg/day. The rates were
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Institutional requirements for safe supervision of TFR:
+1. Availability of high quality internationally standardised, accurate,
+sensitive qRT-PCR laboratory
+2. Rapid turn-around of PCR test results—within 4 weeks
+3. Capacity to provide PCR tests every 4–6 weeks, when required
+4. Structured follow-up established to enable rapid intervention
+if BCR-ABL1 is rising
+
+Ponatinib
+
+Green criteria, which support treatment-free remission:
+1. Institutional criteria met
+2. Sokal-Score at diagnosis non-high
+3. Typical b2a2- or b3a2-BCR–ABL1 transcripts, or atypical transcripts
+which can be quantiﬁed over a 4.5 log dynamic range
+4. Chronic phase disease
+5. Optimal response to ﬁrst-line therapy
+6. Duration of TKI therapy > 5 years
+7. MR4.5 reached
+8. Duration of deep molecular response (MR4 or MR4.5) (standardised
+lab) > 2 years
+
+SCT consideration In many cases
+
+Any of the
+remaining TKIs
+Nilotinib,
+dasatinib,
+bosutinib,
+ponatinib
+
+Failure of and/or
+intolerance to 2nd line TKIs
+Failure of 1st line
+nilotinib or dasatinib
+
+3rd line
+
+Any line, T315l mutation
+
+Table 4. Minimum requirements for treatment-free remission [40]
+
+MR, molecular response; PCR, polymerase chain reaction; qRT-PCR,
+quantitative reverse transcriptase PCR; TFR, treatment-free remission;
+TKI, tyrosine kinase inhibitor.
+Republished from [40] with permission of the American Society of
+Hematology; permission conveyed through Copyright Clearance
+Center, Inc.
+
+Figure 1. Treatment options for chronic phase CML patients.
+CML, chronic myeloid leukaemia; SCT, stem cell transplantation; TKI, tyrosine kinase inhibitor.
+
+Nilotinib,
+dasatinib,
+bosutinib,
+ponatinib
+Imatinib,
+nilotinib,
+dasatinib,
+bosutinib
+
+Volume 28 | Supplement 4 | August 2017
+
+SCT investigation warranted
+
+Failure of 1st
+line imatinib
+Intolerance
+to 1st TKI
+
+Imatinib,
+nilotinib,
+dasatinib
+
+1st line
+
+2nd line
+
+2%, 1% or 10% among patients with intermediate Sokal risk and
+9%, 5% or 11% among patients with high Sokal risk [20, 21].
+
+Selecting first-line therapy
+Therapy goals should be discussed with the patient and defined before the selection of the first-line drug. With all three TKIs licensed
+for first-line therapy, survival chances are similar [I, A]. However,
+the chance to achieve DMR with an option to discontinue therapy
+is higher with dasatinib and nilotinib as compared with imatinib
+[V, C]. This may be particularly relevant for young female patients
+with a wish to become pregnant and for all patients with a long life
+expectancy. Risk of transformation to AP and BP is lower in Sokal
+non-low-risk patients using dasatinib or nilotinib [I, A]. The use of
+generic imatinib may be considered to reduce cost of therapy substantially, but also for its safety profile, particularly in elderly patients [22]. In some countries imatinib may be mandatory for firstline use on cost-effectiveness/reimbursement grounds. However,
+many different forms of generic imatinib are being commercialised
+worldwide and precise information on the tolerance and efficacy of
+each of these different compounds are rare. Recent results from a
+randomised study (ClinicalTrials.gov Identifier: NCT02130557)
+suggest the alternative use of bosutinib 400 mg/day as first-line therapy for CP CML patients, but registration is pending.
+Comorbidities are the major cause of death in CML patients
+and may be aggravated by AEs [23]. Therefore, patient’s age,
+comorbidities and the specific TKI toxicity profile should be considered [V, B]. For patients at risk of developing pleural effusions
+(existing lung disorders or uncontrolled hypertension), dasatinib
+should be avoided. Pulmonary arterial hypertension (PAH) is a
+rare complication of dasatinib, and patients with pre-existing
+
+doi:10.1093/annonc/mdx219 | iv45
+
+Clinical Practice Guidelines
+PAH may be considered for alternative TKIs in the front-line setting. Dasatinib also inhibits platelet function, and patients taking
+concomitant anticoagulants may be at an increased risk of haemorrhagic complications [V, B].
+Nilotinib has been associated with hyperglycaemia; caution
+should be exercised in patients with uncontrolled diabetes mellitus (DM) when initiating therapy. Patients should take nilotinib
+on an empty stomach to avoid excess drug exposure with fatcontaining food. Nilotinib has also been associated with vasospastic and vaso-occlusive vascular events, such as ischaemic
+heart disease, ischaemic cerebrovascular events and peripheral artery occlusive disease [I, C]. Nilotinib use should be prescribed
+with caution in patients with risk factors such as DM or coronary,
+cerebrovascular or peripheral arterial disease. A thorough intervention against cardiovascular risk factors such as smoking,
+hyperlipidaemia, hypertension and DM is warranted [V, A].
+Imatinib causes persisting but mostly mild to moderate side-effects with significant impact on quality of life (QoL) including
+weight gain, fatigue, peripheral and periorbital oedema bone and
+muscle aches, nausea and others. All available TKIs may prolong the
+QT interval; thus, potassium and magnesium should be repleted to
+appropriate serum levels before starting therapy [V, B].
+Hydroxyurea (40 mg/kg body weight/day) may be used as initial
+therapy before confirmation of the BCR–ABL1 fusion and immediate need for therapy because of high leukocyte counts or clinical
+symptoms. TKI therapy should be commenced immediately after
+confirmation of BCR–ABL1 positivity. It is recommended to taper
+the hydroxyurea dose before its discontinuation.
+To avoid tumour lysis syndrome, 2.5–3 L fluid intake is recommended per day considering the individual cardiac and/or renal situation. Sodium bicarbonate may be used to set the urine pH to 6.4–
+6.8 for optimal uric acid clearance. Allopurinol may increase the risk
+of xanthine accumulation with renal failure and should therefore be
+restricted to patients with symptomatic hyperuricaemia.
+The recommendations on follow-up therapy are based on the assessment of the response (Table 5) and on the definition of the response (Table 6). The response to TKIs can be classified as optimal,
+meaning that continuing treatment survival is predicted to be normal or close to normal; and failure, meaning that treatment must
+be switched to an alternative TKI, or allogeneic stem cell transplantation (alloSCT) should be considered. Between optimal and
+failure, there is a grey zone that is defined as ‘warning’, meaning
+that the response must be monitored more carefully and that the
+patient may be eligible for potentially better treatments [V, A] [6].
+The choice of treatment, particularly the decision of moving from
+one treatment to another, strongly depends on the response to treatment, i.e. on the degree of the cytogenetic response, molecular response and on the detection of BCR–ABL1 kinase domain mutations.
+
+Cytogenetic monitoring
+Cytogenetic monitoring must be carried out by analysis of marrow
+cell metaphases, reporting the proportion of Phþ metaphases of at
+least 20 metaphases analysed. The cytogenetic response is defined
+as complete (CCyR) with 0% Phþ metaphases, partial (PCyR)
+with 1%–35% Phþ metaphases, minor with 36%–65%
+Phþ metaphases, minimal with 66%–95% Phþ metaphases and
+none if > 95% of metaphases are still Phþ. iFISH data cannot be
+used to calculate the cytogenetic response categories.
+
+iv46 | Hochhaus et al.
+
+Annals of Oncology
+Table 5. Assessment of response
+CHR (Complete haematological response)
+WBC count < 10109/L
+No immature granulocytes
+Basophils < 5%
+Platelet count < 450109/L
+Spleen non-palpable
+Cytogenetic response (CyR)
+Complete CyR
+No Phþ metaphases by CBA, or < 1%
+BCR–ABLþ nuclei by iFISH out of  200 cells
+Partial CyR
+1%–35% Phþ metaphases by CBA
+Minor CyR
+36%–65% Phþ metaphases by CBA
+Minimal CyR
+66%–95% Phþ metaphases by CBA
+No CyR
+
+> 95% Phþ metaphases by CBA
+
+Molecular response (MR)
+Major MR (MMR)
+BCR–ABL transcript level  0.1% on the
+International Scale
+Deep MR:
+MR4
+BCR–ABL transcript level  0.01% on the
+International Scale or
+BCR–ABL not detectable with at least
+10 000 ABL or 24 000 GUS transcripts
+MR4.5
+BCR–ABL transcript level  0.0032% on the
+International Scale or
+BCR–ABL not detectable with at least
+32 000 ABL or 77 000 GUS transcripts
+CBA, chromosome banding analysis; iFISH, interphase ﬂuorescent in
+situ hybridisation; Ph, Philadelphia; WBC, white blood cell.
+
+Molecular monitoring
+A quantification of BCR–ABL1 mRNA, performing qRT-PCR
+from 10 to 20 mL ethylenediaminetetraacetic acid (EDTA)-anticoagulated peripheral blood, is required every 3 months. This
+method represents the most sensitive tool for the assessment of
+the disease status, particularly of measurable residual disease.
+BCR–ABL1 transcript levels should be expressed according to the
+IS (BCR–ABL1IS %) to guarantee comparability of results among
+laboratories. Therefore, local methods require thorough optimisation and harmonisation with reference laboratories [24–26].
+Early molecular response at 3 months (BCR–ABL1IS  10%) predicts survival and chance of eventually achieving DMR [27].
+Intervals can be prolonged from 3 to 6 months after repeated
+achievement of an MMR (BCR–ABL1IS  0.1%, 3 log reduction
+from standardised baseline) or reduced to 4–6 weeks after treatment discontinuation. Significant rises of BCR–ABL1 transcript
+levels (fivefold accompanied by loss of MMR) during long-term
+therapy are early indicators for treatment failure or nonadherence. The achievement of DMR (MR4, MR4.5, MR5, i.e. 4–5
+log reduction) during TKI treatment is prerequisite for therapy
+interruptions within controlled trials [III, A] [28].
+More than 100 different kinase domain mutations of BCR–
+ABL1 that impair TKI binding have been reported in patients who
+develop TKI resistance. In the case of mutations, second-line therapy should be selected according to the sensitivity of the individual
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Second and third generation TKIs
+
+Table 6. Deﬁnition of the response to TKI therapy (any line)
+Milestones
+
+Failure
+
+Diagnosis
+
+Warning
+
+Optimal
+response
+
+Score: High-risk
+Additional
+chromosomal
+aberrations ‘major
+route’ in
+Phþ metaphases
+No CHR
+Ph > 95%
+
+6 months
+
+Ph > 35%
+Ph 1%–65%
+BCR–ABL > 10% BCR–ABL 1%–10%
+
+Ph 0%
+BCR–ABL < 1%
+
+12 months
+
+Ph  1%
+
+BCR–ABL
+< 0.1%
+
+BCR–ABL > 1%
+> 18 months
+Anytime
+
+Ph 36%–95%
+BCR–ABL >10%
+
+Ph  35%
+BCR–ABL < 10%
+
+3 months
+
+BCR–ABL 0.1%–1%
+BCR–ABL 0.1%–1%
+
+BCR–ABL
+< 0.01%*
+
+Relapse, loss
+of MMR
+
+These deﬁnitions are a provisional adaptation of the original ELN deﬁnitions [6]. Operationally, ‘optimal’ means to continue the treatment, ‘failure’ to change the treatment, and ‘warning’ to monitor more carefully
+and to be ready to consider a change of treatment.
+*For patients with the aim to achieve treatment-free remission.
+CHR, complete haematological response; ELN, European LeukemiaNet; MMR,
+major molecular response; Ph, Philadelphia; TKI, tyrosine kinase inhibitor.
+Modiﬁed from [6] with permission of the American Society of Hematology;
+permission conveyed through Copyright Clearance Center, Inc.
+
+mutation. In particular, V299L, T315A and F317L/V/I/C are resistant to dasatinib. Y253H, E255K/V and F359V/C/I are resistant to
+nilotinib, and V299L to bosutinib. T315I is resistant to all TKIs except ponatinib. Recommendations on the use of mutational analysis have recently been presented by the ELN [V, A]:
+• During ﬁrst-line therapy, analysis is due in the case of failure
+and in the case of an increase in BCR–ABL1 transcript levels
+leading to a loss of MMR.
+• During second-line therapy, analysis is due in the case of haematological or cytogenetic failure or in the case of pre-existing
+mutations.
+• In the case of AP or BP, mutational analysis is always due.
+In any case, the mutation result should be accompanied by an
+estimation of the size of the mutated clone to confirm the association of refractoriness with this specific mutation [29].
+
+Management of resistant and refractory
+disease
+Before defining a patient as having TKI resistance and modifying
+therapy, treatment compliance and drug–drug interactions
+should be assessed.
+
+Volume 28 | Supplement 4 | August 2017
+
+Before their approval to treat first-line CML CP, both nilotinib
+and dasatinib were approved for use in second-line CML CP following prior therapy including imatinib. In Europe, bosutinib is
+approved for CML patients previously treated with one or more
+TKIs and for whom imatinib, nilotinib and dasatinib are not considered appropriate treatment options.
+Second-line treatment with nilotinib, dasatinib or bosutinib
+can yield high rates of response in patients who have inadequate response to imatinib. Dose escalation of imatinib can
+improve response rates in patients with inadequate response to
+standard-dose imatinib, but switching to second-line TKIs can
+be more effective. Several studies have demonstrated significantly higher rates of complete haematological response
+(CHR), CCyR and MMR with the newer TKIs than with highdose imatinib. Moreover, PFS in these studies was better with
+the newer TKIs than with high-dose imatinib. An earlier switch
+to second-line TKI may be more effective than a later switch
+[30–32].
+Bosutinib was initially studied in patients who had resistance
+or intolerance to imatinib. After a dose escalation period, 500 mg
+once daily was selected as the phase II dose. A total of 288 patients
+were enrolled in the pivotal phase II trial; more than two-thirds
+had imatinib-resistant disease. The primary endpoint of major
+cytogenetic response (MCyR) at 6 months was achieved in 31%;
+41% achieved a CCyR. The most common toxicities were diarrhoea, nausea, vomiting and rash. Diarrhoea occurred in 84% of
+patients, with 9% experiencing grade 3 diarrhoea. Other notable
+AEs included mild myelosuppression and liver function test
+abnormalities [32].
+Ponatinib is a third generation TKI, and the first TKI in class to
+exhibit activity against CML with T315I mutation. It is 500 times
+more potent than imatinib at inhibiting BCR–ABL1. After resistance or intolerance to dasatinib or nilotinib, or in the case of the
+T315I mutation, 56% of CP CML patients achieved a MCyR by
+12 months on ponatinib 45 mg/day. Ponatinib should be considered the agent of choice in patients with CML and T315I mutation, and in instances where other TKIs are not indicated. No
+other commercially available TKIs have activity against this
+mutated BCR-ABL1. The risk of serious toxicities (vaso-occlusive
+disease, pancreatitis, hypertension, severe skin rashes) and of
+thrombotic events with ponatinib is significant, but the benefits
+outweigh the risks for patients with a T315I mutation. The incidence of these side-effects is lower with ponatinib 15–30 mg daily
+[33, 34].
+
+How to select a second- or third-line option
+At the time of treatment failure, patients should undergo BM
+examination to allow proper determination of the CML phase
+and documentation of any clonal evolution. All patients should
+have CML cells tested for BCR–ABL1 mutational profile, as this
+will help guide the selection of the TKI.
+For second-line treatment, the choice can be guided by the type
+of AEs which caused the switch, by the side-effect profiles of the different TKIs, mutational profiles, drug interactions, compliance
+issues and the patient’s pre-existing medical conditions. Mutational
+analysis is required in patients who are failing imatinib or second
+
+doi:10.1093/annonc/mdx219 | iv47
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 7. Summary of recommendations
+Diagnosis
+• In most cases, the diagnosis can be made on the basis of a characteristic blood count and differential (excessive granulocytosis with typical left shift of
+
+granulopoiesis). Conﬁrmation of diagnosis is obtained by the identiﬁcation of the Philadelphia chromosome, 22q-, or BCR–ABL1 transcripts, or both, in
+peripheral blood or BM cells.
+• The recognition of disease progression from CP to BP is relevant for prognosis and treatment. Immunocytology by ﬂow cytometry and histochemistry
+allow accurate assessment of immature cells and distinction between myeloid and lymphoid blast crisis.
+• Diagnosis must be conﬁrmed by cytogenetics showing t(9;22)(q34;q11), and by multiplex RT-PCR showing BCR–ABL1 transcripts. In rare cases, BCR–ABL1
+juxtaposition can be determined by iFISH of blood cells, using dual colour dual fusion probes that allow the detection of BCR–ABL1þ nuclei. Cytogenetic
+assessment is required because it is necessary to detect additional chromosome abnormalities.
+• Qualitative multiplex RT-PCR is carried out on blood or BM RNA. It identiﬁes the transcript type, either typical or atypical variants. Determination of the transcript type is crucial for later monitoring, in particular for the accurate assessment of molecular response.
+• Baseline mutational analysis in patients with newly diagnosed CML CP is not advised.
+Staging and risk assessment
+• Major route cytogenetic aberrations (þ8, iso(17q), þ19, þ22q-), chromosome 3 aberrations and BM ﬁbrosis at diagnosis are considered warning signs.
+First-line management of chronic phase CML
+• Options for ﬁrst-line therapy in CML CP are imatinib 400–800 mg/day, nilotinib 300 mg twice daily or dasatinib 100 mg/day. TKI selection should be based
+on treatment goals, age and comorbidities and should take into consideration the AE proﬁle of the available drugs.
+• Other strategies for front-line therapy include using higher doses of imatinib or combining a TKI with an additional agent, such as IFNa.
+• In individual patients, therapy goals should be discussed with the patient and deﬁned before the selection of the ﬁrst-line drug. With all three TKIs licensed
+for ﬁrst-line therapy, survival chances are similar [I, A].
+• Risk of transformation to AP and BP is lower in Sokal non-low risk patients using dasatinib or nilotinib [I, A].
+• Patient’s age, comorbidities and the speciﬁc TKI toxicity proﬁle should be considered [V, B].
+• For patients at risk of developing pleural effusions (existing lung disorders or uncontrolled hypertension), dasatinib should be avoided. PAH is a rare complication of dasatinib, and patients with pre-existing PAH may be considered for alternative TKIs in the front-line setting. Dasatinib also inhibits platelet
+function, and patients taking concomitant anticoagulants may be at an increased risk of haemorrhagic complications [V, B].
+• Patients should take nilotinib on an empty stomach to avoid excess drug exposure with fat-containing food. Nilotinib has also been associated with vasospastic and vaso-occlusive vascular events, such as ischaemic heart disease, ischaemic cerebrovascular events and PAOD [I, C]. Nilotinib use should be prescribed with caution in patients with risk factors such as DM or coronary, cerebrovascular or peripheral arterial disease. A thorough intervention against
+cardiovascular risk factors such as smoking, hyperlipidaemia, hypertension and DM is warranted [V, A].
+• All available TKIs may prolong the QT interval; thus, potassium and magnesium should be repleted to appropriate serum levels before starting therapy [V, B].
+• TKI therapy should be commenced immediately after conﬁrmation of BCR–ABL1 positivity. It is recommended to taper the hydroxyurea dose before its
+discontinuation.
+• To avoid tumour lysis syndrome, 2.5–3 L ﬂuid intake is recommended per day considering the individual cardiac and/or renal situation. Sodium bicarbonate
+may be used to set the urine pH to 6.4–6.8 for optimal uric acid clearance. Allopurinol may increase the risk of xanthine accumulation with renal failure
+and should therefore be restricted to patients with symptomatic hyperuricemia.
+• If the response to TKIs is a failure, the treatment must be switched to an alternative TKI, or alloSCT should be considered. Between optimal and failure, there
+is a grey zone that is deﬁned as ‘warning’, meaning that the response must be monitored more carefully and that the patient may be eligible for potentially better treatments [V, A].
+• Cytogenetic monitoring must be carried out by analysis of marrow cell metaphases, reporting the proportion of Phþ metaphases of at least 20 metaphases analysed. iFISH data cannot be used to calculate the cytogenetic response categories.
+• A quantiﬁcation of BCR–ABL1 mRNA, performing qRT-PCR from 10 to 20 mL EDTA-anticoagulated peripheral blood, is required every 3 months.
+• The achievement of DMR (MR4, MR4.5, MR5, i.e. 4–5 log reduction) during TKI treatment is prerequisite for therapy interruptions within controlled trials [III, A].
+• During ﬁrst-line therapy, mutation analysis is due in the case of failure and in the case of an increase in BCR–ABL1 transcript levels leading to a loss of MMR
+[V, A]. During second-line therapy, analysis is due in the case of haematological or cytogenetic failure or in the case of pre-existing mutations [V, A]. In the
+case of AP or BP, mutational analysis is always due [V, A].
+Management of resistant and refractory disease
+• At the time of treatment failure, patients should undergo BM examination to allow proper determination of the CML phase and documentation of any clonal evolution. All patients should have CML cells tested for BCR–ABL1 mutational proﬁle, as this will help guide the selection of the TKI.
+• Mutational analysis is required in patients who are failing imatinib or second generation TKIs, or those who progress to AP/BP [V, A].
+• Options are imatinib, nilotinib, dasatinib, bosutinib or ponatinib [V, A]. Ponatinib should be considered the agent of choice in patients with CML and T315I
+mutation, and in instances where other TKIs are not indicated.
+• AlloSCT remains an important therapeutic option for patients in CML CP who fail at least 2 TKIs or are potentially harbouring the T315I mutation (after a trial
+of ponatinib therapy) [V, B]. Patients with a high risk for transformation should be considered for alloSCT, since outcome of alloSCT after transformation is
+unfavourable.
+• The only curative option for patients in BP disease is alloSCT. AlloSCT should also be considered early in patients developing AP during TKI treatment or
+high-risk patients with insufﬁcient treatment response [V, B].
+• AlloSCT for advanced disease with a high transplant risk should not be advocated; ongoing drug treatment or best supportive care might be the better option.
+
+iv48 | Hochhaus et al.
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+
+Clinical Practice Guidelines
+
+Table 7. Continued
+Management of AEs, quality of life
+• Treatment discontinuation may be considered in individual patients, if proper, high-quality and certiﬁed monitoring can be ensured. Prerequisites for safe
+
+stopping are institutional requirements for safe supervision, identiﬁcation of typical BCR–ABL1 transcripts at diagnosis, at least 5 years of TKI therapy,
+achievement of MR4.5 and a stability of DMR (at least MR4) for at least 2 years [III, B].
+
+AE, adverse event; alloSCT, allogeneic stem cell transplantation; AP, accelerated phase; BM, bone marrow; BP, blast phase; CML, chronic myeloid leukaemia; CP, chronic phase; DM, diabetes mellitus; DMR, deep molecular remission; EDTA, ethylenediaminetetraacetic acid; iFISH, interphase ﬂuorescent in
+situ hybridisation, IFNa, interferon alpha; MMR, major molecular response; MR4.5, 4.5-log reduction; PAH, pulmonary arterial hypertension; PAOD, peripheral artery occlusive disease; Ph, Philadelphia; qRT-PCR, quantitative RT-PCR; RT-PCR, reverse transcriptase polymerase chain reaction; TKI, tyrosine kinase
+inhibitor.
+
+generation TKIs, or those who progress to AP/BP [V, A]. Options
+are imatinib, nilotinib, dasatinib, bosutinib or ponatinib [V, A].
+The optimisation of dosages of bosutinib (400 mg/day) and ponatinib (15–30 mg/day; 45 mg/day in advanced disease or in the case of
+problematic mutations) is still under investigation.
+
+Allogeneic stem cell transplantation
+The number of patients undergoing alloSCT for CML CP has
+decreased significantly since TKIs were introduced. AlloSCT remains an important therapeutic option for patients in CML CP
+who fail at least 2 TKIs or are potentially harbouring the T315I mutation (after a trial of ponatinib therapy) [V, B]. Patients at high risk
+for transformation should be considered for alloSCT, since outcome of alloSCT after transformation is unfavourable. Patients
+referred to transplant may have a better outcome if entering the
+transplant with a better response (lower CML burden). Assessment
+of donor availability will be prerequisite to achieve this goal.
+
+AlloSCT in advanced stage CML
+The only curative option for patients in BP disease is alloSCT.
+AlloSCT should also be considered early in patients developing
+AP during TKI treatment or high-risk patients with insufficient
+treatment response [V, B]. TKI monotherapy or in combination
+with chemotherapy may serve as a good option for those who are
+not candidates for transplant, or as a bridge and debulking option
+before alloSCT [35]. AlloSCT for advanced disease with a high
+transplant risk should not be advocated; ongoing drug treatment
+or best supportive care might be the better option and will also
+save costs [36].
+
+Management of AEs, QoL
+The TKIs are associated with different patterns of side-effects,
+and this should be considered for treatment decisions. Sideeffects can be divided into three general categories. The first category includes major, grade 3 to 4 side-effects that typically occur
+during the initial phase of treatment, are manageable, but require
+temporary treatment discontinuation and dose reduction, and
+may lead to treatment discontinuation in 10% of patients. The
+second category includes minor, grade 1/2, side-effects that start
+early during treatment but persist. They are also manageable and
+
+Volume 28 | Supplement 4 | August 2017
+
+tolerable, but affect the QoL and are a cause of decreased compliance. The third category includes late, so-called ‘off-target’ complications, which can affect the cardiovascular system, the
+respiratory system, liver, pancreas, the immune system, second
+malignancies, glucose and lipid metabolism, etc.
+All TKIs can be cardiotoxic and should be used with caution in
+patients with heart failure. Nilotinib has been reported to be associated in particular with arterial pathology, both peripheral and
+coronary. Dasatinib has been reported to be associated in particular with pleura and lung complications. Because these complications are a potential cause of morbidity and mortality, continued
+clinical monitoring of all patients is required [37].
+
+Treatment-free remission
+TKI discontinuation studies in patients with durable DMR demonstrate that stopping TKI therapy is feasible. The Stop Imatinib
+(STIM) trial investigated the risk of relapse in patients on imatinib with ongoing complete molecular response for longer than
+2 years who then stopped treatment. In the most recent update,
+100 patients had a median follow-up of 50 months and were
+monitored closely for evidence of molecular relapse. Overall,
+61% experienced a molecular relapse, with 95% of the events
+occurring within 7 months of stopping imatinib [38]. With nilotinib, at 48 weeks after stopping, 98 patients (51.6%) remained in
+MMR or better (primary endpoint) [39].
+The economic impact of long-term discontinuation of TKI
+may be substantial. Ongoing studies will help to guide physicians
+in determining when it is safe and most promising to stop TKI
+therapy in CML patients.
+Treatment discontinuation may be considered in individual patients, if proper, high-quality and certified monitoring can be
+ensured. Prerequisites for safe stopping are institutional requirements for safe supervision, identification of typical BCR–ABL1 transcripts at diagnosis, at least 5 years of TKI therapy, achievement of
+MR4.5 (4.5-log reduction) and a stability of DMR (at least MR4) for
+at least 2 years [III, B]. Less stringent criteria do not exclude successful TFR, but stability of TFR is improved with longer TKI therapy
+and longer DMR. Informed consent should include the information
+on the estimated risk of recurrence of the disease and the need for
+frequent molecular monitoring, monthly during the first half-year,
+6-weekly during the second half-year and 3-monthly later on [40,
+
+doi:10.1093/annonc/mdx219 | iv49
+
+Clinical Practice Guidelines
+
+Annals of Oncology
+
+Table 8. Levels of evidence and grades of recommendation (adapted from the Infectious Diseases Society of America-United States Public Health Service
+Grading Systema)
+Levels of evidence
+I
+Evidence from at least one large randomised, controlled trial of good methodological quality (low potential for bias) or meta-analyses of
+well-conducted randomised trials without heterogeneity
+II
+Small randomised trials or large randomised trials with a suspicion of bias (lower methodological quality) or meta-analyses of such trials or
+of trials demonstrated heterogeneity
+III
+Prospective cohort studies
+IV
+Retrospective cohort studies or case–control studies
+V
+Studies without control group, case reports, expert opinions
+Grades of recommendation
+A
+Strong evidence for efﬁcacy with a substantial clinical beneﬁt, strongly recommended
+B
+Strong or moderate evidence for efﬁcacy but with a limited clinical beneﬁt, generally recommended
+C
+Insufﬁcient evidence for efﬁcacy or beneﬁt does not outweigh the risk or the disadvantages (adverse events, costs, ... ), optional
+D
+Moderate evidence against efﬁcacy or for adverse outcome, generally not recommended
+E
+Strong evidence against efﬁcacy or for adverse outcome, never recommended
+a
+
+By permission of the Infectious Diseases Society of America [43].
+
+41]. It should be noted that a TKI withdrawal syndrome consisting
+of musculoskeletal pain, in most cases transient, has been observed
+in several cessation studies in up to 30% of the patients [42].
+
+Methodology
+These Clinical Practice Guidelines were developed in accordance
+with the ESMO standard operating procedures for Clinical Practice
+Guidelines development, http://www.esmo.org/Guidelines/ESMOGuidelines-Methodology. The relevant literature has been selected
+by the expert authors. A summary of recommendations is shown in
+Table 7. Levels of evidence and grades of recommendation have
+been applied using the system shown in Table 8. Statements without
+grading were considered justified standard clinical practice by the
+experts and the ESMO Faculty. This manuscript has been subjected
+to an anonymous peer review process.
+
+Disclosure
+AH has reported research support and honoraria from Novartis,
+Bristol-Myers Squibb, Pfizer and Ariad; SS received honoraria
+from Novartis, Bristol-Myers Squibb, Pfizer and Ariad and research support from Novartis and Bristol-Myers Squibb; GR, FXM, and JR have received research support and/or honoraria
+from Novartis, Bristol-Myers Squibb, Pfizer and Ariad; JJWMJ
+has received research support from Novartis and Bristol-Myers
+Squibb and honoraria from Novartis, Bristol-Myers Squibb,
+Pfizer and Incyte; HHH has received honoraria from Ariad,
+Janssen, Bristol-Myers Squibb and Pfizer, and he is chairman of
+Nordic CML Study Group which has received research funding
+from Bristol-Myers Squibb, Novartis, Merck, Pfizer and the
+Nordic Cancer Union; CB has reported research funds from
+Roche and Janssen and is a member of the speaker’s bureau of
+Roche, Janssen and Pfizer.
+
+iv50 | Hochhaus et al.
+
+References
+1. Hehlmann R, Hochhaus A, Baccarani M; European LeukemiaNet.
+Chronic myeloid leukaemia. Lancet 2007; 370: 342–350.
+2. Bower H, Björkholm M, Dickman PW et al. Life expectancy of patients
+with chronic myeloid leukemia approaches the life expectancy of the general population. J Clin Oncol 2016; 34: 2851–2857.
+3. Hijiya N, Schultz KR, Metzler M et al. Pediatric chronic myeloid leukemia is a unique disease that requires a different approach. Blood 2016;
+127: 392–399.
+4. Hochhaus A, Mahon FX, le Coutre P et al. Nilotinib first-line therapy in
+patients with Philadelphia chromosome-negative/BCR-ABL-positive
+chronic myeloid leukemia in chronic phase: ENEST1st sub-analysis.
+J Cancer Res Clin Oncol 2017; 143: 1225–1233.
+5. Arber DA, Orazi A, Hasserjian R et al. The 2016 revision to the World
+Health Organization classification of myeloid neoplasms and acute leukemia. Blood 2016; 127: 2391–2405.
+6. Baccarani M, Deininger MW, Rosti G et al. European LeukemiaNet recommendations for the management of chronic myeloid leukemia: 2013.
+Blood 2013; 122: 872–884.
+7. Hoffmann VS, Baccarani M, Hasford J et al. Treatment and outcome of
+2904 CML patients from the EUTOS population-based registry.
+Leukemia 2017; 31: 593–601.
+8. Pfirrmann M, Baccarani M, Saussele S et al. Prognosis of long-term survival considering disease-specific death in patients with chronic myeloid
+leukemia. Leukemia 2016; 30: 48–56.
+9. Fabarius A, Leitner A, Hochhaus A et al. Impact of additional cytogenetic
+aberrations at diagnosis on prognosis of CML: long-term observation of
+1151 patients from the randomized CML Study IV. Blood 2011; 118:
+6760–6768.
+10. O’Brien SG, Guilhot F, Larson RA et al. Imatinib compared with interferon and low-dose cytarabine for newly diagnosed chronic-phase
+chronic myeloid leukemia. N Engl J Med 2003; 348: 994–1004.
+11. Hochhaus A, Larson RA, Guilhot F et al. Long-term outcomes of imatinib treatment for chronic myeloid leukemia. N Engl J Med 2017; 376:
+917–927.
+12. Hehlmann R, Müller MC, Lauseker M et al. Deep molecular response is
+reached by the majority of patients treated with imatinib, predicts survival,
+and is achieved more quickly by optimized high-dose imatinib: results from
+the randomized CML-Study IV. J Clin Oncol 2014; 32: 415–423.
+13. Kalmanti L, Saussele S, Lauseker M et al. Safety and efficacy of imatinib
+in CML over a period of 10 years: data from the randomized CML-study
+IV. Leukemia 2015; 29: 1123–1132.
+
+Volume 28 | Supplement 4 | August 2017
+
+Annals of Oncology
+14. Hoffmann VS, Hasford J, Deininger M et al. Systematic review and metaanalysis of standard dose imatinib vs. high dose imatinib and 2nd generation tyrosine kinase inhibitors for chronic myeloid leukemia. J Cancer
+Res Clin Oncol 2017; 143: 1311–1318.
+15. Preudhomme C, Guilhot J, Nicolini FE et al. Imatinib plus peginterferon
+alfa-2a in chronic myeloid leukemia. N Engl J Med 2010; 363:
+2511–2521.
+16. Hjorth-Hansen H, Stentoft J, Richter J et al. Safety and efficacy of the
+combination of pegylated interferon-a2b and dasatinib in newly diagnosed chronic-phase chronic myeloid leukemia patients. Leukemia 2016;
+30: 1853–1860.
+17. Burchert A, Saussele S, Eigendorff E et al. Interferon alpha 2 maintenance
+therapy may enable high rates of treatment discontinuation in chronic
+myeloid leukemia. Leukemia 2015; 29: 1331–1335.
+18. Kantarjian H, Shah NP, Hochhaus A et al. Dasatinib versus imatinib in
+newly diagnosed chronic-phase chronic myeloid leukemia. N Engl J Med
+2010; 362: 2260–2270.
+19. Cortes JE, Saglio G, Kantarjian HM et al. Final 5-year study results of
+DASISION: the dasatinib versus imatinib study in treatment-naı̈ve chronic
+myeloid leukemia patients trial. J Clin Oncol 2016; 34: 2333–2340.
+20. Saglio G, Kim DW, Issaragrisil S et al. Nilotinib versus imatinib for newly
+diagnosed chronic myeloid leukemia. N Engl J Med 2010; 362: 2251–2259.
+21. Hochhaus A, Saglio G, Hughes TP et al. Long-term benefits and risks of
+frontline nilotinib vs imatinib for chronic myeloid leukemia in chronic
+phase: 5-year update of the randomized ENESTnd trial. Leukemia 2016;
+30: 1044–1054.
+22. Padula WV, Larson RA, Dusetzina SB et al. Cost-effectiveness of tyrosine
+kinase inhibitor treatment strategies for chronic myeloid leukemia in
+chronic phase after generic entry of imatinib in the United States. J Natl
+Cancer Inst 2016; 108: pii: djw003.
+23. Saussele S, Krauss MP, Hehlmann R et al. Impact of comorbidities on
+overall survival in patients with chronic myeloid leukemia: results of the
+randomized CML-Study IV. Blood 2015; 126: 42–49.
+24. Branford S, Fletcher L, Cross NC et al. Desirable performance characteristics
+for BCR-ABL measurement on an international reporting scale to allow consistent interpretation of individual patient response and comparison of response rates between clinical trials. Blood 2008; 112: 3330–3338.
+25. Branford S, Cross NC, Hochhaus A et al. Rationale for the recommendations for harmonizing current methodology for detecting BCR-ABL
+transcripts in patients with chronic myeloid leukaemia. Leukemia 2006;
+20: 1925–1930.
+26. Cross NC, White HE, Müller MC et al. Standardized definitions of molecular response in chronic myeloid leukemia. Leukemia 2012; 26: 2172–2175.
+27. Hanfstein B, Müller MC, Hehlmann R et al. Early molecular and cytogenetic response is predictive for long-term progression-free and overall survival in chronic myeloid leukemia (CML). Leukemia 2012; 26: 2096–2102.
+28. Cross NC, White HE, Colomer D et al. Laboratory recommendations for
+scoring deep molecular response following treatment for chronic myeloid leukemia. Leukemia 2015; 29: 999–1003.
+
+Volume 28 | Supplement 4 | August 2017
+
+Clinical Practice Guidelines
+29. Soverini S, Hochhaus A, Nicolini FE et al. BCR-ABL kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine
+kinase inhibitors: recommendations from an expert panel on behalf of
+European LeukemiaNet. Blood 2011; 118: 1208–1215.
+30. Shah NP, Rousselot P, Schiffer C et al. Dasatinib in imatinib-resistant or
+-intolerant chronic-phase, chronic myeloid leukemia patients: 7-year
+follow-up of study CA180-034. Am J Hematol 2016; 91: 869–874.
+31. Giles FJ, le Coutre PD, Pinilla-Ibarz J et al. Nilotinib in imatinib-resistant
+or imatinib-intolerant patients with chronic myeloid leukemia in chronic
+phase: 48-month follow-up results of a phase II study. Leukemia 2013;
+27: 107–112.
+32. Cortes JE, Khoury HJ, Kantarjian HM et al. Long-term bosutinib for
+chronic phase chronic myeloid leukemia after failure of imatinib plus
+dasatinib and/or nilotinib. Am J Hematol 2016; 91: 1206–1214.
+33. Cortes JE, Kim DW, Pinilla-Ibarz J et al. A phase 2 trial of ponatinib in
+Philadelphia chromosome-positive leukemias. N Engl J Med 2013; 369:
+1783–1796.
+34. Lipton JH, Chuah C, Guerci-Bresler A et al. Ponatinib versus imatinib
+for newly diagnosed chronic myeloid leukaemia: an international, randomised, open-label, phase 3 trial. Lancet Oncol 2016; 17: 612–621.
+35. Hehlmann R, Saußele S, Voskanyan A, Silver RT. Management of CMLblast crisis. Best Pract Res Clin Haematol 2016; 29: 295–307.
+36. Gratwohl A, Pfirrmann M, Zander A et al. Long-term outcome of patients with newly diagnosed chronic myeloid leukemia: a randomized
+comparison of stem cell transplantation with drug treatment. Leukemia
+2016; 30: 562–569.
+37. Steegmann JL, Baccarani M, Breccia M et al. European LeukemiaNet recommendations for the management and avoidance of adverse events of
+treatment in chronic myeloid leukaemia. Leukemia 2016; 30: 1648–1671.
+38. Mahon FX, Réa D, Guilhot J et al. Discontinuation of imatinib in patients with chronic myeloid leukaemia who have maintained complete
+molecular remission for at least 2 years: the prospective, multicentre Stop
+Imatinib (STIM) trial. Lancet Oncol 2010; 11: 1029–1035.
+39. Hochhaus A, Masszi T, Giles FJ et al. Treatment-free remission following
+frontline nilotinib in patients with chronic myeloid leukemia in chronic
+phase: results from the ENESTfreedom study. Leukemia 2017; 31:
+1525–1531.
+40. Hughes TP, Ross DM. Moving treatment-free remission into mainstream
+clinical practice in CML. Blood 2016; 128: 17–23.
+41. Saußele S, Richter J, Hochhaus A, Mahon FX. The concept of treatmentfree remission in chronic myeloid leukemia. Leukemia.2016; 30:
+1638–1647.
+42. Richter J, Söderlund S, Lübking A et al. Musculoskeletal pain in patients
+with chronic myeloid leukemia after discontinuation of imatinib: a tyrosine kinase inhibitor withdrawal syndrome? J Clin Oncol 2014; 32:
+2821–2823.
+43. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis 2001; 33: 139–144.
+
+doi:10.1093/annonc/mdx219 | iv51
+
+

@@ -1,0 +1,1134 @@
+clinical practice guidelines
+
+Annals of Oncology 26 (Supplement 5): v116–v125, 2015
+doi:10.1093/annonc/mdv304
+
+Diffuse large B-cell lymphoma (DLBCL): ESMO Clinical
+Practice Guidelines for diagnosis, treatment and
+follow-up†
+H. Tilly1, M. Gomes da Silva2, U. Vitolo3, A. Jack4, M. Meignan5, A. Lopez-Guillermo6, J. Walewski7,
+M. André8, P. W. Johnson9, M. Pfreundschuh10 & M. Ladetto11, on behalf of the ESMO
+Guidelines Committee*
+1
+Centre Henri-Becquerel, Université de Rouen, Rouen, France; 2Portuguese Institute of Oncology, Lisbon, Portugal; 3A.O. Città della Salute e della Scienza di Torino, Turin,
+Italy; 4St James’s University Hospital, Leeds, UK; 5Henri Mondor University Hospital, Créteil, France; 6Hospital Clinic, Barcelona, Spain; 7Maria Sklodowska-Curie Memorial
+Institute and Oncology Centre, Warsaw, Poland; 8CHU Dinant-Godinne, UCL Namur, Yvoir, Belgium; 9Cancer Research UK, University of Southampton, Southampton, UK;
+10
+Innere Medizin I, Universität des Saarlandes, Hamburg, Germany; 11Divisione di Ematologia, Azienda Ospedaliera Santi Antonio e Biagio e Cesare Arrigo, Alessandria, Italy
+
+clinical practice
+guidelines
+
+incidence and epidemiology
+Diffuse large B-cell lymphoma (DLBCL) constitutes 30%–58% of
+non-Hodgkin’s lymphoma series. The crude incidence in Europe is
+3.8/100 000/year [1]. The incidence increases with age and varies
+considerably across Europe. A family history of lymphoma, autoimmune disease, human immunodeﬁciency virus (HIV) infection,
+hepatitis C virus (HCV) seropositivity, a high body mass as a young
+adult and some occupational exposures have been identiﬁed as risk
+factors of DLBCL [2]. In recent years, there have been important
+survival improvements for DLBCL in all European regions [3].
+
+diagnosis and pathology/molecular
+biology
+The diagnosis of DLBCL should be carried out in a reference
+haematopathology laboratory with expertise in morphological
+interpretation and the facilities to carry out the full range of
+phenotypic and molecular investigations [V, A].
+A surgical excision biopsy remains the optimal method of diagnosis [V, A]. This allows assessment of nodal architecture and provides adequate material for phenotypic and molecular studies.
+Ideally, the biopsy should be sent unﬁxed to the laboratory to allow
+ﬂow cytometric studies to be carried out and high-quality DNA and
+RNA to be extracted. Needle-core and endoscopic biopsies should
+be reserved for patients for whom a surgical approach is impractical
+or would entail excessive risk [IV, B]. A ﬁne-needle aspirate should
+not be used as the sole basis for a diagnosis of DLBCL [V, E].
+A morphological diagnosis of DLBCL should be conﬁrmed in
+all cases by immunophenotypic investigations, either
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4,
+CH-6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+†
+
+Approved by the ESMO Guidelines Committee: February 2002, last update August
+2015.
+This publication supersedes the previously published version—Ann Oncol 2012; 23
+(Suppl. 7): vii78–vii82.
+
+immunohistochemistry (IHC) or ﬂow cytometry or a combination of both techniques [V, A]. Panels used must be designed
+to conﬁrm B-cell lineage, and must be comprehensive enough to
+highlight possible variant forms such as immunoblastic lymphoma [4], primary mediastinal B cell lymphoma (PMBCL), T-cell/
+histiocyte rich large B-cell lymphoma, primary cutaneous
+DLBCL leg-type or EBV-positive DLBCL of the elderly. They
+must also distinguish alternative diagnoses that may be difﬁcult
+to make on the basis of morphology alone, and which have important clinical consequences as plasmablastic lymphoma or
+soft tissue involvement by myeloma, Burkitt lymphoma, unclassiﬁable B-cell lymphoma with features intermediate between
+diffuse large cell lymphoma and Burkitt lymphoma, blastic
+mantle cell lymphoma and some cases of Hodgkin’s lymphoma.
+A suggested immunohistochemical panel would include CD20,
+CD79a, BCL6, CD10, MYC, BCL2, Ki67, IRF4, CyclinD1, CD5
+and CD23. EBER-1 staining may be used to identify the
+Epstein–Barr virus-positive DLBCL subtype of the elderly population. The histological report should give the diagnosis according to the current World Health Organization classiﬁcation [5].
+Where the level of conﬁdence in the diagnosis is reduced, for
+example, because only a small biopsy specimen is available or
+where the putatively neoplastic population has a normal phenotype by IHC, demonstration of B-cell monoclonality by a polymerase chain reaction-based method should be considered
+[IV, C] [6].
+The cell of origin phenotype determined by gene expression
+proﬁling is also a major prognostic factor in DLBCL [7–9].
+Tumours with a germinal centre phenotype have a signiﬁcantly
+better clinical outcome that those with an activated B-cell phenotype. The nature of type 3 or unclassiﬁed subgroups requires
+further clariﬁcation. Newer methods, based on evaluation of a
+limited set of genes, have been validated in comparison with
+standard gene expression, and are now used in the setting of clinical trials [9, 10]. Cell of origin can also be determined by IHC
+but published data on the prognostic effect of immunohistochemical techniques are contradictory, and it is not recommended to
+routinely base clinical decisions on these results [11, 12]. General
+
+© The Author 2015. Published by Oxford University Press on behalf of the European Society for Medical Oncology.
+All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+Annals of Oncology
+
+issues of reproducibility may also limit the value of IHC as a prognostic biomarker [13].
+The presence of an MYC rearrangement in combination
+with BCL2 rearrangement, and possibly other genetic abnormalities, has been described as a special entity (‘double-hit’ or
+‘triple-hit’ lymphoma). However, the prognostic signiﬁcance
+of these rearrangements remains controversial and optimal
+clinical management is not established [14–16]. This assessment is recommended, wherever technically possible, in newly
+diagnosed and relapsed patients being treated with curative
+intent, using interphase ﬂuorescence in situ hybridisation [IV,
+B]. The immunohistochemical expression of MYC and/or
+BCL2 or both (double expressors) is only partly correlated
+with genetic abnormalities, but the concurrent expression of
+MYC and BCL2 is usually associated with a poor outcome
+[17–19].
+
+staging and risk assessment
+Physical examination, performance status (PS) and assessment
+of B symptoms are necessary [V, A]. A complete blood count,
+routine blood chemistry including lactate dehydrogenase
+(LDH) and uric acid, as well as screening tests for HIV, hepatitis B virus (HBV) (HBs antigen, anti-HBs and anti-HBc antibodies) and HCV are required [V, A]. Protein electrophoresis
+is recommended [IV, B].
+Based on recent consensus recommendations for staging and
+restaging of lymphoma developed by the clinical and imaging
+working groups of the international conference of malignant
+lymphomas (Lugano classiﬁcation), ﬂuorodeoxyglucose positron
+emission tomography (FDG-PET)/computed tomography (CT)
+scan is now recommended as the gold standard for staging
+DLBCL patients [V, A] [20, 21]. PET/CT is more accurate than
+contrast-enhanced CT (CeCT), with increased sensitivity for
+nodal and extranodal sites; in practice, CeCT is often carried out
+before PET/CT. Should this not be the case, a full diagnostic
+high-dose CeCT should be carried out when necessary, in combination with PET/CT and after the PET scan [V, B]. Indeed,
+CeCT may be necessary for a better delineation of lymphadenopathy from the bowel; the detection of compression/thrombosis of
+central/mediastinal vessels, radiation planning or a more accurate
+measurement of nodal sites in the context of a trial. The ﬁndings
+of CeCT when carried out at baseline determine whether the lowdose non-enhanced CT part of the PET/CT scan will be sufﬁcient
+for restaging.
+Focal bone marrow FDG uptake with or without increased
+diffuse uptake is more sensitive than bone marrow biopsy (BMB)
+for inﬁltration in DLBCL and is highly speciﬁc [22]. Low-volume
+involvement (<10%–20%) and discordant lymphoma may be
+missed by PET/CT imaging but these positive BMB/negative
+PET/CT ﬁndings are <10% [23]. Thus, biopsy is no longer
+required when a PET/CT scan demonstrates bone or marrow involvement indicating advanced-stage disease but is appropriate in
+case of negative PET, when its results would change prognosis
+and treatment, especially when a shortened number of immunochemotherapy cycles is proposed [V, C].
+For suspected central nervous system (CNS) lymphoma, magnetic resonance imaging is the modality of choice [III, A].
+
+Volume 26 | Supplement 5 | September 2015
+
+clinical practice guidelines
+A diagnostic lumbar puncture should be considered in highrisk patients as described above [V, A]. Flow cytometry, when
+available, enhances the detection of lymphoma cells in the cerebrospinal ﬂuid [24].
+Cardiac function (left ventricular ejection fraction) should be
+assessed before treatment [V, A]. The risks of infertility and possibilities of fertility preservation should be discussed, depending
+on the type of treatment being proposed.
+The staging is established according to the Ann Arbor classiﬁcation system [I, A] (Table 1). A new staging system that has not
+been prospectively validated has been recently proposed [20].
+For prognostic purposes, the International Prognostic Index
+(IPI) and age-adjusted IPI (aaIPI) should be calculated [I, A]
+[25] (Table 2). Other factors that may affect prognosis and treatment strategies, including the maximum bulk of the disease,
+should be assessed [30].
+
+Table 1. Ann Arbor staging classification
+Stage
+I
+Involvement of a single lymphatic region (I) or localized
+involvement of single extralymphatic organ or site (IE)
+II Involvement of two or more lymphatic regions on the same side
+of the diaphragm (II) or localized involvement of a single
+extralymphatic organ or site and of one or more lymphatic
+regions on the same side of the diaphragm (IIE)
+III Involvement of lymphatic regions on both sides of the diaphragm
+IV Diffuse or disseminated involvement of one or more
+extralymphatic organs with or without lymphatic involvement
+
+Table 2. International prognostic index (IPI)
+International prognostic index (IPI)
+
+Risk factors
+
+Age >60 years
+Serum LDH > normal
+Stage III–IV
+Performance status 2–4
+Extranodal sites >1
+
+Risk categories
+
+Low
+Low intermediate
+High intermediate
+High
+
+Estimated 3-year
+overall survival
+[26–29] (95% CI)
+
+0–1
+2
+3
+4–5
+
+91 (89–94)
+81 (73–86)
+65 (58–73)
+59 (49–69)
+
+Age-adjusted international prognostic index
+(aaIPI) in patients ≤60 years
+Risk factors
+
+Serum LDH > normal
+Stage III–IV
+Performance status 2–4
+
+Risk categories
+
+Low
+Low intermediate
+
+0
+1
+
+98 (96–100)
+92 (87–95)
+
+High intermediate
+High
+
+2
+3
+
+}
+
+75 (66–82)
+
+LDH, lactate dehydrogenase; CI, confidence interval.
+
+doi:10.1093/annonc/mdv304 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 3. Recommended treatment strategies in diffuse large B-cell lymphoma
+Patients ≤60 years
+IPI low risk (aaIPI = 0) and no bulk
+
+IPI low risk (aaIPI = 0) with bulk or IPI
+low-intermediate risk (aaIPI = 1)
+
+IPI intermediate-high risk or IPI high risk
+(aaIPI = 2, 3)
+
+R-ACVBP and sequential consolidation
+or
+R-CHOP21 × 6 + IF-RT on bulk
+
+R-CHOP21 × 6–8
+or
+R-CHOP14 × 6 with 8 R
+Consider more intensive regimens in
+selected patients:
+R-CHOEP14 × 6
+or
+R-CHOP or R-ACVBP plus HDCT with
+ASCT
+
+Fit, 60–80 years
+
+>80 years without cardiac dysfunction
+
+Unfit or frail or >60 years with cardiac
+dysfunction
+
+R-CHOP21 × 6–8
+(R-CHOP21 × 6 for IPI low risk)
+or
+R-CHOP14 × 6 with 8 R
+
+Attenuated regimens:
+R-miniCHOP21 × 6
+
+Doxorubicin substitution with
+gemcitabine, etoposide or liposomal
+doxorubicin or others:
+R-C(X)OP21 × 6
+or
+palliative care
+
+R-CHOP21 × 6
+
+Consider CNS prophylaxis in patients at risk for CNS progression
+Elderly >60 years
+
+Consider CNS prophylaxis in patients at risk
+First relapse/progress
+Eligible for transplant
+
+Not eligible for transplant
+
+Platinum-based chemotherapy regimens (i.e. R-DHAP, R-ICE, RGDP) as salvage treatment
+For chemosensitive patients: R-HDCT with ASCT as
+remission consolidation
+Consider allogeneic transplantation in patients relapsed
+after R-HDCT with ASCT or in patients with
+poor-risk factors at relapse
+
+Platinum- and/or gemcitabine-based
+regimens
+Clinical trials with novel drugs
+
+>2 relapse/progress
+Eligible for transplant
+
+Not eligible for transplant
+
+Allogeneic transplantation
+Clinical trials with novel drugs
+
+Clinical trials with novel drugs
+Palliative care
+
+IPI, International Prognostic Index; aaIPI, age-adjusted IPI; R, rituximab; CHOP, cyclophosphamide, doxorubicin, vincristine, prednisone; ACVBP,
+doxorubicin, vindesine, cyclophosphamide, bleomycin and prednisolone; IF-RT, involved-field radiotherapy; HDCT, high-dose chemotherapy; ASCT,
+autologous stem-cell transplantation; DHAP, cisplatin, cytarabine, dexamethasone; ICE, ifosfamide, carboplatin, etoposide; GDP, cisplatin, gemcitabine,
+dexamethasone; CNS, central nervous system; CHOEP, cyclophosphamide, doxorubicin, vincristine, etoposide, prednisolone; R-C(X)OP, R-CHOP with
+substitution of doxorubicin.
+
+treatment
+Treatment strategies should be stratiﬁed according to age,
+IPI and feasibility of dose-intensiﬁed approaches (Table 3).
+Whenever available, the inclusion in a clinical trial is
+recommended.
+In cases with high tumour load, precautions such as the administration of prednisone ( p.o.) several days as ‘prephase’
+treatment are advised to avoid tumour lysis syndrome [I, A].
+Dose reductions due to haematological toxicity should be
+avoided [I, A]. Febrile neutropaenia justiﬁes prophylactic use of
+
+v | Tilly et al.
+
+haematopoietic growth factors in patients treated with curative
+intent and in patients older than 60 years of age [I, A].
+
+young low-risk patients (aa-IPI = 0) without
+bulky disease
+Six cycles of combination chemotherapy with cyclophosphamide, doxorubicin, vincristine and prednisone (CHOP) treatment combined with six doses of rituximab given every 21 days
+is the current standard [I, A] [31]. Consolidation by radiotherapy to initial non-bulky sites has no proven beneﬁt in patients
+treated with rituximab or not [I, A] [32, 33].
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+young low-intermediate-risk patients (aa-IPI = 1)
+or IPI low risk (aa-IPI = 0) with bulky disease
+Rituximab (R)-CHOP 21 × 6 with radiotherapy to the sites of
+previous bulky disease was shown to be effective in this group of
+patients, based on the results of the MINT study [II, B] [31].
+Alternatively, an intensiﬁcation of chemotherapy with R-ACVBP
+(rituximab, doxorubicin, vindesine, cyclophosphamide, bleomycin and prednisolone), given every 2 weeks followed by
+sequential consolidation, has been shown to improve survival
+compared with eight cycles of R-CHOP in this category, but
+radiotherapy was omitted in both arms of this trial [I, A] [26].
+In this group of patients, either R-CHOP21 × 6 with radiotherapy to the sites of previous bulky disease or the intensiﬁed
+regimen R-ACVBP is recommended [II, B].
+
+young high- and high-intermediate-risk patients
+(aa-IPI ≥ 2)
+There is no current standard in this subgroup, and in this group
+especially, enrolment in clinical trials should be a priority. Six to
+eight cycles of chemotherapy with CHOP combined with eight
+doses of rituximab given every 21 days are most frequently
+applied [III, B]. Dose dense treatment with R-CHOP given every
+14 days has not demonstrated a survival advantage over standard
+R-CHOP given every 21 days [I, C] [34]. In this trial, R-CHOP 14
+failed to show a better outcome in any DLBCL subset, including
+young poor-risk patients, although the trial was not powered to
+compare multiple clinical subgroups. Intensive treatment with
+R-ACVBP or R-CHOEP (rituximab, cyclophosphamide, doxorubicin, vincristine, etoposide and prednisolone) is frequently
+used but these regimens have not been directly compared with
+R-CHOP in this category [II, B] [27, 35].
+Four randomised trials comparing rituximab chemotherapy
+(R-chemotherapy) followed by high-dose chemotherapy
+(HDC) and autologous stem-cell transplantation (ASCT)
+versus R-chemotherapy alone have been presented. Two trials
+showed a progression-free survival (PFS) beneﬁt for HDC
+with ASCT but no impact, at present, on overall survival (OS)
+[36, 37], while two trials failed to demonstrate an improvement for the HDC arm [35, 38]. Therefore, HDC with ASCT
+in ﬁrst line remains experimental or may be proposed for
+selected high-risk patients [II, C]. The role of consolidation by
+radiotherapy to initial sites of bulky disease is unknown. The
+role of interim PET to select patients who could beneﬁt from
+consolidative ASCT [39] or from radiotherapy [40] is under
+evaluation [I, C].
+
+clinical practice guidelines
+exposure has been shown to improve outcome of elderly poorprognosis patients without increasing toxicity [III, C] [46]. A
+comprehensive geriatric assessment in order to ascertain comorbidities and functional decline is recommended to guide the
+choice of treatment in these patients [III, A] [47, 48]. R-CHOP
+treatment can usually be used up to 80 years of age in ﬁt patients
+[I, A] but modulation of treatment according to geriatric assessment is recommended [III, C] [49].
+
+patients aged >80 years
+The combination of rituximab with attenuated chemotherapy,
+such as R-miniCHOP, can induce complete remission and long
+survival in ﬁt patients older than 80 years [III, B] [50].
+Substitution of doxorubicin by gemcitabine, etoposide or liposomal doxorubicin, or even its omission, can be considered from
+the beginning or after a few cycles in patients with cardiac dysfunction or who are frail or unﬁt [III, C] [51].
+
+central nervous system (CNS) prophylaxis
+Patients with high-intermediate and high-risk IPI, especially
+those with more than one extranodal site or elevated LDH, are
+at higher risk of CNS relapse [52]. Testicular, renal and adrenal
+involvements have been validated as additional risk factors [53].
+CNS prophylaxis should be recommended in these populations
+[II, A]. MYC gene rearrangement is associated with a high risk of
+CNS relapse [43]. Although widely used, intrathecal injections of
+methotrexate may not be an optimal method. Intravenous highdose methotrexate has been shown to be associated with efﬁcient
+disease control [IV, C] [54–56]. Prospective trials are ongoing to
+evaluate this alternative approach.
+
+some DLBCLs require special consideration
+• Extranodal DLBCLs and PMBCLs are considered in other
+guidelines.
+
+• Patients with HIV infection should usually receive the same
+treatment as HIV-negative patients in association with antiviral therapy [II, A] [57].
+• Patients previously exposed to HBV (HBs antigen-negative,
+anti-HBc-positive) are at risk of reactivation during treatment
+with R-CHOP. Antiviral prophylaxis or periodic HBV DNA
+monitoring and antiviral treatment in the case of reactivation
+are recommended [III, A] [58].
+
+response evaluation
+
+patients aged 60–80 years
+
+post-treatment evaluation
+
+Six to eight cycles of combination chemotherapy with CHOP
+plus eight doses of rituximab given every 21 days is the current
+standard [I, A] [41]. R-CHOP given every 14 days did not demonstrate a survival advantage over R-CHOP 21 [I, C] [34, 42]. If
+R-CHOP is given every 14 days, six cycles of CHOP with eight
+cycles of rituximab are sufﬁcient [I, A] [43]. In patients with
+localised disease (IPI = 0), no beneﬁt of consolidation by radiotherapy was shown in patients treated before the introduction of
+rituximab [I, A] [44], but a recent study indicated that irradiation could improve the outcome of elderly patients with bulky
+disease [II, C] [45]. In a phase II study, extended rituximab
+
+FDG-PET/CT is now the recommended standard for post-treatment assessment in DLBCL [I, A] [59]. The recent Lugano classiﬁcation based on the visual Deauville criteria (5-point scale, Table 4)
+
+Volume 26 | Supplement 5 | September 2015
+
+Table 4. PET 5-point scale (Deauville criteria)
+1
+2
+3
+4
+5
+
+No uptake
+Uptake ≤mediastinum
+Uptake >mediastinum but ≤liver
+Moderately increased uptake compared with liver
+Markedly increased uptake to liver and/or new lesions
+
+doi:10.1093/annonc/mdv304 | v
+
+clinical practice guidelines
+has proposed different response categories, termed ‘metabolic
+response categories’ [20, 21]:
+
+• Complete metabolic response (CMR) is deﬁned when no
+residual uptake exists or if the residual uptake is lower to or
+equal to the liver activity (Deauville score 1–3), with or
+without evidence of residual mass on the CT part of the examination, and without FDG-avid lesions in the bone marrow.
+Since most patients with score 3 (uptake greater than mediastinal activity) have a good prognosis with standard treatment,
+score 3 has been included in the CMR category but a careful
+evaluation of these patients is recommended.
+• Deauville scores 4 and 5 indicate residual disease in most
+cases. Three categories of response are deﬁned by comparing
+the residual uptake with the tumour uptake in baseline scan:
+partial metabolic response when the uptake has decreased, no
+metabolic response when it has not changed or progressive
+metabolic disease (PMD) when it has increased. A new site of
+FDG uptake consistent with lymphoma is graded score 5 and
+indicates a PMD but should be biopsied or followed by interval scans in case of aetiological uncertainties. In the presence
+of residual metabolically active tissue, where salvage treatment
+is being considered, a biopsy is recommended [III, A].
+
+interim evaluation
+Mid-treatment imaging after three to four cycles may be used to
+rule out progression in clinical practice [V, B]. It is usually carried
+out with CT but PET/CT can also be used when available [20].
+Changing treatment solely on the basis of interim PET/CT is discouraged [II, E], unless there is clear evidence of progression.
+Early PET evaluation carried out after one to two cycles of
+treatment has been shown to be predictive of outcome, but
+should be reserved for clinical trials at the present time [II, D].
+
+follow-up
+Patients with DLBCL who are event-free at 2 years have an identical OS to that of the general population, emphasising the need
+to only speciﬁcally monitor the disease in this early period [60].
+Careful history and physical examination every 3 months for
+1 year, every 6 months for 2 more years and then once a year
+with attention to development of secondary tumours or other
+long-term side-effects of chemotherapy is recommended [V, D].
+Blood count should be carried out at 3, 6, 12 and 24 months,
+then only as needed for evaluation of suspicious symptoms or
+clinical ﬁndings in those patients suitable for further therapy [V, C].
+Minimal radiological examinations at 6, 12 and 24 months
+after end of treatment by CT scan are common practice, but
+there is no deﬁnitive evidence that routine imaging in patients in
+complete remission provides any outcome advantage, and it may
+increase the incidence of secondary malignancies [V, D] [61, 62].
+Routine surveillance with PET scan is not recommended [V, E].
+High-risk patients with curative options may potentially mandate
+more frequent evaluation.
+
+relapsed and refractory DLBCL
+incidence. Overall, more than 30% of DLBCL will ultimately
+relapse. The incidence in the European Union is therefore estimated
+
+v | Tilly et al.
+
+Annals of Oncology
+
+to be around 1/100 000/year. In addition to initial prognostic
+factors, the nature of previous treatments and time from initial
+treatment are of utmost importance [63].
+diagnosis. In patients who are suspected of having relapsed on
+the basis of imaging studies, the diagnosis should be conﬁrmed
+by biopsy before proceeding to second-line therapy. In these
+circumstances, a needle-core biopsy is acceptable as primary
+investigation.
+staging and risk assessment. Patients still amenable to curative
+therapy should have the same examinations as at ﬁrst diagnosis.
+treatment. The following recommendations apply to patients
+who received adequate rituximab and anthracycline-containing
+ﬁrst-line therapy.
+In patients aged <65–70 years with good PS and no major
+organ dysfunction, salvage regimens with rituximab and chemotherapy followed, in responsive patients, by HDC and ASCT,
+are recommended [II, A] [63–65] Salvage regimens such as
+R-DHAP (rituximab, cisplatin, cytarabine, dexamethasone) or
+R-ICE (rituximab, ifosfamide, carboplatin, etoposide) appear to
+have similar outcomes [I, A] [63]. However, R-GDP (rituximab,
+cisplatin, gemcitabine, dexamethasone) has been shown to have
+similar efﬁcacy but less toxicity than R-DHAP [I, A] [66]. One
+study suggested a possible advantage of R-DHAP in the germinal centre B-cell subtype, but this needs conﬁrmation [IV, C]
+[67]. BEAM (carmustine, etoposide, cytarabine and melphalan)
+is the most commonly used high-dose regimen [III, B].
+Additional involved-ﬁeld radiation or iceberg radiation may
+be used, especially in the few cases with limited stage disease,
+but this has never been evaluated in controlled trials [IV, C].
+Maintenance with rituximab is not recommended [I, E] [68].
+Allogeneic transplantation with a sibling or matched unrelated
+donor may be considered in patients with refractory disease,
+early relapse or relapse after ASCT [III, B] [69].
+Patients not suitable for high-dose therapy may be treated with
+the same or other salvage regimens as R-GEMOX (rituximab,
+gemcitabine, oxaliplatin) [III, B] [70]. Pixantrone, a new anthracycline-like drug with reduced cardiotoxicity, demonstrated some
+efﬁcacy in heavily treated patients [II, C] [71]. However, these
+patients should be preferably enrolled in clinical trials testing the
+activity of other novel drugs.
+response evaluation. Response criteria are identical to those of
+ﬁrst-line treatment evaluation. An evaluation should be carried out
+after three to four cycles of the salvage regimen (before high-dose
+treatment) and after the end of all therapy. Results of PET before
+high-dose treatment are correlated to clinical outcome [72].
+follow-up. Follow-up of patients in second response is the same
+as for ﬁrst response.
+
+personalised medicine
+Progress in the knowledge of pathological and molecular heterogeneity of DLBCL has led to the study of new agents that have
+distinct activity in molecular subtypes, or have speciﬁc efﬁcacy
+on molecular targets involved in disease pathogenesis. At the
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+clinical practice guidelines
+
+Table 5. Summary of recommendations
+Diagnosis and pathology/molecular biology
+
+•
+•
+•
+•
+•
+•
+•
+
+Diagnosis should be carried out in a reference haematopathology laboratory with expertise in morphological interpretation and the facilities to carry out
+the full range of phenotypic and molecular investigations [V, A].
+Surgical biopsy is the optimal method of diagnosis. [V, A].
+Needle-core and endoscopic biopsies should be reserved for patients for whom a surgical approach is impractical or would entail excessive risk [IV, B].
+A fine-needle aspirate should not be used as the sole basis for a diagnosis of DLBCL [V, E].
+A morphological diagnosis of DLBCL should be confirmed in all cases by immunophenotypic investigations [V, A].
+If there is doubt in the diagnosis, demonstration of B-cell monoclonality by a PCR-based method should be considered [IV, C].
+Assessment of MYC and BCL2 rearrangement is recommended (whenever technically possible) in newly diagnosed and relapsed patients treated with
+curative intent, using interphase FISH [IV, B].
+
+Staging and risk assessment
+
+•
+•
+•
+•
+•
+
+•
+•
+•
+•
+•
+
+Physical exam, performance status and assessment of B symptoms are necessary [V, A].
+A complete blood count, routine blood chemistry including LDH and uric acid, as well as screening tests for HIV, HBV and HCV are required [V, A].
+Protein electrophoresis is recommended [IV, B].
+FDG-PET/CT scan is recommended as the gold standard for staging DLBCL patients [V, A].
+If CeCT is not carried out before PET/CT, a full diagnostic high-dose CeCT should be carried out when necessary, in combination with PET/CT [V, B].
+Biopsy may be avoided when PET/CT scans demonstrate bone or marrow involvement indicating advanced-stage disease but is appropriate in the case of
+negative PET, when its results would change prognosis and treatment, especially when a shortened number of immunochemotherapy cycles is proposed
+[V, C].
+For suspected CNS lymphoma, MRI is the modality of choice [III, A].
+A diagnostic lumbar puncture should be considered in high-risk patients [V, A].
+Cardiac function (LVEF) should be assessed before treatment [V, A].
+The staging is established according to the Ann Arbor classification system [I, A].
+For prognostic purposes, the IPI and aa-IPI should be calculated [I, A].
+
+Treatment
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+•
+
+Treatment strategies should be stratified according to age, IPI and feasibility of dose-intensified approaches.
+Whenever available, inclusion in a clinical trial is recommended.
+In cases with high tumour load, precautions are advised to avoid tumour lysis syndrome [I, A].
+Dose reductions due to haematological toxicity should be avoided whenever possible [I, A].
+The risk of febrile neutropenia justifies prophylactic use of haematopoietic growth factors in patients treatment with curative intent and in
+patients >60 years of age [I, A].
+For young, low-risk patients (aa-IPI = 0) without bulky disease:
+○ six cycles of combination chemotherapy with CHOP treatment combined with six doses of rituximab given every 21 days is the current standard [I, A];
+○ consolidation by radiotherapy to initial non-bulky sites has no proven benefit in patients treated with rituximab or not [I, A].
+For young low-intermediate-risk patients (aa-IPI = 1) or IPI low risk (aa-IPI = 0) with bulky disease:
+○ either R-CHOP21 × 6 with radiotherapy to the sites of previous bulky disease or the intensified regimen R-ACVBP is recommended [II, B].
+For young high- and high-intermediate-risk patients (aa-IPI ≥ 2):
+○ enrolment in clinical trials should be a priority;
+○ six to eight cycles of chemotherapy with CHOP combined with eight doses of rituximab given every 21 days are most frequently applied [III, B];
+○ dose dense treatment with R-CHOP given every 14 days has not demonstrated a survival advantage over standard R-CHOP given every 21 days [I, C];
+○ intensive treatment with R-ACVBP or R-CHOEP is frequently used but these regimens have not been directly compared with R-CHOP in this category
+[II, B];
+○ HDC with ASCT in first line remains experimental or may be proposed for selected high-risk patients [II, C];
+○ the role of interim PET to select patients who could benefit from consolidative ASCT or from radiotherapy is under evaluation [I, C].
+For patients aged 60–80 years:
+○ six to eight cycles of combination chemotherapy with CHOP plus eight doses of rituximab given every 21 days is the current standard [I, A];
+○ if R-CHOP is given every 14 days, six cycles of CHOP with eight cycles of rituximab are sufficient [I, A];
+○ a comprehensive geriatric assessment in order to ascertain comorbidities and functional decline is recommended to guide the choice of treatment in
+elderly poor-prognosis patients [III, A];
+○ R-CHOP treatment can usually be used up to 80 years of age in fit patients [I, A], but modulation of treatment according to geriatric assessment is
+recommended [III, C].
+For patients aged >80 years:
+○ the combination of rituximab with attenuated chemotherapy, such as R-miniCHOP, can induce complete remission and long survival in fit patients
+older than 80 years [III, B];
+○ substitution of doxorubicin by gemcitabine, etoposide or liposomal doxorubicin, or even its omission, can be considered from the beginning or after a
+few cycles in patients with cardiac dysfunction or who are frail or unfit [III, C].
+Continued
+
+Volume 26 | Supplement 5 | September 2015
+
+doi:10.1093/annonc/mdv304 | v
+
+clinical practice guidelines
+
+Annals of Oncology
+
+Table 5. Continued
+
+•
+
+•
+•
+
+CNS prophylaxis:
+○ should be recommended for patients with high-intermediate-risk and high-risk IPI, especially those with more than one extranodal site or elevated
+LDH or for patients with testicular, renal or adrenal involvement [II, A];
+○ intravenous high-dose methotrexate has been shown to be associated with efficient disease control [IV, C].
+Patients with human immunodeficiency virus (HIV) infection should usually receive the same treatment as HIV-negative patients in association with
+antiviral therapy [II, A].
+Antiviral prophylaxis or periodic HBV DNA monitoring and antiviral treatment are recommended for patients previously exposed to HBV who
+experience reactivation of the virus during treatment [III, A].
+
+Response evaluation
+
+•
+•
+•
+
+FDG-PET/CT is the recommended standard for post-treatment assessment in DLBCL [I, A].
+In the presence of residual metabolically active tissue, where salvage treatment is being considered, a biopsy is recommended [III, A].
+Interim evaluation:
+○ mid-treatment imaging after three to four cycles may be used to rule out progression in clinical practice [V, B];
+○ changing treatment solely on the basis of interim PET/CT is discouraged [II, E], unless there is clear evidence of progression;
+○ early PET evaluation carried out after one to two cycles of treatment has been shown to be predictive of outcome, but should be reserved for clinical
+trials at the present time [II, D].
+
+Follow-up
+
+•
+•
+•
+
+Careful history and physical examination every 3 months for 1 year, every 6 months for 2 further years and then once a year with attention to
+development of secondary tumours or other long-term side-effects of chemotherapy is recommended [V, D].
+Blood count should be carried out at 3, 6, 12 and 24 months, then only as needed for evaluation of suspicious symptoms or clinical findings in those
+patients suitable for further therapy [V, C].
+Minimal radiological examinations at 6, 12 and 24 months after end of treatment, by CT scan, is common practice, but there is no definitive evidence
+that routine imaging in patients in complete remission provides any outcome advantage and it may increase the incidence of secondary malignancies
+[V, D]. Routine surveillance with PET scan is not recommended [V, E].
+
+DLBCL, diffuse large B-cell lymphoma; PCR, polymerase chain reaction; FISH, fluorescence in situ hybridisation; LDH, lactate dehydrogenase; HIV,
+human immunodeficiency virus; HBV, hepatitis B virus; HCV, hepatitis C virus; FDG, fluorodeoxyglucose; PET, positron emission tomography; CT,
+computed tomography; CeCT, contrast-enhanced CT; CNS, central nervous system; MRI, magnetic resonance imaging; LVEF, left ventricular ejection
+fraction; IPI, International Prognostic Index; aa-IPI, age-adjusted IPI; CHOP, cyclophosphamide, doxorubicin, vincristine and prednisone; R, rituximab; RAVCBP, rituximab, doxorubicin, vindesine, cyclophosphamide, bleomycin and prednisolone; R-CHOEP, rituximab, cyclophosphamide, doxorubicin,
+vincristine, etoposide and prednisolone; HDC, high-dose chemotherapy; ASCT, autologous stem-cell transplantation.
+
+Table 6. Levels of evidence and grades of recommendation (adapted from the Infectious Diseases Society of America-United States Public Health
+Service Grading Systema)
+Levels of evidence
+I
+II
+III
+IV
+V
+
+Evidence from at least one large randomised, controlled trial of good methodological quality (low potential for bias) or metaanalyses of well-conducted randomised trials without heterogeneity
+Small randomised trials or large randomised trials with a suspicion of bias (lower methodological quality) or meta-analyses of
+such trials or of trials with demonstrated heterogeneity
+Prospective cohort studies
+Retrospective cohort studies or case–control studies
+Studies without control group, case reports, experts opinions
+
+Grades of recommendation
+A
+B
+C
+D
+E
+a
+
+Strong evidence for efficacy with a substantial clinical benefit, strongly recommended
+Strong or moderate evidence for efficacy but with a limited clinical benefit, generally recommended
+Insufficient evidence for efficacy or benefit does not outweigh the risk or the disadvantages (adverse events, costs, … ),
+optional
+Moderate evidence against efficacy or for adverse outcome, generally not recommended
+Strong evidence against efficacy or for adverse outcome, never recommended
+
+By permission of the Infectious Diseases Society of America [86].
+
+v | Tilly et al.
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+
+present time, pending results of large comparative studies, none
+of these agents is appropriate for routine therapy in practice.
+The activated B-cell (ABC) subtype has been shown to have a
+worse prognosis when compared with germinal centre B-cell
+(GCB) in patients treated by R-CHOP [8]. A subgroup analysis
+suggested that R-ACVBP could have a survival beneﬁt over RCHOP in the non-GCB population [III, C] [73]. The ABC
+subtype is characterised by a constitutive activation of the
+NF-κB pathway, which could be targeted by different agents
+as bortezomib and lenalidomide. Bortezomib combined with
+dose-adjusted-EPOCH (etoposide, vincristine, doxorubicin,
+cyclophosphamide and prednisone) (DA-EPOCH) has shown
+selective activity in a small study of relapsed/refractory ABCDLBCL [74]. A UK/Swiss phase III trial (REMoDL-B) comparing R-CHOP with R-CHOP-bortezomib in gene expression
+prolife deﬁned cell of origin subgroups of DLBCL is nearly completed. Lenalidomide, as a single agent, demonstrated selective
+efﬁcacy in the non-GCB subtype [75, 76]. In two phase II
+studies, the combination of lenalidomide and R-CHOP showed
+acceptable toxicity [77, 78]. In one of these studies, the PFS and
+OS of the patients treated with the combination were identical
+in non-GCB and GCB subtypes [78], leading to the initiation of
+a randomised study in the ABC subtype.
+Ibrutinib, a novel oral Bruton’s tyrosine kinase inhibitor, has
+shown selective activity in ABC-DLBCL. The combination of
+ibrutinib with R-CHOP has demonstrated promising responses,
+leading to the initiation of a phase III trial in the non-GCB
+population [79].
+DLBCL with MYC rearrangement and/or MYC overexpression is usually considered a subgroup with aggressive behaviour.
+However, many uncertainties remain about the extent of this
+subgroup concerning translocation partners, additional defects
+(double or triple hit), combination of genetic abnormalities and
+MYC protein overexpression and dual overexpression with
+MYC and BCL2 [80]. Although R-CHOP gives poor outcomes
+for double-hit lymphomas, only preliminary results have suggested better results with more intensive regimens, and clinical
+trials are required in this subtype [81, 82].
+Whole-genome next-generation sequencing studies have
+identiﬁed frequent and recurrent mutations which may play a
+crucial role in lymphoma development [83–85]. These molecular defects may prove useful targets in the future treatment and
+management of DLBCL.
+
+methodology
+These clinical practice guidelines were developed in accordance
+with the ESMO standard operating procedures for clinical practice guidelines development. The relevant literature has been
+selected by the expert authors. A summary of recommendations
+is shown in Table 5. Levels of evidence and grades of recommendation have been applied using the system shown in
+Table 6. Statements without grading were considered justiﬁed
+standard clinical practice by the experts and the ESMO faculty.
+This manuscript has been subjected to an anonymous peer
+review process.
+
+Volume 26 | Supplement 5 | September 2015
+
+clinical practice guidelines
+conﬂict of interest
+HT has received honoraria from Celgene, Roche, Janssen-Cilag
+and Takeda; research contracts from Celgene, Roche/Genentech
+and Janssen-Cilag. MG has reported advisory boards for Roche,
+Celgene, Janssen-Cilag, Pﬁzer and Ferrer. UV has reported advisory boards for Roche; lectures sponsored by Roche, Janssen,
+Celgene and Mundipharma. AL-G has reported advisory boards
+for Roche, Celgene, Novartis, Mundipharma, Inﬁnity, Bayer and
+Gilead. JW has declared advisory boards for Roche, Celgene,
+Janssen-Cilag and Takeda; research support from Roche,
+Celgene, Janssen-Cilag, Takeda, GlaxoSmithKline, Gilead and
+Seattle Genetics. PJ has reported research grants partially
+funded by Janssen-Cilag and Epizyme; member of data monitoring and safety committee for Boehringer Ingelheim; advisory
+board member for Roche, Bristol-Myers Squibb, Janssen-Cilag
+and Takeda. MP has declared advisory boards for BoehringerIngelheim, Celgene and Roche; research support from Roche,
+Amgen and Spectrum. ML has reported honoraria from
+Celgene, Janssen-Cilag, Roche, Amgen Mundipharma and Teva;
+research contracts from Celgene, Pﬁzer, Mundipharma and
+Roche; funds received from Amgen, Roche and Takeda. MM
+and MA have reported no potential conﬂicts of interest. UV has
+not reported any potential conﬂicts of interest.
+
+references
+1. Sant M, Allemani C, Tereanu C et al. Incidence of hematologic malignancies in
+Europe by morphologic subtype: results of the HAEMACARE project. Blood 2010;
+116: 3724–3734.
+2. Morton LM, Slager SL, Cerhan JR et al. Etiologic heterogeneity among nonHodgkin lymphoma subtypes: the InterLymph Non-Hodgkin Lymphoma Subtypes
+Project. J Natl Cancer Inst Monogr 2014: 130–144.
+3. Sant M, Minicozzi P, Mounier M et al. Survival for haematological malignancies in
+Europe between 1997 and 2008 by region and age: results of EUROCARE-5, a
+population-based study. Lancet Oncol 2014; 15: 931–942.
+4. Ott G, Ziepert M, Klapper W et al. Immunoblastic morphology but not the
+immunohistochemical GCB/non-GCB classiﬁer predicts outcome in diffuse large B-cell
+lymphoma in the RICOVER-60 trial of the DSHNHL. Blood 2010; 116: 4916–4925.
+5. Swerdlow SH, Campo E, Harris NL et al. World Health Organization Classiﬁcation of
+Tumours of Haematopoietic and Lymphoid Tissues, 4th edition. Lyon, France: IARC
+2008.
+6. Langerak AW, Groenen PJ, Brüggemann M et al. EuroClonality/BIOMED-2
+guidelines for interpretation and reporting of Ig/TCR clonality testing in suspected
+lymphoproliferations. Leukemia 2012; 26: 2159–2171.
+7. Wright G, Tan B, Rosenwald A et al. A gene expression-based method to diagnose
+clinically distinct subgroups of diffuse large B cell lymphoma. Proc Natl Acad Sci
+USA 2003; 100: 9991–9996.
+8. Lenz G, Wright GW, Emre NC et al. Molecular subtypes of diffuse large B-cell
+lymphoma arise by distinct genetic pathways. Proc Natl Acad Sci USA 2008; 105:
+13520–13525.
+9. Scott DW, Wright GW, Williams PM et al. Determining cell-of-origin subtypes of
+diffuse large B-cell lymphoma using gene expression in formalin-ﬁxed parafﬁnembedded tissue. Blood 2014; 123: 1214–1217.
+10. Mareschal S, Ruminy P, Bagacean C et al. Accurate classiﬁcation of germinal
+center b-cell-like/activated b-cell-like diffuse large b-cell lymphoma using a simple
+and rapid reverse transcriptase-multiplex ligation-dependent probe ampliﬁcation
+assay: a CALYM study. Mol Diagn 2015 [Epub ahead of print].
+11. Hans CP, Weisenburger DD, Greiner TC et al. Conﬁrmation of the molecular
+classiﬁcation of diffuse large B-cell lymphoma by immunohistochemistry using a
+tissue microarray. Blood 2004; 103: 275–282.
+
+doi:10.1093/annonc/mdv304 | v
+
+clinical practice guidelines
+12. Choi WW, Weisenburger DD, Greiner TC et al. A new immunostain algorithm
+classiﬁes diffuse large B-cell lymphoma into molecular subtypes with high
+accuracy. Clin Cancer Res 2009; 15: 5494–5502.
+13. de Jong D, Rosenwald A, Chhanabhai M et al. Immunohistochemical prognostic
+markers in diffuse large B-cell lymphoma: validation of tissue microarray as a
+prerequisite for broad clinical applications—a study from the Lunenburg
+Lymphoma Biomarker Consortium. J Clin Oncol 2007; 25: 805–812.
+14. Savage KJ, Johnson NA, Ben-Neriah S et al. MYC gene rearrangements are
+associated with a poor prognosis in diffuse large B-cell lymphoma patients treated
+with R-CHOP chemotherapy. Blood 2009; 114: 3533–3537.
+15. Barrans S, Crouch S, Smith A et al. Rearrangement of MYC is associated with poor
+prognosis in patients with diffuse large B-cell lymphoma treated in the era of
+rituximab. J Clin Oncol 2010; 28: 3360–3365.
+16. Lin P, Dickason TJ, Fayad LE et al. Prognostic value of MYC rearrangement in cases
+of B-cell lymphoma, unclassiﬁable, with features intermediate between diffuse large
+B-cell lymphoma and Burkitt lymphoma. Cancer 2012; 118: 1566–1573.
+17. Green TM, Young KH, Visco C et al. Immunohistochemical double-hit score is a
+strong predictor of outcome in patients with diffuse large B-cell lymphoma treated
+with rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisone. J
+Clin Oncol 2012; 30: 3460–3467.
+18. Johnson NA, Slack GW, Savage KJ et al. Concurrent expression of MYC and BCL2
+in diffuse large B-cell lymphoma treated with rituximab plus cyclophosphamide,
+doxorubicin, vincristine, and prednisone. J Clin Oncol 2012; 30: 3452–3459.
+19. Horn H, Ziepert M, Becher C et al. MYC status in concert with BCL2 and BCL6
+expression predicts outcome in diffuse large B-cell lymphoma. Blood 2013; 121:
+2253–2263.
+20. Cheson BD, Fisher RI, Barrington SF et al. Recommendations for initial evaluation,
+staging, and response assessment of Hodgkin and non-Hodgkin lymphoma: the
+Lugano classiﬁcation. J Clin Oncol 2014; 32: 3059–3068.
+21. Barrington SF, Mikhaeel NG, Kostakoglu L et al. Role of imaging in the staging and
+response assessment of lymphoma: consensus of the International Conference on
+Malignant Lymphomas Imaging Working Group. J Clin Oncol 2014; 32: 3048–3058.
+22. Khan AB, Barrington SF, Mikhaeel NG et al. PET-CT staging of DLBCL accurately
+identiﬁes and provides new insight into the clinical signiﬁcance of bone marrow
+involvement. Blood 2013; 122: 61–67.
+23. Pelosi E, Penna D, Douroukas A et al. Bone marrow disease detection with FDGPET/CT and bone marrow biopsy during the staging of malignant lymphoma: results
+from a large multicentre study. Q J Nucl Med Mol Imaging 2011; 55: 469–475.
+24. Benevolo G, Stacchini A, Spina M et al. Final results of a multicenter trial
+addressing role of CSF ﬂow cytometric analysis in NHL patients at high risk for
+CNS dissemination. Blood 2012; 120: 3222–3228.
+25. A predictive model for aggressive non-Hodgkin’s lymphoma. The International NonHodgkin’s Lymphoma Prognostic Factors Project. N Engl J Med 1993; 329: 987–994.
+26. Récher C, Coifﬁer B, Haioun C et al. Intensiﬁed chemotherapy with ACVBP plus
+rituximab versus standard CHOP plus rituximab for the treatment of diffuse large
+B-cell lymphoma (LNH03-2B): an open-label randomised phase 3 trial. Lancet
+2011; 378: 1858–1867.
+27. Fitoussi O, Belhadj K, Mounier N et al. Survival impact of rituximab combined with
+ACVBP and upfront consolidation autotransplantation in high-risk diffuse large Bcell lymphoma for GELA. Haematologica 2011; 96: 1136–1143.
+28. Ziepert M, Hasenclever D, Kuhnt E et al. Standard international prognostic index
+remains a valid predictor of outcome for patients with aggressive CD20+ B-cell
+lymphoma in the rituximab era. J Clin Oncol 2010; 28: 2373–2380.
+29. Ketterer N, Coifﬁer B, Thieblemont C et al. Phase III study of ACVBP versus ACVBP
+plus rituximab for patients with localized low-risk diffuse large B-cell lymphoma
+(LNH03–1B). Ann Oncol 2013; 24: 1032–1037.
+30. Pfreundschuh M, Ho AD, Cavallin-Stahl E et al. Prognostic signiﬁcance of
+maximum tumour (bulk) diameter in young patients with good-prognosis diffuse
+large-B-cell lymphoma treated with CHOP-like chemotherapy with or without
+rituximab: an exploratory analysis of the MabThera International Trial Group (MInT)
+study. Lancet Oncol 2008; 9: 435–444.
+31. Pfreundschuh M, Kuhnt E, Trumper L et al. CHOP-like chemotherapy with or
+without rituximab in young patients with good-prognosis diffuse large-B-cell
+lymphoma: 6-year results of an open-label randomised study of the MabThera
+International Trial (MInT) Group. Lancet Oncol 2011; 12: 1013–1022.
+
+v | Tilly et al.
+
+Annals of Oncology
+32. Reyes F, Lepage E, Ganem G et al. ACVBP versus CHOP plus radiotherapy for
+localized aggressive lymphoma. N Engl J Med 2005; 352: 1197–1205.
+33. Lamy T, Damaj G, Gyan E et al. R-CHOP with or without radiotherapy in non-bulky
+limited-stage diffuse large B cell lymphoma (DLBCL): preliminary results of the
+prospective randomized phase III 02-03 trial from the Lysa/Goelams Group. In:
+2014 ASH Annual Meeting, Orlando, Florida. Abstract 393.
+34. Cunningham D, Hawkes EA, Jack A et al. Rituximab plus cyclophosphamide,
+doxorubicin, vincristine, and prednisolone in patients with newly diagnosed diffuse
+large B-cell non-Hodgkin lymphoma: a phase 3 comparison of dose intensiﬁcation
+with 14-day versus 21-day cycles. Lancet 2013; 381: 1817–1826.
+35. Schmitz N, Nickelsen M, Ziepert M et al. Conventional chemotherapy (CHOEP-14)
+with rituximab or high-dose chemotherapy (MegaCHOEP) with rituximab for young,
+high-risk patients with aggressive B-cell lymphoma: an open-label, randomised,
+phase 3 trial (DSHNHL 2002–1). Lancet Oncol 2012; 13: 1250–1259.
+36. Vitolo U, Chiappella A, Brusamolino E et al. Rituximab dose-dense
+chemotherapy followed by intensiﬁed high-dose chemotherapy and autologous
+stem cell transplantation (HDC+ASCT) signiﬁcantly reduces the risk of
+progression compared to standard rituximab dose-dense chemotherapy as ﬁrst
+line treatment in young patients with high-risk (aa-IPI 2-3) diffuse large B-cell
+lymphoma (DLBCL): ﬁnal results of phase III randomized trial DLCL04 of the
+Fondazione Italiana Linfomi (FIL). Blood (ASH Annual Meeting Abstracts), 2012;
+120: 688.
+37. Stiff PJ, Unger JM, Cook JR et al. Autologous transplantation as consolidation for
+aggressive non-Hodgkin’s lymphoma. N Engl J Med 2013; 369: 1681–1690.
+38. Le Gouill S, Milpied NJ, Lamy T et al. First-line rituximab (R) high-dose therapy (RHDT) versus R-CHOP14 for young adults with diffuse large B-cell lymphoma:
+preliminary results of the GOELAMS 075 prospective multicenter randomized trial.
+J Clin Oncol (ASCO Annual Meeting Abstracts Part 1) 2011; 29: 8003.
+39. Casasnovas RO, Ysebaert L, Thieblemont C et al. Final results of a randomized
+phase II GELA/LYSA study of rituximab plus ACVBP or CHOP, using a PET-driven
+consolidation strategy, in patients with high-risk diffuse large B-cell lymphoma
+(DLBCL). J Clin Oncol (ASCO Annual Meeting Abstracts) 2014; 32: 8503.
+40. Sehn LH, Hardy ELG, Gill KK et al. Phase 2 trial of interim PET scan-tailored
+therapy in patients with advanced stage diffuse large B-cell lymphoma (DLBCL) in
+British Columbia (BC). Blood (ASH Annual Meeting Abstracts) 2014; 124: 392.
+41. Coifﬁer B, Thieblemont C, Van Den Neste E et al. Long-term outcome of patients in
+the LNH-98.5 trial, the ﬁrst randomized study comparing rituximab-CHOP to
+standard CHOP chemotherapy in DLBCL patients: a study by the Groupe d’Etudes
+des Lymphomes de l’Adulte. Blood 2010; 116: 2040–2045.
+42. Delarue R, Tilly H, Mounier N et al. Dose-dense rituximab-CHOP compared with
+standard rituximab-CHOP in elderly patients with diffuse large B-cell lymphoma
+(the LNH03-6B study): a randomised phase 3 trial. Lancet Oncol 2013; 14:
+525–533.
+43. Pfreundschuh M, Schubert J, Ziepert M et al. Six versus eight cycles of bi-weekly
+CHOP-14 with or without rituximab in elderly patients with aggressive CD20+ Bcell lymphomas: a randomised controlled trial (RICOVER-60). Lancet Oncol 2008;
+9: 105–116.
+44. Bonnet C, Fillet G, Mounier N et al. CHOP alone compared with CHOP plus
+radiotherapy for localized aggressive lymphoma in elderly patients: a study by the
+Groupe d’Etude des Lymphomes de l’Adulte. J Clin Oncol 2007; 25: 787–792.
+45. Held G, Murawski N, Ziepert M et al. Role of radiotherapy to bulky disease in
+elderly patients with aggressive B-cell lymphoma. J Clin Oncol 2014; 32:
+1112–1118.
+46. Pfreundschuh M, Poeschel V, Zeynalova S et al. Optimization of rituximab for the
+treatment of diffuse large B-cell lymphoma (II): extended rituximab exposure time
+in the SMARTE-R-CHOP-14 trial of the German high-grade non-Hodgkin
+lymphoma study group. J Clin Oncol 2014; 32: 4127–4133.
+47. Morrison VA, Hamlin P, Soubeyran P et al. Diffuse large B-cell lymphoma in the
+elderly: impact of prognosis, comorbidities, geriatric assessment, and
+supportive care on clinical practice. An International Society of Geriatric
+Oncology (SIOG) Expert Position Paper. J Geriatr Oncol 2015; 6: 141–152.
+48. Tucci A, Martelli M, Rigacci L et al. Comprehensive geriatric assessment is an
+essential tool to support treatment decisions in elderly patients with diffuse large
+B-cell lymphoma: a prospective multicenter evaluation in 173 patients by the
+Lymphoma Italian Foundation (FIL). Leuk Lymphoma 2015; 56: 921–926.
+
+Volume 26 | Supplement 5 | September 2015
+
+Annals of Oncology
+49. Spina M, Balzarotti M, Uziel L et al. Modulated chemotherapy according to
+modiﬁed comprehensive geriatric assessment in 100 consecutive elderly patients
+with diffuse large B-cell lymphoma. Oncologist 2012; 17: 838–846.
+50. Peyrade F, Jardin F, Thieblemont C et al. Attenuated immunochemotherapy
+regimen (R-miniCHOP) in elderly patients older than 80 years with diffuse large Bcell lymphoma: a multicentre, single-arm, phase 2 trial. Lancet Oncol 2011; 12:
+460–468.
+51. Fields PA, Townsend W, Webb A et al. De novo treatment of diffuse large B-cell
+lymphoma with rituximab, cyclophosphamide, vincristine, gemcitabine, and
+prednisolone in patients with cardiac comorbidity: a United Kingdom National
+Cancer Research Institute trial. J Clin Oncol 2014; 32: 282–287.
+52. Kridel R, Dietrich PY. Prevention of CNS relapse in diffuse large B-cell lymphoma.
+Lancet Oncol 2011; 12: 1258–1266.
+53. Savage KJ, Zeynalova S, Kansara RR et al. Validation of a prognostic model to
+assess the risk of CNS disease in patients with aggressive B-cell lymphoma. Blood
+(ASH Annual Meeting Abstracts) 2014; 124: 394.
+54. Tilly H, Lepage E, Coifﬁer B et al. Intensive conventional chemotherapy (ACVBP
+regimen) compared with standard CHOP for poor-prognosis aggressive nonHodgkin lymphoma. Blood 2003; 102: 4284–4289.
+55. Abramson JS, Hellmann M, Barnes JA et al. Intravenous methotrexate as central
+nervous system (CNS) prophylaxis is associated with a low risk of CNS recurrence
+in high-risk patients with diffuse large B-cell lymphoma. Cancer 2010; 116:
+4283–4290.
+56. Cheah CY, Herbert KE, O’Rourke K et al. A multicentre retrospective comparison of
+central nervous system prophylaxis strategies among patients with high-risk diffuse
+large B-cell lymphoma. Br J Cancer 2014; 111: 1072–1079.
+57. Coutinho R, Pria AD, Gandhi S et al. HIV status does not impair the outcome of
+patients diagnosed with diffuse large B-cell lymphoma treated with R-CHOP in the
+cART era. AIDS 2014; 28: 689–697.
+58. Seto WK, Chan TS, Hwang YY et al. Hepatitis B reactivation in patients with
+previous hepatitis B virus exposure undergoing rituximab-containing chemotherapy
+for lymphoma: a prospective study. J Clin Oncol 2014; 32: 3736–3743.
+59. Meignan M, Itti E, Gallamini A, Haioun C. Interim 18F-ﬂuorodeoxyglucose
+positron emission tomography in diffuse large B-cell lymphoma: qualitative or
+quantitative interpretation—where do we stand? Leuk Lymphoma 2009; 50:
+1753–1756.
+60. Maurer MJ, Ghesquieres H, Jais JP et al. Event-free survival at 24 months is a
+robust end point for disease-related outcome in diffuse large B-cell lymphoma
+treated with immunochemotherapy. J Clin Oncol 2014; 32: 1066–1073.
+61. Thompson CA, Ghesquieres H, Maurer MJ et al. Utility of routine post-therapy
+surveillance imaging in diffuse large B-cell lymphoma. J Clin Oncol 2014; 32:
+3506–3512.
+62. Chien SH, Liu CJ, Hu YW et al. Frequency of surveillance computed tomography in
+non-Hodgkin lymphoma and the risk of secondary primary malignancies: a
+nationwide population-based study. Int J Cancer 2015; 137: 658–665.
+63. Gisselbrecht C, Glass B, Mounier N et al. Salvage regimens with autologous
+transplantation for relapsed large B-cell lymphoma in the rituximab era. J Clin
+Oncol 2010; 28: 4184–4190.
+64. Horwitz SM, Negrin RS, Blume KG et al. Rituximab as adjuvant to high-dose
+therapy and autologous hematopoietic cell transplantation for aggressive nonHodgkin lymphoma. Blood 2004; 103: 777–783.
+65. Kewalramani T, Zelenetz AD, Nimer SD et al. Rituximab and ICE as second-line
+therapy before autologous stem cell transplantation for relapsed or primary
+refractory diffuse large B-cell lymphoma. Blood 2004; 103: 3684–3688.
+66. Crump M, Kuruvilla J, Couban S et al. Randomized comparison of gemcitabine,
+dexamethasone, and cisplatin versus dexamethasone, cytarabine, and cisplatin
+chemotherapy before autologous stem-cell transplantation for relapsed and refractory
+aggressive lymphomas: NCIC-CTG LY.12. J Clin Oncol 2014; 32: 3490–3496.
+67. Thieblemont C, Briere J, Mounier N et al. The germinal center/activated B-cell
+subclassiﬁcation has a prognostic impact for response to salvage therapy in
+relapsed/refractory diffuse large B-cell lymphoma: a bio-CORAL study. J Clin Oncol
+2011; 29: 4079–4087.
+
+Volume 26 | Supplement 5 | September 2015
+
+clinical practice guidelines
+68. Gisselbrecht C, Schmitz N, Mounier N et al. Rituximab maintenance therapy after
+autologous stem-cell transplantation in patients with relapsed CD20(+) diffuse large
+B-cell lymphoma: ﬁnal analysis of the collaborative trial in relapsed aggressive
+lymphoma. J Clin Oncol 2012; 30: 4462–4469.
+69. Glass B, Hasenkamp J, Wulf G et al. Rituximab after lymphoma-directed conditioning
+and allogeneic stem-cell transplantation for relapsed and refractory aggressive nonHodgkin lymphoma (DSHNHL R3): an open-label, randomised, phase 2 trial. Lancet
+Oncol 2014; 15: 757–766.
+70. Mounier N, El Gnaoui T, Tilly H et al. Rituximab plus gemcitabine and oxaliplatin in
+patients with refractory/relapsed diffuse large B-cell lymphoma who are not
+candidates for high-dose therapy. A phase II Lymphoma Study Association trial.
+Haematologica 2013; 98: 1726–1731.
+71. Pettengell R, Coifﬁer B, Narayanan G et al. Pixantrone dimaleate versus other
+chemotherapeutic agents as a single-agent salvage treatment in patients with
+relapsed or refractory aggressive non-Hodgkin lymphoma: a phase 3, multicentre,
+open-label, randomised trial. Lancet Oncol 2012; 13: 696–706.
+72. Dickinson M, Hoyt R, Roberts AW et al. Improved survival for relapsed diffuse large
+B cell lymphoma is predicted by a negative pre-transplant FDG-PET scan following
+salvage chemotherapy. Br J Haematol 2010; 150: 39–45.
+73. Molina TJ, Canioni D, Copie-Bergman C et al. Young patients with non-germinal
+center B-cell-like diffuse large B-cell lymphoma beneﬁt from intensiﬁed
+chemotherapy with ACVBP plus rituximab compared with CHOP plus rituximab:
+analysis of data from the Groupe d’Etudes des Lymphomes de l’Adulte/lymphoma
+study association phase III trial LNH 03–2B. J Clin Oncol 2014; 32: 3996–4003.
+74. Dunleavy K, Pittaluga S, Czuczman MS et al. Differential efﬁcacy of bortezomib
+plus chemotherapy within molecular subtypes of diffuse large B-cell lymphoma.
+Blood 2009; 113: 6069–6076.
+75. Hernandez-Ilizaliturri FJ, Deeb G, Zinzani PL et al. Higher response to lenalidomide in
+relapsed/refractory diffuse large B-cell lymphoma in nongerminal center B-cell-like
+than in germinal center B-cell-like phenotype. Cancer 2011; 117: 5058–5066.
+76. Czuczman MS, Davies A, Linton KM et al. A phase 2/3 multicenter, randomized study
+comparing the efﬁcacy and safety of lenalidomide versus investigator’s choice in
+relapsed/refractory DLBCL. Blood (ASH Annual Meeting Abstracts) 2014; 124: 628.
+77. Vitolo U, Chiappella A, Franceschetti S et al. Lenalidomide plus R-CHOP21 in
+elderly patients with untreated diffuse large B-cell lymphoma: results of the
+REAL07 open-label, multicentre, phase 2 trial. Lancet Oncol 2014; 15: 730–737.
+78. Nowakowski GS, LaPlant B, Macon WR et al. Lenalidomide combined with RCHOP overcomes negative prognostic impact of non-germinal center B-cell
+phenotype in newly diagnosed diffuse large B-cell lymphoma: a phase II study. J
+Clin Oncol 2015; 33: 251–257.
+79. Younes A, Thieblemont C, Morschhauser F et al. Combination of ibrutinib with
+rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP)
+for treatment-naive patients with CD20-positive B-cell non-Hodgkin lymphoma: a
+non-randomised, phase 1b study. Lancet Oncol 2014; 15: 1019–1026.
+80. Swerdlow SH. Diagnosis of "double hit" diffuse large B-cell lymphoma and B-cell
+lymphoma, unclassiﬁable, with features intermediate Burkitt lymphoma: when and how,
+FISH versus IHC. Hematology Am Soc Hematol Educ Program 2014; 2014: 90–99.
+81. Oki Y, Noorani M, Lin P et al. Double hit lymphoma: the MD Anderson Cancer
+Center clinical experience. Br J Haematol 2014; 166: 891–901.
+82. Petrich AM, Gandhi M, Jovanovic B et al. Impact of induction regimen and stem
+cell transplantation on outcomes in double-hit lymphoma: a multicenter
+retrospective analysis. Blood 2014; 124: 2354–2361.
+83. Intlekofer AM, Younes A. Precision therapy for lymphoma—current state and
+future directions. Nat Rev Clin Oncol 2014; 11: 585–596.
+84. Dunleavy K, Roschewski M, Wilson WH. Precision treatment of distinct molecular
+subtypes of diffuse large B-cell lymphoma: ascribing treatment based on the
+molecular phenotype. Clin Cancer Res 2014; 20: 5182–5193.
+85. Jardin F. Next generation sequencing and the management of diffuse large B-cell
+lymphoma: from whole exome analysis to targeted therapy. Discov Med 2014; 18:
+51–65.
+86. Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among
+hematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33: 139–144.
+
+doi:10.1093/annonc/mdv304 | v
+
+

@@ -1,0 +1,1386 @@
+SPECIAL ARTICLE
+
+Oesophageal cancer: ESMO Clinical Practice Guideline for diagnosis,
+treatment and follow-up5
+R. Obermannová1, M. Alsina2,3, A. Cervantes4,5, T. Leong6, F. Lordick7, M. Nilsson8,9, N. C. T. van Grieken10, A. Vogel11 &
+E. C. Smyth12, on behalf of the ESMO Guidelines Committee*
+1
+
+Department of Comprehensive Cancer Care, Masaryk Memorial Cancer Institute, Faculty of Medicine, Masaryk University, Brno, Czech Republic; 2Department of
+Medical Oncology, Hospital Universitario de Navarra (HUN), Pamplona; 3Gastrointestinal Tumours Group, Vall d’Hebron Institute of Oncology, Barcelona; 4Department
+of Medical Oncology, INCLIVA Biomedical Research Institute, University of Valencia, Valencia; 5CIBERONC, Instituto de Salud Carlos III, Madrid, Spain; 6The Sir Peter
+MacCallum Department of Oncology, Peter MacCallum Cancer Centre, University of Melbourne, Melbourne, Australia; 7Department of Medicine II (Oncology,
+Gastroenterology, Hepatology, Pulmonology and Infectious Diseases), University Cancer Center Leipzig (UCCL), Leipzig University Medical Center, Leipzig, Germany;
+8
+Department of Clinical Science, Intervention and Technology, Karolinska Institutet, Stockholm; 9Department of Upper Abdominal Diseases, Karolinska University
+Hospital, Stockholm, Sweden; 10Department of Pathology, Amsterdam University Medical Centers, Cancer Center Amsterdam, Vrije Universiteit, Amsterdam, The
+Netherlands; 11Department of Gastroenterology, Hepatology and Endocrinology, Hannover Medical School, Hannover, Germany; 12Department of Oncology,
+Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK
+
+Available online 29 July 2022
+
+Key words: diagnosis, ESMO Clinical Practice Guideline, follow-up, oesophageal cancer, treatment
+
+INCIDENCE AND EPIDEMIOLOGY
+Oesophageal cancer is the seventh most common cancer
+worldwide, with 604 000 new cases diagnosed in 2020. It is
+the sixth most common cause of cancer-related mortality,
+with an estimated 544 000 deaths in 2020.1 Approximately
+70% of oesophageal cancer diagnoses occur in men; there is
+a twofold to threefold difference in incidence and mortality
+rates between the sexes. Rates of oesophageal cancer are
+higher in developing versus developed countries for men,
+but are comparable for women.2 Eastern Asia exhibits the
+highest regional incidence, followed by Southern Africa,
+Eastern Africa, Northern Europe and South Central Asia.1
+Recent data from the US Surveillance, Epidemiology, and
+End Results database indicate an increased incidence of
+oesophageal adenocarcinoma (AC) in patients aged
+<50 years. In addition, young patients tend to be diagnosed
+in more advanced stages.3
+There are two main subtypes of oesophageal cancer:
+oesophageal squamous-cell carcinoma (SCC) and oesophageal AC. Although SCC accounts for w90% of cases of
+oesophageal cancer worldwide, the incidence of AC is rising
+and has surpassed the incidence rate of SCC in several
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5
+Note: Approved by the ESMO Guidelines Committee: September 2016, last
+update July 2022. This publication supersedes the previously published versiondAnn Oncol 2016;27(suppl 5):v50-v57.
+0923-7534/© 2022 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+992
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+regions of Europe and North America, as well as certain
+high-risk areas of Asia, where this change was preceded by
+economic development and dietary changes (e.g. in China).2
+Heavy alcohol consumption, smoking and their synergistic effects are the major risk factors for oesophageal SCC in
+Western populations.4 In lower-income countries, including
+parts of Asia and sub-Saharan Africa, the major risk factors
+for oesophageal SCC have yet to be elucidated, although
+potential dietary components have been identiﬁed,
+including nutritional deﬁciencies and nitrosamines.5 Additional suspected risk factors for oesophageal SCC are betel
+quid chewing in the Indian subcontinent, consumption of
+pickled vegetables (e.g. in China) and consumption of food
+and beverages at very hot temperatures (e.g. in Uruguay,
+Iran and Tanzania).4
+AC represents roughly two-thirds of oesophageal cancer
+cases in high-income countries, with excess body weight,
+gastroesophageal reﬂux disease and oesophageal intestinal
+metaplasia among the key risk factors.4,6,7 Across highincome countries, incidence rates of oesophageal AC are
+thus rising, partly due to the increasing prevalence of excess
+body weight and gastroesophageal reﬂux disease, and
+possibly because of decreasing incidence of chronic Helicobacter pylori (H. pylori) infection,8 which has been inversely
+associated with oesophageal AC.9 These trends are predicted
+to continue in the near future, with incidence of oesophageal
+AC surpassing SCC in many high-income countries.
+Finally, the incidence of oesophagogastric junction (OGJ)
+AC seems to have moderately increased during recent
+decades, although this has not been uniformly classiﬁed.10
+Similar to oesophageal AC, obesity, gastroesophageal
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+R. Obermannová et al.
+
+Annals of Oncology
+
+reﬂux disease and a high fat intake are risk factors for OGJ
+cancer,7 and H. pylori infection is inversely related.8
+DIAGNOSIS, PATHOLOGY AND MOLECULAR BIOLOGY
+Diagnosis
+Screening for precursor lesions (oesophageal intestinal
+metaplasia) in high-risk patients, surveillance and endoscopic ablation of precursor lesions are not discussed in this
+guideline. The guidelines of the American College of
+Gastroenterology should be followed.11
+The recommended diagnostic and staging investigations
+are detailed in Table 1. All patients with new dysphagia,
+gastrointestinal bleeding, recurrent aspiration or emesis and
+weight loss and/or loss of appetite should undergo an
+upper intestinal endoscopy. Approximately three-quarters
+of all oesophageal ACs are located in the distal oesophagus, whereas SCCs occur more frequently in the proximalto-middle oesophagus.12 Biopsies should be taken from all
+suspicious areas. There is limited evidence for the optimal
+number of biopsies required to ensure a diagnosis where
+malignancy is present. The accepted convention is to obtain
+6-8 representative biopsies of the lesion. The number of
+biopsies should be sufﬁcient for pathological and molecular
+analysis.
+
+Pathology
+Diagnosis should be based on endoscopic biopsies with the
+histological tumour type classiﬁed according to the World
+Health Organization (WHO) criteria.13 The differentiation
+
+Table 1. Diagnostic and staging investigations in oesophageal cancer
+Procedure
+
+Purpose
+
+FBC
+Renal and liver function
+
+Assess for iron-deﬁciency anaemia
+Assess renal and liver function to
+determine appropriate therapeutic
+options
+Endoscopy and biopsy
+Obtain tissue for diagnosis, histological
+classiﬁcation and molecular biomarkers,
+e.g. PD-L1 and HER2 status (AC)
+EUS
+Accurate assessment of T and N stage in
+potentially resectable tumours
+Bronchoscopy with endobronchial Assess tumour growth towards central
+ultrasonography
+airways; complementary to EUS,
+especially when tumour stricture
+precludes EUS
+CT of thorax þ abdomen
+Staging of tumour to detect local/
+ pelvis
+distant lymphadenopathy and
+metastatic disease
+PETeCT, if available
+Staging of tumour to detect local/
+distant lymphadenopathy and
+metastatic disease
+Laparoscopy  washings
+Exclude occult metastatic disease
+involving peritoneum/diaphragm,
+especially in locally advanced (T3/T4)
+ACs of the OGJ inﬁltrating the
+anatomical cardia
+AC, adenocarcinoma; CT, computed tomography; EUS, endoscopic ultrasound; FBC,
+full blood count; HER2, human epidermal growth factor receptor 2; N, node; OGJ,
+oesophagogastric junction; PD-L1, programmed death-ligand 1; PET, positron emission tomography; T, tumour.
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+between oesophageal SCC and AC is of prognostic and
+therapeutic relevance.
+Immunohistochemical (IHC) staining is recommended in
+poorly differentiated and undifferentiated cancers [grade
+3/4 American Joint Committee on Cancer (AJCC)/Union for
+International Cancer Control (UICC) 8th Edition] when differentiation between SCC and AC using morphological
+characteristics is not possible. In addition, other less
+frequently occurring tumour types, such as neuroendocrine
+tumours/carcinomas, lymphomas, mesenchymal tumours,
+melanomas or secondary tumours, must be identiﬁed
+separately from SCC and AC.
+Molecular pathology
+The Cancer Genome Atlas research network identiﬁed three
+subtypes of oesophageal SCC (oesophageal SCC1, oesophageal SCC2 and oesophageal SCC3), which are each
+associated with defects in speciﬁc molecular pathways.14 So
+far, no distinct therapeutic options for these subtypes are
+available.
+Patients with oesophageal SCC have been shown to beneﬁt
+from programmed cell death protein 1 (PD-1) blockade.15-23
+In patients who are candidates to receive ﬁrst-line treatment with immune checkpoint inhibitors (ICIs), programmed
+death-ligand 1 (PD-L1) IHC is recommended [see the table of
+ESMO Scale for Clinical Actionability of Molecular Targets
+(ESCAT) scores for further details; Supplementary Table S1,
+available at https://doi.org/10.1016/j.annonc.2022.07.003].
+PD-L1 expression is measured using tumour proportion score
+(TPS), which evaluates the percentage of viable tumour cells
+showing partial or complete membrane staining at any intensity (PD-L1 positivity is deﬁned as TPS 1% in the case of
+ﬁrst-line treatment with nivolumab and nivolumabeipilimumab), or combined positive score (CPS), which is calculated by the total number of cells with PD-L1-positive plasma
+membrane staining (including tumour cells, lymphocytes and
+macrophages) divided by the number of vital tumour cells,
+multiplied by 100 (PD-L1 positivity is deﬁned as CPS 10 in
+the case of ﬁrst-line treatment with pembrolizumab). In the
+CheckMate 648 study, TPS was determined using the PD-L1
+IHC 28-8 pharmDx assay, while in KEYNOTE-590, the PD-L1
+IHC 22C3 assay was used for CPS. In several tumour types,
+the analytical concordance between the two assays has
+shown to be high, although conﬂicting data also exist.24,25
+Currently, data on their interchangeability speciﬁcally in
+oesophageal SCC are awaited. Use of a validated test that is
+subject to a quality assurance programme is recommended.
+In the RATIONALE 302 study, PD-L1 expression was
+assessed using the VENTANA PD-L1 (SP 263) assay with
+tumour area positivity (TAP) score. TAP is deﬁned as the
+total percentage of the tumour area covered by tumour
+cells with any membrane staining above the background
+and tumour-associated immune cells with any staining
+above the background. Only patients with a TAP score 10
+were deﬁned as PD-L1 positive.23
+Molecular pathology assessment in oesophageal and OGJ
+AC should follow the recommendations provided in the
+ESMO Clinical Practice Guideline (CPG) for gastric cancer.26
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+993
+
+R. Obermannová et al.
+
+Annals of Oncology
+Recommendations
+ Patients with new dysphagia, gastrointestinal bleeding,
+recurrent aspiration or emesis and weight loss and/or
+loss of appetite should undergo an upper intestinal endoscopy [III, A]. Diagnosis should be made by histopathological assessment of multiple (6) endoscopic biopsies to
+guarantee an adequate representation of the tumour
+and sufﬁcient tissue for molecular analysis [I, B].
+ Histological diagnosis should be reported according to
+the WHO criteria [IV, A].
+ IHC staining is recommended in poorly differentiated and
+undifferentiated cancers when differentiation between
+SCC and AC using morphological characteristics is not
+possible [V, B].
+ For oesophageal SCC, PD-L1 expression by IHC according
+to the TPS or CPS is a validated predictive biomarker for
+ICI therapy [I-II, A].
+
+STAGING AND RISK ASSESSMENT
+Decisions about initial treatment for oesophageal cancer
+are based on clinical staging, which should be carried out
+with the highest degree of accuracy possible. Staging should
+include a complete clinical examination, endoscopy and
+computed tomography (CT) or positron emission tomography
+(PET) with [18F]2-ﬂuoro-2-deoxy-D-glucose (FDG). Endoscopic
+ultrasound (EUS) can be used for tumour (T) and node (N)
+staging, but has low accuracy for T1 tumours; in these cases,
+endoscopic resection offers more precise staging in addition
+to therapeutic beneﬁt.27,28
+EUS is particularly useful to determine the therapeutic
+strategy in two ways: (i) for assessment of T4b status with
+invasion towards the airways, pericardium or aorta, and (ii)
+for identiﬁcation and biopsy of suspected lymph node
+metastases outside the regular radiation ﬁeld or beyond the
+planned resection limits. In advanced T stages, tumour
+stricture may preclude the use of EUS. In the assessment of
+tumour growth towards central airways, bronchoscopy with
+endobronchial ultrasonography is a useful complement to
+EUS, especially when tumour stricture precludes EUS use.
+FDGePET (typically carried out as PETeCT) is helpful to
+identify otherwise undetected distant metastases. FDGe
+PET should therefore be carried out in patients who are
+candidates for oesophagectomy, as the ﬁnding of otherwise
+unknown distant metastases can help to avoid futile surgery; however, the availability of PETeCT differs between
+countries and centres.29-32
+Oesophageal SCCs are often accompanied by head and
+neck second primary tumours (HNSPTs). The prognosis of
+patients with an additional HNSPT is worse than patients
+with only oesophageal SCC. The pooled prevalence of
+HNSPT in patients with oesophageal SCC is 6.7%. Therefore,
+early detection of HNSPTs may improve the overall outcome
+of patients with oesophageal SCC.33 Patients with oesophageal SCC should undergo a qualiﬁed clinical examination
+of the head and neck region to exclude HNSPTs.
+
+994
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+In locally advanced (T3/T4) ACs of the OGJ inﬁltrating the
+anatomical cardia, laparoscopy should be carried out to rule
+out peritoneal metastases, which are found in w15% of
+patients.34 The ﬁnding of otherwise unknown peritoneal
+metastases may prevent patients from undergoing futile
+surgery.
+Oesophageal cancer should be staged according to the
+American Joint Committee on Cancer AJCC/UICC TNM
+(tumourenodeemetastasis) 8th edition staging system (see
+Supplementary Tables S2 and S3, available at https://doi.
+org/10.1016/j.annonc.2022.07.003).35 Anatomic staging
+should be complemented by medical risk assessment,
+especially in patients who are scheduled for multimodal
+therapy and/or surgery. Medical risk assessment should
+comprise a differential blood count as well as liver, pulmonary, cardiac and renal function tests.
+Nutritional status and history of weight loss should be
+assessed according to the European Society for Clinical
+Nutrition and Metabolism (ESPEN) guidelines.36 More than
+half of patients lose >5% of their body weight before
+admission for oesophagectomy, and 40% lose >10%. Independent from body mass index, weight loss confers an
+increased operative risk, worsens a patient’s quality of life
+(QoL) and is associated with poor survival in advanced
+disease. Therefore, nutritional support according to the
+ESPEN guidelines37 is an integral part of medical care for
+patients with oesophageal cancer, in both curative and
+palliative settings.
+Reduced physical activity is associated with worse outcomes following perioperative treatment. In addition, lower
+physical ﬁtness is a negative predictor of long-term survival
+in oesophagogastric cancer.38,39 A supervised exercise programme has been shown to improve cardiorespiratory
+ﬁtness and aspects of QoL in patients who have undergone
+an oesophagectomy and can therefore be recommended.40
+Other studies are investigating whether the addition of a
+perioperative exercise regimen to neoadjuvant chemotherapy (ChT) improves outcomes.41 Geriatric screening and
+assessment may help to identify patients who need additional support and/or are at increased risk of ChT-associated
+side-effects.42
+
+Recommendations
+ Initial staging and risk assessment should include physical examination, endoscopy and contrast-enhanced CT
+or FDGePETeCT scan of the thorax, abdomen  pelvis.
+EUS can be used for T and N staging [III, A].
+ FDGePET should be carried out in candidates for oesophagectomy [III, B].
+ In locally advanced (T3/T4) ACs of the OGJ which cross
+the diaphragm to inﬁltrate the anatomical cardia, laparoscopy should be carried out [IV, B].
+ The TNM stage should be recorded according to the latest edition of the AJCC/UICC guidelines and staging
+manual [IV, A].
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+R. Obermannová et al.
+
+Annals of Oncology
+
+ Nutritional status and history of weight loss should be
+assessed [III, A] and nutritional support provided [II, A]
+according to ESPEN guidelines.
+
+MANAGEMENT OF LOCAL AND LOCOREGIONAL DISEASES
+Multidisciplinary assessment and planning of treatment are
+mandatory.Treatment is determined together with the patient
+based on histological subtype, clinical TNM stage, tumour
+
+location and the patient’s predicted treatment tolerance,
+which considers performance status and comorbidities, and
+may be supplemented by functional testing. Correction of
+malnutrition is often warranted before curative-intent therapy
+can be started. Occasionally, enteral feeding is necessary,
+either via feeding jejunostomy or via nasogastric tube. Endoscopic stenting should be avoided in patients undergoing
+treatment with curative intent as this may worsen prognosis.43
+A proposed algorithm for the treatment of localised oesophageal and OGJ cancer is shown in Figure 1.
+
+Figure 1. Treatment algorithm for local/locoregional resectable oesophageal and OGJ cancer.
+Purple: general categories or stratiﬁcation; red: surgery; blue: systemic anticancer therapy; turquoise: combination of treatments or other systemic treatments; white:
+other aspects of management.
+AC, adenocarcinoma; ChT, chemotherapy; CRT, chemoradiotherapy; cTNM, clinical tumourenodeemetastasis; EMA, European Medicines Agency; EUS, endoscopic
+ultrasound; FDA, Food and Drug Administration; FDGePET, [18F]2-ﬂuoro-2-deoxy-D-glucoseepositron emission tomography; FLOT, 5-ﬂuorouracileleucovorineoxaliplatinedocetaxel; GoR, grade of recommendation; LoE, level of evidence; MCBS, Magnitude of Clinical Beneﬁt Score; MS-CT, multislice-computed tomography; OGJ,
+oesophagogastric junction; OS, overall survival; RT, radiotherapy; SCC, squamous-cell carcinoma.
+a
+Criteria for endoscopic instead of surgical resection are speciﬁed in the text.
+b
+For patients unable or unwilling to undergo surgery, combined CRT is superior to RT alone.
+c
+Evidence suggests that neoadjuvant CRT followed by surgery and deﬁnitive CRT is equally effective with regard to OS. Oesophageal surgery should be carried out in
+experienced (high-volume) centres only. For patients not willing to undergo oesophageal surgery or who are medically unﬁt for major surgery, deﬁnitive CRT should be
+preferred. Even many experienced centres prefer deﬁnitive CRT for oesophageal tumours with a very proximal/cervical location.
+d
+Sufﬁcient evidence supports the use of perioperative ChT as well as neoadjuvant CRT. Both standards can be recommended with an equal LoE/GoR [I, A]. Several
+ongoing studies in Europe are comparing both modalities. Inclusion of patients in one of these studies is encouraged. Some centres prefer neoadjuvant CRT for tumours
+of the oesophagus and OGJ type I or II according to Siewert’s classiﬁcation, while they use perioperative ChT for OGJ type III or II, but this is only a pragmatic solution not
+currently supported by scientiﬁc evidence.
+e
+ESMO-MCBS v1.191 was used to calculate scores for therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS Working
+Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).
+f
+This is optional in the case of incomplete response to CRT or local relapse and should only be carried out in selected patients and experienced centres [IV, C].
+g
+With residual vital tumour in the resection specimen.
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+995
+
+Annals of Oncology
+Early disease (cT1 N0 M0)
+Endoscopic en bloc resection, using either endoscopic
+mucosal resection (EMR) or endoscopic submucosal dissection (ESD), is the treatment of choice for lesions with intraepithelial high-grade dysplasia and most T1 tumours.44,45
+Examination of the specimen provides accurate staging and,
+unless the deep resection margin is involved or there are
+signiﬁcant risk factors for lymph node metastases, endoscopic resection can be considered deﬁnitive treatment.44,45
+The strongest risk factors for lymph node metastasis are
+depth of invasion, lymphovascular invasion, low differentiation grade, ulceration and large tumour size.46,47
+For oesophageal AC, which often occurs in the context of
+oesophageal intestinal metaplasia, endoscopic resection can
+usually be considered curative in all T1a cancers and, in the
+absence of other risk factors for lymph node metastasis, also
+in the most superﬁcial submucosally involved T1b cancers
+(sm1, invasion depth <500 mm, no ulceration).45 For AC there
+is no evidence favouring either EMR or ESD, but EMR should
+normally be preferred in small lesions, while ESD should be
+considered in lesions >15 mm, poorly lifting tumours and
+tumours at risk of submucosal invasion.46
+The risk of lymph node metastasis is generally higher with
+oesophageal SCC than with AC and even deep intramucosal
+T1a cancers (m3) need additional treatment if other risk
+factors are also present.47 Studies from Asia show that ESD
+results in a higher proportion of complete resection and a
+lower risk of local recurrence compared with EMR.48
+For both histological subtypes, patients with involved deep
+endoscopic resection margins or signiﬁcant risk factors for
+lymph node metastases should be offered further resective
+surgery with appropriate lymphadenectomy; however, chemoradiotherapy (CRT) could be considered as a treatment
+option for stage IA SCC with organ preservation.49
+Locally advanced resectable disease (cT2-T4 or cN1-3 M0)
+Surgery. Surgery is still the backbone of curative-intent
+treatment for both histological subtypes of locally
+advanced resectable oesophageal cancer (cT2-T4a or cN1-3),
+although deﬁnitive CRT with surveillance and salvage oesophagectomy when needed for local tumour control is also a
+recommended option, even in upfront resectable cases of
+oesophageal SCC (see the ‘Deﬁnitive CRT’ subsection for
+further information). Radical transthoracic oesophagectomy
+with en bloc two-ﬁeld lymphadenectomy is the procedure of
+choice in ﬁt patients. For distal tumours, abdominal and right
+chest access is used, and reconstruction is carried out with a
+gastric tube conduit with oesophagogastric anastomosis in
+the upper mediastinum (Ivor Lewis procedure). For mid and
+upper oesophageal tumours, abdominal, right chest and
+cervical access is used with a similar reconstruction to the
+cervical oesophagus (McKeown procedure). In frail patients
+with distal tumours, transhiatal oesophagectomy without
+transthoracic access can be carried out with lower morbidity,
+at the cost of less extensive lymphadenectomy.50
+Minimally invasive oesophagectomy (MIO) techniques,
+including robotics, have become increasingly implemented
+996
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+R. Obermannová et al.
+
+into clinical practice in recent years. Three randomised
+controlled trials (RCTs) comparing MIO with open oesophagectomy reported lower post-operative morbidity,
+quicker functional recovery and better QoL up to 1 year
+after surgery with MIO.51-54 Regarding oncological endpoints such as free resection margins, lymph node yield and
+survival, the outcomes seem at least noninferior to open
+oesophagectomy.51,53,54 Recently, a population-based
+cohort study from Sweden and Finland reported better
+long-term overall survival (OS) after MIO compared with
+open oesophagectomy.55 In experienced centres, MIO is
+recommended as the surgical approach of choice.
+Pre- and perioperative treatment. Pre- and perioperative
+treatment using ChT or CRT has been shown to increase
+rates of resection with no tumour at the margin (R0) and
+survival rates in oesophageal cancer, and should be
+considered in all patients with locally advanced resectable
+disease.56-62 The caveat to this recommendation is for cT2
+N0 tumours, for which there is controversy regarding the
+need for preoperative treatment, as randomised trials have
+included low patient numbers from this population56,57,59
+and retrospective studies have reported conﬂicting results.63,64 A randomised phase III trial in stage I-II oesophageal cancer showed that preoperative CRT did not
+improve R0 resection rate or survival but increased postoperative mortality65; however, the patient cohort was
+heterogeneous and included cT1-T3 tumours; as such, the
+effect on the cT2 N0 subset is unknown. There is currently
+insufﬁcient evidence to make ﬁrm recommendations
+regarding the use of preoperative treatment in cT2 N0 tumours. Each case should be discussed by the multidisciplinary team with careful consideration of the potential
+risks and beneﬁts.
+The treatment paradigms for oesophageal SCC versus
+oesophageal AC have taken divergent paths due to the
+results of randomised phase III trials in the two histological
+subtypes, and the differing response of SCC and AC to CRT.
+SCC. Based on the results of the Chemoradiotherapy for
+Oesophageal Cancer Followed by Surgery Study (CROSS),59
+preoperative CRT can be recommended as a standard of
+care for SCC of the oesophagus. Weekly carboplatine
+paclitaxel combined with radiation to a dose of 41.4 Gy in
+23 fractions followed by oesophagectomy showed improved
+survival compared with surgery alone for both SCC and AC.
+Treatment-related toxicity was acceptable and there was no
+increase in surgical morbidity or mortality. In particular, the
+5-year OS rate of >60% for SCC in the trimodality arm was
+substantially higher than those previously reported in
+studies of surgery alone or deﬁnitive CRT.
+Given the high response rates of oesophageal SCC to CRT,59
+an alternative curative-intent treatment is deﬁnitive CRT with
+the option of salvage oesophagectomy in selected cases.66-68
+This treatment was pioneered by the phase III Radiation
+Therapy Oncology Group (RTOG) 85-01 study in the early
+1990s using the combination of cisplatin and 5-ﬂuorouracil
+(5-FU) with radiotherapy (RT).66 A recent randomised phase
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+R. Obermannová et al.
+
+Annals of Oncology
+
+III trial of deﬁnitive CRT incorporating modern techniques of
+RT planning and delivery has reported encouraging results
+with a 3-year OS rate of 47.8% and median OS of 35.9 months
+in patients with oesophageal SCC.69 The use of deﬁnitive CRT
+is further supported by two prospective, randomised trials
+that showed equivalent OS following deﬁnitive CRT without
+surgery compared with preoperative CRT followed by surgery, although the non-operative strategy was associated
+with higher local recurrence rates.70,71 It is important to note
+that the aforementioned studies of deﬁnitive CRT did not
+systematically incorporate salvage oesophagectomy in patients with incomplete clinical response, thereby failing to
+achieve the level of survival reported in CROSS. The use of
+salvage oesophagectomy in patients with persistent disease
+has been shown to be safe and associated with survival rates
+similar to those observed with preoperative CRT and planned
+surgery.67,68
+Therefore, preoperative CRT followed by surgery or
+deﬁnitive CRT with close surveillance and salvage surgery
+for local tumour persistence or progression can be considered the recommended deﬁnitive treatments for locally
+advanced SCC of the oesophagus; however, there are
+currently no data comparing these two treatment strategies. Deﬁnitive CRT is recommended for cervically localised
+tumours where surgery would entail a laryngectomy.
+AC. Based on the results of CROSS,59 preoperative CRT can
+be recommended as one standard of care for locally
+advanced AC of the oesophagus and OGJ.
+Several large prospective RCTs have established pre- and
+perioperative ChT as another standard of care for locally
+advanced AC of the oesophagus and OGJ.58,60-62 The beneﬁt
+of perioperative ChT was initially demonstrated in the phase
+III MAGIC trial using a regimen of three preoperative and
+three post-operative cycles of epirubicinecisplatine5-FU
+(ECF), which resulted in tumour downstaging, improved
+R0 resection rate and improved survival compared with
+surgery alone.60 The phase II/III FLOT4-AIO trial compared
+perioperative ECF with four preoperative and four postoperative cycles of 5-FUeleucovorineoxaliplatinedocetaxel (FLOT), and showed an OS beneﬁt for FLOT.62 FLOT is
+therefore the preferred perioperative regimen for patients
+able to tolerate the treatment.
+Direct comparisons of ChT versus CRT were previously
+limited; however, in 2021, results from the phase III NeoAEGIS trial were presented in abstract form.72 Neo-AEGIS
+compared two standard regimens in the perioperative
+setting, with enrolled patients receiving either preoperative
+CRT (CROSS regimen) or perioperative ChT (MAGIC trial ECF
+regimen or FLOT). Preliminary results showed higher rates of
+tumour regression and pathological complete response in
+the CRT arm. No OS difference was observed between the
+two treatments; however, the majority of patients in the ChT
+arm were treated with the older ECF regimen rather than
+FLOT, and higher efﬁcacy is expected with the perioperative
+FLOT regimen. Data from the phase III ESOPEC trial, which is
+comparing the CROSS CRT regimen with FLOT, are awaited.73
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+Even after complete clinical tumour response to preoperative CRTor ChT, patients with resectable oesophageal AC should
+proceed to surgery, as data for a watch-and-wait strategy
+following complete clinical remission are currently limited.
+Adjuvant nivolumab following trimodality therapy. The
+phase III CheckMate 577 trial evaluated the addition of 1 year
+of adjuvant treatment with the anti-PD-1 antibody nivolumab
+after surgery in patients with SCC or AC of the oesophagus,
+including OGJ cancer, who had received neoadjuvant CRT and
+had evidence of residual pathological disease in the resection
+specimen (ypT1 and/or ypN1).18 The study demonstrated
+a signiﬁcant improvement in disease-free survival for
+patients treated with adjuvant nivolumab (22.4 months)
+compared with placebo [11.0 months; hazard ratio (HR) for
+disease recurrence or death 0.69; 96.4% conﬁdence interval
+(CI) 0.56-0.86; P < 0.001]. Therefore adjuvant nivolumab is
+now recommended in this indication. PD-L1 testing is not
+required for this indication.
+Deﬁnitive CRT. As described above, deﬁnitive CRT (with close
+surveillance and salvage surgery) is a recommended option for
+resectable oesophageal SCC. In addition, deﬁnitive CRT should
+be considered for patients with oesophageal SCC or AC who
+are unable or unwilling to undergo surgery.66,69 The traditional
+standard regimen for deﬁnitive CRT is four cycles of cisplatine
+5-FU (or capecitabine) combined with RT to a dose of 50.4 Gy
+in 28 fractions (or 50 Gy in 25 fractions).66 Alternatively, six
+cycles of folinic acide5-FUeoxaliplatin (FOLFOX) can be
+considered.74 In recent years, weekly carboplatinepaclitaxel,
+as used in the CROSS regimen, has been combined with RT
+as deﬁnitive treatment. Although this regimen has not been
+directly compared with cisplatine5-FU in a randomised phase
+III trial, it is commonly utilised due to its favourable toxicity
+proﬁle. Retrospective comparative studies have reported
+equivalent efﬁcacy between different regimens.75 As a minimum requirement, RT should be delivered using 3D conformal
+RT, but intensity modulated RT or volumetric arc therapy are
+preferred to better minimise the radiation dose to critical
+normal tissues. Currently there is little evidence to support the
+use of RT doses >50.4 Gy in the deﬁnitive treatment of
+oesophageal cancer. Randomised phase III trials evaluating RT
+dose escalation have not demonstrated improved local control
+or survival with RT doses >50.4 Gy.76,77 This is of importance if
+salvage oesophagectomy is considered as a therapeutic
+strategy, because doses >55 Gy have been associated with
+increased post-operative mortality and morbidity.67
+
+Recommendations
+ Multidisciplinary assessment and planning before any
+treatment is mandatory [IV, A].
+ In experienced centres, MIO is the surgical approach of
+choice [II, A].
+ Endoscopic en bloc resection, using either EMR or ESD, is
+preferred for lesions with intraepithelial high-grade
+dysplasia and most T1 tumours [III, A].
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+997
+
+R. Obermannová et al.
+
+Annals of Oncology
+
+Advanced
+oesophageal SCC
+
+PD-L1 CPS ≥10
+
+PD-L1 TPS ≥1%
+
+PD-L1 negative/low
+
+Pembrolizumab–ChTb
+[I, A; MCBS 4]c
+
+Nivolumab–ChT
+[I, A; MCBS 4]c
+Nivolumab–ipilimumab
+[I, B; MCBS 4]c
+
+Platinum–fluoropyrimidine
+[II, A]
+
+Nivolumab
+[I, A; MCBS 3]c
+
+Taxane or irinotecan [II, B]
+
+Figure 2. Treatment algorithm for advanced oesophageal SCC.a
+Purple: general categories or stratiﬁcation; blue: systemic anticancer therapy. AC, adenocarcinoma; ChT, chemotherapy; CPG, Clinical Practice Guideline; CPS, combined
+positive score; EMA, European Medicines Agency; FDA, Food and Drug Administration; MCBS, Magnitude of Clinical Beneﬁt Score; OGJ, oesophagogastric junction; PDL1, programmed death-ligand 1; SCC, squamous-cell carcinoma; TPS, tumour proportion score.
+a
+For treatment of oesophageal AC and OGJ cancer, see the ESMO CPG for gastric cancer.26
+b
+EMA approval is for tumours with PD-L1 CPS 10, FDA approval is irrespective of PD-L1 expression.
+c
+ESMO-MCBS v1.191 was used to calculate scores for therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-MCBS Working
+Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).
+
+ For both histological subtypes, patients with involved deep
+endoscopic resection margins or signiﬁcant risk factors for
+lymph node metastases should be offered further resective surgery with appropriate lymphadenectomy [III, A].
+ Pre- and perioperative ChT or CRT should be considered in
+all patients with locally advanced resectable disease [I, A].
+998
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+ Locally advanced oesophageal SCC should be treated
+with CRT followed by surgery [I, A] or deﬁnitive CRT
+with close surveillance and salvage surgery for local
+tumour persistence or progression [II, B]. Deﬁnitive
+CRT is recommended for cervically localised tumours
+where surgery would entail a laryngectomy [III, B].
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+R. Obermannová et al.
+
+Annals of Oncology
+
+ Preoperative CRT or pre- and perioperative ChT can be
+recommended as standards of care for locally advanced
+AC of the oesophagus and OGJ [I, A].
+ Patients with resectable, locally advanced oesophageal
+AC or OGJ cancer should be treated with neoadjuvant
+CRT based on the CROSS regimen or perioperative
+ChT (FLOT) followed by surgery [I, A; ESMO-MCBS
+v1.1 score: A].
+ Even after complete clinical tumour response to preoperative CRT or ChT, patients with resectable oesophageal or
+OGJ cancer should proceed to surgery as data for a
+watch-and-wait strategy are limited [IV, C].
+ Patients with SCC or AC of the oesophagus including OGJ
+cancer who have undergone neoadjuvant CRT and show
+evidence of residual pathological disease in the resection
+specimen (ypT1 and/or ypN1) should be treated with
+adjuvant nivolumab [I, A; ESMO-MCBS v1.1 score: A].
+ Treatment with deﬁnitive CRT is recommended for patients with SCC or AC of the oesophagus that is unresectable and locally advanced or those who are unable or
+unwilling to undergo surgery [I, A].
+
+MANAGEMENT OF ADVANCED AND METASTATIC DISEASE
+Patients with oesophageal cancer that is metastatic or
+unresectable and cannot be treated with curative-intent CRT
+have a poor prognosis; survival in clinical trials has historically
+been <1 year78; however, the use of ICIs with ChT has
+recently improved survival for this patient group.16,79
+Treatment of advanced AC of the oesophagus and OGJ
+should be in line with the ESMO CPG for gastric cancer.26 A
+proposed algorithm for the treatment of advanced oesophageal SCC is shown in Figure 2.
+First-line ChT for oesophageal SCC
+Standard ﬁrst-line ChT for oesophageal SCC is a platinume
+ﬂuoropyrimidine doublet. Most randomised trials have
+been conducted in oesophageal AC and data are extrapolated to SCC; however, multiple phase II studies support
+platinumeﬂuoropyrimidine treatment in an SCC population.80-82 Data from trials in locoregionally advanced oesophageal SCC suggest equivalence for cisplatin- and
+oxaliplatin-based regimens.74 The phase III GO2 trial
+recruited patients with advanced gastroesophageal cancer,
+including oesophageal SCC, who were unsuitable for fulldose ChT due to advanced age or frailty, and demonstrated equivalent outcomes and reduced toxicity with
+dose-reduced oxaliplatinecapecitabine.83
+First-line ChT plus ICIs or ICIs without ChT for oesophageal
+SCC
+Oesophageal SCC appears to be modestly more sensitive to
+ICIs than oesophageal AC based on the efﬁcacy of anti-PD-1
+antibody monotherapy.17,84 Nevertheless, beneﬁt from ICI
+therapy is enhanced in both oesophageal SCC and AC tumours with elevated levels of PD-L1 expression using the
+CPS.15,16
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+The phase III KEYNOTE-590 trial evaluated addition of the
+anti-PD-1 antibody pembrolizumab to cisplatine5-FU in
+patients with untreated, advanced oesophageal or OGJ
+(Siewert type I) cancer.16 Patients with both SCC and AC
+histology were eligible, but the majority (73%) had SCC. The
+greatest OS gain was observed in patients with SCC and
+elevated PD-L1 expression (CPS 10; HR 0.57, 95% CI 0.430.75; P < 0.0001), but modest improvements were also
+demonstrated in (i) all patients with a CPS 10 (HR 0.62,
+95% CI 0.49-0.78; P < 0.0001); (ii) all patients with SCC (HR
+0.72, 95% CI 0.60-0.88; P ¼ 0.0006) and (iii) all randomised
+patients (HR 0.73, 95% CI 0.62-0.86; P < 0.0001). A post hoc
+analysis suggested no beneﬁt in patients with a PD-L1 CPS
+<10. The phase III CheckMate 648 study randomised
+patients with treatment-naive advanced oesophageal SCC
+to (i) cisplatine5-FU; (ii) nivolumabecisplatine5-FU or (iii)
+nivolumab plus the anti-cytotoxic T-lymphocyte-associated
+protein 4 (anti-CTLA-4) antibody ipilimumab.22 Patients
+treated with nivolumabeChT had improved OS compared
+with patients treated with ChT alone; this beneﬁt was most
+pronounced in patients with tumour cells expressing PD-L1
+1% using TPS (HR 0.54, 99.5% CI 0.37-0.80; P < 0.001).
+Nivolumabeipilimumab improved OS compared with ChT
+alone in CheckMate 648; however, a lower radiological
+response rate was noted for nivolumabeipilimumab
+compared with ChT alone or nivolumabeChT, and there is
+a risk of early progression and death for patients treated
+without ChT, resulting in a lower grade of recommendation
+compared with nivolumabeChT. Finally, in the phase III
+ESCORT-1st trial, Chinese patients with untreated advanced
+oesophageal SCC were randomised to receive carboplatine
+paclitaxel with or without the anti-PD-1 antibody camrelizumab.20 ESCORT-1st demonstrated an improvement in
+progression-free survival and OS for patients with oesophageal SCC treated with camrelizumabeChT.
+Second and subsequent lines of treatment for oesophageal
+SCC
+For patients with oesophageal SCC, second-line nivolumab
+monotherapy is an option based on the results of the phase III
+ATTRACTION-3 trial.17 In this study, predominantly Asian
+patients with SCC previously treated with platinume
+ﬂuoropyrimidine were randomised to receive either nivolumab or taxane-based ChT. Response rates were comparable
+between the two arms; however, nivolumab was associated
+with improved OS compared with ChT (HR 0.77, 95% CI 0.620.96; P ¼ 0.019). Treatment outcomes were not affected by
+PD-L1 expression assessed on tumour cells; assessment of
+PD-L1 using CPS has not been reported. Similar results were
+observed with tislelizumab in the global phase III RATIONALE
+302 study.23 Where approved, pembrolizumab may be an
+option for patients with previously treated SCC with PD-L1
+CPS 10 based on the results of the phase III KEYNOTE-181
+trial, which compared pembrolizumab monotherapy with
+ChT in previously treated oesophageal AC and SCC (patients
+who received ﬁrst-line treatment with an ICI were not
+included).15 An OS beneﬁt was only observed in patients with
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+999
+
+R. Obermannová et al.
+
+Annals of Oncology
+SCC and a CPS 10. Following second-line treatment,
+patients with oesophageal SCC might be considered for ChT
+with a taxane or irinotecan.85-87
+Supportive care and nutrition
+Supportive care for patients with advanced oesophageal
+cancer should follow the recommendations provided in the
+ESMO CPG for gastric cancer,26 including early palliative
+care referral and nutritional support.
+Recommendations
+First-line treatment for advanced oesophageal SCC
+ First-line ChT with a platinum and ﬂuoropyrimidine is
+recommended as a standard treatment for advanced
+untreated oesophageal SCC [II, A]. Dose-reduced
+oxaliplatinecapecitabine is an alternative option for
+patients who are unsuitable for full-dose ChT [I, A].
+ PembrolizumabeChT is recommended for advanced, untreated oesophageal SCC. The greatest beneﬁt is seen in
+patients with a PD-L1 CPS 10 [I, A; ESMO-MCBS v1.1
+score: 4; European Medicines Agency (EMA) approval is
+for tumours with PD-L1 CPS 10, Food and Drug Administration (FDA) approval is irrespective of PD-L1 expression].
+ NivolumabeChT is recommended in patients with
+tumours expressing PD-L1 with a TPS 1% [I, A; ESMOMCBS v1.1 score: 4]. Nivolumabeipilimumab can be
+given, but a lower radiological response rate and
+increased risk of early progression and death in patients
+treated without ChT needs to be considered [I, B; ESMOMCBS v1.1 score: 4].
+Second and subsequent lines of treatment for advanced
+oesophageal SCC
+ Nivolumab is recommended for oesophageal SCC previously treated with platinumeﬂuoropyrimidine ChT [I, A;
+ESMO-MCBS v1.1 score: 3].
+ Where approved, pembrolizumab may be an option for
+patients with previously treated SCC who have not
+received ﬁrst-line treatment with ICIs and have a PD-L1
+CPS 10 [I, A; ESMO-MCBS v1.1 score: 3; FDA approved,
+not EMA approved].
+ ChT with a taxane or irinotecan can be considered in ﬁt
+patients who have been previously treated with
+platinumeﬂuoropyrimidine and/or nivolumab or
+pembrolizumab [II, B].
+Supportive care and nutrition
+ Care for patients with advanced oesophageal cancer
+should include early palliative care referral and nutritional support [I, A].
+
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND
+SURVIVORSHIP
+Surveillance strategies after successful therapy for oesophageal and OGJ cancers remain controversial. Although
+the majority (w90%) of relapses occur within the ﬁrst
+1000
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+2 years after completion of local therapy, potentially
+treatable relapses have been reported >5 years after local
+therapy.88,89 Metachronous malignancies should also be
+considered in long-term survivors.
+Except for those patients who may be potential candidates for an endoscopic reintervention or early ‘salvage
+surgery’ after (failing) endoscopic resection or deﬁnitive
+CRT, there is no evidence that regular follow-up after initial
+therapy has an impact on survival.
+Therefore follow-up visits should concentrate on symptoms, nutrition and psychosocial support. A multidisciplinary team is often required during the follow-up phase,
+coordinated by the physician who is seeing the patient on a
+regular basis. Patients can develop a variety of needs and
+problems associated with loss of the oesophagus, other
+treatment sequelae or psychosocial needs. The expertise of
+a dietician, radiologist, gastroenterologist, psychologist and
+social worker is often needed during follow-up.
+In case of complete response to deﬁnitive CRT, a 3-month
+follow-up based on endoscopy, biopsies and CT scan may be
+recommended to detect early recurrence, for which salvage
+surgery may be carried out.74
+Recommendations
+ The majority (w90%) of relapses occur within the ﬁrst
+2 years after completion of local therapy. Follow-up
+visits should concentrate on symptoms, nutrition and
+psychosocial support [V, A].
+ In case of complete response to deﬁnitive CRT, a
+3-month follow-up based on endoscopy, biopsies and
+CT scan may be recommended to detect early recurrence
+[IV, B].
+
+METHODOLOGY
+This CPG was developed in accordance with the ESMO standard operating procedures for CPG development (http://www.
+esmo.org/Guidelines/ESMO-Guidelines-Methodology). The
+relevant literature has been selected by the expert authors. An
+ESCAT table with ESCAT scores is included in Supplementary
+Table S1, available at https://doi.org/10.1016/j.annonc.2022.
+07.003. ESCAT scores have been deﬁned by the authors and
+validated by the ESMO Translational Research and Precision
+Medicine Working Group.90 An ESMO-MCBS table with ESMOMCBS scores is included in Supplementary Table S4, available
+at https://doi.org/10.1016/j.annonc.2022.07.003. ESMOMCBS v1.191 was used to calculate scores for therapies/indications approved by the EMA or FDA (https://www.esmo.
+org/Guidelines/ESMO-MCBS). The scores have been calculated by the ESMO-MCBS Working Group and validated by the
+ESMO Guidelines Committee. The FDA/EMA or other regulatory body approval status of new therapies/indications is reported at the time of writing this CPG. Levels of evidence and
+grades of recommendation have been applied using the system shown in Supplementary Table S5, available at https://doi.
+org/10.1016/j.annonc.2022.07.003.92,93 Statements without
+grading were considered justiﬁed standard clinical practice by
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+R. Obermannová et al.
+
+Annals of Oncology
+
+the authors. Future updates to this CPG will be published on
+esmo.org as a Living Guideline version or an eUpdate, to be
+made available at: https://www.esmo.org/guidelines/gastro
+intestinal-cancers/oesophageal-cancer.
+ACKNOWLEDGEMENTS
+Manuscript editing support was provided by Fraser Simpson
+and Jennifer Lamarre (ESMO Guidelines staff) and Angela
+Corstorphine and Sian-Marie Lucas of Kstorﬁn Medical
+Communications Ltd (KMC); this support was funded by
+ESMO. Nathan Cherny, Chair of the ESMO-MCBS Working
+Group, Urani Dafni ESMO-MCBS Working Group Member/
+Frontier Science Foundation Hellas and Giota Zygoura of
+Frontier Science Foundation Hellas provided review and
+validation of the ESMO-MCBS scores. Nicola Latino (ESMO
+Scientiﬁc Affairs staff) provided coordination and support of
+the ESMO-MCBS scores and Angela Corstorphine and SianMarie Lucas of KMC provided medical writing and editing
+support in the preparation of the ESMO-MCBS table; this
+support was funded by ESMO. Dr Benedikt Westphalen, Dr
+Noelia Tarazona (members of the ESMO Translational
+Research and Precision Medicine Working Group) and Dr
+Svetlana Jezdic (ESMO Medical Affairs Advisor) provided
+validation support for ESCAT scores.
+FUNDING
+No external funding has been received for the preparation
+of this guideline. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURE
+RO reports personal fees for advisory board membership of
+Bristol Myers Squibb (BMS) and Servier; personal fees as an
+invited speaker from Merck Serono and Merck Sharp &
+Dohme (MSD) and a non-remunerated leadership role with
+Czecrin. MA reports personal fees for advisory board
+membership of BMS, Lilly, MSD and Servier and a nonremunerated role as principal investigator (PI) of the
+investigator-initiated trial with Merck Serono. AC reports
+fees paid to his institution as an invited speaker from
+Amgen, Foundation Medicine, Merck Serono and Roche;
+fees paid to his institution for advisory board membership
+of Amgen, AnHeart Therapeutics, Merck Serono, Roche and
+Transgene; personal fees for an editorial role as an Associate Editor for Annals of Oncology and ESMO Open and
+editor for Cancer Treatment Reviews; institutional funding
+as PI from Actuate Therapeutic, Adaptimmune, amcure,
+Amgen, Astellas, AstraZeneca, Bayer, BeiGene, Bristol Myers
+Squibb (BMS), FibroGen, Genentech, Lilly, MedImmune,
+Merck Serono, MSD, Natera, Novartis, Servier, Sierra
+Oncology and Takeda and non-remunerated role as General
+and Scientiﬁc Director of INCLIVA Biomedical Research
+Institute. TL reports non-remunerated roles as President
+and Board Chair of the Trans-Tasman Radiation Oncology
+Group (TROG), Board Director and Company Secretary of
+Australasian Gastrointestinal Trials Group (AGITG), Global
+trial chair for TOPGEAR, an Intergroup randomised phase III
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+trial in gastric cancer being conducted by AGITG/TROG/
+European Organisation for Research and Treatment of
+Cancer (EORTC)/Canadian Cancer Trials Group (CCTG),
+Councillor of the Royal Australian and New Zealand College
+of Radiologists (RANZCR) and Councillor of the International
+Gastric Cancer Association (IGCA). FL reports personal fees
+for advisory board membership of Amgen, Astellas Pharma,
+BMS, Bayer, BeiGene, BioNTech, Eli Lilly, MSD, Novartis,
+Roche and Daiichi-Sankyo; personal fees as an invited
+speaker for AstraZeneca, BMS, Eli Lilly, Imedex, Incyte,
+MedUpdate, Medscape, Merck Serono, MSD, Roche, Servier and StreamedUp!; personal fees from BioNTech and
+Elsevier for expert testimony; personal fees for writing
+engagements for Deutscher Ärzteverlag, iOMEDICO and
+Springer-Nature and a research grant paid to his institute
+from BMS. MN reports personal fees as an invited speaker
+at the Medtronic-sponsored Taiwan Thoracic Surgery Society 2021; fees paid to his institute for advisory board
+membership of Afﬁbody, BMS and BeiGene and participation in the Medtronic-sponsored European Minimally
+Invasive Esophagectomy (MIO) Thinktank. NCTvG reports
+fees paid to her institute for advisory board membership of
+BMS, Diaceutics and Merck/MSD and fees as an invited
+speaker for MEDtalks. She has also reported non-remunerated activities for an advisory role to the Dutch Cancer
+Society and the Sacha Swarttouw-Hijmans Foundation. AV
+reports personal fees for speaker, consultancy and advisory
+roles for AstraZeneca, Amgen, Basilea, BeiGene, Bayer,
+Boehringer Mannheim, Bristol-Myers Squibb (BMS), BTG,
+Daiichi-Sankyo, Eisai, GlaxoSmithKline (GSK), Imaging
+Equipment Ltd (AAA), Incyte, Ipsen, Jiangsu Hengrui Medicine, MSD, Pierre Fabre, Roche, Sanoﬁ, Servier, Sirtex,
+Tahio and Terumo; research funding from Incyte and
+Servier; and participation in educational activities for
+OncLive and Oncowissen.de. ECS reports personal fees as
+an invited speaker from Amgen, BMS, Imedex, Merck,
+Novartis, Prova Education, Servier and touchIME; personal
+fees for advisory board membership of Astellas, AstraZeneca, BMS, My Personal Therapeutics, Novartis, Roche and
+Zymeworks; other personal fees from Amgen Trial Steering
+Group (TSC), BeiGene and Zymeworks for Independent
+Data Monitoring Committee (IDMC) membership, BMS for
+expert testimony, Everest Clinical Research as IDMC chair;
+institutional funding as a local or coordinating PI for clinical
+trial research from AstraZeneca, Basilea, Daiichi Sankyo,
+Roche, Merus and MSD and a research grant to her institute from BMS.
+
+REFERENCES
+1. Sung H, Ferlay J, Siegel RL, et al. Global Cancer Statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers
+in 185 countries. CA Cancer J Clin. 2021;71(3):209-249.
+2. Arnold M, Abnet CC, Neale RE, et al. Global burden of 5 major types of
+gastrointestinal cancer. Gastroenterology. 2020;159(1):335-349.
+3. Codipilly DC, Sawas T, Dhaliwal L, et al. Epidemiology and outcomes of
+young-onset esophageal adenocarcinoma: an analysis from a
+population-based database. Cancer Epidemiol Biomarkers Prev. 2021;
+30(1):142-149.
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+1001
+
+Annals of Oncology
+4. Thun M, Linet MS, Cerhan JR, et al. Cancer Epidemiology and Prevention. 4th ed. New York: Oxford University Press; 2018.
+5. McCormack VA, Menya D, Munishi MO, et al. Informing etiologic
+research priorities for squamous cell esophageal cancer in Africa: a
+review of setting-speciﬁc exposures to known and putative risk factors.
+Int J Cancer. 2017;140(2):259-271.
+6. El-Serag HB, Hashmi A, Garcia J, et al. Visceral abdominal obesity
+measured by CT scan is associated with an increased risk of Barrett’s
+oesophagus: a case-control study. Gut. 2014;63(2):220-229.
+7. O’Doherty MG, Freedman ND, Hollenbeck AR, et al. A prospective cohort
+study of obesity and risk of oesophageal and gastric adenocarcinoma in the
+NIH-AARP Diet and Health Study. Gut. 2012;61(9):1261-1268.
+8. Parsonnet J, Friedman GD, Vandersteen DP, et al. Helicobacter pylori
+infection and the risk of gastric carcinoma. N Engl J Med. 1991;325(16):
+1127-1131.
+9. Arnold M, Laversanne M, Brown LM, et al. Predicting the future burden
+of esophageal cancer by histological subtype: international trends in
+incidence up to 2030. Am J Gastroenterol. 2017;112(8):1247-1255.
+10. Parﬁtt JR, Miladinovic Z, Driman DK. Increasing incidence of adenocarcinoma of the gastroesophageal junction and distal stomach in
+Canada – an epidemiological study from 1964-2002. Can J Gastroenterol. 2006;20(4):271-276.
+11. Shaheen NJ, Falk GW, Iyer PG, et al. ACG clinical guideline: diagnosis
+and management of Barrett’s esophagus. Am J Gastroenterol.
+2016;111(1):30-50.
+12. Rustgi AK, El-Serag HB. Esophageal carcinoma. N Engl J Med.
+2014;371(26):2499-2509.
+13. Nagtegaal ID, Odze RD, Klimstra D, et al. The 2019 WHO classiﬁcation of
+tumours of the digestive system. Histopathology. 2020;76(2):182-188.
+14. Cancer Genome Atlas Research Network. Integrated genomic characterization of oesophageal carcinoma. Nature. 2017;541(7636):169-175.
+15. Kojima T, Shah MA, Muro K, et al. Randomized phase III KEYNOTE-181
+study of pembrolizumab versus chemotherapy in advanced esophageal
+cancer. J Clin Oncol. 2020;38(35):4138-4148.
+16. Sun JM, Shen L, Shah MA, et al. Pembrolizumab plus chemotherapy
+versus chemotherapy alone for ﬁrst-line treatment of advanced
+oesophageal cancer (KEYNOTE-590): a randomised, placebo-controlled,
+phase 3 study. Lancet. 2021;398(10302):759-771.
+17. Kato K, Cho BC, Takahashi M, et al. Nivolumab versus chemotherapy in
+patients with advanced oesophageal squamous cell carcinoma refractory or intolerant to previous chemotherapy (ATTRACTION-3): a
+multicentre, randomised, open-label, phase 3 trial. Lancet Oncol.
+2019;20(11):1506-1517.
+18. Kelly RJ, Ajani JA, Kuzdzal J, et al. Adjuvant nivolumab in resected
+esophageal or gastroesophageal junction cancer. N Engl J Med.
+2021;384(13):1191-1203.
+19. Shen L, Kato K, Kim SB, et al. RATIONALE 302: randomized, phase 3
+study of tislelizumab versus chemotherapy as second-line treatment
+for advanced unresectable/metastatic esophageal squamous cell carcinoma. J Clin Oncol. 2021;39(15 suppl):4012.
+20. Luo H, Lu J, Bai Y, et al. Effect of camrelizumab vs placebo added to
+chemotherapy on survival and progression-free survival in patients
+with advanced or metastatic esophageal squamous cell carcinoma: the
+ESCORT-1st randomized clinical trial. JAMA. 2021;326(10):916-925.
+21. Huang J, Xu J, Chen Y, et al. Camrelizumab versus investigator’s choice
+of chemotherapy as second-line therapy for advanced or metastatic
+oesophageal squamous cell carcinoma (ESCORT): a multicentre, randomised, open-label, phase 3 study. Lancet Oncol. 2020;21(6):832-842.
+22. Doki Y, Ajani JA, Kato K, et al. Nivolumab combination therapy in
+advanced esophageal squamous-cell carcinoma. N Engl J Med.
+2022;386(5):449-462.
+23. Shen L, Kato K, Kim SB, et al. Tislelizumab versus chemotherapy as
+second-line treatment for advanced or metastatic esophageal squamous cell carcinoma (RATIONALE-302): a randomized phase III study.
+J Clin Oncol. 2022:Jco2101926.
+24. Prince EA, Sanzari JK, Pandya D, et al. Analytical concordance of PD-L1
+assays utilizing antibodies from FDA-approved diagnostics in advanced
+cancers: a systematic literature review. JCO Precis Oncol. 2021;5:953-973.
+
+1002
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+R. Obermannová et al.
+25. Yeong J, Lum HYJ, Teo CB, et al. Choice of PD-L1 immunohistochemistry
+assay inﬂuences clinical eligibility for gastric cancer immunotherapy.
+Gastric Cancer. 2022;25:741-750.
+26. Lordick F, Carneiro F, Cascinu S, et al. Gastric cancer: ESMO Clinical
+Practice Guideline for diagnosis, treatment and follow-up. [published
+online ahead of print, 2022 Jul 29]. Ann Oncol. 2022. https://doi.org/
+10.1016/j.annonc.2022.07.004.
+27. Catalano MF, Van Dam J, Sivak MV. Malignant esophageal strictures:
+staging accuracy of endoscopic ultrasonography. Gastrointest Endosc.
+1995;41(6):535-539.
+28. Krill T, Baliss M, Roark R, et al. Accuracy of endoscopic ultrasound in
+esophageal cancer staging. J Thorac Dis. 2019;11(suppl 12):s1602s1609.
+29. van Vliet EPM, Heijenbrok-Kal MH, Hunink MGM, et al. Staging investigations for oesophageal cancer: a meta-analysis. Br J Cancer.
+2008;98(3):547-557.
+30. Flamen P, Lerut A, Van Cutsem E, et al. Utility of positron emission
+tomography for the staging of patients with potentially operable
+esophageal carcinoma. J Clin Oncol. 2000;18(18):3202-3210.
+31. Heeren PAM, Jager PL, Bongaerts F, et al. Detection of distant metastases in esophageal cancer with 18F-FDG PET. J Nucl Med.
+2004;45(6):980-987.
+32. Findlay JM, Bradley KM, Maile EJ, et al. Pragmatic staging of oesophageal
+cancer using decision theory involving selective endoscopic ultrasonography, PET and laparoscopy. Br J Surg. 2015;102(12):1488-1499.
+33. van de Ven S, Bugter O, Hardillo JA, et al. Screening for head and neck
+second primary tumors in patients with esophageal squamous cell
+cancer: a systematic review and meta-analysis. United European Gastroenterol J. 2019;7(10):1304-1311.
+34. Gertsen EC, Brenkman HJF, van Hillegersberg R, et al. 18F-ﬂudeoxyglucose-positron emission tomography/computed tomography and
+laparoscopy for staging of locally advanced gastric cancer: a multicenter prospective Dutch cohort study (PLASTIC). JAMA Surg.
+2021;156(12):e215340.
+35. Rice TW, Ishwaran H, Blackstone EH, et al. Recommendations for
+clinical staging (cTNM) of cancer of the esophagus and esophagogastric
+junction for the 8th edition AJCC/UICC staging manuals. Dis Esophagus.
+2016;29(8):913-919.
+36. Cederholm T, Barazzoni R, Austin P, et al. ESPEN guidelines on deﬁnitions and terminology of clinical nutrition. Clin Nutr. 2017;36(1):49-64.
+37. Bischoff SC, Austin P, Boeykens K, et al. ESPEN guideline on home
+enteral nutrition. Clin Nutr. 2020;39(1):5-22.
+38. Sinclair R, Navidi M, Grifﬁn SM, et al. The impact of neoadjuvant
+chemotherapy on cardiopulmonary physical ﬁtness in gastrooesophageal adenocarcinoma. Ann R Coll Surg Engl. 2016;98(6):396400.
+39. Whibley J, Peters CJ, Halliday LJ, et al. Poor performance in incremental
+shuttle walk and cardiopulmonary exercise testing predicts poor
+overall survival for patients undergoing esophago-gastric resection. Eur
+J Surg Oncol. 2018;44(5):594-599.
+40. van Vulpen JK, Hiensch AE, van Hillegersberg R, et al. Supervised exercise after oesophageal cancer surgery: the PERFECT multicentre
+randomized clinical trial. Br J Surg. 2021;108(7):786-796.
+41. Tully R, Loughney L, Bolger J, et al. The effect of a pre- and postoperative exercise programme versus standard care on physical
+ﬁtness of patients with oesophageal and gastric cancer undergoing
+neoadjuvant treatment prior to surgery (The PERIOP-OG Trial): study
+protocol for a randomised controlled trial. Trials. 2020;21(1):638.
+42. Kotzerke D, Moritz F, Mantovani L, et al. The performance of three
+oncogeriatric screening tools - G8, optimised G8 and CARG - in predicting chemotherapy-related toxicity in older patients with cancer. A
+prospective clinical study. J Geriatr Oncol. 2019;10(6):937-943.
+43. Mariette C, Gronnier C, Duhamel A, et al. Self-expanding covered
+metallic stent as a bridge to surgery in esophageal cancer: impact on
+oncologic outcomes. J Am Coll Surg. 2015;220(3):287-296.
+44. di Pietro M, Canto MI, Fitzgerald RC. Endoscopic management of early
+adenocarcinoma and squamous cell carcinoma of the esophagus:
+screening, diagnosis, and therapy. Gastroenterology. 2018;154(2):421-436.
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+R. Obermannová et al.
+
+Annals of Oncology
+
+45. Weusten B, Bisschops R, Coron E, et al. Endoscopic management of
+Barrett’s esophagus: European Society of Gastrointestinal Endoscopy
+(ESGE) Position Statement. Endoscopy. 2017;49(2):191-198.
+46. Pimentel-Nunes P, Dinis-Ribeiro M, Ponchon T, et al. Endoscopic submucosal dissection: European Society of Gastrointestinal Endoscopy
+(ESGE) Guideline. Endoscopy. 2015;47(9):829-854.
+47. Yamashina T, Ishihara R, Nagai K, et al. Long-term outcome and metastatic risk after endoscopic resection of superﬁcial esophageal squamous cell carcinoma. Am J Gastroenterol. 2013;108(4):544-551.
+48. Cao Y, Liao C, Tan A, et al. Meta-analysis of endoscopic submucosal
+dissection versus endoscopic mucosal resection for tumors of the
+gastrointestinal tract. Endoscopy. 2009;41(9):751-757.
+49. Kato K, Ito Y, Nozaki I, et al. Parallel-group controlled trial of surgery
+versus chemoradiotherapy in patients with stage I esophageal squamous cell carcinoma. Gastroenterology. 2021;161(6):1878-1886.
+50. Hulscher JBF, van Sandick JW, de Boer AGEM, et al. Extended transthoracic
+resection compared with limited transhiatal resection for adenocarcinoma
+of the esophagus. N Engl J Med. 2002;347(21):1662-1669.
+51. Biere SSAY, van Berge Henegouwen MI, Maas KW, et al. Minimally
+invasive versus open oesophagectomy for patients with oesophageal
+cancer: a multicentre, open-label, randomised controlled trial. Lancet.
+2012;379(9829):1887-1892.
+52. Maas KW, Cuesta MA, van Berge Henegouwen MI, et al. Quality of life
+and late complications after minimally invasive compared to open
+esophagectomy: results of a randomized trial. World J Surg.
+2015;39(8):1986-1993.
+53. Mariette C, Markar SR, Dabakuyo-Yonli TS, et al. Hybrid minimally
+invasive esophagectomy for esophageal cancer. N Engl J Med. 2019;
+380(2):152-162.
+54. van der Sluis PC, van der Horst S, May AM, et al. Robot-assisted
+minimally invasive thoracolaparoscopic esophagectomy versus open
+transthoracic esophagectomy for resectable esophageal cancer: a
+randomized controlled trial. Ann Surg. 2019;269(4):621-630.
+55. Gottlieb-Vedi E, Kauppila JH, Mattsson F, et al. Long-term survival in
+esophageal cancer after minimally invasive esophagectomy compared to
+open esophagectomy. [published online ahead of print, 2021 Jan 20].
+Ann Surg. 2021. https://doi.org/10.1097/SLA.0000000000004645.
+56. Sjoquist KM, Burmeister BH, Smithers BM, et al. Survival after neoadjuvant chemotherapy or chemoradiotherapy for resectable oesophageal carcinoma: an updated meta-analysis. Lancet Oncol.
+2011;12(7):681-692.
+57. Ronellenﬁtsch U, Schwarzbach M, Hofheinz R, et al. Preoperative chemo(radio)therapy versus primary surgery for gastroesophageal adenocarcinoma: systematic review with meta-analysis combining individual
+patient and aggregate data. Eur J Cancer. 2013;49(15):3149-3158.
+58. Allum WH, Stenning SP, Bancewicz J, et al. Long-term results of a
+randomized trial of surgery with or without preoperative chemotherapy in esophageal cancer. J Clin Oncol. 2009;27(30):5062-5067.
+59. van Hagen P, Hulshof MCCM, van Lanschot JJB, et al. Preoperative
+chemoradiotherapy for esophageal or junctional cancer. N Engl J Med.
+2012;366(22):2074-2084.
+60. Cunningham D, Allum WH, Stenning SP, et al. Perioperative chemotherapy versus surgery alone for resectable gastroesophageal cancer.
+N Engl J Med. 2006;355(1):11-20.
+61. Ychou M, Boige V, Pignon JP, et al. Perioperative chemotherapy
+compared with surgery alone for resectable gastroesophageal adenocarcinoma: an FNCLCC and FFCD multicenter phase III trial. J Clin
+Oncol. 2011;29(13):1715-1721.
+62. Al-Batran SE, Homann N, Pauligk C, et al. Perioperative chemotherapy
+with ﬂuorouracil plus leucovorin, oxaliplatin, and docetaxel versus
+ﬂuorouracil or capecitabine plus cisplatin and epirubicin for locally
+advanced, resectable gastric or gastro-oesophageal junction adenocarcinoma (FLOT4): a randomised, phase 2/3 trial. Lancet.
+2019;393(10184):1948-1957.
+63. Markar SR, Gronnier C, Pasquer A, et al. Role of neoadjuvant treatment
+in clinical T2N0M0 oesophageal cancer: results from a retrospective
+multi-center European study. Eur J Cancer. 2016;56:59-68.
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+64. Goense L, Visser E, Haj Mohammad N, et al. Role of neoadjuvant
+chemoradiotherapy in clinical T2N0M0 esophageal cancer: a
+population-based cohort study. Eur J Surg Oncol. 2018;44(5):620-625.
+65. Mariette C, Dahan L, Mornex F, et al. Surgery alone versus chemoradiotherapy followed by surgery for stage I and II esophageal cancer:
+ﬁnal analysis of randomized controlled phase III trial FFCD 9901. J Clin
+Oncol. 2014;32(23):2416-2422.
+66. Herskovic A, Martz K, al-Sarraf M, et al. Combined chemotherapy and
+radiotherapy compared with radiotherapy alone in patients with cancer of the esophagus. N Engl J Med. 1992;326(24):1593-1598.
+67. Markar S, Gronnier C, Duhamel A, et al. Salvage surgery after chemoradiotherapy in the management of esophageal cancer: is it a viable
+therapeutic option? J Clin Oncol. 2015;33(33):3866-3873.
+68. Vincent J, Mariette C, Pezet D, et al. Early surgery for failure after
+chemoradiation in operable thoracic oesophageal cancer. Analysis of
+the non-randomised patients in FFCD 9102 phase III trial: chemoradiation followed by surgery versus chemoradiation alone. Eur J
+Cancer. 2015;51(13):1683-1693.
+69. Crosby T, Hurt CN, Falk S, et al. Long-term results and recurrence
+patterns from SCOPE-1: a phase II/III randomised trial of deﬁnitive
+chemoradiotherapy þ/- cetuximab in oesophageal cancer. Br J Cancer.
+2017;116(6):709-716.
+70. Stahl M, Stuschke M, Lehmann N, et al. Chemoradiation with and
+without surgery in patients with locally advanced squamous cell carcinoma of the esophagus. J Clin Oncol. 2005;23(10):2310-2317.
+71. Bedenne L, Michel P, Bouché O, et al. Chemoradiation followed by
+surgery compared with chemoradiation alone in squamous cancer of
+the esophagus: FFCD 9102. J Clin Oncol. 2007;25(10):1160-1168.
+72. Reynolds JV, Preston SR, O’Neill B, et al. Neo-AEGIS (Neoadjuvant trial
+in Adenocarcinoma of the Esophagus and Esophago-Gastric Junction
+International Study): preliminary results of phase III RCT of CROSS
+versus perioperative chemotherapy (Modiﬁed MAGIC or FLOT protocol). J Clin Oncol. 2021;39(suppl 15):4004.
+73. Hoeppner J, Lordick F, Brunner T, et al. ESOPEC: prospective randomized controlled multicenter phase III trial comparing perioperative
+chemotherapy (FLOT protocol) to neoadjuvant chemoradiation (CROSS
+protocol) in patients with adenocarcinoma of the esophagus
+(NCT02509286). BMC Cancer. 2016;16:503.
+74. Conroy T, Galais MP, Raoul JL, et al. Deﬁnitive chemoradiotherapy with
+FOLFOX versus ﬂuorouracil and cisplatin in patients with oesophageal
+cancer (PRODIGE5/ACCORD17): ﬁnal results of a randomised, phase 2/
+3 trial. Lancet Oncol. 2014;15(3):305-314.
+75. de Vos-Geelen J, Hoebers FJP, Geurts SME, et al. A national study to
+assess outcomes of deﬁnitive chemoradiation regimens in proximal
+esophageal cancer. Acta Oncol. 2020;59(8):895-903.
+76. Minsky BD, Pajak TF, Ginsberg RJ, et al. INT 0123 (Radiation Therapy
+Oncology Group 94-05) phase III trial of combined-modality therapy for
+esophageal cancer: high-dose versus standard-dose radiation therapy.
+J Clin Oncol. 2002;20(5):1167-1174.
+77. Hulshof M, Geijsen ED, Rozema T, et al. Randomized study on dose escalation in deﬁnitive chemoradiation for patients with locally advanced
+esophageal cancer (ARTDECO Study). J Clin Oncol. 2021;39(25):2816-2824.
+78. Moehler M, Maderer A, Thuss-Patience PC, et al. Cisplatin and 5ﬂuorouracil with or without epidermal growth factor receptor inhibition panitumumab for patients with non-resectable, advanced or
+metastatic oesophageal squamous cell cancer: a prospective, openlabel, randomised phase III AIO/EORTC trial (POWER). Ann Oncol.
+2020;31(2):228-235.
+79. Chau I, Ayers D, Goring S, et al. Comparative effectiveness of nivolumab versus clinical practice for advanced gastric or gastroesophageal
+junction cancer. J Comp Eff Res. 2020;9(2):103-114.
+80. Hayashi K, Ando N, Watanabe H, et al. Phase II evaluation of protracted
+infusion of cisplatin and 5-ﬂuorouracil in advanced squamous cell
+carcinoma of the esophagus: a Japan Esophageal Oncology Group
+(JEOG) Trial (JCOG9407). Jpn J Clin Oncol. 2001;31(9):419-423.
+81. Bleiberg H, Conroy T, Paillot B, et al. Randomised phase II study of
+cisplatin and 5-ﬂuorouracil (5-FU) versus cisplatin alone in advanced
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+1003
+
+Annals of Oncology
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+squamous cell oesophageal cancer. Eur J Cancer. 1997;33(8):12161220.
+Lorenzen S, Schuster T, Porschen R, et al. Cetuximab plus cisplatin-5ﬂuorouracil versus cisplatin-5-ﬂuorouracil alone in ﬁrst-line metastatic squamous cell carcinoma of the esophagus: a randomized phase II
+study of the Arbeitsgemeinschaft Internistische Onkologie. Ann Oncol.
+2009;20(10):1667-1673.
+Hall PS, Swinson D, Cairns DA, et al. Efﬁcacy of reduced-intensity chemotherapy with oxaliplatin and capecitabine on quality of life and cancer
+control among older and frail patients with advanced gastroesophageal
+cancer: the GO2 phase 3 randomized clinical trial. JAMA Oncol. 2021;7(6):
+869-877.
+Shitara K, Özgüroglu M, Bang YJ, et al. Pembrolizumab versus paclitaxel
+for previously treated, advanced gastric or gastro-oesophageal junction
+cancer (KEYNOTE-061): a randomised, open-label, controlled, phase 3
+trial. Lancet. 2018;392(10142):123-133.
+Kato K, Tahara M, Hironaka S, et al. A phase II study of paclitaxel by
+weekly 1-h infusion for advanced or recurrent esophageal cancer in
+patients who had previously received platinum-based chemotherapy.
+Cancer Chemother Pharmacol. 2011;67(6):1265-1272.
+Muro K, Hamaguchi T, Ohtsu A, et al. A phase II study of single-agent
+docetaxel in patients with metastatic esophageal cancer. Ann Oncol.
+2004;15(6):955-959.
+
+1004
+
+https://doi.org/10.1016/j.annonc.2022.07.003
+
+R. Obermannová et al.
+87. Burkart C, Bokemeyer C, Klump B, et al. A phase II trial of weekly irinotecan in cisplatin-refractory esophageal cancer. Anticancer Res.
+2007;27(4c):2845-2848.
+88. Rodríguez-Camacho E, Pita-Fernández S, Pértega-Díaz S, et al.
+Characteristics and pattern of recurrence after curative surgery
+in oesophageal cancer. Rev Esp Enferm Dig. 2015;107(9):539546.
+89. Ni W, Yang J, Deng W, et al. Patterns of recurrence after surgery and
+efﬁcacy of salvage therapy after recurrence in patients with
+thoracic esophageal squamous cell carcinoma. BMC Cancer.
+2020;20(1):144.
+90. Mateo J, Chakravarty D, Dienstmann R, et al. A framework to rank
+genomic alterations as targets for cancer precision medicine: the ESMO
+Scale for Clinical Actionability of molecular Targets (ESCAT). Ann Oncol.
+2018;29(9):1895-1902.
+91. Cherny NI, Dafni U, Bogaerts J, et al. ESMO-Magnitude of Clinical
+Beneﬁt Scale version 1.1. Ann Oncol. 2017;28(10):2340-2366.
+92. Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis. 2001;33(2):139-144.
+93. Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards
+for infectious diseases. Infectious Diseases Society of America. Clin
+Infect Dis. 1994;18(3):421.
+
+Volume 33
+
+-
+
+Issue 10
+
+-
+
+2022
+
+

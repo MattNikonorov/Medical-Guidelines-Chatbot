@@ -1,0 +1,1889 @@
+SPECIAL ARTICLE
+
+Endometrial cancer: ESMO Clinical Practice Guideline for diagnosis,
+treatment and follow-up5
+A. Oaknin1, T. J. Bosse2, C. L. Creutzberg3, G. Giornelli4, P. Harter5, F. Joly6,7, D. Lorusso8,9, C. Marth10, V. Makker11,12,
+M. R. Mirza13, J. A. Ledermann14,15 & N. Colombo16,17, on behalf of the ESMO Guidelines Committee*
+1
+Gynaecologic Cancer Programme, Vall d’Hebron Institute of Oncology (VHIO), Hospital Universitari Vall d’Hebron, Vall d’Hebron Barcelona Hospital Campus,
+Barcelona, Spain; Departments of 2Pathology; 3Radiation Oncology, Leiden University Medical Center, Leiden, The Netherlands; 4Department of Oncology, Instituto
+Alexander Fleming, Buenos Aires, Argentina; 5Department of Gynecology & Gynecologic Oncology, Ev. Kliniken Essen-Mitte, Essen, Germany; 6ANTICIPE, Cancer and
+Cognition Platform, Normandie University, Caen; 7Medical Oncology Department, Centre François Baclesse, Caen, France; 8Department of Life Science and Public
+Health, Catholic University of Sacred Heart, Largo Agostino Gemelli, Rome; 9Department of Women and Child Health, Division of Gynaecologic Oncology, Fondazione
+Policlinico Universitario Agostino Gemelli IRCCS, Rome, Italy; 10Department of Obstetrics and Gynecology, Medical University Innsbruck, Innsbruck, Austria;
+11
+Gynecologic Medical Oncology Service, Memorial Sloan Kettering Cancer Center, New York; 12Department of Medicine, Weill Cornell Medical College, New York, USA;
+13
+Department of Oncology, Rigshospitalet, Copenhagen University Hospital, Copenhagen, Denmark; 14Cancer Institute, University College London (UCL), London;
+15
+Department of Oncology, UCL Hospitals, London, UK; 16Department of Gynecologic Oncology, Istituto Europeo di Oncologia IRCCS, Milan; 17Department of Medicine
+and Surgery, University of Milano-Bicocca, Milan, Italy
+
+Available online 8 June 2022
+
+Key words: endometrial cancer, ESMO Clinical Practice Guideline, diagnosis, treatment, follow-up
+
+INCIDENCE AND EPIDEMIOLOGY
+Worldwide, endometrial cancer (EC) ranks seventh among
+all female cancers with the majority of cases occurring between 65 and 75 years of age.1 In Europe, uterine cancer
+ranks fourth among female neoplasms, with an incidence of
+12.9-20.2:100 000 and a low mortality rate: 2.0-2.7:100
+000.2,3 This discrepancy is due to the fact that 80% of ECs
+are conﬁned to the uterus at diagnosis and present with
+postmenopausal bleeding, which leads to prompt
+detection.1
+EC is more prevalent in high/intermediate developed
+countries. Risk factors for EC include body mass index (BMI)
+(with an increased incidence of þ21% for BMI 2227.2, þ43% for BMI 27.5-29-5 and þ273% for BMI >30),
+hypertension, hyperinsulinaemia and prolonged exposure
+to unopposed estrogen (often related to nulliparity and
+infertility associated with polycystic ovarian syndrome or
+tamoxifen use).4,5
+Mortality rates have been increasing by 1.9% per year on
+average, mainly attributed to the increasing incidence of
+obesity, a known risk factor for the most frequent type of
+EC.6,7
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5
+Note: Approved by the ESMO Guidelines Committee: October 2007, last
+update April 2022. This publication supersedes the previously published
+versiondAnn Oncol 2013; 24(Suppl 6):vi33-vi38.
+0923-7534/© 2022 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+860
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+ECs have traditionally been classiﬁed into two subtypes
+according to their histopathological characteristics (type 1
+and 2).8 This classiﬁcation system, however, is in a transition
+period and is being replaced by a clearly-deﬁned system
+based on molecular phenotypes.9
+Although >90% of ECs are sporadic, 5%-10% are hereditary, usually as a part of the hereditary non-polyposis
+colorectal cancer syndrome (HNPCC) or Lynch syndrome.
+Women with HNPCC have a 10-fold risk of developing EC, as
+well as an increased risk of colon and ovarian cancer. These
+are usually microsatellite-unstable tumours and tend to
+occur at a younger age.10
+DIAGNOSIS, PATHOLOGY AND MOLECULAR BIOLOGY
+The traditional dualistic histopathological classiﬁcation
+coined by Bokhman split EC into two groups: type I and
+type II. The endometrioid subtype was categorised as type I,
+while all other histological subtypes were classiﬁed as type
+II cancers. Type II cancers were associated with a higher risk
+of relapse compared with type I.8 Tumours are graded according to the International Federation of Gynecology and
+Obstetrics (FIGO) deﬁned criteria and are moving towards a
+two-tier grading combining grade 1 (G1) and grade 2 (G2)
+endometrioid carcinomas as low grade and grade 3 (G3) as
+high grade.11 In addition, multiple factors have been
+traditionally identiﬁed as high risk for recurrent disease:
+histological subtype, G3 histology, myometrial invasion
+50%, lymphovascular space invasion (LVSI), lymph node
+metastases and tumour diameter >2 cm. Substantial LVSI is
+a major poor prognostic factor. Substantial LVSI is deﬁned
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+as widespread invasion of tumour emboli into vascular
+spaces at and beyond the invasive front of the tumour.
+Substantial LVSI can be diagnosed on haematoxylin and
+eosin (H&E) slides without the need for additional immunostains. Although the extent of LVSI may vary per H&E
+slide, LVSI foci are often found in multiple slides. If the
+extent of LVSI is limited to fewer than four vessels, it is
+regarded as focal LVSI. Substantial LVSI is deﬁned as four or
+more LVSI-positive vessels in at least one H&E slide. In
+contrast to substantial LVSI, minimal or focal LVSI has
+limited impact on prognosis.12-14 Alongside these characteristics, L1 cell adhesion molecule (L1CAM) is another
+signiﬁcant indicator of high-risk disease.15,16 Expression of
+L1CAM is most frequent in p53-abnormal (p53-abn) tumours but is also predictive of worse outcome among tumours with no speciﬁc molecular proﬁle (NSMP).17,18
+In recent years, it has become increasingly clear that the
+traditional classiﬁcation lacks reproducibility and yields
+heterogenous molecular groups that hamper advances and
+implementation of precision medicine.19,20 This is particularly problematic for future clinical trials with targeted approaches that will demand inclusion of cancers with
+molecular similarities. The EC classiﬁcation originally proposed by The Cancer Genome Atlas (TCGA) project serves
+this purpose well, as it is based upon the combination of
+somatic mutational burden and somatic copy number alterations.9 This TCGA approach results in the molecular
+stratiﬁcation of ECs into four distinct molecular groups; (i)
+ultramutated [>100 mutations/megabase (mut/Mb)] with
+pathogenic variations in the exonuclease domain of DNA
+polymerase epsilon (POLE)-ultramutated (POLEmut), (ii)
+hypermutated (10-100 mut/Mb), microsatellite-unstable,
+(iii) somatic copy number-high with frequent pathogenic
+variants in TP53 and (iv) somatic copy number-low with
+frequently phosphoinositide 3-kinase (PI3K) and WNT
+
+signalling abnormalities. Importantly, a range of publications on large and clinically well-annotated (trial)
+cohorts have shown that surrogate markers can be utilised
+for a TCGA-inspired molecular classiﬁcation in routine
+surgical pathology, without the need for extensive
+sequencing.18,21-23 This pragmatic alternative relies on a
+small number of well-established immunohistochemical
+(IHC) markers (MSH6, PMS2 and p53) in combination with
+targeted tumour sequencing (POLE hotspot analysis) and
+also automatically serves to pre-screen for Lynch syndrome
+as it incorporates reﬂex testing of the mismatch repair
+(MMR) proteins (Table 1).
+A simple and clearly deﬁned diagnostic algorithm for the
+molecular EC classiﬁcation has been proposed24 (Figure 1).
+POLEmut EC can be diagnosed after the detection of a
+pathogenic mutation in the exonuclease domain of POLE.
+Guidance about the interpretation of pathogenic variants
+was recently described by Leon-Castillo et al.,25 allowing for
+uniform classiﬁcation of POLEmut EC. Subsequently, for
+cases that do not carry a pathogenic POLE variant, immunostaining of at least two (PMS2 and MSH6) or preferably
+four (PMS2, MLH1, MSH6 and MSH2) of the MMR proteins
+is carried out. Complete loss of expression of one or more
+of these MMR proteins is sufﬁcient for the diagnosis of
+MMR-deﬁcient (dMMR) EC.26 Finally, p53 immunostaining
+serves as a near-perfect surrogate marker for an underlying
+TP53 mutation and is, therefore, used to classify EC as p53abn (after excluding POLEmut and dMMR).27 Extensive
+study of these surrogate markers has shown a good relationship to clinical outcome, establishing their prognostic
+value. POLEmut EC has an excellent outcome and p53-abn
+EC has the poorest clinical outcome, independent of
+risk group, type of adjuvant treatment, tumour type or
+grade.21-23 This implies that de-escalation of adjuvant
+treatment of POLEmut EC patients should be explored, as is
+
+Table 1. Molecular and clinicopathological features of endometrial cancer molecular subgroups
+
+Prevalence in
+TCGA cohort, %
+Associated molecular
+features
+Most frequently associated
+histological features
+
+Associated clinical
+features
+
+POLEmut (i.e. POLE EDM)
+
+dMMR (i.e. MSI)
+
+NSMP (i.e. p53-wt)
+
+p53aberrant (i.e. p53-abn, p53-mut)
+
+5-15
+
+25-30
+
+30-40
+
+5-15
+
+>100 mut/Mb,
+SCNA-very low, MSS
+Endometrioid
+Often high grade
+Ambiguous morphology
+Prominent TILs and TLSs
+
+10-100 mut/Mb,
+SCNA-low, MSI
+Endometrioid
+Often high grade
+LVSI substantial
+Prominent TILs
+MELF-type invasion
+Higher BMI
+Lynch syndrome
+
+<10 mut/Mb,
+SCNA-low, MSS
+Mostly low grade
+Notable absence of TILs
+Squamous differentiation
+ER/PgR diffuse
+
+<10 mut/Mb, SCNA-high, MSS
+
+Lower BMI
+Early stage (IA-IB)
+Early onset
+NGS/Sanger/Hotspot:
+P286R, V411L, S297F,
+A456P, S459F
+Excellent
+
+Diagnostic test
+
+Prognosis
+
+MMR-IHC: MLH1,
+MSH2, MSH6, PMS2
+MSI assay
+Intermediate
+
+Higher BMI
+
+Intermediate
+Stage-dependent
+
+All histological subtypes
+Mostly high grade
+High cytonuclear atypia
+Low level of TILS
+Lower BMI
+Advanced stage
+Late onset
+p53-IHC
+Mutant-like/abnormal
+staining
+Poor
+
+Adapted from McAlpine et al.,119 with permission from John Wiley and Sons.
+BMI, body mass index; dMMR, mismatch repair deﬁcient; EDM, exonuclease domain mutation; ER, estrogen receptor; IHC, immunohistochemistry; LVSI, lymphovascular space
+invasion; MELF, microcystic elongated and fragmented type of invasion; MMR-IHC, mismatch repair immunohistochemistry; MSI, microsatellite instability; MSS, microsatellite
+stable; mut/Mb, mutations/megabase; NGS, next-generation sequencing; NSMP, no speciﬁc molecular proﬁle; p53-abn, p53-abnormal; p53-mut, p53-mutant; p53-wt, p53-wild
+type; PgR, progesterone receptor; POLE, polymerase epsilon; POLEmut, polymerase epsilon-ultramutated; SCNA, somatic copy number alteration; TCGA, The Cancer Genome
+Atlas; TIL, tumour inﬁltrating lymphocyte; TLS, tertiary lymphoid structure.
+
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+861
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+Figure 1. Diagnostic algorithm for the integrated molecular EC classiﬁcation.
+This algorithm can be applied to all histological subtypes of EC (including carcinosarcomas). Please refer to manuscript for further information on POLEmut analysis
+indication.
+dMMR, mismatch repair deﬁcient; EC, endometrial cancer; MMR, mismatch repair; NSMP, no speciﬁc molecular proﬁle; p53-mut, p53-mutant; pMMR, mismatch repairproﬁcient; POLE, polymerase epsilon; POLEmut, polymerase epsilon-ultramutated.
+a
+Pathogenic POLE variants include p.Pro286Arg, p.Val411Leu, p.Ser297Phe, p.Ala456Pro and p.Ser459Phe.25
+b
+MMR deﬁciency is deﬁned by loss of one or more MMR proteins (MLH1, PMS2, MSH2 and MSH6).
+c
+p53 immunohistochemistry is an acceptable surrogate marker for TP53 mutation status in MMR-proﬁcient, POLE wild-type EC.27 Permission to use ﬁgure under a
+Creative Commons CC BY License, Wiley https://www.creativecommons.org/licenses/by-nc-nd/2.0/.24
+
+currently being done in the clinical Postoperative Radiation
+Therapy in Endometrial Cancer (PORTEC)-4a trial.28
+Furthermore, recent data suggest that the greatest beneﬁt
+for the addition of chemotherapy (ChT) in the adjuvant
+setting is for those ECs harbouring p53-abn which includes
+most serous cancers but also a signiﬁcant portion of other
+histological subtypes such as carcinosarcomas.23 This shows
+how the molecular EC classiﬁcation has the potential to
+improve patient management, reducing over- and
+undertreatment.
+In future trial designs, molecular classiﬁcation should be
+encouraged as it would allow comparison between groups
+of patients sharing similar/analagous features.
+Molecular classiﬁcation has been shown to be prognostically enlightening in low-, intermediate- and high-risk EC.
+Therefore, well-established IHC staining for p53 and MMR
+proteins (MLH1, PMS2, MSH2, MSH6) is now recommended
+as standard practice for all EC pathology specimens
+regardless of histological type and to complete the molecular classiﬁcation following the diagnostic algorithm
+(Figure 1), by sequencing the exonuclease domain of POLE
+where available. As not all laboratories are currently able to
+carry out the molecular classiﬁcation on all ECs,
+862
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+prioritisation of molecular classiﬁcation should be done for
+cases where results are relevant to guiding adjuvant treatment recommendations. It applies particularly to those
+classiﬁed as being high grade or at high stage (FIGO stage
+II), as the clinical consequences for these patients will be
+most pronounced.
+In this transition phase, in which two EC classiﬁcation
+systems exist, it is recommended that the classiﬁcation
+system used is speciﬁed. As with other tumour sites undergoing a similar transition, ECs that have not (completely)
+been molecularly classiﬁed should be designated as EC nototherwise-speciﬁed (EC-NOS) and continue the use of the
+histology-based classiﬁcation system [e.g. endometrioidtype EC (EEC-NOS)].24 This additional note will improve
+clarity for caretakers and patients. The histology-based
+classiﬁcation remains unchanged and distinguishes endometrioid, serous, clear-cell and un/dedifferentiated EC.
+Uterine carcinosarcomas are metaplastic carcinomas with
+molecular features that overlap with serous and endometrioid adenocarcinomas and, therefore, should be included
+in this list of ‘epithelial endometrial malignancies’. Data on
+the prognostic and predictive value of the molecular classiﬁcation for the rarer (non-endometrioid) histological EC
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+variants are still limited to pilot studies; however, all molecular classes are identiﬁed in all histological subtypes.29,30
+Recommendations
+ Histological type, FIGO grade, myometrial invasion and
+LVSI (focal/substantial) should be described for all EC
+pathology specimens [V, A].
+ Molecular classiﬁcation through well-established IHC
+staining for p53 and MMR proteins (MLH1, PMS2,
+MSH2, MSH6) in combination with targeted tumour
+sequencing (POLE hotspot analysis) should be carried
+out for all EC pathology specimens regardless of histological type [IV, A].
+
+STAGING AND RISK ASSESSMENT
+Although EC is a surgically-staged disease according to the
+FIGO system (Supplementary Table S1, available at https://
+doi.org/10.1016/j.annonc.2022.05.009), preoperative staging may help to establish a recurrence risk group and to deﬁne
+resulting surgical management, mainly on the basis of
+assessment of myometrial/cervical invasion and lymph node
+metastases. The preoperative work-up includes clinical and
+gynaecological examination, transvaginal ultrasound, a full
+blood count and liver and renal function proﬁles. Of note,
+magnetic resonance imaging (MRI) is considered the most
+accurate imaging technique for preoperative assessment of
+EC due to its excellent soft tissue contrast resolution. Depth
+of myometrial invasion and cervical stromal invasion are both
+
+important aspects of EC staging. Dynamic contrast-enhanced
+MRI and T2-weighted images are useful tools in the assessment of these features, with an accuracy of 98% and 90% for
+assessing myometrial and cervical stromal invasion, respectively.31 An abdominal and thoracic computed tomography
+(CT) scan should be considered for investigating the presence
+of extrapelvic disease. [18F]2-Fluoro-2-deoxy-D-glucose-positron emission tomography (FDG-PET)-CT demonstrates high
+speciﬁcity and positive predictive value for detecting distant
+metastases.32 FDG-PET-CT has an excellent diagnostic performance for detecting lymph node metastasis preoperatively and disease recurrence post-operatively in EC patients
+and can be considered as an additional diagnostic procedure.33 EC is diagnosed after histopathological examination of
+samples from dilation and curettage (D&C), or Pipelle biopsy.
+Hysteroscopy may be helpful to have a representative biopsy
+or for removal of the target lesion.
+Recommendations
+ Obtaining endometrial sampling by biopsy or D&C are
+acceptable initial approaches to histological diagnosis of
+EC [IV, A].
+ The preoperative work-up should include clinical and
+gynaecological examination, transvaginal ultrasound, pelvic MRI, a full blood count and liver and renal function
+proﬁles [IV, B].
+ Additional imaging tests (e.g. thoracic and abdominal CT
+scan and/or FDG-PET-CT) may be considered in those patients at high risk of extrapelvic disease [IV, C].
+
+Figure 2. Stage I EC: surgery.
+Purple: general categories or stratiﬁcation; red: surgery; white: other aspects of management.
+EC, endometrial cancer; EEC, endometrioid-type endometrial cancer; LNE, lymphadenectomy.
+a
+Except in those restricted to polyps.
+
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+863
+
+A. Oaknin et al.
+
+Annals of Oncology
+MANAGEMENT OF LOCAL AND LOCOREGIONAL DISEASE
+Surgery
+In early-stage EC, the aim of surgery is to remove macroscopic tumour, examine for microscopic metastases and
+stage the tumour to assess the need for adjuvant therapy
+(see Figure 2). Laparotomy has been the traditional surgical
+approach for the treatment of EC. Large, randomised trials
+and a meta-analysis have demonstrated that minimally
+invasive techniques have operative outcomes similar to
+laparotomy with respect to prognosis.34,35 Even though the
+majority of patients included in these trials were low risk
+(e.g. G1 or G2), with only 17% of patients at higher risk (e.g.
+deﬁned by G3), the laparoscopic approach can be extended
+to G3 tumours, since detrimental effects were not
+demonstrated. A robotic approach is a potential enhancement to standard laparoscopic surgery and may be especially beneﬁcial in obese women. Standard surgery is
+hysterectomy with bilateral salpingo-oophorectomy. Preservation of ovaries can be considered in premenopausal
+patients with FIGO stage IA G1 EEC. Ovarian preservation is
+not recommended for patients at genetic risk for ovarian
+cancer (e.g. germline BRCA mutation, Lynch syndrome).
+Staging omentectomy should be considered in carcinosarcoma and serous type EC.
+The risk of lymph node metastases ranges between <5%
+and 40% depending on grade, myometrial invasion and
+histology. Because the detection of lymph node metastases
+has an impact on adjuvant therapy, evaluation of lymph
+node status is recommended in patients with nonendometrioid histology, FIGO IB or G3 disease. Lymph
+node evaluation could be omitted in endometrioid FIGO IA
+G1-G2 disease since the risk of nodal metastasis is very low
+(<5%).36
+Two prospective randomised trials have investigated the
+effect of systematic pelvic lymphadenectomy (LNE) in
+EC.37,38 These studies have not been able to demonstrate
+an improvement in prognosis, associated with LNE. Subsequently, multiple reasons were discussed to explain the
+results, such as the inclusion of patients with low-risk tumours, insufﬁcient surgical quality and imbalance in adjuvant therapy. Therefore, it was concluded that both trials
+have shown that systematic LNE is not indicated in stage IA
+G1-G2 endometrioid tumours, but the trials could not
+provide ﬁrm guidance regarding optimal management of
+patients at a higher risk. The question of systematic LNE is
+being assessed in the ECLAT trial (NCT03438474).
+Sentinel node biopsy or sentinel LNE has emerged as
+alternative to lymph node dissection for lymph node staging. The sensitivity of sentinel LNE as a lymph node staging
+approach in early-stage EC patients has been endorsed by
+multiple studies favouring its implementation in surgical
+management.39,40 The FIRES trial, the largest prospective
+cohort analysing the role of sentinel LNE in stage I EC, has
+shown that this approach can safely identify sentinel lymph
+nodes in EC. Currently the only data that support the
+sentinel LNE in terms of prognosis have been obtained from
+retrospective studies. Results from randomised clinical trials
+864
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+with a survival endpoint are still lacking. Sentinel LNE with
+indocyanine green is reported to be feasible and yields the
+best results from a technical perspective and is therefore
+the preferred method.41 Whether a positive pelvic sentinel
+lymph node evaluation indicates further retroperitoneal
+staging (pelvic and/or para-aortic LNE) is not yet deﬁned. In
+conclusion, and based on data provided by prospective and
+retrospective studies,39,40 sentinel lymph node biopsy can
+be considered for staging purposes in patients with lowrisk/intermediate-risk disease. It may also represent an
+alternative to systematic LNE in high-intermediate-risk/
+high-risk disease stage I-II.
+Cytoreductive surgery with the aim of complete resection
+should be considered in stage III and IV EC (including carcinosarcoma)42 if feasible and with acceptable morbidity,
+following full preoperative staging. There seems to be no
+role for so called suboptimal debulking to residual disease
+of 1-10 mm like in ovarian cancer.43
+Adjuvant treatment
+The most recently published randomised trials of adjuvant
+treatment used a long-standing risk-based approach to
+enrol patients, dependent on stage and pathological features. Recent data, however, suggest that the risk of
+recurrence needs to take into account the molecular features of the tumour. A molecular classiﬁcation has been
+proposed to improve the evaluation of recurrence risk. This
+is now incorporated into guidelines to aid decision-making
+regarding adjuvant treatment.
+Traditional clinicopathological risk factors, especially age,
+histopathological type and grade, myometrial invasion and
+LVSI are important in assessing prognosis. More recently, it
+has been shown that when LVSI is substantial (also called
+unequivocal or obvious), there is a greatly increased risk of
+recurrence and death.12,44
+As described in the previous sections, TCGA has identiﬁed
+four molecular EC subgroups with signiﬁcant prognostic
+differences among them.9 These clinically relevant molecular subgroups have been replicated using surrogate
+markers in formalin-ﬁxed, parafﬁn-embedded tissues,
+identifying equivalent subgroups: p53-abn, POLEmut,
+dMMR and NSMP.18,22,45,46 The integration of this molecular classiﬁcation with the well-established clinicopathological data has resulted in an updated risk classiﬁcation
+system to establish the relative risk of recurrence. This
+system can now be used to explore molecularly-targeted
+therapy within these subgroups (Table 2).
+All recommendations apply to women with FIGO stage IIVA EC who undergo surgery and do not have any macroscopic residual disease.
+Low-risk EC
+There is no indication for adjuvant treatment of low-risk EC
+as the risk of recurrence is low (see Figure 3). Multiple
+studies have shown no survival beneﬁt from adjuvant
+treatment and the occasional patient with a local recurrence can effectively be treated with radiotherapy (RT) at
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+Table 2. EC risk groups
+
+Risk group
+
+Descriptiona
+
+Low risk
+
+Stage IA (G1-G2) with endometrioid type (dMMRb and NSMP) and no or focal LVSI
+Stage I/II POLEmut cancer; for stage III POLEmut cancersc
+Stage IA G3 with endometrioid type (dMMR and NSMP) and no or focal LVSI
+Stage IA non-endometrioid type (serous, clear-cell, undifferentiated carcinoma, carcinosarcoma, mixed) and/or p53-abn
+cancers without myometrial invasion and no or focal LVSI
+Stage IB (G1-G2) with endometrioid type (dMMR and NSMP) and no or focal LVSI
+Stage II G1 endometrioid type (dMMR and NSMP) and no or focal LVSI
+Stage I endometrioid type (dMMR and NSMP) any grade and any depth of invasion with substantial LVSI
+Stage IB G3 with endometrioid type (dMMR and NSMP) regardless of LVSI
+Stage II G1 endometrioid type (dMMR and NSMP) with substantial LVSI
+Stage II G2-G3 endometrioid type (dMMR and NSMP)
+All stages and all histologies with p53-abn and myometrial invasion
+All stages with serous or undifferentiated carcinoma including carcinosarcoma with myometrial invasion
+All stage III and IVA with no residual tumour, regardless of histology and regardless of molecular subtypeb
+
+Intermediate risk
+
+High-intermediate risk
+
+High risk
+
+dMMR, mismatch repair deﬁcient; EC, endometrial cancer; G1-G3, grade 1-3; IHC, immunohistochemistry; LVSI, lymphovascular space invasion; MSI-H, microsatellite instability
+high/hypermutated; NSMP, no speciﬁc molecular proﬁle; p53-abn, p53-abnormal; POLEmut, polymerase epsilon-ultramutated.
+a
+Stage III-IVA if completely resected without residual disease; table does not apply to stage III-IVA with residual disease or for stage IV.
+b
+dMMR and MSI-H: Both terms identify a similar EC population. Identiﬁcation of a defective mismatch repair pathway by IHC (i.e. dMMR) or sequencing to determining
+microsatellite instability (i.e. MSI-H).
+c
+POLEmut stage III might be considered as low risk. Nevertheless, currently there are no data regarding safety of omitting adjuvant therapy.
+
+the time of recurrence.47-49 Current data from the PORTEC1/2 studies and additional series have demonstrated the
+presence of POLEmut as an indicator of a favourable EC
+prognosis, independent of other clinicopathological variables. Hence, patients with stage I-II tumours and a
+POLEmut are now also considered to be low risk and unlikely to beneﬁt from adjuvant treatment.18,45,50,51 POLEmut
+EC, however, comprises only a small subgroup (overall
+5%-15% of EC) and it is infrequent to ﬁnd this mutation in
+patients with advanced disease.18,23 Nevertheless, omitting
+adjuvant treatment is also an option among stage III
+POLEmut EC patients, although there are currently no
+available outcome data without adjuvant treatment. Clinical
+studies (observational) are strongly encouraged52,53 in this
+POLEmut EC group.
+
+A Danish population study conﬁrmed that the risk of
+locoregional relapse was higher (w14%) with omission of
+VBT, but the OS was no different due to successful treatment of relapse.56 According to these data, the omission of
+adjuvant treatment may be considered in individualised
+cases following patient counselling.
+Within this intermediate group are those patients with
+stage IA non-endometrioid and/or p53-abn cancers without
+myometrial invasion and no or focal LVSI. It should be noted
+that these patients were not included in the randomised
+trials. Therefore, the potential beneﬁt of adjuvant therapy
+for those patients is unclear; consequently, the recommendation for adjuvant treatment or observation should be
+considered on a case-by-case basis following multidisciplinary discussion.
+
+Intermediate-risk EC
+
+High-intermediate-risk EC
+
+Both PORTEC-1 and Gynaecology Oncology Group (GOG)-99
+clinical trials demonstrated that pelvic RT signiﬁcantly
+reduced locoregional recurrence in the intermediate-risk
+group, with the largest absolute reductions in the designated high-intermediate-risk groups.47,48 As the majority of
+recurrences for those cases were in the vaginal vault,
+PORTEC-2 evaluated the efﬁcacy and toxicity of vaginal
+brachytherapy (VBT) compared with external beam RT
+(EBRT) in the PORTEC-1 deﬁned high-intermediate group
+(see Figure 3). Ten-year survival data conﬁrmed excellent
+vaginal control rates (>96%) in both arms, with similar rates
+of isolated pelvic recurrence, distant metastasis and overall
+survival (OS).53-55 Moreover, in this long-term analysis,
+substantial LVSI, p53-abn and L1CAM overexpression were
+all strongly associated with a higher risk of recurrence.
+Among those patients with any of these unfavourable risk
+factors, EBRT provided a better control than VBT. Therefore,
+patients with any of these features are no longer classiﬁed
+as intermediate risk.18,19,55
+
+The traditional high-intermediate-risk EC group, deﬁned in
+both PORTEC-1 and GOG-99 (e.g. age 70 years or older with
+one uterine risk factor, age 50 years or older with two
+uterine risk factors or age 18 years or older with three
+uterine risk factors: uterine risk factors include G2 or G3
+tumour, outer-half depth of invasion and lymphovascular
+invasion) has been modiﬁed due to further knowledge
+regarding molecular and clinicopathological characteristics.18,55 This re-deﬁned group, as described in Table 2,
+comprises a group with a higher risk of recurrence. Hence,
+the potential beneﬁt of ChT to decrease disease recurrence
+in this EC group has been addressed in several trials, none
+of which included exactly the same risk population. Two of
+these studies, both published more than a decade ago,
+evaluated adjuvant platinum-based ChT versus RT and
+found no OS advantage.57,58 The pooled analysis of the
+ManGO ILIADE-III trial and NSGO-EC-9501/EORTC-55991
+trial comparing RT with RT plus ChT showed that although
+progression-free survival (PFS) was improved with
+
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+865
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+Figure 3. Stage I-IVA EC: adjuvant therapy for low- and intermediate-risk patients.
+Purple: general categories or stratiﬁcation; green: RT; white: other aspects of management. Further therapeutic options are described in the manuscript.
+dMMR, mismatch repair deﬁcient; EC, endometrial cancer; EEC, endometrioid-type endometrial cancer; LVSI, lymphovascular space invasion; NSMP, no speciﬁc molecular proﬁle; p53-abn, p53-abnormal; POLEmut, polymerase epsilon-ultramutated; RT radiotherapy; VBT, vaginal brachytherapy.
+a
+If completely resected without residual disease.
+
+combined therapy, the OS trend did not reach statistical
+signiﬁcance.59 Recently, the phase III trial GOG-249 analysed
+the impact on recurrence-free survival (RFS) of substituting
+pelvic RT for VBT followed by three cycles of paclitaxel and
+carboplatin in patients with high-intermediate-risk EC. The
+trial enrolled women meeting GOG-99 high-intermediaterisk criteria and/or stage II or stage I-II serous or clear-cell
+carcinoma. Remarkably, 89% had LNE and were nodenegative. The 5-year RFS and OS showed no differences
+between both arms. Acute adverse events of grade 2
+were found in 94% of patients receiving ChT and VBT versus
+44% of those assigned to RT. At 24 months, sensory neuropathy of grade 2 was signiﬁcantly worse in the ChT/VBT
+arm at 10% versus <1% with RT. Although the assessment
+of long-term side-effects would need a longer follow-up,
+these results have led the authors to conclude that pelvic
+RT remained the appropriate standard treatment of highrisk early-stage disease.60
+Moreover, the recent PORTEC-3 trial provides further data
+to deﬁne better treatment approaches.61,62 This trial evaluated the role of ChT during and after RT (CRT) versus pelvic RT
+alone in women with high-intermediate-risk and high-risk EC
+(stage IA G3 with LVSI; stage IB G3; stage II of any grade; stage
+866
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+III endometrioid and stage IA-III uterine serous or clear-cell
+carcinoma). Of note, about half of patients had high-risk
+early-stage disease (including 28% G3 and 25% nonendometrioid EC), and 45% had stage III disease. The
+recently published update with a median follow-up of 72.6
+months did show a signiﬁcant improvement in 5-year OS and
+failure-free survival (FFS). When analysing results by stage,
+combined adjuvant treatment of those women with stage I-II
+non-serous cancers showed only a small absolute improvement (i.e. 2% in 5-year OS and 4% in FFS). In consequence,
+taking the results of the GOG-249 and PORTEC-3 trials
+together, the decision of combined treatment in these early
+stages should be discussed on a case-by-case basis, considering the balance between the increased frequency of
+adverse events and the outcome beneﬁt (see Figure 4).
+High-risk EC
+The adoption of a precise deﬁnition of high-risk EC has been
+challenging. Currently, stage III-IVA EC without residual
+disease or stage I-IVA p53-abn or non-endometrioid carcinomas without residual disease with myometrial invasion
+are all considered high-risk EC.
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+Figure 4. Stage I-IVA EC: adjuvant therapy for intermediate- and high-risk patients.
+Purple: general categories or stratiﬁcation; turquoise: combination of treatments or other systemic treatments. Further therapeutic options are described in the
+manuscript.
+ChT, chemotherapy; dMMR, mismatch repair deﬁcient; EBRT, external beam radiotherapy; EC, endometrial cancer; LVSI, lymphovascular space invasion; NSMP, no
+speciﬁc molecular proﬁle; p53-abn, p53-abnormal; RT, radiotherapy.
+a
+If completely resected without residual disease.
+
+The recent data from three relevant phase III trials
+(PORTEC-3, GOG-249 and GOG-258), enrolling highintermediate-risk and high-risk EC patients, two of which
+were described in the previous section, are leading to a shift
+in the treatment paradigm.
+Updated analysis of PORTEC-3, with a median follow-up of
+72 months, showed a 5% OS beneﬁt and a 7% beneﬁt in FFS in
+the concurrent plus adjuvant ChT group, compared with RT
+alone. In the subgroup analysis, women with stage III EC along
+with those of serous histology obtained the greatest beneﬁt
+of adding ChT to RT. Of note, only 105 patients with serous
+cancer were enrolled in PORTEC-3; thus, the number of
+women and events are too low to report on treatment efﬁcacy across the different stages.61 Traditionally, clear-cell and
+serous cancers have been merged due to their worse prognosis. Nevertheless, in this PORTEC-3 analysis, the frequency
+of recurrence among women with clear-cell cancers (especially p53 wild type) was similar to that of women with
+endometrioid tumours and markedly lower than that of
+women with serous cancers.
+In terms of safety proﬁle, the addition of ChT resulted in
+signiﬁcantly higher treatment-related toxicity, but most
+differences resolved from 12 months onwards, with persisting differences in long-term G2 sensory neuropathy.
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+In the GOG-258 trial, 813 women with stage III-IVA EC
+were randomised to receive pelvic RT with concurrent and
+adjuvant ChT (same regimen as the PORTEC-3 trial) or to
+receive ChT alone (six cycles of carboplatin and paclitaxel).
+Although no differences in RFS and OS were found, significantly more vaginal and pelvic and/or para-aortic recurrences were seen in women treated with ChT alone.63
+Taking into consideration the results from these two trials, the beneﬁt obtained by adding ChT to RT and the
+resulting toxicity rate increase should be discussed as part
+of shared decision making between doctors and their patients. While CRT is the recommended regimen for high-risk
+patients, RT alone may be recommended in cases of major
+comorbidities and contraindications to ChT.61
+Given the strong emerging prognostic value of the EC
+molecular classiﬁcation, the outcome and impact of ChT for
+each molecular subgroup was analysed using the tissue
+samples from PORTEC-3. The results showed that patients
+with p53-abn EC had the poorest prognosis regardless of
+histology, whereas POLEmut was the strongest favourable
+prognostic factor, even among high-grade and advancestage cases. The treatment effect was also different within
+the molecular subgroups. Patients with p53-abn EC had a
+highly signiﬁcant beneﬁt from CRT regardless of the
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+867
+
+A. Oaknin et al.
+
+Annals of Oncology
+histological subtype and stage, whereas patients with
+POLEmut EC had an excellent survival in both treatment
+arms.
+Patients with dMMR and NSMP EC, however, had an intermediate outcome and when the differences in adjuvant
+treatment effect (CRT versus RT) were analysed among
+these molecular subgroups, no beneﬁt was observed between CRT and RT alone in patients with dMMR EC. Patients with NSMP EC had a trend toward beneﬁt from CRT,
+similar to the overall trial outcome.23
+Carcinosarcomas, which are currently considered metaplastic dedifferentiated ECs, have not been included in the
+trials cited above. They are uniformly regarded as high risk
+and most are classiﬁed as p53-abn EC. Recommendations
+for high-risk disease are largely applicable to carcinosarcomas as well and this histology should be included in the
+upcoming clinical trials.64
+
+Recommendations
+ Hysterectomy with bilateral salpingo-oophorectomy is
+the standard surgical procedure in early-stage EC [I, A].
+ Minimally invasive surgery is the recommended
+approach in stage I G1-G2 EC [I, A].
+ Minimally invasive surgery may also be the preferred
+surgical approach in stage I G3 [II, A].
+ Ovarian preservation can be considered in premenopausal women with stage IA G1 EEC [IV, A].
+ Sentinel LNE can be considered as a strategy for nodal
+assessment in low-risk/intermediate-risk EC (e.g. stage
+IA G1-G3 and stage IB G1-G2) [II, A]. It can be omitted
+in cases without myometrial invasion. Systematic LNE
+is not recommended in this group [II, D].
+ Surgical lymph node staging should be carried out in patients with high-intermediate-risk/high-risk disease.
+Sentinel lymph node biopsy is an acceptable alternative
+to systematic LNE for lymph node staging in highintermediate-risk/high-risk stage I-II [III, B].
+ Full surgical staging including omentectomy, peritoneal
+biopsies and lymph node staging should be considered
+in serous ECs and carcinosarcomas [IV, B].
+ When feasible, and with acceptable morbidity, cytoreductive surgery to a maximal surgical extent should be
+considered in stage III and IV [IV, B].
+Low-risk EC
+ For patients with stage IA (G1 and G2) with endometrioid (dMMR and NSMP) type and no or focal LVSI, adjuvant treatment is not recommended [I, E].
+ For patients with stage IA non-endometrioid type (and/
+or p53-abn), without myometrial invasion and no or focal
+LVSI, adjuvant treatment is not recommended [III, E].
+ For patients with stage I-II POLEmut cancers adjuvant
+treatment is not recommended [III, D].
+ For patients with stage III POLEmut cancers, treatment
+within the scope of clinical trials is recommended but
+no adjuvant treatment is also an option [III, C].
+868
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+Intermediate-risk EC
+ For patients with stage IA G3 endometrioid (dMMR and
+NSMP) type and no or focal LVSI, adjuvant VBT is recommended to decrease vaginal recurrence [I, A].
+ For patients with stage IB G1-G2 endometrioid (dMMR
+and NSMP) type and no or focal LVSI, adjuvant VBT is
+recommended to decrease vaginal recurrence [I, A].
+ For patients with stage II G1 endometrioid cancer
+(dMMR and NSMP) and no or focal LVSI, adjuvant VBT
+is recommended to decrease vaginal recurrence [II, B].
+ Omission of adjuvant VBT can be considered (especially
+for patients aged <60 years) for all above stages, after patient counselling and with appropriate follow-up [III, C].
+High-intermediate-risk EC with lymph node staging (pN0).
+ For patients with stage IA and IB with substantial LVSI,
+stage IB G3, stage II G1 with substantial LVSI and stage
+II G2-G3 (dMMR and NSMP):
+o Adjuvant EBRT is recommended [I, A].
+o Adding (concomitant and/or sequential) ChT to EBRT
+could be considered, especially for G3 and/or substantial LVSI [II, C].
+o Adjuvant VBT (instead of EBRT) could be recommended to decrease vaginal recurrence, especially for
+those without substantial LVSI [II, C].
+o With close follow-up, omission of any adjuvant treatment is an option following shared decision making
+with the patient [IV, C].
+High-intermediate-risk EC without lymph node staging.
+ For patients with stage IA and IB with substantial LVSI,
+stage IB G3, stage II G1 with substantial LVSI and stage
+II G2-G3 (dMMR and NSMP):
+o Adjuvant EBRT is recommended [I, A].
+o Adding (concomitant and/or sequential) ChT to EBRT
+could be considered especially for substantial LVSI
+and G3 [II, C].
+o Adjuvant VBT could be considered for IB G3 without
+substantial LVSI to decrease vaginal recurrence [II, C].
+
+HIGH-RISK EC
+ Adjuvant EBRT with concurrent and adjuvant ChT is recommended [I, A].
+ Sequential ChT and RT can be used [I, C].
+ ChT alone is an alternative option [I, B].
+
+RECURRENT/METASTATIC DISEASE
+Outcomes of advanced/recurrent disease remain poor, with
+5-year OS rates of 20%-25%.65 The treatment of patients
+with recurrent/metastatic EC should always require a
+multidisciplinary approach in specialised centres and should
+be guided by the patient’s condition, extent of the disease,
+prior therapies and molecular proﬁle. Important prognostic
+factors impacting local control and survival in recurrent EC
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+Figure 5. Locoregional recurrent EC.
+Purple: general categories or stratiﬁcation; red: surgery; green: RT; blue: systemic anticancer therapy.
+Optional
+EBRT, external beam radiotherapy; EC, endometrial cancer; RT radiotherapy; VBT, vaginal brachytherapy.
+
+include both site(s) and extension of the recurrence (e.g.
+isolated vaginal, pelvic; peritoneal carcinomatosis), tumour
+size (2 cm versus >2 cm), prior RT, relapse-free interval
+and histology. Indeed, a longer relapse-free interval, lowgrade histology, isolated vaginal recurrence and endometrioid histology are associated with a longer survival (see
+Figure 5).66,67
+
+survival rate is 8%, compared with 73% for those with isolated vaginal recurrences.47,68 This survival rate is comparable to the 3-year survival rate for patients with distant
+metastatic disease.47,68 Considering that the poor prognosis
+associated with pelvic recurrence mainly comprises highrisk distant failures, combining salvage RT with systemic
+therapy could improve the therapeutic gain of salvage RT.
+
+RT
+
+Surgery
+
+Patients with recurrent EC following primary surgical procedure alone may be appropriate candidates for RT, with
+salvage RT being the recommendation of choice in RT-naive
+patients with local or locoregional recurrence. Prognosis
+with isolated vaginal recurrence is more favourable
+compared with pelvic nodal recurrence.47 For selected patients with small vaginal recurrences who have not received
+prior RT, RT may be curative.
+The use of primary RT inﬂuences sites of recurrence and
+survival after relapse. As shown in PORTEC-1, survival is
+longer for patients with recurrent disease not previously
+treated with RT in the adjuvant setting.47,68 After an isolated vaginal recurrence, the 5-year survival rate for the
+non-irradiated group was 65%, compared with 43% for
+patients randomised to the adjuvant RT arm of PORTEC-1.
+Vaginal recurrences can be successfully treated with RT,
+with 5-year OS of 33%-84% and a 5-year disease-speciﬁc
+survival of 51%-77%,68-72 with a combination of RT plus
+VBT providing the best outcomes.73
+Rates of pelvic-limited recurrences vary from 4.9% at 8
+years in low-risk disease47 to 26% at 3 years in high-risk
+disease. For patients with a pelvic recurrence, the 3-year
+
+RT is the treatment of choice in previously non-irradiated
+patients with isolated vaginal or locoregional recurrence.74
+For patients with recurrent disease who received prior RT,
+including resectable peritoneal and lymph node relapses,
+surgery should be considered only if complete resection of
+macroscopic disease appears feasible with an acceptable
+morbidity.75 To date, and acknowledging the limitations of
+data from retrospective studies, the only factor associated
+with an improved OS is achievement of complete debulking.
+Moreover, radical surgery procedure with the intention of
+this complete resection should be considered in specialised
+centres after excluding distant metastasis. Pelvic exenteration may be considered for central local relapse.76 The role
+of complementary ChT after surgery for recurrence is not
+well established due to the lack of studies that have properly addressed this approach. In addition, various retrospective series have shown conﬂicting results. Hence, the
+indication for ChT should be evaluated on an individualised
+basis.67,75,77 Surgery may also be an option in cases with
+oligometastatic disease (deﬁned as a state of limited, one to
+ﬁve metastatic tumours) for which local ablative therapy
+could be a radical approach.78 Discussion of the cases in a
+
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+869
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+Figure 6. Metastatic EC.
+Purple: general categories or stratiﬁcation; blue: systemic anticancer therapy.
+AI, aromatase inhibitor; AUC, area under the curve; ChT, chemotherapy; dMMR, mismatch repair deﬁcient; EC, endometrial cancer; ICI, immune checkpoint inhibitor;
+MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale; MSI-H, microsatellite instability-high; MSS, microsatellite stable; pMMR, mismatch repair proﬁcient.
+a
+In patients eligible for further treatment after failure of platinum-based therapy.
+b
+ESMO-MCBS v1.1116 was used to calculate scores for new therapies/indications approved by the European Medicines Agency or Food and Drug Administration (FDA).
+The scores have been calculated by the ESMO-MCBS Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/
+esmo-mcbs-evaluation-forms).
+c
+FDA approval is restricted to patients whose tumours are not MSI-H or dMMR.
+
+multidisciplinary setting is critical to develop individualised
+treatment plans and to communicate potential side-effects
+and expected outcomes (see Figure 6).
+Systemic therapy
+For relapsed disease not amenable to surgery and/or RT, the
+standard approach remains ChT or hormonal therapy (see
+Figure 6). Currently, and following the results of GOG-209,
+carboplatin AUC 5-6 plus paclitaxel 175 mg/m2 every 21
+days for six cycles should be considered the ﬁrst-line therapy
+for advanced or recurrent EC. In this phase III trial,
+paclitaxelecarboplatin was not inferior to the cisplatine
+doxorubicinepaclitaxel (TAP) regimen with regard to efﬁcacy
+[overall response rate (ORR) of 40%-50%; median PFS and OS
+of 14 and 32 months, respectively] and was associated with a
+more favourable toxicity proﬁle.79 The combination of
+carboplatinepaclitaxel with antiangiogenic agent bevacizumab failed to demonstrate a clear beneﬁt with PFS
+[10.5 versus 13.7 months; hazard ratio (HR) 0.84, P ¼ 0.43]
+and OS (29.7 versus 40.0 months; HR 0.71, P ¼ 0.24) with
+respect to standard of care.80 ChT treatment options beyond
+ﬁrst-line therapy are limited with no standard of care identiﬁed. Palliative options, such as taxanes and doxorubicin,
+display moderate activity (ORR of 20%).81-83
+870
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+As mimicking the ovarian cancer treatment approach, the
+concept of ‘platinum-sensitivity and re-treatment with
+platinum’ has been investigated in several retrospective
+studies in the setting of recurrent EC. These studies have
+shown that platinum-based ChT re-challenge may be
+considered an option for selected patients who relapse >6
+months since last platinum-based ChT.84,85
+Hormonal therapy has formerly been accepted as ﬁrst-line
+therapy for advanced EC, and given its safety proﬁle and
+mode of administration, is still an attractive therapeutic option
+for a select group of patients.81,82 Factors reported to be
+predictive of response to endocrine therapy include low-grade
+endometrioid histology and, to a less clear extent, the status of
+estrogen receptor (ER)/progesterone receptor (PgR). While
+higher levels of ER and PgR expression are clearly associated
+with better outcomes in diseases such as breast cancer, the
+predictive value of ER/PgR in EC is confounded by both a lack of
+standardisation in tissue processing and clear cut-off limits. It is
+possible, however, to infer an association between ER/PgR
+status and response rates to endocrine therapy, with higher
+responses in ER/PgR-positive tumours. Having said this, responses have also been reported in ER/PgR-negative tumours.86 Moreover, due to reported differences in ER/PgR
+status between primary and recurrent disease, the optimal
+timing and selection of tissue for determining receptor status
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+remains an unresolved issue. The standard agents for treatment of patients with recurrent EC are progestins. A recent
+summary analysis of progestins used as ﬁrst-line therapy for
+metastatic/recurrent EC found an ORR of 23.3%, a median PFS
+of 2.9 months and a median OS of 9.2 months.87 Alternative
+options include, tamoxifen, fulvestrant and aromatase inhibitors (AIs). In the recent PARAGON trial, anastrozole showed
+a clinical beneﬁt rate of 44%, with 7% overall responses.88
+Immune checkpoint blockade monotherapy in advanced
+EC. Given that w30% of primary ECs are microsatellite
+instability-high/dMMR (MSI-H/dMMR), indicating immune
+dysregulation, immune checkpoint blockade (ICB) therapy
+has been explored both as monotherapy and in combination with cytotoxic ChT, other immunotherapy or targeted
+agents. A pivotal therapeutic advance was the Food and
+Drug Administration (FDA) accelerated approval of pembrolizumab [anti-programmed cell death protein 1 (PD-1)]
+for the treatment of advanced MSI-H or dMMR solid tumours. This marked the ﬁrst approval of a tumour-agnostic,
+histology-independent cancer therapy in which treatment is
+based on a common tumour biomarker rather than the
+anatomical location of origin. The KEYNOTE-158 trial of
+pembrolizumab across 27 advanced MSI-H/dMMR solid
+tumours conﬁrmed the activity on EC population and
+identiﬁed the presence of tumour mutational burden-high
+(TMB-H) biomarker [deﬁned as 10 mut/Mb] as a predictor of response to pembrolizumab.89 These data led to
+accelerated FDA approval for pembrolizumab for the
+treatment of TMB-H solid tumours (as determined by the
+FoundationOne CDx assay) that have progressed following
+prior therapy, including EC. Other anti-PD-1/programmed
+death-ligand 1 (PD-L1) agents that have shown encouraging activity in dMMR EC include avelumab,90 durvalumab91 and dostarlimab.92 The activity and safety of
+dostarlimab were analysed in the GARNET trial. This
+ongoing phase Ib study has enrolled 104 patients with
+dMMR EC. Of these, 71 had measurable disease at baseline
+and 6 months follow-up and were included in the primary
+analysis. The conﬁrmed ORR was 42.3% (a conﬁrmed
+complete or partial response was seen in 12.7% patients
+and 29.6%, respectively). The median duration of response
+was not reached (median follow-up was 11.2 months). In
+light of these results, on 22 and 23 April 2021, both the FDA
+and the European Medicines Agency (EMA), respectively,
+approved dostarlimab as monotherapy for the treatment of
+adult patients with recurrent or advanced dMMR/MSI-H EC
+that has progressed on or following prior treatment with a
+platinum-containing regimen (see Figure 6). Objective responses have also been observed with atezolizumab (antiPD-L1) and nivolumab in PD-L1-positive EC.93
+ICB and antiangiogenic targeted agents. The FDA, Australian
+Therapeutic Goods Administration and Health Canada recently
+granted accelerated approval to the combination of the oral
+multikinase inhibitor lenvatinib (targets vascular endothelial
+growth factor receptors 1-3, ﬁbroblast growth factor receptors
+1-4, platelet-derived growth factor receptor-a, RET and KIT) in
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+combination with pembrolizumab for the treatment of
+advanced EC that is not MSI-H or dMMR after platinum-based
+ChT.94 This was based on KEYNOTE 146, a phase Ib/II study of
+lenvatinib plus pembrolizumab in select solid tumours
+including EC (NCT02501096). In the ﬁnal efﬁcacy analysis,
+among 108 previously treated patients, the ORR was 38% at
+week 24 per investigator review per immune-related RECIST
+with median PFS and OS of 7.5 and 16.7 months, respectively.
+The ORR in the MMR-proﬁcient (pMMR) (n ¼ 94) and dMMR
+(n ¼ 11) cohorts were 36% and 64%, respectively, and
+responses were seen regardless of MSI status, PD-L1 status or
+histology.94 Treatment-emergent adverse events, notably
+hypertension, fatigue and diarrhoea, were common and
+overall dose reductions or interruptions occurred in 65% and
+72% patients, respectively.
+The results from the phase III trial (KEYNOTE-775NCT03517449) were presented at the Society of Gynaecologic Oncology virtual meeting in March 2021.The combination
+of pembrolizumab and lenvatinib led to a statistically signiﬁcant improvement in OS (HR 0.62, 95% CI 0.51-0.75,
+P < 0.0001), PFS (HR 0.56, 95% CI 0.47-0.66, P < 0.0001) and
+ORR (31.9% versus 14.7%) compared with standard ChT in
+patients with previously treated advanced EC, therefore
+meeting its dual primary endpoints and key secondary
+endpoint.95 In addition, this combination is under investigation
+as ﬁrst-line therapy versus carboplatin and paclitaxel ChT in
+advanced EC (NCT03884101). In light of these results, on 21
+July 2021, the FDA approved pembrolizumab in combination
+with lenvatinib for patients with advanced EC that is
+neither MSI-H nor dMMR, and who have disease progression
+following prior systemic therapy in any setting and are not
+candidates for curative surgery or RT. In addition, on 20 January
+2022, the EMA approved the same regimen, pembrolizumab in
+combination with lenvatinib, for the treatment of advanced or
+recurrent EC in adults who have disease progression on or
+following prior treatment with a platinum-containing therapy
+in any setting, regardless of MMR status and who are not
+candidates for curative surgery or RT (see Figure 6).96
+Targeted therapy approaches. The cyclin-dependent kinases (CDKs) are a family of serineethreonine kinases
+involved in cell-cycle progression. In preclinical and clinical
+studies, palbociclib, a selective inhibitor of the CDKs, CDK4
+and CDK6, has been shown to reverse endocrine resistance
+and inhibit the growth of ER-positive breast cancer cells
+synergistically with antiestrogens, and the combination of
+letrozole and palbociclib has been approved for the treatment of hormone receptor-positive, human epidermal
+growth factor receptor 2 (HER2)-negative breast cancer.97
+Interim results of the phase II ENGOT EN3 PALEO trial in
+previously treated endometrioid EC tumours that were ERpositive showed that letrozole plus palbociclib signiﬁcantly
+improved PFS compared with letrozole plus placebo: median 8.3 versus 3.0 months, respectively; (HR 0.56, 95% CI
+0.32-0.98, P ¼ 0.041).98
+The PI3K pathway is one of the most frequently pathogenically activated pathways in EC, and is pivotal in proliferation,
+survival, metastasis, metabolism and angiogenesis.99 Several
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+871
+
+A. Oaknin et al.
+
+Annals of Oncology
+phase II studies investigating PI3K inhibitors both as monotherapy and in combination in recurrent EC have demonstrated
+ORR ranging from 4% to 32%. Despite the promising efﬁcacy
+observed with these combinations, their safety proﬁles have
+compromised their further development.100 In the GOG-86P
+randomised phase II study, recurrent/metastatic EC patients
+were allocated to three different arms: carboplatine
+paclitaxeletemsirolimus, paclitaxelecarboplatinebevacizumab and ixabepiloneecarboplatinebevacizumab. The trial
+failed to show a signiﬁcant PFS difference with respect to historical control, namely the carboplatinepaclitaxel arm of trial
+GOG209.101
+The HER2 (ERBB2) gene is ampliﬁed in 17%-33% of
+uterine carcinosarcomas and serous carcinomas.102,103 A
+small randomised phase II trial of carboplatinepaclitaxel
+with or without trastuzumab in HER2/neu-positive serous
+EC showed an increase in both PFS and OS for those
+receiving trastuzumab.104
+Adavosertib, a WEE1 inhibitor, reported 29.4% ORR and
+38.2% clinical beneﬁt in a population of 34 heavily pretreated serous EC patients.105 This promising preliminary
+activity warrants further investigation.
+Future directions. Numerous ICB combination strategies
+with targeted therapies, other immunotherapeutic agents,
+ChT and RT are currently ongoing and have the potential to
+alter the EC treatment landscape.
+
+Recommendations
+ For patients with locoregional recurrence following
+primary surgery alone, the preferred primary therapy
+should be RT with VBT [IV, A].
+ Adding systemic therapy to salvage RT could be considered [IV, C].
+ For patients with recurrent disease following RT, surgery
+should be considered only if a complete debulking with
+acceptable morbidity is anticipated [IV, C].
+ Complementary systemic therapy after surgery could be
+considered [IV, C].
+ The ﬁrst-line standard ChT treatment is carboplatin AUC 5-6
+plus paclitaxel 175 mg/m2 every 21 days for six cycles [I, A].
+ Hormone therapy could be considered as front-line systemic therapy for patients with low-grade carcinomas
+endometrioid histology [III, A].
+ Progestins (medroxyprogesterone acetate 200 mg and
+megestrol acetate 160 mg) are the recommended agents
+[II, A].
+ Other options for hormonal therapies include AIs, tamoxifen and fulvestrant [III, C].
+ There is no standard of care for second-line ChT. Doxorubicin and weekly paclitaxel are considered the most
+active therapies [IV, C].
+ ICB monotherapy could be considered after platinumbased therapy failure in patients with MSI-H/dMMR EC
+[III, B].
+ Dostarlimab has recently been approved by both the
+EMA and the FDA for this indication [III, B; European
+872
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+Society for Medical Oncology-Magnitude of Clinical
+Beneﬁt Scale (ESMO-MCBS) v1.1 score: 3].
+ Pembrolizumab is FDA approved for the treatment of TMBH solid tumours (as determined by the FoundationOne CDx
+assay) that have progressed following prior therapy for EC
+[III, B; ESMO-MCBS v1.1 score: 3; not EMA approved].
+ Pembrolizumabelenvatinib is approved by the EMA for EC
+patients who have failed a previous platinum-based
+ChT, and who are not candidates for curative surgery or
+RT. FDA approval is for EC patients whose tumours are
+not dMMR/MSI-H [I, A; ESMO-MCBS v1.1 score: 4].
+
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND
+SURVIVORSHIP
+With >80% of patients diagnosed in the early stages of the
+disease and an excellent prognosis (5-year survival rate
+>95% for stage I), a large number of patients with EC will
+be long-term survivors. Awareness and management of the
+long-term effects of EC and its treatment are important.
+Surveillance of recurrence
+Most EC recurrences occur within 3 years of initial treatment
+and in most recurrences are associated with symptoms.
+Therefore, the probability of detecting a relapse during
+a planned follow-up consultation among asymptomatic
+patients is quite low.106-108 There is no evidence from randomised studies for the role of intensive doctor-led, hospitalbased surveillance in EC follow-up evaluation and no
+consensus on what testing should be utilised.109 Therefore,
+medical surveillance can be adjusted to risk factors.
+For low-risk groups, the suggested frequency of follow-up is
+every 6 months with physical and gynaecological examination
+for the ﬁrst 2 years, and then yearly until 5 years; in this group
+of patients, phone follow-up can be an alternative.110 Patient
+education regarding concerning signs and symptoms is a critical component of post-treatment care. In the high-risk groups,
+physical and gynaecological examinations are recommended
+every 3 months for the ﬁrst 3 years, and then every 6 months
+until 5 years. As CT scans detect only 15% of recurrences,
+routine use is not advocated. Nevertheless, it could be
+considered in the high-risk group, particularly if there was
+node extension (e.g. every 6 months the ﬁrst 3 years and then
+on an individual basis). PET-CT has been shown to be more
+sensitive and speciﬁc for the assessment of suspected recurrent EC; however, its use in routine follow-up has not been well
+studied111 and its indication must be individualised. The
+sensitivity and the speciﬁcity of cancer antigen 125 in EC are
+low and routine determination during follow-up is not recommended. Finally, it should be noted that Pap smears have
+not been useful for detecting local recurrences.
+Long-term side-effects and promotion of healthy life
+In addition to evaluation of recurrence, patients should be
+encouraged to continue with recommended cancer
+screening programmes for breast and colorectal cancers and
+follow-up of comorbidities. EC patients suffer from different
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+comorbidities mainly linked with age and obesity with
+higher risk of long-term cardiovascular events.112
+The main long-term symptoms reported by the patients
+are fatigue, psychosocial distress, sexuality and gynaecourinary disorders, chronic pain, lymphoedema and neuropathy (if ChT). Obesity is associated with low quality of
+life and physical function.113 Lifestyle interventions may
+improve fatigue, physical functioning and result in weight
+loss and psycho-educational programmes could improve
+mood disorders and sexuality complaints.114 Therefore,
+promotion of regular exercise, healthy diet and weight
+management should be addressed with all EC survivors.
+Limited data are available on hormone replacement
+therapy, so the decision must be discussed with the patients
+who experience menopausal symptoms on the basis of
+beneﬁt/risk.115
+Recommendations
+ For low-risk EC, the proposed surveillance is every 6
+months, with physical and gynaecological examination
+for the ﬁrst 2 years and then yearly until 5 years [V, C].
+ In the low-risk group, phone follow-up can be an alternative to hospital-based follow-up consultation [II, B].
+ For the high-risk groups, physical and gynaecological examinations are recommended every 3 months for the
+ﬁrst 3 years, and then every 6 months until 5 years [V, C].
+ A CT scan or PET-CT could be considered in the high-risk
+group, particularly if node extension was present [V, D].
+ Regular exercise, healthy diet and weight management
+should be promoted with all EC survivors [II, B].
+
+METHODOLOGY
+This Clinical Practice Guideline was developed in accordance with the ESMO standard operating procedures for
+Clinical Practice Guidelines development (https://www.
+esmo.org/Guidelines/ESMO-Guidelines-Methodology). The
+relevant literature has been selected by the expert authors.
+An ESMO-MCBS table with ESMO-MCBS scores is included
+in Supplementary Table S2, available at https://doi.org/10.
+1016/j.annonc.2022.05.009. ESMO-MCBS v1.1116 was used
+to calculate scores for new therapies/indications approved
+by the EMA or FDA (https://www.esmo.org/Guidelines/
+ESMO-MCBS). The scores have been calculated by the
+ESMO-MCBS Working Group and validated by the ESMO
+Guidelines Committee. The FDA/EMA or other regulatory
+body approval status of new therapies/indications is reported at the time of writing this Clinical Practice Guideline.
+Levels of evidence and grades of recommendation have
+been applied using the system shown in Supplementary
+Table S3, available at https://doi.org/10.1016/j.annonc.
+2022.05.009.117,118 Statements without grading were
+considered justiﬁed standard clinical practice by the authors. Future updates to this Clinical Practice Guideline will
+be published on esmo.org as a Living Guideline version or
+an eUpdate, to be made available at: https://www.esmo.
+org/guidelines/gynaecological-cancers/endometrial-cancer.
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+ACKNOWLEDGEMENTS
+Manuscript editing support was provided by Louise Green,
+Sarah Escuin and Jennifer Lamarre (ESMO Guidelines staff);
+this support was funded by ESMO. Nathan Cherny, Chair of
+the ESMO-MCBS Working Group, Urani Dafni ESMO-MCBS
+Working Group Member/Frontier Science Foundation Hellas and Giota Zygoura of Frontier Science Foundation Hellas
+provided review and validation of the ESMO-MCBS scores.
+Nicola Latino (ESMO Scientiﬁc Affairs staff) provided coordination and support of the ESMO-MCBS scores and Angela
+Corstorphine of Kstorﬁn Medical Communications provided
+medical writing and editing support in the preparation of
+the ESMO-MCBS table; this support was funded by ESMO.
+FUNDING
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURE
+AO has served on advisory boards for AstraZeneca Farmaceutica Spain, SA, AstraZeneca KK, Clovis Oncology, Corcept Therapeutics, Deciphera Pharmaceutical, Eisai Europe
+Limited, EMD Serono, Inc., Roche, GlaxoSmithKline (GSK),
+Got It Consulting SL, Immunogen, Merck Sharp & Dohme
+(MSD) de España, Mersana Therapeutics, Novocure GmbH,
+PharmaMar, prIME Oncology, Roche, Shattuck Labs, Inc.,
+Sutro Biopharma, Agenus and Tesaro and received support
+for travel or accommodation from Roche, AstraZeneca and
+PharmaMar, research funding paid directly to institution
+from AbbVie Deutschland, Ability Pharma, Advaxis Inc.,
+Aeterna Zentaris, Amgen SA, Aprea Therapeutics AB, Clovis
+Oncology, Eisai, F. Hoffmann-La Roche, Regeneron Pharmaceuticals, ImmunoGen, MSD de España SA, Millennium
+Pharmaceuticals, PharmaMar SA, Tesaro and Bristol Myers
+Squibb (BMS), participation to non-remunerated activities
+and non-remunerated leadership roles for GCIC and GEICO;
+TJB has received an invited speaker fee from GSK; CLC reports Varian research grant to institution for research on
+proton therapy for cervix cancers, Elekta research funding
+for planning platform to institution for brachytherapy
+research and honoraria compensation to institution for time
+spent on independent data monitoring committee from
+Merck; GG reports honoraria from AstraZeneca, MSD, GSK,
+Laboratorios Raffo, Pint Pharma, Janssen Cilag as speaker,
+consultant advisory board member and writer for MSD; PH
+reports personal fees and institutional research grants from
+AstraZeneca, Roche, GSK and ImmunoGen, institutional
+research support from Genmab, personal fees on advisory
+boards for MSD and Clovis, invited speaker fees for Amgen,
+Stryker and Zai Lab, personal fees from SOTIO, grants from
+Public funding (European Union, DKH, DFG), Boehringer
+Ingelheim and Medac; FJ reports honoraria for advisory
+boards from GSK, AstraZeneca, MSD, Janssen, Ipsen, BMS
+and Bayer, speaker fees from GSK, AstraZeneca, Janssen,
+Ipsen, Amgen, Sanoﬁ, Clovis and Astellas and institutional
+funding for work in clinical trials from GSK and AstraZeneca
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+873
+
+A. Oaknin et al.
+
+Annals of Oncology
+and a research grant from BMS; DL reports consultant
+honoraria from AstraZeneca, Clovis Oncology, GSK, MSD,
+ImmunoGen, Genmab, Amgen, Seagen and PharmaMar,
+invited speaker and member of advisory boards from
+AstraZeneca, invited member of advisory board from Merck
+Serono, invited speaker and member of advisory boards and
+receives direct research funding from Clovis Oncology, GSK,
+MSD and PharmaMar, institutional funding for work in
+clinical trials/contracted research from AstraZeneca, Clovis
+Oncology, GSK, MSD, Genmab, Seagen, ImmunoGen, Incyte,
+Novartis and Roche and participates in non-remunerated
+activities as principal investigator and non-remunerated
+leadership roles for GCIC; CM reports honoraria for advisory boards from Roche, Novartis, Amgen, MSD/Merck,
+PharmaMar, Seagen, AstraZeneca, Eisai and GSK and nonremunerated leadership roles for AGO-Austria, European
+Network for Gynaecological Oncological Trial groups and
+ABGSC; VM reports institutional research study support
+from MSD/Merck, Eisai, Clovis, Karyopharm, AstraZeneca
+and Zymeworks and non-remunerated activities for MSD/
+Merck, Eisai, Clovis, Novartis, Lilly, GSK, Karyopharm, Faeth,
+iTeos, Genentech, Mereo and Takeda and is supported in
+part by the National Institutes of Health/National Cancer
+Institute Cancer Center Support Grant P30 CA008748; MRM
+reports advisory board participation and honoraria from
+AstraZeneca, BIOCAD, GSK, Karyopharm, Merck, Roche and
+Zai Lab, speaker honoraria from AstraZeneca and GSK,
+stocks/shares and member of board of directors from Karyopharm, institutional research grants from Apexigen,
+AstraZeneca, GSK, Ultimovacs and Deciphera and trial chair
+for Deciphera; JAL has received honoraria for lectures and
+advisory boards from AstraZeneca, Tesaro Bio/GSK and
+Eisai; honoraria for lectures from Clovis Oncology and
+Neopharm; for advisory boards from Artios Pharma, MSD/
+Merck, BMS, VBL Therapeutics and Nuvation, compensation
+from Regeneron and institutional research grants from
+AstraZeneca MSD/Merck, non-remunerated work in clinical
+trials for MSD, Clovis Oncology, Pﬁzer, GSK/Tesaro Bio and
+AstraZeneca and is past vice President for the European
+Society of Gynaecological Oncology; NC has received honoraria for lectures from AstraZeneca, Tesaro and Novartis,
+honoraria for advisory board from Roche, PharmaMar,
+AstraZeneca, MSD, Merck, Clovis Oncology, Tesaro, GSK,
+Pﬁzer, Takeda, BIOCAD, ImmunoGen, Mersana and Eisai and
+has received research grant from AstraZeneca, PharmaMar
+and Roche.
+REFERENCES
+1. Morice P, Leary A, Creutzberg C, et al. Endometrial cancer. Lancet.
+2016;387(10023):1094-1108.
+2. Ferlay J, Colombet M, Soerjomataram I, et al. Estimating the global
+cancer incidence and mortality in 2018: GLOBOCAN sources and
+methods. Int J Cancer. 2019;144(8):1941-1953.
+3. Bray F, Ferlay J, Soerjomataram I, et al. Global cancer statistics 2018:
+GLOBOCAN estimates of incidence and mortality worldwide for 36
+cancers in 185 countries. CA Cancer J Clin. 2018;68(6):394-424.
+4. Arthur RS, Kabat GC, Kim MY, et al. Metabolic syndrome and risk of
+endometrial cancer in postmenopausal women: a prospective study.
+Cancer Causes Control. 2019;30(4):355-363.
+
+874
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+5. Friberg E, Orsini N, Mantzoros CS, et al. Diabetes mellitus and risk of
+endometrial cancer: a meta-analysis. Diabetologia. 2007;50(7):13651374.
+6. Lauby-Secretan B, Scoccianti C, Loomis D, et al. Body Fatness and
+Cancer–Viewpoint of the IARC Working Group. N Engl J Med.
+2016;375(8):794-798.
+7. Rahib L, Smith BD, Aizenberg R, et al. Projecting cancer incidence and
+deaths to 2030: the unexpected burden of thyroid, liver, and pancreas
+cancers in the United States. Cancer Res. 2014;74(11):2913-2921.
+8. Bokhman JV. Two pathogenetic types of endometrial carcinoma.
+Gynecol Oncol. 1983;15(1):10-17.
+9. Cancer Genome Atlas Research N, Kandoth C, Schultz N, et al. Integrated genomic characterization of endometrial carcinoma. Nature.
+2013;497(7447):67-73.
+10. Domchek SM, Robson ME. Update on genetic testing in gynecologic
+cancer. J Clin Oncol. 2019;37(27):2501-2509.
+11. Soslow RA, Tornos C, Park KJ, et al. Endometrial carcinoma diagnosis:
+Use of FIGO grading and genomic subcategories in clinical practice:
+Recommendations of the International Society of Gynecological Pathologists. Int J Gynecol Pathol. 2019;38(suppl 1):S64-S74.
+12. Bosse T, Peters EE, Creutzberg CL, et al. Substantial lymph-vascular
+space invasion (LVSI) is a signiﬁcant risk factor for recurrence in
+endometrial cancer–A pooled analysis of PORTEC 1 and 2 trials. Eur J
+Cancer. 2015;51(13):1742-1750.
+13. Peters EEM, Leon-Castillo A, Smit V, et al. Deﬁning substantial lymphovascular space invasion in endometrial cancer. Int J Gynecol
+Pathol. 2022;41:220-226.
+14. Peters EEM, Leon-Castillo A, Hogdall E, et al. Substantial lymphovascular space invasion is an adverse prognostic factor in high-risk
+endometrial cancer. Int J Gynecol Pathol. 2022;41(3):227-234.
+15. Zeimet AG, Reimer D, Huszar M, et al. L1CAM in early-stage type I
+endometrial cancer: results of a large multicenter evaluation. J Natl
+Cancer Inst. 2013;105(15):1142-1150.
+16. Bosse T, Nout RA, Stelloo E, et al. L1 cell adhesion molecule is a strong
+predictor for distant recurrence and overall survival in early stage
+endometrial cancer: pooled PORTEC trial results. Eur J Cancer.
+2014;50(15):2602-2610.
+17. Van Gool IC, Stelloo E, Nout RA, et al. Prognostic signiﬁcance of
+L1CAM expression and its association with mutant p53 expression in
+high-risk endometrial cancer. Mod Pathol. 2016;29(2):174-181.
+18. Stelloo E, Nout RA, Osse EM, et al. Improved risk assessment by
+integrating molecular and clinicopathological factors in early-stage
+endometrial cancer-combined analysis of the PORTEC cohorts. Clin
+Cancer Res. 2016;22(16):4215-4224.
+19. Gilks CB, Oliva E, Soslow RA. Poor interobserver reproducibility in the
+diagnosis of high-grade endometrial carcinoma. Am J Surg Pathol.
+2013;37(6):874-881.
+20. de Boer SM, Wortman BG, Bosse T, et al. Clinical consequences of
+upfront pathology review in the randomised PORTEC-3 trial for highrisk endometrial cancer. Ann Oncol. 2018;29(2):424-430.
+21. Kommoss S, McConechy MK, Kommoss F, et al. Final validation of the
+ProMisE molecular classiﬁer for endometrial carcinoma in a large
+population-based case series. Ann Oncol. 2018;29(5):1180-1188.
+22. Talhouk A, McConechy MK, Leung S, et al. A clinically applicable
+molecular-based classiﬁcation for endometrial cancers. Br J Cancer.
+2015;113(2):299-310.
+23. Leon-Castillo A, de Boer SM, Powell ME, et al. Molecular classiﬁcation
+of the PORTEC-3 trial for high-risk endometrial cancer: impact on
+prognosis and beneﬁt from adjuvant therapy. J Clin Oncol.
+2020;38(29):3388-3397.
+24. Vermij L, Smit V, Nout R, et al. Incorporation of molecular characteristics into endometrial cancer management. Histopathology.
+2020;76(1):52-63.
+25. Leon-Castillo A, Britton H, McConechy MK, et al. Interpretation of
+somatic POLE mutations in endometrial carcinoma. J Pathol.
+2020;250(3):323-335.
+26. Stelloo E, Jansen AML, Osse EM, et al. Practical guidance for
+mismatch repair-deﬁciency testing in endometrial cancer. Ann Oncol.
+2017;28(1):96-102.
+
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+27. Singh N, Piskorz AM, Bosse T, et al. p53 immunohistochemistry is an
+accurate surrogate for TP53 mutational analysis in endometrial carcinoma biopsies. J Pathol. 2020;250(3):336-345.
+28. van den Heerik A, Horeweg N, Nout RA, et al. PORTEC-4a: international randomized trial of molecular proﬁle-based adjuvant treatment
+for women with high-intermediate risk endometrial cancer. Int J
+Gynecol Cancer. 2020;30(12):2002-2007.
+29. Espinosa I, De Leo A, D’Angelo E, et al. Dedifferentiated endometrial
+carcinomas with neuroendocrine features: a clinicopathologic, immunohistochemical, and molecular genetic study. Hum Pathol. 2018;72:
+100-106.
+30. Kim SR, Cloutier BT, Leung S, et al. Molecular subtypes of clear cell
+carcinoma of the endometrium: Opportunities for prognostic and
+predictive stratiﬁcation. Gynecol Oncol. 2020;158(1):3-11.
+31. Peungjesada S, Bhosale PR, Balachandran A, et al. Magnetic resonance imaging of endometrial carcinoma. J Comput Assist Tomogr.
+2009;33(4):601-608.
+32. Gee MS, Atri M, Bandos AI, et al. Identiﬁcation of distant metastatic
+disease in uterine cervical and endometrial cancers with FDG PET/CT:
+analysis from the ACRIN 6671/GOG 0233 multicenter trial. Radiology.
+2018;287(1):176-184.
+33. Bollineni VR, Ytre-Hauge S, Bollineni-Balabay O, et al. High diagnostic
+value of 18F-FDG PET/CT in endometrial cancer: systematic review
+and meta-analysis of the literature. J Nucl Med. 2016;57(6):879-885.
+34. Janda M, Gebski V, Davies LC, et al. Effect of total laparoscopic hysterectomy vs total abdominal hysterectomy on disease-free survival
+among women with stage I endometrial cancer: a randomized clinical
+trial. JAMA. 2017;317(12):1224-1233.
+35. Walker JL, Piedmonte MR, Spirtos NM, et al. Recurrence and survival
+after random assignment to laparoscopy versus laparotomy for
+comprehensive surgical staging of uterine cancer: Gynecologic
+Oncology Group LAP2 Study. J Clin Oncol. 2012;30(7):695-700.
+36. Katsoulakis E, Mattes MD, Rineer JM, et al. Contemporary analysis of
+pelvic and para-aortic metastasis in endometrial cancer using the
+SEER registry. Int J Gynaecol Obstet. 2014;127(3):293-296.
+37. Benedetti Panici P, Basile S, Maneschi F, et al. Systematic pelvic
+lymphadenectomy vs. no lymphadenectomy in early-stage endometrial carcinoma: randomized clinical trial. J Natl Cancer Inst.
+2008;100(23):1707-1716.
+38. ASTEC study group; Kitchener H, Swart AM, Qian Q, et al. Efﬁcacy of
+systematic pelvic lymphadenectomy in endometrial cancer (MRC
+ASTEC trial): a randomised study. Lancet. 2009;373(9658):125-136.
+39. Bogani G, Murgia F, Ditto A, et al. Sentinel node mapping vs. lymphadenectomy in endometrial cancer: A systematic review and metaanalysis. Gynecol Oncol. 2019;153(3):676-683.
+40. How JA, O’Farrell P, Amajoud Z, et al. Sentinel lymph node mapping in
+endometrial cancer: a systematic review and meta-analysis. Minerva
+Ginecol. 2018;70(2):194-214.
+41. Rossi EC, Kowalski LD, Scalici J, et al. A comparison of sentinel lymph
+node biopsy to lymphadenectomy for endometrial cancer staging
+(FIRES trial): a multicentre, prospective, cohort study. Lancet Oncol.
+2017;18(3):384-392.
+42. Shih KK, Yun E, Gardner GJ, et al. Surgical cytoreduction in stage IV
+endometrioid endometrial carcinoma. Gynecol Oncol. 2011;122(3):
+608-611.
+43. Rauh L, Staples JN, Duska LR. Chemotherapy alone may have equivalent survival as compared to suboptimal surgery in advanced
+endometrial cancer patients. Gynecol Oncol Rep. 2020;32:100535.
+44. Stalberg K, Bjurberg M, Borgfeldt C, et al. Lymphovascular space invasion as a predictive factor for lymph node metastases and survival
+in endometrioid endometrial cancer - a Swedish Gynecologic Cancer
+Group (SweGCG) study. Acta Oncol. 2019;58(11):1628-1633.
+45. Talhouk A, McConechy MK, Leung S, et al. Conﬁrmation of ProMisE: a
+simple, genomics-based clinical classiﬁer for endometrial cancer.
+Cancer. 2017;123(5):802-813.
+46. Church DN, Stelloo E, Nout RA, et al. Prognostic signiﬁcance of POLE
+proofreading mutations in endometrial cancer. J Natl Cancer Inst.
+2015;107(1):402.
+
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+47. Creutzberg CL, van Putten WL, Koper PC, et al. Surgery and postoperative radiotherapy versus surgery alone for patients with stage-1
+endometrial carcinoma: multicentre randomised trial. PORTEC Study
+Group. Post Operative Radiation Therapy in Endometrial Carcinoma.
+Lancet. 2000;355(9213):1404-1411.
+48. Keys HM, Roberts JA, Brunetto VL, et al. A phase III trial of surgery
+with or without adjunctive external pelvic radiation therapy in intermediate risk endometrial adenocarcinoma: a Gynecologic
+Oncology Group study. Gynecol Oncol. 2004;92(3):744-751.
+49. Group AES, Blake P, Swart AM, et al. Adjuvant external beam
+radiotherapy in the treatment of endometrial cancer (MRC ASTEC
+and NCIC CTG EN.5 randomised trials): pooled trial results,
+systematic review, and meta-analysis. Lancet. 2009;373(9658):137146.
+50. Bosse T, Nout RA, McAlpine JN, et al. Molecular classiﬁcation of grade
+3 endometrioid endometrial cancers identiﬁes distinct prognostic
+subgroups. Am J Surg Pathol. 2018;42(5):561-568.
+51. van Gool IC, Eggink FA, Freeman-Mills L, et al. POLE proofreading
+mutations elicit an antitumor immune response in endometrial
+cancer. Clin Cancer Res. 2015;21(14):3347-3355.
+52. Creutzberg CL, Lu KH, Fleming GF. Uterine cancer: adjuvant therapy
+and management of metastatic disease. J Clin Oncol. 2019;37(27):
+2490-2500.
+53. Sorbe BG, Horvath G, Andersson H, et al. External pelvic and vaginal
+irradiation versus vaginal irradiation alone as postoperative therapy
+in medium-risk endometrial carcinoma: a prospective, randomized
+study–quality-of-life analysis. Int J Gynecol Cancer. 2012;22(7):12811288.
+54. Nout RA, Smit VT, Putter H, et al. Vaginal brachytherapy versus pelvic
+external beam radiotherapy for patients with endometrial cancer of
+high-intermediate risk (PORTEC-2): an open-label, non-inferiority,
+randomised trial. Lancet. 2010;375(9717):816-823.
+55. Wortman BG, Creutzberg CL, Putter H, et al. Ten-year results of the
+PORTEC-2 trial for high-intermediate risk endometrial carcinoma:
+improving patient selection for adjuvant therapy. Br J Cancer.
+2018;119(9):1067-1074.
+56. Ortoft G, Hansen ES, Bertelsen K. Omitting adjuvant radiotherapy in
+endometrial cancer increases the rate of locoregional recurrences but
+has no effect on long-term survival: the Danish Endometrial Cancer
+Study. Int J Gynecol Cancer. 2013;23(8):1429-1437.
+57. Maggi R, Lissoni A, Spina F, et al. Adjuvant chemotherapy vs radiotherapy in high-risk endometrial carcinoma: results of a randomised
+trial. Br J Cancer. 2006;95(3):266-271.
+58. Susumu N, Sagae S, Udagawa Y, et al. Randomized phase III trial of
+pelvic radiotherapy versus cisplatin-based combined chemotherapy
+in patients with intermediate- and high-risk endometrial cancer: a
+Japanese Gynecologic Oncology Group study. Gynecol Oncol.
+2008;108(1):226-233.
+59. Hogberg T, Signorelli M, de Oliveira CF, et al. Sequential adjuvant
+chemotherapy and radiotherapy in endometrial cancer–results from
+two randomised studies. Eur J Cancer. 2010;46(13):2422-2431.
+60. Randall ME, Filiaci V, McMeekin DS, et al. Phase III trial: adjuvant
+pelvic radiation therapy versus vaginal brachytherapy plus paclitaxel/
+carboplatin in high-intermediate and high-risk early stage endometrial cancer. J Clin Oncol. 2019;37(21):1810-1818.
+61. de Boer SM, Powell ME, Mileshkin L, et al. Adjuvant chemoradiotherapy versus radiotherapy alone in women with high-risk
+endometrial cancer (PORTEC-3): patterns of recurrence and posthoc survival analysis of a randomised phase 3 trial. Lancet Oncol.
+2019;20(9):1273-1285.
+62. de Boer SM, Powell ME, Mileshkin L, et al. Adjuvant chemoradiotherapy versus radiotherapy alone for women with high-risk
+endometrial cancer (PORTEC-3): ﬁnal results of an international,
+open-label, multicentre, randomised, phase 3 trial. Lancet Oncol.
+2018;19(3):295-309.
+63. Matei D, Filiaci V, Randall ME, et al. Adjuvant chemotherapy plus
+radiation for locally advanced endometrial cancer. N Engl J Med.
+2019;380(24):2317-2326.
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+875
+
+A. Oaknin et al.
+
+Annals of Oncology
+64. Cherniack AD, Shen H, Walter V, et al. Integrated molecular characterization of uterine carcinosarcoma. Cancer Cell. 2017;31(3):411423.
+65. Creasman WT, Odicino F, Maisonneuve P, et al. Carcinoma of the
+corpus uteri. FIGO 26th Annual Report on the Results of Treatment in
+Gynecological Cancer. Int J Gynaecol Obstet. 2006;95(suppl 1):S105S143.
+66. Hoekstra CJ, Koper PC, van Putten WL. Recurrent endometrial
+adenocarcinoma after surgery alone: prognostic factors and treatment. Radiother Oncol. 1993;27(2):164-166.
+67. Campagnutta E, Giorda G, De Piero G, et al. Surgical treatment of
+recurrent endometrial carcinoma. Cancer. 2004;100(1):89-96.
+68. Creutzberg CL, van Putten WL, Koper PC, et al. Survival after relapse
+in patients with endometrial cancer: results from a randomized trial.
+Gynecol Oncol. 2003;89(2):201-209.
+69. Sears JD, Greven KM, Hoen HM, et al. Prognostic factors and treatment outcome for patients with locally recurrent endometrial cancer.
+Cancer. 1994;74(4):1303-1308.
+70. Mundt AJ, McBride R, Rotmensch J, et al. Signiﬁcant pelvic recurrence
+in high-risk pathologic stage I–IV endometrial carcinoma patients
+after adjuvant chemotherapy alone: implications for adjuvant radiation therapy. Int J Radiat Oncol Biol Phys. 2001;50(5):1145-1153.
+71. Jereczek-Fossa B, Badzio A, Jassem J. Recurrent endometrial cancer
+after surgery alone: results of salvage radiotherapy. Int J Radiat Oncol
+Biol Phys. 2000;48(2):405-413.
+72. Chapman CH, Maghsoudi K, Littell RD, et al. Salvage high-dose-rate
+brachytherapy and external beam radiotherapy for isolated vaginal
+recurrences of endometrial cancer with no prior adjuvant therapy.
+Brachytherapy. 2017;16(6):1152-1158.
+73. Jhingran A, Burke TW, Eifel PJ. Deﬁnitive radiotherapy for patients
+with isolated vaginal recurrence of endometrial carcinoma after
+hysterectomy. Int J Radiat Oncol Biol Phys. 2003;56(5):366-1372.
+74. Hardarson HA, Heidemann LN, dePont Christensen R, et al. Vaginal
+vault recurrences of endometrial cancer in non-irradiated patients Radiotherapy or surgery. Gynecol Oncol Rep. 2015;11:26-30.
+75. Shikama A, Minaguchi T, Takao W, et al. Predictors of favorable survival after secondary cytoreductive surgery for recurrent endometrial
+cancer. Int J Clin Oncol. 2019;24(10):1256-1263.
+76. Chiantera V, Rossi M, De Iaco P, et al. Pelvic exenteration for
+recurrent endometrial adenocarcinoma: a retrospective multiinstitutional study about 21 patients. Int J Gynecol Cancer.
+2014;24(5):880-884.
+77. Turan T, Tasci T, Karalok A, et al. Salvage cytoreductive surgery for
+recurrent endometrial cancer. Int J Gynecol Cancer. 2015;25(9):16231632.
+78. Lodeweges JE, Klinkenberg TJ, Ubbels JF, et al. Long-term outcome of
+surgery or stereotactic radiotherapy for lung oligometastases.
+J Thorac Oncol. 2017;12(9):1442-1445.
+79. Miller DS, Filiaci VL, Mannel RS, et al. Carboplatin and paclitaxel for
+advanced endometrial cancer: ﬁnal overall survival and adverse event
+analysis of a phase III trial (NRG Oncology/GOG0209). J Clin Oncol.
+2020;38(33):3841-3850.
+80. Lorusso D, Ferrandina G, Colombo N, et al. Carboplatin-paclitaxel
+compared to Carboplatin-Paclitaxel-Bevacizumab in advanced or
+recurrent endometrial cancer: MITO END-2 - A randomized phase II
+trial. Gynecol Oncol. 2019;155(3):406-412.
+81. Pectasides D, Pectasides E, Economopoulos T. Systemic therapy in
+metastatic or recurrent endometrial cancer. Cancer Treat Rev.
+2007;33(2):177-190.
+82. Dellinger TH, Monk BJ. Systemic therapy for recurrent endometrial
+cancer: a review of North American trials. Expert Rev Anticancer Ther.
+2009;9(7):905-916.
+83. McMeekin S, Dizon D, Barter J, et al. Phase III randomized trial of
+second-line ixabepilone versus paclitaxel or doxorubicin in women
+with advanced endometrial cancer. Gynecol Oncol. 2015;138(1):1823.
+84. Rubinstein M, Halpenny D, Makker V, et al. Retreatment with carboplatin and paclitaxel for recurrent endometrial cancer: A
+
+876
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+
+99.
+100.
+
+101.
+
+retrospective study of the Memorial Sloan Kettering Cancer Center
+experience. Gynecol Oncol Rep. 2019;28:120-123.
+Nagao S, Nishio S, Michimae H, et al. Applicability of the concept of
+“platinum sensitivity” to recurrent endometrial cancer: the SGSG012/GOTIC-004/Intergroup study. Gynecol Oncol. 2013;131(3):567573.
+Singh M, Zaino RJ, Filiaci VJ, et al. Relationship of estrogen and
+progesterone receptors to clinical outcome in metastatic endometrial
+carcinoma: a Gynecologic Oncology Group Study. Gynecol Oncol.
+2007;106(2):325-333.
+Ethier JL, Desautels DN, Amir E, et al. Is hormonal therapy effective in
+advanced endometrial cancer? A systematic review and meta-analysis. Gynecol Oncol. 2017;147(1):158-166.
+Mileshkin L, Edmondson R, O’Connell RL, et al. Phase 2 study of
+anastrozole in recurrent estrogen (ER)/progesterone (PR) positive
+endometrial cancer: The PARAGON trial - ANZGOG 0903. Gynecol
+Oncol. 2019;154(1):29-37.
+Marabelle A, Fakih M, Lopez J, et al. Association of tumour mutational burden with outcomes in patients with advanced solid tumours
+treated with pembrolizumab: prospective biomarker analysis of the
+multicohort, open-label, phase 2 KEYNOTE-158 study. Lancet Oncol.
+2020;21(10):1353-1365.
+Konstantinopoulos PA, Luo W, Liu JF, et al. Phase II study of avelumab
+in patients with mismatch repair deﬁcient and mismatch repair
+proﬁcient recurrent/persistent endometrial cancer. J Clin Oncol.
+2019;37(30):2786-2794.
+Antill Y, Kok PS, Stockler MR, et al. Updated results of activity of
+durvalumab in advanced endometrial cancer (AEC) according to
+mismatch repair (MMR) status: the phase II PHAEDRA trial (ANZGOG1601). Ann Oncol. 2019;30:ix192.
+Oaknin A, Tinker AV, Gilbert L, et al. Clinical activity and safety of the
+anti-programmed death 1 monoclonal antibody dostarlimab for patients with recurrent or advanced mismatch repair-deﬁcient endometrial cancer: a nonrandomized phase 1 clinical trial. JAMA Oncol.
+2020;6(11):1766-1772.
+Liu JF, Gordon M, Veneris J, et al. Safety, clinical activity and
+biomarker assessments of atezolizumab from a Phase I study in
+advanced/recurrent ovarian and uterine cancers. Gynecol Oncol.
+2019;154(2):314-322.
+Makker V, Taylor MH, Aghajanian C, et al. Lenvatinib plus pembrolizumab in patients with advanced endometrial cancer. J Clin
+Oncol. 2020;38(26):2981-2992.
+Makker V, Colombo N, Casado Herraez A, et al. Lenvatinib plus
+pembrolizumab for advanced endometrial cancer. N Engl J Med.
+2022;386:437-448.
+Results Merck. From Pivotal Phase 3 KEYNOTE-775/Study 309 Trial of
+KEYTRUDA® (pembrolizumab) Plus LENVIMA® (lenvatinib) in
+Advanced Endometrial Carcinoma Published in the. New England
+Journal of Medicine. 2022.
+Finn RS, Boer K, Bondarenko I, et al. Overall survival results from the
+randomized phase 2 study of palbociclib in combination with letrozole versus letrozole alone for ﬁrst-line treatment of ERþ/HER2advanced breast cancer (PALOMA-1, TRIO-18). Breast Cancer Res
+Treat. 2020;183(2):419-428.
+Mirza MR, Bjørge L, Marmé F, et al. LBA28 A randomised doubleblind placebo-controlled phase II trial of palbociclib combined with
+letrozole (L) in patients (pts) with oestrogen receptor-positive (ERþ)
+advanced/recurrent endometrial cancer (EC): NSGO-PALEO/ENGOTEN3 trial. Ann Oncol. 2020;31:S1160.
+Bauer TM, Patel MR, Infante JR. Targeting PI3 kinase in cancer.
+Pharmacol Ther. 2015;146:53-60.
+Slomovitz BM, Jiang Y, Yates MS, et al. Phase II study of everolimus
+and letrozole in patients with recurrent endometrial carcinoma. J Clin
+Oncol. 2015;33(8):930-936.
+Aghajanian C, Filiaci V, Dizon DS, et al. A phase II study of frontline
+paclitaxel/carboplatin/bevacizumab,
+paclitaxel/carboplatin/temsirolimus, or ixabepilone/carboplatin/bevacizumab in advanced/recurrent endometrial cancer. Gynecol Oncol. 2018;150(2):274-281.
+
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+A. Oaknin et al.
+
+Annals of Oncology
+
+102. Diver EJ, Foster R, Rueda BR, et al. The therapeutic challenge of
+targeting HER2 in endometrial cancer. Oncologist. 2015;20(9):10581068.
+103. Vermij L, Horeweg N, Leon-Castillo A, et al. HER2 status in high-risk
+endometrial cancers (PORTEC-3): relationship with histotype, molecular classiﬁcation, and clinical outcomes. Cancers (Basel).
+2020;13(1):44.
+104. Fader AN, Roque DM, Siegel E, et al. Randomized phase II trial of
+carboplatin-paclitaxel versus carboplatin-paclitaxel-trastuzumab in
+uterine serous carcinomas that overexpress human epidermal
+growth factor receptor 2/neu. J Clin Oncol. 2018;36(20):20442051.
+105. Liu JF, Xiong N, Campos SM, et al. Phase II study of the WEE1 inhibitor
+adavosertib in recurrent uterine serous carcinoma. J Clin Oncol.
+2021;39(14):1531-1539.
+106. Sartori E, Laface B, Gadducci A, et al. Factors inﬂuencing survival in
+endometrial cancer relapsing patients: a Cooperation Task Force
+(CTF) study. Int J Gynecol Cancer. 2003;13(4):458-465.
+107. Gadducci A, Cosio S, Fanucchi A, et al. An intensive follow-up does not
+change survival of patients with clinical stage I endometrial cancer.
+Anticancer Res. 2000;20(3B):1977-1984.
+108. Jefford M, Rowland J, Grunfeld E, et al. Implementing improved
+post-treatment care for cancer survivors in England, with reﬂections from Australia, Canada and the USA. Br J Cancer.
+2013;108(1):14-20.
+109. Leeson SC, Beaver K, Ezendam NPM, et al. The future for follow-up of
+gynaecological cancer in Europe. Summary of available data and
+overview of ongoing trials. Eur J Obstet Gynecol Reprod Biol.
+2017;210:376-380.
+110. Beaver K, Williamson S, Sutton C, et al. Comparing hospital and
+telephone follow-up for patients treated for stage-I endometrial
+
+Volume 33
+
+-
+
+Issue 9
+
+-
+
+2022
+
+111.
+
+112.
+
+113.
+
+114.
+
+115.
+
+116.
+117.
+
+118.
+
+119.
+
+cancer (ENDCAT trial): a randomised, multicentre, non-inferiority
+trial. BJOG. 2017;124(1):150-160.
+Kadkhodayan S, Shahriari S, Treglia G, et al. Accuracy of 18-F-FDG PET
+imaging in the follow up of endometrial cancer patients: systematic
+review and meta-analysis of the literature. Gynecol Oncol.
+2013;128(2):397-404.
+Soisson S, Ganz PA, Gaffney D, et al. Long-term cardiovascular outcomes among endometrial cancer survivors in a large, populationbased cohort study. J Natl Cancer Inst. 2018;110(12):1342-1351.
+Shisler R, Sinnott JA, Wang V, et al. Life after endometrial cancer: a
+systematic review of patient-reported outcomes. Gynecol Oncol.
+2018;148(2):403-413.
+Beesley VL, Alemayehu C, Webb PM. A systematic literature review of
+trials of survivorship interventions for women with gynaecological cancer
+and their caregivers. Eur J Cancer Care (Engl). 2019;28(3):e13057.
+Edey KA, Rundle S, Hickey M. Hormone replacement therapy for
+women previously treated for endometrial cancer. Cochrane Database Syst Rev. 2018;5:CD008830.
+Cherny NI, Dafni U, Bogaerts J, et al. ESMO-Magnitude of Clinical
+Beneﬁt Scale version 1.1. Ann Oncol. 2017;28(10):2340-2366.
+Dykewicz CA. Centers for Disease Control and Prevention (U.S.); Infectious Diseases Society of America; American Society of Blood and
+Marrow Transplantation. Summary of the guidelines for preventing
+opportunistic infections among hematopoietic stem cell transplant
+recipients. Clin Infect Dis. 2001;33(2):139-144.
+Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards
+for infectious diseases. Infectious Diseases Society of America. Clin
+Infect Dis. 1994;18(3):421.
+McAlpine J, Leon-Castillo A, Bosse T. The rise of a novel classiﬁcation
+system for endometrial carcinoma; integration of molecular subclasses. J Pathol. 2018;244(5):538-549.
+
+https://doi.org/10.1016/j.annonc.2022.05.009
+
+877
+
+

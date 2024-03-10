@@ -1,0 +1,1875 @@
+SPECIAL ARTICLE
+
+Myelodysplastic syndromes: ESMO Clinical Practice Guidelines for diagnosis,
+treatment and follow-upy5
+P. Fenaux1,2, D. Haase3, V. Santini4, G. F. Sanz5,6, U. Platzbecker7 & U. Mey8, on behalf of the ESMO Guidelines Committee*
+1
+
+Service d’Hématologie Clinique, Groupe Francophone des Myélodysplasies (GFM), Department of Hematology, Hôpital St. Louis (Assistance Publique, Hôpitaux de
+Paris), Paris; 2Paris 7 University, Paris, France; 3Department of Hematology and Medical Oncology, University Medical Center, Göttingen, Germany; 4MDS Unit,
+Haematology, AOU Careggi, University of Florence, Florence, Italy; 5Department of Haematology, Hospital Universitario La Fe, Valencia; 6Centro de Investigación
+Biomédica en Red de Cáncer, CIBERONC, Instituto de Salud Carlos III, Madrid, Spain; 7Department of Hematology and Cellular Therapy, Medical Clinic and Policlinic 1,
+University Hospital Leipzig, Leipzig, Germany; 8Department of Oncology and Haematology, Kantonsspital Graubuenden, Chur, Switzerland
+
+Available online 19 November 2020
+
+Key words: Myelodysplastic syndromes, Clinical Practice Guidelines, diagnosis, treatment, follow-up
+
+INCIDENCE AND EPIDEMIOLOGY
+Myelodysplastic syndromes (MDS) are clonal haematopoietic stem cell (HSC) disorders predominating in the
+elderly, characterised by ineffective haematopoiesis leading
+to blood cytopaenias and progression to acute myeloid
+leukaemia (AML) in one-fourth to one-third of cases.1 Their
+pathophysiology is characterised by a multi-step process
+involving cytogenetic changes and/or gene mutations,2 abnormalities of the bone marrow microenvironment3 and
+widespread gene hypermethylation at advanced stages.4,5
+Median age at diagnosis of MDS is w70 years and <10%
+are younger than 50 years.6 The incidence of MDS is about
+4 cases/100 000 inhabitants/year (reaching 40-50/100 000
+in patients aged 70 years).6 There are no known ethnic
+differences in the incidence of MDS, but in Asian populations, MDS tends to occur at an earlier age, more often
+with a hypocellular marrow and less often with isolated 5q
+deletion (‘5q-syndrome’). Trisomy 8 also seems to occur
+more frequently in Asian populations compared with
+Western populations.7
+The aetiology of MDS is only known in 15% of cases. An
+inherited predisposition to MDS is seen in one-third of
+paediatric MDS patients, including Down syndrome, Fanconi anaemia and neuroﬁbromatosis. It is less frequent in
+adults, but an inherited predisposition should be assessed
+in MDS occurring in young adults or families with other
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+y
+Approved by the ESMO Guidelines Committee: August 2019, last update
+May 2020.
+5
+Note: This publication supersedes the previously-published version e Ann
+Oncol 2014:25(3):iii57-iii69.
+0923-7534/© 2020 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+142
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+cases of MDS, AML or aplastic anaemia. Point mutations of
+several genes including DDX 41, GATA2, RUNX 1, ANKRD 26,
+ETV6 and telomerase complex genes (TERC, TERT) have
+been found in such familial cases.8 Environmental factors
+include previous exposure to chemotherapy (ChT), especially alkylating agents and purine analogues,9 radiotherapy
+(RT) or ionising radiation10,11 and tobacco smoking.12 Recognised occupational factors include benzene and its derivatives,13 and more cases of MDS are reported among
+agricultural and industrial workers.12,14 Cases of ‘secondary
+MDS’, particularly those occurring after ChT (therapyrelated MDS), generally have poor prognostic factors,
+including complex cytogenetic ﬁndings involving chromosomes 5 and/or 7 and/or 17p.15
+DIAGNOSIS AND PATHOLOGY/MOLECULAR BIOLOGY
+Diagnosis of MDS is based on blood and bone marrow examination, showing blood cytopaenias, generally hypercellular (but sometimes hypocellular) marrow with
+dysplasia, with or without an excess of blasts.16
+Well-established diagnostic tools for MDS with widespread availability are peripheral and differential blood
+counts, cytomorphology of peripheral blood and bone
+marrow smears and cytogenetics of bone marrow cells [I,
+A]. At diagnosis, histology of bone marrow trephine biopsies
+is strongly recommended, especially to exclude other causes of cytopaenia and because of its potential prognostic
+information [I, A]. In difﬁcult cases, such as cytopaenias
+with unspeciﬁc morphological changes and no cytogenetic
+changes, molecular analysis by next generation sequencing
+techniques to demonstrate clonality [I, A] and, in experienced hands, ﬂow cytometry of blood and marrow cells can
+be useful for diagnosis [II, B].
+Differential diagnoses of MDS include a history of medication or ingestion of alcohol or other drugs and exclusion
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+P. Fenaux et al.
+
+Annals of Oncology
+
+of other diseases, including autoimmune disorders, renal
+failure, malignancies, chronic infections, aplastic anaemia
+and paroxysmal nocturnal haemoglobinuria (PNH).17
+MDS should be classiﬁed according to the World Health
+Organization (WHO) criteria16 with prognosis established by
+the international prognostic scoring system (IPSS)18 or
+rather, its revised version (IPSS-R).19 Prognosis is based on
+the marrow blast percentage, number and extent of cytopaenias, and cytogenetic abnormalities, which are grouped
+in the IPSS-R.18,19 Treatment varies from symptomatic
+therapy for cytopaenias, especially transfusions, to allogeneic stem cell transplantation (allo-SCT).
+Peripheral blood counts and differential blood counts
+
+Table 1. Deﬁnition of ICUS, IDUS, CHIP and CCUS21,22
+Characteristics
+ICUS
+
+IDUS
+
+CHIP
+
+Almost all patients with MDS have blood cytopaenias,
+mostly anaemia (usually macrocytic) with or without other
+cytopaenias.
+Laboratory parameters
+
+CCUS
+
+Laboratory values supporting or excluding the diagnosis of
+MDS are ferritin, transferrin and transferrin saturation,
+reticulocyte counts, vitamin B12 and folate concentrations,
+haptoglobin, and creatinine levels. They can exclude the
+differential diagnoses of iron deﬁciency anaemia, haemolytic anaemia, vitamin B12 or folate deﬁciency and renal
+anaemia. If MDS is diagnosed, ferritin and lactate dehydrogenase (LDH) also have some prognostic value, and the
+erythropoietin (EPO) level can support a decision for or
+against treatment with erythropoiesis-stimulating agents
+(ESAs). Diagnostic work-up for PNH may be considered in
+cases with a clinical suspicion as small PNH clones can
+accompany MDS.
+Cytomorphology
+The hallmarks of cytomorphology in MDS are dysplastic
+features in 10% of marrow and/or peripheral blood cells
+of erythroid, granulocytic or megakaryocytic lineage.
+Marrow histology of trephine biopsies is of additional value.
+In early MDS with only mild morphological abnormalities,
+certain cases with persistent, unexplained cytopaenias are
+called idiopathic cytopaenias of uncertain signiﬁcance
+(ICUS). In patients with marrow dysplastic features but no
+or very mild peripheral blood cytopaenias and normal karyotype, idiopathic dysplasia of unknown signiﬁcance
+(IDUS)20 can be diagnosed if no other cause of dysplasia is
+apparent (see Table 1). Patients with clonal somatic mutations and cytopaenias without dysplastic features and
+normal karyotype [clonal cytopaenias of uncertain signiﬁcance (CCUS)] constitute a third group of patients with a
+higher risk of progression to MDS.21,22
+When evaluating MDS blood ﬁlms and marrow slides,
+certain cytological abnormalities should be considered (see
+Table 2). For an MDS diagnosis, the recommended number
+of cells to be reviewed per slide is 200 for the blood ﬁlm
+and up to 500 for bone marrow.23 The marrow blast count is
+crucial given its important prognostic value. ‘Blasts’ should
+include agranular blasts, myeloblasts and promonocytes but
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+ Mild cytopaenia for at least 4 months (haemoglobin
+<11.0 g/dl, neutropaenia <1500/ml and/or thrombocytopaenia <100 000/ml)
+ No or only mild (<10%) marrow dysplasia
+ Marrow blasts <5%
+ No clonal cytogenetic or molecular markers
+ Exclusion of other diseases
+ No signiﬁcant cytopaenia (i.e. haemoglobin 11 g/dl,
+neutrophils 1500/ml and platelets 100 000/ml)
+ Marked dysplasia in >10% of neutrophilic and/or
+erythroid and/or megakaryocytes lineages
+ Marrow blasts <5%
+ No clonal cytogenetic or molecular markers
+ No signiﬁcant cytopaenia
+ No or only mild (<10%) dysplasia
+ Marrow blasts <5%
+ Presence of one or more MDS-related mutation(s)
+ Clonality deﬁned by mutation of myeloid disorder associated genes (including particularly DNMT3A, ASXL1,
+TET2, JAK2 and TP53 genes), with a VAF of between 2%
+and 30%
+ Cytopaenia for at least 4 months (haemoglobin <11.0 g/dl
+and/or neutropaenia <1500/ml and/or thrombocytopaenia <100 000/ml)
+ No or only mild (<10%) marrow dysplasia
+ Marrow blasts <5%
+ Presence of one or more MDS-related mutation(s)
+ Clonality deﬁned by mutation of myeloid disorder associated genes (including particularly DNMT3A, ASXL1,
+TET2, JAK2 and TP53 genes), with a VAF of between 2%
+and 30%
+
+CCUS, clonal cytopaenias of uncertain signiﬁcance; CHIP, clonal haematopoiesis of
+indeterminate potential; ICUS, idiopathic cytopaenias of uncertain signiﬁcance; IDUS,
+idiopathic dysplasia of unknown signiﬁcance; MDS, myelodysplastic syndromes; VAF,
+variant allele frequency.
+
+not promyelocytes. Staining for iron with Prussian blue
+(Perls stain) should always be carried out in lower-risk MDS
+in order to evaluate the presence of ring sideroblasts.
+
+Table 2. Signs of dysplasia in myelodysplastic syndromes
+Peripheral blood
+ Granulocytes
+ Platelets
+ Red cells
+
+Bone marrow
+ Cellularity of the
+marrow
+ Erythropoiesis
+
+ Megakaryopoiesis
+
+ Granulocytopoiesis
+
+Pseudo Pelger-Huet cells, abnormal chromatin
+clumping, hypo-/degranulation, left shift
+Giant platelets, anisometry of platelets
+Anisocytosis, poikilocytosis, dimorphic
+erythrocytes, polychromasia, hypochromasia,
+megalocytes, basophilic stippling, presence of
+nucleated erythroid precursors, tear drop cells,
+ovalocytes, fragmentocytes
+Typically hypercellularity, rarely hypocellularity
+Megaloblastoid changes, multinuclearity, nuclear
+budding, non-round nuclei, karyorrhexis, nuclear
+bridges, atypical mitoses, sideroblastosis, ring
+sideroblasts, periodic acid-Schiff-positive red cell
+precursors
+Micromegakaryocytes, mononuclear
+megakaryocytes, dumbbell-shaped nuclei,
+hypersegmentation, multinuclearity with multiple
+isolated nuclei
+Left shift, increased medullary blast count, Auer
+rods or Auer bodies, hypo-/degranulation,
+pseudo-Pelger cells, nuclear anomalies
+(e.g. hypersegmentation, abnormal chromatin
+clumping), deﬁciency of myeloperoxidase, increase
+and morphological abnormality of monocytes
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+143
+
+P. Fenaux et al.
+
+Annals of Oncology
+Histopathology
+In the European Union (EU), contrary to the United States,
+MDS are mainly followed-up by bone marrow aspirate
+rather than biopsy. Bone marrow trephine biopsy, however,
+is useful at diagnosis to assess cellularity and ﬁbrosis. In
+case of hypocellular aspirates or dry puncture, it allows a
+diagnosis of hypoplastic MDS or ﬁbrotic MDS. It may also
+exclude other differential diagnoses and may provide
+additional information on dysplastic features (mainly of
+megakaryocytes) and prognostic information, especially by
+showing ﬁbrosis. It is therefore strongly recommended in
+addition to bone marrow aspiration at diagnosis.24,25
+Cytogenetics
+In MDS, clonal chromosome abnormalities are observed in
+30% to >80% of patients.26 In the remaining 20%-70% of
+patients with a normal karyotype, sub-microscopic alterations such as point mutations, microdeletions or
+
+ampliﬁcations, epigenetic changes or copy number neutral
+loss such as uniparental disomy (UPD) provide the genetic
+basis for the disease.2,27 Currently, standard karyotype still
+has the highest prognostic value of all IPSS-R parameters.19
+Chromosome banding analysis is carried out on dividing
+metaphase cells. Whenever possible, 20-25 metaphases
+should be analysed so as not to miss smaller cell clones that
+are frequent, especially in low-risk MDS. Complex abnormalities are deﬁned as three or more independent abnormalities in at least two metaphases.28 Cytogenetic analysis
+should follow minimal standards ﬁxed by the ‘Workpackage
+Cytogenetics’ of the European LeukemiaNet (see Figure 1).29
+In an international database of 2124 patients with MDS,
+52% had one or more clonal cytogenetic abnormalities.
+Abnormal karyotypes were clearly associated with the
+severity of MDS, increasing with marrow blast count and
+the intensity of dysplasias.26
+Several independent studies have proven the dismal
+outcome related to complex abnormalities.26,30,31 Complex
+
+Cytogenetics: at least two different cell cultures (24h and 48h)
+(if cultures were established, additional 24h and 72h cultures are recommended)
+
+Analysis of at least 10 (-20) metaphases (if abnormal)
+or 20 (-25) if a normal karyotype is diagnosed
+
+Normal karyotype
+or insufﬁcient number of metaphases
+
+Abnormal karyotype
+
+FISH
+Optional for all subtypes
+Probes for 5q31, cen7, 7q31, cen8,
+TP53, 20q, cenY
+
+Documentation and reporting
+according to ISCN
+Figure 1. Recommended standard algorithm for cytogenetic analysis in MDS.29
+FISH, ﬂuorescence in situ hybridisation; ISCN, International System for Human Cytogenetic Nomenclature; MDS, myelodysplastic syndromes.
+
+144
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+P. Fenaux et al.
+
+Annals of Oncology
+
+Table 3. Most frequent somatic mutations observed in MDSa,35,36
+Gene function
+
+Gene
+
+Epigenetic regulators
+TET2
+and chromatin-remodelling factors ASXL1
+DNMT3A
+IDH1/2
+Pre-mRNA splicing factors
+SF3B1
+SRSF2
+U2AF1
+Transcription factors
+RUNX1
+TP53
+Signalling molecules
+NRAS/KRAS
+Cohesin complex
+STAG2
+
+Mutation frequency (%)
+15-25
+10-20
+10
+5-10
+15-30
+10-15
+5-10
+10-15
+5-10
+10
+5-7
+
+MDS, myelodysplastic syndromes.
+a
+Other mutations are seen in <5% of cases.
+
+abnormalities can be further subdivided by the presence or
+absence of TP53 mutations, the number of cytogenetic
+changes and severe anaemia.32
+Assessing karyotype during follow-up is also useful as
+cytogenetic progression is associated with poorer prognosis,
+while cytogenetic response after a given treatment may be
+associated with a better outcome.31,33,34
+Molecular genetics
+Acquired molecular mutations are seen in 80%-90% of MDS
+patients,35,36 affecting epigenetic regulation and chromatinremodelling (TET2, DNMT3A, ASXL1, IDH1/2, EZH2),
+pre-mRNA splicing factors (SF3B1, SRSF2, U2AF1), transcription (TP53, RUNX1) and signal transduction (NRAS,
+CBL), and can demonstrate clonal disease (Table 3). The
+most frequent mutations (each present in >10% of
+patients) affect TET2, SF3B1, ASXL1, SRSF2, DNMT3A and
+RUNX1, but approximately one or more of around 30 genes
+are mutated in >1% of patients. Forty percent of patients
+have more than one mutation. Most mutations, except
+SF3B1, carry a poor prognosis, and prognosis is worse with a
+larger number of mutations.35 Molecular proﬁling can also
+be a valuable diagnostic tool if MDS is uncertain in ICUS or
+IDUS,37 but mutations have limited impact on the clinical
+management in most cases. Exceptions are SF3B1 mutation
+in lower-risk MDS (associated with a favourable prognosis
+and likely to respond to luspatercept) and TP53 mutation in
+lower-risk MDS with del(5q), associated with an increased
+risk of leukaemic transformation, lower cytogenetic
+response rate and shorter response duration to lenalidomide (LEN).38
+Clonal haematopoiesis of indeterminate potential
+Somatic mutations seen in myeloid neoplasias have been
+observed in elderly healthy persons (10%-13% of those
+aged 70-80 years).39-41 The most frequently affected gene is
+DNMT3A, followed by TET2, ASXL1, and less often, JAK2,
+PPM1D, SF3B1, SRSF2 and TP53. Most patients have only
+one mutation, and generally with variant allele frequency
+(VAF) of 10%. Since individuals examined had no obvious
+haematological disease, the term ‘clonal haematopoiesis of
+indeterminate potential’ (CHIP) was established.42 CHIP is
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+associated with a 13-fold increased risk of developing a
+haematological neoplasia and a 1.4-fold risk of death also
+related to an increased incidence of atherosclerotic cardiovascular disease.43
+Patients with CHIP and unexplained cytopaenia but no
+morphological evidence for myelodysplasia have been
+classiﬁed as CCUS. Over 30% of patients with unexplained
+cytopaenias appear to have CCUS, with an increased risk of
+developing myeloid neoplasia depending on the type of
+mutation.37,44
+Flow cytometry
+Flow cytometry abnormalities of myeloid precursors may
+support a diagnosis of MDS, but this method should be
+used by experts according to published guidelines, and
+should not be used for the evaluation of the percentage of
+bone marrow blasts.45,46
+Classiﬁcation
+The current WHO classiﬁcation of MDS16 divides MDS with
+<5% blasts into those with single lineage or multilineage
+dysplasia (Table 4). In MDS with single lineage dysplasia,
+patients with ring sideroblasts (MDS-RS) have a low AML
+progression rate and generally have a prolonged overall
+survival (OS) if SF3B1 mutation is present and is isolated or
+at least not associated with poor prognosis mutations such
+as RUNX1 mutation. The entity of del(5q) MDS is not
+deﬁned by morphological criteria but by the presence of
+del(5q), making cytogenetic analysis mandatory. This classiﬁcation has recognised entities with germline predisposition (Table 5).8 Finally, chronic myelomonocytic leukaemia
+has been moved to myelodysplastic/myeloproliferative
+neoplasms.16
+Recommendations
+ Diagnosis is based on blood count, marrow aspirate and
+marrow karyotype [I, A].
+ Bone marrow biopsy is recommended at diagnosis [I, A].
+ Molecular biology is useful for diagnosis if blood and
+marrow tests are inconclusive [I, A].
+ Flow cytometry of blood and marrow cells is useful for
+diagnosis in experienced hands [II, B].
+
+STAGING AND RISK ASSESSMENT
+The natural course of MDS is highly variable, with survival
+ranging from a few weeks to many years. Causes of death
+are mainly related to MDS in higher-risk patients, while a
+large proportion of patients with lower-risk MDS die of nonMDS causes, i.e. comorbidities associated with the typical
+age of MDS patients.47,48 Median OS is 15-30 months and
+the 5-year AML progression rate is 25%-35%. Bone marrow
+failure (infection and haemorrhage) is the leading cause of
+death before AML progression.49
+The main risk factors, allowing an individual risk-adapted
+treatment strategy, are cytogenetic abnormalities, marrow
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+145
+
+P. Fenaux et al.
+
+Annals of Oncology
+Table 4. The WHO 2016 classiﬁcation of MDS16
+Name
+
+Dysplastic lineages Cytopaeniasa Ring sideroblasts BM and PB blasts
+as % of marrow
+erythroid
+elements
+
+MDS-SLD
+
+1
+
+1 or 2
+
+<15%/<5%b
+
+BM <5%, PB <1%, no Auer rods
+
+MDS-MLD
+
+2 or 3
+
+1-3
+
+<15%/<5%b
+
+BM
+
+MDS-RS-SLD
+
+1
+
+1 or 2
+
+15%/5%b
+
+BM
+
+MDS-RS-MLD
+
+2 or 3
+
+1-3
+
+15%/5%b
+
+BM
+
+MDS with isolated del(5q)
+
+1-3
+
+1-2
+
+None or any
+
+BM
+
+MDS-EB-1
+MDS-EB-2
+MDS-U with 1% blasts
+MDS-U with single lineage
+dysplasia and pancytopaenia
+MDS-U based on deﬁning
+cytogenic abnormality
+Refractory cytopaenia of
+childhood
+
+0-3
+0-3
+1-3
+1
+
+1-3
+1-3
+1-3
+3
+
+None
+None
+None
+None
+
+BM
+BM
+BM
+BM
+
+0
+
+1-3
+
+<15%d
+
+BM <5%, PB <1%, no Auer rods
+
+MDS-deﬁning abnormality
+
+1-3
+
+1-3
+
+None
+
+BM <5%, PB <2%
+
+Any
+
+or
+or
+or
+or
+
+any
+any
+any
+any
+
+Cytogenetics by
+conventional
+karyotype analysis
+
+Any, unless fulﬁls criteria for
+MDS with isolated del(5q)
+<5%, PB <1%, no Auer rods
+Any, unless fulﬁls criteria for
+MDS with isolated del(5q)
+<5%, PB <1%, no Auer rods
+Any, unless fulﬁls criteria for
+MDS with isolated del(5q)
+<5%, PB <1%, no Auer rods
+Any, unless fulﬁls criteria for
+MDS with isolated del(5q)
+<5%, PB <1%, no Auer rods
+Del(5q) alone or with one
+additional abnormality
+except -7 or del(7q)
+5%-9% or PB 2%-4%, no Auer rods
+Any
+10%-19% or PB 5%-19% or Auer rods Any
+c
+Any
+<5%, PB ¼ 1% , no Auer rods
+<5%, PB <1%, no Auer rods
+Any
+
+BM, bone marrow; MDS, myelodysplastic syndromes; MDS-EB, myelodysplastic syndrome with excess blasts; MDS-MLD, myelodysplastic syndrome with multilineage dysplasia;
+MDS-RS-MLD, myelodysplastic syndrome with ring sideroblasts with multilineage dysplasia; MDS-RS-SLD, myelodysplastic syndrome with ring sideroblasts with single lineage
+dysplasia; MDS-SLD, myelodysplastic syndrome with single lineage dysplasia; MDS-U, myelodysplastic syndrome unclassiﬁable; PB, peripheral blood; WHO, World Health
+Organization.
+a
+Cytopaenias deﬁned as haemoglobin <10 g/dl, platelet count <100  109/l and absolute neutrophil count <1.8  109/l; rarely, MDS may present with mild anaemia or
+thrombocytopaenia above these levels. PB monocytes must be <1  109/l.
+b
+If SF3B1 mutation is present.
+c
+1% PB blasts must be recorded on at least two separate occasions.
+d
+Cases with 15% ring sideroblasts have signiﬁcant erythroid dysplasia and are classiﬁed as MDS-RS-SLD.
+Reprinted with permission.16
+
+blasts percentage and number and severity of cytopaenias.
+The IPSS18 and IPSS-R19 (Table 6) are based on these variables. They have been validated in external series50 and
+their use is strongly recommended for planning treatment51
+[I, A]. The IPSS-R is used to stratify patients into ﬁve risk
+Table 5. Myeloid neoplasms with inherited germline predisposition16
+Myeloid neoplasms with
+germline predisposition
+without a pre-existing
+disorder or organ dysfunction
+Myeloid neoplasms with
+germline predisposition and
+pre-existing platelet disorders
+
+Myeloid neoplasms with
+germline predisposition and
+other organ dysfunction
+
+ AML with germline CEBPA mutation
+ Myeloid neoplasms with germline DDX41
+mutationa
+ Myeloid neoplasms with germline RUNX1
+mutationa
+ Myeloid neoplasms with germline ANKRD26
+mutationa
+ Myeloid neoplasms with germline ETV6
+mutationa
+ Myeloid neoplasms with germline GATA2
+mutation
+ Myeloid neoplasms associated with BM
+failure syndromes
+ Myeloid neoplasms associated with telomere biology disorders
+ Juvenile myelomonocytic leukaemia associated with neuroﬁbromatosis, Noonan
+syndrome or Noonan syndrome-like
+disorders
+ Myeloid neoplasms associated with Down
+syndromea
+
+AML, acute myeloid leukaemia; BM, bone marrow.
+a
+Lymphoid neoplasms also reported.
+Reprinted with permission.16
+
+146
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+groups (very low-, low-, intermediate-, high- and very highrisk), with clear differences in OS and risk of progression to
+AML,19 and offers better prognostic classiﬁcation than the
+IPSS. For therapeutic purposes, the term ‘lower-risk’ MDS
+generally applies to cases with IPSS-R up to 3.5 including
+very low- and low-risk and part of intermediate-risk IPSS-R
+patients. ‘Higher-risk’ MDS includes patients with IPSS-R
+4.0, i.e. high- and very high-risk, and the remaining
+intermediate-risk IPSS-R patients. There is obviously some
+uncertainty for intermediate-risk IPSS-R patients where the
+treatment approach should take additional factors into
+account.
+Other factors for prognosis and treatment choice,
+particularly for intermediate-risk patients, include patientrelated characteristics such as age,19 Eastern Cooperative
+Oncology Group performance status (PS)19 and comorbidities.52 Other disease-related factors include multilineage
+dysplasia, red blood cell transfusion dependence (RBC-TD),
+serum LDH, bone marrow ﬁbrosis,52 ﬂow cytometry
+immunophenotyping53 and increasingly, gene somatic mutation proﬁling and copy number.2,35,54 Data on the independent prognostic impact of somatic mutations are still
+lacking and so their use in routine practice to guide therapeutic decisions is not recommended [II, B] except for
+SF3B1 in lower-risk MDS, TP53 mutation in lower-risk MDS
+with del(5q) or MDS with complex karyotype [I, A] and IDH1
+and IDH2 mutations as these can be targeted by speciﬁc
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+P. Fenaux et al.
+
+Annals of Oncology
+
+Table 6. IPSS-R for MDS19
+Prognostic characteristic
+
+Points
+0
+
+Cytogenetic risk categorya
+Blasts in bone marrow (%)
+Haemoglobin (g/dl)
+Platelet count (109/l)
+Absolute neutrophil count (109/l)
+
+0.5
+
+Very good
+2
+10
+100
+0.8
+
+50-<100
+<0.8
+
+1
+
+1.5
+
+Good
+>2-5
+8-<10
+<50
+
+<8
+
+2
+
+3
+
+4
+
+Intermediate
+5-10
+
+Poor
+>10
+
+Very poor
+
+IPSS-R risk group
+
+Score
+
+Median OS (years)
+
+Median time to 25%
+AML evolution (years)
+
+Very low
+Low
+Intermediate
+High
+Very high
+
+1.5
+>1.5-3
+>3-4.5
+>4.5-6
+>6
+
+8.8
+5.3
+3.0
+1.6
+0.8
+
+NR
+9.4
+2.5
+1.7
+0.7
+
+AML, acute myeloid leukaemia; IPSS-R, revised international prognostic scoring system; MDS, myelodysplastic syndromes; NR, not reached; OS, overall survival.
+a
+Very good: -Y and del(11q) as single abnormalities; good: normal, del(5q), del(12p) and del(20q) as single abnormalities, double abnormalities including del(5q); intermediate:
+del(7q), þ8, þ19, i(17q) and any other single abnormalities, any other double abnormalities; poor: -7 and inv(3)/t(3q)/del(3q) as single abnormalities, double abnormalities
+including -7/del(7q), complex (3 abnormalities); very poor: >3 abnormalities.
+Reprinted with permission.19
+
+inhibitors. The diagnostic strategy may be adapted according to the availability of new targeted therapies.
+Finally, most prognostic factors in MDS have been
+established independently of treatment, particularly in cohorts receiving mostly supportive care. With the availability
+of treatments having an impact on disease evolution,
+including allo-SCT and hypomethylating agents (HMAs),
+factors that may be prognostic in patients treated with
+these interventions are starting to be deﬁned.
+Recommendations
+ IPSS-R is required for prognostic evaluation [I, A].
+ Molecular analysis may add prognostic value [II, B], especially for TP53 [in del(5q) MDS] and SF3B1 mutations in
+patients with <5% blasts [I, A].
+TREATMENT
+Response criteria in MDS
+Response criteria to treatment in MDS are based on recommendations of an international working group (IWG 2006).55
+These criteria deﬁne (i) responses aimed at modifying the
+disease course [mainly allo-SCT, intensive ChT and HMAs,
+including complete remission (CR), partial remission (PR),
+stable disease (SD) and progression], and (ii) improvement of
+cytopaenias (‘haematological improvement’ or HI) in one or
+several lineages (erythroid, platelet and neutrophil responses). These recommendations are particularly adapted to
+treatments which, like growth factors, can improve these
+cytopaenias with no obvious effect on the disease course.
+While CR and PR are generally associated with improvement
+in cytopaenias, the latter type of response is often deﬁned as
+‘stable disease with HI (on the erythroid and/or platelet and/
+or neutrophil) lineage’. An international group of MDS experts
+has recently proposed a revision to these criteria (IWG
+2018).56
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+Treatment of higher-risk MDS patients
+Higher-risk MDS carries a major risk of progression to AML and
+short survival, and treatment should aim to modify the disease course, with options including allo-SCT, HMAs and, less
+frequently, ChT (mainly intensive anthracycline-cytarabine
+combinations).57 In most patients with higher-risk MDS,
+HMAs are the ﬁrst-line reference treatment (Figure 2).
+HMAs. In patients with higher-risk MDS without major
+comorbidities who are not immediately eligible for allo-SCT,
+azacitidine is recommended [I, A]. The use of azacitidine
+may be preferable compared with the alternative HMA,
+decitabine, since ﬁndings from a randomised trial showed
+that azacitidine was superior to conventional care regimens
+[i.e. supportive care, low-dose cytarabine (LDAC) and AMLlike ChT],58,59 whereas there was no clear survival advantage with decitabine over conventional treatment in two
+phase III trials. Of note, while the pivotal AZA-001 phase III
+trial58 suggested that azacitidine could yield a median OS of
+24 months in higher-risk MDS, most large ‘real life’ studies
+have suggested a median OS of 15-18 months, a difference
+often observed between patients included in clinical trials
+versus all-comers.60
+As most patients only respond to azacitidine after several
+courses, at least six courses are recommended as part of the
+following schedule: azacitidine 75 mg/m2/day subcutaneously for 7 consecutive days every 28 days [II, B]. However,
+‘5-2-2’ regimens (from Monday to Friday, and Monday and
+Tuesday of the following week) are often easier to apply
+and are considered acceptable.
+Besides induction of CR and PR, achievement of HI according to IWG 2006 criteria is associated with a prolongation of survival compared with supportive care or LDAC
+[III, B].61
+The use of 2-6 cycles of azacitidine is quite common
+before haematopoietic stem cell transplantation (HSCT) to
+reduce blasts in bone marrow or for logistical reasons (to
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+147
+
+P. Fenaux et al.
+
+Annals of Oncology
+Higher-risk MDS
+(IPSS-R very high-, high- and some intermediate-riska)
+
+Fit patients of ≤70 years
+(or sometimes slightly older if very fit)
+with a donor for allo-SCT
+
+Patients of >70 years or younger
+but without a donor for allo-SCT
+
+Patients of ≤70 years
+and no unfavourable karyotype
+
+allo-SCT [I, A]
+preceded or not by ChT
+or HMA to reduce blast
+percentage [III, A]
+
+AML-like ChT [I, B] or
+azacitidine [I, A]
+
+Very frail patients
+
+Other patients
+
+Azacitidine [I, A]
+(at least six cycles)
+Doses can be reduced in
+relatively frail patients
+In case of failure or relapse,
+consider clinical trial or
+symptomatic treatment
+
+Supportive care:
+RBC transfusions [IV, A],
+antibiotics, etc
+
+Figure 2. Treatment algorithm for higher-risk MDS.
+allo-SCT, allogenic stem cell transplant; AML, acute myeloid leukaemia; ChT, chemotherapy; HMA, hypomethylating agent; IPSS-R, revised international prognostic
+scoring system; MDS, myelodysplastic syndromes; RBC, red blood cell.
+a
+For IPSS-R intermediate-risk MDS patients, whether they should initially receive treatment for lower-risk MDS or higher-risk MDS is also based on other factors
+including age, comorbidities, importance of cytopaenias, somatic mutations, effect of ﬁrst-line treatment, etc.
+
+allow time to ﬁnd an adequate SCT donor). Its potential
+risks and beneﬁts over no treatment are currently being
+evaluated in clinical trials [III, B].
+AML-like ChT. AML-like intensive ChT has a limited indication
+in patients with higher-risk MDS. In particular, MDS patients
+with an unfavourable karyotype show few CRs and shorter CR
+duration than those with a normal karyotype.62-64 It can be
+envisaged for ﬁt patients (generally <70 years of age) without
+unfavourable cytogenetics (especially patients with a normal
+karyotype) and >10% marrow blasts, preferably as a bridge to
+allo-SCT [I, B].
+Suggested regimens with equivalent efﬁcacy are combinations of cytarabine with idarubicin, or ﬂudarabine [IV, B].57
+A direct comparison between AML-like ChT and azacitidine has been carried out in a small number of MDS patients in one randomised phase III trial. This suggested a
+superiority of the HMA in terms of survival (but not CR rate)
+without reaching statistical signiﬁcance, but the number of
+patients was too small to draw any deﬁnitive conclusions.58
+A retrospective comparison of AML-like ChT versus decitabine was carried out in two groups of matched MDS patients, and while CR rates were equivalent, a survival
+advantage was seen only with the use of an HMA.65
+Recently, CPX 351, an encapsulated form of daunorubicin
+and cytarabine, proved superior to conventional
+148
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+daunorubicin and cytarabine in AML with MDS features and
+AML post-MDS (AML with myelodysplasia-related changes
+according to WHO 2016 classiﬁcation16), and it is approved
+by the Food and Drug Administration (FDA) and the European Medicines Agency (EMA) in those AML subsets,
+including therapy-related AML.66 Whether it is also superior
+to conventional ChT in higher-risk MDS needs to be
+demonstrated.
+Low-dose ChT. LDAC (generally cytarabine 20 mg/m2/day
+for 10-14 days/4 weeks) was inferior to azacitidine (in terms
+of response and survival) in a randomised phase III study,58
+especially in patients with unfavourable cytogenetics.67,68
+New treatments (especially in combination with an HMA).
+Clinical trials are testing whether the addition of another drug
+to azacitidine can improve outcomes, but so far no combination has demonstrated a clear advantage over azacitidine
+alone, although some are promising in elderly patients with
+AML treated with an HMA-based approach.69-71 New HMAs
+with a longer half-life (potentially increasing the hypomethylating effect) are currently being tested in MDS (and
+AML), especially oral drugs.72,73
+IPSS higher-risk MDS patients who fail to respond to
+HMAs have a very poor survival (median <6 months) unless
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+P. Fenaux et al.
+
+Annals of Oncology
+
+they are potentially eligible for allo-SCT.74 The recommended approach is to enrol these patients into a clinical
+trial with investigational agents [IV, B].74
+The IDH1 inhibitor, ivosidenib, and IDH2 inhibitor, enasidenib, have shown signiﬁcant activity in AML with the
+respective mutations and are approved by the FDA in those
+settings.75,76 They are also being tested in clinical trials in
+MDS, which carries IDH1/2 mutations in around 15% of
+cases. Of note, those mutations may be absent at HMA
+onset and appear later in the disease course at HMA failure.
+The bcl2 inhibitor, venetoclax, is approved by the FDA in
+combination with an HMA in elderly patients with AML and
+is also being tested in higher-risk MDS, especially in combination with azacitidine.71
+allo-SCT. allo-SCT remains the only potentially curative
+treatment of higher-risk MDS patients [I, A], but its major
+obstacle is age as most MDS patients are >70 years. Comorbidity, age, IPSS-R score, cytogenetics, mutations
+including TP53 mutation,77 conditioning regimen and donor
+selection are predictors of post-transplant outcome78,79 and
+should be considered during the decision process. All patients with higher-risk MDS up to 70 years (although
+particularly ‘ﬁt’ patients aged >70 years can sometimes be
+considered) should be evaluated for allo-SCT eligibility at
+diagnosis and whenever required during the disease course.
+Human leukocyte antigen (HLA)-identical (or single antigen
+mismatched) siblings or matched unrelated individuals
+should be considered as suitable donors [I, A].79 Haploidentical donors and, less often, cord blood are now
+widely used as alternative donors with comparable outcomes [II, B].
+Regarding conditioning regimens, whether reducedintensity conditioning (RIC) or myeloablative approaches
+should be used is often disputed. The relapse risk seems to
+be higher in patients receiving RIC; therefore, patients aged
+<55 years and without comorbidities should probably be
+offered myeloablative HSCT [II, B].
+It is debated whether treatment aimed at reducing the
+blast count should be carried out before allo-SCT with AMLlike ChT or HMAs. This is generally considered when
+marrow blasts are >10%, especially for non-myeloablative
+allo-SCT [III, A].80
+It is now widely accepted that systemic iron overload
+contributes to negative outcomes after allo-HSCT in MDS.81
+Elevated labile plasma iron levels before or during allo-HSCT
+predict an increased incidence of infection-related nonrelapse mortality and a decreased OS in patients with AML
+or MDS. Therefore, eligible patients should receive appropriate iron chelation, at least until the onset of conditioning
+treatment [III, B].81,82
+Treatment of lower-risk MDS
+In lower-risk MDS, the risk of AML progression is lower, and
+around half of elderly patients die of causes other than MDS
+or AML. The main priority is therefore generally the treatment of cytopaenias, mainly of anaemia (usually the predominant cytopaenia), and improvement in quality of life
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+(QoL). Still, some of these patients may be identiﬁed as
+having a poorer prognosis, either by their IPSS-R score19 or
+by other biological characteristics like somatic mutations83
+or subsequently by their resistance to ﬁrst-line treatment,84 and may beneﬁt from treatments generally applied
+to higher-risk MDS [IV, C]. This applies particularly to patients with an intermediate IPSS-R (Figure 3).
+Anaemia due to failure of speciﬁc treatments often requires repeated RBC transfusions, leading to potential iron
+overload.58
+Treatment of anaemia.
+RBC transfusions or drugs? Chronic RBC transfusions can
+be considered as the sole treatment of anaemia in lowerrisk MDS as very few drugs are approved in this setting
+and none have demonstrated a survival improvement
+except ESA. However, repeated RBC transfusions are associated with chronic anaemia, leading to excessive morbidity,
+and they cannot completely correct impaired QoL.85,86 Iron
+overload due to RBC transfusions may also be deleterious to
+various organs.85,87 Receiving ESAs has no impact on progression to AML but is an independent, favourable prognostic factor for survival [IV, B].88-91
+First-line treatment of anaemia in lower-risk MDS.
+Patients without del(5q): ESAs. ESAs, i.e. recombinant EPO
+or darbepoetin (DAR), remain the ﬁrst choice treatment of
+anaemia in most lower-risk MDS without del(5q).88 Weekly
+doses of 30 000-80 000 units of EPO or 150-300 mg of DAR
+injection yield 40%-60% erythroid responses according to
+IWG 2006 response criteria55 when the baseline EPO level is
+low (<200-500 U/l) and transfusion requirement is absent
+or limited since low baseline serum EPO level and low or no
+RBC transfusion requirement are the two main prognostic
+factors of response to ESAs [I, A].86,88-90,92,93
+Efﬁcacy of ESAs can be improved by the addition of
+granulocyte colony-stimulating factor (G-CSF),90,94 but there
+are no data showing that one ESA is superior to another.
+Only one ESA, i.e. EPO alpha (and its biosimilars), is formally
+approved by the EMA for lower-risk MDS patients with
+serum EPO levels below 200 U/l.92
+Responses to ESA occur within 8-12 weeks of treatment.
+Median duration of response is 20-24 months.86,88-90,92
+Lower-risk MDS with del(5q): LEN. Anaemia of lower-risk
+MDS with del(5q) is associated with lower response rates
+and signiﬁcantly shorter responses to ESA compared with
+other lower-risk MDS.95 However, it responds to LEN in
+60%-65% of patients, with a median duration of RBC
+transfusion independence (RBC-TI) of 2-2.5 years [I, A].96,97
+The recommended initial dose is 10 mg/day for 3 weeks
+every 4 weeks.98 Cytogenetic response (CyR) is achieved in
+50%-75% of patients (including 30%-45% complete CyR).
+TP53 gene mutations, found in w20% of lower-risk MDS
+with del(5q), confer resistance to LEN and a higher risk of
+AML progression.38 Thus, patients with del(5q) lower-risk
+MDS harbouring or developing a TP53 mutation (during
+LEN treatment) require intensiﬁed disease surveillance,
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+149
+
+P. Fenaux et al.
+
+Annals of Oncology
+Lower-risk MDS
+(IPSS-R very low-, low- and some intermediate-riska)
+
+Symptomatic thrombocytopaenia
+
+Symptomatic neutropaenia
+
+Broad spectrum antibiotics if fever [I, A]
+Short-term G-CSF [III, C]
+ATG if favourable features [III, C]
+Azacitidine if approved [III, B]
+Clinical trial
+
+Symptomatic anaemia
+(generally if Hb <10 g/dl)
+
+RBC transfusions
+≥2 concentrates/month
+and serum EPO ≥500 U/l
+[I, A]
+
+Moderate and asymptomatic
+cytopaenias
+
+RBC transfusions
+<2 concentrates/month
+and/or serum EPO <500 U/l
+[I, A]
+
+EPO ± G-CSF
+Androgens [III, C]
+TPO-RAs if marrow blasts <5% [II, C]
+ATG if favourable features [II, C]
+Azacitidine if approved [III, C]
+
+Del(5q)
+
+No del(5q)
+EPO ± G-CSF (low success rate)
+or second-line treatment
+
+If failure
+relapse
+EPO ±orG-CSF
+
+Lenalidomide [I, A]
+Second-line
+treatment
+EPO ± G-CSF
+
+No ±
+del(5q)
+EPO
+G-CSF
+
+EPODel(5q)
+± G-CSF
+
+Lenalidomide [I, A]
+ATG ± cyclosporine [II, B]
+(age <65–70 years and
+favourable features for
+response to ATG)
+
+Others:
+Azacitidine (if approved) [II, B]
+or clinical trial with azacitadine,
+lenalidomide ± EPO [II, B],
+luspatercept (if MDS-RS) [I, A]
+or experimental drug
+
+No treatment
+
+Figure 3. Treatment algorithm for lower-risk MDS.
+ATG, antithymocyte globulin; EPO, erythropoietin; G-CSF, granulocyte colony-stimulating factor; Hb, haemoglobin; IPSS-R, revised international prognostic scoring
+system; MDS, myelodysplastic syndromes; MDS-RS, myelodysplastic syndrome with ring sideroblasts; RBC, red blood cell; TPO-RA, thrombopoietin receptor agonist.
+a
+For IPSS-R intermediate-risk MDS patients, whether they should initially receive treatment for lower-risk MDS or higher-risk MDS is also based on other factors
+including age, comorbidities, importance of cytopaenias, somatic mutations, effect of ﬁrst-line treatment, etc.
+
+including regular bone marrow assessment of clonal evolution [III, A]. Patients with a chromosomal abnormality in
+addition to del(5q) appear to have similar outcomes to
+those with isolated del(5q), except for some additional
+abnormalities like þ8,97 7 or del(7q), or when there are
+two or more additional abnormalities, but those patients
+are not classiﬁed as lower-risk MDS.96,97
+Grade 3 or 4 neutropaenia and thrombocytopaenia, seen
+in w60% of patients during the ﬁrst weeks of treatment,
+constitute the most common adverse events of LEN.96,97
+Close monitoring of blood counts is therefore required
+during this period, with dose reduction and/or addition of
+G-CSF if required.
+In the EU, LEN is approved for the treatment of lower-risk
+MDS with del(5q) and RBC-TD only after failure or ineligibility to ESA.
+Second-line treatments for anaemia in lower-risk MDS.
+Patients without del(5q). Treatment after ESA failure (primary
+or secondary resistance) in patients who remain with IPSS low
+or intermediate-1 MDS is disappointing, with most patients
+eventually requiring long-term RBC transfusions. Second-line
+150
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+treatments currently used, but not approved in most countries, include anti-thymocyte globulin (ATG), HMAs and LEN.
+ATG,  cyclosporine, can yield an erythroid response
+(associated with response of other cytopaenias, especially
+thrombocytopaenia) in 25%-40% of patients [II, B].99-101 ATG
+results are better in relatively young (<65 years), lower-risk
+MDS patients with a recent RBC transfusion history, normal
+karyotype (or possibly trisomy 8), no excess blasts and HLA
+DR15 genotype, and in patients with thrombocytopaenia, a
+small PNH clone or with marrow hypocellularity [III, B].102
+Therefore, this treatment is generally proposed to a minority of patients. As in aplastic anaemia, horse ATG appears to
+achieve better results than rabbit ATG.101
+HMAs yield RBC-TI in 20%-40% of patients,103,104 and
+may also improve other cytopaenias in lower-risk MDS [III,
+B].105 They are approved in this setting in several countries,
+including the United States, but not in Europe.
+LEN yields an RBC-TI in 25%-30% of lower-risk MDS patients without del(5q) resistant to ESA,106,107 and the
+combination of LEN and ESA may yield higher RBC-TI rates
+than LEN alone in this setting [I, B].108 However, LEN is not
+approved in non-del(5q) patients.
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+P. Fenaux et al.
+
+Annals of Oncology
+
+Luspatercept (ACE-536) has recently shown promising
+results in RBC transfusion-dependent, lower-risk MDS, with
+erythroid response and RBC-TI of 63% and 38%, respectively,
+with limited toxicity in a phase II study, and even better
+results in patients with MDS-RS or SF3B1 mutation. Results
+were conﬁrmed in a phase III placebo-controlled randomised
+study of luspatercept in RBC transfusion-dependent IPSS-R
+very low-, low- or intermediate-risk MDS-RS or with SF3B1
+mutation refractory to ESA,109 and this drug has recently
+been approved in this setting by the FDA and EMA [I, A].110
+Patients with del(5q). Resistance to LEN in lower-risk MDS
+with del(5q) is associated with a poor prognosis, even if no
+immediate progression to high-risk MDS is observed. Patients with TP53 gene mutation may have a particularly
+poor outcome38 and are considered candidates for approaches that have demonstrated a survival beneﬁt in
+higher-risk MDS, including HMAs, and whenever possible,
+allo-SCT [IV, B].108
+Treatment of neutropaenia and thrombocytopaenia. In
+lower-risk MDS, neutropaenia and thrombocytopaenia are
+less frequent than anaemia, and are rarely isolated or
+profound.
+Neutrophils are <1500/mm3 in only 7% of lower-risk MDS,
+and neutropaenia is rarely associated with life-threatening
+infections if no drugs worsening neutropaenia are used. GCSF can improve neutropaenia in 60%-75% of these cases and
+can be added to anti-infective drugs [III, C], but its prolonged
+use has not demonstrated any impact on survival.
+Platelets below 50 000/mm3 are seen in w30% of low-risk
+MDS. High-dose androgens can improve thrombocytopaenia
+in one-third of thrombocytopaenic lower-risk MDS, but
+response is generally transient [III, C].111,112 The thrombopoietin (TPO) receptor agonist (TPO-RA), romiplostim, at
+high doses (500-1000 mg/week) yielded a 55% platelet
+response in a phase II trial in patients with lower-risk MDS
+and thrombocytopaenia. However, in w15% of patients, a
+transient rise in marrow blasts and/or the appearance of
+peripheral blasts was seen which was reversible after drug
+discontinuation.113 In a randomised phase II study versus
+placebo in patients with lower-risk MDS and thrombocytopaenia, romiplostim signiﬁcantly reduced the incidence of
+severe bleeding and platelet transfusions.114 While there
+was a suspected increase in AML risk upon ﬁrst analysis, this
+was not conﬁrmed by later follow-up.114 Results of a randomised trial in lower-risk MDS patients treated with
+eltrombopag, an oral TPO-RA, showed a 47% platelet
+response and a reduction in bleeding events with no obvious
+safety concerns and no observed rise in marrow blasts.115
+TPO-RAs are not approved for MDS in Europe and
+currently cannot be recommended outside of clinical trials or
+registries at this time. They should also be restricted to patients without an excess of marrow blasts [II, C].
+ATG  cyclosporine (in selected cases, as described
+above) and HMAs achieve platelet response in 35%-40% of
+cases of lower-risk MDS in addition to erythroid responses
+[III, C]99-101 (see Figures 2 and 3).
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+Supportive care and chelation therapy in MDS
+Supportive care is required in all MDS patients at some
+point in the disease and may be the only long-term treatment for unﬁt patients and those not responding to the
+agents described above. In patients requiring repeated RBC
+transfusions, administration at a sufﬁciently high haemoglobin threshold is recommended (i.e. at least 8 g/dl, and
+9 g/dl or even 10g/dl in cases of comorbidities or poor
+functional tolerance). A sufﬁcient number of RBC concentrates should be transfused each time, over 2 or 3 days if
+needed, to increase the haemoglobin level above 10 g/dl
+and limit the effects of chronic anaemia, especially on QoL
+[IV, A].
+Aside from patients receiving myelosuppressive drugs,
+prophylactic platelet transfusions are not commonly used.
+Prophylactic antibiotics and/or G-CSF are not recommended
+in case of neutropaenia, but rapid onset of broad-spectrum
+antibiotics is mandatory in case of fever or symptoms of
+infection [II, A]. Short-term use of G-CSF during severe infections could be useful in neutropaenic patients.
+Psychosocial support and contact with patient support
+groups should be offered.
+A debate exists about the deleterious effect of iron
+overload in MDS patients and the role of iron chelation in
+those patients. While heart iron overload is a welldocumented cause of heart failure in children with thalassaemia,116,117 its clinical consequences are less certain
+in transfused MDS patients, particularly as many have
+other causes of cardiac morbidity.118,119 However, cardiovascular magnetic resonance (CMR) imaging studies
+show that heart iron overload [reﬂected by a decrease in
+T2-star (T2*) CMR imaging] is frequent in patients who
+have received at least 70-80 RBC concentrates, a frequent
+situation in low-risk MDS, and that heart T2* <20 milliseconds is associated with decreased left ventricular
+ejection fraction and a risk of heart failure.120 Retrospective studies suggest that adequate chelation in highlytransfused patients may improve their survival [IV,
+C].98,121 The TELESTO trial prospectively examined iron
+chelation in lower-risk MDS, suggesting a signiﬁcant
+improvement in event-free survival in chelated patients.122 However, this was a composite endpoint,
+including survival and cardiac and liver function.
+Published recommendations for iron chelation therapy
+[I, V]123 generally advocate starting chelation in patients
+with a relatively favourable prognosis (i.e. low- or intermediate-1-risk MDS) who have received 20-60 RBC concentrates, or if serum ferritin rises above 1000-2500 U/l.
+Potential candidates for allo-SCT should, however, be
+chelated early. Indeed, although the underlying mechanisms are unclear, it appears that even a relatively moderate iron overload before allo-SCT is associated with
+increased transplant-related mortality [III, B].81,82,124 Chelation may also be strongly recommended in patients with
+lower-risk MDS who are not candidates for allo-SCT but
+have signs of major iron overload, including signiﬁcantly
+reduced cardiac T2* by MRI imaging [III, B].
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+151
+
+P. Fenaux et al.
+
+Annals of Oncology
+Iron chelation is made easier by the availability of oral
+iron chelators (especially deferasirox) in addition to the
+classical parenteral deferoxamine. Deferasirox cannot be
+used in patients with renal failure.125 Deferiprone, another
+oral iron chelator, is currently not approved for use in MDS
+in most countries because it can also cause neutropaenia in
+a small number of patients, which is problematic in MDS.126
+Recommendations
+ Azacitidine is recommended in patients with higher-risk
+MDS without major comorbidities not immediately
+eligible for allo-SCT [I, A].
+ AML-like ChT is recommended for ﬁt patients (generally
+<70 years of age) with favourable cytogenetics according to IPSS and marrow blasts 10%, preferably as a
+bridge to allo-SCT [I, B].
+ Allo-SCT should be proposed to all higher-risk MDS patients <70 years old without major comorbidities and
+with a donor [I, A].
+ Reducing the marrow blast count before allo-SCT with
+AML-like ChT or HMAs is generally considered when
+marrow blasts are 10%, especially for nonmyeloablative allo-SCT [III, A].
+ ESAs (especially EPO alpha) are recommended for the
+ﬁrst-line treatment of anaemia in lower-risk MDS in patients without del(5q) [I, A].
+ For transfusion-dependent anaemia of lower-risk MDS
+with del(5q), LEN is the most effective drug [I, A].
+ After ESA failure, ATG ( cyclosporine) has efﬁcacy in
+speciﬁc younger patient cohorts of lower-risk MDS [II, B].
+ After ESA failure in RBC transfusion-dependent MDS-RS,
+luspatercept is recommended [I, A].
+ Other second-line treatments for anaemia after ESA failure include LEN  ESA [II, B] and HMAs [II, B], but they
+are not approved in Europe for this indication.
+ TPO-RAs (romiplostim, eltrombopag) have some efﬁcacy
+in cases of severe thrombocytopaenia but they are not
+approved in MDS and should only be used in patients
+with marrow blasts <5% [II, C].
+ In patients with transfusion iron overload, iron chelation
+is strongly recommended in candidates for allo-SCT
+[III, B].
+ In non-transplant candidates with lower-risk MDS, iron
+chelation is strongly recommended in patients with major iron overload (e.g. signiﬁcantly reduced cardiac T2*)
+[III, B], but its use is more controversial in patients
+without major iron overload [I, V].
+
+PERSONALISED MEDICINE
+Most prognostic factors in MDS have been deﬁned irrespective of treatment and it is often unclear if they are
+predictive of efﬁcacy of a given treatment.
+The IPSS and IPSS-R offer a valuable means of patient
+stratiﬁcation and have therefore served as a basis for
+Figures 2 and 3 to summarise treatment recommendations.
+For example, anaemia of lower-risk MDS often responds to
+152
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+ESAs, except in case of del(5q) where LEN is very effective.
+On the other hand, in higher-risk patients, while azacitidine
+has been shown to improve survival, there are currently
+limited alternative options (except allo-SCT for a minority of
+patients).
+Consideration of the patient’s age, PS, comorbidities,
+frailty and desire (after adequate information has been
+provided by the medical team) is also crucial before making
+any treatment decision.
+FOLLOW-UP
+Except for speciﬁc treatments, follow-up of MDS is largely
+based on regular blood counts to detect worsening cytopaenias [anaemia or severe thrombocytopaenia requiring
+transfusions, or severe neutropaenia mandating preventive
+measures against infection (e.g. during invasive procedures)] and rapid onset of broad-spectrum antibiotics in case
+of symptoms of infection.
+Bone marrow examination, with or without karyotype, is
+generally triggered by worsening of cytopaenias or the
+appearance of circulating blasts rather than being systematically carried out at regular intervals.
+METHODOLOGY
+These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating procedures for
+Clinical Practice Guidelines development (http://www.
+esmo.org/Guidelines/ESMO-Guidelines-Methodology). The
+relevant literature has been selected by the expert authors.
+Levels of evidence and grades of recommendation have been
+applied using the system shown in supplementary Table S1,
+available at https://doi.org/10.1016/j.annonc.2020.11.002.127
+Statements without grading were considered justiﬁed standard clinical practice by the authors.
+ACKNOWLEDGEMENTS
+Manuscript editing support was provided by Angela Corstorphine of Kstorﬁn Medical Communications Ltd; this
+support was funded by ESMO.
+FUNDING
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+DISCLOSURE
+PF has received honoraria and/or research support from
+Celgene, Janssen, AbbVie, Jazz, Novartis, Roche and Aprea;
+GFS has received honoraria from and/or played an advisory
+role for AbbVie, Amgen, Böehringer Ingelheim, Celgene,
+Helsinn Healthcare, Roche, Janssen-Cilag, Novartis, Takeda
+and Onconova; VS has received honoraria from Astex, Celgene, Novartis, Pﬁzer, Janssen-Cilag and Takeda; UP has
+received honoraria and/or research support from Celgene,
+Janssen, AbbVie, Jazz, Novartis and Amgen; DH has received
+honoraria from Celgene, Novartis and Takeda, and research
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+P. Fenaux et al.
+
+Annals of Oncology
+
+support from Novartis and Celgene; UM has reported
+honoraria from Celgene, Roche and Amgen.
+
+REFERENCES
+1. Adès L, Itzykson R, Fenaux P. Myelodysplastic syndromes. Lancet.
+2014;383(9936):2239-2252.
+2. Bejar R, Stevenson K, Abdel-Wahab O, et al. Clinical effect of point
+mutations in myelodysplastic syndromes. N Engl J Med.
+2011;364(26):2496-2506.
+3. Yang L, Qian Y, Eksioglu E, et al. The inﬂammatory microenvironment
+in MDS. Cell Mol Life Sci. 2015;72(10):1959-1966.
+4. Shen J, Wang S, Zhang YJ, et al. Genome-wide aberrant DNA
+methylation of microRNA host genes in hepatocellular carcinoma.
+Epigenetics. 2012;7(11):1230-1237.
+5. Jiang Y, Dunbar A, Gondek LP, et al. Aberrant DNA methylation is a
+dominant mechanism in MDS progression to AML. Blood.
+2009;113(6):1315-1325.
+6. Neukirchen J, Schoonen WM, Strupp C, et al. Incidence and prevalence of myelodysplastic syndromes: data from the Dusseldorf MDSregistry. Leuk Res. 2011;35(12):1591-1596.
+7. Miyazaki Y, Tuechler H, Sanz G, et al. Differing clinical features between Japanese and Caucasian patients with myelodysplastic syndromes: analysis from the International Working Group for Prognosis
+of MDS. Leuk Res. 2018;73:51-57.
+8. Drazer MW, Kadri S, Sukhanova M, et al. Prognostic tumor
+sequencing panels frequently identify germ line variants associated
+with hereditary hematopoietic malignancies. Blood Adv. 2018;2(2):
+146-150.
+9. Leone G, Fianchi L, Voso MT. Therapy-related myeloid neoplasms.
+Curr Opin Oncol. 2011;23(6):672-680.
+10. Cardis E, Vrijheid M, Blettner M, et al. Risk of cancer after low doses
+of ionising radiation: retrospective cohort study in 15 countries. BMJ.
+2005;331(7508):77.
+11. Iwanaga M, Hsu WL, Soda M, et al. Risk of myelodysplastic syndromes
+in people exposed to ionizing radiation: a retrospective cohort study
+of Nagasaki atomic bomb survivors. J Clin Oncol. 2011;29(4):428-434.
+12. Nisse C, Haguenoer JM, Grandbastien B, et al. Occupational and
+environmental risk factors of the myelodysplastic syndromes in the
+North of France. Br J Haematol. 2001;112(4):927-935.
+13. Aksoy M, Ozeris S, Sabuncu H, et al. Exposure to benzene in Turkey
+between 1983 and 1985: a haematological study on 231 workers. Br J
+Ind Med. 1987;44(11):785-787.
+14. Rigolin GM, Cuneo A, Roberti MG, et al. Exposure to myelotoxic
+agents and myelodysplasia: case-control study and correlation with
+clinicobiological ﬁndings. Br J Haematol. 1998;103(1):189-197.
+15. Kuendgen A, Nomdedeu M, Tuechler H, et al. Therapy-related myelodysplastic syndromes deserve speciﬁc diagnostic sub-classiﬁcation and
+risk-stratiﬁcation e an approach to classiﬁcation of patients with t-MDS.
+Leukemia. 2020. https://doi.org/10.1038/s41375-020-0917-7.
+16. Arber DA, Orazi A, Hasserjian R, et al. The 2016 revision to the World
+Health Organization classiﬁcation of myeloid neoplasms and acute
+leukemia. Blood. 2016;127(20):2391-2405.
+17. Valent P, Horny HP, Bennett JM, et al. Deﬁnitions and standards in
+the diagnosis and treatment of the myelodysplastic syndromes:
+consensus statements and report from a working conference. Leuk
+Res. 2007;31(6):727-736.
+18. Greenberg P, Cox C, LeBeau MM, et al. International scoring system
+for evaluating prognosis in myelodysplastic syndromes. Blood.
+1997;89(6):2079-2088.
+19. Greenberg PL, Tuechler H, Schanz J, et al. Revised international
+prognostic scoring system for myelodysplastic syndromes. Blood.
+2012;120(12):2454-2465.
+20. Valent P, Horny HP. Minimal diagnostic criteria for myelodysplastic
+syndromes and separation from ICUS and IDUS: update and open
+questions. Eur J Clin Invest. 2009;39(7):548-553.
+21. Valent P. ICUS, IDUS, CHIP and CCUS: diagnostic criteria, separation
+from MDS and clinical implications. Pathobiology. 2019;86(1):30-38.
+
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+22. Bejar R. CHIP, ICUS, CCUS and other four-letter words. Leukemia.
+2017;31(9):1869-1871.
+23. Valent P, Orazi A, Steensma DP, et al. Proposed minimal diagnostic
+criteria for myelodysplastic syndromes (MDS) and potential pre-MDS
+conditions. Oncotarget. 2017;8(43):73483-73500.
+24. Schemenau J, Baldus S, Anlauf M, et al. Cellularity, characteristics of
+hematopoietic parameters and prognosis in myelodysplastic syndromes. Eur J Haematol. 2015;95(3):181-189.
+25. Buesche G, Teoman H, Wilczak W, et al. Marrow ﬁbrosis predicts early
+fatal marrow failure in patients with myelodysplastic syndromes.
+Leukemia. 2008;22(2):313-322.
+26. Haase D, Germing U, Schanz J, et al. New insights into the prognostic
+impact of the karyotype in MDS and correlation with subtypes: evidence from a core dataset of 2124 patients. Blood. 2007;110(13):
+4385-4395.
+27. Boultwood J, Wainscoat JS. Gene silencing by DNA methylation in
+haematological malignancies. Br J Haematol. 2007;138(1):3-11.
+28. Shaffer LG, McGowan-Jordan J, Schmid M. ISCN (2013): An International System for Human Cytogenetic Nomenclature. Basel: S. Karger;
+2013.
+29. Haferlach C, Rieder H, Lillington DM, et al. Proposals for standardized
+protocols for cytogenetic analyses of acute leukemias, chronic lymphocytic leukemia, chronic myeloid leukemia, chronic myeloproliferative disorders, and myelodysplastic syndromes. Genes Chromosomes
+Cancer. 2007;46(5):494-499.
+30. Sole F, Luno E, Sanzo C, et al. Identiﬁcation of novel cytogenetic
+markers with prognostic signiﬁcance in a series of 968 patients with
+primary myelodysplastic syndromes. Haematologica. 2005;90(9):
+1168-1178.
+31. Schanz J, Steidl C, Fonatsch C, et al. Coalesced multicentric analysis of
+2,351 patients with myelodysplastic syndromes indicates an underestimation of poor-risk cytogenetics of myelodysplastic syndromes in
+the international prognostic scoring system. J Clin Oncol. 2011;29(15):
+1963-1970.
+32. Haase D, Stevenson KE, Neuberg D, et al. TP53 mutation status divides myelodysplastic syndromes with complex karyotypes into
+distinct prognostic subgroups. Leukemia. 2019;33(7):1747-1758.
+33. Neukirchen J, Lauseker M, Hildebrandt B, et al. Cytogenetic clonal
+evolution in myelodysplastic syndromes is associated with inferior
+prognosis. Cancer. 2017;123(23):4608-4616.
+34. Bernasconi P, Boni M, Cavigliano PM, et al. Clinical relevance of cytogenetics in myelodysplastic syndromes. Ann N Y Acad Sci.
+2006;1089:395-410.
+35. Papaemmanuil E, Gerstung M, Malcovati L, et al. Clinical and biological implications of driver mutations in myelodysplastic syndromes. Blood. 2013;122(22):3616-3627.
+36. Haferlach T, Nagata Y, Grossmann V, et al. Landscape of genetic lesions in 944 patients with myelodysplastic syndromes. Leukemia.
+2014;28(2):241-247.
+37. Kwok B, Hall JM, Witte JS, et al. MDS-associated somatic mutations
+and clonal hematopoiesis are common in idiopathic cytopenias of
+undetermined signiﬁcance. Blood. 2015;126(21):2355-2361.
+38. Jadersten M, Saft L, Smith A, et al. TP53 mutations in low-risk myelodysplastic syndromes with del(5q) predict disease progression.
+J Clin Oncol. 2011;29(15):1971-1979.
+39. Genovese G, Kähler AK, Handsaker RE, et al. Clonal hematopoiesis
+and blood-cancer risk inferred from blood DNA sequence. N Engl J
+Med. 2014;371(26):2477-2487.
+40. Jaiswal S, Fontanillas P, Flannick J, et al. Age-related clonal hematopoiesis associated with adverse outcomes. N Engl J Med.
+2014;371(26):2488-2498.
+41. Xie M, Lu C, Wang J, et al. Age-related mutations associated with
+clonal hematopoietic expansion and malignancies. Nat Med.
+2014;20(12):1472-1478.
+42. Steensma DP, Bejar R, Jaiswal S, et al. Clonal hematopoiesis of
+indeterminate potential and its distinction from myelodysplastic
+syndromes. Blood. 2015;126(1):9-16.
+43. Jaiswal S, Natarajan P, Ebert BL. Clonal hematopoiesis and atherosclerosis. N Engl J Med. 2017;377(14):1401-1402.
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+153
+
+P. Fenaux et al.
+
+Annals of Oncology
+44. Malcovati L, Galli A, Travaglino E, et al. Clinical signiﬁcance of somatic
+mutation in unexplained blood cytopenia. Blood. 2017;129(25):33713378.
+45. Alhan C, Westers TM, Cremers EM, et al. The myelodysplastic syndromes ﬂow cytometric score: a three-parameter prognostic ﬂow
+cytometric scoring system. Leukemia. 2016;30(3):658-665.
+46. Duetz C, Westers TM, van de Loosdrecht AA. Clinical implication of
+multi-parameter ﬂow cytometry in myelodysplastic syndromes.
+Pathobiology. 2019;86(1):14-23.
+47. Nachtkamp K, Stark R, Strupp C, et al. Causes of death in 2877 patients with myelodysplastic syndromes. Ann Hematol. 2016;95(6):
+937-944.
+48. Dayyani F, Conley AP, Strom SS, et al. Cause of death in patients with
+lower-risk myelodysplastic syndrome. Cancer. 2010;116(9):21742179.
+49. Sanz GF, Sanz MA, Vallespi T, et al. Two regression models and a
+scoring system for predicting survival and planning treatment in
+myelodysplastic syndromes: a multivariate analysis of prognostic
+factors in 370 patients. Blood. 1989;74(1):395-408.
+50. Voso MT, Fenu S, Latagliata R, et al. Revised International Prognostic
+Scoring System (IPSS) predicts survival and leukemic evolution of
+myelodysplastic syndromes signiﬁcantly better than IPSS and WHO
+Prognostic Scoring System: validation by the Gruppo Romano Mielodisplasie Italian Regional Database. J Clin Oncol. 2013;31(21):26712677.
+51. Malcovati L, Hellstrom-Lindberg E, Bowen D, et al. Diagnosis and
+treatment of primary myelodysplastic syndromes in adults: recommendations from the European LeukemiaNet. Blood. 2013;122(17):
+2943-2964.
+52. Della Porta MG, Malcovati L, Boveri E, et al. Clinical relevance of bone
+marrow ﬁbrosis and CD34-positive cell clusters in primary myelodysplastic syndromes. J Clin Oncol. 2009;27(5):754-762.
+53. Westers TM, Ireland R, Kern W, et al. Standardization of ﬂow
+cytometry in myelodysplastic syndromes: a report from an international consortium and the European LeukemiaNet Working Group.
+Leukemia. 2012;26(7):1730-1741.
+54. Yoshida K, Sanada M, Shiraishi Y, et al. Frequent pathway mutations of
+splicing machinery in myelodysplasia. Nature. 2011;478(7367):64-69.
+55. Cheson BD, Greenberg PL, Bennett JM, et al. Clinical application and
+proposal for modiﬁcation of the International Working Group (IWG)
+response criteria in myelodysplasia. Blood. 2006;108(2):419-425.
+56. Platzbecker U, Fenaux P, Adès L, et al. Proposals for revised IWG 2018
+hematological response criteria in patients with MDS included in
+clinical trials. Blood. 2019;133(10):1020-1030.
+57. Estey EH, Thall PF, Cortes JE, et al. Comparison of idarubicin þ ara-C-,
+ﬂudarabine þ ara-C-, and topotecan þ ara-C-based regimens in
+treatment of newly diagnosed acute myeloid leukemia, refractory
+anemia with excess blasts in transformation, or refractory anemia
+with excess blasts. Blood. 2001;98(13):3575-3583.
+58. Fenaux P, Mufti GJ, Hellstrom-Lindberg E, et al. Efﬁcacy of azacitidine
+compared with that of conventional care regimens in the treatment
+of higher-risk myelodysplastic syndromes: a randomised, open-label,
+phase III study. Lancet Oncol. 2009;10(3):223-232.
+59. Gurion R, Vidal L, Gafter-Gvili A, et al. 5-azacitidine prolongs overall
+survival in patients with myelodysplastic syndrome e a systematic
+review and meta-analysis. Haematologica. 2010;95(2):303-310.
+60. Mozessohn L, Cheung MC, Fallahpour S, et al. Azacitidine in the ‘realworld’: an evaluation of 1101 higher-risk myelodysplastic syndrome/
+low blast count acute myeloid leukaemia patients in Ontario, Canada.
+Br J Haematol. 2018;181(6):803-815.
+61. Gore SD, Fenaux P, Santini V, et al. A multivariate analysis of the
+relationship between response and survival among patients with
+higher-risk myelodysplastic syndromes treated within azacitidine or
+conventional care regimens in the randomized AZA-001 trial. Haematologica. 2013;98(7):1067-1072.
+62. Knipp S, Hildebrand B, Kundgen A, et al. Intensive chemotherapy is
+not recommended for patients aged >60 years who have myelodysplastic syndromes or acute myeloid leukemia with high-risk karyotypes. Cancer. 2007;110(2):345-352.
+
+154
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+63. Fenaux P, Morel P, Rose C, et al. Prognostic factors in adult de novo
+myelodysplastic syndromes treated by intensive chemotherapy. Br J
+Haematol. 1991;77(4):497-501.
+64. de Witte T, Suciu S, Verhoef G, et al. Intensive chemotherapy followed
+by allogeneic or autologous stem cell transplantation for patients
+with myelodysplastic syndromes (MDSs) and acute myeloid leukemia
+following MDS. Blood. 2001;98(8):2326-2331.
+65. Kantarjian HM, O’Brien S, Huang X, et al. Survival advantage with
+decitabine versus intensive chemotherapy in patients with higher risk
+myelodysplastic syndrome: comparison with historical experience.
+Cancer. 2007;109(6):1133-1137.
+66. Lancet JE, Uy GL, Cortes JE, et al. CPX-351 (cytarabine and daunorubicin) liposome for injection versus conventional cytarabine plus
+daunorubicin in older patients with newly diagnosed secondary acute
+myeloid leukemia. J Clin Oncol. 2018;36(26):2684-2692.
+67. Cheson BD, Simon R. Low-dose ara-C in acute nonlymphocytic leukemia and myelodysplastic syndromes: a review of 20 years’ experience. Semin Oncol. 1987;14(2 suppl 1):126-133.
+68. Fenaux P, Lai JL, Gardin C, et al. Cytogenetics are a predictive factor of
+response to low dose Ara-C in acute myelogenous leukemia (AML) in
+the elderly. Leukemia. 1990;4(4):312.
+69. Sekeres MA, Othus M, List AF, et al. Randomized phase II study of
+azacitidine alone or in combination with lenalidomide or with vorinostat in higher-risk myelodysplastic syndromes and chronic myelomonocytic leukemia: North American Intergroup Study SWOG
+S1117. J Clin Oncol. 2017;35(24):2745-2753.
+70. Prebet T, Sun Z, Figueroa ME, et al. Prolonged administration of
+azacitidine with or without entinostat for myelodysplastic syndrome
+and acute myeloid leukemia with myelodysplasia-related changes:
+results of the US Leukemia Intergroup trial E1905. J Clin Oncol.
+2014;32(12):1242-1248.
+71. DiNardo CD, Pratz K, Pullarkat V, et al. Venetoclax combined with
+decitabine or azacitidine in treatment-naive, elderly patients with
+acute myeloid leukemia. Blood. 2019;133(1):7-17.
+72. Garcia-Manero G, Roboz G, Walsh K, et al. Guadecitabine (SGI-110) in
+patients with intermediate or high-risk myelodysplastic syndromes:
+phase 2 results from a multicentre, open-label, randomised, phase 1/
+2 trial. Lancet Haematol. 2019;6(6):e317-e327.
+73. Savona MR, Odenike O, Amrein PC, et al. An oral ﬁxed-dose combination of decitabine and cedazuridine in myelodysplastic syndromes:
+a multicentre, open-label, dose-escalation, phase 1 study. Lancet
+Haematol. 2019;6(4):e194-e203.
+74. Prebet T, Gore SD, Esterni B, et al. Outcome of high-risk myelodysplastic syndrome after azacitidine treatment failure. J Clin Oncol.
+2011;29(24):3322-3327.
+75. DiNardo CD, Stein EM, de Botton S, et al. Durable remissions with
+ivosidenib in IDH1-mutated relapsed or refractory AML. N Engl J Med.
+2018;378(25):2386-2398.
+76. Pollyea DA, Tallman MS, de Botton S, et al. Enasidenib, an inhibitor of
+mutant IDH2 proteins, induces durable remissions in older patients
+with newly diagnosed acute myeloid leukemia. Leukemia.
+2019;33(11):2575-2584.
+77. Lindsley RC, Saber W, Mar BG, et al. Prognostic mutations in myelodysplastic syndrome after stem-cell transplantation. N Engl J Med.
+2017;376(6):536-547.
+78. Brand R, Putter H, van Biezen A, et al. Comparison of allogeneic stem
+cell transplantation and non-transplant approaches in elderly patients
+with advanced myelodysplastic syndrome: optimal statistical approaches and a critical appraisal of clinical results using nonrandomized data. PLoS One. 2013;8(10):e74368.
+79. Vaughn JE, Scott BL, Deeg HJ. Transplantation for myelodysplastic
+syndromes 2013. Curr Opin Hematol. 2013;20(6):494-500.
+80. de Witte T, Bowen D, Robin M, et al. Allogeneic hematopoietic stem
+cell transplantation for MDS and CMML: recommendations from an
+international expert panel. Blood. 2017;129(13):1753-1762.
+81. Armand P, Kim HT, Cutler CS, et al. Prognostic impact of elevated
+pretransplantation serum ferritin in patients undergoing myeloablative stem cell transplantation. Blood. 2007;109(10):
+4586-4588.
+
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+P. Fenaux et al.
+
+Annals of Oncology
+
+82. Jaekel N, Lieder K, Albrecht S, et al. Efﬁcacy and safety of deferasirox
+in non-thalassemic patients with elevated ferritin levels after allogeneic hematopoietic stem cell transplantation. Bone Marrow
+Transplant. 2016;51(1):89-95.
+83. Bejar R, Stevenson KE, Caughey BA, et al. Validation of a prognostic
+model and the impact of mutations in patients with lower-risk
+myelodysplastic syndromes. J Clin Oncol. 2012;30(27):3376-3382.
+84. Park S, Hamel JF, Toma A, et al. Outcome of lower-risk patients with
+myelodysplastic syndromes without 5q deletion after failure of
+erythropoiesis-stimulating agents. J Clin Oncol. 2017;35(14):15911597.
+85. Fenaux P, Rose C. Impact of iron overload in myelodysplastic syndromes. Blood Rev. 2009;23(suppl 1):S15-S19.
+86. Crawford J, Cella D, Cleeland CS, et al. Relationship between changes
+in hemoglobin level and quality of life during chemotherapy in
+anemic cancer patients receiving epoetin alfa therapy. Cancer.
+2002;95(4):888-895.
+87. Roy NB, Myerson S, Schuh AH, et al. Cardiac iron overload in
+transfusion-dependent patients with myelodysplastic syndromes. Br J
+Haematol. 2011;154(4):521-524.
+88. Park S, Grabar S, Kelaidi C, et al. Predictive factors of response and
+survival in myelodysplastic syndrome treated with erythropoietin and
+G-CSF: the GFM experience. Blood. 2008;111(2):574-582.
+89. Jadersten M, Malcovati L, Dybedal I, et al. Erythropoietin and
+granulocyte-colony stimulating factor treatment associated with
+improved survival in myelodysplastic syndrome. J Clin Oncol.
+2008;26(21):3607-3613.
+90. Greenberg PL, Sun Z, Miller KB, et al. Treatment of myelodysplastic
+syndrome patients with erythropoietin with or without granulocyte
+colony-stimulating factor: results of a prospective randomized phase
+3 trial by the Eastern Cooperative Oncology Group (E1996). Blood.
+2009;114(12):2393-2400.
+91. Golshayan AR, Jin T, Maciejewski J, et al. Efﬁcacy of growth factors
+compared to other therapies for low-risk myelodysplastic syndromes.
+Br J Haematol. 2007;137(2):125-132.
+92. Fenaux P, Santini V, Spiriti MAA, et al. A phase 3 randomized, placebocontrolled study assessing the efﬁcacy and safety of epoetin-alpha in
+anemic patients with low-risk MDS. Leukemia. 2018;32(12):26482658.
+93. Santini V, Schemenau J, Levis A, et al. Can the revised IPSS predict
+response to erythropoietic-stimulating agents in patients with classical IPSS low or intermediate-1 MDS? Blood. 2013;122(13):22862288.
+94. Hellström-Lindberg E, Gulbrandsen N, Lindberg G, et al. A validated
+decision model for treating the anaemia of myelodysplastic syndromes with erythropoietin þ granulocyte colony-stimulating factor:
+signiﬁcant effects on quality of life. Br J Haematol. 2003;120(6):10371046.
+95. Kelaidi C, Park S, Brechignac S, et al. Treatment of myelodysplastic
+syndromes with 5q deletion before the lenalidomide era; the GFM
+experience with EPO and thalidomide. Leuk Res. 2008;32(7):10491053.
+96. List A, Dewald G, Bennett J, et al. Lenalidomide in the myelodysplastic
+syndrome with chromosome 5q deletion. N Engl J Med. 2006;355(14):
+1456-1465.
+97. Fenaux P, Giagounidis A, Selleslag D, et al. A randomized phase 3
+study of lenalidomide versus placebo in RBC transfusion-dependent
+patients with low-/intermediate-1-risk myelodysplastic syndromes
+with del5q. Blood. 2011;118(14):3765-3776.
+98. Rose C, Brechignac S, Vassilief D, et al. Does iron chelation therapy
+improve survival in regularly transfused lower risk MDS patients? A
+multicenter study by the GFM (Groupe Francophone des Myelodysplasies). Leuk Res. 2010;34(7):864-870.
+99. Sloand EM, Wu CO, Greenberg P, et al. Factors affecting response and
+survival in patients with myelodysplasia treated with immunosuppressive therapy. J Clin Oncol. 2008;26(15):2505-2511.
+100. Lim ZY, Killick S, Germing U, et al. Low IPSS score and bone marrow
+hypocellularity in MDS patients predict hematological responses to
+antithymocyte globulin. Leukemia. 2007;21(7):1436-1441.
+
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+101. Stahl M, DeVeaux M, de Witte T, et al. The use of immunosuppressive
+therapy in MDS: clinical outcomes and their predictors in a large
+international patient cohort. Blood Adv. 2018;2(14):1765-1772.
+102. Saunthararajah Y, Nakamura R, Wesley R, et al. A simple method to
+predict response to immunosuppressive therapy in patients with
+myelodysplastic syndrome. Blood. 2003;102(8):3025-3027.
+103. Silverman LR, McKenzie DR, Peterson BL, et al. Further analysis of
+trials with azacitidine in patients with myelodysplastic syndrome:
+studies 8421, 8921, and 9221 by the Cancer and Leukemia Group B.
+J Clin Oncol. 2006;24(24):3895-3903.
+104. Komrokji R, Swern AS, Grinblatt D, et al. Azacitidine in lower-risk
+myelodysplastic syndromes: a meta-analysis of data from prospective studies. Oncologist. 2018;23(2):159-170.
+105. Thépot S, Ben Abdelali R, Chevret S, et al. A randomized phase II trial
+of azacitidine þ/- epoetin-beta in lower-risk myelodysplastic syndromes resistant to erythropoietic stimulating agents. Haematologica. 2016;101(8):918-925.
+106. Raza A, Reeves JA, Feldman EJ, et al. Phase 2 study of lenalidomide in
+transfusion-dependent, low-risk, and intermediate-1 risk myelodysplastic syndromes with karyotypes other than deletion 5q. Blood.
+2008;111(1):86-93.
+107. Santini V, Almeida A, Giagounidis A, et al. Randomized phase III study
+of lenalidomide versus placebo in RBC transfusion-dependent patients with lower-risk non-del(5q) myelodysplastic syndromes and
+ineligible for or refractory to erythropoiesis-stimulating agents. J Clin
+Oncol. 2016;34(25):2988-2996.
+108. Komrokji RS, List AF. Lenalidomide for treatment of myelodysplastic
+syndromes. Curr Pharm Des. 2012;18(22):3198-3203.
+109. Fenaux P, Platzbecker U, Mufti GJ, et al. Luspatercept in patients with
+lower-risk myelodysplastic syndromes. N Engl J Med. 2020;382(2):
+140-151.
+110. FDA. FDA approves luspatercept-aamt for anemia in adults with MDS.
+United Stated Food and Drug Administration. Available at https://www.
+fda.gov/drugs/resources-information-approved-drugs/fda-approvesluspatercept-aamt-anemia-adults-mds. Accessed June 25, 2020.
+111. Hebbar M, Kaplan C, Caulier MT, et al. Low incidence of speciﬁc antiplatelet antibodies detected by the MAIPA assay in the serum of
+thrombocytopenic MDS patients and lack of correlation between
+platelet autoantibodies, platelet lifespan and response to danazol
+therapy. Br J Haematol. 1996;94(1):112-115.
+112. Bourgeois E, Caulier MT, Rose C, et al. Role of splenectomy in the
+treatment of myelodysplastic syndromes with peripheral thrombocytopenia: a report on six cases. Leukemia. 2001;15(6):950-953.
+113. Kantarjian H, Fenaux P, Sekeres MA, et al. Safety and efﬁcacy of
+romiplostim in patients with lower-risk myelodysplastic syndrome
+and thrombocytopenia. J Clin Oncol. 2010;28(3):437-444.
+114. Kantarjian HM, Fenaux P, Sekeres MA, et al. Long-term follow-up for
+up to 5 years on the risk of leukaemic progression in thrombocytopenic patients with lower-risk myelodysplastic syndromes treated
+with romiplostim or placebo in a randomised double-blind trial.
+Lancet Haematol. 2018;5(3):e117-e126.
+115. Oliva EN, Alati C, Santini V, et al. Eltrombopag versus placebo for lowrisk myelodysplastic syndromes with thrombocytopenia (EQoL-MDS):
+phase 1 results of a single-blind, randomised, controlled, phase 2
+superiority trial. Lancet Haematol. 2017;4(3):e127-e136.
+116. Davis BA, O’Sullivan C, Jarritt PH, et al. Value of sequential monitoring
+of left ventricular ejection fraction in the management of thalassemia
+major. Blood. 2004;104(1):263-269.
+117. Kirk P, Roughton M, Porter JB, et al. Cardiac T2* magnetic resonance
+for prediction of cardiac complications in thalassemia major. Circulation. 2009;120(20):1961-1968.
+118. Malcovati L, Germing U, Kuendgen A, et al. Time-dependent
+prognostic scoring system for predicting survival and leukemic
+evolution in myelodysplastic syndromes. J Clin Oncol. 2007;25(23):
+3503-3510.
+119. Malcovati L, Porta MG, Pascutto C, et al. Prognostic factors and life
+expectancy in myelodysplastic syndromes classiﬁed according to
+WHO criteria: a basis for clinical decision making. J Clin Oncol.
+2005;23(30):7594-7603.
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+155
+
+P. Fenaux et al.
+
+Annals of Oncology
+120. Jensen PD, Jensen FT, Christensen T, et al. Evaluation of myocardial iron
+by magnetic resonance imaging during iron chelation therapy with
+deferrioxamine: indication of close relation between myocardial iron
+content and chelatable iron pool. Blood. 2003;101(11):4632-4639.
+121. Neukirchen J, Fox F, Kundgen A, et al. Improved survival in MDS
+patients receiving iron chelation therapy e a matched pair analysis of
+188 patients from the Dusseldorf MDS registry. Leuk Res. 2012;36(8):
+1067-1070.
+122. Angelucci E, Li J, Greenberg P, et al. Iron chelation in transfusiondependent patients with low- to intermediate-1-risk myelodysplastic
+syndromes: a randomized trial. Ann Intern Med. 2020;172(8):513-522.
+123. Greenberg PL. Myelodysplastic syndromes: iron overload consequences and current chelating therapies. J Natl Compr Canc Netw.
+2006;4(1):91-96.
+124. Platzbecker U, Bornhauser M, Germing U, et al. Red blood cell transfusion dependence and outcome after allogeneic peripheral blood stem
+
+156
+
+https://doi.org/10.1016/j.annonc.2020.11.002
+
+cell transplantation in patients with de novo myelodysplastic syndrome
+(MDS). Biol Blood Marrow Transplant. 2008;14(11):1217-1225.
+125. Gattermann N, Finelli C, Porta MD, et al. Deferasirox in ironoverloaded patients with transfusion-dependent myelodysplastic
+syndromes: results from the large 1-year EPIC study. Leuk Res.
+2010;34(9):1143-1150.
+126. Cermak J, Jonasova A, Vondrakova J, et al. Efﬁcacy and safety of
+administration of oral iron chelator deferiprone in patients with
+early myelodysplastic syndrome. Hemoglobin. 2011;35(3):217227.
+127. Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant
+recipients. Clin Infect Dis. 2001;33(2):139-144 (adapted from:
+Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality
+standards for infectious diseases. Clin Infect Dis. 1994;1918:
+1421).
+
+Volume 32
+
+-
+
+Issue 2
+
+-
+
+2021
+
+

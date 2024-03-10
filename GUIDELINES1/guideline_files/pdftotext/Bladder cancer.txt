@@ -1,0 +1,1923 @@
+SPECIAL ARTICLE
+
+Bladder cancer: ESMO Clinical Practice Guideline for diagnosis, treatment
+and follow-up5
+T. Powles1, J. Bellmunt2, E. Comperat3, M. De Santis4, R. Huddart5, Y. Loriot6, A. Necchi7, B. P. Valderrama8, A. Ravaud9,10,
+S. F. Shariat11, B. Szabados1,12, M. S. van der Heijden13 & S. Gillessen14, on behalf of the ESMO Guidelines Committee*
+1
+
+Barts Cancer Centre, Barts Health NHS Trust, Queen Mary University of London, London, UK; 2Beth Israel Deaconess Medical Centre-IMIM Lab, Harvard Medical
+School, Boston, USA; 3L’Assistance Publique-Hôpitaux de Paris, Hôpital Tenon, Paris, France; 4Department of Urology, Charité Universitätsmedizin, Berlin, Germany;
+5
+Royal Marsden Hospital, Institute of Cancer Research, London, UK; 6Département de Médecine Oncologique, Université Paris-Saclay and Gustave Roussy, Villejuif,
+France; 7Vita-Salute San Raffaele University, Department of Medical Oncology, IRCCS San Raffaele Hospital, Milan, Italy; 8University Hospital Virgen del Rocio, Seville,
+Spain; 9Hôpital Saint-André CHU, Bordeaux; 10Department of Medical Oncology, Bordeaux University Hospital, Bordeaux, France; 11Department of Urology, Medical
+University of Vienna, Vienna General Hospital, Vienna, Austria; 12Department of Urology, University College London Hospital, London, UK; 13Department of Medical
+Oncology, The Netherlands Cancer Institute, Amsterdam, The Netherlands; 14Oncology Institute of Southern Switzerland (IOSI), EOC, Lugano, Switzerland
+
+Available online 30 November 2021
+
+Key words: immune checkpoint inhibitors, ﬁbroblast growth factor receptor inhibitors, antibody drug conjugates,
+bladder cancer, urothelial carcinoma, platinum-based chemotherapy
+
+INCIDENCE AND EPIDEMIOLOGY
+Urothelial carcinoma (UC), also described as bladder cancer,
+is the 10th most common cancer type worldwide, with an
+estimated 549 000 new cases and 200 000 deaths in 2018.
+The highest incidence rates in Europe are observed in
+Southern Europe, e.g. Greece (5800 new cases and 1537
+deaths in 2018), Spain and Italy, and Western Europe, e.g.
+Belgium and the Netherlands.1 The most important risk
+factor for developing bladder cancer is tobacco smoking,
+which accounts for w50% of cases,2 followed by occupational exposure to aromatic amines and ionising radiation.3
+DIAGNOSIS AND PATHOLOGY/MOLECULAR BIOLOGY
+Diagnosis
+Painless haematuria is the most common presenting
+symptom in bladder cancer and should be investigated in all
+cases. Other common symptoms include dysuria, increased
+frequency and/or urgency (Figure 1). Bladder ultrasonography or cross-sectional imaging can identify an
+intraluminal mass in the bladder, but the ﬁnal diagnosis is
+based on cystoscopic examination of the bladder and
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via
+Ginevra 4, 6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5
+Note: Approved by the ESMO Guidelines Committee: November 2021. This
+publication supersedes the previously published versiondAnn Oncol. 2014;
+25(suppl 3):iii40-iii48.
+0923-7534/© 2021 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+
+244
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+histological evaluation of the tissue obtained either with
+cold-cup biopsy or transurethral resection of the bladder
+tumour (TURBT). Complete resection of all tumour tissue
+should be achieved when possible. The presence of lamina
+propria and detrusor muscle in the resected specimen is
+essential for accurate staging in most cases. Concurrent
+carcinoma in situ (CIS) is an adverse prognostic factor;4
+hence, bladder biopsies from suspicious urothelium or
+mapping biopsies from normal-looking mucosa in patients
+with positive urine cytology, or a history of high-grade (HG)
+non-muscle-invasive bladder cancer (NMIBC) should be
+taken.5 In patients with high-risk NMIBC (described in
+Table 1), and in particular those with CIS, upper tract
+imaging should be carried out to screen for synchronous
+upper urinary tract urothelial carcinoma (UTUC). Computed
+tomography (CT) urography or magnetic resonance imaging
+(MRI) urography is used to detect papillary tumours in the
+urinary tract.6 The management of bladder cancer is based
+on the pathological ﬁndings of the biopsy, with attention to
+histology, grade and depth of invasion (Table 1).
+Muscle-invasive bladder cancer (MIBC) should be staged
+according to the Union for International Cancer Control
+(UICC) TNM (tumourenodeemetastasis) eighth edition and
+the American Joint Committee on Cancer (AJCC) TNM
+staging systems and should be grouped into categories
+(Supplementary Tables S1 and S2, available at https://doi.
+org/10.1016/j.annonc.2021.11.012).
+Pathology/molecular biology
+Pathological diagnosis should be made according to the
+World Health Organization (WHO) 2016 classiﬁcation
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+T. Powles et al.
+
+Annals of Oncology
+
+Presentation
+1. Painless haematuria (80% of patients)
+2. Irritative symptoms [e.g. dysuria, frequency, urgency (invasive or high-grade tumours)]
+3. Bone pain (suspected bone metastatis) or flank pain (from retroperitoneal metastases or
+ureteral obstruction)
+
+Work-up
+History and physical examination
+Cystoscopic evaluation including biopsy or TURBT with bimanual examination
+Urine cytology
+Blood work (haematology and biochemistry)
+Upper urinary tract imaging, mainly CT urogram, alternatively intravenous or
+retrograde pyelogram (to exclude 2.5% of patients who have synchronous
+upper tract urothelial cancer)
+6. Metastatic work-up in patients with high risk of metastases (CT chest, abdomen
+and pelvis, liver function tests)
+1.
+2.
+3.
+4.
+5.
+
+Staging and gradinga
+
+Management of organ-confined disease
+
+Management of metastatic disease
+
+Figure 1. Diagnostic work-up of patient with suspected bladder cancer.
+CT, computed tomography; TURBT, transurethral resection of the bladder tumour.
+a
+See Supplementary Tables S1 and S2, available at https://doi.org/10.1016/j.annonc.2021.11.012.
+
+(Supplementary Table S3, available at https://doi.org/10.
+1016/j.annonc.2021.11.012).7
+Approximately 75% of patients with bladder cancer
+present with NMIBC pTa-pT1, pTis).3 The majority of
+patients with MIBC (pT2a-pT4b) are diagnosed with primary
+invasive bladder cancer and up to 15% of patients have a
+previous history of NMIBC, almost exclusively high-risk
+NMIBC.3 All MIBCs are considered as HG.
+TURBT or bladder biopsy only allow for staging up to T2.
+Clinical T3 or T4 disease is identiﬁed by bimanual exam
+under anaesthesia and/or cross-sectional imaging. NMIBC is
+graded as low grade (LG) or HG according to the latest WHO
+2016 criteria.
+Ninety percent of carcinomas of the upper and lower
+urothelial tract are UCs, with or without other variants
+(Supplementary Table S3, available at https://doi.org/10.
+1016/j.annonc.2021.11.012). The percentage of the variant
+morphology should be given in the pathological report. If the
+squamous or adenocarcinoma part is >95%, the UC should be
+considered as a pure squamous/adenocarcinoma. The
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+variant histology group comprises nested carcinoma, large
+nested, microcystic, micropapillary, lymphoepithelioma-like,
+plasmacytoid/signet ring cell/diffuse, sarcomatoid, giant
+cell, poorly differentiated, lipid rich and clear-cell UC, all of
+which are of urothelial origin.7 Small-cell/neuroendocrine
+subtypes should be speciﬁed when they are present and
+the percentage should be noted.
+Urine cytology can facilitate the diagnosis of HG UC but
+should not be used as the primary method of histological
+diagnosis. It has a high sensitivity in HG tumours including
+CIS (84%), but low sensitivity in G1/LG tumours (16%).8
+Further molecular diagnosis is being investigated in the
+advanced disease setting, but its role has yet to be clearly
+deﬁned. Oncogenic alterations [e.g. ﬁbroblast growth factor
+receptor (FGFR) DNA alterations] and other forms of
+immuno-oncology therapy biomarker testing, such as
+programmed death-ligand 1 (PD-L1) expression, are being
+used for patient selection. Multiple methodologies exist for
+biomarker measurement and clinicians should follow
+European Medicines Agency (EMA) guidance for PD-L1,
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+245
+
+T. Powles et al.
+
+Annals of Oncology
+Table 1. Risk group stratiﬁcation of patients with NMIBC and treatment recommendations
+Risk group
+stratiﬁcation
+
+Characteristics
+
+Treatment recommendations
+
+Low-risk tumours
+
+Primary, solitary, Ta G1 (PUNLMP, LG), <3 cm, no CIS
+
+Intermediate-risk
+tumours
+
+All tumours not deﬁned in the two adjacent
+categories (between the category of low and
+high risk)
+
+High-risk tumours
+
+Any of the following:
+ T1 tumour
+ G3, HG tumour
+ CIS
+ Multiple, recurrent and large (>3 cm)
+Ta G1-G2/LG tumours (all features must be present)
+ T1 G3/HG associated with concurrent bladder CIS
+ Multiple and/or large T1 G3/HG and/or recurrent
+T1 G3/HG, T1 G3/HG with CIS in the prostatic urethra
+ Some forms of variant histology of urothelial
+carcinoma, lymphovascular invasion
+
+One immediate instillation of intravesical ChT after TURBT [I, A]
+followed by cystoscopic surveillance
+In patients with previous low recurrence rate (less than or
+equal to one recurrence per year) and expected EORTC
+recurrence score <5, one immediate instillation of intravesical
+ChT after TURBT [IV, C]
+In all patients, either:
+ instillations of ChT for a maximum of 1 year [I, A]
+Or
+ one-year full-dose BCG treatment (induction plus 3-weekly
+instillations at 3, 6 and 12 months) [I, A]
+Full-dose BCG instillations for 1-3 years or radical cystectomy
+[I, A]
+
+Subgroup of
+highest-risk tumours
+
+Radical cystectomy or BCG induction and 3 years of
+maintenance if achievable [I, A]
+
+BCG, bacillus Calmette-Guerin; ChT, chemotherapy; CIS, carcinoma in situ; EORTC, European Organisation for Research and Treatment of Cancer; G, grade; HG, high grade; LG, low
+grade; NMIBC, non-muscle-invasive bladder cancer; PUNLMP, papillary urothelial neoplasm of low malignant potential; TURBT, transurethral resection of the bladder tumour.
+
+linking speciﬁc biomarkers methods with speciﬁc agents.
+Molecular diagnostics such as molecular subtype
+classiﬁcation, FGFR and PD-L1 status are not routinely
+required [IV, C]. Molecular subtype analysis does not
+currently have a role in treatment selection. Genomic
+testing (PCR- or next-generation sequencing-based)
+should be used for detection of FGFR2/3 mutations and
+fusions.9,10 A personalised medicine synopsis is shown in
+Supplementary Table S4, available at https://doi.org/10.
+1016/j.annonc.2021.11.012.
+Recommendations
+ Painless haematuria is the most common presenting
+symptom in bladder cancer and should in all cases be
+investigated [IV, A].
+ The diagnosis of bladder cancer is based on cystoscopic
+examination of the bladder and histological evaluation
+of tissue obtained either with cold-cup biopsy or
+TURBT. Complete resection of all tumour tissue should
+be achieved when possible. Muscle tissue should be
+included in the biopsies, except when a Ta/LG is expected
+[IV, A].
+ Cross-sectional upper tract imaging (CT/MRI urography)
+is recommended to screen for synchronous UTUC, in
+cases of HG bladder cancer [IV, B].
+ Pathological diagnosis should be made according to
+latest WHO classiﬁcation [IV, A].
+ In addition to stage and grade, presence and
+percentage of variant histology, lymphovascular invasion
+and presence of detrusor muscle should be reported
+[IV, A].
+ Urine cytology can facilitate the diagnosis of HG UC but
+cannot be used as the primary method of histological diagnosis [IV, B]. The Paris system should be used for reporting.
+246
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+ Molecular diagnostics such as The Cancer Genome Atlas
+(TCGA) classiﬁcation and PD-L1 status are not required
+for all tumours [IV, C].
+STAGING AND RISK ASSESSMENT
+Staging of NMIBC
+A scoring system and risk assessment table has been
+developed to predict 1- and 5-year disease recurrence and
+progression in patients with Ta-T1 disease, using the WHO
+1973 grading system.11 An updated model has been
+developed for patients with Ta-T1 bladder cancer, treated
+with 1-3 years of bacillus Calmette-Guerin (BCG)
+maintenance. Patients with CIS alone were not included.
+The scoring system takes into account the number and size
+of tumours resected, depth of invasion, prior recurrences,
+presence of CIS and grade of the tumours after TURBT.
+Based on the above, the European Association of Urology
+classiﬁed the patients into four risk categories: low-risk,
+intermediate-risk, high-risk and very-high-risk tumours
+(Table 1), which constitutes the basis for treatment and
+follow-up recommendations in NMIBC [IV, B]. Patients with
+NMIBC have a heterogeneous prognosis. While patients
+with high-risk NMIBC suffer from a high recurrence rate (up
+to 50% at 5 years), they also have a low progression rate
+(<5% at 5 years). Those with T1/HG (grade 3) do poorly,
+with 1- and 5-year disease progression rates with 11% and
+20%, respectively. Cancer-speciﬁc 5-year survival for these
+patients is >90%.12,13
+Regional and distant staging of invasive bladder cancer
+If muscle invasion has been conﬁrmed, regional and
+distant staging should be carried out with further imaging
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+T. Powles et al.
+
+Annals of Oncology
+
+studies such as contrast-enhanced CT of the chest,
+abdomen and pelvis or MRI of the abdomen and pelvis
+(with CT of the chest). The risk of lymph node (LN)
+metastasis increases proportionally with advancing local
+tumour stage.14,15 Both tests can be used to assess
+extravesical invasion but are often unable to reliably
+differentiate between T stages. Imaging is recommended
+before TURBT. Both tests are useful to detect enlarged LNs,
+but have low sensitivity (48%-87%) and speciﬁcity for the
+detection of LN metastasis.16,17 Overall, pelvic nodes >8
+mm and abdominal nodes >10 mm in maximum short-axis
+diameter, detected by CT or MRI, should be considered as
+suspicious for LN metastasis.18,19 MRI generally is more
+accurate for determining depth of invasion and is
+recommended when imaging deﬁnition of stage of
+invasion is important. A scoring system for deﬁning muscle
+invasion has been proposed (VI-Rads) with some accuracy,
+with a sensitivity and speciﬁcity of 0.83 [95% conﬁdence
+interval (CI) 0.70-0.90] and 0.90 (95% CI 0.83-0.95),
+respectively.20,21 A chest-abdomen-pelvis CT should also be
+carried out for staging of potential distant metastatic
+disease [III, A]. The authors did not reach a consensus on
+the role of [18F]2-ﬂuoro-deoxy-D-glucose positron emission
+tomography (FDG-PET)-CT in MIBC. Despite inconsistencies
+in sensitivity (23%-89%), FDG-PET-CT seems to have a high
+speciﬁcity (81%-100%) for LN staging.22
+Recommendations
+ Patients with NMIBC are classiﬁed into four risk
+categories based on tumour characteristics (low risk,
+intermediate risk, high risk and very-high-risk; Table 1),
+which constitutes the basis for treatment and follow-up
+recommendations [IV, B].
+ In patients with invasive disease (T1), regional and distant
+staging should be carried out with further imaging studies
+such as contrast-enhanced CT of chest-abdomen-pelvis or
+MRI of abdomen/pelvis combined with chest CT [IV, B].
+FDG-PET-CT may aid in the detection of LN and distant
+metastases [IV, C], but no clear consensus was reached.
+MANAGEMENT OF LOCAL/LOCOREGIONAL DISEASE
+
+signiﬁcantly reduces the 5-year recurrence rate compared
+with TURBT alone (59% versus 45%).23 The rate of
+progression is negligible (<2% at 5 years).13
+In patients with intermediate-risk NMIBC, additional
+courses of intravesical therapy are recommended to reduce
+risk of recurrence [I, A]. This can consist of either:
+1. Instillations of ChT for a maximum of 1 year.
+Or
+2. 12 months of BCG instillation therapy (induction therapy
+with six BCG instillations at weekly intervals, followed by
+maintenance therapy with three BCG instillations each
+at 3, 6 and 12 months after the start of the induction
+cycle) is recommended [I, A]. In trials with BCG
+therapy (induction and maintenance therapy) in
+intermediate- and high-risk NMIBC, there was a 32%
+reduction in the risk of recurrence (P < 0.0001) for
+BCG compared with MMC. However, no statistically
+signiﬁcant difference was observed in progression rate
+between the two groups.24
+In patients with high-risk NMIBC, full-dose intravesical BCG
+for 1-3 years (at least 1 year) is recommended [I, A].
+Three-year maintenance is more effective than 1 year to
+prevent recurrences.25 Induction consists of weekly instillations for 6 weeks while maintenance consists of weekly
+instillations for 3 weeks. Instillations at 3, 6, 12, 18, 24, 30 and
+36 months are recommended [I, A]. The 3-year maintenance
+BCG schedule signiﬁcantly reduces the risk or recurrence
+compared with 1-year maintenance [hazard ratio (HR) for 1
+versus 3 years: 1.61, 95% CI 1.13-2.30, P ¼ 0.01] in patients
+with high-risk tumours. This beneﬁt of 3-year therapy does
+not occur for patients with intermediate-risk tumours.25
+In patients with high-risk NMIBC, there is a signiﬁcant risk
+of residual disease after initial TURBT.26 Therefore, a second
+resection should be carried out 4-6 weeks after the ﬁrst
+resection when:
+ The initial TURBT was incomplete.
+ If there is no detrusor muscle in the specimen on the
+initial resection, except for Ta LG and CIS.
+ In all pT1 tumours and all HG tumours, except for
+patients with primary CIS [I, A].
+
+Treatment of NMIBC
+
+The second TURBT should include a resection of the
+previous tumour site.
+
+Optimal treatment of NMIBC is the complete removal of all
+visible lesions in the bladder, followed by intravesical
+instillations or early radical cystectomy (RC), according to risk
+stratiﬁcation described in the preceding text [I, A] (Figure 2,
+Table 1, Supplementary Table S5, available at https://doi.
+org/10.1016/j.annonc.2021.11.012). If available, improved
+tumour visualisation techniques (ﬂuorescence cystoscopy,
+narrow-band imaging) during TURBT are recommended.
+In patients with low-risk NMIBC and those with small
+papillary recurrences, detected >1 year after the previous
+tumour, single, immediate, intravesical chemotherapy (ChT)
+instillation, such as mitomycin C (MMC), is recommended
+[I, A], in combination with continued cystoscopic
+surveillance. Immediate, intravesical ChT instillation
+
+Treatment after failure of BCG therapy. The deﬁnition of
+failure after BCG therapy is important to identify
+patients who are unlikely to respond to further BCG
+therapy. In patients with very-high-risk NMIBC, these
+recommendations apply, except in those in whom early RC
+is planned. Early RC should be considered and discussed
+with all very-high-risk NMIBC cases. The ﬁnal choice is made
+based on a shared decision-making process between
+patient and physician.
+BCG failure is divided into the following four types:27
+1. BCG-refractory:
+ persistent HG disease at 6 months despite adequate
+BCG treatment; OR
+
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+247
+
+T. Powles et al.
+
+Annals of Oncology
+
+Non-muscle-invasive disease
+
+Muscle-invasive disease
+
+If suspected low-risk tumour:
+one immediate instillation of
+intravesical ChT after TURBT [I, A]
+
+Unfit for
+cisplatin-based ChT
+
+Low risk
+
+Intermediate risk
+
+High risk
+
+Very high risk or
+BCG unresponsive
+
+Cystoscopic
+surveillance
+
+Cystoscopic surveillance
++ intravesical instillations
+(e.g. 12 months BCG)
+[I, A]
+
+Cystoscopic surveillance
++ intravesical instillations
+(e.g. 36 months BCG)
+[I, A]
+
+Offer radical cystectomy
+[III, B]
+
+Fit for
+cisplatin-based ChT
+
+3-4 cycles cisplatinbased ChT [I, A]
+
+Radical cystectomy with pelvic lymphadenectomy [I, A]
+Multimodality bladder-sparing treatments [II, B]
+
+Risk- and treatment-adapted follow-up
+
+Figure 2. Management of patients with histopathologically conﬁrmed bladder cancer.
+Purple: general categories or stratiﬁcation; red: surgery; blue: systemic anticancer therapy; turquoise: combination of treatments or other systemic treatments;
+white: other aspects of management.
+BCG, bacillus Calmette-Guerin; ChT, chemotherapy; TURBT, transurethral resection of the bladder tumour.
+
+ stage progression at 3 months after adequate BCG induction (i.e. HG T1 at 3 months after initial CIS or HG Ta).
+2. BCG-relapsing: recurrence of HG disease after achieving
+a disease-free state at 6 months after adequate BCG.
+3. BCG-intolerant: disease persistence as a result of
+inability to receive adequate BCG because of toxicity.
+4. BCG-unresponsive: combination of BCG-refractory and
+BCG-relapsing within 6 months of last BCG.
+RC should be carried out in HG tumours (T1/HG, Ta/HG,
+CIS) that are unresponsive to BCG due to the high risk of
+progression [III, B]. Thermo-ChT can be offered as an
+alternative, only in patients unwilling or unable to have RC
+and can obtain 2-year disease-free survival (DFS) in 47% of
+patients.28 BCG re-induction achieved similar disease
+control to thermo-ChT in a randomised trial [II, B]29 and can
+be considered as an alternative.
+The immune checkpoint inhibitor (ICI) pembrolizumab
+given intravenously was evaluated in a single-arm phase II
+trial (KEYNOTE-057), in patients with BCG-unresponsive
+NMIBC with CIS who were ineligible for or elected not to
+undergo RC (n ¼ 102).30 At 3 months, the study showed a
+complete response (CR) rate of 41% (95% CI 31%-51%) in 96
+patients with high-risk NMIBC with CIS with or without
+papillary tumours, and a median duration of response of 16.2
+months (range: 0.0-30.4). Intravenous pembrolizumab can be
+considered in patients with BCG-unresponsive disease who
+are not ﬁt for or refuse RC [III, C]. More robust data are
+required before stronger recommendations can be made.
+Intravesical nadofaragene ﬁradenovec therapy [not Food
+and Drug Administration (FDA) or EMA approved as of
+November 2021] has also been studied in BCG-refractory
+NMIBC with CIS (n ¼ 103; 53% CR at 3 months; 24% CR
+at 12 months) [III, C].31 These data have the same
+recommendations as pembrolizumab in this population.
+248
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+Treatment of MIBC
+Multidisciplinary care via tumour board discussions and/or
+directed consultations with a medical oncologist, radiation
+oncologist and urologist is recommended for the optimal
+management of bladder cancer [IV, B].
+Radical cystectomy. RC with pelvic lymph node dissection
+(PLND) is the standard treatment of MIBC cT2-T4a, N0 M0 [I,
+A].32 RC with PLND is strongly recommended in very-highrisk and BCG-unresponsive NMIBC (Figure 2). A continent
+orthotopic (neobladder), continent cutaneous (catheterisable pouch) or incontinent cutaneous (conduit) reconstructions are chosen based on patient’s general health
+and wishes.33 A neobladder can be offered to patients
+lacking any contraindications and who have no tumour in
+the urethra or at the level of urethral dissection [IV, C].
+Standard PLND is deﬁned as the removal of all lymphatic
+tissues around the common iliac, external iliac, internal iliac
+and obturator regions up to the crossing of the ureters over
+the common iliac vessels at a minimum.34,35 Extended
+lymphadenectomy includes lymphatic tissues in the region
+of the aortic bifurcation and presacral and common iliac
+vessels above the crossing ureters, in addition to the standard PLND region. The optimal extent of PLND is not
+established to date. In a recent prospective phase III,
+randomised trial, extended PLND failed to show a
+signiﬁcant advantage in absolute improvement of 5-year
+recurrence-free survival compared with standard PLND,
+though the study suffered from many limitations.36
+Patients with radiological suspicious node-positive
+disease (cN1) can be considered for surgery37 (with or
+without neoadjuvant ChT) [IV, B]. Patients with clinical node
+positivity beneﬁt from preoperative platinum-based ChT
+followed by RC plus PLND.38-40 Overall, the number of
+positive LNs is signiﬁcantly associated with increased risk of
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+T. Powles et al.
+
+Annals of Oncology
+
+cancer-speciﬁc death (HR 1.9, 95% CI 1.04-3.46 for N1
+disease; HR 4.3, 95% CI 2.25-8.34 for 2 LNs).41
+Organ-preservation therapy. Organ-preservation therapy
+for MIBC is a reasonable option for patients seeking an
+alternative to RC and for those who are medically unﬁt for
+surgery (Figure 2) [II, B]. Contemporary protocols utilise
+aggressive TURBT alone, TURBT plus radiotherapy (RT),
+TURBT plus ChT or a tri-modality combination of TURBT plus
+RT and ChT, the latter being preferred [II, B]. There
+are multiple patient- and tumour-related factors which
+contribute to the selection of trimodal therapy versus RC.
+The ideal patient for trimodal therapy has a tumour that
+can undergo a visible complete resection, has no associated
+hydronephrosis, does not invade the prostatic urethra and
+is not associated with diffuse CIS throughout the bladder.
+Select patients who do not meet all these criteria can still
+be successfully treated with this approach. The initial
+prospective, randomised comparison of RT alone versus
+concomitant chemoradiotherapy (CRT) demonstrated
+improved local control rate when cisplatin was given with
+RT (HR 0.50, 90% CI 0.29-0.86) [II, B].42 A second trial
+showed that hypoxic sensitisation with carbogen and
+nicotinamide (bladder carbogen nicotinamide) reduced the
+risk of relapse (54% versus 43% with RT alone) and death
+[II, B].43 A third randomised trial (BC2001) demonstrated
+improved results for CRT using the combination of
+5-ﬂuorouracil and MMC in terms of locoregional survival
+(67%) and DFS (54%) [I, A].44 A multidisciplinary approach
+including urologists, medical oncologists and radiation
+oncologists is necessary. A cystoscopy with bladder biopsy is
+mandatory for response evaluation either midway through
+treatment or 2-3 months thereafter. If persistent or recurrent muscle-invasive disease is observed at response evaluation or during follow-up (cystoscopy and urinary cytology
+every 3 months during the ﬁrst 2 years, and every 6 months
+thereafter), prompt RC is recommended when possible [II,
+A]. NMIBC recurrences can occur in up to one-fourth of
+patients after completion of trimodal therapy, with many
+being treated by routine and standard therapy for NMIBC.
+In this population after trimodal therapy, however, early
+salvage RC should be considered in those with adverse
+features, including T1 disease, tumour >3 cm, CIS or
+lymphovascular invasion. The 5-year cancer-speciﬁc survival
+and overall survival (OS) rates range from 50% to 82% and
+from 36% to 74%, respectively, with salvage RC rates of
+w20% for studies with a follow-up >5 years.45,46 The
+pooled rate of non-response to trimodal therapy and local
+recurrence after trimodal therapy, the two primary reasons
+for salvage RC, is approximately 16% and 29%, respectively.46 Salvage RC can be carried out for local recurrences
+with acceptable oncological control and no clear evidence
+of any greater risk of early complications; however, there
+may be a slightly increased risk for late complications,
+namely small bowel obstruction, ureteral stricture and
+parastomal hernia. The pooled rates of 5- and 10-year DFS
+after salvage RC have been estimated at 54% and 46%,
+respectively.46,47 Trimodal therapy with other sensitising
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+agents has been investigated in series from single-centre
+cooperative groups and meta-analysis [III, B]. There are
+clinical activity and acceptable outcome data. Patient
+selection may play a role in these outcomes. Cross-trial
+comparisons with RC should be avoided due to biases
+arising from patient selection and follow-up.45,48-51
+Neoadjuvant and adjuvant therapy. The use of cisplatinbased neoadjuvant ChT for bladder cancer is supported by
+a meta-analysis of 11 randomised trials of 3005 patients
+[I, A] (HR 0.86, 95% CI 0.77-0.95), which translated to a 5%
+absolute increase in 5-year OS and a 9% absolute increase in
+5-year DFS compared with cystectomy alone.52 There is a
+lack of clarity about the optimal regimen.
+Cisplatinegemcitabine or accelerated methotrexate,
+vinblastine, adriamycin and cisplatin (MVAC) are the most
+widely given neoadjuvant ChT regimens and can be
+recommended [III, B].53-55 There is also a lack of clarity on
+the number of cycles to be given. Three cycles were given in
+the original positive randomised phase III study, although
+most regimens/physicians currently administer four cycles.56
+Pure squamous cell or adenocarcinoma MIBC should be
+treated with primary RC [IV, B].57 MIBC with small-cell
+neuroendocrine variant should be treated with neoadjuvant ChT followed by consolidating local therapy [IV,
+B].57 A recent consensus meeting recommended cystectomy
+without neoadjuvant ChT for micropapillary disease, while
+data show no difference in response rates (RRs) compared
+with pure UC [IV, B].57,58 Phase II data exist for neoadjuvant
+ICI therapy and they are not currently recommended in
+cisplatin-eligible or -ineligible patients [III, B].59,60 There is no
+role for adjuvant treatment (ChT or RT) for those who have
+received neoadjuvant ChT. These patients have been
+included in the adjuvant immunotherapy trials.
+Adjuvant cisplatin-based ChT in patients who did not
+receive neoadjuvant therapy remains an area of debate.
+There are no published positive randomised, phase III
+studies for survival. An updated meta-analysis of nine
+randomised trials including 945 patients found an OS
+beneﬁt (HR 0.77, 95% CI 0.59-0.99) and DFS beneﬁt
+(HR 0.66, 95% CI 0.45-0.91) among those who received
+cisplatin-based adjuvant ChT versus observation [II, B].61
+Subsequently, a randomised trial [European Organisation
+for Research and Treatment of Cancer (EORTC) 30994]
+reported a signiﬁcant beneﬁt of cisplatin-based ChT for DFS
+(HR 0.54, 95% CI 0.4-0.73) compared with observation.62 A
+statistically signiﬁcant OS beneﬁt was not shown (adjusted
+HR 0.78, 95% CI 0.56-1.08) possibly due to insufﬁcient
+recruitment. Adjuvant ChT in cisplatin-unﬁt patients is not
+recommended [I, D].
+Adjuvant atezolizumab for 1 year versus observation did
+not improve DFS or OS in a large (n ¼ 809) randomised
+study for high-risk UC [HR for DFS 0.89 (95% CI 0.74-1.08)63
+and HR for OS 0.85 (95% CI 0.66-1.09)]. There was no
+enrichment for outcome with the PD-L1 biomarker.
+Adjuvant atezolizumab is not recommended.
+Adjuvant nivolumab for 1 year versus placebo showed
+improved DFS of 0.70 (95% CI 0.54-0.89; median follow-up
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+249
+
+T. Powles et al.
+
+Annals of Oncology
+of 20.9 months). There were also positive results in the 26%
+of patients who were PD-L1-positive [DFS 0.53 (95% CI
+0.34-0.84)]. OS (a secondary endpoint) has not yet been
+presented.64 17.9% grade 3 or more treatment-related
+adverse events occurred in the nivolumab arm. These
+results are promising, especially in the biomarker-positive
+population. Due to the inconsistency across trials and
+uncertainty of the relationship between DFS and OS with
+immunotherapy, OS results are awaited before this
+treatment can be recommended [I, D].
+Recommendations
+Treatment of NMIBC
+ Treatment of NMIBC should follow a risk-stratiﬁed
+approach with TURBT and intravesical ChT or BCG in
+intermediate- and high-risk patients [I, A].
+ Subsets of patients with very-high-risk disease should be
+offered RC. RC should be carried out in CIS or HG T1 that
+are unresponsive to BCG due to the high risk of
+progression [III, B].
+ In patients who are BCG-unresponsive and -ineligible
+for or refuse cystectomy, pembrolizumab or nadofaragene ﬁradenovec can be considered; however, more
+robust data are required before stronger recommendations can be made for these and other bladder-sparing
+approaches in BCG-unresponsive disease [III, C]. A
+multidisciplinary approach is required for these patients
+[IV, C].
+Treatment of MIBC
+ Multidisciplinary care via tumour board discussions
+and/or directed consultations with a medical oncologist,
+radiation oncologist and urologist is recommended for
+the optimal management of bladder cancer [IV, B].
+ RC with standard PLND is the standard treatment of
+MIBC T2-T4a, N0 M0 [I, A].
+ Patients with radiological suspicious node-positive disease (cN1) can be considered for surgery but should be
+considered for preoperative platinum-based ChT [IV, B].
+ Organ-preservation therapy with RT, as part of
+multimodal schema for MIBC, is a reasonable option
+for patients seeking an alternative to RC and an option
+for those who are medically unﬁt for surgery [II, B].
+ Contemporary organ-preservation protocols should utilise
+tri-modality combination of TURBT, RT and ChT [II, B].
+ Palliative RT can be offered for palliation (bleeding, pain)
+[III, C].
+ Adjuvant RT (with or without radiosensitising ChT) is not
+standard treatment of patients with MIBC [III, C].
+ Three to four cycles of cisplatin-based neoadjuvant ChT
+should be given for MIBC [I, A]. Cross-sectional imaging
+should occur after ChT before RC [IV, B].
+ There is weak evidence to support the use of adjuvant
+cisplatin-based ChT in patients who did not receive neoadjuvant therapy [II, B]. Neoadjuvant ChT is preferred.
+ Inconsistent results exist for adjuvant ICIs in UC [I, A]. An
+OS advantage is needed before it can be recommended
+as standard therapy [I, D].
+250
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+MANAGEMENT OF ADVANCED/METASTATIC DISEASE
+Advanced or metastatic UC in patients ﬁt enough to
+tolerate cisplatin-based combination ChT
+Cisplatin-containing combination ChT is standard in
+advanced or metastatic patients ﬁt enough to tolerate
+cisplatin (Figure 3). A number of cisplatin-containing ChT
+regimens are acceptable although gemcitabineecisplatin
+[I, A] is the most widely used.65 Dose-dense MVAC [I, B],
+MVAC with granulocyte colony-stimulating factor [I, B] and
+gemcitabine, cisplatin and paclitaxel [I, C] have been tested
+against gemcitabine and cisplatin.66-68 Although these
+alternative regimens may lack proven advantages over
+gemcitabine and cisplatin, similar results are reported and
+either can be considered as an option in selected patients.
+New treatments which build on the gemcitabineeplatinum
+backbone will require clinically meaningful progression-free
+survival (PFS) advantages, signiﬁcant OS or non-inferiority
+with better tolerability to be recommended. For these
+reasons, gemcitabine, cisplatin and bevacizumab regimen is
+not recommended.69,70 The combination of platinum-based
+ChT with ICIs has not resulted in positive signiﬁcant survival
+advantages and is not currently recommended.71 Potential
+beneﬁts in other endpoints such as PFS are modest. Final
+results for atezolizumab with ChT are awaited.72 There is
+currently no role for ICI therapy alone in this population.73
+Advanced or metastatic UC in patients not eligible for
+cisplatin-based combination ChT
+Carboplatin-based ChT is recommended in patients unﬁt for
+cisplatin [I, A]. Criteria for these have been deﬁned.74
+Carboplatin with gemcitabine is the preferred regimen
+[II, B].75 Gemcitabine and cisplatin can be considered for
+patients otherwise ﬁt without comorbidities, a good
+performance status (0-1) and a creatine clearance between
+50 and 60 ml/min [III, B].76,77 This alternative has been
+established over time as a standard treatment and can,
+therefore, be supported despite a lack of robust data. A
+recent randomised trial evaluated the safety of split-dose
+cisplatin due to renal toxicity;78 the authors did not reach
+consensus on its role. Six cycles of ChT are considered the
+standard of care, although fewer cycles are acceptable, with
+cumulative toxicity.79
+Pembrolizumab or atezolizumab are alternative choices
+for patients who are PD-L1-positive and not eligible for
+cisplatin-based ChT, although randomised trials, which have
+reported, failed to show signiﬁcant superiority compared
+with ChT [III, B] (ﬁnal results are awaited for atezolizumab)
+(Supplementary Table S6, available at https://doi.org/10.
+1016/j.annonc.2021.11.012).73,80 In exploratory analyses,
+the OS HR for pembrolizumab and atezolizumab versus
+gemcitabine and carboplatin in this subset of biomarker
+positives was 0.82 (95% CI 0.57-1.17) and 0.53 (95% CI
+0.30-0.94), respectively. Final OS results for the
+atezolizumab study are awaited. Biomarkers (SP142 for
+atezolizumab; 22C3 for pembrolizumab) should be used to
+match the drug, as recommended by the EMA.72,81
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+T. Powles et al.
+
+Annals of Oncology
+
+Treatment-naive advanced or metastatic urothelial cancer (stage IV)
+
+Cisplatin-eligible
+
+Cisplatin-ineligible and PD-L1unknown or -negativea
+
+Cisplatin-ineligible and
+PD-L1-positivea
+
+Cisplatin-based ChT [I, A]b
+
+Gemcitabine–carboplatin [II, B]b
+
+Atezolizumab or
+pembrolizumab [III, B]
+
+Disease progressionc
+
+No disease progressiond
+
+Maintenance avelumab in those
+tumours not progressing on
+ChT [I, A; MCBS 4]e
+
+Pembrolizumab [I, A; MCBS 4]e
+Other ICI e.g. atezolizumab
+[II, B–III, C]
+Erdafitinib [III, B]f,g
+ChT [II, C]h,i,j
+
+Disease
+progression
+
+Disease progression
+
+Disease progression
+
+Enfortumab–vedotin
+[I, A; MCBS 4]e,f
+Erdafitinib [III, B]f,g
+ChT [IV, C]h,i,j
+
+Enfortumab–vedotin
+[III, B; MCBS 4]e,f
+Platinum-based ChT [IV, B]
+
+Figure 3. Management of patients with metastatic bladder cancer.
+Purple: general categories or stratiﬁcation; blue: systemic anticancer therapy; white: other aspects of management.
+ChT, chemotherapy; EMA, European Medicines Agency; FDA, Food and Drug Administration; FGFR, ﬁbroblast growth factor receptor; ICI, immune checkpoint inhibitor;
+PD-L1, programmed death-ligand 1; MCBS, ESMO-Magnitude of Clinical Beneﬁt Scale.
+a
+Creatinine clearance <60 ml/min or World Health Organization (WHO) performance status 2 or comorbidity [neuropathy/hearing loss >grade 2 and New York Heart
+Association (NYHA) class III heart failure].
+b
+Re-challenge with platinum-based ChT may be considered if progression occurred 12 months after the end of previous platinum-based ChT or 12 months after the
+end of previous platinum-based ChT and maintenance avelumab.
+c
+For progressive disease on ChT or after the completion of ChT where maintenance avelumab was not given.
+d
+This should be assessed within 10 weeks of completion of ChT.
+e
+ESMO-MCBS v1.1120 was used to calculate scores for new therapies/indications approved by the EMA or the FDA. The scores have been calculated by the ESMO-MCBS
+Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/scale-evaluation-forms-v1.0-v1.1/scale-evaluationforms-v1.1).
+f
+FDA approved; not currently EMA approved.
+g
+With selected FGFR DNA fusions and mutations.
+h
+Platinum doublets should be recommended if the treatment-free interval from the last platinum ChT is >1 year.
+i
+To be considered when other therapies are not available.
+j
+Paclitaxel, docetaxel or vinﬂunine should be used.
+
+Well-tolerated durable responses were observed with both
+immunotherapy drugs; however, in randomised trials, ChT
+had higher RRs and longer PFS while immunotherapy had
+longer duration of response.82,83 Median OS (mOS) was not
+better with the use of ICIs. The PD-L1 biomarker for pembrolizumab (22C3) was not associated with improved outcomes compared with the biomarker negatives; the authors
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+question this approach. Final data from randomised trials
+with durvalumab are similar with no OS beneﬁt.73
+Treatment should continue for 2 years for pembrolizumab
+and until progression for atezolizumab. Treatment postprogression is not recommended.
+Platinum-based ChT followed by maintenance avelumab
+is preferential compared with upfront ICIs in PD-L1
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+251
+
+T. Powles et al.
+
+Annals of Oncology
+biomarker-positive patients. No consensus could be reached
+for ICIs in PD-L1 biomarker-negative patients not eligible for
+any ChT.
+Data for enfortumabevedotin (EV) with pembrolizumab
+in ﬁrst-line cisplatin-ineligible population are encouraging
+but no recommendations can be proposed due to the small
+size of the study (n ¼ 43).84
+Maintenance avelumab, started within 10 weeks of
+completion of ﬁrst-line platinum-based ChT, is associated
+with an OS advantage compared with best supportive care
+in patients who did not have disease progression after four
+to six cycles of gemcitabine plus cisplatin or carboplatin, and
+is recommended (HR 0.69, 95% CI 0.56-0.86) [I, A;
+ESMO-Magnitude of Clinical Beneﬁt Scale (ESMO-MCBS)
+v1.1 score: 4] (Figure 3).85,86 An increase in mOS from 14 to
+21 months was observed with avelumab. Treatment was
+given until progression.
+Treatment of relapsed advanced/metastatic UC
+Pembrolizumab has a signiﬁcant survival advantage
+compared with ChT in patients with tumours which have
+relapsed after platinum-based therapy and did not
+receive previous immunotherapy [mOS: 10.3 for pembrolizumab and 7.4 months for ChT (HR 0.73, 95% CI
+0.59-0.91)] [I, A; ESMO-MCBS v1.1 score: 4] (Figure 3).
+Responses were more frequent and durable for pembrolizumab compared with ChT (21% versus 11%,
+respectively).87 An update with a minimum follow-up of 5
+years showed 3-year response duration of 44% for pembrolizumab compared with 28.3% for ChT [I, A].87,88 The
+IMVigor211 trial explored atezolizumab in PD-L1
+biomarker-positive tumours in this population and failed
+to show a signiﬁcant OS advantage. Results in the
+intention-to-treat population favoured atezolizumab, but
+statistical signiﬁcance could not be drawn due to the
+study design (HR 0.85, 95% CI 0.73-0.99). The drug was
+associated with an RR of 13%.89 In a recent updated
+analysis, atezolizumab showed a 30-month OS of 18%
+compared with 10% for ChT.90 Phase I-IV trials for atezolizumab exist in this population and the results are
+consistent.91-93 For these reasons, the authors support
+the use of atezolizumab in this setting [II, B] with a
+weaker recommendation than for pembrolizumab.
+Three other drugs (nivolumab [III, B], durvalumab [III, C]
+and avelumab [III, C]) have data from single-arm trials.94-96
+Durable responses occurred in w15%-20% of patients. It is
+premature to assume that all these drugs have the same
+activity in this setting.
+Treatment with further ChT for platinum-refractory disease
+is an alternative for patients in whom anti-programmed cell
+death protein 1/PD-L1 therapy is not possible. This approach
+is, however, not clearly associated with a survival beneﬁt.
+Vinﬂunine [II, C], docetaxel [III, C] and paclitaxel [III, C] can be
+considered,97,98 although vinﬂunine is the only EMA-approved
+agent. Combinations with taxanes may be considered
+as an option in selected patients.99 Retreatment with
+platinum-based ChT for those tumours that relapse >1 year
+252
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+after previous ChT is a reasonable option, particularly where
+ICI therapy is not available [IV, B].
+Erdaﬁtinib is a pan-FGFR tyrosine kinase inhibitor of
+FGFR1-4 that has been tested in a phase II trial in 99
+patients with locally advanced or metastatic previously
+treated UC and FGFR DNA genomic alterations (FGFR2 or 3
+fusions, or FGFR3 mutations). In this trial, 45% of patients
+had previously received only ﬁrst-line platinum-based ChT.9
+In a recent update with a median follow-up of 24 months,
+conﬁrmed RR in all populations was 39% in ChT-relapsed/refractory patients. Median PFS (mPFS) and mOS were 5.5
+months (95% CI 4.0-5.7) and 10.6 months (95% CI 9.0-14.7),
+respectively, in ChT-relapsed/-refractory patients.9,100
+mPFS and mOS were 5.5 months (95% CI 4.0-5.7)
+and 10.6 months (95% CI 9.0-14.7), respectively, in
+ChT-relapsed/-refractory patients.9,100 Erdaﬁtinib is
+recommended in platinum-refractory tumours with FGFR
+alterations [III, B]. No consensus could be reached on
+whether second-line ICI therapy or erdaﬁtinib should be
+used in preference in these patients.
+Treatment of tumours that have relapsed after ﬁrst-line
+immunotherapy
+There are no prospective randomised data regarding
+treatment of patients with progression of disease after ICIs
+in advanced UC. Retrospective data support the use of
+standard ﬁrst-line platinum-based therapy [IV, B].101 RRs
+and PFS are in line with those seen for ﬁrst-line
+platinum-based ChT. Recommendations are similar to
+those for front-line ChT. Gemcitabine with cisplatin or
+carboplatin are the preferred regimens.
+EV is an antibody drug conjugate targeting nectin-4.
+Monomethyl auristatin E is the payload drug within this
+molecule (microtubule-disrupting agent). A single-arm
+phase II trial for EV in this population shows RRs of 52%,
+PFS of 5.8 months (95% CI 5.0-8.3) and OS of 14.7 months
+(95% CI 10.5-18.2).102 This agent can, therefore, be
+recommended as an alternative to ChT in this population
+irrespective of nectin-4 expression [III, B].
+Treatment of ChT and immunotherapy-relapsed disease
+This population included third-line therapy after the
+sequence of platinum-based ChT and ICIs. It also included
+second-line therapy after ﬁrst-line ChT and maintenance
+avelumab. EV has been tested in phase II and phase III trials
+in advanced disease UC after progression with ChT and ICIs.
+Conﬁrmed RRs were 44% (95% CI 35% to 53%) in the phase
+II study.103 The phase III trial showed superior RRs
+(41% versus 17%), PFS (HR 0.62, 95% CI 0.51-0.75) and OS
+(HR 0.70, 95% CI 0.56-0.89; 12.8 versus 9.0 months) for EV
+versus ChT (vinﬂunine or taxanes).104 Grade 3 or more
+adverse events of special interest associated with the new
+class of drug were rash (15%), peripheral neuropathy (5%)
+and hyperglycaemia (4%). EV should be considered the
+standard of care in this population, which includes patients
+with progression of disease after ﬁrst-line ChT and
+maintenance avelumab [I, A].
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+T. Powles et al.
+
+Annals of Oncology
+
+The erdaﬁtinib phase II trial described previously
+included 22 patients whose tumours had progressed after
+immunotherapy and ChT. The RR to erdaﬁtinib was 59% in
+this population. mPFS and mOS were 5.7 months (95% CI
+4.9-8.3) and 10.9 months (95% CI 8.0-21.1), respectively.100
+Therefore, erdaﬁtinib is also recommended, with less robust
+evidence, in this FGFR-selected population [III, B].
+ChT (taxanes or vinﬂunine) is a less attractive alternative to
+EV or erdaﬁtinib in patients who have had progressive disease on platinum-based ChT and ICIs (RR of 21%) [IV, C].105
+UTUC
+UTUCs account for only 5%-10% of UCs.106,107 Multifocal
+tumours are found in 10%-20% of UTUC cases.108 The
+presence of concomitant CIS of the upper tract is between
+11% and 36%.107
+At ﬁrst diagnosis, 60% of UTUCs are invasive compared
+with 15%-25% of bladder tumours.109 The most common
+histological type is UC; variants are present in up to 25% of
+the cases.110 The most common symptom is haematuria
+(70%-80%) or ﬂank pain (10%-20%).111,112
+The key investigations for UTUC are CT urography and
+diagnostic ureteroscopy. During the ureteroscopy, an in situ
+cytology sample of the upper tract should be collected,
+despite the fact that cytology is less sensitive for UTUC than
+UC of the bladder.113
+UTUCs invading the muscle wall usually have a poor prognosis. The 5-year cancer-speciﬁc survival is <50% for patients
+with pT2-pT3 tumours and <10% for those with pT4.114-116
+UTUCs are stratiﬁed into two risk categories, low- and
+high-risk tumours. Low-risk tumours include unifocal
+tumours of <1 cm, LG disease at cytology/biopsy and
+no invasive features on CT urography. High-risk tumours are
+>2 cm, with possible hydronephrosis, HG disease at
+cytology/biopsy, multifocal disease, variant histology or
+previous RC for bladder cancer.116
+Kidney-sparing management, such as endoscopic
+laser ablation, should be offered as primary treatment
+option to patients with low-risk UTUC. High-risk UTUC
+patients should undergo open or laparoscopic radical
+nephroureterectomy with bladder cuff excision regardless
+of tumour location [II, B].109
+There are limited studies in UTUC evaluating systemic
+therapy in patients with locally advanced or metastatic
+disease. Most of the clinical decision making is extrapolated from evidence of the bladder literature and small,
+single-centre UTUC studies (<50 patients). Systemic therapy
+for advanced disease should follow the recommendations for
+urothelial bladder cancer [IV, B]. This included adjuvant
+cisplatin-based ChT. A randomised, phase III adjuvant ChT
+study [the Peri-Operative chemotherapy versus sUrveillance
+in upper Tract urothelial cancer trial (POUT): gemcitabinee
+cisplatin/carboplatin versus observation] showed improved
+DFS (HR 0.45, 95% CI 0.30-0.68) in patients with locally
+advanced UTUC (pT2-T4 pN0-N3 M0 or pT any N1-3 M0).117
+The study was not powered for OS (HR 0.7, 95% CI
+0.46-1.06). There is evidence to support the use of adjuvant
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+cisplatin-based ChT, based on the POUT data and the OS
+meta-analysis for cisplatin-based treatment of urothelial
+bladder cancer [II, C]. The role of adjuvant carboplatin-based
+treatment is not fully elucidated due to power limitations on
+the analyses for the subgroup of patients included in the
+POUT trial. Therefore, adjuvant carboplatin-based ChT should
+not be recommended at the present time in this setting
+[II, D]. The role for adjuvant ICIs in this population is
+controversial. Patients with UTUC who were included in
+CheckMate 274 study seemed to beneﬁt less from adjuvant
+nivolumab compared with the bladder tumour counterpart
+and OS data are unavailable. Therefore, at the present time,
+ICIs cannot be recommended in this setting.64
+Recommendations
+Treatment of advanced or metastatic UC in patients ﬁt
+enough to tolerate cisplatin-based combination ChT
+ Cisplatin-based ChT [I, A] followed by maintenance
+avelumab in those tumours not progressing on ChT is
+the standard of care [I, A; ESMO-MCBS v1.1 score: 4].
+Treatment of advanced or metastatic UC in patients not
+eligible for cisplatin-based combination ChT
+ Gemcitabine/carboplatin [II, B] followed by maintenance
+avelumab (in those tumours not progressing on ChT) for
+those not eligible for cisplatin-based therapy is the
+standard of care [I, A].
+ Atezolizumab or pembrolizumab are alternatives for
+patients with PD-L1 biomarker-positive tumours who
+are not eligible for cisplatin-based combination ChT.
+The level of evidence, however, is weaker than for ChT
+followed by maintenance avelumab and this approach
+requires careful consideration [III, B].
+Treatment of relapsed advanced/metastatic UC
+ Pembrolizumab has the most robust data for treatment
+in the setting of progression of disease after
+platinum-based ChT [I, A; ESMO-MCBS v1.1 score: 4].
+Other ICIs such as atezolizumab can be given with less
+robust evidence [II, B-III, C].
+ Erdaﬁtinib is an alternative to ICIs in tumours with FGFR
+alterations. This has weaker levels of evidence than
+pembrolizumab [III, B].
+ ChT can be considered instead of best supportive care
+when other options are not available (vinﬂunine [II, C];
+taxanes [III, C]).
+Treatment of tumours that relapse after ﬁrst-line
+single-agent immunotherapy
+ Randomised data are lacking in immunotherapyrefractory disease. EV [III, B; ESMO-MCBS v1.1 score: 4]
+or platinum-based ChT [IV, B] should be given.
+Treatment of ChT and immunotherapy-relapsed disease
+ EV is recommended as standard treatment in this
+population [I, A; ESMO-MCBS v1.1 score: 4].
+ Erdaﬁtinib is an alternative in patients with FGFR
+alterations with a weaker level of evidence [III, B].
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+253
+
+T. Powles et al.
+
+Annals of Oncology
+ ChT can be considered instead of best supportive care
+[IV, B], if clinically appropriate.
+ Retreatment with ChT for those patients that relapse
+after all other treatment options can be considered.
+Single-agent taxane therapy or vinﬂunine can be
+considered [IV, C].
+
+Regular (3-4 months) cross-sectional imaging should occur
+for 2 years upon completion of systemic therapy. Bone
+scans/MRI may be required if CT cannot address these
+adequately [IV, B].
+
+Treatment of UTUC
+ Kidney-sparing management should be offered to
+low-risk UTUC and radical nephroureterectomy with
+bladder cuff excision for high-risk UTUC [II, B].
+ Systemic therapy recommendations for advanced UTUC
+should follow those for advanced bladder cancer [IV, B].
+ There is evidence to support the use of adjuvant cisplatinbased ChT based on the POUT data and the OS
+meta-analysis for cisplatin-based treatment of UC [II, C].
+
+ Follow-up for NMIBC requires regular cystoscopic
+examination according to the patient’s risk category [IV, A].
+ Follow-up after curative therapy for MIBC requires
+cross-sectional imaging for 5 years. This should include
+3-4 monthly imaging for the ﬁrst 2 years. Bladdersparing approaches also require regular cystoscopy [IV, B].
+ Follow-up during and after systemic therapy for
+advanced UC should focus on regular cross-sectional
+imaging of the chest, abdomen and pelvis and other
+target lesions [IV, B].
+
+Recommendations
+
+FOLLOW-UP AND LONG-TERM IMPLICATIONS
+NMIBC
+
+METHODOLOGY
+
+There is no generally accepted follow-up protocol as
+recommendations are mainly based on retrospective data.
+Therefore, the frequency and duration of cystoscopy and
+subsequent imaging should reﬂect the individual patient’s
+degree of risk of recurrence and progression [IV, B].11,118 In
+all patients with a new diagnosis of Ta-T1 tumours
+and/or CIS, the ﬁrst cystoscopy should be carried out at
+3-month intervals [IV, B].119 Regular cystoscopy and
+cytology is subsequently recommended every 3-6 months
+during the ﬁrst 2 years of follow-up, and every 6-12 months
+thereafter. Regular upper tract imaging (CT intravenous
+urography) is recommended for high-risk tumours.
+
+This Clinical Practice Guideline (CPG) was developed in
+accordance with the European Society for Medical
+Oncology (ESMO) standard operating procedures for Clinical
+Practice Guideline development (http://www.esmo.org/
+Guidelines/ESMO-Guidelines-Methodology). The relevant
+literature has been selected by the expert authors. An ESMOMCBS table with MCBS scores is included in Supplementary
+Table S7, available at https://doi.org/10.1016/j.annonc.
+2021.11.012. ESMO-MCBS v1.1120 was used to calculate
+scores for new therapies/indications approved by the EMA
+and/or the FDA (https://www.esmo.org/Guidelines/ESMOMCBS). The scores have been calculated by the ESMOMCBS Working Group and validated by the ESMO Guidelines Committee. The FDA/EMA approval status of new
+therapies/indications is correct at the time of writing this
+CPG. Levels of evidence and grades of recommendation have
+been applied using the system shown in Supplementary
+Table S8, available at https://doi.org/10.1016/j.annonc.
+2021.11.012.121 Statements without grading were considered justiﬁed standard clinical practice by the authors.
+
+MIBC
+There is no generally accepted follow-up protocol for
+muscle-invasive UC [IV, B]. Current surveillance protocols
+are based on patterns of recurrence drawn from
+retrospective series. Imaging of the chest, upper tract,
+abdomen and pelvis should be carried out to detect relapse
+after potentially curative therapy every 3-4 months for 2
+years, and then every 6-12 months up to 5 years [IV, B].57
+The beneﬁts of follow-up beyond 5 years are unclear and
+it is reasonable to discharge patients. UTUC occurs in
+4%-10% of cases after RC;32 hence, regular upper tract
+imaging is recommended [IV, B].
+After bladder-sparing procedures with curative intent,
+such as trimodal therapy, follow-up must investigate for
+local as well as systemic relapses. Cystoscopic examination
+should be carried out every 3-6 months for the ﬁrst 5 years.
+CT of the thorax and abdomen is recommended as the
+imaging method for follow-up every 3-4 months for the ﬁrst
+2 years, and then every 6 months up to 5 years [IV, B].57 The
+role of surveillance beyond 5 years is uncertain.
+
+ACKNOWLEDGEMENTS
+Manuscript editing support was provided by Richard Lutz,
+Louise Green and Jennifer Lamarre (ESMO staff). Nathan
+Cherny, Chair of the ESMO-MCBS Working Group, Urani
+Dafni, ESMO-MCBS Working Group Member/Frontier
+Science Foundation Hellas, and Giota Zygoura of Frontier
+Science Foundation Hellas provided review and validation
+of the ESMO-MCBS scores. Nicola Latino (ESMO Scientiﬁc
+Affairs staff) provided coordination and support of the
+ESMO-MCBS scores and preparation of the ESMO-MCBS
+table.
+FUNDING
+
+Advanced/metastatic disease
+Response evaluation every 2-3 months should occur for
+those patients on systemic therapy for advanced disease.
+254
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+No external funding has been received for the preparation
+of these guidelines. Production costs have been covered by
+ESMO from central funds.
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+T. Powles et al.
+
+Annals of Oncology
+
+DISCLOSURE
+TP has received research funding from Merck Serono,
+Merck, Sharp & Dohme (MSD), Roche, Bristol Myers Squibb
+(BMS), AstraZeneca, Astellas, Novartis, Johnson and Johnson, Seattle Genetics, Pﬁzer, Exelixis and Eisai and honoraria
+from Merck Serono, MSD, Roche, BMS, AstraZeneca,
+Astellas, Novartis, Johnson and Johnson, Seattle Genetics,
+Pﬁzer, Exelixis and Eisai; JB has received honoraria for
+participation in advisory boards from Pﬁzer, AstraZeneca,
+Merck and BMS, invited speaker fees from Merck, Genentech and MSD, royalties from UpToDate, institutional
+research funding as principal investigator (PI) for MSD and
+Pﬁzer, research funding from Takeda and non-remunerated
+activities as steering committee member of the IMvigor 011
+study; EC has received honoraria from Jansen for invited
+speaker and non-remunerated activities in an advisory role
+for the EAU guidelines; MDS has received honoraria for
+participation in advisory boards and as an invited speaker
+for 4D, AAA, Amgen, Astellas, AstraZeneca, Basilea, Bayer,
+Bioclin, BMS, EISAI, Ferring, Immunomedics, Ipsen, Janssen,
+MSD, Merck Serono, Novartis, Pﬁzer, Pierre Fabre Oncology,
+Roche, Sandoz, Sanoﬁ, SeaGen and Amgen and institutional
+research as PI and steering committee member for Basilea,
+AstraZeneca, MSD, Merck, EISAI, Astellas, SeaGen, Exelixis,
+Ipsen, Roche, Immunomedics, Janssen and Calithera; RH has
+received honoraria for participation in advisory boards for
+Roche, Nektar, BMS, MSD and Astellas, expert testimony for
+National Institute of Clinical Excellence and partnership in
+the Cancer Centre London, institutional royalties received
+from Janssen, research grants from MSD and Roche, local PI
+for Roche, MSD, Basilea and Cancer Research UK; patient
+funding from Astellas and steering committee member with
+Cancer Research UK; YL has received honoraria for lectures,
+presentations, speaker’s bureau, manuscript writing or
+educational events from BMS, Pﬁzer, Merck KGaA, MSD,
+AstraZeneca, Roche, Jansen, Astellas, Seattle Genetics and
+Immunomedics and support for attending meetings and/or
+travel grants from BMS, Roche, AstraZeneca, MSD and
+Pﬁzer; AN has received institutional research grants from
+Merck, AstraZeneca, Ipsen and BMS and has undertaken
+personal research as a steering committee member for
+Roche, Janssen, Bayer, Astellas, AstraZeneca, Merck and
+Clovis Oncology; BPV has received honoraria for advisory
+boards for Pﬁzer, Astellas Pharma, BMS, Ipsen, EUSA
+Pharma, Sanoﬁ-Aventis and Merck and has been an invited
+speaker for Janssen, Pﬁzer, BMS, Roche, Bayer, EUSA
+Pharma, MSD and Merck; AR has received honoraria for
+advisory boards for Pﬁzer, Merck GA, BMS, Ipsen, MSD and
+AstraZeneca and has been an invited speaker for Pﬁzer,
+Merck GA, BMS, Ipsen and MSD and has received institutional grants from Pﬁzer, Merck GA and Ipsen; SFS has
+received honoraria for participation in advisory boards for
+Astellas, Janssen, MSD, AstraZeneca, Bayer, BMS, Cepheid,
+Ferring Pharmaceuticals, Ipsen, Lilly, Olympus, Pﬁzer, Pierre
+Fabre, Richard Wolf, Roche, Sanochemia, Sanoﬁ, Takeda and
+UroGen; BS has received honoraria from Ellipses, Ipsen,
+Merck, Pﬁzer and Roche and has received travel and
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+research funding from BMS, Genentech, MSD, Pﬁzer and
+Roche; MSvdH has received honoraria (paid to institute) for
+participation in advisory boards for BMS, Roche, Seagen,
+AstraZeneca, Janssen, Pﬁzer and MSD, stock ownership with
+Gilead; and institutional research funding from BMS, Roche,
+AstraZeneca and 4SC; SG has received personal honoraria
+for participation in advisory boards for Sanoﬁ, Orion, Roche,
+Amgen, MSD and Aranda; other honoraria from RSI
+Televisione Svizzera Italiana); has been an invited speaker
+for ESMO, SAKK, SAMO, Orikata and CACA-GU, speaker’s
+bureau for Janssen Cilag; travel grant from ProteoMEdiX,
+institutional honoraria for advisory boards for Bayer,
+Janssen Cilag, Roche and AAA International including
+Independent Data Monitoring Committee; steering committee for Amgen, Menarini Silicon Biosystems, Astellas
+Pharma, Tolero Pharmaceuticals, MSD, Pﬁzer, Telixpharma,
+BMS and Orion and has received a patent, royalties and
+other intellectual property from Method for Biomarker
+WO2009138392.
+
+REFERENCES
+1. Bray F, Ferlay J, Soerjomataram I, et al. Global cancer statistics 2018:
+GLOBOCAN estimates of incidence and mortality worldwide for 36
+cancers in 185 countries. CA Cancer J Clin. 2018;68(6):394-424.
+2. van Osch FH, Jochems SH, van Schooten FJ, et al. Quantiﬁed relations
+between exposure to tobacco smoking and bladder cancer risk: a
+meta-analysis of 89 observational studies. Int J Epidemiol. 2016;45(3):
+857-870.
+3. Burger M, Catto JW, Dalbagni G, et al. Epidemiology and risk factors
+of urothelial bladder cancer. Eur Urol. 2013;63(2):234-241.
+4. Grifﬁths TR, Charlton M, Neal DE, et al. Treatment of carcinoma in
+situ with intravesical bacillus Calmette-Guerin without maintenance.
+J Urol. 2002;167(6):2408-2412.
+5. Hara T, Takahashi M, Gondo T, et al. Risk of concomitant carcinoma in
+situ determining biopsy candidates among primary non-muscleinvasive bladder cancer patients: retrospective analysis of 173
+Japanese cases. Int J Urol. 2009;16(3):293-298.
+6. Trinh TW, Glazer DI, Sadow CA, et al. Bladder cancer diagnosis with CT
+urography: test characteristics and reasons for false-positive and
+false-negative results. Abdom Radiol (NY). 2018;43(3):663-671.
+7. Humphrey PA, Moch H, Cubilla AL, et al. The 2016 WHO classiﬁcation
+of tumours of the urinary system and male genital organs-part B:
+prostate and bladder tumours. Eur Urol. 2016;70(1):106-119.
+8. Yaﬁ FA, Brimo F, Steinberg J, et al. Prospective analysis of sensitivity
+and speciﬁcity of urinary cytology and other urinary biomarkers for
+bladder cancer. Urol Oncol. 2015;33(2):66.e25-66.e31.
+9. Loriot Y, Necchi A, Park SH, et al. Erdaﬁtinib in locally advanced or
+metastatic urothelial carcinoma. N Engl J Med. 2019;381(4):338-348.
+10. Sfakianos JP, Cha EK, Iyer G, et al. Genomic characterization of upper
+tract urothelial carcinoma. Eur Urol. 2015;68(6):970-977.
+11. Sylvester RJ, van der Meijden AP, Oosterlinck W, et al. Predicting
+recurrence and progression in individual patients with stage Ta T1
+bladder cancer using EORTC risk tables: a combined analysis of 2596
+patients from seven EORTC trials. Eur Urol. 2006;49(3):466-475.
+discussion 475-467.
+12. Cambier S, Sylvester RJ, Collette L, et al. EORTC Nomograms and risk
+groups for predicting recurrence, progression, and disease-speciﬁc
+and overall survival in non-muscle-invasive stage Ta-T1 urothelial
+bladder cancer patients treated with 1-3 years of maintenance bacillus Calmette-Guerin. Eur Urol. 2016;69(1):60-69.
+13. Rieken M, Xylinas E, Kluth L, et al. Long-term cancer-speciﬁc outcomes of TaG1 urothelial carcinoma of the bladder. Eur Urol.
+2014;65(1):201-209.
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+255
+
+T. Powles et al.
+
+Annals of Oncology
+14. Shariat SF, Karakiewicz PI, Palapattu GS, et al. Outcomes of radical
+cystectomy for transitional cell carcinoma of the bladder: a
+contemporary series from the Bladder Cancer Research Consortium.
+J Urol. 2006;176(6 Pt 1):2414-2422. discussion 2422.
+15. Shariat SF, Rink M, Ehdaie B, et al. Pathologic nodal staging score for
+bladder cancer: a decision tool for adjuvant therapy after radical
+cystectomy. Eur Urol. 2013;63(2):371-378.
+16. Siegel C. Bladder cancer: analysis of multi-detector row helical CT
+enhancement pattern and accuracy in tumor detection and perivesical staging. J Urol. 2005;174(4 Pt 1):1250-1251.
+17. Yang WT, Lam WW, Yu MY, et al. Comparison of dynamic helical CT
+and dynamic MR imaging in the evaluation of pelvic lymph nodes in
+cervical carcinoma. AJR Am J Roentgenol. 2000;175(3):759-766.
+18. Barentsz JO, Engelbrecht MR, Witjes JA, et al. MR imaging of the male
+pelvis. Eur Radiol. 1999;9(9):1722-1736.
+19. Dorfman RE, Alpern MB, Gross BH, et al. Upper abdominal lymph
+nodes: criteria for normal size determined with CT. Radiology.
+1991;180(2):319-322.
+20. Woo S, Panebianco V, Narumi Y, et al. Diagnostic performance of
+vesical imaging reporting and data system for the prediction of
+muscle-invasive bladder cancer: a systematic review and meta-analysis. Eur Urol Oncol. 2020;3(3):306-315.
+21. Stimson CJ, Cookson MS, Barocas DA, et al. Preoperative hydronephrosis predicts extravesical and node positive disease in patients
+undergoing cystectomy for bladder cancer. J Urol. 2010;183(5):17321737.
+22. Swinnen G, Maes A, Pottel H, et al. FDG-PET/CT for the preoperative
+lymph node staging of invasive bladder cancer. Eur Urol. 2010;57(4):
+641-647.
+23. Sylvester RJ, Oosterlinck W, Holmang S, et al. Systematic review and
+Individual patient data meta-analysis of randomized trials comparing
+a single immediate instillation of chemotherapy after transurethral
+resection with transurethral resection alone in patients with stage
+pTa-pT1 urothelial carcinoma of the bladder: which patients beneﬁt
+from the instillation? Eur Urol. 2016;69(2):231-244.
+24. Malmstrom PU, Sylvester RJ, Crawford DE, et al. An individual patient
+data meta-analysis of the long-term outcome of randomised studies
+comparing intravesical mitomycin C versus bacillus Calmette-Guerin
+for non-muscle-invasive bladder cancer. Eur Urol. 2009;56(2):247256.
+25. Oddens J, Brausi M, Sylvester R, et al. Final results of an EORTC-GU
+cancers group randomized study of maintenance bacillus CalmetteGuerin in intermediate- and high-risk Ta, T1 papillary carcinoma of
+the urinary bladder: one-third dose versus full dose and 1 year versus
+3 years of maintenance. Eur Urol. 2013;63(3):462-472.
+26. Cumberbatch MGK, Foerster B, Catto JWF, et al. Repeat transurethral
+resection in non-muscle-invasive bladder cancer: a systematic review.
+Eur Urol. 2018;73(6):925-933.
+27. Kamat AM, Sylvester RJ, Bohle A, et al. Deﬁnitions, end points, and
+clinical trial designs for non-muscle-invasive bladder cancer: recommendations from the International Bladder Cancer Group. J Clin
+Oncol. 2016;34(16):1935-1944.
+28. Arends TJ, van der Heijden AG, Witjes JA. Combined chemohyperthermia: 10-year single center experience in 160 patients with
+nonmuscle invasive bladder cancer. J Urol. 2014;192(3):708-713.
+29. Tan WS, Panchal A, Buckley L, et al. Radiofrequency-induced thermochemotherapy effect versus a second course of bacillus CalmetteGuerin or Institutional Standard in patients with recurrence of nonmuscle-invasive bladder cancer following induction or maintenance
+bacillus Calmette-Guerin therapy (HYMN): a Phase III, open-label,
+randomised controlled trial. Eur Urol. 2019;75(1):63-71.
+30. Balar AV, Kamat AM, Kulkarni GS, et al. Pembrolizumab monotherapy
+for the treatment of high-risk non-muscle-invasive bladder cancer
+unresponsive to BCG (KEYNOTE-057): an open-label, single-arm,
+multicentre, phase 2 study. Lancet Oncol. 2021;22(7):919-930.
+31. Boorjian SA, Alemozaffar M, Konety BR, et al. Intravesical nadofaragene ﬁradenovec gene therapy for BCG-unresponsive non-muscleinvasive bladder cancer: a single-arm, open-label, repeat-dose clinical
+trial. Lancet Oncol. 2021;22(1):107-117.
+
+256
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+32. Gakis G, Black PC, Bochner BH, et al. Systematic review on the fate of
+the remnant urothelium after radical cystectomy. Eur Urol.
+2017;71(4):545-557.
+33. Lee RK, Abol-Enein H, Artibani W, et al. Urinary diversion after radical
+cystectomy for bladder cancer: options, patient selection, and outcomes. BJU Int. 2014;113(1):11-23.
+34. Simone G, Papalia R, Ferriero M, et al. Stage-speciﬁc impact of
+extended versus standard pelvic lymph node dissection in radical
+cystectomy. Int J Urol. 2013;20(4):390-397.
+35. Bruins HM, Veskimae E, Hernandez V, et al. The impact of the extent
+of lymphadenectomy on oncologic outcomes in patients undergoing
+radical cystectomy for bladder cancer: a systematic review. Eur Urol.
+2014;66(6):1065-1077.
+36. Gschwend JE, Heck MM, Lehmann J, et al. Extended versus limited
+lymph node dissection in bladder cancer patients undergoing radical
+cystectomy: survival results from a prospective, randomized trial. Eur
+Urol. 2019;75(4):604-611.
+37. Shariat SF, Ehdaie B, Rink M, et al. Clinical nodal staging scores for
+bladder cancer: a proposal for preoperative risk assessment. Eur Urol.
+2012;61(2):237-242.
+38. Afferi L, Zamboni S, Karnes RJ, et al. The impact of treatment modality
+on survival in patients with clinical node-positive bladder cancer:
+results from a multicenter collaboration. World J Urol. 2021;39(2):
+443-451.
+39. Abufaraj M, Dalbagni G, Daneshmand S, et al. The role of surgery in
+metastatic bladder cancer: a systematic review. Eur Urol. 2018;73(4):
+543-557.
+40. Abufaraj M, Al-Ani A, AlQudah A, et al. Surgical intervention in patients with urothelial carcinoma of the bladder and lymph node
+metastasis. Curr Opin Urol. 2021;31(3):220-225.
+41. Tarin TV, Power NE, Ehdaie B, et al. Lymph node-positive bladder
+cancer treated with radical cystectomy and lymphadenectomy: effect
+of the level of node positivity. Eur Urol. 2012;61(5):1025-1030.
+42. Coppin CM, Gospodarowicz MK, James K, et al. Improved local control of invasive bladder cancer by concurrent cisplatin and preoperative or deﬁnitive radiation. The National Cancer Institute of Canada
+Clinical Trials Group. J Clin Oncol. 1996;14(11):2901-2907.
+43. Hoskin PJ, Rojas AM, Bentzen SM, et al. Radiotherapy with concurrent
+carbogen and nicotinamide in bladder carcinoma. J Clin Oncol.
+2010;28(33):4912-4918.
+44. James ND, Hussain SA, Hall E, et al. Radiotherapy with or without
+chemotherapy in muscle-invasive bladder cancer. N Engl J Med.
+2012;366(16):1477-1488.
+45. Ploussard G, Daneshmand S, Efstathiou JA, et al. Critical analysis of
+bladder sparing with trimodal therapy in muscle-invasive bladder
+cancer: a systematic review. Eur Urol. 2014;66(1):120-137.
+46. Schuettfort VM, Pradere B, Quhal F, et al. Incidence and outcome of
+salvage cystectomy after bladder sparing therapy for muscle invasive
+bladder cancer: a systematic review and meta-analysis. World J Urol.
+2021;39(6):1757-1768.
+47. Feldman AS, Kulkarni GS, Bivalacqua TJ, et al. Surgical challenges and
+considerations in Tri-modal therapy for muscle invasive bladder
+cancer. Urol Oncol. 2021. https://doi.org/10.1016/j.urolonc.2021.01.
+013. In press.
+48. Rodel C, Grabenbauer GG, Kuhn R, et al. Combined-modality treatment and selective organ preservation in invasive bladder cancer:
+long-term results. J Clin Oncol. 2002;20(14):3061-3071.
+49. Shipley WU, Zietman AL, Kaufman DS, et al. Selective bladder preservation by trimodality therapy for patients with muscularis propriainvasive bladder cancer and who are cystectomy candidates–the
+Massachusetts General Hospital and Radiation Therapy Oncology
+Group experiences. Semin Radiat Oncol. 2005;15(1):36-41.
+50. Seisen T, Sun M, Lipsitz SR, et al. Comparative effectiveness of trimodal therapy versus radical cystectomy for localized muscle-invasive
+urothelial carcinoma of the bladder. Eur Urol. 2017;72(4):483-487.
+51. Vashistha V, Wang H, Mazzone A, et al. Radical cystectomy compared
+to combined modality treatment for muscle-invasive bladder cancer:
+a systematic review and meta-analysis. Int J Radiat Oncol Biol Phys.
+2017;97(5):1002-1020.
+
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+T. Powles et al.
+
+Annals of Oncology
+
+52. Advanced Bladder Cancer Meta-analysis Collaboration. Neoadjuvant
+chemotherapy in invasive bladder cancer: update of a systematic
+review and meta-analysis of individual patient data advanced bladder
+cancer (ABC) meta-analysis collaboration. Eur Urol. 2005;48(2):202205. discussion 205-206.
+53. Zargar H, Shah JB, van Rhijn BW, et al. Neoadjuvant dose dense MVAC
+versus gemcitabine and cisplatin in patients with cT3-4aN0M0
+bladder cancer treated with radical cystectomy. J Urol. 2018;199(6):
+1452-1458.
+54. Galsky MD, Pal SK, Chowdhury S, et al. Comparative effectiveness of
+gemcitabine plus cisplatin versus methotrexate, vinblastine, doxorubicin, plus cisplatin as neoadjuvant therapy for muscle-invasive
+bladder cancer. Cancer. 2015;121(15):2586-2593.
+55. Pﬁster C, Gravis G, Flechon A, et al. Randomized phase III trial of
+dose-dense methotrexate, vinblastine, doxorubicin, and cisplatin, or
+gemcitabine and cisplatin as perioperative chemotherapy for patients
+with muscle-invasive bladder cancer. Analysis of the GETUG/AFU V05
+VESPER Trial secondary endpoints: chemotherapy toxicity and pathological responses. Eur Urol. 2021;79(2):214-221.
+56. Grossman HB, Natale RB, Tangen CM, et al. Neoadjuvant chemotherapy plus cystectomy compared with cystectomy alone for locally
+advanced bladder cancer. N Engl J Med. 2003;349(9):859-866.
+57. Horwich A, Babjuk M, Bellmunt J, et al. EAU-ESMO consensus
+statements on the management of advanced and variant bladder
+cancer-an international collaborative multi-stakeholder effort: under
+the auspices of the EAU and ESMO Guidelines Committees. Ann
+Oncol. 2019;30(11):1697-1727.
+58. Abufaraj M, Foerster B, Schernhammer E, et al. Micropapillary urothelial carcinoma of the bladder: a systematic review and metaanalysis of disease characteristics and treatment outcomes. Eur
+Urol. 2019;75(4):649-658.
+59. Powles T, Kockx M, Rodriguez-Vida A, et al. Clinical efﬁcacy and
+biomarker analysis of neoadjuvant atezolizumab in operable urothelial carcinoma in the ABACUS trial. Nat Med. 2019;25(11):1706-1714.
+60. Necchi A, Anichini A, Raggi D, et al. Pembrolizumab as neoadjuvant
+therapy before radical cystectomy in patients with muscle-invasive
+urothelial bladder carcinoma (PURE-01): an open-label, single-arm,
+phase II study. J Clin Oncol. 2018;36(34):3353-3360.
+61. Leow JJ, Martin-Doyle W, Rajagopal PS, et al. Adjuvant chemotherapy
+for invasive bladder cancer: a 2013 updated systematic review and
+meta-analysis of randomized trials. Eur Urol. 2014;66(1):42-54.
+62. Sternberg CN, Skoneczna I, Kerst JM, et al. Immediate versus deferred
+chemotherapy after radical cystectomy in patients with pT3-pT4 or
+Nþ M0 urothelial carcinoma of the bladder (EORTC 30994): an
+intergroup, open-label, randomised phase 3 trial. Lancet Oncol.
+2015;16(1):76-86.
+63. Bellmunt J, Hussain M, Gschwend JE, et al. Adjuvant atezolizumab
+versus observation in muscle-invasive urothelial carcinoma (IMvigor010): a multicentre, open-label, randomised, phase 3 trial. Lancet
+Oncol. 2021;22(4):525-537.
+64. Bajorin DF, Witjes JA, Gschwend JE, et al. Adjuvant nivolumab versus
+placebo in muscle-invasive urothelial carcinoma. N Engl J Med.
+2021;384(22):2102-2114.
+65. von der Maase H, Hansen SW, Roberts JT, et al. Gemcitabine and
+cisplatin versus methotrexate, vinblastine, doxorubicin, and cisplatin
+in advanced or metastatic bladder cancer: results of a large, randomized, multinational, multicenter, phase III study. J Clin Oncol.
+2000;18(17):3068-3077.
+66. Loehrer PJ Sr, Einhorn LH, Elson PJ, et al. A randomized comparison of
+cisplatin alone or in combination with methotrexate, vinblastine, and
+doxorubicin in patients with metastatic urothelial carcinoma: a
+cooperative group study. J Clin Oncol. 1992;10(7):1066-1073.
+67. Sternberg CN, de Mulder P, Schornagel JH, et al. Seven year update of
+an EORTC phase III trial of high-dose intensity M-VAC chemotherapy
+and G-CSF versus classic M-VAC in advanced urothelial tract tumours.
+Eur J Cancer. 2006;42(1):50-54.
+68. Bellmunt J, von der Maase H, Mead GM, et al. Randomized phase III
+study comparing paclitaxel/cisplatin/gemcitabine and gemcitabine/
+cisplatin in patients with locally advanced or metastatic urothelial
+
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+cancer without prior systemic therapy: EORTC Intergroup Study
+30987. J Clin Oncol. 2012;30(10):1107-1113.
+Rosenberg JE, Ballman KV, Halabi S, et al. CALGB 90601 (Alliance):
+randomized, double-blind, placebo-controlled phase III trial
+comparing gemcitabine and cisplatin with bevacizumab or placebo in
+patients with metastatic urothelial carcinoma. J Clin Oncol.
+2019;37(suppl 15):4503.
+Rosenberg JE, Ballman KA, Halabi S, et al. Randomized phase III trial
+of gemcitabine and cisplatin with bevacizumab or placebo in patients
+with advanced urothelial carcinoma: results of CALGB 90601 (Alliance). J Clin Oncol. 2021;39(22):2486-2496.
+Powles T, Csoszi T, Ozguroglu M, et al. Pembrolizumab alone or
+combined with chemotherapy versus chemotherapy as ﬁrst-line
+therapy for advanced urothelial carcinoma (KEYNOTE-361): a randomised, open-label, phase 3 trial. Lancet Oncol. 2021;22(7):931-945.
+Galsky MD, Arija JAA, Bamias A, et al. Atezolizumab with or without
+chemotherapy in metastatic urothelial cancer (IMvigor130): a multicentre, randomised, placebo-controlled phase 3 trial. Lancet.
+2020;395(10236):1547-1557.
+Powles T, van der Heijden MS, Castellano D, et al. Durvalumab alone
+and durvalumab plus tremelimumab versus chemotherapy in
+previously untreated patients with unresectable, locally advanced or
+metastatic urothelial carcinoma (DANUBE): a randomised, open-label,
+multicentre, phase 3 trial. Lancet Oncol. 2020;21(12):1574-1588.
+Galsky MD, Hahn NM, Rosenberg J, et al. Treatment of patients with
+metastatic urothelial cancer “unﬁt” for Cisplatin-based chemotherapy. J Clin Oncol. 2011;29(17):2432-2438.
+De Santis M, Bellmunt J, Mead G, et al. Randomized phase II/III trial
+assessing gemcitabine/carboplatin and methotrexate/carboplatin/
+vinblastine in patients with advanced urothelial cancer who are unﬁt
+for cisplatin-based chemotherapy: EORTC study 30986. J Clin Oncol.
+2012;30(2):191-199.
+Morales-Barrera R, Bellmunt J, Suarez C, et al. Cisplatin and gemcitabine administered every two weeks in patients with locally
+advanced or metastatic urothelial carcinoma and impaired renal
+function. Eur J Cancer. 2012;48(12):1816-1821.
+Kim YR, Lee JL, You D, et al. Gemcitabine plus split-dose cisplatin
+could be a promising alternative to gemcitabine plus carboplatin for
+cisplatin-unﬁt patients with advanced urothelial carcinoma. Cancer
+Chemother Pharmacol. 2015;76(1):141-153.
+Mourey L, Flechon A, Tosi D, et al. Vefora, GETUG-AFU V06 study:
+randomized multicenter phase II/III trial of fractionated cisplatin (CI)/
+gemcitabine (G) or carboplatin (CA)/g in patients (pts) with advanced
+urothelial cancer (UC) with impaired renal function (IRF)dresults of a
+planned interim analysis. J Clin Oncol. 2020;38(suppl 6):461.
+Sonpavde GP, Mariani L, Lo Vullo S, et al. Impact of the number of
+cycles of platinum based ﬁrst line chemotherapy for advanced urothelial carcinoma. J Urol. 2018;200(6):1207-1214.
+Alva A, Cs}
+oszi T, Ozguroglu M, et al. LBA23 Pembrolizumab (P)
+combined with chemotherapy (C) vs C alone as ﬁrst-line (1L) therapy
+for advanced urothelial carcinoma (UC): KEYNOTE-361. Ann Oncol.
+2020;31:S1155.
+Galsky MD, Bamias A, Arija JAA, et al. Atezolizumab (atezo) monotherapy versus chemotherapy in previously untreated locally
+advanced or metastatic urothelial carcinoma (mUC): clinical outcomes by PD-L1 status in cisplatin (cis)-ineligible pts from the phase
+III IMvigor130 study. J Clin Oncol. 2021;39(suppl 6):434.
+Vuky J, Balar AV, Castellano D, et al. Long-term outcomes in KEYNOTE052: phase II study investigating ﬁrst-line pembrolizumab in cisplatinineligible patients with locally advanced or metastatic urothelial
+cancer. J Clin Oncol. 2020;38(23):2658-2666.
+Balar AV, Galsky MD, Rosenberg JE, et al. Atezolizumab as ﬁrst-line
+treatment in cisplatin-ineligible patients with locally advanced and
+metastatic urothelial carcinoma: a single-arm, multicentre, phase 2
+trial. Lancet. 2017;389(10064):67-76.
+Rosenberg JE, Flaig TW, Friedlander TW, et al. Study EV-103: preliminary durability results of enfortumab vedotin plus pembrolizumab
+for locally advanced or metastatic urothelial carcinoma. J Clin Oncol.
+2020;38(suppl 6):441.
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+257
+
+T. Powles et al.
+
+Annals of Oncology
+85. Powles T, Park SH, Voog E, et al. Maintenance avelumab þ best
+supportive care (BSC) versus BSC alone after platinum-based ﬁrst-line
+(1L) chemotherapy in advanced urothelial carcinoma (UC): JAVELIN
+Bladder 100 phase III interim analysis. J Clin Oncol. 2020;38(suppl 18):
+LBA1.
+86. Powles T, Park SH, Voog E, et al. Avelumab maintenance therapy for
+advanced or metastatic urothelial carcinoma. N Engl J Med.
+2020;383(13):1218-1230.
+87. Bellmunt J, Necchi A, De Wit R, et al. Pembrolizumab (pembro) versus
+investigator’s choice of paclitaxel, docetaxel, or vinﬂunine in recurrent, advanced urothelial cancer (UC): 5-year follow-up from the
+phase 3 KEYNOTE-045 trial. J Clin Oncol. 2021;39(suppl 15):4532.
+88. Necchi A, Fradet Y, Bellmunt J, et al. 919PdThree-year follow-up
+from the phase III KEYNOTE-045 trial: pembrolizumab (Pembro)
+versus investigator’s choice (paclitaxel, docetaxel, or vinﬂunine) in
+recurrent, advanced urothelial cancer (UC). Ann Oncol. 2019;30:v366v367.
+89. Powles T, Duran I, van der Heijden MS, et al. Atezolizumab versus
+chemotherapy in patients with platinum-treated locally advanced
+or metastatic urothelial carcinoma (IMvigor211): a multicentre, openlabel, phase 3 randomised controlled trial. Lancet. 2018;391(10122):
+748-757.
+90. Van der Heijden MS. 2600dAtezolizumab (atezo) vs chemotherapy
+(chemo) in patients (pts) with platinum-treated locally advanced or
+metastatic urothelial carcinoma (mUC): a long-term overall survival
+(OS) and safety update from the Phase III IMvigor211 study. Ann
+Oncol. 2019;30:356-402.
+91. Petrylak DP, Powles T, Bellmunt J, et al. Atezolizumab (MPDL3280A)
+monotherapy for patients with metastatic urothelial cancer: longterm outcomes from a phase 1 study. JAMA Oncol. 2018;4(4):537544.
+92. Rosenberg JE, Hoffman-Censits J, Powles T, et al. Atezolizumab in
+patients with locally advanced and metastatic urothelial carcinoma
+who have progressed following treatment with platinum-based
+chemotherapy: a single-arm, multicentre, phase 2 trial. Lancet.
+2016;387(10031):1909-1920.
+93. Sternberg CN, Loriot Y, James N, et al. Primary results from SAUL, a
+multinational single-arm safety study of atezolizumab therapy for
+locally advanced or metastatic urothelial or nonurothelial carcinoma
+of the urinary tract. Eur Urol. 2019;76(1):73-81.
+94. Sharma P, Retz M, Siefker-Radtke A, et al. Nivolumab in metastatic
+urothelial carcinoma after platinum therapy (CheckMate 275): a
+multicentre, single-arm, phase 2 trial. Lancet Oncol. 2017;18(3):312322.
+95. Massard C, Gordon MS, Sharma S, et al. Safety and efﬁcacy of durvalumab (MEDI4736), an anti-programmed cell death ligand-1 immune checkpoint inhibitor, in patients with advanced urothelial
+bladder cancer. J Clin Oncol. 2016;34(26):3119-3125.
+96. Patel MR, Ellerton J, Infante JR, et al. Avelumab in metastatic urothelial carcinoma after platinum failure (JAVELIN Solid Tumor): pooled
+results from two expansion cohorts of an open-label, phase 1 trial.
+Lancet Oncol. 2018;19(1):51-64.
+97. Bellmunt J, Theodore C, Demkov T, et al. Phase III trial of vinﬂunine
+plus best supportive care compared with best supportive care alone
+after a platinum-containing regimen in patients with advanced
+transitional cell carcinoma of the urothelial tract. J Clin Oncol.
+2009;27(27):4454-4461.
+98. Sonpavde G, Pond GR, Choueiri TK, et al. Single-agent taxane versus
+taxane-containing combination chemotherapy as salvage therapy for
+advanced urothelial carcinoma. Eur Urol. 2016;69(4):634-641.
+99. Raggi D, Miceli R, Sonpavde G, et al. Second-line single-agent versus
+doublet chemotherapy as salvage therapy for metastatic urothelial
+cancer: a systematic review and meta-analysis. Ann Oncol.
+2016;27(1):49-61.
+100. Siefker-Radtke AO, Necchi A, Park SH, et al. ERDAFITINIB in locally
+advanced or metastatic urothelial carcinoma (mUC): long-term outcomes in BLC2001. J Clin Oncol. 2020;38(suppl 15):5015.
+101. Gomez de Liano Lista A, van Dijk N, de Velasco Oria de Rueda G, et al.
+Clinical outcome after progressing to frontline and second-line anti-
+
+258
+
+https://doi.org/10.1016/j.annonc.2021.11.012
+
+102.
+
+103.
+
+104.
+
+105.
+
+106.
+
+107.
+
+108.
+
+109.
+
+110.
+
+111.
+
+112.
+
+113.
+
+114.
+
+115.
+
+116.
+
+117.
+
+118.
+
+119.
+
+120.
+121.
+
+PD-1/PD-L1 in advanced urothelial cancer. Eur Urol. 2020;77(2):269276.
+Balar AV, McGregor BA, Rosenberg JE, et al. EV-201 Cohort 2:
+enfortumab vedotin in cisplatin-ineligible patients with locally
+advanced or metastatic urothelial cancer who received prior PD-1/
+PD-L1 inhibitors. J Clin Oncol. 2021;39(suppl 6):394.
+Rosenberg JE, O’Donnell PH, Balar AV, et al. Pivotal trial of enfortumab vedotin in urothelial carcinoma after platinum and antiprogrammed death 1/programmed death ligand 1 therapy. J Clin
+Oncol. 2019;37(29):2592-2600.
+Powles T, Rosenberg JE, Sonpavde GP, et al. Enfortumab vedotin in
+previously treated advanced urothelial carcinoma. N Engl J Med.
+2021;384(12):1125-1135.
+Szabados B, van Dijk N, Tang YZ, et al. Response rate to chemotherapy
+after immune checkpoint inhibition in metastatic urothelial cancer.
+Eur Urol. 2018;73(2):149-152.
+Munoz JJ, Ellison LM. Upper tract urothelial neoplasms: incidence
+and survival during the last 2 decades. J Urol. 2000;164(5):15231525.
+Soria F, Shariat SF, Lerner SP, et al. Epidemiology, diagnosis, preoperative evaluation and prognostic assessment of upper-tract urothelial carcinoma (UTUC). World J Urol. 2017;35(3):379-387.
+Cosentino M, Palou J, Gaya JM, et al. Upper urinary tract urothelial
+cell carcinoma: location as a predictive factor for concomitant bladder
+carcinoma. World J Urol. 2013;31(1):141-145.
+Margulis V, Shariat SF, Matin SF, et al. Outcomes of radical nephroureterectomy: a series from the Upper Tract Urothelial Carcinoma
+Collaboration. Cancer. 2009;115(6):1224-1233.
+Rink M, Robinson BD, Green DA, et al. Impact of histological variants
+on clinical outcomes of patients with upper urinary tract urothelial
+carcinoma. J Urol. 2012;188(2):398-404.
+Inman BA, Tran VT, Fradet Y, et al. Carcinoma of the upper urinary
+tract: predictors of survival and competing causes of mortality. Cancer. 2009;115(13):2853-2862.
+Raman JD, Shariat SF, Karakiewicz PI, et al. Does preoperative
+symptom classiﬁcation impact prognosis in patients with
+clinically localized upper-tract urothelial carcinoma managed
+by radical nephroureterectomy? Urol Oncol. 2011;29(6):716723.
+Messer J, Shariat SF, Brien JC, et al. Urinary cytology has a poor
+performance for predicting invasive or high-grade upper-tract urothelial carcinoma. BJU Int. 2011;108(5):701-705.
+Abouassaly R, Alibhai SM, Shah N, et al. Troubling outcomes from
+population-level analysis of surgery for upper tract urothelial carcinoma. Urology. 2010;76(4):895-901.
+Jeldres C, Sun M, Isbarn H, et al. A population-based assessment of
+perioperative mortality after nephroureterectomy for upper-tract
+urothelial carcinoma. Urology. 2010;75(2):315-320.
+Lughezzani G, Burger M, Margulis V, et al. Prognostic factors in upper
+urinary tract urothelial carcinomas: a comprehensive review of the
+current literature. Eur Urol. 2012;62(1):100-114.
+Birtle A, Johnson M, Chester J, et al. Adjuvant chemotherapy in upper
+tract urothelial carcinoma (the POUT trial): a phase 3, open-label,
+randomised controlled trial. Lancet. 2020;395(10232):1268-1277.
+Fernandez-Gomez J, Madero R, Solsona E, et al. Predicting nonmuscle
+invasive bladder cancer recurrence and progression in patients
+treated with bacillus Calmette-Guerin: the CUETO scoring model.
+J Urol. 2009;182(5):2195-2203.
+Palou J, Rodriguez-Rubio F, Millan F, et al. Recurrence at three
+months and high-grade recurrence as prognostic factor of progression
+in multivariate analysis of T1G2 bladder tumors. Urology. 2009;73(6):
+1313-1317.
+Cherny NI, Dafni U, Bogaerts J, et al. ESMO-Magnitude of Clinical
+Beneﬁt Scale version 1.1. Ann Oncol. 2017;28(10):2340-2366.
+Dykewicz CA. Summary of the guidelines for preventing opportunistic
+infections among hematopoietic stem cell transplant recipients. Clin
+Infect Dis. 2001;33(2):139-144 (adapted from: Gross PA. Barrett TL,
+Dellinger EP, et al. Purpose of quality standards for infectious diseases. Clin Infect Dis. 1994;1918:1421).
+
+Volume 33
+
+-
+
+Issue 3
+
+-
+
+2022
+
+
