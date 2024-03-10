@@ -1,0 +1,796 @@
+Penile Cancer
+EAU-ASCO Collaborative Guidelines
+Brouwer, O et al.
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+2
+
+Overview
+1. Background & Methodology
+• Introduction
+• Guideline Development Methodology
+
+2. Summary of Recommendations
+3. Additional Information
+•
+•
+•
+•
+
+Additional Resources
+Guideline Panel Members
+Abbreviations
+Disclaimer
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+1
+
+Background & Methodology
+
+4
+
+Introduction
+• Penile cancer is a rare disease, but it has a significant impact on QoL in many ways.
+• Patients not only suffer the psychological and emotional stress of a cancer diagnosis and
+what that means for the rest of their lives, but also the psychological impact and stigma of
+cancer on an intimate part of the body.
+• The Guideline Panel strongly recommends that these emotional, social, and physical
+needs are discussed and addressed early in the patient pathway, through a holistic and
+multi-disciplinary approach.
+• This guideline is the result of a collaboration between the EAU and the ASCO, presenting
+a complete revision of the prior version(s), with the aim to offer worldwide physician and
+patient guidance in the management of this rare disease.
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+5
+
+Guideline Development Methodology
+• The guideline development process includes:
+▪ a systematic literature review by guidelines staff
+▪ an expert panel provides critical review and evidence interpretation to inform
+guideline recommendations
+▪ final guideline approval by EAU Guidelines Office Board and ASCO EBMC
+• The EAU Guidelines Development Handbook can be found at: https://uroweb.org/eauguidelines/methodology-policies
+• The ASCO Guideline Methodology Manual can be found at: www.asco.org/guidelinemethodology
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+2
+
+Summary of Recommendations
+
+7
+
+Summary of Recommendations
+Pathological Assessment of Tumour Specimens
+
+Strength of
+Recommendation
+
+• The pathological evaluation of penile carcinoma specimens must include the
+pTNM stage and an assessment of tumour grade.
+
+Strong
+
+• The pathological evaluation of penile carcinoma specimens must include an
+assessment of p16 by immunohistochemistry.
+
+Strong
+
+• The pathological evaluation of penile carcinoma specimens should follow the
+ICCR dataset synoptic report.
+
+Strong
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+8
+
+Summary of Recommendations
+Diagnostic Evaluation and Staging Recommendations:
+Primary Tumor
+
+Strength of
+Recommendation
+
+• Perform a detailed physical examination of the penis and external genitalia,
+recording morphology, size and location of the penile lesion, including extent and
+invasion of penile (adjacent) structures.
+
+Strong
+
+• Perform MRI of the penis/primary tumour (artificial erection not mandatory) when
+there is uncertainty regarding corporal invasion and/or the feasibility of (organsparing) surgery. If MRI is not available, offer US as alternative option.
+
+Weak
+
+• Obtain a pre-treatment biopsy of the primary lesion when malignancy is not
+clinically obvious, or when non-surgical treatment of the primary lesion is planned
+(e.g., topical agents, laser, radiotherapy).
+
+Strong
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+9
+
+Summary of Recommendations
+Diagnostic Evaluation and Staging Recommendations:
+Inguinal Lymph Nodes
+• Perform a physical examination of both groins. Record the number, laterality and
+characteristics of any palpable/suspicious inguinal nodes.
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+Strength of
+Recommendation
+
+Strong
+
+10
+
+Summary of Recommendations
+Diagnostic Evaluation and Staging Recommendations:
+Clinically Node-Negative (cN )
+
+Strength of
+Recommendation
+
+• If there are no palpable/suspicious nodes (cN0) at physical examination, offer
+surgical LN staging to all patients at high risk of having micro-metastatic disease
+(T1b or higher).
+
+Strong
+
+• In case of T1a G2 disease, also discuss surveillance as an alternative to surgical
+staging with patients willing to comply with strict follow-up.
+
+Weak
+
+• When surgical staging is indicated, offer DSNB. If DSNB is not available and
+referral is not feasible, or if preferred by the patient after being well informed, offer
+ILND (open or video-endoscopic).
+
+Strong
+
+• If DSNB is planned, perform inguinal US first, with FNAC of sonographically
+abnormal LNs.
+
+Strong
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+11
+
+Summary of Recommendations
+Diagnostic Evaluation and Staging Recommendations:
+Clinically Node-Positive (cN+)
+
+Strength of
+Recommendation
+
+• If there is a palpable/suspicious node at physical examination (cN+), obtain
+(image-guided) biopsy to confirm nodal metastasis before initiating treatment.
+
+Strong
+
+• In cN+ patients, stage the pelvis and exclude distant metastases with 18FDG-PET
+CT or CT of the chest and abdomen before initiating treatment.
+
+Strong
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+12
+
+Summary of Recommendations
+Local Treatment of Penile Carcinoma
+
+Strength of
+Recommendation
+
+• Offer a balanced and individualised discussion on benefits and harms of possible
+treatments options with the goal of shared decision making.
+
+Strong
+
+• Inform patients of the higher risk of local recurrence when using organ-sparing
+treatments compared to amputative surgery.
+
+Strong
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+13
+
+Summary of Recommendations
+Local Treatment of Penile Carcinoma: Topical Therapy
+
+Strength of
+Recommendation
+
+• Offer topical therapy with 5-fluorouracil or imiquimod to patients with biopsyconfirmed PeIN.
+
+Weak
+
+• Clinically assess treatment effects after a treatment-free interval and in cases of
+doubt perform a biopsy. If topical treatment fails, it should not be repeated.
+
+Weak
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+14
+
+Summary of Recommendations
+Local Treatment of Penile Carcinoma: Laser Ablation
+• Offer laser ablation using CO2 or Nd:YAG laser to patients with biopsy-confirmed
+PeIN, Ta or T1 lesions.
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+Strength of
+Recommendation
+
+Weak
+
+15
+
+Summary of Recommendations
+Local Treatment of Penile Carcinoma
+Organ-Sparing Treatment: Surgery (Circumcision, Wide
+Local Excision, Glansectomy and Glans Resurfacing)
+
+Strength of
+Recommendation
+
+• Offer organ-sparing surgery and reconstructive techniques to patients with lesions
+confined to the glans and prepuce (PeIN, Ta, T1–T2) and who are willing to
+comply with strict follow-up.
+
+Strong
+
+• Perform intra-operative frozen section analysis of resection margins in cases of
+doubt on the completeness of resection.
+
+Weak
+
+• Offer salvage organ-sparing surgery to patients with small recurrences not
+involving the corpora cavernosa.
+
+Weak
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+16
+
+Summary of Recommendations
+Local Treatment of Penile Carcinoma
+Organ-Sparing Treatment: Radiotherapy (EBRT and
+Brachytherapy)
+• Offer radiotherapy to selected patients with biopsy-confirmed T1 or T2 lesions.
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+Strength of
+Recommendation
+
+Strong
+
+17
+
+Summary of Recommendations
+Local Treatment of Penile Carcinoma
+Amputative Surgery (Partial- and Total Penectomy
+
+Strength of
+Recommendation
+
+• Offer partial penectomy, with or without reconstruction, to patients with invasion of
+the corpora cavernosa (T3) and those not willing to undergo organ-sparing
+surgery or not willing to comply with strict follow-up.
+
+Strong
+
+• Offer total penectomy with perineal urethrostomy to patients with large invasive
+tumours not amenable to partial amputation.
+
+Strong
+
+• Offer amputative surgery to patients with large local recurrences or corpora
+cavernosa involvement.
+
+Weak
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+18
+
+Summary of Recommendations
+Local Treatment of Penile Carcinoma: Multimodal Therapy
+• Offer induction chemotherapy followed by surgery to responders, or chemoradiotherapy to patients with non-resectable advanced primary lesions, or to
+patients with locally advanced-disease who refuse surgical management.
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+Strength of
+Recommendation
+
+Weak
+
+19
+
+Summary of Recommendations
+Radical Inguinal Lymph Node Dissection in cN1-2 Disease
+
+Strength of
+Recommendation
+
+• In patients with cN1 disease offer either ipsilateral:
+▪ fascial-sparing inguinal lymph node dissection
+
+Strong
+
+▪ open radical ILND; sparing the saphenous vein, if possible
+
+• In patients with cN2 disease offer ipsilateral open radical ILND; sparing the
+saphenous vein, if possible.
+
+Strong
+
+• Offer minimally-invasive inguinal LN dissection to patients with cN1–2 disease
+only as part of a clinical trial.
+
+Strong
+
+• Offer chemotherapy as an alternative approach to upfront surgery in selected
+patients with bulky mobile inguinal nodes or bilateral disease (cN2) who are
+candidates for cisplatin and taxane-based chemotherapy.
+
+Weak
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+20
+
+Summary of Recommendations
+Radical Inguinal Lymph Node Dissection in cN1-2 Disease
+(continued)
+• Complete surgical inguinal and pelvic nodal management within 3 months of
+diagnosis (unless the patient has undergone prior neoadjuvant chemotherapy).
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+Strength of
+Recommendation
+
+Weak
+
+21
+
+Summary of Recommendations
+Prophylactic Pelvic Lymph Node Dissection
+• Offer open or minimally-invasive prophylactic ipsilateral pelvic lymphadenectomy
+to patients if:
+
+Strength of
+Recommendation
+
+Weak
+
+▪ three or more inguinal nodes are involved on one side on pathological examination
+▪ extranodal extension is reported on pathological examination
+
+• Complete surgical inguinal and pelvic nodal management within 3 months of
+diagnosis (unless the patient has undergone neoadjuvant chemotherapy).
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+Weak
+
+22
+
+Summary of Recommendations
+Surgical Management of cN3 Disease
+
+Strength of
+Recommendation
+
+• Offer neoadjuvant chemotherapy (NAC) using a cisplatin- and taxane-based
+combination to chemotherapy-fit patients with pelvic lymph node involvement or
+those with extensive inguinal involvement (cN3), in preference to up front surgery.
+
+Weak
+
+• Offer surgery to patients responding to NAC in whom resection is feasible.
+
+Strong
+
+• Offer surgery to patients who have not progressed during NAC, but resection is
+feasible. See also (chemo)radiation.
+
+Weak
+
+• Do not offer Video Endoscopic Inguinal lymphadenectomy.
+
+Strong
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+23
+
+Summary of Recommendations
+Neoadjuvant and Adjuvant Chemotherapy
+
+Strength of
+Recommendation
+
+• Offer neoadjuvant chemotherapy using a cisplatin- and taxane-based combination
+to chemotherapy-fit patients with pelvic lymph node involvement or those with
+extensive inguinal involvement (cN3), in preference to up front surgery.
+
+Weak
+
+• Offer chemotherapy as an alternative approach to upfront surgery to selected
+patients with bulky mobile inguinal nodes or bilateral disease (cN2) who are
+candidates for cisplatin and taxane-based chemotherapy.
+
+Weak
+
+• Have a balanced discussion of risks and benefits of adjuvant chemotherapy with
+high-risk patients with surgically resected disease, in particular with those with
+pathological pelvic LN involvement (pN3). See also section on post-operative
+radiotherapy.
+
+Weak
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+24
+
+Summary of Recommendations
+Pre- and Post-Operative Radiotherapy
+
+Strength of
+Recommendation
+
+• Offer adjuvant radiotherapy (with or without chemo sensitisation) to patients with
+pN2/N3 disease, including those who received prior neoadjuvant chemotherapy.
+
+Weak
+
+• Offer definitive radiotherapy (with or without chemo sensitisation) to patients
+unwilling or unable to undergo surgery for lymph node dissection.
+
+Weak
+
+• Offer radiotherapy (with or without chemo sensitisation) to cN3 patients who are
+not candidates for multi-agent chemotherapy.
+
+Weak
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+25
+
+Summary of Recommendations
+Systemic and Palliative Therapies for Advanced Penile
+Cancer
+Systemic Therapies
+
+Strength of
+Recommendation
+
+• Offer patients with distant metastatic disease, platinum-based chemotherapy as
+the preferred approach to first-line palliative systemic therapy.
+
+Weak
+
+• Do not offer bleomycin because of the pulmonary toxicity risk.
+
+Strong
+
+• Offer patients with progressive disease under platinum chemotherapy the
+opportunity to enroll in clinical trials, including experimental therapies within
+phase I or basket trials.
+
+Strong
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+26
+
+Summary of Recommendations
+Systemic and Palliative Therapies for Advanced Penile
+Cancer
+Radiotherapy
+• Offer radiotherapy for symptom control (palliation) in advanced disease.
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+Strength of
+Recommendation
+
+Strong
+
+27
+
+Summary of Recommendations
+Follow-Up and Quality of Life
+
+Strength of
+Recommendation
+
+• Deliver penile cancer care as part of an extended multi-disciplinary team
+comprising of urologists specialising in penile cancer, specialist nurses,
+pathologists, uro-radiologists, nuclear medicine specialists, medical and radiation
+oncologists, lymphoedema therapists, psychologists, counsellors, palliative care
+teams for early symptom control, reconstructive surgeons, vascular surgeons,
+sex therapists.
+
+Strong
+
+• Follow-up men after penile cancer treatment, initially three-monthly for 2 years
+then less frequently to assess for recurrent disease and to offer patient support
+services through the extended multi-disciplinary team. At discharge, recommend
+self-examination with easy access back to the clinic as local recurrence can
+occur late.
+
+Strong
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+28
+
+Summary of Recommendations
+Follow-Up and Quality of Life (continued)
+• Discuss the psychological impact of penile cancer and its treatments with the
+patient and offer psychological support and counselling services.
+• Discuss the negative impact of treatments for the primary tumour on penile
+appearance, sensation, urinary and sexual function so that the patient is better
+prepared for the challenges he may face.
+• Discuss the potential impact of lymphoedema as a consequence of inguinal and
+pelvic lymph node treatment with the patient and assess patients for it at follow-up
+and refer to lymphoedema therapists early.
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+Strength of
+Recommendation
+
+Strong
+
+Strong
+
+Strong
+
+3
+
+Additional Resources
+
+30
+
+Additional Resources
+• Additional information is available at
+https://uroweb.org/guidelines/penile-cancer and
+www.asco.org/genitourinary-cancer-guidelines.
+• Patient information is available at www.cancer.net.
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+31
+
+Guideline Panel Members
+Name
+
+Affiliation
+
+Oscar R. Brouwer, MD, PhD chair
+Scott T. Tagawa, MD, MS, co-chair
+Maarten Albersen, MD, PhD
+Tiago Antunes-Lopes, MD, PhD
+Benjamin Ayres, MBChB, PhD
+Lenka Barreto, MUDr
+Riccardo Campi, MD, PhD
+Juanita Crook, MD
+Sergio Fernández-Pello, MD, PhD
+Herney A. Garcia-Perdomo, MD, PhD
+Isabella Greco, MD
+
+The Netherlands Cancer Institute, Antoni van Leeuwenhoek Hospital, Amsterdam, The Netherlands
+Division of Hematology and Medical Oncology, Weill Cornell Medical College, New York, NY, USA
+Department of Urology, University Hospitals Leuven, Leuven, Belgium
+Department of Urology, Hospital de S. João, Porto, Portugal
+Department of Urology, St George's University Hospitals NHS Foundation Trust, London, UK;
+Department of Urology, University Hospital Nitra, Nitra, Slovakia
+Unit of Oncologic Minimally-Invasive Urology and Andrology, Careggi University Hospital, San Luca Nuovo, Florence, Italy
+University of British Columbia, British Columbia Cancer Agency, Kelowna, British Columbia, Canada
+Department of Urology, Cabueñes University Hospital, Gijón, Spain
+Division of Urology/Uro-oncology, Department of Surgery, School of Medicine, Universidad Del Valle, Cali, Colombia
+Department of Urological Minimally Invasive and Robotic Surgery and Kidney Transplantation, Careggi Hospital, University of Florence,
+Florence, Italy
+Departments of Radiation Oncology and Health Outcomes and Behavior, Moffitt Cancer Center, Tampa, FL, USA
+Patient Advocate, ORCHID, UK
+Multicancer Fighter Patient Advocate, Us TOO, New York, NY, USA
+Department of Urology and Medical Oncology, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy
+Department of Pathology, The Christie NHS Foundation Trust, Manchester, UK
+Centre for the Research and Technology of Agro-Environmental and Biological Sciences (CITAB), University of Trásos-Montes and Alto
+Douro, UTAD, Vila Real, Portugal
+Veterinary Sciences Department, University of Trás-os-Montes and Alto Douro, UTAD, Vila Real, Portugal
+Patient Advocate, ORCHID, UK
+
+Peter A.S. Johnstone, MD
+Kenneth Manzie
+Jack David Marcus, MPH, MSW
+Andrea Necchi, MD, PhD
+Pedro Oliveira, DDS, MD, PhD
+
+John Osborne
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+32
+
+Guideline Panel Members (cont.)
+Name
+
+Affiliation
+
+Lance C. Pagliaro, MD
+Arie Parnham, MBChB
+Curtis A. Pettaway, MD
+Chris Protzel, MD, PhD
+Ashwin Sachdeva, MD, PhD
+Vasileios I. Sakalis, MD, PhD
+Diego F. Sánchez Martínez, MD
+Philippe E. Spiess, MD, PhD
+Michiel S. van der Heijden, MD, PhD
+Łukasz Zapala, MD, PhD
+R. Bryan Rumble, MSc
+
+Department of Oncology, Mayo Clinic, Rochester, MN, USA
+Department of Urology, The Christie NHS Foundation Trust, Manchester, UK
+The University of Texas MD Anderson Cancer Center, Houston, TX, USA
+Helios Clinics Schwerin, Schwerin, Germany
+Division of Cancer Sciences, University of Manchester, Manchester, UK
+Department of Urology, Agios Pavlos General Hospital, Thessaloniki, Greece
+Universidad Nacional de Asuncion Facultad de Ciencias Medicas: Asuncion, Gran Asunción, Paraguay
+Department of Genitourinary Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL, USA
+Department of Medical Oncology, Netherlands Cancer Institute, Amsterdam, The Netherlands
+Department of Urology, Medical University of Warsaw, Warsaw, Poland
+American Society of Clinical Oncology, Alexandria, VA, USA
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+33
+
+Abbreviations
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+• FNAC, fine needle aspiration cytology
+positron emission tomography
+• ICCR, International Collaboration on Cancer
+ASCO, American Society of Clinical Oncology Reporting
+cN+, clinically-node positive
+• ILND, inguinal lymph node dissection
+cN0, clinically-node negative
+• LN, lymph node
+cN1, clinical N1 disease
+• MRI, magnetic resonance imaging
+cN2, clinical N2 disease
+• NAC, neoadjuvant chemotherapy
+cN3, clinical N3 disease
+• PeIN, penile intra-epithelial neoplasia
+CT, computed tomography
+• QoL, quality of life
+DSNB, dynamic sentinel node biopsy
+• US, ultrasound
+EAU, European Association of Oncology
+EBMC, Evidence Based Medicine Committee
+EBRT, external beam radiotherapy
+18FDG-PET, 18F-fluoro-2-deoxy-D-glucose
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+34
+
+Disclaimer
+The Clinical Practice Guidelines and other guidance published herein are provided by the American Society of Clinical
+Oncology, Inc. (ASCO) to assist providers in clinical decision making. The information herein should not be relied upon as
+being complete or accurate, nor should it be considered as inclusive of all proper treatments or methods of care or as a
+statement of the standard of care. With the rapid development of scientific knowledge, new evidence may emerge
+between the time information is developed and when it is published or read. The information is not continually updated and
+may not reflect the most recent evidence. The information addresses only the topics specifically identified therein and is
+not applicable to other interventions, diseases, or stages of diseases. This information does not mandate any particular
+course of medical care. Further, the information is not intended to substitute for the independent professional judgment of
+the treating provider, as the information does not account for individual variation among patients. Recommendations
+specify the level of confidence that the recommendation reflects the net effect of a given course of action. The use of
+words like “must,” “must not,” “should,” and “should not” indicates that a course of action is recommended or not
+recommended for either most or many patients, but there is latitude for the treating physician to select other courses of
+action in individual cases. In all cases, the selected course of action should be considered by the treating provider in the
+context of treating the individual patient. Use of the information is voluntary. ASCO does not endorse third party drugs,
+devices, services, or therapies used to diagnose, treat, monitor, manage, or alleviate health conditions. Any use of a brand
+or trade name is for identification purposes only. ASCO provides this information on an “as is” basis and makes no
+warranty, express or implied, regarding the information. ASCO specifically disclaims any warranties of merchantability or
+fitness for a particular use or purpose. ASCO assumes no responsibility for any injury or damage to persons or property
+arising out of or related to any use of this information, or for any errors or omissions.
+
+www.asco.org/genitourinary-cancer-guidelines ©European Association of Urology (EAU) & American Society of Clinical Oncology (ASCO) 2023.
+All rights reserved worldwide.
+For licensing opportunities, contact licensing@asco.org
+
+
